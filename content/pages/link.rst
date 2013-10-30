@@ -1,6 +1,10 @@
 :title: Link
 :lang: en
 
+`http://localhost:8080/`_
+
+`http://localhost:8000/`_
+
 `Font Awesome`_
 
 SASS_
@@ -13,6 +17,8 @@ SASS_
 
 `前端工程日誌: Sass教學手冊`_
 
+.. _`http://localhost:8080/`: http://localhost:8080/
+.. _`http://localhost:8000/`: http://localhost:8000/
 .. _`Font Awesome`: http://fortawesome.github.io/Font-Awesome/icons/
 .. _SASS: http://sass-lang.com/
 .. _`Pelican Documentation`: http://docs.getpelican.com/
