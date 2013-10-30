@@ -4,10 +4,10 @@ Show Math By Pelican and MathJax
 :date: 2013-10-30 20:39
 :lang: en
 :tags: math
-:category: Python
+:category: Pelican
 :slug: show-math-by-pelican-and-mathjax
 :author: Siong-Ui Te
-:summary: Show math formula on Website by Pelican and MathJax
+:summary: Show Math Formula on Website by Pelican and MathJax
 :mathjax_cdn: True
 
 \\( ax^2 + bx + c = 0 \\)
