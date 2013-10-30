@@ -20,4 +20,9 @@
       {{ article.content }}
     </div>
   </article>
+  {% if article.mathjax_cdn %}
+    <script type="text/javascript"
+      src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+  {% endif %}
 {% endblock %}
