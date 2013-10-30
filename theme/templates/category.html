@@ -1,0 +1,16 @@
+{# mandatory for theme #}
+{% extends "layout.html" %}
+
+{% block title %}{{ category }} - {{ super() }}{% endblock %}
+
+{% block content %}
+  <ol class="breadcrumb">
+    <li><a href="{{SITEURL}}/categories.html">Categories</a></li>
+    <li class="active">
+      <i class="fa fa-folder-open fa-fw"></i> {{ category }}
+    </li>
+  </ol>
+  {% for article in articles %}
+    {% include 'includes/article_info.html' %}
+  {% endfor %}
+{% endblock %}

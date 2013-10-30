@@ -1,0 +1,19 @@
+{# mandatory for theme #}
+{% extends "layout.html" %}
+{% block title -%}
+  {{- page.title }} - {{ super() -}}
+{%- endblock %}
+
+{% block content %}
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h1 class="panel-title">{{ page.title }}</h1>
+    </div>
+    <div class="panel-body">
+      {% import 'translations.html' as translations with context %}
+      {{ translations.translations_for(page) }}
+
+      {{ page.content }}
+    </div>
+  </div>
+{% endblock %}

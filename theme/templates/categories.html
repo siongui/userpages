@@ -1,0 +1,19 @@
+{# mandatory for theme #}
+{% extends "layout.html" %}
+
+{% block title %}Categories - {{ super() }}{% endblock %}
+
+{% block content %}
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h3 class="panel-title">All Categories</h3>
+    </div>
+    <ul class="list-group">
+      {% for category, articles in categories %}
+        <li class="list-group-item">
+          <a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endblock %}

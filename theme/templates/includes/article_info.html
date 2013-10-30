@@ -1,0 +1,27 @@
+<article class="panel panel-info">
+  <!-- heading -->
+  <header class="panel-heading">
+    <h1 class="panel-title">
+      <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+    </h1>
+  </header>
+  <!-- body -->
+  <div class="panel-body">
+    <p class="lead">{{ article.summary }}</p>
+    <a class="btn btn-default" href="{{ SITEURL }}/{{ article.url }}">More ...</a>
+  </div>
+  <!-- footer -->
+  <footer class="panel-footer">
+    <time title="{{ article.date.isoformat() }}">
+      {{ article.locale_date }}
+    </time>
+    {% if article.author %}
+      <address>By 
+        <a rel="author" 
+           href="{{ SITEURL }}/{{ article.author.url }}">
+          {{ article.author }}
+        </a>
+      </address>
+    {% endif %}
+  </footer>
+</article>

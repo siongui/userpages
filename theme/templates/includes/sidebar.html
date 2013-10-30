@@ -1,0 +1,60 @@
+<aside>
+  <section>
+    <!-- Social Icon -->
+    {% if SOCIAL %}
+      <div class="panel a-no-underline">
+        {% for name, link in SOCIAL %}
+          <a href="{{ link }}" title="{{ name }}">
+            <i class="fa fa-{{ name }}-square fa-3x fa-fw"></i>
+          </a>
+        {% endfor %}
+        <!-- email -->
+        <a href="mailto:siongui@gmail.com" title="email">
+          <i class="fa fa-envelope fa-3x fa-fw"></i>
+        </a>
+        <!-- RSS seed -->
+        <a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" title="RSS">
+          <i class="fa fa-rss-square fa-3x fa-fw"></i>
+        </a>
+      </div>
+    {% endif %}
+
+    <!-- Tag Cloud -->
+    <div class="panel panel-default a-no-underline">
+      <div class="panel-heading">
+        <h1 class="panel-title" title="Tags">
+          <a href="{{ SITEURL }}/tags.html">
+            <i class="fa fa-tags fa-fw"></i> Tags
+          </a>
+        </h1>
+      </div>
+      <div class="panel-body">
+        {% for tag in tag_cloud %}
+          <a href="{{ SITEURL }}/{{ tag.0.url }}">
+            <span class="label label-info tag-{{ tag.1 }}">{{ tag.0 }}</span>
+          </a>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!-- Categories -->
+    <div class="panel panel-default a-no-underline">
+      <div class="panel-heading">
+        <h1 class="panel-title" title="Categories">
+          <a href="{{ SITEURL }}/categories.html">
+            <i class="fa fa-list fa-fw"></i> Categories
+          </a>
+        </h1>
+      </div>
+      <ul class="list-group">
+        {% for category, articles in categories %}
+          <li class="list-group-item" title="{{ category }}">
+            <a href="{{ SITEURL }}/category/{{ category | lower }}.html">
+              {{ category }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+</aside>

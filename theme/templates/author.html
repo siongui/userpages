@@ -1,0 +1,20 @@
+{# mandatory for theme #}
+{% extends "layout.html" %}
+
+{% block title %}Articles by {{ author }} - {{ super() }}{% endblock %}
+
+{% block content %}
+  <ol class="breadcrumb a-no-underline">
+    <li>
+      <a href="{{SITEURL}}/authors.html">
+        <i class="fa fa-group fa-fw"></i> Authors
+      </a>
+      </li>
+    <li class="active">
+      <i class="fa fa-user fa-fw"></i> {{ author }}
+    </li>
+  </ol>
+  {% for article in articles %}
+    {% include 'includes/article_info.html' %}
+  {% endfor %}
+{% endblock %}

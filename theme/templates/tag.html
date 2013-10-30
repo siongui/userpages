@@ -1,0 +1,20 @@
+{# mandatory for theme #}
+{% extends "layout.html" %}
+
+{% block title %}{{ tag }} - {{ super() }}{% endblock %}
+
+{% block content %}
+  <ol class="breadcrumb a-no-underline">
+    <li>
+      <a href="{{SITEURL}}/tags.html">
+        <i class="fa fa-tags fa-fw"></i> Tags
+      </a>
+      </li>
+    <li class="active">
+      <i class="fa fa-tag fa-fw"></i> {{ tag }}
+    </li>
+  </ol>
+  {% for article in articles %}
+    {% include 'includes/article_info.html' %}
+  {% endfor %}
+{% endblock %}

@@ -1,0 +1,7 @@
+{# mandatory for theme #}
+{% extends "layout.html" %}
+{% block content %}
+  {% for article in articles_page.object_list %}
+    {% include 'includes/article_info.html' %}
+  {% endfor %}
+{% endblock content %}

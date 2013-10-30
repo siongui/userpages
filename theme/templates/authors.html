@@ -1,0 +1,25 @@
+{# mandatory for theme #}
+{% extends "layout.html" %}
+
+{% block title %}Authors - {{ super() }}{% endblock %}
+
+{% block content %}
+  <div class="panel panel-default a-no-underline">
+    <div class="panel-heading">
+      <h1 class="panel-title" title="Tags">
+        <a href="{{ SITEURL }}/authors.html">
+          <i class="fa fa-group fa-fw"></i> Authors
+        </a>
+      </h1>
+    </div>
+    <ul class="list-group">
+      {% for author, articles in authors %}
+        <li class="list-group-item">
+          <a href="{{ SITEURL }}/{{ author.url }}">
+            {{ author }} <span class="badge">{{ articles | count }}</span>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endblock %}

@@ -1,0 +1,23 @@
+{# mandatory for theme #}
+{% extends "layout.html" %}
+
+{% block title -%}
+  {{- article.title|striptags }} - {{ super() -}}
+{%- endblock %}
+
+{% block content %}
+  <article class="panel panel-info">
+    <header class="panel-heading">
+      <h1 class="panel-title">
+      <a href="{{ SITEURL }}/{{ article.url }}"
+         rel="bookmark"
+         title="Permalink to {{ article.title|striptags }}">
+        {{ article.title }}
+      </a>
+      </h1>
+    </header>
+    <div class="panel-body">
+      {{ article.content }}
+    </div>
+  </article>
+{% endblock %}
