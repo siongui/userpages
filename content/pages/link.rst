@@ -5,6 +5,8 @@
 
 `http://localhost:8000/`_
 
+`AddThis`_
+
 `Gmail`_
 
 `facebook`_
@@ -27,6 +29,7 @@ SASS_
 
 .. _`http://localhost:8080/`: http://localhost:8080/
 .. _`http://localhost:8000/`: http://localhost:8000/
+.. _`AddThis`: http://www.addthis.com/
 .. _`Gmail`: https://mail.google.com/
 .. _`facebook`: https://www.facebook.com/
 .. _`The online royalty free public domain clip art`: http://www.clker.com/

@@ -1,7 +1,6 @@
 Show Source Code by Pelican
 ###########################
 
-:lang: en
 :tags: code
 :category: Pelican
 :author: Siong-Ui Te

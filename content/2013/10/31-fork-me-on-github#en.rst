@@ -1,7 +1,6 @@
 Add "Fork me on Github" to Website
 ##################################
 
-:lang: en
 :tags: webapp
 :category: Webapp
 :author: Siong-Ui Te

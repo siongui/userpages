@@ -1,7 +1,6 @@
 Show Math By Pelican and MathJax
 ################################
 
-:lang: en
 :tags: math
 :category: Pelican
 :author: Siong-Ui Te

@@ -1,14 +1,13 @@
-Why Python uses 0-based indexing?
+為什麼Python使用0-based indexing?
 #################################
 
-:lang: en
 :tags: Python
 :category: Python
 :author: Siong-Ui Te
-:summary: Guido van Rossum (father of Python) explains why Python uses 0-based indexing.
+:summary: Guido van Rossum (Python之父) 解釋Python為什麼使用0-based indexing.
 
 
-Here is the link_ of Guido van Rossum's explanation. The following is the post by him on Google+:
+這是Guido van Rossum解釋的 `連結`_. 以下是他在Google+的發文:
 
 ::
 
@@ -25,4 +24,4 @@ Here is the link_ of Guido van Rossum's explanation. The following is the post b
   So that's why Python uses 0-based indexing.
 
 
-.. _link: https://plus.google.com/115212051037621986145/posts/YTUxbXYZyfi
+.. _`連結`: https://plus.google.com/115212051037621986145/posts/YTUxbXYZyfi

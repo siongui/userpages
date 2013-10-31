@@ -13,11 +13,13 @@ DEFAULT_LANG = u'en'
 
 # @see http://docs.getpelican.com/en/3.3.0/settings.html#basic-settings
 # @see http://docs.getpelican.com/en/3.3.0/settings.html#path-metadata
-PATH_METADATA = '(?P<date>\d{4}/\d{2}/\d{2})-(?P<slug>.*)\.rst'
+PATH_METADATA = '(?P<date>\d{4}/\d{2}/\d{2})-(?P<slug>[-a-zA-Z0-9]*)#(?P<lang>[_a-zA-Z]{2,5})\.rst'
 
 # @see http://docs.getpelican.com/en/3.3.0/settings.html#url-settings
 ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
+ARTICLE_LANG_URL = '{lang}/{date:%Y}/{date:%m}/{slug}/'
+ARTICLE_LANG_SAVE_AS = '{lang}/{date:%Y}/{date:%m}/{slug}/index.html'
 
 # Take advantage of the following defaults
 # STATIC_SAVE_AS = '{path}'
