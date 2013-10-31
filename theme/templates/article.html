@@ -15,6 +15,8 @@
         {{ article.title }}
       </a>
       </h1>
+      {% import 'translations.html' as translations with context %}
+      {{ translations.translations_for(article) }}
     </header>
     <div class="panel-body">
       {{ article.content }}
