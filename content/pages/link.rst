@@ -5,7 +5,13 @@
 
 `http://localhost:8000/`_
 
+`Gmail`_
+
+`facebook`_
+
 `The online royalty free public domain clip art`_
+
+`Bootstrap`_
 
 `Font Awesome`_
 
@@ -21,7 +27,10 @@ SASS_
 
 .. _`http://localhost:8080/`: http://localhost:8080/
 .. _`http://localhost:8000/`: http://localhost:8000/
+.. _`Gmail`: https://mail.google.com/
+.. _`facebook`: https://www.facebook.com/
 .. _`The online royalty free public domain clip art`: http://www.clker.com/
+.. _`Bootstrap`: http://getbootstrap.com/components/
 .. _`Font Awesome`: http://fortawesome.github.io/Font-Awesome/icons/
 .. _SASS: http://sass-lang.com/
 .. _`Pelican Documentation`: http://docs.getpelican.com/
