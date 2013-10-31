@@ -14,10 +14,8 @@
   <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
 </head>
 <body>
-  {% if FB_COMMENTS %}
-    {% include 'includes/fb_jssdk.html' %}
-  {% endif %}
-
+  {% include 'includes/fb_jssdk.html' %}
+  {% include 'includes/github_ribbon.html' %}
   {% include 'includes/navbar.html' %}
 
   <div class="container">

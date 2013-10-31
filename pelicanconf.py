@@ -57,3 +57,6 @@ META_DESCRIPTION = 'Theory and Practice'
 # Facebook Social Plugins › Comments Plugin
 FB_APPID = '498013980272599'
 FB_COMMENTS = True
+
+# For Github Ribbon
+#GITHUB_USERNAME = ''
