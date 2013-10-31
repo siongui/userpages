@@ -1,11 +1,9 @@
 Add "Fork me on Github" to Website
 ##################################
 
-:date: 2013-10-31 21:48
 :lang: en
 :tags: webapp
 :category: Webapp
-:slug: fork-me-on-github
 :author: Siong-Ui Te
 :summary: Add GitHub Ribbons (Fork me on Github) to Website
 
