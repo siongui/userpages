@@ -11,6 +11,12 @@ TIMEZONE = 'Asia/Taipei'
 
 DEFAULT_LANG = u'en'
 
+# Take advantage of the following defaults
+# STATIC_SAVE_AS = '{path}'
+# STATIC_URL = '{path}'
+STATIC_PATHS = ['extra/robots.txt',]
+EXTRA_PATH_METADATA = {'extra/robots.txt': {'path': 'robots.txt'},}
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None

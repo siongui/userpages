@@ -5,6 +5,8 @@
 
 `http://localhost:8000/`_
 
+`The online royalty free public domain clip art`_
+
 `Font Awesome`_
 
 SASS_
@@ -19,6 +21,7 @@ SASS_
 
 .. _`http://localhost:8080/`: http://localhost:8080/
 .. _`http://localhost:8000/`: http://localhost:8000/
+.. _`The online royalty free public domain clip art`: http://www.clker.com/
 .. _`Font Awesome`: http://fortawesome.github.io/Font-Awesome/icons/
 .. _SASS: http://sass-lang.com/
 .. _`Pelican Documentation`: http://docs.getpelican.com/
