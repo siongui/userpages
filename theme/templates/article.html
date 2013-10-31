@@ -20,9 +20,14 @@
       {{ article.content }}
     </div>
   </article>
+
   {% if article.mathjax_cdn %}
     <script type="text/javascript"
       src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
     </script>
+  {% endif %}
+
+  {% if FB_COMMENTS %}
+    <div class="fb-comments" data-href="{{ SITEURL }}/{{ article.url }}" data-numposts="5"></div>
   {% endif %}
 {% endblock %}

@@ -52,3 +52,6 @@ JQUERY_URL = '//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js'
 META_KEYWORDS = 'blog'
 META_DESCRIPTION = 'Theory and Practice'
 
+# Facebook Social Plugins › Comments Plugin
+FB_APPID = '498013980272599'
+FB_COMMENTS = True
