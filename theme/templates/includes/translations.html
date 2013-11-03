@@ -1,0 +1,8 @@
+{% macro translations_for(writing, SITEURL)  %}
+  {% if writing.translations %}
+    Translation(s):
+    {% for translation in writing.translations %}
+      <a href="{{ SITEURL }}/{{ translation.url }}">{{ translation.lang }}</a>
+    {% endfor %}
+  {% endif %}
+{% endmacro %}

@@ -53,6 +53,9 @@ DEFAULT_PAGINATION = 10
 # Specify a customized theme, via path relative to the settings file
 THEME = 'theme'
 
+# For Github Ribbon
+#GITHUB_URL = ''
+
 # Bootstrap3, Font Awesome, and jQuery URL
 # Bootstrap CDN: http://www.bootstrapcdn.com/
 BOOTSTRAP3_CSS_URL = '//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css'
@@ -65,8 +68,5 @@ META_KEYWORDS = 'blog'
 META_DESCRIPTION = 'Theory and Practice'
 
 # Facebook Social Plugins › Comments Plugin
-FB_APPID = ''
+#FB_APPID = ''
 #FB_COMMENTS = True
-
-# For Github Ribbon
-#GITHUB_URL = ''
