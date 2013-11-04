@@ -70,3 +70,7 @@ META_DESCRIPTION = 'Theory and Practice'
 # Facebook Social Plugins › Comments Plugin
 #FB_APPID = ''
 #FB_COMMENTS = True
+
+PLUGIN_PATH = "plugins"
+PLUGINS = ["gist"]
+
