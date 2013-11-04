@@ -6,9 +6,11 @@ from docutils.parsers.rst import directives, Directive
 from docutils import nodes
 
 class Gist(Directive):
-  """
-    https://gist.github.com/brianhsu/1422773
-    https://kura.io/2013/08/09/writing-a-vimeo-and-youtube-plugin-for-pelican/
+  """Embed gist in posts.
+
+  Usage:
+    .. gist:: GIST_ID GITHUB_USERNAME
+
   """
   required_arguments = 2
   has_content = False
