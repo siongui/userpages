@@ -19,6 +19,6 @@ References:
 
 2. `Writing a Vimeo and YouTube plugin for Pelican`_
 
-.. _`Plugin Source Code`: https://github.com/siongui/userpages/tree/master/plugins/gist/
+.. _`Plugin Source Code`: https://github.com/siongui/pelican-gist
 .. _`Pelican YouTube embed reStructuredText directive`: https://gist.github.com/brianhsu/1422773
 .. _`Writing a Vimeo and YouTube plugin for Pelican`: https://kura.io/2013/08/09/writing-a-vimeo-and-youtube-plugin-for-pelican/
