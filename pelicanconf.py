@@ -10,6 +10,7 @@ SITEURL = ''
 TIMEZONE = 'Asia/Taipei'
 
 DEFAULT_LANG = u'en'
+LOCALE = 'en_US.UTF-8'
 
 # @see http://docs.getpelican.com/en/3.3.0/settings.html#basic-settings
 # @see http://docs.getpelican.com/en/3.3.0/settings.html#path-metadata

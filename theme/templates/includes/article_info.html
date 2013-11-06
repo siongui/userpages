@@ -1,27 +1,42 @@
 <article class="panel panel-info">
-  <!-- heading -->
+<div class="row">
+<div class="col-sm-2">
+  <aside>
+    <time class="post-metadata-date"
+          title="{{ article.date.isoformat() }}">
+      <span>{{ article.date | strftime('%B %d') }}</span>
+      <span>{{ article.date | strftime('%Y') }}</span>
+    </time>
+    <ul>
+      {% if article.author %}
+        <li><address>By 
+          <a rel="author" 
+             href="{{ SITEURL }}/{{ article.author.url }}">
+            {{ article.author }}
+          </a>
+        </address></li>
+      {% endif %}
+      {% if article.tags %}
+        {% for tag in article.tags %}
+          <li>
+            <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+          </li>
+        {% endfor %}
+      {% endif %}
+    </ul>
+  </aside>
+</div>
+<div class="col-sm-10">
   <header class="panel-heading">
     <h1 class="panel-title">
       <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
     </h1>
   </header>
-  <!-- body -->
+</div>
+</div>
+
   <div class="panel-body">
     <p class="lead">{{ article.summary }}</p>
     <a class="btn btn-default" href="{{ SITEURL }}/{{ article.url }}">More ...</a>
   </div>
-  <!-- footer -->
-  <footer class="panel-footer">
-    <time title="{{ article.date.isoformat() }}">
-      {{ article.locale_date }}
-    </time>
-    {% if article.author %}
-      <address>By 
-        <a rel="author" 
-           href="{{ SITEURL }}/{{ article.author.url }}">
-          {{ article.author }}
-        </a>
-      </address>
-    {% endif %}
-  </footer>
 </article>

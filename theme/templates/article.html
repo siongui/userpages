@@ -6,6 +6,7 @@
 {%- endblock %}
 
 {% block content %}
+<section>
   <article class="panel panel-info">
     <header class="panel-heading">
       <h1 class="panel-title">
@@ -32,4 +33,5 @@
   {% if FB_COMMENTS %}
     <div class="fb-comments" data-href="{{ SITEURL }}/{{ article.url }}" data-numposts="5"></div>
   {% endif %}
+</section>
 {% endblock %}

@@ -5,3 +5,7 @@
 .tag-4 { font-size: 100%; }
 
 .a-no-underline a { text-decoration: none; }
+
+.post-metadata-date {
+  background-color: #bce8f1;
+}
