@@ -3,27 +3,22 @@
     <div class="col-sm-2">
       <aside class="post-metadata-date">
         <time title="{{ article.date.isoformat() }}">
-          <span>{{ article.date | strftime('%B %d') }}</span>
-          <b><span>{{ article.date | strftime('%Y') }}</span></b>
+          <div>{{ article.date | strftime('%B %d') }}</div>
+          <div><b>{{ article.date | strftime('%Y') }}</b></div>
         </time>
       </aside>
-      <aside>
-        {% if article.author %}
-          <address>By 
-            <a rel="author" 
-               href="{{ SITEURL }}/{{ article.author.url }}">
-              {{ article.author }}
-            </a>
-          </address>
-        {% endif %}
-        {% if article.tags %}
-          <i class="fa fa-tags"></i> Tags:
+
+      {% if article.tags %}
+        <aside class="post-metadata-tags">
+          <b>Tags</b>:
+          <br />
           {% for tag in article.tags %}
+            <i class="fa fa-tag"></i>
             <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
-            {% if not loop.last %},{% endif %}
+            <br />
           {% endfor %}
-        {% endif %}
-      </aside>
+        </aside>
+      {% endif %}
     </div>
     <div class="col-sm-10 post-title">
       <header>
@@ -31,11 +26,24 @@
           <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
         </h3>
       </header>
-    </div>
-  </div>
 
-  <div>
-    <p class="lead">{{ article.summary }}</p>
-    <a class="btn btn-default" href="{{ SITEURL }}/{{ article.url }}">More ...</a>
+      {% if article.author %}
+        <address class="post-metadata-author"><b>By</b> 
+          <a rel="author" 
+             href="{{ SITEURL }}/{{ article.author.url }}">
+            {{ article.author }}
+          </a>
+        </address>
+      {% endif %}
+      {% if article.category %}
+        <i class="fa fa-list"></i> <b>Category</b>:
+        <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+      {% endif %}
+
+      <div class="post-content">
+      {{ article.summary }}
+      <a class="read-more" href="{{ SITEURL }}/{{ article.url }}">&nbsp;&lt;&lt; read more &gt;&gt;</a>
+      </div>
+    </div>
   </div>
 </article>
