@@ -1,41 +1,40 @@
-<article class="panel panel-info">
-<div class="row">
-<div class="col-sm-2">
-  <aside>
-    <time class="post-metadata-date"
-          title="{{ article.date.isoformat() }}">
-      <span>{{ article.date | strftime('%B %d') }}</span>
-      <span>{{ article.date | strftime('%Y') }}</span>
-    </time>
-    <ul>
-      {% if article.author %}
-        <li><address>By 
-          <a rel="author" 
-             href="{{ SITEURL }}/{{ article.author.url }}">
-            {{ article.author }}
-          </a>
-        </address></li>
-      {% endif %}
-      {% if article.tags %}
-        {% for tag in article.tags %}
-          <li>
+<article class="post">
+  <div class="row">
+    <div class="col-sm-2">
+      <aside class="post-metadata-date">
+        <time title="{{ article.date.isoformat() }}">
+          <span>{{ article.date | strftime('%B %d') }}</span>
+          <b><span>{{ article.date | strftime('%Y') }}</span></b>
+        </time>
+      </aside>
+      <aside>
+        {% if article.author %}
+          <address>By 
+            <a rel="author" 
+               href="{{ SITEURL }}/{{ article.author.url }}">
+              {{ article.author }}
+            </a>
+          </address>
+        {% endif %}
+        {% if article.tags %}
+          <i class="fa fa-tags"></i> Tags:
+          {% for tag in article.tags %}
             <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
-          </li>
-        {% endfor %}
-      {% endif %}
-    </ul>
-  </aside>
-</div>
-<div class="col-sm-10">
-  <header class="panel-heading">
-    <h1 class="panel-title">
-      <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-    </h1>
-  </header>
-</div>
-</div>
+            {% if not loop.last %},{% endif %}
+          {% endfor %}
+        {% endif %}
+      </aside>
+    </div>
+    <div class="col-sm-10 post-title">
+      <header>
+        <h3>
+          <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+        </h3>
+      </header>
+    </div>
+  </div>
 
-  <div class="panel-body">
+  <div>
     <p class="lead">{{ article.summary }}</p>
     <a class="btn btn-default" href="{{ SITEURL }}/{{ article.url }}">More ...</a>
   </div>

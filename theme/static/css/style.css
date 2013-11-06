@@ -6,6 +6,23 @@
 
 .a-no-underline a { text-decoration: none; }
 
-.post-metadata-date {
-  background-color: #bce8f1;
+.post {
+  margin-bottom: 4em;
 }
+
+.post a { text-decoration: none; }
+
+.post-title {
+  border-top: solid 2px #9dcedf;
+}
+
+.post-metadata-date {
+  width: 100%;
+  text-align: center;
+  background-color: #9dcedf;
+  text-shadow: 0px 1px #81bcd1;
+  color: white;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+

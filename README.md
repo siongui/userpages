@@ -14,6 +14,6 @@
 * `META_KEYWORDS`: for example, `Python, webapp`
 * `META_DESCRIPTION`: for example, `Template for Python Web Application`
 
-### Misc
+### UNLICENSE
 
-Released in public domain. Please see [UNLICENSE](http://unlicense.org/).
+This repository is released in public domain. Please see [UNLICENSE](http://unlicense.org/).
