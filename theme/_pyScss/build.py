@@ -5,6 +5,7 @@ from os.path import join, dirname
 import scss
 
 scss.config.PROJECT_ROOT = dirname(__file__)
+scss.config.LOAD_PATHS = dirname(__file__)
 
 _scss = scss.Scss(
   #scss_opts={

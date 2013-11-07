@@ -1,0 +1,41 @@
+$main-color: #9dcedf
+
+.post {
+  margin-bottom: 4em;
+  background-color: #f4f8fa;
+
+  a { text-decoration: none; }
+
+  .post-title {
+    border-top: solid 2px $main-color;
+  }
+
+  .post-metadata-date {
+    width: 100%;
+    text-align: center;
+    background-color: $main-color;
+    text-shadow: 0px 1px #81bcd1;
+    color: white;
+    padding-top: 1em;
+    padding-bottom: 1em;
+  }
+
+  .post-metadata-author {
+    display: inline;
+    padding-right: 2em;
+  }
+
+  .post-metadata-tags {
+    padding-top: .5em;
+    padding-left: .5em;
+  }
+
+  .post-content {
+    padding-top: 1.5em;
+    font-size: 17px;
+    line-height: 1.5em;
+    p { display: inline; }
+  }
+
+  .read-more { color: #428bca; }
+}
