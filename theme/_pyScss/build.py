@@ -13,7 +13,9 @@ _scss = scss.Scss(
   #}
 )
 
-compiled_css_from_file = _scss.compile(scss_file='style.scss')
+compiled_css_from_file = _scss.compile(
+  scss_file=join(dirname(__file__), 'style.scss')
+)
 print(compiled_css_from_file)
 
 output_path = join(dirname(__file__), '../static/css/style.css')
