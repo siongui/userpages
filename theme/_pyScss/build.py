@@ -4,7 +4,7 @@
 from os.path import join, dirname
 import scss
 
-scss.config.PROJECT_ROOT = join(dirname(__file__))
+scss.config.PROJECT_ROOT = dirname(__file__)
 
 _scss = scss.Scss(
   #scss_opts={
@@ -15,3 +15,7 @@ _scss = scss.Scss(
 
 compiled_css_from_file = _scss.compile(scss_file='style.scss')
 print(compiled_css_from_file)
+
+output_path = join(dirname(__file__), '../static/css/style.css')
+with open(output_path, 'w') as f:
+  f.write(compiled_css_from_file)
