@@ -11,7 +11,9 @@
     <ul class="list-group">
       {% for category, articles in categories %}
         <li class="list-group-item">
-          <a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a>
+          <a href="{{ SITEURL }}/{{ category.url }}">
+            {{ category }} <span class="badge">{{ articles | count }}</span>
+          </a>
         </li>
       {% endfor %}
     </ul>
