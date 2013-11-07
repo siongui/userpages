@@ -1,0 +1,3 @@
+@for $n from 0 through 4 {
+  .tag-#{$n} { font-size: ($n * 25)%; }
+}
