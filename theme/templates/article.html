@@ -32,9 +32,23 @@
     {{ article.content }}
     <hr />
 
+    {% if article.author %}
+      <address class="article-metadata-author"><b>By</b> 
+        <a rel="author" 
+           href="{{ SITEURL }}/{{ article.author.url }}">
+          {{ article.author }}
+        </a>
+      </address>
+    {% endif %}
+
+    {% if article.category %}
+      <i class="fa fa-list"></i> <b>Category</b>:
+      <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+    {% endif %}
+
     {% if article.tags %}
       <aside>
-        <i class="fa fa-tags"></i> Tags:
+        <i class="fa fa-tags"></i> <b>Tags</b>:
         {% for tag in article.tags %}
           <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
           {% if not loop.last %}, {% endif %}
