@@ -7,21 +7,40 @@
 
 {% block content %}
 <section>
-  <article class="panel panel-info">
-    <header class="panel-heading">
-      <h1 class="panel-title">
-      <a href="{{ SITEURL }}/{{ article.url }}"
-         rel="bookmark"
-         title="Permalink to {{ article.title|striptags }}">
-        {{ article.title }}
-      </a>
+  <article class="article">
+    <header>
+      <h1>
+        <a href="{{ SITEURL }}/{{ article.url }}"
+           rel="bookmark"
+           title="Permalink to {{ article.title|striptags }}">
+          {{ article.title }}
+        </a>
       </h1>
-      {% import 'includes/translations.html' as tr %}
-      {{ tr.translations_for(article, SITEURL) }}
     </header>
-    <div class="panel-body">
-      {{ article.content }}
-    </div>
+
+    <aside>
+      <time title="{{ article.date.isoformat() }}">
+        <span>{{ article.date | strftime('%B %d') }}</span>,
+        <span>{{ article.date | strftime('%Y') }}</span>
+      </time>
+    </aside>
+
+    {% import 'includes/translations.html' as tr %}
+    {{ tr.translations_for(article, SITEURL) }}
+
+    <hr />
+    {{ article.content }}
+    <hr />
+
+    {% if article.tags %}
+      <aside>
+        <i class="fa fa-tags"></i> Tags:
+        {% for tag in article.tags %}
+          <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+          {% if not loop.last %}, {% endif %}
+        {% endfor %}
+      </aside>
+    {% endif %}
   </article>
 
   {% if article.mathjax_cdn %}
