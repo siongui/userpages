@@ -23,9 +23,15 @@ SASS_
 
 `Quick reStructuredText`_
 
+`Pandoc Markdown and ReST Compared`_
+
 `W3CPlus`_
 
 `前端工程日誌: Sass教學手冊`_
+
+`Stackful.io blog`_
+
+`Beyond the Void`_
 
 .. _`http://localhost:8080/`: http://localhost:8080/
 .. _`http://localhost:8000/`: http://localhost:8000/
@@ -38,6 +44,9 @@ SASS_
 .. _SASS: http://sass-lang.com/
 .. _`Pelican Documentation`: http://docs.getpelican.com/
 .. _`Quick reStructuredText`: http://docutils.sourceforge.net/docs/user/rst/quickref.html
+.. _`Pandoc Markdown and ReST Compared`: http://www.unexpected-vortices.com/doc-notes/markdown-and-rest-compared.html
 .. _`W3CPlus`: http://www.w3cplus.com/
 .. _`前端工程日誌: Sass教學手冊`: http://sam0512.blogspot.tw/2013/10/sass.html
+.. _`Stackful.io blog`: http://stackful-dev.com/
+.. _`Beyond the Void`: https://www.byvoid.com/
 
