@@ -47,10 +47,14 @@
         </h1>
       </div>
       <ul class="list-group">
-        {% for category, articles in categories %}
-          <li class="list-group-item" title="{{ category }}">
-            <a href="{{ SITEURL }}/category/{{ category | lower }}.html">
-              {{ category }}
+        {% for cat, articles in categories %}
+          <li class="list-group-item" title="{{ cat }}">
+            <a href="{{ SITEURL }}/category/{{ cat | lower }}.html">
+              {% if cat == category %}
+                <i class="fa fa-folder-open"></i> {{ cat }}
+              {% else %}
+                <i class="fa fa-folder"></i> {{ cat }}
+              {% endif %}
             </a>
           </li>
         {% endfor %}

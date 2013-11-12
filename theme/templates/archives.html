@@ -1,2 +1,15 @@
 {# mandatory for theme #}
 {% extends "layout.html" %}
+{% block title %}Archives - {{ super() }}{% endblock %}
+{% block content %}
+<section>
+  <h1>Archives for {{ SITENAME }}</h1>
+
+  <dl class="dl-horizontal">
+    {% for article in dates %}
+      <dt>{{ article.date | strftime('%B %d, %Y') }}</dt>
+      <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
+    {% endfor %}
+  </dl>
+</section>
+{% endblock content %}

@@ -47,6 +47,7 @@ SOCIAL = (('github', 'https://github.com/siongui'),
           ('google-plus', 'https://plus.google.com/u/0/+SiongUiTe/posts'),)
 
 DEFAULT_PAGINATION = 10
+DISPLAY_CATEGORIES_ON_MENU = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
