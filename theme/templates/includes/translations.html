@@ -2,7 +2,17 @@
   {% if writing.translations %}
     Translation(s):
     {% for translation in writing.translations %}
-      <a href="{{ SITEURL }}/{{ translation.url }}">{{ translation.lang }}</a>
+      <a href="{{ SITEURL }}/{{ translation.url }}">
+        {%- if translation.lang == 'en' -%}
+          English
+        {%- elif translation.lang == 'zh_TW' -%}
+          中文 (繁體)
+        {%- elif translation.lang == 'zh_CN' -%}
+          中文 (简体)
+        {%- else -%}
+          {{ translation.lang }}
+        {%- endif -%}
+      </a>
     {% endfor %}
   {% endif %}
 {% endmacro %}
