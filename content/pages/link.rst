@@ -10,11 +10,16 @@ Info:
 
 Web Development:
 
+  `Google App Engine <https://developers.google.com/appengine/>`_
+  (`Applications Overview <https://appengine.google.com/>`_)
+
+  `Pelican <http://getpelican.com/>`_ (`Documentation <http://docs.getpelican.com/>`__)
+
   `Google Apps Script <https://developers.google.com/apps-script/>`_
 
-  `Pelican Documentation <http://docs.getpelican.com/>`_
-
 JavaScript:
+
+  `QuirksMode <http://www.quirksmode.org/>`_
 
   `John Resig - JavaScript Programmer <http://ejohn.org/>`_
 
@@ -23,6 +28,9 @@ JavaScript:
 Styling:
 
   `SASS <http://sass-lang.com/>`_
+
+  `pyScss <https://github.com/Kronuz/pyScss>`_
+  (`Documentation <https://pyscss.readthedocs.org/>`__)
 
   `前端工程日誌: Sass教學手冊 <http://sam0512.blogspot.tw/2013/10/sass.html>`_
 
@@ -43,6 +51,10 @@ Webmaster Tools:
   `Google Webmaster Tools <https://www.google.com/webmasters/tools/>`_
 
   `Bing - Webmaster Tools <http://www.bing.com/toolbox/webmaster>`_
+
+  `Google AdSense <https://www.google.com/adsense>`_
+
+  `Google Analytics <https://www.google.com/analytics/web/>`_
 
 Misc:
 
