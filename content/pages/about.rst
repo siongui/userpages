@@ -28,9 +28,11 @@ Contact:
 Blogs:
 
   `Theory and Practice <http://siongui.github.io/>`__
-  (hosted on GitHub Pages, `source code <https://github.com/siongui/userpages>`_)
+  (hosted on `GitHub Pages <http://pages.github.com/>`_,
+  `source code <https://github.com/siongui/userpages>`_)
 
-  `Theory and Practice <http://cvmlrobotics.blogspot.com/>`__ (hosted on blogger)
+  `Theory and Practice <http://cvmlrobotics.blogspot.com/>`__
+  (hosted on `Blogger <http://www.blogger.com/>`_)
 
   `泰國道場之旅 <http://siongui.blogspot.com/>`_
 

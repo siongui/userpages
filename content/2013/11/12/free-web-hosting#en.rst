@@ -5,6 +5,7 @@ Website Hosting with Free Plan
 :category: Webapp
 :author: Siong-Ui Te
 :summary: Host your website for free
+:modified: 2013-11-13 21:37
 
 
 .. list-table:: Comparison Table
@@ -31,6 +32,9 @@ Website Hosting with Free Plan
 
    * - `PythonAnywhere <https://www.pythonanywhere.com/>`_
      - Python
+
+   * - `Cloudnode <http://cloudno.de/>`_
+     - node.js
 
    * - `GitHub Pages <http://pages.github.com/>`_
      - None (Static Webpages Only)
