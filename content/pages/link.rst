@@ -65,6 +65,8 @@ Misc:
 
   `Beyond the Voidi <https://www.byvoid.com/>`_
 
+  `Ondřej Žára <http://ondras.zarovi.cz/>`_
+
   `Online Interpreters <http://repl.it/>`_
 
 Plain Text Markup Format:
