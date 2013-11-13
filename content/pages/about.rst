@@ -2,22 +2,30 @@
 :lang: en
 
 
-`Pāḷi Tipiṭaka`_
+**Siong-Ui Te**
 
-`Pāḷi Dictionary`_
+Location: `Kaohsiung <http://en.wikipedia.org/wiki/Kaohsiung>`_,
+`Taiwan <http://en.wikipedia.org/wiki/Taiwan>`_
 
-`Theory and Practice`_ (blogger)
+Profiles: 
+`Google+ <https://plus.google.com/u/0/+SiongUiTe/about>`_ / 
+`facebook <https://www.facebook.com/siongui.te>`_ /
+`Github <https://github.com/siongui>`_ / 
+`Stack Overflow <http://stackoverflow.com/users/2350927/siongui>`_
 
-`阿姜查 巴蓬寺分院`_
+Websites:
+`Pāḷi Tipiṭaka <http://epalitipitaka.appspot.com/>`_ /
+`Pāḷi Dictionary <http://palidictionary.appspot.com/>`_
 
-`覺醒之翼——上座部佛教文獻選譯集`_
+Blogs:
+`Theory and Practice (GitHub Pages) <http://siongui.github.io/>`_
+(`source code <https://github.com/siongui/userpages>`_) /
+`Theory and Practice (blogger) <http://cvmlrobotics.blogspot.com/>`_  /
+`泰國道場之旅 <http://siongui.blogspot.com/>`_
 
-`source code of this website`_
+Recommended:
+`阿姜查 巴蓬寺分院 <http://www.wpp-branches.net/cn/index.php>`_ /
+`覺醒之翼——上座部佛教文獻選譯集 <http://www.theravadacn.org/DhammaIndex2.htm>`_
 
-.. _`Pāḷi Tipiṭaka`: http://epalitipitaka.appspot.com/
-.. _`Pāḷi Dictionary`: http://palidictionary.appspot.com/
-.. _`Theory and Practice`: http://cvmlrobotics.blogspot.com/
-.. _`阿姜查 巴蓬寺分院`: http://www.wpp-branches.net/cn/index.php
-.. _`覺醒之翼——上座部佛教文獻選譯集`: http://www.theravadacn.org/DhammaIndex2.htm
-.. _`source code of this website`: https://github.com/siongui/userpages
-
+Misc:
+`My RSS Subscriptions <{filename}../extra/Feeder.opml>`_

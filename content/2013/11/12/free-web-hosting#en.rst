@@ -29,8 +29,12 @@ Website Hosting with Free Plan
    * - `Google App Engine`_
      - Python, Java, PHP
 
+   * - `PythonAnywhere <https://www.pythonanywhere.com/>`_
+     - Python
+
    * - `GitHub Pages <http://pages.github.com/>`_
      - None (Static Webpages Only)
+
 
 .. _`Windows Azure`: http://www.windowsazure.com/en-us/solutions/web/
 .. _`Google App Engine`: https://developers.google.com/appengine/

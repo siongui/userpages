@@ -26,8 +26,10 @@ ARTICLE_LANG_SAVE_AS = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 # STATIC_SAVE_AS = '{path}'
 # STATIC_URL = '{path}'
 STATIC_PATHS = ['extra/robots.txt',
+                'extra/Feeder.opml',
                 'extra/yezi.png',]
 EXTRA_PATH_METADATA = {'extra/robots.txt': {'path': 'robots.txt'},
+                       'extra/Feeder.opml': {'path': 'misc/Feeder.opml'},
                        'extra/yezi.png': {'path': 'favicon.ico'},}
 
 # Feed generation is usually not desired when developing
