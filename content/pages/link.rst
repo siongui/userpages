@@ -4,11 +4,17 @@
 
 Info:
 
+  `frontend development resources <https://github.com/dypsilon/frontend-dev-bookmarks>`_
+
+  `各式 Web 前端開發工具整理 <https://github.com/doggy8088/frontend-tools>`_
+
   `开源中国 <http://www.oschina.net/>`_
 
   `CSDN.NET - 全球最大中文IT社区 <http://www.csdn.net/>`_
 
 Web Development:
+
+  `DevDocs <http://devdocs.io/>`_
 
   `Google App Engine <https://developers.google.com/appengine/>`_
   (`Applications Overview <https://appengine.google.com/>`_)
@@ -16,6 +22,10 @@ Web Development:
   `Pelican <http://getpelican.com/>`_ (`Documentation <http://docs.getpelican.com/>`__)
 
   `Google Apps Script <https://developers.google.com/apps-script/>`_
+
+  `Native Client <https://developers.google.com/native-client/>`_
+
+  `Portable Native Client Preview <https://developers.google.com/native-client/pnacl-preview/>`_
 
 JavaScript:
 
