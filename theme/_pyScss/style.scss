@@ -15,6 +15,10 @@
   }
 }
 
+.article {
+  @extend .rst-body;
+}
+
 @for $n from 0 through 4 {
   .tag-#{$n} { font-size: 200% - $n * 25%; }
 }

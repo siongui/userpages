@@ -76,5 +76,5 @@ META_DESCRIPTION = 'Theory and Practice'
 #FB_COMMENTS = True
 
 PLUGIN_PATH = "plugins"
-PLUGINS = ["gist"]
+PLUGINS = ["gist", "code"]
 
