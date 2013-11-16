@@ -12,6 +12,8 @@ Info:
 
   `CSDN.NET - 全球最大中文IT社区 <http://www.csdn.net/>`_
 
+  `OverAPI.com | Collecting all the cheat sheets <http://overapi.com/>`_
+
 Web Development:
 
   `DevDocs <http://devdocs.io/>`_
@@ -55,6 +57,8 @@ Styling:
   `W3CPlus <http://www.w3cplus.com/>`_
 
   `LESS2CSS | LESS Live Preview <http://less2css.org/>`_
+
+  `Patternify | A CSS Pattern Generator <http://www.patternify.com/>`_
 
 Webmaster Tools:
 

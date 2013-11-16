@@ -1,10 +1,10 @@
-Server-less Web Applications
-############################
+Server-less Web Application Links
+##################################
 
 :tags: JavaScript
 :category: Webapp
 :author: Siong-Ui Te
-:summary: Build server-less web applications
+:summary: Links for building server-less web applications
 
 Link:
 
