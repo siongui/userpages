@@ -19,6 +19,15 @@
   @extend .rst-body;
 }
 
+figure.code {
+  figcaption {
+    background-color: #555555;
+    color: white;
+    text-align: center;
+    font-weight:bold;
+  }
+}
+
 @for $n from 0 through 4 {
   .tag-#{$n} { font-size: 200% - $n * 25%; }
 }

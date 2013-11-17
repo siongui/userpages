@@ -10,13 +10,9 @@ Hello Word in C
 
    <br />
 
-`hello.c`:
-
 .. code-file:: hello.c
 
 |br|
-
-`Makefile`:
 
 .. code-file:: Makefile
 

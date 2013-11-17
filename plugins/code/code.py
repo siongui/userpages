@@ -112,7 +112,10 @@ class Code(Directive):
     #for line in include_lines:
     #  print(line)
     lexer = guess_lexer_for_filename(self.arguments[0], rawtext)
-    html = highlight(rawtext, lexer, HtmlFormatter())
+    html_code = highlight(rawtext, lexer, HtmlFormatter())
+    html = ( u'<figure class="code"><figcaption>%s' +
+             u'</figcaption>%s</figure>' ) % \
+        (self.arguments[0], html_code)
     #print(html)
     return [nodes.raw('', html, format='html')]
 
