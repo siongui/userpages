@@ -21,4 +21,8 @@ References:
 
   `Building a Spreadsheet in 20 Minutes with Angular.js`_
 
+See Also:
+
+  `Snake Game in Vanilla JavaScript Under 30 Lines without Any Libraries <{filename}../18/snake-game-in-vanilla-js-without-libraries#en.rst>`_
+
 .. _`Building a Spreadsheet in 20 Minutes with Angular.js`: http://thomasstreet.net/blog/spreadsheet.html
