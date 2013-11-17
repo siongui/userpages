@@ -18,8 +18,19 @@ Use the following reStructuredText directive in your post:
 .. code-block:: rst
 
   .. code-file:: {{ filename }}
+      :encoding: (optional)
+      :tab-width: (optional)
+      :start-line: (optional)
+      :end-line: (optional)
+      :start-after: (optional)
+      :end-before: (optional)
+      :class: (optional)
+      :name: (optional)
 
 The source code file must be put in the same directory of your post.
+The only necessary argument is {{ filename }}. For details descriptions 
+of options, please see the options of `Including an External Document Fragment <http://docutils.sourceforge.net/docs/ref/rst/directives.html#including-an-external-document-fragment>`__ (This directive is derived from it.).
+
 
 UNLICENSE
 =========
@@ -29,7 +40,7 @@ This plugin is released in public domain. See `UNLICENSE <http://unlicense.org/>
 References
 ==========
 
-1. `Including an External Document Fragment <http://docutils.sourceforge.net/docs/ref/rst/directives.html#including-an-external-document-fragment>`_
+1. `Including an External Document Fragment <http://docutils.sourceforge.net/docs/ref/rst/directives.html#including-an-external-document-fragment>`__
 
 2. `source code <http://sourceforge.net/p/docutils/code/HEAD/tree/tags/docutils-0.11/docutils/parsers/rst/directives/misc.py>`_ of "Including an External Document Fragment"
 
