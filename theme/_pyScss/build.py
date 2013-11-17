@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-from os.path import join, dirname
+from os import makedirs
+from os.path import join, dirname, exists
 import scss
 
 scss.config.PROJECT_ROOT = dirname(__file__)
@@ -20,5 +21,7 @@ compiled_css_from_file = _scss.compile(
 print(compiled_css_from_file)
 
 output_path = join(dirname(__file__), '../static/css/style.css')
+if not exists(dirname(output_path)):
+  makedirs(dirname(output_path))
 with open(output_path, 'w') as f:
   f.write(compiled_css_from_file)
