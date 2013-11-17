@@ -78,16 +78,20 @@ Webmaster Tools:
 
   `Google Analytics <https://www.google.com/analytics/web/>`_
 
+Personal Blog:
+
+  `Beyond the Voidi <https://www.byvoid.com/>`_
+
+  `Ondřej Žára <http://ondras.zarovi.cz/>`_
+
+  `kyleisom.net <http://kyleisom.net/>`_
+
 Misc:
 
   `localhost 8080 <http://localhost:8080/>`_,
   `localhost 8000 <http://localhost:8000/>`_
 
   `Stackful.io blog <http://stackful-dev.com/>`_
-
-  `Beyond the Voidi <https://www.byvoid.com/>`_
-
-  `Ondřej Žára <http://ondras.zarovi.cz/>`_
 
   `Online Interpreters <http://repl.it/>`_
 
