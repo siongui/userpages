@@ -1,5 +1,6 @@
 @import 'post';
 @import 'article';
+@import 'mixin';
 
 
 .a-no-underline a { text-decoration: none; }
@@ -25,6 +26,7 @@ figure.code {
     color: white;
     text-align: center;
     font-weight:bold;
+    @include border-radius(4px, 4px);
   }
 }
 

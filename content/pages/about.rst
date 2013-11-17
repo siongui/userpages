@@ -39,6 +39,12 @@ Blogs:
 
 Recommended:
 
+  `Wat Nong Pah Pong <http://www.watnongpahpong.org/indexe.php>`_
+  (`Photos <https://picasaweb.google.com/105008812818042996376>`__)
+
+  `Wat Pah Nanachat (WPN) - The International Forest Monastery <http://www.watpahnanachat.org/>`_
+  (`Photos <http://picasaweb.google.com/wpnpictures>`__)
+
   `阿姜查 巴蓬寺分院 <http://www.wpp-branches.net/cn/index.php>`_
 
   `覺醒之翼——上座部佛教文獻選譯集 <http://www.theravadacn.org/DhammaIndex2.htm>`_
