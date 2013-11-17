@@ -60,6 +60,14 @@ Styling:
 
   `Patternify | A CSS Pattern Generator <http://www.patternify.com/>`_
 
+  `Designer.app | Your Blog Description Here <http://designerapp.blogspot.com/>`_
+
+  `The Responsinator <http://www.responsinator.com/>`_
+
+  `Responsive Design Bookmarklet <http://responsive.victorcoulon.fr/>`_
+
+  `CSS3 Click Chart | CSS3 Browser Support and Information <http://css3clickchart.com/>`_
+
 Webmaster Tools:
 
   `Google Webmaster Tools <https://www.google.com/webmasters/tools/>`_
