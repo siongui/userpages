@@ -4,6 +4,8 @@
 
 Info:
 
+  `Hacker News <https://news.ycombinator.com/>`_
+
   `frontend development resources <https://github.com/dypsilon/frontend-dev-bookmarks>`_
 
   `各式 Web 前端開發工具整理 <https://github.com/doggy8088/frontend-tools>`_
@@ -44,6 +46,9 @@ Styling:
   `pyScss <https://github.com/Kronuz/pyScss>`_
   (`Documentation <https://pyscss.readthedocs.org/>`__)
 
+  `chriseppstein / sass-recipes <https://github.com/chriseppstein/sass-recipes>`_
+  (public domain)
+
   `前端工程日誌: Sass教學手冊 <http://sam0512.blogspot.tw/2013/10/sass.html>`_
 
   `Bootstrap <http://getbootstrap.com/components/>`_
@@ -51,6 +56,8 @@ Styling:
   `Font Awesome <http://fortawesome.github.io/Font-Awesome/icons/>`_
 
   `The online royalty free public domain clip art <http://www.clker.com/>`_
+
+  `Public Domain Pictures <http://www.publicdomainpictures.net/>`_
 
   `AddThis <http://www.addthis.com/>`_
 
@@ -114,4 +121,10 @@ Social:
   `Gmail <https://mail.google.com/>`_
 
   `facebook <https://www.facebook.com/>`_
+
+News:
+
+  `華爾街日報 <http://cn.wsj.com/big5/>`_
+
+  `日經中文網 <http://zh.cn.nikkei.com/>`_
 
