@@ -32,6 +32,9 @@ figure.code {
 }
 
 @for $n from 0 through 4 {
-  .tag-#{$n} { font-size: 200% - $n * 25%; }
+  .tag-#{$n} {
+    font-size: 200% - $n * 25%;
+    line-height: 2em;
+  }
 }
 

@@ -86,6 +86,12 @@ Personal Blog:
 
   `kyleisom.net <http://kyleisom.net/>`_
 
+  `Pádraig Brady <http://www.pixelbeat.org/>`_
+
+Tutorials:
+
+  `Learn Code The Hard Way <http://learncodethehardway.org/>`_
+
 Misc:
 
   `localhost 8080 <http://localhost:8080/>`_,
@@ -94,6 +100,8 @@ Misc:
   `Stackful.io blog <http://stackful-dev.com/>`_
 
   `Online Interpreters <http://repl.it/>`_
+
+  `ifcfg.net README <http://ifcfg.net/readme>`_
 
 Plain Text Markup Format:
 
