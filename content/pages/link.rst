@@ -18,6 +18,8 @@ Info:
 
   `Leanstack <http://leanstack.io/>`_
 
+  `Coders News <http://codersnews.com/>`_
+
 Web Development:
 
   `DevDocs <http://devdocs.io/>`_
