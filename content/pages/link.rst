@@ -16,6 +16,8 @@ Info:
 
   `OverAPI.com | Collecting all the cheat sheets <http://overapi.com/>`_
 
+  `Leanstack <http://leanstack.io/>`_
+
 Web Development:
 
   `DevDocs <http://devdocs.io/>`_
