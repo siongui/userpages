@@ -4,7 +4,7 @@ Excel-like App in Vanilla JavaScript Under 30 Lines without Any Libraries
 :tags: JavaScript
 :category: JavaScript
 :author: Siong-Ui Te
-:modified: 2013-11-19 06:34
+:modified: 2013-11-19 22:39
 :summary: Under 30 lines of code in pure JavaScript and without any libraries, `Ondřej Žára <http://ondras.zarovi.cz/>`_ demonstrates a Excel-like web app.
 
 
@@ -27,5 +27,9 @@ See Also:
   `Snake Game in Vanilla JavaScript Under 30 Lines without Any Libraries <{filename}../18/snake-game-in-vanilla-js-without-libraries#en.rst>`_
 
   `Breakout in 30 lines of JavaScript <{filename}../19/breakout-in-30-lines-of-javascript#en.rst>`_
+
+  `Recursive raytracer in 35 lines of Javascript <{filename}../19/tiny-ray-tracer#en.rst>`_
+
+  `Sokoban in 36 lines of JavaScript <{filename}../19/sokoban-in-36-lines-of-javaScript#en.rst>`_
 
 .. _`Building a Spreadsheet in 20 Minutes with Angular.js`: http://thomasstreet.net/blog/spreadsheet.html
