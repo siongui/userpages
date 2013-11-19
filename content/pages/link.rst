@@ -65,6 +65,8 @@ Styling:
 
   `AddThis <http://www.addthis.com/>`_
 
+  `Social Builder <http://www.mojotech.com/social-builder>`_
+
   `W3CPlus <http://www.w3cplus.com/>`_
 
   `LESS2CSS | LESS Live Preview <http://less2css.org/>`_
@@ -113,6 +115,12 @@ Misc:
   `Online Interpreters <http://repl.it/>`_
 
   `ifcfg.net README <http://ifcfg.net/readme>`_
+  (`Github <https://github.com/joshrendek/scala-ifcfg-api>`__)
+
+  `IP Lookup <https://iplook.herokuapp.com/>`_
+  (`Github <https://github.com/paulshi/iplookup>`__)
+
+  `Online Censorship In China <https://greatfire.org/>`_
 
 Plain Text Markup Format:
 
