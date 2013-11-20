@@ -6,7 +6,6 @@
   <meta name="description" content="{{ META_DESCRIPTION }}"/>
 
   {% include 'includes/seeds.html' %}
-  <link href="{{ BOOTSTRAP3_CSS_URL }}" rel="stylesheet">
   <link href="{{ FONT_AWESOME_URL }}" rel="stylesheet">
   <link href="{{ SITEURL }}/theme/css/style.css" rel="stylesheet">
 
@@ -17,21 +16,17 @@
   {% include 'includes/github_ribbon.html' %}
   {% include 'includes/navbar.html' %}
 
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12 col-sm-9">
-        {% block content %}{% endblock %}
-      </div>
-      <div class="col-xs-12 col-sm-3">
-        {% include 'includes/sidebar.html' %}
-      </div>
-    </div>
-  </div>
+  <div class="row"><!--
+ --><div class="span9-of-12">
+      {% block content %}{% endblock %}
+    </div><!--
+ --><div class="span3-of-12">
+      {% include 'includes/sidebar.html' %}
+    </div><!--
+--></div>
 
   <hr />
   {% include 'includes/footer.html' %}
-  <script src="{{ JQUERY_URL }}"></script>
-  <script src="{{ BOOTSTRAP3_JS_URL }}"></script>
   {% include 'includes/ga.html' %}
 </body>
 </html>

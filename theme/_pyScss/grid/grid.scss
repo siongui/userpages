@@ -1,0 +1,23 @@
+/* The number of columns in a row. */
+$num-columns: 12;
+
+/* The width at which the responsive grid layout kicks in. (px) */
+$stack-width: 768;
+
+.row {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+@for $i from 1 through $num-columns {
+  .span#{$i}-of-#{$num-columns} {
+    width: #{100 * $i / $num-columns}%;
+    display: inline-block;
+    vertical-align: top;
+
+    @media screen and (max-width: #{$stack-width - 1}px) {
+      width: 100%;
+      display: block;
+    }
+  }
+}

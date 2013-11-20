@@ -62,10 +62,7 @@ THEME = 'theme'
 
 # Bootstrap3, Font Awesome, and jQuery URL
 # Bootstrap CDN: http://www.bootstrapcdn.com/
-BOOTSTRAP3_CSS_URL = '//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css'
 FONT_AWESOME_URL = '//netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.min.css'
-BOOTSTRAP3_JS_URL = '//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js'
-JQUERY_URL = '//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js'
 
 # HTML meta info
 META_KEYWORDS = 'blog'
