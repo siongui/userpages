@@ -49,5 +49,9 @@ Recommended:
 
   `覺醒之翼——上座部佛教文獻選譯集 <http://www.theravadacn.org/DhammaIndex2.htm>`_
 
+Statistics:
+`GitHub Résumé <http://resume.github.io/?siongui>`_ /
+`Open Source Report Card <http://osrc.dfm.io/siongui>`_
+
 Misc:
 `My RSS Subscriptions <{filename}../extra/Feeder.opml>`_

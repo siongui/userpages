@@ -105,6 +105,8 @@ Code Sharing & Demo:
 
   `JSFiddle <http://jsfiddle.net/>`_
 
+  `RunJS <http://runjs.cn/>`_
+
   `Pastebin.com <http://pastebin.com/>`_
 
   `Github Gist <https://gist.github.com/>`_
@@ -142,6 +144,10 @@ Misc:
 
   `Project Euler <http://projecteuler.net/>`_
 
+  `自由軟體鑄造場 | OpenFoundry <http://www.openfoundry.org/>`_
+
+  `Open Source Community Map in Taiwan <http://www.mindmeister.com/303031964/open-source-community-map-in-taiwan>`_
+
 Plain Text Markup Format:
 
   `Quick reStructuredText <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_
@@ -168,7 +174,7 @@ Personal Blog:
 
   `Pádraig Brady <http://www.pixelbeat.org/>`_
 
-  Chinese:
+  Simplified Chinese:
 
     `Beyond the Void <https://www.byvoid.com/>`_
 
@@ -180,9 +186,22 @@ Personal Blog:
 
     `justjavac(迷渡) <http://justjavac.com/>`_
 
-    `Wenli Zhang <http://zhangwenli.com/>`_
-
     `宇宙的心弦 <http://www.physixfan.com/>`_
+
+    `伪程序猿 <http://rca.is-programmer.com/>`_
 
     `Zhipeng JIANG <http://jesusjzp.github.io/>`_
 
+  `Wenli Zhang <http://zhangwenli.com/>`_
+
+  Traditional Chinese:
+
+    `O3noBLOG <https://blog.othree.net/>`_
+
+    `Tsung's Blog <http://blog.longwin.com.tw/>`_
+
+    `Gea-Suan Lin's BLOG <http://blog.gslin.org/>`_
+
+    `J. S. Liang (Jenny) <http://jsliang.com/>`_
+
+  `Yu-Jie Lin <http://www.yjl.im/>`_
