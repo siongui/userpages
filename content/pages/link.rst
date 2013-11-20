@@ -43,6 +43,10 @@ JavaScript:
 
   `egghead.io (AngularJS learning) <http://egghead.io/>`_
 
+  `Online JavaScript beautifier <http://jsbeautifier.org/>`_
+
+  `js1k.com <http://js1k.com/>`_
+
 Styling:
 
   SASS:
@@ -77,6 +81,16 @@ Styling:
 
     `Public Domain Pictures <http://www.publicdomainpictures.net/>`_
 
+  `Can I use... Support tables for HTML5, CSS3, etc <http://caniuse.com/>`_
+
+  `Design Gallery, Articles & Community | Design Shack <http://designshack.net/>`_
+
+  `CSS Front-end Frameworks with comparison <http://usablica.github.io/front-end-frameworks/compare.html>`_
+
+  `CSS Portal <http://www.cssportal.com/>`_
+
+  `CSS-Tricks <http://css-tricks.com/>`_
+
   `Bootstrap <http://getbootstrap.com/components/>`_
 
   `W3CPlus <http://www.w3cplus.com/>`_
@@ -104,6 +118,8 @@ Code Sharing & Demo:
   `CodePen <http://codepen.io/>`_
 
   `JSFiddle <http://jsfiddle.net/>`_
+
+  `dabblet <http://dabblet.com/>`_
 
   `RunJS <http://runjs.cn/>`_
 
@@ -148,11 +164,15 @@ Misc:
 
   `Open Source Community Map in Taiwan <http://www.mindmeister.com/303031964/open-source-community-map-in-taiwan>`_
 
+  `EditorConfig <http://editorconfig.org/>`_
+
 Plain Text Markup Format:
 
   `Quick reStructuredText <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_
 
   `Pandoc Markdown and ReST Compared <http://www.unexpected-vortices.com/doc-notes/markdown-and-rest-compared.html>`_
+
+  `reStructuredText in Vim <https://github.com/Rykka/riv.vim>`_
 
 Social:
 
@@ -173,6 +193,10 @@ Personal Blog:
   `kyleisom.net <http://kyleisom.net/>`_
 
   `Pádraig Brady <http://www.pixelbeat.org/>`_
+
+  `Dustin Boswell's Home Page <http://dustwell.com/>`_
+
+  `Vanseo Design <http://www.vanseodesign.com/>`_
 
   Simplified Chinese:
 
