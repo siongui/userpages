@@ -45,27 +45,39 @@ JavaScript:
 
 Styling:
 
-  `SASS <http://sass-lang.com/>`_
+  SASS:
 
-  `pyScss <https://github.com/Kronuz/pyScss>`_
-  (`Documentation <https://pyscss.readthedocs.org/>`__)
+    `SASS <http://sass-lang.com/>`_
 
-  `chriseppstein / sass-recipes <https://github.com/chriseppstein/sass-recipes>`_
-  (public domain)
+    `pyScss <https://github.com/Kronuz/pyScss>`_
+    (`Documentation <https://pyscss.readthedocs.org/>`__)
 
-  `前端工程日誌: Sass教學手冊 <http://sam0512.blogspot.tw/2013/10/sass.html>`_
+    `chriseppstein / sass-recipes <https://github.com/chriseppstein/sass-recipes>`_
+    (public domain)
+
+    `前端工程日誌: Sass教學手冊 <http://sam0512.blogspot.tw/2013/10/sass.html>`_
+
+  Responsive Test:
+
+    `The Responsinator <http://www.responsinator.com/>`_
+
+    `Responsive Design Bookmarklet <http://responsive.victorcoulon.fr/>`_
+
+  Social Buttons:
+
+    `AddThis <http://www.addthis.com/>`_
+
+    `Social Builder <http://www.mojotech.com/social-builder>`_
+
+  Icon & Images:
+
+    `Font Awesome <http://fortawesome.github.io/Font-Awesome/icons/>`_
+
+    `The online royalty free public domain clip art <http://www.clker.com/>`_
+
+    `Public Domain Pictures <http://www.publicdomainpictures.net/>`_
 
   `Bootstrap <http://getbootstrap.com/components/>`_
-
-  `Font Awesome <http://fortawesome.github.io/Font-Awesome/icons/>`_
-
-  `The online royalty free public domain clip art <http://www.clker.com/>`_
-
-  `Public Domain Pictures <http://www.publicdomainpictures.net/>`_
-
-  `AddThis <http://www.addthis.com/>`_
-
-  `Social Builder <http://www.mojotech.com/social-builder>`_
 
   `W3CPlus <http://www.w3cplus.com/>`_
 
@@ -74,10 +86,6 @@ Styling:
   `Patternify | A CSS Pattern Generator <http://www.patternify.com/>`_
 
   `Designer.app | Your Blog Description Here <http://designerapp.blogspot.com/>`_
-
-  `The Responsinator <http://www.responsinator.com/>`_
-
-  `Responsive Design Bookmarklet <http://responsive.victorcoulon.fr/>`_
 
   `CSS3 Click Chart | CSS3 Browser Support and Information <http://css3clickchart.com/>`_
 
@@ -91,15 +99,21 @@ Webmaster Tools:
 
   `Google Analytics <https://www.google.com/analytics/web/>`_
 
-Personal Blog:
+Code Sharing & Demo:
 
-  `Beyond the Voidi <https://www.byvoid.com/>`_
+  `CodePen <http://codepen.io/>`_
 
-  `Ondřej Žára <http://ondras.zarovi.cz/>`_
+  `JSFiddle <http://jsfiddle.net/>`_
 
-  `kyleisom.net <http://kyleisom.net/>`_
+  `Pastebin.com <http://pastebin.com/>`_
 
-  `Pádraig Brady <http://www.pixelbeat.org/>`_
+  `Github Gist <https://gist.github.com/>`_
+
+  `dpaste <http://dpaste.com/>`_
+
+  `hastebin <http://hastebin.com/>`_
+
+  `Codejaw <http://codejaw.com/>`_
 
 Tutorials:
 
@@ -122,6 +136,12 @@ Misc:
 
   `Online Censorship In China <https://greatfire.org/>`_
 
+  `Github精選 <http://n22.cn/github/>`_
+
+  `阿里測 <http://alibench.com/>`_
+
+  `Project Euler <http://projecteuler.net/>`_
+
 Plain Text Markup Format:
 
   `Quick reStructuredText <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_
@@ -139,4 +159,30 @@ News:
   `華爾街日報 <http://cn.wsj.com/big5/>`_
 
   `日經中文網 <http://zh.cn.nikkei.com/>`_
+
+Personal Blog:
+
+  `Ondřej Žára <http://ondras.zarovi.cz/>`_
+
+  `kyleisom.net <http://kyleisom.net/>`_
+
+  `Pádraig Brady <http://www.pixelbeat.org/>`_
+
+  Chinese:
+
+    `Beyond the Void <https://www.byvoid.com/>`_
+
+    `BeiYuu.com <http://beiyuu.com/>`_
+
+    `黄博文的地盘 <http://www.huangbowen.net/>`_
+
+    `岁月如歌 <http://lifesinger.wordpress.com/>`_
+
+    `justjavac(迷渡) <http://justjavac.com/>`_
+
+    `Wenli Zhang <http://zhangwenli.com/>`_
+
+    `宇宙的心弦 <http://www.physixfan.com/>`_
+
+    `Zhipeng JIANG <http://jesusjzp.github.io/>`_
 
