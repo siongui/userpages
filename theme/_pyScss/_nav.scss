@@ -1,4 +1,4 @@
-.navbar[role=navigation] {
+nav.navbar[role=navigation] {
   /* gradient generated from http://www.colorzilla.com/gradient-editor/ */
   background: rgb(255,255,255); /* Old browsers */
   background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(229,229,229,1) 100%); /* FF3.6+ */
@@ -11,4 +11,7 @@
 
 
   padding: .5em;
+
+  header { display: inline-block; }
+  ul { display: inline-block; }
 }

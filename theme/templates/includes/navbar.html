@@ -1,52 +1,49 @@
 <nav class="navbar" role="navigation">
-  <div class="navbar-header">
-    <header>
-      <a class="navbar-brand" href="{{ SITEURL }}/">{{ SITENAME }}</a>
-    </header>
-  </div>
+  <header>
+    <a class="navbar-brand" href="{{ SITEURL }}/">{{ SITENAME }}</a>
+  </header>
 
-  <div class="collapse navbar-collapse navbar-ex1-collapse">
+  <ul class="nav navbar-nav">
+    {% for title, link in MENUITEMS %}
+      <li><a href="{{ link }}">{{ title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  {% if DISPLAY_PAGES_ON_MENU %}
     <ul class="nav navbar-nav">
-      {% for title, link in MENUITEMS %}
-        <li><a href="{{ link }}">{{ title }}</a></li>
+      {% for p in PAGES %}
+        <li{% if p == page %} class="active"{% endif %}>
+          <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+        </li>
       {% endfor %}
     </ul>
+  {% endif %}
 
-    <ul class="nav navbar-nav">
-      {% if DISPLAY_PAGES_ON_MENU %}
-        {% for p in PAGES %}
-          <li{% if p == page %} class="active"{% endif %}>
-            <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
-          </li>
-        {% endfor %}
-      {% endif %}
+  {% if DISPLAY_CATEGORIES_ON_MENU %}
+    <ul class="nav navbar-nav navbar-right">
+      {% for cat, null in categories %}
+        {% if cat == category %}
+        <li class="active">
+          <a href="{{ SITEURL }}/{{ cat.url }}">
+            <i class="fa fa-folder-open"></i> {{ cat }}
+          </a>
+        </li>
+        {% else %}
+        <li>
+          <a href="{{ SITEURL }}/{{ cat.url }}">
+            <i class="fa fa-folder"></i> {{ cat }}
+          </a>
+        </li>
+        {% endif %}
+      {% endfor %}
     </ul>
+  {% endif %}
 
-    <ul class="nav navbar-nav navbar-right">
-      {% if DISPLAY_CATEGORIES_ON_MENU %}
-        {% for cat, null in categories %}
-          {% if cat == category %}
-          <li class="active">
-            <a href="{{ SITEURL }}/{{ cat.url }}">
-              <i class="fa fa-folder-open"></i> {{ cat }}
-            </a>
-          </li>
-          {% else %}
-          <li>
-            <a href="{{ SITEURL }}/{{ cat.url }}">
-              <i class="fa fa-folder"></i> {{ cat }}
-            </a>
-          </li>
-          {% endif %}
-        {% endfor %}
-      {% endif %}
-    </ul>
-    <ul class="nav navbar-nav navbar-right">
-      <li>
-        <a href="{{ SITEURL }}/{{ ARCHIVES_URL | default('archives.html') }}">
-          <i class="fa fa-archive"></i> Archives
-        </a>
-      </li>
-    </ul>
-  </div><!-- /.navbar-collapse -->
+  <ul class="nav navbar-nav navbar-right">
+    <li>
+      <a href="{{ SITEURL }}/{{ ARCHIVES_URL | default('archives.html') }}">
+        <i class="fa fa-archive"></i> Archives
+      </a>
+    </li>
+  </ul>
 </nav>

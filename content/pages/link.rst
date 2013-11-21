@@ -196,6 +196,9 @@ Misc:
   `社工库 <http://www.weigongkai.com/>`_
   (`Github source <https://github.com/xiaojiong/scanfile>`__)
 
+  `MediaCrush <https://mediacru.sh/>`_
+  (`Github source <https://github.com/MediaCrush/MediaCrush>`__)
+
 Plain Text Markup Format:
 
   `Quick reStructuredText <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_
