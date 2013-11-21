@@ -116,6 +116,8 @@ Styling:
 
   `The Ultimate Flexbox Cheat Sheet <http://www.sketchingwithcss.com/samplechapter/cheatsheet.html>`_
 
+  `Ultimate CSS Gradient Generator <http://www.colorzilla.com/gradient-editor/>`_
+
 Webmaster Tools:
 
   `Google Webmaster Tools <https://www.google.com/webmasters/tools/>`_
