@@ -2,7 +2,7 @@
   <section>
     <!-- Social Icon -->
     {% if SOCIAL %}
-      <div class="panel a-no-underline">
+      <div class="panel">
         {% for name, link in SOCIAL %}
           <a href="{{ link }}" title="{{ name }}">
             <i class="fa fa-{{ name }}-square fa-3x fa-fw"></i>
@@ -20,7 +20,7 @@
     {% endif %}
 
     <!-- Tag Cloud -->
-    <div class="panel panel-default a-no-underline">
+    <div class="panel panel-default">
       <div class="panel-heading">
         <h1 class="panel-title" title="Tags">
           <a href="{{ SITEURL }}/tags.html">
@@ -38,7 +38,7 @@
     </div>
 
     <!-- Categories -->
-    <div class="panel panel-default a-no-underline">
+    <div class="panel panel-default">
       <div class="panel-heading">
         <h1 class="panel-title" title="Categories">
           <a href="{{ SITEURL }}/categories.html">

@@ -26,6 +26,8 @@ Web Development:
 
   `DevDocs <http://devdocs.io/>`_
 
+  `Pypix <http://pypix.com/>`_
+
   `Google App Engine <https://developers.google.com/appengine/>`_
   (`Applications Overview <https://appengine.google.com/>`_)
 
@@ -198,6 +200,8 @@ Misc:
 
   `MediaCrush <https://mediacru.sh/>`_
   (`Github source <https://github.com/MediaCrush/MediaCrush>`__)
+
+  `Hacker Friendly <http://hacker-friendly.com/>`_
 
 Plain Text Markup Format:
 
