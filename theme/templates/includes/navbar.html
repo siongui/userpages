@@ -3,11 +3,13 @@
     <a href="{{ SITEURL }}/">{{ SITENAME }}</a>
   </header>
 
-  <ul>
+  {% if MENUITEMS|length != 0 %}
+    <ul>
     {% for title, link in MENUITEMS %}
       <li><a href="{{ link }}">{{ title }}</a></li>
     {% endfor %}
-  </ul>
+    </ul>
+  {% endif %}
 
   {% if DISPLAY_PAGES_ON_MENU %}
     <ul>
