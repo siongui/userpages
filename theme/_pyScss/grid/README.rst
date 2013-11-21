@@ -15,10 +15,10 @@ Install `pyScss <https://github.com/Kronuz/pyScss>`_:
   $ pip install pyScss
 
 
-Two css class are provided: *.row* and *.spanX-of-12*,
-where *X* is the number of columns in a row of total 12 columns.
+Two css class are provided: ``.row`` and ``.spanX-of-12``,
+where ``X`` is the number of columns in a row of total 12 columns.
 
-Because *display: inline-block* is used for *.spanX-of-12*, there is
+Because ``display: inline-block`` is used for ``.spanX-of-12``, there is
 `whitespace issue <http://designshack.net/articles/css/whats-the-deal-with-display-inline-block/>`_
 in such design. Please refer to
 `this article <http://css-tricks.com/fighting-the-space-between-inline-block-elements/>`_
