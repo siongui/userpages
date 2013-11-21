@@ -20,6 +20,8 @@ Info:
 
   `Coders News <http://codersnews.com/>`_
 
+  `AngularJS中文社区 <http://angularjs.cn/>`_
+
 Web Development:
 
   `DevDocs <http://devdocs.io/>`_
@@ -40,8 +42,6 @@ JavaScript:
   `QuirksMode <http://www.quirksmode.org/>`_
 
   `John Resig - JavaScript Programmer <http://ejohn.org/>`_
-
-  `egghead.io (AngularJS learning) <http://egghead.io/>`_
 
   `Online JavaScript beautifier <http://jsbeautifier.org/>`_
 
@@ -126,7 +126,7 @@ Webmaster Tools:
 
   `Google Analytics <https://www.google.com/analytics/web/>`_
 
-Code Sharing & Demo:
+Code Playground:
 
   `CodePen <http://codepen.io/>`_
 
@@ -135,6 +135,8 @@ Code Sharing & Demo:
   `dabblet <http://dabblet.com/>`_
 
   `RunJS <http://runjs.cn/>`_
+
+  `JS Bin <http://jsbin.com/>`_
 
   `Pastebin.com <http://pastebin.com/>`_
 
@@ -150,9 +152,13 @@ Code Sharing & Demo:
 
   `.NET Fiddle <http://www.dotnetfiddle.net/>`_
 
+  `Online Interpreters <http://repl.it/>`_
+
 Tutorials:
 
   `Learn Code The Hard Way <http://learncodethehardway.org/>`_
+
+  `egghead.io (AngularJS learning) <http://egghead.io/>`_
 
 Misc:
 
@@ -160,8 +166,6 @@ Misc:
   `localhost 8000 <http://localhost:8000/>`_
 
   `Stackful.io blog <http://stackful-dev.com/>`_
-
-  `Online Interpreters <http://repl.it/>`_
 
   `ifcfg.net README <http://ifcfg.net/readme>`_
   (`Github <https://github.com/joshrendek/scala-ifcfg-api>`__)

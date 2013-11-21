@@ -15,6 +15,8 @@
 
 `Code Gangsta <http://codegangsta.io/>`_
 
+`Tero Parviainen <http://teropa.info/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_

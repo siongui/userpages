@@ -1,6 +1,6 @@
 <article class="post">
-  <div class="row">
-    <div class="col-sm-2">
+  <div class="row"><!--
+ --><div class="span2-of-12">
       <aside class="post-metadata-date">
         <time title="{{ article.date.isoformat() }}">
           <div>{{ article.date | strftime('%B %d') }}</div>
@@ -19,8 +19,8 @@
           {% endfor %}
         </aside>
       {% endif %}
-    </div>
-    <div class="col-sm-10 post-title">
+    </div><!--
+ --><div class="span10-of-12 post-title">
       <header>
         <h3>
           <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
@@ -44,6 +44,6 @@
       {{ article.summary }}
       <a class="read-more" href="{{ SITEURL }}/{{ article.url }}">&nbsp;read more &raquo;</a>
       </div>
-    </div>
-  </div>
+    </div><!--
+--></div>
 </article>
