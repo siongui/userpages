@@ -67,6 +67,8 @@ Styling:
 
     `Responsive Design Bookmarklet <http://responsive.victorcoulon.fr/>`_
 
+    `Responsive web design online testing | isResponsive <http://www.isresponsive.com/>`_
+
   Social Buttons:
 
     `AddThis <http://www.addthis.com/>`_
@@ -103,6 +105,11 @@ Styling:
 
   `CSS3 Click Chart | CSS3 Browser Support and Information <http://css3clickchart.com/>`_
 
+  `Hack Design <http://www.hackdesign.org/>`_
+  (`Toolkit <http://www.hackdesign.org/toolkit/>`_)
+
+  `The Ultimate Flexbox Cheat Sheet <http://www.sketchingwithcss.com/samplechapter/cheatsheet.html>`_
+
 Webmaster Tools:
 
   `Google Webmaster Tools <https://www.google.com/webmasters/tools/>`_
@@ -132,6 +139,10 @@ Code Sharing & Demo:
   `hastebin <http://hastebin.com/>`_
 
   `Codejaw <http://codejaw.com/>`_
+
+  `R-Fiddle <http://www.r-fiddle.org/>`_
+
+  `.NET Fiddle <http://www.dotnetfiddle.net/>`_
 
 Tutorials:
 
@@ -165,6 +176,13 @@ Misc:
   `Open Source Community Map in Taiwan <http://www.mindmeister.com/303031964/open-source-community-map-in-taiwan>`_
 
   `EditorConfig <http://editorconfig.org/>`_
+
+  `iCoding <http://www.icoding.co/>`_
+
+  `The Changelog <http://thechangelog.com/>`_
+
+  `社工库 <http://www.weigongkai.com/>`_
+  (`Github source <https://github.com/xiaojiong/scanfile>`__)
 
 Plain Text Markup Format:
 
@@ -216,6 +234,8 @@ Personal Blog:
 
     `Zhipeng JIANG <http://jesusjzp.github.io/>`_
 
+    `Yihui Xie <http://yihui.name/>`_
+
   `Wenli Zhang <http://zhangwenli.com/>`_
 
   Traditional Chinese:
@@ -227,5 +247,9 @@ Personal Blog:
     `Gea-Suan Lin's BLOG <http://blog.gslin.org/>`_
 
     `J. S. Liang (Jenny) <http://jsliang.com/>`_
+
+    `嫁給RD的 UI Designer <http://akanelee.logdown.com/>`_
+
+    `Blog.XDite.net <http://blog.xdite.net/>`_
 
   `Yu-Jie Lin <http://www.yjl.im/>`_
