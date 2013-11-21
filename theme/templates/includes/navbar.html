@@ -1,16 +1,16 @@
 <nav class="navbar" role="navigation">
   <header>
-    <a class="navbar-brand" href="{{ SITEURL }}/">{{ SITENAME }}</a>
+    <a href="{{ SITEURL }}/">{{ SITENAME }}</a>
   </header>
 
-  <ul class="nav navbar-nav">
+  <ul>
     {% for title, link in MENUITEMS %}
       <li><a href="{{ link }}">{{ title }}</a></li>
     {% endfor %}
   </ul>
 
   {% if DISPLAY_PAGES_ON_MENU %}
-    <ul class="nav navbar-nav">
+    <ul>
       {% for p in PAGES %}
         <li{% if p == page %} class="active"{% endif %}>
           <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
@@ -20,7 +20,7 @@
   {% endif %}
 
   {% if DISPLAY_CATEGORIES_ON_MENU %}
-    <ul class="nav navbar-nav navbar-right">
+    <ul>
       {% for cat, null in categories %}
         {% if cat == category %}
         <li class="active">
@@ -39,7 +39,7 @@
     </ul>
   {% endif %}
 
-  <ul class="nav navbar-nav navbar-right">
+  <ul>
     <li>
       <a href="{{ SITEURL }}/{{ ARCHIVES_URL | default('archives.html') }}">
         <i class="fa fa-archive"></i> Archives

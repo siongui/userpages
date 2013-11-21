@@ -9,9 +9,20 @@ nav.navbar[role=navigation] {
   background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(229,229,229,1) 100%); /* W3C */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e5e5e5',GradientType=0 ); /* IE6-9 */
 
+  a { text-decoration: none; }
 
-  padding: .5em;
-
-  header { display: inline-block; }
-  ul { display: inline-block; }
+  header {
+    display: inline-block;
+    font-size: 2em;
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+  ul {
+    display: inline-block;
+    li {
+      display: inline;
+      margin-right: 1em;
+    }
+    li.active { background-color: #e7e7e7; }
+  }
 }
