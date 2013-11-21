@@ -58,7 +58,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 THEME = 'theme'
 
 # For Github Ribbon
-#GITHUB_URL = ''
+GITHUB_REPO_URL = 'https://github.com/siongui/userpages'
 
 # Bootstrap3, Font Awesome, and jQuery URL
 # Bootstrap CDN: http://www.bootstrapcdn.com/
