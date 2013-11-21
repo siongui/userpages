@@ -49,6 +49,8 @@ JavaScript:
 
   `js1k.com <http://js1k.com/>`_
 
+  `aem1k - crazy.min.js <http://aem1k.com/>`_
+
 Styling:
 
   SASS:
