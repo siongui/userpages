@@ -27,6 +27,8 @@
 
 `Marginally Interesting by Mikio L. Braun <http://blog.mikiobraun.de/>`_
 
+`Nihilogic - JavaScript, games and other things that matter <http://blog.nihilogic.dk/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_

@@ -28,6 +28,19 @@ figure.code {
   }
 }
 
+dl.archives-list {
+  padding: .5em;
+
+  dt {
+    float: left;
+    clear: left;
+  }
+  dd {
+    float: left;
+    margin-left: 1em;
+  }
+}
+
 @for $n from 0 through 4 {
   .tag-#{$n} {
     font-size: 200% - $n * 25%;

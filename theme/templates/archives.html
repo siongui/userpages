@@ -5,7 +5,7 @@
 <section>
   <h1>Archives for {{ SITENAME }}</h1>
 
-  <dl class="dl-horizontal">
+  <dl class="archives-list">
     {% for article in dates %}
       <dt>{{ article.date | strftime('%B %d, %Y') }}</dt>
       <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
