@@ -160,6 +160,8 @@ Styling:
 
   `盒子UI <http://www.boxui.com/>`_
 
+  `UICloud <http://ui-cloud.com/>`_
+
 Web Hosting:
 
   `Host websites in Google Drive™ using your domain. <http://gweb.io/>`_
