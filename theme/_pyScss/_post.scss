@@ -1,20 +1,26 @@
 @import 'mixin';
 
+$link-hover-color: #2445ae;
+
 .post {
   @include border-radius(4px, 4px);
   margin: 2em;
   padding: .5em;
   background-color: white;
 
-  a { text-decoration: none; }
+  a {
+    text-decoration: none;
+    color: black;
+    &:hover { color: $link-hover-color; }
+  }
 
   .post-title {
-    color: #111;
     font-size: 2em;
   }
 
   .post-metadata-date {
-    color: #d6d5d5;
+    //color: #d6d5d5;
+    color: #dbdad0;
   }
 
   .post-content {
@@ -22,5 +28,8 @@
     p { display: inline; }
   }
 
-  .read-more { color: #428bca; }
+  a.read-more {
+    color: #428bca;
+    &:hover { color: $link-hover-color; }
+  }
 }

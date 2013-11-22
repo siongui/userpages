@@ -107,6 +107,8 @@ Styling:
 
     `IKONS <http://ikons.piotrkwiatkowski.co.uk/>`_
 
+    `ICON PARK <http://icon-park.com/>`_
+
   Font:
 
     `Google Fonts <http://www.google.com/fonts>`_
@@ -123,6 +125,8 @@ Styling:
 
     `CSS ARROW PLEASE! <http://cssarrowplease.com/>`_
     (`Github source <https://github.com/hojberg/cssarrowplease>`__)
+
+    `Noise Texture Generator <http://www.noisetexturegenerator.com/>`_
 
   CSS Front-end Frameworks:
 

@@ -26,11 +26,11 @@ ARTICLE_LANG_SAVE_AS = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 # STATIC_SAVE_AS = '{path}'
 # STATIC_URL = '{path}'
 STATIC_PATHS = ['extra/robots.txt',
-                'extra/noize_background_white.png',
+                'extra/noisy-texture-100x100-o5-d10-c-dbdad0-t0.png',
                 'extra/Feeder.opml',
                 'extra/yezi.png',]
 EXTRA_PATH_METADATA = {'extra/robots.txt': {'path': 'robots.txt'},
-                       'extra/noize_background_white.png': {'path': 'theme/bg.png'},
+                       'extra/noisy-texture-100x100-o5-d10-c-dbdad0-t0.png': {'path': 'theme/bg.png'},
                        'extra/Feeder.opml': {'path': 'misc/Feeder.opml'},
                        'extra/yezi.png': {'path': 'favicon.ico'},}
 
