@@ -152,6 +152,21 @@ Styling:
 
   `The Ultimate Flexbox Cheat Sheet <http://www.sketchingwithcss.com/samplechapter/cheatsheet.html>`_
 
+  `Pattern Library <http://ux.mailchimp.com/patterns>`_
+
+  `MapBox styleguide <https://www.mapbox.com/base/>`_
+
+  `CSS · Styleguide · GitHub <https://github.com/styleguide/css>`_
+
+  `盒子UI <http://www.boxui.com/>`_
+
+Web Hosting:
+
+  `Host websites in Google Drive™ using your domain. <http://gweb.io/>`_
+  (`slides <http://gde-summit-2013.cesar-anton.gweb.io/>`__)
+
+  `Host websites in Dropbox using your domain. <http://dockbox.io/>`_
+
 Webmaster Tools:
 
   `Google Webmaster Tools <https://www.google.com/webmasters/tools/>`_
@@ -195,6 +210,8 @@ Tutorials:
   `Learn Code The Hard Way <http://learncodethehardway.org/>`_
 
   `egghead.io (AngularJS learning) <http://egghead.io/>`_
+
+  `Beej's Guide to Network Programming <http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html>`_
 
 Misc:
 
@@ -244,6 +261,8 @@ Misc:
   `GET /engineering.blog - Zapier <https://zapier.com/engineering/>`_
 
   `watson - inline issue manager <http://goosecode.com/watson/>`_
+
+  `Prose • A Content Editor for GitHub <http://prose.io/>`_
 
 Plain Text Markup Format:
 

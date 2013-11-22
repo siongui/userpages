@@ -7,6 +7,8 @@
 
 `kyleisom.net <http://kyleisom.net/>`_
 
+`Beej's Web Page <http://beej.us/>`_
+
 `Pádraig Brady <http://www.pixelbeat.org/>`_
 
 `Dustin Boswell's Home Page <http://dustwell.com/>`_
@@ -16,6 +18,14 @@
 `Tero Parviainen <http://teropa.info/>`_
 
 `Michael Herman <http://mherman.org/>`_
+
+`KidsIL | Web Developer in Berlin <http://www.kidsil.net/>`_
+
+`Laurent Luce's Blog <http://www.laurentluce.com/>`_
+
+`python for beginers <http://pyskull.blogspot.com>`_
+
+`Marginally Interesting by Mikio L. Braun <http://blog.mikiobraun.de/>`_
 
 Simplified Chinese:
 
