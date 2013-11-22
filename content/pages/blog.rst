@@ -11,11 +11,11 @@
 
 `Dustin Boswell's Home Page <http://dustwell.com/>`_
 
-`Vanseo Design <http://www.vanseodesign.com/>`_
-
 `Code Gangsta <http://codegangsta.io/>`_
 
 `Tero Parviainen <http://teropa.info/>`_
+
+`Michael Herman <http://mherman.org/>`_
 
 Simplified Chinese:
 

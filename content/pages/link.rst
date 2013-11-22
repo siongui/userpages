@@ -22,11 +22,21 @@ Info:
 
   `AngularJS中文社区 <http://angularjs.cn/>`_
 
+  `Professional Network for Tech - Tech.Pro <http://tech.pro/>`_
+
+  `NodeCloud - Node.js resources <http://www.nodecloud.org/>`_
+
 Web Development:
+
+  `Vanseo Design <http://www.vanseodesign.com/>`_
 
   `DevDocs <http://devdocs.io/>`_
 
   `Pypix <http://pypix.com/>`_
+
+  `Webdesigntuts+ <http://webdesign.tutsplus.com/>`_
+
+  `Scotch ♥ Developers bringing fire to the people. <http://scotch.io/>`_
 
   `Google App Engine <https://developers.google.com/appengine/>`_
   (`Applications Overview <https://appengine.google.com/>`_)
@@ -60,8 +70,13 @@ Styling:
     `pyScss <https://github.com/Kronuz/pyScss>`_
     (`Documentation <https://pyscss.readthedocs.org/>`__)
 
+    `Libsass - A C implementation of a Sass compiler <https://github.com/hcatlin/libsass>`_
+
     `chriseppstein / sass-recipes <https://github.com/chriseppstein/sass-recipes>`_
     (public domain)
+
+    `Scut <http://davidtheclark.github.io/scut/>`_
+    (`Github source <https://github.com/davidtheclark/scut/>`__)
 
     `前端工程日誌: Sass教學手冊 <http://sam0512.blogspot.tw/2013/10/sass.html>`_
 
@@ -87,29 +102,46 @@ Styling:
 
     `Public Domain Pictures <http://www.publicdomainpictures.net/>`_
 
+    `IKONS <http://ikons.piotrkwiatkowski.co.uk/>`_
+
   Font:
 
     `Google Fonts <http://www.google.com/fonts>`_
 
     `Open Font Library <http://openfontlibrary.org/>`_
 
+  Styling & Images Generator:
+
+    `Gridpak - The Responsive grid generator <http://gridpak.com/>`_
+
+    `Ultimate CSS Gradient Generator <http://www.colorzilla.com/gradient-editor/>`_
+
+    `Patternify | A CSS Pattern Generator <http://www.patternify.com/>`_
+
+    `CSS ARROW PLEASE! <http://cssarrowplease.com/>`_
+    (`Github source <https://github.com/hojberg/cssarrowplease>`__)
+
+  CSS Front-end Frameworks:
+
+    `CSS Front-end Frameworks with comparison <http://usablica.github.io/front-end-frameworks/compare.html>`_
+    
+    `Bootstrap <http://getbootstrap.com/components/>`_
+
+    `Foundation <http://foundation.zurb.com/>`_
+
+    `Pure <http://purecss.io/>`_
+
   `Can I use... Support tables for HTML5, CSS3, etc <http://caniuse.com/>`_
 
   `Design Gallery, Articles & Community | Design Shack <http://designshack.net/>`_
-
-  `CSS Front-end Frameworks with comparison <http://usablica.github.io/front-end-frameworks/compare.html>`_
 
   `CSS Portal <http://www.cssportal.com/>`_
 
   `CSS-Tricks <http://css-tricks.com/>`_
 
-  `Bootstrap <http://getbootstrap.com/components/>`_
-
   `W3CPlus <http://www.w3cplus.com/>`_
 
   `LESS2CSS | LESS Live Preview <http://less2css.org/>`_
-
-  `Patternify | A CSS Pattern Generator <http://www.patternify.com/>`_
 
   `Designer.app | Your Blog Description Here <http://designerapp.blogspot.com/>`_
 
@@ -119,8 +151,6 @@ Styling:
   (`Toolkit <http://www.hackdesign.org/toolkit/>`_)
 
   `The Ultimate Flexbox Cheat Sheet <http://www.sketchingwithcss.com/samplechapter/cheatsheet.html>`_
-
-  `Ultimate CSS Gradient Generator <http://www.colorzilla.com/gradient-editor/>`_
 
 Webmaster Tools:
 
@@ -204,6 +234,16 @@ Misc:
   (`Github source <https://github.com/MediaCrush/MediaCrush>`__)
 
   `Hacker Friendly <http://hacker-friendly.com/>`_
+
+  `Detect Mobile Browsers <http://detectmobilebrowsers.com/>`_
+
+  `BuiltWith Technology Lookup <http://builtwith.com/>`_
+
+  `Real Python! Blog <http://www.realpython.com/blog/>`_
+
+  `GET /engineering.blog - Zapier <https://zapier.com/engineering/>`_
+
+  `watson - inline issue manager <http://goosecode.com/watson/>`_
 
 Plain Text Markup Format:
 
