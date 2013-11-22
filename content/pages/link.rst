@@ -26,6 +26,9 @@ Info:
 
   `NodeCloud - Node.js resources <http://www.nodecloud.org/>`_
 
+  `SegmentFault <http://segmentfault.com/>`_
+  (Chinese version of `Stack Overflow <http://stackoverflow.com/>`_)
+
 Web Development:
 
   `Vanseo Design <http://www.vanseodesign.com/>`_
