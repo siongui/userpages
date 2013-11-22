@@ -3,9 +3,10 @@
 @import 'mixin';
 @import 'pygments.css';
 @import 'grid/grid';
-@import 'nav';
+@import 'navbar';
 @import 'sidebar';
 
+body { background-color: #d6d5d5; }
 
 .rst-body {
   tt {

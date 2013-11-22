@@ -1,3 +1,5 @@
+@import 'mixin';
+
 nav.navbar[role=navigation] {
   /* gradient generated from http://www.colorzilla.com/gradient-editor/ */
   background: rgb(255,255,255); /* Old browsers */
@@ -9,6 +11,7 @@ nav.navbar[role=navigation] {
   background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(229,229,229,1) 100%); /* W3C */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e5e5e5',GradientType=0 ); /* IE6-9 */
 
+  @include border-radius(4px, 4px);
   a { text-decoration: none; }
 
   header {

@@ -1,49 +1,15 @@
 <article class="post">
-  <div class="row"><!--
- --><div class="span2-of-12">
-      <aside class="post-metadata-date">
-        <time title="{{ article.date.isoformat() }}">
-          <div>{{ article.date | strftime('%B %d') }}</div>
-          <div><b>{{ article.date | strftime('%Y') }}</b></div>
-        </time>
-      </aside>
+  <header class="post-title">
+    <strong><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></strong>
+  </header>
+  <aside class="post-metadata-date">
+    <time title="{{ article.date.isoformat() }}">
+      {{ article.date | strftime('%B %d, %Y') }}
+    </time>
+  </aside>
 
-      {% if article.tags %}
-        <aside class="post-metadata-tags">
-          <b>Tags</b>:
-          <br />
-          {% for tag in article.tags %}
-            <i class="fa fa-tag"></i>
-            <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
-            <br />
-          {% endfor %}
-        </aside>
-      {% endif %}
-    </div><!--
- --><div class="span10-of-12 post-title">
-      <header>
-        <h3>
-          <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-        </h3>
-      </header>
-
-      {% if article.author %}
-        <address class="post-metadata-author"><b>By</b> 
-          <a rel="author" 
-             href="{{ SITEURL }}/{{ article.author.url }}">
-            {{ article.author }}
-          </a>
-        </address>
-      {% endif %}
-      {% if article.category %}
-        <i class="fa fa-list"></i> <b>Category</b>:
-        <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
-      {% endif %}
-
-      <div class="post-content">
-      {{ article.summary }}
-      <a class="read-more" href="{{ SITEURL }}/{{ article.url }}">&nbsp;read more &raquo;</a>
-      </div>
-    </div><!--
---></div>
+  <div class="post-content">
+    {{ article.summary }}
+    <a class="read-more" href="{{ SITEURL }}/{{ article.url }}">&nbsp;read more &raquo;</a>
+  </div>
 </article>
