@@ -22,9 +22,9 @@ Websites:
 
 Contact:
 
-  Email: `siongui AT gmail DOT com`
+  Email: ``siongui AT gmail DOT com``
 
-  Skype Name: `siongui`
+  Skype Name: ``siongui``
 
 Blogs:
 
