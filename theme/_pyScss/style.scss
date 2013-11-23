@@ -1,8 +1,9 @@
-@import 'post';
-@import 'mixin';
 @import 'pygments.css';
 @import 'grid/grid';
+@import 'mixin';
 @import 'navbar';
+@import 'post';
+
 
 body {
   background: #ececef url(/theme/bg.png);
@@ -78,8 +79,9 @@ aside.sidebar {
   }
 }
 
-.article {
-  a { text-decoration: none; }
+section.article {
+  @extend .rounded-white-bg;
+  @extend .title-link;
 
   .article-metadata-author {
     margin-bottom: 0;

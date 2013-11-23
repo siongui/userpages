@@ -2,17 +2,21 @@
 
 $link-hover-color: #2445ae;
 
+.title-link {
+  a {
+    text-decoration: none;
+    color: black;
+    &:hover { color: $link-hover-color; }
+  }
+}
+
 .post {
   @include border-radius(4px, 4px);
   margin: .5em;
   padding: .5em;
   background-color: white;
 
-  a {
-    text-decoration: none;
-    color: black;
-    &:hover { color: $link-hover-color; }
-  }
+  @extend .title-link;
 
   .post-title {
     font-size: 2em;
