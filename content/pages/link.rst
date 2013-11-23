@@ -68,6 +68,8 @@ JavaScript:
 
   `aem1k - crazy.min.js <http://aem1k.com/>`_
 
+  `KrakenJS Suite <http://krakenjs.com/>`_
+
 Styling:
 
   SASS:
@@ -192,15 +194,21 @@ Webmaster Tools:
 
 Code Playground:
 
-  `CodePen <http://codepen.io/>`_
+  JavaScript/HTML/CSS:
 
-  `JSFiddle <http://jsfiddle.net/>`_
+    `CodePen <http://codepen.io/>`_
 
-  `dabblet <http://dabblet.com/>`_
+    `JSFiddle <http://jsfiddle.net/>`_
 
-  `RunJS <http://runjs.cn/>`_
+    `JS Bin <http://jsbin.com/>`_
 
-  `JS Bin <http://jsbin.com/>`_
+    `jsdo.it <http://jsdo.it/>`_
+
+    `Plunker <http://plnkr.co/>`_
+
+    `dabblet <http://dabblet.com/>`_
+
+    `RunJS <http://runjs.cn/>`_
 
   `Pastebin.com <http://pastebin.com/>`_
 
@@ -278,6 +286,8 @@ Misc:
   `Prose • A Content Editor for GitHub <http://prose.io/>`_
 
   `CodeProject <http://www.codeproject.com/>`_
+
+  `tmux <http://tmux.sourceforge.net/>`_
 
 Plain Text Markup Format:
 

@@ -70,4 +70,6 @@ Traditional Chinese:
 
   `微風夕語 <http://bone.twbbs.org.tw/blog/>`_
 
+  `josephj.com | 這樣做就對了 <http://josephj.com/>`_
+
 `Yu-Jie Lin <http://www.yjl.im/>`_

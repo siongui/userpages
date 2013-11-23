@@ -32,23 +32,37 @@ figure.code {
   }
 }
 
-dl.archives-list {
-  padding: .5em;
-
-  dt {
-    float: left;
-    clear: left;
-  }
-  dd {
-    float: left;
-    margin-left: 1em;
-  }
-}
-
 @for $n from 0 through 4 {
   .tag-#{$n} {
     font-size: 200% - $n * 25%;
     line-height: 2em;
   }
+}
+
+section.archives {
+  background-color: white;
+  margin: .5em;
+  padding: .5em;
+  @include border-radius(4px, 4px);
+
+  dl {
+    line-height: 2em;
+
+    dt {
+      float: left;
+      clear: left;
+    }
+    dd {
+      float: left;
+      margin-left: 1em;
+    }
+  }
+}
+
+section.page {
+  background-color: white;
+  margin: .5em;
+  padding: .5em;
+  @include border-radius(4px, 4px);
 }
 

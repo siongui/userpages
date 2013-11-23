@@ -2,10 +2,12 @@
 {% extends "layout.html" %}
 {% block title %}Archives - {{ super() }}{% endblock %}
 {% block content %}
-<section>
-  <h1>Archives for {{ SITENAME }}</h1>
+<section class="archives">
+  <header>
+    <h1>Archives for {{ SITENAME }}</h1>
+  </header>
 
-  <dl class="archives-list">
+  <dl>
     {% for article in dates %}
       <dt>{{ article.date | strftime('%B %d, %Y') }}</dt>
       <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
