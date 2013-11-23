@@ -41,6 +41,10 @@ Web Development:
 
   `Scotch ♥ Developers bringing fire to the people. <http://scotch.io/>`_
 
+  `onlyWebPro- Web Development Tutorials & Resources <http://www.onlywebpro.com/>`_
+
+  `Web Design Blog <http://www.webdesignblog.co/>`_
+
   `Google App Engine <https://developers.google.com/appengine/>`_
   (`Applications Overview <https://appengine.google.com/>`_)
 
@@ -272,6 +276,8 @@ Misc:
   `watson - inline issue manager <http://goosecode.com/watson/>`_
 
   `Prose • A Content Editor for GitHub <http://prose.io/>`_
+
+  `CodeProject <http://www.codeproject.com/>`_
 
 Plain Text Markup Format:
 

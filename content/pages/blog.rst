@@ -29,6 +29,9 @@
 
 `Nihilogic - JavaScript, games and other things that matter <http://blog.nihilogic.dk/>`_
 
+`Nick Craver <http://nickcraver.com/blog/>`_
+(Stack Overflow guy)
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_
