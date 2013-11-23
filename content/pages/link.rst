@@ -35,6 +35,22 @@ Info:
 
   `JavaScript Weekly <http://javascriptweekly.com/>`_
 
+  `图灵社区 <http://www.ituring.com.cn/>`_
+
+  `OurJS <http://ourjs.com/>`_
+
+  `中国云计算 <http://www.chinacloud.cn/>`_
+
+  `博客 - 伯乐在线 <http://blog.jobbole.com/>`_
+
+  `V2EX <http://www.v2ex.com/>`_
+
+  `Django中国社区 <http://django-china.cn/>`_
+
+  `站长之家 <http://www.chinaz.com/>`_
+
+  程序员杂志 (`old <http://www.programmer.com.cn/>`_, `new <http://programmer.csdn.net/>`_)
+
 Web Development:
 
   `Vanseo Design <http://www.vanseodesign.com/>`_

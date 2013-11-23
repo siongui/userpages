@@ -11,6 +11,8 @@
 
 `Pádraig Brady <http://www.pixelbeat.org/>`_
 
+`②ality – JavaScript and more <http://www.2ality.com/>`_
+
 `Dustin Boswell's Home Page <http://dustwell.com/>`_
 
 `Code Gangsta <http://codegangsta.io/>`_
@@ -34,6 +36,14 @@
 
 `Stiern.com <http://stiern.com/>`_
 
+`julik live <http://live.julik.nl/>`_
+
+`A Neighborhood of Infinity <http://blog.sigfpe.com/>`_
+
+`Jordan Moore <http://www.jordanm.co.uk/>`_
+
+`by @__tosh <http://www.ramen.io/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_
@@ -55,6 +65,12 @@ Simplified Chinese:
   `Yihui Xie <http://yihui.name/>`_
 
   `Jianshu <http://jianshu.io/>`_
+
+  `Justany_WhiteSnow <http://www.cnblogs.com/justany/>`_
+
+  `梦想天空 <http://www.cnblogs.com/lhb25/>`_
+
+  `毕丹军 <http://www.cnblogs.com/by1990/>`_
 
 `Wenli Zhang <http://zhangwenli.com/>`_
 
