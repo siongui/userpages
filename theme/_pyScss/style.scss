@@ -1,10 +1,8 @@
 @import 'post';
-@import 'article';
 @import 'mixin';
 @import 'pygments.css';
 @import 'grid/grid';
 @import 'navbar';
-@import 'sidebar';
 
 body {
   background: #ececef url(/theme/bg.png);
@@ -20,6 +18,13 @@ body {
     background-color: #f8f8f8;
     border-radius: 3px;
   }
+}
+
+.rounded-white-bg {
+  background-color: white;
+  margin: .5em;
+  padding: .5em;
+  @include border-radius(4px, 4px);
 }
 
 figure.code {
@@ -40,10 +45,7 @@ figure.code {
 }
 
 section.archives {
-  background-color: white;
-  margin: .5em;
-  padding: .5em;
-  @include border-radius(4px, 4px);
+  @extend .rounded-white-bg;
 
   dl {
     line-height: 2em;
@@ -60,9 +62,26 @@ section.archives {
 }
 
 section.page {
-  background-color: white;
-  margin: .5em;
-  padding: .5em;
-  @include border-radius(4px, 4px);
+  @extend .rounded-white-bg;
 }
 
+aside.sidebar {
+  padding: .5em;
+  a { text-decoration: none; }
+
+  .panel {
+    border: 1px solid #e1e1e8;
+    background-color: #f7f7f9;
+    margin-bottom: .5em;
+    padding: .5em;
+    @include border-radius(4px, 4px);
+  }
+}
+
+.article {
+  a { text-decoration: none; }
+
+  .article-metadata-author {
+    margin-bottom: 0;
+  }
+}
