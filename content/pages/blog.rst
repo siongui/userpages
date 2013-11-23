@@ -32,6 +32,8 @@
 `Nick Craver <http://nickcraver.com/blog/>`_
 (Stack Overflow guy)
 
+`Stiern.com <http://stiern.com/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_
@@ -52,6 +54,8 @@ Simplified Chinese:
 
   `Yihui Xie <http://yihui.name/>`_
 
+  `Jianshu <http://jianshu.io/>`_
+
 `Wenli Zhang <http://zhangwenli.com/>`_
 
 Traditional Chinese:
@@ -71,5 +75,7 @@ Traditional Chinese:
   `微風夕語 <http://bone.twbbs.org.tw/blog/>`_
 
   `josephj.com | 這樣做就對了 <http://josephj.com/>`_
+
+  `Lu-six Person's Notes <http://lucien.cc/>`_
 
 `Yu-Jie Lin <http://www.yjl.im/>`_
