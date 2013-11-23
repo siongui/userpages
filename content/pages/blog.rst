@@ -68,4 +68,6 @@ Traditional Chinese:
 
   `Blog.XDite.net <http://blog.xdite.net/>`_
 
+  `微風夕語 <http://bone.twbbs.org.tw/blog/>`_
+
 `Yu-Jie Lin <http://www.yjl.im/>`_

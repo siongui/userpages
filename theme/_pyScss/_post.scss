@@ -4,7 +4,7 @@ $link-hover-color: #2445ae;
 
 .post {
   @include border-radius(4px, 4px);
-  margin: 2em;
+  margin: .5em;
   padding: .5em;
   background-color: white;
 
@@ -21,6 +21,8 @@ $link-hover-color: #2445ae;
   .post-metadata-date {
     //color: #d6d5d5;
     color: #dbdad0;
+    font-size: 1.25em;
+    line-height: 1.5em;
   }
 
   .post-content {

@@ -6,7 +6,10 @@
 @import 'navbar';
 @import 'sidebar';
 
-body { background: #ececef url(/theme/bg.png); }
+body {
+  background: #ececef url(/theme/bg.png);
+  font-family: 'Trocchi', serif;
+}
 
 .rst-body {
   tt {
