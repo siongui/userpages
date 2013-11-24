@@ -29,7 +29,8 @@ body {
 }
 
 .rounded-white-bg {
-  background-color: white;
+  background-color: #f7f7f9;
+  //background-color: white;
   margin: .5em;
   padding: .5em;
   @include border-radius(4px, 4px);
@@ -45,7 +46,6 @@ body {
 nav.navbar[role=navigation] {
   @extend .navbar-gradient;
   @include border-radius(4px, 4px);
-  a { text-decoration: none; }
 
   header {
     display: inline-block;
@@ -66,11 +66,7 @@ nav.navbar[role=navigation] {
 }
 
 .post {
-  @include border-radius(4px, 4px);
-  margin: .5em;
-  padding: .5em;
-  background-color: white;
-
+  @extend .rounded-white-bg;
   @extend .title-link;
 
   .post-title {
@@ -127,15 +123,8 @@ section.page {
 }
 
 aside.sidebar {
-  padding: .5em;
-  a { text-decoration: none; }
-
   .panel {
-    border: 1px solid #e1e1e8;
-    background-color: #f7f7f9;
-    margin-bottom: .5em;
-    padding: .5em;
-    @include border-radius(4px, 4px);
+    @extend .rounded-white-bg;
   }
 }
 
