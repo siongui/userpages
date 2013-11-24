@@ -14,7 +14,7 @@ body {
 
 .rst-body {
   // for rst syntax: ``some_word_here``
-  // `tt` is not in HTML5
+  // <tt> is not supported in HTML5
   tt {
     white-space: nowrap;
     margin: 0 2px;
@@ -41,13 +41,6 @@ body {
   @include border-radius(4px, 4px);
 }
 
-/* for tag cloud */
-@for $n from 0 through 4 {
-  .tag-#{$n} {
-    font-size: 200% - $n * 25%;
-    line-height: 2em;
-  }
-}
 
 nav.navbar[role=navigation] {
   @extend .navbar-gradient;
@@ -127,6 +120,18 @@ section.page {
 aside.sidebar {
   .panel {
     @extend .rounded-white-bg;
+  }
+
+  /* for tag cloud */
+  @for $n from 0 through 4 {
+    .tag-#{$n} {
+      font-size: 200% - $n * 25%;
+      line-height: 2em;
+      padding: .25em;
+      background-color: #5bc0de;
+      color: white;
+      @include border-radius(4px, 4px);
+    }
   }
 }
 
