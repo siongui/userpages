@@ -5,12 +5,16 @@
 $link-hover-color: #2445ae;
 
 body {
+  // use noise background
   background: #ececef url(/theme/bg.png);
+  // use google web font
   font-family: 'Trocchi', serif;
   a { text-decoration: none; }
 }
 
 .rst-body {
+  // for rst syntax: ``some_word_here``
+  // `tt` is not in HTML5
   tt {
     white-space: nowrap;
     margin: 0 2px;
@@ -23,19 +27,21 @@ body {
 
 .title-link {
   header a {
+    font-size: 2em;
     color: black;
     &:hover { color: $link-hover-color; }
   }
 }
 
 .rounded-white-bg {
-  background-color: #f7f7f9;
-  //background-color: white;
+  //background-color: #f7f7f9;
+  background-color: white;
   margin: .5em;
   padding: .5em;
   @include border-radius(4px, 4px);
 }
 
+/* for tag cloud */
 @for $n from 0 through 4 {
   .tag-#{$n} {
     font-size: 200% - $n * 25%;
@@ -68,10 +74,6 @@ nav.navbar[role=navigation] {
 .post {
   @extend .rounded-white-bg;
   @extend .title-link;
-
-  .post-title {
-    font-size: 2em;
-  }
 
   .post-metadata-date {
     //color: #d6d5d5;

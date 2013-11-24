@@ -62,3 +62,5 @@
 
 `UsabilityPost <http://www.usabilitypost.com/>`_
 
+`Information Is Beautiful <http://www.informationisbeautiful.net/>`_
+
