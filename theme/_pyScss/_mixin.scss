@@ -1,6 +1,0 @@
-@mixin border-radius($radius, $vertical-radius) {
-  -webkit-border-radius: $radius $vertical-radius;
-  -moz-border-radius: #{$radius} / #{$vertical-radius};
-  -khtml-border-radius: #{$radius} / #{$vertical-radius};
-  border-radius: #{$radius} / #{$vertical-radius};
-}

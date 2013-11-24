@@ -1,9 +1,46 @@
 @import 'pygments.css';
 @import 'grid/grid';
-@import 'mixin';
-@import 'navbar';
-@import 'post';
+@import 'base';
 
+$link-hover-color: #2445ae;
+
+.title-link {
+  a {
+    text-decoration: none;
+    color: black;
+    &:hover { color: $link-hover-color; }
+  }
+}
+
+.post {
+  @include border-radius(4px, 4px);
+  margin: .5em;
+  padding: .5em;
+  background-color: white;
+
+  @extend .title-link;
+
+  .post-title {
+    font-size: 2em;
+  }
+
+  .post-metadata-date {
+    //color: #d6d5d5;
+    color: #dbdad0;
+    font-size: 1.25em;
+    line-height: 1.5em;
+  }
+
+  .post-content {
+    line-height: 1.5em;
+    p { display: inline; }
+  }
+
+  a.read-more {
+    color: #428bca;
+    &:hover { color: $link-hover-color; }
+  }
+}
 
 body {
   background: #ececef url(/theme/bg.png);
@@ -85,5 +122,28 @@ section.article {
 
   .article-metadata-author {
     margin-bottom: 0;
+  }
+}
+
+nav.navbar[role=navigation] {
+  @extend .navbar-gradient;
+  @include border-radius(4px, 4px);
+  a { text-decoration: none; }
+
+  header {
+    display: inline-block;
+    font-size: 2em;
+    margin-left: 1em;
+    margin-right: 1em;
+    vertical-align: middle;
+  }
+  ul {
+    vertical-align: middle;
+    display: inline-block;
+    li {
+      display: inline;
+      margin-right: 1em;
+    }
+    li.active { background-color: #e7e7e7; }
   }
 }
