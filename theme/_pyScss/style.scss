@@ -4,11 +4,64 @@
 
 $link-hover-color: #2445ae;
 
+body {
+  background: #ececef url(/theme/bg.png);
+  font-family: 'Trocchi', serif;
+  a { text-decoration: none; }
+}
+
+.rst-body {
+  tt {
+    white-space: nowrap;
+    margin: 0 2px;
+    padding: 0 5px;
+    border: 1px solid #ddd;
+    background-color: #f8f8f8;
+    border-radius: 3px;
+  }
+}
+
 .title-link {
-  a {
-    text-decoration: none;
+  header a {
     color: black;
     &:hover { color: $link-hover-color; }
+  }
+}
+
+.rounded-white-bg {
+  background-color: white;
+  margin: .5em;
+  padding: .5em;
+  @include border-radius(4px, 4px);
+}
+
+@for $n from 0 through 4 {
+  .tag-#{$n} {
+    font-size: 200% - $n * 25%;
+    line-height: 2em;
+  }
+}
+
+nav.navbar[role=navigation] {
+  @extend .navbar-gradient;
+  @include border-radius(4px, 4px);
+  a { text-decoration: none; }
+
+  header {
+    display: inline-block;
+    font-size: 2em;
+    margin-left: 1em;
+    margin-right: 1em;
+    vertical-align: middle;
+  }
+  ul {
+    vertical-align: middle;
+    display: inline-block;
+    li {
+      display: inline;
+      margin-right: 1em;
+    }
+    li.active { background-color: #e7e7e7; }
   }
 }
 
@@ -42,29 +95,6 @@ $link-hover-color: #2445ae;
   }
 }
 
-body {
-  background: #ececef url(/theme/bg.png);
-  font-family: 'Trocchi', serif;
-}
-
-.rst-body {
-  tt {
-    white-space: nowrap;
-    margin: 0 2px;
-    padding: 0 5px;
-    border: 1px solid #ddd;
-    background-color: #f8f8f8;
-    border-radius: 3px;
-  }
-}
-
-.rounded-white-bg {
-  background-color: white;
-  margin: .5em;
-  padding: .5em;
-  @include border-radius(4px, 4px);
-}
-
 figure.code {
   figcaption {
     background-color: #555555;
@@ -72,13 +102,6 @@ figure.code {
     text-align: center;
     font-weight:bold;
     @include border-radius(4px, 4px);
-  }
-}
-
-@for $n from 0 through 4 {
-  .tag-#{$n} {
-    font-size: 200% - $n * 25%;
-    line-height: 2em;
   }
 }
 
@@ -125,25 +148,3 @@ section.article {
   }
 }
 
-nav.navbar[role=navigation] {
-  @extend .navbar-gradient;
-  @include border-radius(4px, 4px);
-  a { text-decoration: none; }
-
-  header {
-    display: inline-block;
-    font-size: 2em;
-    margin-left: 1em;
-    margin-right: 1em;
-    vertical-align: middle;
-  }
-  ul {
-    vertical-align: middle;
-    display: inline-block;
-    li {
-      display: inline;
-      margin-right: 1em;
-    }
-    li.active { background-color: #e7e7e7; }
-  }
-}
