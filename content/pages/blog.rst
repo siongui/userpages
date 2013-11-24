@@ -44,6 +44,8 @@
 
 `by @__tosh <http://www.ramen.io/>`_
 
+`The Phrygian Cap <http://luisbg.blogalia.com/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_
@@ -93,5 +95,7 @@ Traditional Chinese:
   `josephj.com | 這樣做就對了 <http://josephj.com/>`_
 
   `Lu-six Person's Notes <http://lucien.cc/>`_
+
+  `Xexex's Java 和其他二三事 <http://www.javaworld.com.tw/roller/ingramchen/>`_
 
 `Yu-Jie Lin <http://www.yjl.im/>`_
