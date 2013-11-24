@@ -46,6 +46,10 @@
 
 `The Phrygian Cap <http://luisbg.blogalia.com/>`_
 
+`Software development et al - Stavros' Stuff <http://www.stavros.io/>`_
+
+`TechBar | Random tips, tricks and advices for anything tech related <http://www.techbar.me/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_

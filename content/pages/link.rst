@@ -8,6 +8,8 @@ Info:
 
   `HTML5 Rocks <http://www.html5rocks.com/>`_
 
+  `Coders Grid <http://www.codersgrid.com/>`_
+
   `HTML5 Doctor <http://html5doctor.com/>`_
 
   `OverAPI.com | Collecting all the cheat sheets <http://overapi.com/>`_
@@ -25,6 +27,10 @@ Info:
   `JavaScript Weekly <http://javascriptweekly.com/>`_
 
   `frontend development resources <https://github.com/dypsilon/frontend-dev-bookmarks>`_
+
+  `Web Design News <http://wdn.publog.jp/>`_
+
+  `programming - reddit <http://w3.reddit.com/r/programming/>`_
 
   Simplified Chinese:
 

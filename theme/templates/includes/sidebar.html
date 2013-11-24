@@ -49,7 +49,7 @@
       <ul class="list-group">
         {% for cat, articles in categories %}
           <li class="list-group-item" title="{{ cat }}">
-            <a href="{{ SITEURL }}/category/{{ cat | lower }}.html">
+            <a href="{{ SITEURL }}/{{ cat.url }}">
               {% if cat == category %}
                 <i class="fa fa-folder-open"></i> {{ cat }}
               {% else %}
