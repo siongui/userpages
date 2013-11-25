@@ -288,6 +288,8 @@ Tutorials:
 
   `Learn by Doing - Code School <https://www.codeschool.com/>`_
 
+  `Tutorialzine | Web Development Tutorials & Resources <http://tutorialzine.com/>`_
+
   `egghead.io (AngularJS learning) <http://egghead.io/>`_
 
   `Beej's Guide to Network Programming <http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html>`_

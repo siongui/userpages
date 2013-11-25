@@ -57,6 +57,16 @@
 `jazzychad.net <http://jazzychad.net/>`_
 (`blog <http://blog.jazzychad.net/>`__, `gistblog <http://txt.jazzychad.net/>`__)
 
+`Web Code Helpers Coding Blog, Tutorials, html5, css, jQuery, Ajax, javascript, html, examples and Demos <http://www.webcodehelpers.com/>`_
+
+`BenSadeghi | Data science, physics, and other nonsense <http://bensadeghi.com/>`_
+
+`Nathan LeClaire <http://nathanleclaire.com/>`_
+
+`Hadi Hariri's Blog <http://hadihariri.com/>`_
+
+`Eric Niebler | Judge me by my C++, not my WordPress <http://ericniebler.com/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_
@@ -112,5 +122,7 @@ Traditional Chinese:
   `A share A day <http://ashareaday.wcc.tw/>`_
 
   `Joe.Dev 的工作日誌與網路觀察 <http://joe-dev.blogspot.com/>`_
+
+  `男丁格爾's 脫殼玩 | 分享各種 jQuery 外掛的使用及 jQuery 跑馬燈、廣告輪播及選單等實用的 jQ 範例。 <http://abgne.tw/>`_
 
 `Yu-Jie Lin <http://www.yjl.im/>`_
