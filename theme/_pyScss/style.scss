@@ -98,6 +98,8 @@ figure.code {
 
 section.archives {
   @extend .rounded-white-bg;
+  // @see http://stackoverflow.com/questions/9538247/css-background-disappears-when-using-floatleft
+  overflow: hidden;
 
   dl {
     line-height: 2em;
