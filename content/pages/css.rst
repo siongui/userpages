@@ -106,3 +106,5 @@ CSS Front-end Frameworks:
 `UICloud <http://ui-cloud.com/>`_
 
 `HTML5, CSS3 & JQUERY – WEB DESIGN GUIDE <http://www.css-jquery-design.com/>`_
+
+`Design css Tips, Tutorials and Inspiration - css-tips.us <http://www.css-tips.us/>`_

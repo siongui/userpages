@@ -12,6 +12,8 @@
 
 `Miscellaneous <{filename}./misc.rst>`_
 
+`Motherfucking Website <http://motherfuckingwebsite.com/>`_
+
 Info:
 
   `Hacker News <https://news.ycombinator.com/>`_
@@ -51,6 +53,8 @@ Info:
     `图灵社区 <http://www.ituring.com.cn/>`_
 
     `OurJS <http://ourjs.com/>`_
+
+    `Linux伊甸园开源社区 <http://www.linuxeden.com/>`_
 
     `中国云计算 <http://www.chinacloud.cn/>`_
 
