@@ -144,3 +144,9 @@ section.article {
   }
 }
 
+ol.breadcrumb {
+  @extend .rounded-white-bg;
+  li:after { content: " / "; }
+  li.active:after { content: ""; }
+  li { display: inline; }
+}
