@@ -79,6 +79,8 @@
 
 `Herman Schaaf | IronZebra <http://www.ironzebra.com/>`_ (Go, Python, etc.)
 
+`getiblog (Getify Solutions) <http://blog.getify.com/>`_ (javascript, performance, and ui musings)
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_
@@ -108,6 +110,8 @@ Simplified Chinese:
   `毕丹军 <http://www.cnblogs.com/by1990/>`_
 
   `道可叨 | Free Will <http://zhuoqiang.me/>`_
+
+  `Ctrip Vbooking团队博客 <http://vbooking.github.io/>`_
 
 `Wenli Zhang <http://zhangwenli.com/>`_
 

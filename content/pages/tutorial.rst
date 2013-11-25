@@ -13,6 +13,9 @@
 
 `Learn by Doing - Code School <https://www.codeschool.com/>`_
 
+`Learning jQuery with Street Fighter and Hadoukens <http://www.thinkful.com/learn/intro-to-jquery>`_
+(`Github <https://github.com/carlsednaoui/intro-to-jquery>`__)
+
 `Tutorialzine | Web Development Tutorials & Resources <http://tutorialzine.com/>`_
 
 `Beej's Guide to Network Programming <http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html>`_
