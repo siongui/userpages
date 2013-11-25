@@ -223,6 +223,8 @@ Styling:
 
   `UICloud <http://ui-cloud.com/>`_
 
+  `HTML5, CSS3 & JQUERY – WEB DESIGN GUIDE <http://www.css-jquery-design.com/>`_
+
 Web Hosting:
 
   `Host websites in Google Drive™ using your domain. <http://gweb.io/>`_

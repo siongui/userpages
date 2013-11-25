@@ -52,6 +52,11 @@
 
 `Learning web Technologies <http://learningfinest.blogspot.com/>`_
 
+`Fivera.net <http://fivera.net/>`_
+
+`jazzychad.net <http://jazzychad.net/>`_
+(`blog <http://blog.jazzychad.net/>`__, `gistblog <http://txt.jazzychad.net/>`__)
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_
