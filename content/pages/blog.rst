@@ -67,6 +67,18 @@
 
 `Eric Niebler | Judge me by my C++, not my WordPress <http://ericniebler.com/>`_
 
+`The Endeavour | John D. Cook <http://www.johndcook.com/blog/>`_
+
+`pheelicks.com | blog <http://www.pheelicks.com/>`_ (Go programming language)
+
+`Agiliq Blog | Django web app development <http://agiliq.com/blog/>`_ (many basic Python tutorials)
+
+`Bad Hessian « Computational social science blog <http://badhessian.org/>`_
+
+`Random ASCII | Forecast for randomascii: programming, tech topics, with a chance of unicycling <http://randomascii.wordpress.com/>`_
+
+`Herman Schaaf | IronZebra <http://www.ironzebra.com/>`_ (Go, Python, etc.)
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_
@@ -94,6 +106,8 @@ Simplified Chinese:
   `梦想天空 <http://www.cnblogs.com/lhb25/>`_
 
   `毕丹军 <http://www.cnblogs.com/by1990/>`_
+
+  `道可叨 | Free Will <http://zhuoqiang.me/>`_
 
 `Wenli Zhang <http://zhangwenli.com/>`_
 
@@ -123,6 +137,11 @@ Traditional Chinese:
 
   `Joe.Dev 的工作日誌與網路觀察 <http://joe-dev.blogspot.com/>`_
 
+  `FreedomKnight's Blog | 還不怒 coding 一發嗎? <http://blog.freedomknight.me/>`_
+
   `男丁格爾's 脫殼玩 | 分享各種 jQuery 外掛的使用及 jQuery 跑馬燈、廣告輪播及選單等實用的 jQ 範例。 <http://abgne.tw/>`_
 
 `Yu-Jie Lin <http://www.yjl.im/>`_
+
+`Licson's Tech Space <http://licson.net/>`_
+

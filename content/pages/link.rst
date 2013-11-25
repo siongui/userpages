@@ -32,6 +32,10 @@ Info:
 
   `programming - reddit <http://w3.reddit.com/r/programming/>`_
 
+  `Techglimpse <http://techglimpse.com/>`_
+
+  `BASICuse - tutorials for programming in HTML, CSS and JavaScript <http://basicuse.net/>`_
+
   Simplified Chinese:
 
     `图灵社区 <http://www.ituring.com.cn/>`_
@@ -242,58 +246,6 @@ Webmaster Tools:
 
   `Google Analytics <https://www.google.com/analytics/web/>`_
 
-Code Playground:
-
-  JavaScript/HTML/CSS:
-
-    `CodePen <http://codepen.io/>`_
-
-    `JSFiddle <http://jsfiddle.net/>`_
-
-    `JS Bin <http://jsbin.com/>`_
-
-    `jsdo.it <http://jsdo.it/>`_
-
-    `Plunker <http://plnkr.co/>`_
-
-    `dabblet <http://dabblet.com/>`_
-
-    `RunJS <http://runjs.cn/>`_
-
-  `Pastebin.com <http://pastebin.com/>`_
-
-  `Github Gist <https://gist.github.com/>`_
-
-  `dpaste <http://dpaste.com/>`_
-
-  `hastebin <http://hastebin.com/>`_
-
-  `Codejaw <http://codejaw.com/>`_
-
-  `R-Fiddle <http://www.r-fiddle.org/>`_
-
-  `.NET Fiddle <http://www.dotnetfiddle.net/>`_
-
-  `Online Interpreters <http://repl.it/>`_
-
-Tutorials:
-
-  `Learn Code The Hard Way <http://learncodethehardway.org/>`_
-
-  `Programming, Motherfucker - Do you speak it? <http://programming-motherfucker.com/>`_
-
-  `W3Schools Online Web Tutorials <http://www.w3schools.com/>`_
-
-  `Learn to code | Codecademy <http://www.codecademy.com/>`_
-
-  `Learn by Doing - Code School <https://www.codeschool.com/>`_
-
-  `Tutorialzine | Web Development Tutorials & Resources <http://tutorialzine.com/>`_
-
-  `egghead.io (AngularJS learning) <http://egghead.io/>`_
-
-  `Beej's Guide to Network Programming <http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html>`_
-
 Plain Text Markup Format:
 
   `Quick reStructuredText <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_
@@ -313,6 +265,10 @@ News:
   `華爾街日報 <http://cn.wsj.com/big5/>`_
 
   `日經中文網 <http://zh.cn.nikkei.com/>`_
+
+`Code Playground & Sharing <{filename}./code.rst>`_
+
+`Tutorials <{filename}./tutorial.rst>`_
 
 `Blogroll <{filename}./blog.rst>`_
 
