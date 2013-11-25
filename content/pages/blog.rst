@@ -50,6 +50,8 @@
 
 `TechBar | Random tips, tricks and advices for anything tech related <http://www.techbar.me/>`_
 
+`Learning web Technologies <http://learningfinest.blogspot.com/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_
@@ -101,5 +103,9 @@ Traditional Chinese:
   `Lu-six Person's Notes <http://lucien.cc/>`_
 
   `Xexex's Java 和其他二三事 <http://www.javaworld.com.tw/roller/ingramchen/>`_
+
+  `A share A day <http://ashareaday.wcc.tw/>`_
+
+  `Joe.Dev 的工作日誌與網路觀察 <http://joe-dev.blogspot.com/>`_
 
 `Yu-Jie Lin <http://www.yjl.im/>`_

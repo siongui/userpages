@@ -1,6 +1,26 @@
 Personal Blog
 =============
 
+Usage
+-----
+
+.. code-block:: bash
+
+  # install virtualenv (use Ubuntu 13.10 as example)
+  $ sudo apt-get install python-pip
+  $ sudo pip install virtualenv
+
+  # # create isolated Python environment
+  $ virtualenv dev
+  # enter isolated Python environment
+  $ cd dev
+  $ source bin/activate
+  # git clone this repository.
+  $ git clone https://github.com/siongui/userpages.git
+  # install packages for building the blog
+  $ pip install -r requirements.txt
+
+
 Non-Standard Pelican Config
 ---------------------------
 

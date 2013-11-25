@@ -102,6 +102,8 @@ Web Development:
 
   `Dart: Structured web apps <https://www.dartlang.org/>`_
 
+  `JQM Designer <http://jqmdesigner.appspot.com/>`_
+
 JavaScript:
 
   `QuirksMode <http://www.quirksmode.org/>`_
