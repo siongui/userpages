@@ -35,7 +35,7 @@ body {
 
 .rounded-white-bg {
   //background-color: #f7f7f9;
-  background-color: white;
+  background-color: #fff;
   margin: .5em;
   padding: .5em;
   @include border-radius(4px, 4px);
@@ -52,6 +52,19 @@ span.badge {
   padding: 0 .75em 0 .75em;
   background-color: #CCFFCC;
   @include border-radius(4px, 4px);
+}
+
+// styling for code highlight
+div.highlight {
+  pre {
+    margin-top: 0;
+    background-color: #f7f7f9;
+    //background-color: #cccccc;
+    //background-color: #eee;
+    padding: .5em;
+    border: 1px solid #e1e1e8;
+    @include border-radius(4px, 4px);  
+  }
 }
 
 nav.navbar[role=navigation] {
@@ -99,6 +112,7 @@ article.post {
 }
 
 figure.code {
+  margin: 0;
   figcaption {
     background-color: #555555;
     color: white;

@@ -15,6 +15,8 @@
 
 `Dustin Boswell's Home Page <http://dustwell.com/>`_
 
+`DandyDev.net <http://dandydev.net/>`_
+
 `Code Gangsta <http://codegangsta.io/>`_
 
 `Tero Parviainen <http://teropa.info/>`_
@@ -157,6 +159,8 @@ Traditional Chinese:
   `男丁格爾's 脫殼玩 | 分享各種 jQuery 外掛的使用及 jQuery 跑馬燈、廣告輪播及選單等實用的 jQ 範例。 <http://abgne.tw/>`_
 
   `Cody Blog <http://blog.codylab.com/>`_
+
+  `ChiBC-暗月之鏡的個人站 <http://chibc.net/>`_
 
 `Yu-Jie Lin <http://www.yjl.im/>`_
 

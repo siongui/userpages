@@ -28,6 +28,8 @@ JavaScript/HTML/CSS:
 
 `hastebin <http://hastebin.com/>`_
 
+`Pastie <http://pastie.org/>`_
+
 `Codejaw <http://codejaw.com/>`_
 
 `R-Fiddle <http://www.r-fiddle.org/>`_
