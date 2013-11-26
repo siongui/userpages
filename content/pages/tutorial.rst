@@ -22,4 +22,6 @@
 
 `Neural Networks and Deep Learning <http://neuralnetworksanddeeplearning.com/>`_
 
+`w3cschool菜鸟教程 <http://www.w3cschool.cc/>`_
+
 `egghead.io (AngularJS learning) <http://egghead.io/>`_

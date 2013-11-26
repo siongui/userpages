@@ -81,6 +81,13 @@
 
 `getiblog (Getify Solutions) <http://blog.getify.com/>`_ (javascript, performance, and ui musings)
 
+`THE REAL SCIENCE BLOG | Learn to question things for yourself. <http://malishoaib.wordpress.com/>`_
+
+`Python Blogs <http://www.pythonblogs.com/>`_
+
+`DailyJS: A JavaScript Blog <http://dailyjs.com/>`_
+(`Github <https://github.com/alexyoung/dailyjs>`__)
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_
@@ -115,6 +122,8 @@ Simplified Chinese:
 
 `Wenli Zhang <http://zhangwenli.com/>`_
 
+`Zhong' blog <http://stupidgrass.github.io/blog/>`_
+
 Traditional Chinese:
 
   `O3noBLOG <https://blog.othree.net/>`_
@@ -142,6 +151,8 @@ Traditional Chinese:
   `Joe.Dev 的工作日誌與網路觀察 <http://joe-dev.blogspot.com/>`_
 
   `FreedomKnight's Blog | 還不怒 coding 一發嗎? <http://blog.freedomknight.me/>`_
+
+  `自由軟體技術交流網 <http://freesf.tw/>`_
 
   `男丁格爾's 脫殼玩 | 分享各種 jQuery 外掛的使用及 jQuery 跑馬燈、廣告輪播及選單等實用的 jQ 範例。 <http://abgne.tw/>`_
 

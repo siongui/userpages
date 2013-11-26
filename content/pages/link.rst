@@ -60,6 +60,8 @@ Info:
 
     `博客 - 伯乐在线 <http://blog.jobbole.com/>`_
 
+    `外刊IT评论网 | 国外IT评论,编程技巧,网站开发趋势,创业 <http://www.aqee.net/>`_
+
     `V2EX <http://www.v2ex.com/>`_
 
     `Django中国社区 <http://django-china.cn/>`_
