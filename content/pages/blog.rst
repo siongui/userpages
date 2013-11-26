@@ -156,6 +156,8 @@ Traditional Chinese:
 
   `男丁格爾's 脫殼玩 | 分享各種 jQuery 外掛的使用及 jQuery 跑馬燈、廣告輪播及選單等實用的 jQ 範例。 <http://abgne.tw/>`_
 
+  `Cody Blog <http://blog.codylab.com/>`_
+
 `Yu-Jie Lin <http://www.yjl.im/>`_
 
 `Licson's Tech Space <http://licson.net/>`_
