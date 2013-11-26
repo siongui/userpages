@@ -4,18 +4,22 @@
 {% block title %}Categories - {{ super() }}{% endblock %}
 
 {% block content %}
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h3 class="panel-title">All Categories</h3>
-    </div>
-    <ul class="list-group">
-      {% for category, articles in categories %}
-        <li class="list-group-item">
-          <a href="{{ SITEURL }}/{{ category.url }}">
-            {{ category }} <span class="badge">{{ articles | count }}</span>
-          </a>
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
+<section class="categories">
+  <header>
+    <h3 title="All Categories">
+      <i class="fa fa-list fa-fw"></i> All Categories
+    </h3>
+  </header>
+
+  <ul>
+    {% for category, articles in categories %}
+      <li title="{{ category }}">
+        <a href="{{ SITEURL }}/{{ category.url }}">
+          <span>{{ category }}</span>
+          <span class="badge">{{ articles | count }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
 {% endblock %}

@@ -4,22 +4,21 @@
 {% block title %}Tags - {{ super() }}{% endblock %}
 
 {% block content %}
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h1 class="panel-title" title="Tags">
-        <a href="{{ SITEURL }}/tags.html">
-          <i class="fa fa-tags fa-fw"></i> Tags
+<section class="tags">
+  <header>
+    <h3 title="Tags">
+      <i class="fa fa-tags fa-fw"></i> Tags
+    </h3>
+  </header>
+  <ul>
+    {% for tag, articles in tags %}
+      <li title="{{ tag }}">
+        <a href="{{ SITEURL }}/{{ tag.url }}">
+          <span>{{ tag }}</span>
+          <span class="badge">{{ articles | count }}</span>
         </a>
-      </h1>
-    </div>
-    <ul class="list-group">
-      {% for tag, articles in tags %}
-        <li class="list-group-item">
-          <a href="{{ SITEURL }}/{{ tag.url }}">
-            {{ tag }} <span class="badge">{{ articles | count }}</span>
-          </a>
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
 {% endblock %}
