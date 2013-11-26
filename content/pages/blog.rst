@@ -17,6 +17,10 @@
 
 `DandyDev.net <http://dandydev.net/>`_
 
+`Frank Apicella - Thoughts of a Layman <http://frankapicella.com/>`_
+
+`Pat Shaughnessy <http://patshaughnessy.net/>`_ (blogger, rubyist, aspiring author)
+
 `Code Gangsta <http://codegangsta.io/>`_
 
 `Tero Parviainen <http://teropa.info/>`_
@@ -89,6 +93,8 @@
 
 `DailyJS: A JavaScript Blog <http://dailyjs.com/>`_
 (`Github <https://github.com/alexyoung/dailyjs>`__)
+
+`Dabeaz LLC <http://www.dabeaz.com/>`_ (Python)
 
 Simplified Chinese:
 

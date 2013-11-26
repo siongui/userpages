@@ -64,3 +64,5 @@
 
 `Information Is Beautiful <http://www.informationisbeautiful.net/>`_
 
+`research!rsc <http://research.swtch.com/>`_ (OS, Go, etc.)
+

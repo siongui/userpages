@@ -48,6 +48,9 @@ Info:
 
   `BASICuse - tutorials for programming in HTML, CSS and JavaScript <http://basicuse.net/>`_
 
+  `HTML5test <http://html5test.com/>`_
+  (`Github <https://github.com/NielsLeenheer/html5test>`__)
+
   Simplified Chinese:
 
     `图灵社区 <http://www.ituring.com.cn/>`_
@@ -124,6 +127,8 @@ Web Development:
 
   `JQM Designer <http://jqmdesigner.appspot.com/>`_
 
+  `Moot | Forums and commenting re-imagined <https://moot.it/>`_
+
 JavaScript:
 
   `QuirksMode <http://www.quirksmode.org/>`_
@@ -168,6 +173,12 @@ Social:
   `Gmail <https://mail.google.com/>`_
 
   `facebook <https://www.facebook.com/>`_
+
+  `imgur: the simple image sharer <http://imgur.com/>`_
+
+Web Framework:
+
+  `Gadget: A smallish web framework for Go <http://redneckbeard.github.io/gadget/>`_
 
 News:
 

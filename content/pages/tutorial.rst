@@ -24,4 +24,6 @@
 
 `w3cschool菜鸟教程 <http://www.w3cschool.cc/>`_
 
+`Learn PHP - Free Interactive PHP Tutorial <http://learn-php.org/>`_
+
 `egghead.io (AngularJS learning) <http://egghead.io/>`_
