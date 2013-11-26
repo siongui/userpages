@@ -157,7 +157,7 @@ Traditional Chinese:
 
   `自由軟體技術交流網 <http://freesf.tw/>`_
 
-  `男丁格爾's 脫殼玩 | 分享各種 jQuery 外掛的使用及 jQuery 跑馬燈、廣告輪播及選單等實用的 jQ 範例。 <http://abgne.tw/>`_
+  `瘋人院院長院內消息 <http://blog.cheyingwu.tw/>`_
 
   `Cody Blog <http://blog.codylab.com/>`_
 
