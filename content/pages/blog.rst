@@ -3,67 +3,75 @@
 :status: hidden
 
 
-`Ondřej Žára <http://ondras.zarovi.cz/>`_
+Python/Go:
+
+  `Herman Schaaf | IronZebra <http://www.ironzebra.com/>`_ (Go, Python, etc.)
+
+  `Agiliq Blog | Django web app development <http://agiliq.com/blog/>`_ (many basic Python tutorials)
+
+  `Code Gangsta <http://codegangsta.io/>`_ (Go)
+
+  `Michael Herman <http://mherman.org/>`_ (Python, JavaScript)
+
+  `Software development et al - Stavros' Stuff <http://www.stavros.io/>`_
+
+  `Dabeaz LLC <http://www.dabeaz.com/>`_ (Python)
+
+  `Laurent Luce's Blog <http://www.laurentluce.com/>`_
+
+  `pheelicks.com | blog <http://www.pheelicks.com/>`_ (Go programming language)
+
+HTML/CSS/JavaScript:
+
+  `Ondřej Žára <http://ondras.zarovi.cz/>`_
+
+  `②ality – JavaScript and more <http://www.2ality.com/>`_
+
+  `Tero Parviainen <http://teropa.info/>`_
+
+  `Nihilogic - JavaScript, games and other things that matter <http://blog.nihilogic.dk/>`_
+
+  `jazzychad.net <http://jazzychad.net/>`_
+  (`blog <http://blog.jazzychad.net/>`__, `gistblog <http://txt.jazzychad.net/>`__)
+
+  `DailyJS: A JavaScript Blog <http://dailyjs.com/>`_
+  (`Github <https://github.com/alexyoung/dailyjs>`__)
+
+  `getiblog (Getify Solutions) <http://blog.getify.com/>`_ (javascript, performance, and ui musings)
+
+  `Frank Apicella - Thoughts of a Layman <http://frankapicella.com/>`_
+
+  `Fivera.net <http://fivera.net/>`_
+
+  `Stiern.com <http://stiern.com/>`_
+
+Linux/System:
+
+  `Pádraig Brady <http://www.pixelbeat.org/>`_
+
+  `Dustin Boswell's Home Page <http://dustwell.com/>`_
+
+  `TechBar | Random tips, tricks and advices for anything tech related <http://www.techbar.me/>`_
 
 `kyleisom.net <http://kyleisom.net/>`_
 
 `Beej's Web Page <http://beej.us/>`_
 
-`Pádraig Brady <http://www.pixelbeat.org/>`_
-
-`②ality – JavaScript and more <http://www.2ality.com/>`_
-
-`Dustin Boswell's Home Page <http://dustwell.com/>`_
-
 `DandyDev.net <http://dandydev.net/>`_
-
-`Frank Apicella - Thoughts of a Layman <http://frankapicella.com/>`_
 
 `Pat Shaughnessy <http://patshaughnessy.net/>`_ (blogger, rubyist, aspiring author)
 
-`Code Gangsta <http://codegangsta.io/>`_
-
-`Tero Parviainen <http://teropa.info/>`_
-
-`Michael Herman <http://mherman.org/>`_
-
-`KidsIL | Web Developer in Berlin <http://www.kidsil.net/>`_
-
-`Laurent Luce's Blog <http://www.laurentluce.com/>`_
-
-`python for beginers <http://pyskull.blogspot.com>`_
-
 `Marginally Interesting by Mikio L. Braun <http://blog.mikiobraun.de/>`_
 
-`Nihilogic - JavaScript, games and other things that matter <http://blog.nihilogic.dk/>`_
-
-`Nick Craver <http://nickcraver.com/blog/>`_
-(Stack Overflow guy)
-
-`Stiern.com <http://stiern.com/>`_
+`Nick Craver <http://nickcraver.com/blog/>`_ (Stack Overflow guy)
 
 `julik live <http://live.julik.nl/>`_
 
 `A Neighborhood of Infinity <http://blog.sigfpe.com/>`_
 
-`Jordan Moore <http://www.jordanm.co.uk/>`_
-
 `by @__tosh <http://www.ramen.io/>`_
 
 `The Phrygian Cap <http://luisbg.blogalia.com/>`_
-
-`Software development et al - Stavros' Stuff <http://www.stavros.io/>`_
-
-`TechBar | Random tips, tricks and advices for anything tech related <http://www.techbar.me/>`_
-
-`Learning web Technologies <http://learningfinest.blogspot.com/>`_
-
-`Fivera.net <http://fivera.net/>`_
-
-`jazzychad.net <http://jazzychad.net/>`_
-(`blog <http://blog.jazzychad.net/>`__, `gistblog <http://txt.jazzychad.net/>`__)
-
-`Web Code Helpers Coding Blog, Tutorials, html5, css, jQuery, Ajax, javascript, html, examples and Demos <http://www.webcodehelpers.com/>`_
 
 `BenSadeghi | Data science, physics, and other nonsense <http://bensadeghi.com/>`_
 
@@ -75,26 +83,13 @@
 
 `The Endeavour | John D. Cook <http://www.johndcook.com/blog/>`_
 
-`pheelicks.com | blog <http://www.pheelicks.com/>`_ (Go programming language)
-
-`Agiliq Blog | Django web app development <http://agiliq.com/blog/>`_ (many basic Python tutorials)
-
 `Bad Hessian « Computational social science blog <http://badhessian.org/>`_
 
 `Random ASCII | Forecast for randomascii: programming, tech topics, with a chance of unicycling <http://randomascii.wordpress.com/>`_
 
-`Herman Schaaf | IronZebra <http://www.ironzebra.com/>`_ (Go, Python, etc.)
-
-`getiblog (Getify Solutions) <http://blog.getify.com/>`_ (javascript, performance, and ui musings)
-
 `THE REAL SCIENCE BLOG | Learn to question things for yourself. <http://malishoaib.wordpress.com/>`_
 
-`Python Blogs <http://www.pythonblogs.com/>`_
-
-`DailyJS: A JavaScript Blog <http://dailyjs.com/>`_
-(`Github <https://github.com/alexyoung/dailyjs>`__)
-
-`Dabeaz LLC <http://www.dabeaz.com/>`_ (Python)
+`Sophearak <http://sophearak.github.io/>`_
 
 Simplified Chinese:
 
