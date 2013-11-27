@@ -1,7 +1,7 @@
 Python v.s. Dart: Syntax Side by Side
 ##########################################################################
 
-:date: 2013-11-27 12:23
+:date: 2013-11-27 16:03
 :tags: Dart, Python
 :category: Dart
 :author: Siong-Ui Te
@@ -76,6 +76,8 @@ Python v.s. Dart: Syntax Side by Side
          def printNumber(aNumber):
            print('%d' % aNumber)
 
+       `read official doc » <http://docs.python.org/2/tutorial/controlflow.html#defining-functions>`__
+
      - .. code-block:: dart
 
          // function
@@ -87,6 +89,20 @@ Python v.s. Dart: Syntax Side by Side
          printNumber(int aNumber) => print('$aNumber');
 
        `read official doc » <https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#functions>`__
+
+   * - .. code-block:: python
+
+         # raise exception
+         raise IOError('io error occurs')
+
+       `read official doc » <http://docs.python.org/2/tutorial/errors.html#raising-exceptions>`__
+
+     - .. code-block:: dart
+
+         // throwing, or raising, an exception
+         throw new IOException('io error occurs');
+
+       `read official doc » <https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#exceptions>`__
 
 
 
