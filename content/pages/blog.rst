@@ -50,6 +50,8 @@ HTML/CSS/JavaScript:
   `Small Improvements Tech Blog <http://tech.small-improvements.com/>`_
   (App Engine, Apache Wicket, JQuery and HTML5)
 
+  `Hackery, Math & Design — Acko.net <http://acko.net/>`_
+
 Linux/System:
 
   `Pádraig Brady <http://www.pixelbeat.org/>`_
