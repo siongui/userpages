@@ -54,6 +54,8 @@ Info:
   `HTML5test <http://html5test.com/>`_
   (`Github <https://github.com/NielsLeenheer/html5test>`__)
 
+  `Real-Time Web Test - Does your browser supports WebSockets? <http://websocketstest.com/>`_
+
   `altJS - Web coding without JavaScript. <http://altjs.org/>`_
 
   Simplified Chinese:

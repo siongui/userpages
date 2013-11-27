@@ -1,0 +1,44 @@
+Python v.s. Dart: Syntax Side by Side
+##########################################################################
+
+:date: 2013-11-27 12:23
+:tags: Dart, Python
+:category: Dart, Python
+:author: Siong-Ui Te
+:summary: Comparison of Python and Dart syntax, side by side for easy reference
+
+
+.. list-table:: Syntax Comparison Table
+   :header-rows: 1
+   :class: table-syntax-diff
+
+   * - Python
+     - Dart
+
+   * - .. code-block:: python
+
+         # import class/function from package
+         from sys import path
+
+     - .. code-block:: dart
+
+         // import a class from library
+         import 'dart:math' show Random;
+
+   * - .. code-block:: python
+
+         # create a list
+         mylist = []
+
+     - .. code-block:: dart
+
+         // Use literals to create a list
+         List mylist = [];
+
+
+Side-by-side format inspired by:
+
+  `CoffeeScript <http://coffeescript.org/>`_
+
+  `Programming Languages - Hyperpolyglot <http://hyperpolyglot.org/>`_
+

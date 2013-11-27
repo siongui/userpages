@@ -186,3 +186,12 @@ section.tags {
 section.categories {
   @extend section.tags;
 }
+
+table.table-syntax-diff {
+  width: 100%;
+  border-spacing: 0; 
+  border-color: #fff;
+  caption {
+    background-color: #e7e7e7;
+  }
+}
