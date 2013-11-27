@@ -23,3 +23,6 @@
 `On Asm.js <http://acko.net/blog/on-asmjs/>`_
 (`HN <https://news.ycombinator.com/item?id=6807380>`__)
 
+`MillionShort - Imagine a search engine that simply removed the top 1 million most popular web sites from its index. <https://millionshort.com/>`_
+(`HN <https://news.ycombinator.com/item?id=6808033>`__)
+

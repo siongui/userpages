@@ -70,3 +70,5 @@
 
 `CDN performance in numbers - CDNperf <http://www.cdnperf.com/>`_
 
+`MillionShort <https://millionshort.com/>`_
+
