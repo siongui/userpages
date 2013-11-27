@@ -3,7 +3,7 @@ Python v.s. Dart: Syntax Side by Side
 
 :date: 2013-11-27 12:23
 :tags: Dart, Python
-:category: Dart, Python
+:category: Dart
 :author: Siong-Ui Te
 :summary: Comparison of Python and Dart syntax, side by side for easy reference
 
@@ -34,6 +34,31 @@ Python v.s. Dart: Syntax Side by Side
 
          // Use literals to create a list
          List mylist = [];
+
+   * - .. code-block:: python
+
+         # create a dictionary
+         myHello = { 'hello': 'world' }
+
+     - .. code-block:: dart
+
+         // Map literal
+         Map myHello = { 'hello': 'world' };
+
+   * - .. code-block:: python
+
+         # execution entry
+         if __name__ == '__main__':
+           print('program starts here')
+
+     - .. code-block:: dart
+
+         // execution entry
+         main() {
+           print('program starts here');
+         }
+
+
 
 
 Side-by-side format inspired by:
