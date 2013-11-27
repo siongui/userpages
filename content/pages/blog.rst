@@ -63,6 +63,9 @@ Linux/System:
 
   `TechBar | Random tips, tricks and advices for anything tech related <http://www.techbar.me/>`_
 
+`Seth Ladd - Web engineer <http://www.sethladd.com/>`_,
+`blog <http://blog.sethladd.com/>`__ (Dart)
+
 `kyleisom.net <http://kyleisom.net/>`_
 
 `Beej's Web Page <http://beej.us/>`_

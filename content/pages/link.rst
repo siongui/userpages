@@ -10,9 +10,9 @@
 
 `Blogroll <{filename}./blog.rst>`_
 
-`Miscellaneous <{filename}./misc.rst>`_
+`Dart Programming Language <{filename}./dart.rst>`_
 
-`Motherfucking Website <http://motherfuckingwebsite.com/>`_
+`Miscellaneous <{filename}./misc.rst>`_
 
 Info:
 

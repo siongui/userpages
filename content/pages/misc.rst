@@ -66,3 +66,7 @@
 
 `research!rsc <http://research.swtch.com/>`_ (OS, Go, etc.)
 
+`Motherfucking Website <http://motherfuckingwebsite.com/>`_
+
+`CDN performance in numbers - CDNperf <http://www.cdnperf.com/>`_
+
