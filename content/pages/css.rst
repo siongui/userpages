@@ -64,6 +64,8 @@ Styling & Images Generator:
 
   `Noise Texture Generator <http://www.noisetexturegenerator.com/>`_
 
+  `浮動 FB 粉絲專頁產生器 <http://works.liaosankai.com/pixnet-float-fb/>`_
+
 CSS Front-end Frameworks:
 
   `CSS Front-end Frameworks with comparison <http://usablica.github.io/front-end-frameworks/compare.html>`_

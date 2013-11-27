@@ -97,6 +97,9 @@ Linux/System:
 
 `Sophearak <http://sophearak.github.io/>`_
 
+`Shailen Tuli's blog <http://shailen.github.io/>`_
+(Thoughts on coding in Dart, Ruby, Python and Javascript)
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_
@@ -166,6 +169,8 @@ Traditional Chinese:
   `瘋人院院長院內消息 <http://blog.cheyingwu.tw/>`_
 
   `Cody Blog <http://blog.codylab.com/>`_
+
+  `關於@廖三凱 | Web Developer <http://liaosankai.com/>`_
 
   `ChiBC-暗月之鏡的個人站 <http://chibc.net/>`_
 

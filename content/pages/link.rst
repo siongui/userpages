@@ -22,6 +22,9 @@ Info:
 
   `Coders Grid <http://www.codersgrid.com/>`_
 
+  `Programming Languages - Hyperpolyglot <http://hyperpolyglot.org/>`_
+  (commonly used features in a side-by-side format)
+
   `HTML5 Doctor <http://html5doctor.com/>`_
 
   `OverAPI.com | Collecting all the cheat sheets <http://overapi.com/>`_
@@ -50,6 +53,8 @@ Info:
 
   `HTML5test <http://html5test.com/>`_
   (`Github <https://github.com/NielsLeenheer/html5test>`__)
+
+  `altJS - Web coding without JavaScript. <http://altjs.org/>`_
 
   Simplified Chinese:
 
