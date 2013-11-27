@@ -14,6 +14,19 @@ Install `pyScss <https://github.com/Kronuz/pyScss>`_:
 
   $ pip install pyScss
 
+`GNU make <http://www.gnu.org/software/make/>`
+can be used to compile scss to css:
+
+.. code-block:: bash
+
+  $ make
+
+Or you can use Python to compile scss to css:
+
+.. code-block:: bash
+
+  $ python build.py
+
 
 Two css class are provided: ``.row`` and ``.spanX-of-12``,
 where ``X`` is the number of columns in a row of total 12 columns.
@@ -23,6 +36,25 @@ Because ``display: inline-block`` is used for ``.spanX-of-12``, there is
 in such design. Please refer to
 `this article <http://css-tricks.com/fighting-the-space-between-inline-block-elements/>`_
 for solution.
+
+The following is an example to use the grid in your website:
+
+.. code-block:: html
+  <div class="row"><!--
+    --><div class="span9-of-12">
+      main content here
+    </div><!--
+    --><div class="span3-of-12">
+      sidebar here
+    </div><!--
+  --></div>
+
+Note that ``<!--`` and ``-->`` is used to prevent whitespace issue.
+
+Demo
+====
+
+Please check my `blog <http://siongui.github.io/>`_ on Github Pages.
 
 UNLICENSE
 =========

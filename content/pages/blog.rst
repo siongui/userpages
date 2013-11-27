@@ -45,6 +45,9 @@ HTML/CSS/JavaScript:
 
   `Stiern.com <http://stiern.com/>`_
 
+  `Small Improvements Tech Blog <http://tech.small-improvements.com/>`_
+  (App Engine, Apache Wicket, JQuery and HTML5)
+
 Linux/System:
 
   `Pádraig Brady <http://www.pixelbeat.org/>`_
