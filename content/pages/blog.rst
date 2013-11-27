@@ -62,6 +62,9 @@ Linux/System:
 
 `DandyDev.net <http://dandydev.net/>`_
 
+`Relentless Simplicity :: Bill Harding's Tech Blog <http://www.williambharding.com/blog/>`_
+(RAILS PROGRAMMING WITH A BLOG AFTERTASTE)
+
 `Pat Shaughnessy <http://patshaughnessy.net/>`_ (blogger, rubyist, aspiring author)
 
 `Marginally Interesting by Mikio L. Braun <http://blog.mikiobraun.de/>`_

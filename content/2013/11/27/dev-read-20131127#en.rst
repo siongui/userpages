@@ -11,3 +11,5 @@
 (`full screen demo <http://cdpn.io/uIiJp>`__,
 `HN <https://news.ycombinator.com/item?id=6804677>`__)
 
+`The HTML5 meter Element <http://css-tricks.com/html5-meter-element/>`_
+

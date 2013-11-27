@@ -40,6 +40,7 @@ for solution.
 The following is an example to use the grid in your website:
 
 .. code-block:: html
+
   <div class="row"><!--
     --><div class="span9-of-12">
       main content here
