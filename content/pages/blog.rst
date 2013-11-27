@@ -41,7 +41,8 @@ HTML/CSS/JavaScript:
 
   `getiblog (Getify Solutions) <http://blog.getify.com/>`_ (javascript, performance, and ui musings)
 
-  `Frank Apicella - Thoughts of a Layman <http://frankapicella.com/>`_
+  `Frank Apicella - Thoughts of a Layman <http://frankapicella.com/>`_,
+  `H To the ML <http://htotheml.com/>`_
 
   `Fivera.net <http://fivera.net/>`_
 
@@ -51,6 +52,8 @@ HTML/CSS/JavaScript:
   (App Engine, Apache Wicket, JQuery and HTML5)
 
   `Hackery, Math & Design — Acko.net <http://acko.net/>`_
+
+  `Broken Links - Peter Gasston's blog on web development and technologies <http://www.broken-links.com/>`_
 
 Linux/System:
 

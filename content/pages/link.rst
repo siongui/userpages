@@ -29,6 +29,8 @@ Info:
 
   `OverAPI.com | Collecting all the cheat sheets <http://overapi.com/>`_
 
+  `Learn HTML5, CSS3, Javascript - video style tutorials <http://thecodeplayer.com/>`_
+
   `Leanstack <http://leanstack.io/>`_
 
   `Coders News <http://codersnews.com/>`_
@@ -57,6 +59,8 @@ Info:
   `Real-Time Web Test - Does your browser supports WebSockets? <http://websocketstest.com/>`_
 
   `altJS - Web coding without JavaScript. <http://altjs.org/>`_
+
+  `SitePoint – Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design <http://www.sitepoint.com/>`_
 
   Simplified Chinese:
 
@@ -190,6 +194,8 @@ Social:
 Web Framework:
 
   `Gadget: A smallish web framework for Go <http://redneckbeard.github.io/gadget/>`_
+
+  `Ionic: Advanced HTML5 Hybrid Mobile App Framework <http://ionicframework.com/>`_
 
 News:
 

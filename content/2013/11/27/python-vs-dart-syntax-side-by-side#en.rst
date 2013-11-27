@@ -1,11 +1,17 @@
 Python v.s. Dart: Syntax Side by Side
 #####################################
 
-:date: 2013-11-27 18:49
+:date: 2013-11-27 21:50
 :tags: Dart, Python
 :category: Dart
 :author: Siong-Ui Te
 :summary: Comparison of Python and Dart syntax, side by side for easy reference
+
+
+*I found* `Dart Synonym: Translations from Dart <http://synonym.dartlang.org/>`_
+*in official Dart website, which is exactly what I am doing in this post.
+Since they do a better job, please check the post in the official Dart website
+instead of here.*
 
 
 .. list-table:: Syntax Comparison Table
