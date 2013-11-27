@@ -136,6 +136,8 @@ Web Development:
 
   `Moot | Forums and commenting re-imagined <https://moot.it/>`_
 
+  `Continuous Integration · drone.io <https://drone.io/>`_
+
 JavaScript:
 
   `QuirksMode <http://www.quirksmode.org/>`_
@@ -149,6 +151,8 @@ JavaScript:
   `aem1k - crazy.min.js <http://aem1k.com/>`_
 
   `KrakenJS Suite <http://krakenjs.com/>`_
+
+  `alert(1) to win - level 0 <http://escape.alf.nu/>`_
 
 Web Hosting:
 

@@ -21,6 +21,8 @@ Python/Go:
 
   `pheelicks.com | blog <http://www.pheelicks.com/>`_ (Go programming language)
 
+  `JJinuxLand <http://jjinux.blogspot.com/>`_ (Python, Ruby, Dart, etc.)
+
 HTML/CSS/JavaScript:
 
   `Ondřej Žára <http://ondras.zarovi.cz/>`_

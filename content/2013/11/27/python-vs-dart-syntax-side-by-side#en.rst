@@ -30,26 +30,36 @@ Python v.s. Dart: Syntax Side by Side
          # create a list
          mylist = []
 
+       `read official doc » <http://docs.python.org/2/tutorial/introduction.html#lists>`__
+
      - .. code-block:: dart
 
          // Use literals to create a list
          List mylist = [];
+
+       `read official doc » <https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#lists>`__
 
    * - .. code-block:: python
 
          # create a dictionary
          myHello = { 'hello': 'world' }
 
+       `read official doc » <http://docs.python.org/2/tutorial/datastructures.html#dictionaries>`__
+
      - .. code-block:: dart
 
          // Map literal
          Map myHello = { 'hello': 'world' };
+
+       `read official doc » <https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#maps>`__
 
    * - .. code-block:: python
 
          # execution entry
          if __name__ == '__main__':
            print('program starts here')
+
+       `read official doc » <http://docs.python.org/2/library/__main__.html>`__
 
      - .. code-block:: dart
 
@@ -58,6 +68,25 @@ Python v.s. Dart: Syntax Side by Side
            print('program starts here');
          }
 
+       `read official doc » <https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#ch02-main>`__
+
+   * - .. code-block:: python
+
+         # function
+         def printNumber(aNumber):
+           print('%d' % aNumber)
+
+     - .. code-block:: dart
+
+         // function
+         void printNumber(int aNumber) {
+           print('$aNumber');
+         }
+
+         // shorthand syntax of function
+         printNumber(int aNumber) => print('$aNumber');
+
+       `read official doc » <https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#functions>`__
 
 
 
