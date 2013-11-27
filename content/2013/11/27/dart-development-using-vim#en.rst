@@ -23,3 +23,6 @@ of running apps.
 
 .. code-file:: Makefile
 
+See Also:
+
+  `Python v.s. Dart: Syntax Side by Side <{filename}./python-vs-dart-syntax-side-by-side#en.rst>`_

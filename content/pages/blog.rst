@@ -102,6 +102,8 @@ Linux/System:
 `Shailen Tuli's blog <http://shailen.github.io/>`_
 (Thoughts on coding in Dart, Ruby, Python and Javascript)
 
+`James J Porter <http://jamesporter.me/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_

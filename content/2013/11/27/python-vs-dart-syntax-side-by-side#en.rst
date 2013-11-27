@@ -1,5 +1,5 @@
 Python v.s. Dart: Syntax Side by Side
-##########################################################################
+#####################################
 
 :date: 2013-11-27 16:03
 :tags: Dart, Python
@@ -104,7 +104,34 @@ Python v.s. Dart: Syntax Side by Side
 
        `read official doc » <https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#exceptions>`__
 
+   * - .. code-block:: python
 
+         # catch IOError exception
+         try:
+           doSomething()
+         except IOError:
+           # handle the error here 
+           # if doSomething raise IOError
+
+       `read official doc » <http://docs.python.org/2/tutorial/errors.html#handling-exceptions>`__
+
+     - .. code-block:: dart
+
+         // catch IOException
+         try {
+           doSomething();
+         } on IOException {
+           // handle the exception 
+           // if doSomething throw IOException
+         }
+
+       `read official doc » <https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#ch02-exceptions-catch>`__
+
+
+
+See Also:
+
+  `Dart Development Using Vim <{filename}./dart-development-using-vim#en.rst>`_
 
 Side-by-side format inspired by:
 
