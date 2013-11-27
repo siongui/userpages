@@ -5,6 +5,33 @@
   {{- article.title|striptags }} - {{ super() -}}
 {%- endblock %}
 
+{% block meta_keywords -%}
+  {%- if article.tags -%}
+    {%- for tag in article.tags -%}
+      {{- tag -}}
+      {%- if not loop.last -%}, {%- endif -%}
+    {%- endfor -%}
+  {%- else -%}
+    {{- META_KEYWORDS -}}
+  {%- endif -%}
+{%- endblock %}
+
+{% block meta_description -%}
+  {%- if article.summary -%}
+    {{- article.summary|striptags -}}
+  {%- else -%}
+    {{- META_DESCRIPTION -}}
+  {%- endif -%}
+{%- endblock %}
+
+{% block meta_author -%}
+  {%- if article.author -%}
+    {{- article.author -}}
+  {%- else -%}
+    {{- AUTHOR -}}
+  {%- endif -%}
+{%- endblock %}
+
 {% block content %}
 <section class="article">
   <article>

@@ -67,8 +67,8 @@ GITHUB_REPO_URL = 'https://github.com/siongui/userpages'
 FONT_AWESOME_URL = '//netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.min.css'
 
 # HTML meta info
-META_KEYWORDS = 'blog'
-META_DESCRIPTION = 'Theory and Practice'
+META_KEYWORDS = 'Python, SCSS, Web, blog'
+META_DESCRIPTION = 'Theory and Practice - Web programming'
 
 # Facebook Social Plugins › Comments Plugin
 #FB_APPID = ''
