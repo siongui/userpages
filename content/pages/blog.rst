@@ -55,6 +55,8 @@ HTML/CSS/JavaScript:
 
   `Broken Links - Peter Gasston's blog on web development and technologies <http://www.broken-links.com/>`_
 
+  `Lea Verou <http://lea.verou.me/>`_ (CSS)
+
 Linux/System:
 
   `Pádraig Brady <http://www.pixelbeat.org/>`_

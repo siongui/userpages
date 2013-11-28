@@ -1,0 +1,43 @@
+<asm.js in browser extensions>, <JSConf.Asia 2013>, etc.
+########################################################
+
+:date: 2013-11-28 13:21
+:tags: JavaScript, asm.js
+:category: Dev Read
+:author: Siong-Ui Te
+:summary: Dev Read #2013-11-28
+
+* `Thoughts on using asm.js for performance bottlenecks in browser extensions <https://adblockplus.org/blog/thoghts-on-using-asmjs-for-performance-bottlenecks-in-browser-extensions>`_
+  (`Simplified Chinese Translation <http://www.linuxeden.com/html/news/20131128/145921.html>`__)
+
+* `MillionShort - Imagine a search engine that simply removed the top 1 million most popular web sites from its index. <https://millionshort.com/>`_
+  (`HN <https://news.ycombinator.com/item?id=6808033>`__)
+
+* `Caaaaat <http://roxik.com/cat/>`_ (responsive cat)
+
+* `Prepros :: Compile Sass, less or any preprocessing language <http://alphapixels.com/prepros/>`_
+  (`Github <https://github.com/sbspk/Prepros>`__)
+
+* `A JavaScript parser and interpreter written natively in Go (golang) <https://github.com/robertkrimen/otto>`_
+  (`HN <https://news.ycombinator.com/item?id=6812675>`__)
+
+* `Proof Of Existence <http://www.proofofexistence.com/>`_
+  (`Service lets you "certify" a document using the Bitcoin blockchain <https://news.ycombinator.com/item?id=6809929>`_)
+
+* `Secret Think Tank That Recruits Via Internet Puzzles <https://en.wikipedia.org/wiki/Cicada_3301>`_
+  (`HN <https://news.ycombinator.com/item?id=6812668>`__,
+  `Traditional Chinese news <http://www.techbang.com/posts/15844-secret-societies-in-finding-the-best-solution-from-the>`__)
+
+* `The Programming Language Zoo <http://andrej.com/plzoo/>`_
+  (`HN <https://news.ycombinator.com/item?id=6812840>`__)
+
+* `Monocle.io Open Sourced <https://github.com/maccman/monocle>`_
+  (`Monocle.io <http://monocle.io/>`_,
+  `HN <https://news.ycombinator.com/item?id=6812926>`__)
+
+JSConf.Asia 2013
+
+  * `Making The Mobile Web Site Faster <https://docs.google.com/presentation/d/1tMULFjEpHIb_gdzHpBZ4uGJxwiJU_WgLq-58VWA9OaI/pub?start=false#slide=id.p>`_
+
+  * `CSS in the 4th dimension <http://lea.verou.me/css-4d/>`_
+

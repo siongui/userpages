@@ -62,6 +62,8 @@ Info:
 
   `SitePoint – Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design <http://www.sitepoint.com/>`_
 
+  `Monocle <http://monocle.io/>`_
+
   Simplified Chinese:
 
     `图灵社区 <http://www.ituring.com.cn/>`_
@@ -141,6 +143,8 @@ Web Development:
   `Moot | Forums and commenting re-imagined <https://moot.it/>`_
 
   `Continuous Integration · drone.io <https://drone.io/>`_
+  
+  `Prepros :: Compile Sass, less or any preprocessing language <http://alphapixels.com/prepros/>`_
 
 JavaScript:
 

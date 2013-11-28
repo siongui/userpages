@@ -66,6 +66,10 @@ Styling & Images Generator:
 
   `浮動 FB 粉絲專頁產生器 <http://works.liaosankai.com/pixnet-float-fb/>`_
 
+  `cubic-bezier <http://cubic-bezier.com/>`_
+
+  `Prism <http://prismjs.com/>`_ (code syntax highlight)
+
 CSS Front-end Frameworks:
 
   `CSS Front-end Frameworks with comparison <http://usablica.github.io/front-end-frameworks/compare.html>`_
@@ -77,6 +81,10 @@ CSS Front-end Frameworks:
   `Pure <http://purecss.io/>`_
 
 `Can I use... Support tables for HTML5, CSS3, etc <http://caniuse.com/>`_
+
+`Prefix free: Break free from CSS vendor prefix hell! <http://leaverou.github.io/prefixfree/>`_
+
+`The CSS3 Test <http://css3test.com/>`_
 
 `Design Gallery, Articles & Community | Design Shack <http://designshack.net/>`_
 
@@ -110,3 +118,4 @@ CSS Front-end Frameworks:
 `HTML5, CSS3 & JQUERY – WEB DESIGN GUIDE <http://www.css-jquery-design.com/>`_
 
 `Design css Tips, Tutorials and Inspiration - css-tips.us <http://www.css-tips.us/>`_
+
