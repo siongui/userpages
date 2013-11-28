@@ -7,8 +7,7 @@ $link-hover-color: #2445ae;
 body {
   // use noise background
   background: #ececef url(/theme/bg.png);
-  // use google web font
-  font-family: 'Trocchi', serif;
+  font-family: sans-serif, 'Times New Roman';
   a { text-decoration: none; }
 }
 
@@ -56,7 +55,10 @@ span.badge {
 
 // styling for code highlight
 div.highlight {
+  font-family: Consolas, Monaco, 'Andale Mono', monospace;
   pre {
+    font-size: 125%;
+    line-height: 150%;
     margin-top: 0;
     background-color: #f7f7f9;
     //background-color: #cccccc;
