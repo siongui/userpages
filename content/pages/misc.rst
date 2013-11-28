@@ -72,3 +72,5 @@
 
 `MillionShort <https://millionshort.com/>`_
 
+`百度开源平台 <http://oss.baidu.com/>`_
+
