@@ -13,3 +13,6 @@
 
     * `Simplified Chinese introduction (not official) <http://www.oschina.net/p/micropython>`_
 
+- `Show HN: Probabilistically Generating HN Top Post Titles <http://grantslatton.com/hngen/>`_
+    * `HN <https://news.ycombinator.com/item?id=6815282>`__
+
