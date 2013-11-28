@@ -3,6 +3,8 @@
 :status: hidden
 
 
+`Dart: Structured web apps <https://www.dartlang.org/>`_
+
 `dartlang - Reddit <http://www.reddit.com/r/dartlang/>`_
 
 `Newest 'dart' Questions - Stack Overflow <http://stackoverflow.com/questions/tagged/dart>`_

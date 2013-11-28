@@ -51,7 +51,8 @@ Recommended:
 
 Statistics:
 `GitHub Résumé <http://resume.github.io/?siongui>`_ /
-`Open Source Report Card <http://osrc.dfm.io/siongui>`_
+`Open Source Report Card <http://osrc.dfm.io/siongui>`_ /
+`Github Visualizer <http://artzub.com/ghv/#user=siongui>`_
 
 Misc:
 `My RSS Subscriptions <{filename}../extra/Feeder.opml>`_

@@ -136,8 +136,6 @@ Web Development:
 
   `Outbrain <http://www.outbrain.com/>`_
 
-  `Dart: Structured web apps <https://www.dartlang.org/>`_
-
   `JQM Designer <http://jqmdesigner.appspot.com/>`_
 
   `Moot | Forums and commenting re-imagined <https://moot.it/>`_

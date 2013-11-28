@@ -74,3 +74,5 @@
 
 `百度开源平台 <http://oss.baidu.com/>`_
 
+`BitcoinWisdom - Live Bitcoin/Litecoin charts <http://bitcoinwisdom.com/>`_
+

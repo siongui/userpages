@@ -1,5 +1,5 @@
-<The Future of Javascript>, <asm.js in browser extensions>, <JSConf.Asia 2013>, etc.
-####################################################################################
+<The Future of Javascript>, <Github Visualizer>, <Ticker.py>, <JSConf.Asia 2013>, etc.
+######################################################################################
 
 :date: 2013-11-28 13:21
 :tags: JavaScript, asm.js, CSS
@@ -12,6 +12,13 @@
 
 * `An Unexpected Ass Kicking <http://impossiblehq.com/an-unexpected-ass-kicking>`_
   (`Simplified Chinese translation <http://blog.jobbole.com/51846/>`__)
+
+* `Github Visualizer <http://artzub.com/ghv/>`_
+  (`HN <https://news.ycombinator.com/item?id=6814360>`__,
+  `source code on Github <https://github.com/artzub/GitHubVisualizer>`__)
+
+* `Ticker.py (bitstamp|btcchina|btce|coinjar|mtgox - USD) <http://www.reddit.com/r/Bitcoin/comments/1rn82s/tickerpy_bitstampbtcchinabtcecoinjarmtgox_usd/>`_
+  (`HN <https://news.ycombinator.com/item?id=6814427>`__)
 
 * `Thoughts on using asm.js for performance bottlenecks in browser extensions <https://adblockplus.org/blog/thoghts-on-using-asmjs-for-performance-bottlenecks-in-browser-extensions>`_
   (`Simplified Chinese Translation <http://www.linuxeden.com/html/news/20131128/145921.html>`__)
