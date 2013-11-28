@@ -2,7 +2,7 @@
 ######################################################################################
 
 :date: 2013-11-28 13:21
-:tags: JavaScript, asm.js, CSS
+:tags: JavaScript, asm.js, CSS, Python
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-11-28
@@ -53,6 +53,9 @@
 
 * `DynoSRC - Eliminate HTTP requests for JavaScript files <http://dinosrc.it/>`_
   (`HN <https://news.ycombinator.com/item?id=6813881>`__)
+
+* `Custom Tetris <http://ondras.github.io/custom-tetris/>`_
+  (`Github <https://github.com/ondras/custom-tetris>`__)
 
 `JSConf.Asia 2013 <http://2013.jsconf.asia/>`_
 
