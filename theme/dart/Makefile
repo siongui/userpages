@@ -1,4 +1,4 @@
-DART_DIR=../../dart
+DART_DIR=../../../dart
 DART_SDK=$(DART_DIR)/dart-sdk
 DART_SDK_BIN=$(DART_SDK)/bin
 DARTIUM=$(DART_DIR)/chromium/chrome
@@ -17,6 +17,5 @@ help:
 	dart --print-flags
 
 all: client
-	echo
 
 .PHONY: client standalone help

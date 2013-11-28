@@ -2,7 +2,7 @@
 ########################################################
 
 :date: 2013-11-28 13:21
-:tags: JavaScript, asm.js
+:tags: JavaScript, asm.js, CSS
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-11-28
@@ -35,9 +35,11 @@
   (`Monocle.io <http://monocle.io/>`_,
   `HN <https://news.ycombinator.com/item?id=6812926>`__)
 
-JSConf.Asia 2013
+`JSConf.Asia 2013 <http://2013.jsconf.asia/>`_
 
   * `Making The Mobile Web Site Faster <https://docs.google.com/presentation/d/1tMULFjEpHIb_gdzHpBZ4uGJxwiJU_WgLq-58VWA9OaI/pub?start=false#slide=id.p>`_
 
   * `CSS in the 4th dimension <http://lea.verou.me/css-4d/>`_
+
+  * `Node.js and Photoshop Generator <http://www.slideshare.net/fenomas1/nodejs-and-photoshop-generator-jsconf-asia-2013>`_
 
