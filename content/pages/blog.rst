@@ -23,6 +23,8 @@ Python/Go:
 
   `JJinuxLand <http://jjinux.blogspot.com/>`_ (Python, Ruby, Dart, etc.)
 
+  `Ø value - a wysiwyg hypertext cyberblog <http://0value.com/>`_ (Go)
+
 HTML/CSS/JavaScript:
 
   `Ondřej Žára <http://ondras.zarovi.cz/>`_
@@ -56,6 +58,8 @@ HTML/CSS/JavaScript:
   `Broken Links - Peter Gasston's blog on web development and technologies <http://www.broken-links.com/>`_
 
   `Lea Verou <http://lea.verou.me/>`_ (CSS)
+
+  `JavaScript <http://blog.romanliutikov.com/>`_
 
 Linux/System:
 
@@ -113,6 +117,8 @@ Linux/System:
 (Thoughts on coding in Dart, Ruby, Python and Javascript)
 
 `James J Porter <http://jamesporter.me/>`_
+
+`& « verbiage overflow <http://brannerchinese.wordpress.com/>`_
 
 Simplified Chinese:
 

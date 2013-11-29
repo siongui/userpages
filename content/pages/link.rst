@@ -18,12 +18,14 @@ Info:
 
   `Hacker News <https://news.ycombinator.com/>`_
 
-  `HTML5 Rocks <http://www.html5rocks.com/>`_
+  `ReadWrite <http://readwrite.com/>`_
 
   `Coders Grid <http://www.codersgrid.com/>`_
 
   `Programming Languages - Hyperpolyglot <http://hyperpolyglot.org/>`_
   (commonly used features in a side-by-side format)
+
+  `HTML5 Rocks <http://www.html5rocks.com/>`_
 
   `HTML5 Doctor <http://html5doctor.com/>`_
 
