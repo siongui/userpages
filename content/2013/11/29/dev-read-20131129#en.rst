@@ -14,6 +14,10 @@
 
   * `Simplified Chinese introduction (not official) <http://www.oschina.net/p/micropython>`_
 
+- `"I Am Thankful For…" from a Web Dev <http://www.runtime-era.com/2013/11/i-am-thankful-for-from-web-dev.html>`_
+  
+  * `HN news <https://news.ycombinator.com/item?id=6819051>`__
+
 - `Show HN: Probabilistically Generating HN Top Post Titles <http://grantslatton.com/hngen/>`_
 
   * `HN news <https://news.ycombinator.com/item?id=6815282>`__
@@ -29,6 +33,26 @@
 - `The q element <http://www.growingwiththeweb.com/2013/11/the-q-element.html>`_
 
 - `Front End Web Development Quiz By David Shariff <http://davidshariff.com/quiz/>`_
+
+- `Show HN: Little typographic experiment with SVG and CSS transitions <http://codepen.io/geekuillaume/pen/kFIsg>`_
+
+  * `HN news <https://news.ycombinator.com/item?id=6818614>`__
+
+- `HTML: font color=”red” becomes green <http://jsfiddle.net/WGSNX/7/>`_
+
+  * `HN news <https://news.ycombinator.com/item?id=6818713>`__
+
+- `Ask HN: Open Source alternatives to Disqus? <https://news.ycombinator.com/item?id=6818416>`_
+
+- `What happens when you run "Hello, world" <http://jvns.ca/blog/2013/11/29/what-happens-when-you-run-a-unix-program/>`_
+
+  * `HN news <https://news.ycombinator.com/item?id=6818245>`__
+
+- `Colorful Equations With MathJax <http://adereth.github.io/blog/2013/11/29/colorful-equations/>`_
+
+  * `HN news <https://news.ycombinator.com/item?id=6819634>`__
+
+- `GoodUI <http://goodui.org/>`_
 
 interview:
 
@@ -69,17 +93,4 @@ Google+ post:
 
   - `show a file type icon for any links that point to a particular type of file <https://plus.google.com/115684298027066649481/posts/DY4ktjxuYaV>`_
     (CSS by `David Gilbertson <https://plus.google.com/+DavidGilbertson>`_)
-
-    .. code-block:: html
-
-      a[href$=".pdf"] {
-        background: url(../img/pdf_icon_16x16.png) no-repeat;
-        padding-left: 20px;
-      }
-
-      // ...or if you don't want to use an icon,
-      // but do want to let your users know you're linking to a file:
-      a[href$=".pdf"]:after {
-        content: " (PDF)"
-      }
 

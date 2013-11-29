@@ -25,6 +25,13 @@ Python/Go:
 
   `Ø value - a wysiwyg hypertext cyberblog <http://0value.com/>`_ (Go)
 
+  `Dev Blog <http://mohd-akram.github.io/>`_ (Python)
+
+  `Wes McKinney's Blog <http://wesmckinney.com/blog/>`_
+  (A blog about scientific Python, data analysis, statistics, algorithms, and hacking of all kinds)
+
+  `Julia Evans <http://jvns.ca/>`_
+
 HTML/CSS/JavaScript:
 
   `Ondřej Žára <http://ondras.zarovi.cz/>`_
@@ -60,6 +67,12 @@ HTML/CSS/JavaScript:
   `Lea Verou <http://lea.verou.me/>`_ (CSS)
 
   `JavaScript <http://blog.romanliutikov.com/>`_
+
+  `Runtime Era <http://www.runtime-era.com/>`_
+
+  `mir.aculo.us JavaScript with Thomas Fuchs <http://mir.aculo.us/>`_
+
+  `Blog - Shelly Cloud <https://shellycloud.com/blog>`_
 
 Linux/System:
 
@@ -121,6 +134,10 @@ Linux/System:
 `& « verbiage overflow <http://brannerchinese.wordpress.com/>`_
 
 `Bilal Quadri <http://bilalquadri.com/>`_
+
+`The Corner - Square Engineering Blog <http://corner.squareup.com/>`_
+
+`Adereth’s Blog <http://adereth.github.io/>`_
 
 Simplified Chinese:
 
@@ -195,6 +212,8 @@ Traditional Chinese:
   `關於@廖三凱 | Web Developer <http://liaosankai.com/>`_
 
   `ChiBC-暗月之鏡的個人站 <http://chibc.net/>`_
+
+  `無為閣 <http://hychen.wuweig.org/>`_
 
 `Yu-Jie Lin <http://www.yjl.im/>`_
 

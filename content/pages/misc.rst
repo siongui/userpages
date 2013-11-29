@@ -76,3 +76,5 @@
 
 `BitcoinWisdom - Live Bitcoin/Litecoin charts <http://bitcoinwisdom.com/>`_
 
+`#AltDevBlog <http://www.altdevblogaday.com/>`_
+

@@ -66,6 +66,8 @@ Info:
 
   `Monocle <http://monocle.io/>`_
 
+  `The CSS Ninja - All things CSS, JavaScript & HTML <http://www.thecssninja.com/>`_
+
   Simplified Chinese:
 
     `图灵社区 <http://www.ituring.com.cn/>`_

@@ -80,6 +80,8 @@ CSS Front-end Frameworks:
 
   `Pure <http://purecss.io/>`_
 
+`GoodUI <http://goodui.org/>`_
+
 `Can I use... Support tables for HTML5, CSS3, etc <http://caniuse.com/>`_
 
 `Prefix free: Break free from CSS vendor prefix hell! <http://leaverou.github.io/prefixfree/>`_
