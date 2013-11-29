@@ -2,7 +2,7 @@
 ######################################################################################
 
 :date: 2013-11-28 13:21
-:tags: JavaScript, asm.js, CSS, Python
+:tags: JavaScript, asm.js, CSS, Python, Github
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-11-28

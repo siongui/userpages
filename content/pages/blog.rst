@@ -120,6 +120,8 @@ Linux/System:
 
 `& « verbiage overflow <http://brannerchinese.wordpress.com/>`_
 
+`Bilal Quadri <http://bilalquadri.com/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_

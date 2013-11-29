@@ -1,6 +1,7 @@
 [Python] When to use assert
 ###########################
 
+:modified: 2013-11-29 12:18
 :tags: Python
 :category: Python
 :author: Siong-Ui Te
@@ -9,6 +10,7 @@
 Link:
 
   `When to use assert <https://mail.python.org/pipermail/python-list/2013-November/660401.html>`_
+  (`Simplified Chinese Translation <http://www.oschina.net/translate/when-to-use-assert>`_)
 
 The following is his whole post:
 

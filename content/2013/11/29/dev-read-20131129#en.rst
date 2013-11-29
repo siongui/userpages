@@ -1,8 +1,8 @@
-<Micro Python>, <Github CEO interview>
-######################################
+<Micro Python>, <Github CEO interview>, <Vim tricks>, etc.
+##########################################################
 
-:date: 2013-11-29 00:24
-:tags: Python
+:date: 2013-11-29 12:51
+:tags: Python, Vim, JavaScript, Github
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-11-29
@@ -26,6 +26,7 @@
 
   * `HN news <https://news.ycombinator.com/item?id=6817336>`__
 
+- `The q element <http://www.growingwiththeweb.com/2013/11/the-q-element.html>`_
 
 interview:
 
@@ -49,3 +50,16 @@ blog:
     * `Github <https://github.com/brannerchinese>`__
 
     * `author <https://brannerchinese.com/>`_
+
+vim:
+
+  - `Vim sublime <https://github.com/grigio/vim-sublime>`_
+    (`HN news <https://news.ycombinator.com/item?id=6817254>`__)
+
+  - `Removing Distractions From Vim <http://bilalquadri.com/blog/2013/11/27/removing-distractions-from-vim/>`_
+    (`HN news <https://news.ycombinator.com/item?id=6817453>`__)
+
+<CodersGrid/>
+
+  - `Coder Read #20131129 <http://www.codersgrid.com/2013/11/29/coder-read-20131129-dynosrc-eliminate-http-request-for-javascript/>`_
+
