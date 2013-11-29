@@ -2,7 +2,7 @@
 ##########################################################
 
 :date: 2013-11-29 12:51
-:tags: Python, Vim, JavaScript, Github
+:tags: Python, Vim, JavaScript, Github, CSS
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-11-29
@@ -27,6 +27,8 @@
   * `HN news <https://news.ycombinator.com/item?id=6817336>`__
 
 - `The q element <http://www.growingwiththeweb.com/2013/11/the-q-element.html>`_
+
+- `Front End Web Development Quiz By David Shariff <http://davidshariff.com/quiz/>`_
 
 interview:
 
@@ -62,4 +64,22 @@ vim:
 <CodersGrid/>
 
   - `Coder Read #20131129 <http://www.codersgrid.com/2013/11/29/coder-read-20131129-dynosrc-eliminate-http-request-for-javascript/>`_
+
+Google+ post:
+
+  - `show a file type icon for any links that point to a particular type of file <https://plus.google.com/115684298027066649481/posts/DY4ktjxuYaV>`_
+    (CSS by `David Gilbertson <https://plus.google.com/+DavidGilbertson>`_)
+
+    .. code-block:: html
+
+      a[href$=".pdf"] {
+        background: url(../img/pdf_icon_16x16.png) no-repeat;
+        padding-left: 20px;
+      }
+
+      // ...or if you don't want to use an icon,
+      // but do want to let your users know you're linking to a file:
+      a[href$=".pdf"]:after {
+        content: " (PDF)"
+      }
 
