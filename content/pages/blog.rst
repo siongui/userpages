@@ -74,6 +74,8 @@ HTML/CSS/JavaScript:
 
   `Blog - Shelly Cloud <https://shellycloud.com/blog>`_
 
+  `Egor Homakov <http://homakov.blogspot.com/>`_ (security)
+
 Linux/System:
 
   `Pádraig Brady <http://www.pixelbeat.org/>`_
@@ -170,6 +172,8 @@ Simplified Chinese:
   `道可叨 | Free Will <http://zhuoqiang.me/>`_
 
   `Ctrip Vbooking团队博客 <http://vbooking.github.io/>`_
+
+  `张亚楠 ' BLOG - 天意从来高难问 <http://www.zhidaow.com/>`_ (Python)
 
 `Wenli Zhang <http://zhangwenli.com/>`_
 

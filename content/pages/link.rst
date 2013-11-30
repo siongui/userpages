@@ -25,6 +25,8 @@ Info:
   `Programming Languages - Hyperpolyglot <http://hyperpolyglot.org/>`_
   (commonly used features in a side-by-side format)
 
+  `DevCharm <http://devcharm.com/>`_
+
   `HTML5 Rocks <http://www.html5rocks.com/>`_
 
   `HTML5 Doctor <http://html5doctor.com/>`_

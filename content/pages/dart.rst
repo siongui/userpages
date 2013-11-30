@@ -11,6 +11,9 @@
 
 `Dartwatch <http://blog.dartwatch.com/>`_
 
+Dart Cheat Sheet `[Core] <http://dartlangfr.net/dart-cheat-sheet/core.html>`_,
+`[HTML] <http://dartlangfr.net/dart-cheat-sheet/html.html>`_
+
 `Dart Express <https://github.com/dartist/express>`_
 
 `jaded - Port of node.js jade view engine for Dart <https://github.com/dartist/jaded>`_

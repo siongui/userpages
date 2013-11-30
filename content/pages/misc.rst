@@ -3,6 +3,11 @@
 :status: hidden
 
 
+`tmux <http://tmux.sourceforge.net/>`_
+
+`Terminator <http://software.jessies.org/terminator/>`_
+(`Google Code <https://code.google.com/p/jessies/>`__)
+
 `localhost 8080 <http://localhost:8080/>`_,
 `localhost 8000 <http://localhost:8000/>`_
 
@@ -53,8 +58,6 @@
 `Prose • A Content Editor for GitHub <http://prose.io/>`_
 
 `CodeProject <http://www.codeproject.com/>`_
-
-`tmux <http://tmux.sourceforge.net/>`_
 
 `Application Performance Management &amp; Monitoring | New Relic <http://newrelic.com/>`_
 
