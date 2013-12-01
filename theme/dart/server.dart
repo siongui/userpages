@@ -1,19 +1,27 @@
 import 'dart:io';
 
+class index {
+  String name = 'index';
+
+  void GET() {
+  }
+}
+
 // simulate urls in web.py
-// no set literal in Dart, so use Map instead of Set
+// Set literal is not supported in Dart, so use Map instead of Set
 // @see https://code.google.com/p/dart/issues/detail?id=3792
-final Map<String, String> urls = {
-  '/': 'index'
+final Map<String, Object> urls = {
+  '/': new index()
 };
 
 class application {
   // simulate web.application in web.py
   final String HOST = 'localhost';
   final int PORT = 8080;
-  Map<String, String> urls;
+  Map<String, Object> urls;
 
-  application(Map<String, String> urls) {
+  // constructor
+  application(Map<String, Object> urls) {
     this.urls = urls;
   }
 
@@ -30,7 +38,9 @@ class application {
   void info() {
     print('HOST: ${HOST}');
     print('PORT: ${PORT}');
-    print('urls: ${urls}');
+    this.urls.forEach((key, value) {
+      print('${key} => ${value}');
+    });
   }
 
   void run() {
@@ -41,6 +51,7 @@ class application {
 
 void main() {
   application app = new application(urls);
+  print(app.runtimeType.toString());
   app.info();
   app.run();
 }
