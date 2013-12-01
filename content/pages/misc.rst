@@ -85,3 +85,5 @@
 
 `Sightsmap <http://www.sightsmap.com/>`_ (Sightseeing popularity heatmaps for the whole world, based on Panoramio, Wikipedia and FourSquare)
 
+`SVBTLE Magazine <https://svbtle.com/>`_
+

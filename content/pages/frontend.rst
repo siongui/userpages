@@ -23,6 +23,8 @@ Tips/News:
 
   `frontend development resources <https://github.com/dypsilon/frontend-dev-bookmarks>`_
 
+  `Inspire <https://github.com/Codingbean/Inspire>`_ (A collection of links to assist you in web design and development.)
+
   `BASICuse - tutorials for programming in HTML, CSS and JavaScript <http://basicuse.net/>`_
 
   `HTML5test <http://html5test.com/>`_

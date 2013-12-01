@@ -1,5 +1,5 @@
-<Core algorithms deployed>, etc.
-################################
+<Core algorithms deployed>, <undefined behavior in C>, etc.
+###########################################################
 
 :date: 2013-12-01 10:57
 :tags: Vim, Algorithm, C, webapp
@@ -27,10 +27,23 @@ C:
 
     * `HN news <https://news.ycombinator.com/item?id=6824221>`__
 
+CSS:
+
+  - `CSS gradients: basic to advanced <http://themarklee.com/2013/11/29/get-started-css-gradients/>`_
+
 Good Website:
 
   - `How to keep up to date on Front-End Technologies - The Recipe <http://uptodate.frontendrescue.org/>`_
 
+  - `Getting Unstuck <http://themarklee.com/>`_ (CSS, etc.)
 
 - `Show HN: Headline Smasher <http://www.headlinesmasher.com/>`_
   (`HN news <https://news.ycombinator.com/item?id=6824017>`__)
+
+- `Little Alchemy <http://littlealchemy.com/>`_
+  (`HN news <https://news.ycombinator.com/item?id=6826797>`__)
+
+- `Medium Editor <http://daviferreira.github.io/medium-editor/>`_
+  (`Github <https://github.com/daviferreira/medium-editor>`__)
+
+- `Inspire <https://github.com/Codingbean/Inspire>`_ (A collection of links to assist you in web design and development.)

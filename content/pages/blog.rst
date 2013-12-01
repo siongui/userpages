@@ -145,6 +145,8 @@ Linux/System:
 
 `Christopher Cole | A blog to blog my blog <http://blog.chris-cole.net/>`_
 
+`Brandon Hilkert <http://brandonhilkert.com/>`_ (Ruby, Rails)
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_
