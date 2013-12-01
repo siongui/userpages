@@ -6,30 +6,47 @@
     <style type="text/css">
       .left-helf {
 	width: 50%;
-	min-height: 500px;
 	background-color: #ccc;
-	float: left;
-	text-align: center;
+	display: inline-block;
       }
 
       .right-helf {
 	width: 50%;
-	min-height: 500px;
 	background-color: #eee;
+	display: inline-block;
+      }
+
+      .toggle-sidebar-right-arrow {
+	background-color: #ccc;
+	font-size: x-large;
 	float: left;
-	text-align: center;
+      }
+      .toggle-sidebar-right-arrow:hover {
+	cursor: pointer;
+      }
+      .toggle-sidebar-left-arrow {
+	background-color: #eee;
+	font-size: x-large;
+	float: right;
+      }
+      .toggle-sidebar-left-arrow:hover {
+	cursor: pointer;
       }
     </style>
 
   </head>
   <body>
-
-    <div class="left-helf">
-      I am left helf
-    </div>
-    <div class="right-helf">
-      I am right helf
-    </div>
+  
+    <div><!--
+   --><div class="left-helf">
+        <span class="toggle-sidebar-left-arrow">&laquo;</span>
+	<p>I am left helf</p>
+      </div><!--
+   --><div class="right-helf">
+        <span class="toggle-sidebar-right-arrow">&raquo;</span>
+	<p>I am right helf</p>
+      </div><!--
+ --></div>
 
     <script type="application/dart" src="toggle.dart"></script>
   </body>
