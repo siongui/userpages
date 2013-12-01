@@ -141,6 +141,10 @@ Linux/System:
 
 `Adereth’s Blog <http://adereth.github.io/>`_
 
+`danielmiessler.com <http://www.danielmiessler.com/>`_ (Vim, Tmux, Git, etc.)
+
+`Christopher Cole | A blog to blog my blog <http://blog.chris-cole.net/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_
