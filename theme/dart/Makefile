@@ -8,6 +8,7 @@ DARTIUM=$(DART_DIR)/chromium/chrome
 START_HTML=toggle.html
 DART_APP=toggle.dart
 DART_APP_JS=toggle.js
+DART_SERVER=server.dart
 
 # Fix Dartium startup error:
 # http://askubuntu.com/questions/369310/how-to-fix-missing-libudev-so-0-for-chrome-to-start-again
@@ -15,7 +16,7 @@ web: $(START_HTML) $(DART_APP)
 	DART_FLAGS='--checked' $(DARTIUM) --user-data-dir=./data $(START_HTML)
 
 cmd: $(DART_APP)
-	$(DARTVM) --checked $(DART_APP)
+	$(DARTVM) --checked $(DART_SERVER)
 
 js: $(DART_APP)
 	$(DART2JS) --minify --out=$(DART_APP_JS) $(DART_APP)

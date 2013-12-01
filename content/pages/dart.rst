@@ -24,3 +24,5 @@ Dart Cheat Sheet `[Core] <http://dartlangfr.net/dart-cheat-sheet/core.html>`_,
 
 `Start - Sinatra inspired web framework. <https://github.com/lvivski/start>`_
 
+`Dart Examples <http://c.dart-examples.com/>`_
+
