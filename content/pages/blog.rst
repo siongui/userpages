@@ -219,6 +219,8 @@ Traditional Chinese:
 
   `無為閣 <http://hychen.wuweig.org/>`_
 
+  `凍仁的筆記 <http://note.drx.tw/>`_
+
 `Yu-Jie Lin <http://www.yjl.im/>`_
 
 `Licson's Tech Space <http://licson.net/>`_

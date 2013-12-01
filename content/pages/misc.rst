@@ -81,3 +81,7 @@
 
 `#AltDevBlog <http://www.altdevblogaday.com/>`_
 
+`Crate <https://crate.io/>`_ (Crate is a new kind of Python package index.)
+
+`Sightsmap <http://www.sightsmap.com/>`_ (Sightseeing popularity heatmaps for the whole world, based on Panoramio, Wikipedia and FourSquare)
+

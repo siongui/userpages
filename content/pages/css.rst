@@ -84,6 +84,8 @@ CSS Front-end Frameworks:
 
 `Can I use... Support tables for HTML5, CSS3, etc <http://caniuse.com/>`_
 
+`CSS Newbie <http://www.cssnewbie.com/>`_
+
 `Prefix free: Break free from CSS vendor prefix hell! <http://leaverou.github.io/prefixfree/>`_
 
 `The CSS3 Test <http://css3test.com/>`_
