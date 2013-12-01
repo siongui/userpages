@@ -78,6 +78,8 @@ HTML/CSS/JavaScript:
 
   `Cacheline <http://tavendo.com/blog/>`_
 
+  `Blog of Krasimir Tsonev / web designer and developer with over 10 years of experience <http://krasimirtsonev.com/blog>`_
+
 Linux/System:
 
   `Pádraig Brady <http://www.pixelbeat.org/>`_
