@@ -2,7 +2,7 @@
 ###########################################################
 
 :date: 2013-12-01 10:57
-:tags: Vim, Algorithm, C, webapp
+:tags: Vim, Algorithm, C, webapp, CSS, SVG
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-12-01
@@ -31,6 +31,8 @@ CSS:
 
   - `CSS gradients: basic to advanced <http://themarklee.com/2013/11/29/get-started-css-gradients/>`_
 
+  - `SVG - Super Vector Graphics <http://tavendo.com/blog/post/super-vector-graphics/>`_
+
 Good Website:
 
   - `How to keep up to date on Front-End Technologies - The Recipe <http://uptodate.frontendrescue.org/>`_
@@ -47,3 +49,6 @@ Good Website:
   (`Github <https://github.com/daviferreira/medium-editor>`__)
 
 - `Inspire <https://github.com/Codingbean/Inspire>`_ (A collection of links to assist you in web design and development.)
+
+- `The Quantum Algorithm That Could Break the Internet <http://www.slate.com/articles/health_and_science/new_scientist/2013/11/quantum_computer_security_shor_s_algorithm_and_the_future_of_cryptography.html>`_
+  (`HN news <https://news.ycombinator.com/item?id=6827255>`__)

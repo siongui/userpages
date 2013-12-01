@@ -76,6 +76,8 @@ HTML/CSS/JavaScript:
 
   `Egor Homakov <http://homakov.blogspot.com/>`_ (security)
 
+  `Cacheline <http://tavendo.com/blog/>`_
+
 Linux/System:
 
   `Pádraig Brady <http://www.pixelbeat.org/>`_
@@ -226,6 +228,8 @@ Traditional Chinese:
   `無為閣 <http://hychen.wuweig.org/>`_
 
   `凍仁的筆記 <http://note.drx.tw/>`_
+
+  `樂在設計 - 網頁設計向前走 <http://fundesigner.net/>`_
 
 `Yu-Jie Lin <http://www.yjl.im/>`_
 
