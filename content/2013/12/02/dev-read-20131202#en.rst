@@ -2,7 +2,7 @@
 ####################################################################
 
 :date: 2013-12-02 01:32
-:tags: JavaScript, C++, OS, Github
+:tags: JavaScript, C++, OS, Github, Linux
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-12-02
@@ -20,3 +20,5 @@
 `Show HN: GuessHub, our Github Game off entry. Guess a commit's repository. <http://guesshub.io/>`_
 (`HN news <https://news.ycombinator.com/item?id=6828477>`__)
 
+`Linux shell tips and tricks <http://www.techbar.me/linux-shell-tips/>`_
+(`Simplified Chinese Translation <http://www.aqee.net/linux-shell-tips-and-tricks/>`__)
