@@ -5,8 +5,8 @@ Dart Toggle Sidebar Example
 Inspired by `Octopress <http://octopress.org/>`_, create toggle-able
 sidebar with `Dart <https://www.dartlang.org/>`_.
 
-Setup Development Environment
-=============================
+Usage
+=====
 
 1. Development environment is Ubuntu 13.10.
 
@@ -26,3 +26,15 @@ Setup Development Environment
    .. code-block:: bash
 
      $ make
+
+Demo
+====
+
+See `here <http://siongui.github.io/dart-toggle-sidebar-example/>`_.
+
+
+UNLICENSE
+=========
+
+Released in public domain. See `UNLICENSE <http://unlicense.org/>`_.
+
