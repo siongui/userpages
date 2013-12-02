@@ -80,6 +80,9 @@ HTML/CSS/JavaScript:
 
   `Blog of Krasimir Tsonev / web designer and developer with over 10 years of experience <http://krasimirtsonev.com/blog>`_
 
+  `Alicia Liu <http://alicialiu.net/>`_
+  (`blog <http://blog.alicialiu.net/>`__)
+
 Linux/System:
 
   `Pádraig Brady <http://www.pixelbeat.org/>`_
@@ -187,11 +190,16 @@ Simplified Chinese:
 
   `张亚楠 ' BLOG - 天意从来高难问 <http://www.zhidaow.com/>`_ (Python)
 
+  `Comics4Me – 团队博客 <http://blog.manhuahe.net/>`_
+
 `Wenli Zhang <http://zhangwenli.com/>`_
 
 `Zhong' blog <http://stupidgrass.github.io/blog/>`_
 
 Traditional Chinese:
+
+  `QOOGLE LABORATORY - DEVELOPMENT BLOG OF LITTLEQ <http://littleq.logdown.com/>`_
+  (Vim, Python, GAE)
 
   `O3noBLOG <https://blog.othree.net/>`_
 
