@@ -27,7 +27,24 @@ class application {
 
   void _httpRequestHandler(HttpRequest req) {
     print('${req.method} ${req.uri.path}');
-    req.response.write('Hello, world');
+
+    for (final String url in this.urls.keys) {
+      RegExp exp = new RegExp('^${url}\$');
+      Iterable<Match> matches = exp.allMatches(req.uri.path);
+
+      //for (Match m in matches) {
+      //  String match = m.group(0);
+      //  print('matched: ${match}');
+      //}
+      if (matches.length > 0) {
+        req.response.write('Hello, world');
+        req.response.close();
+        return;
+      }
+    }
+    // 404 not found
+    print('not found: ${req.uri.path}');
+    req.response.statusCode = HttpStatus.NOT_FOUND;
     req.response.close();
   }
 
@@ -37,12 +54,14 @@ class application {
   }
 
   void info() {
+    // print information (for debugging)
     print('server running at http://${HOST}:${PORT}/');
     print('HOST: ${HOST}');
     print('PORT: ${PORT}');
     this.urls.forEach((key, value) {
       print('${key} => ${value}');
     });
+    print(this.runtimeType.toString());
   }
 
   void run() {
@@ -54,5 +73,4 @@ class application {
 void main() {
   application app = new application(urls);
   app.run();
-  print(app.runtimeType.toString());
 }

@@ -162,6 +162,8 @@ Linux/System:
 
 `Pete Keen <http://www.petekeen.net/>`_
 
+`Something Sinistral <http://somethingsinistral.net/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_
