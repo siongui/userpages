@@ -1,13 +1,19 @@
+body {
+  padding-top: 120px;
+}
+
 .left-helf {
   width: 50%;
   background-color: #ccc;
   display: inline-block;
+  min-height: 200px;
 }
 
 .right-helf {
   width: 50%;
   background-color: #eee;
   display: inline-block;
+  min-height: 200px;
 }
 
 .toggle-sidebar-right-arrow {
