@@ -10,6 +10,8 @@ DART_APP=toggle.dart
 DART_APP_JS=toggle.js
 DART_SERVER=server.dart
 
+all: cmd
+
 # Fix Dartium startup error:
 # http://askubuntu.com/questions/369310/how-to-fix-missing-libudev-so-0-for-chrome-to-start-again
 web: $(START_HTML) $(DART_APP)
@@ -29,7 +31,5 @@ clean:
 	-rm *.js
 	-rm $(DART_APP_JS).deps
 	-rm $(DART_APP_JS).map
-
-all: web
 
 .PHONY: web cmd js clean help

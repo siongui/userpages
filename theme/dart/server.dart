@@ -32,10 +32,12 @@ class application {
   }
 
   void _onBindSuccess(HttpServer server) {
+    info();
     server.listen(_httpRequestHandler);
   }
 
   void info() {
+    print('server running at http://${HOST}:${PORT}/');
     print('HOST: ${HOST}');
     print('PORT: ${PORT}');
     this.urls.forEach((key, value) {
@@ -51,7 +53,6 @@ class application {
 
 void main() {
   application app = new application(urls);
-  print(app.runtimeType.toString());
-  app.info();
   app.run();
+  print(app.runtimeType.toString());
 }
