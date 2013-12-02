@@ -1,0 +1,28 @@
+.left-helf {
+  width: 50%;
+  background-color: #ccc;
+  display: inline-block;
+}
+
+.right-helf {
+  width: 50%;
+  background-color: #eee;
+  display: inline-block;
+}
+
+.toggle-sidebar-right-arrow {
+  background-color: #ccc;
+  font-size: x-large;
+  float: left;
+}
+.toggle-sidebar-right-arrow:hover {
+  cursor: pointer;
+}
+.toggle-sidebar-left-arrow {
+  background-color: #eee;
+  font-size: x-large;
+  float: right;
+}
+.toggle-sidebar-left-arrow:hover {
+  cursor: pointer;
+}
