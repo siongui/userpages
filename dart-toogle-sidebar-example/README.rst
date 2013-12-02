@@ -12,7 +12,7 @@ Usage
 
 2. Download `Dart Zip file <https://www.dartlang.org/>`_.
 
-3. Modify the first line in Makefile to point to location
+3. Modify the first line in Makefile to point to the location
    of your unzipped Dart directory. For example, your unzipped
    Dart dir is located at ``../dart``, you should set the first
    line like this:
@@ -26,6 +26,12 @@ Usage
    .. code-block:: bash
 
      $ make
+
+4. Convert Dart code to JavaScript:
+
+   .. code-block:: bash
+
+     $ make js
 
 Demo
 ====
