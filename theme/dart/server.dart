@@ -3,7 +3,9 @@ import 'dart:io';
 class index {
   String name = 'index';
 
-  void GET() {
+  void GET(HttpRequest req) {
+    req.response.write('Hello, world');
+    req.response.close();
   }
 }
 
@@ -28,8 +30,8 @@ class application {
   void _httpRequestHandler(HttpRequest req) {
     print('${req.method} ${req.uri.path}');
 
-    for (final String url in this.urls.keys) {
-      RegExp exp = new RegExp('^${url}\$');
+    for (final String urlRegex in this.urls.keys) {
+      RegExp exp = new RegExp('^${urlRegex}\$');
       Iterable<Match> matches = exp.allMatches(req.uri.path);
 
       //for (Match m in matches) {
@@ -37,9 +39,15 @@ class application {
       //  print('matched: ${match}');
       //}
       if (matches.length > 0) {
-        req.response.write('Hello, world');
-        req.response.close();
-        return;
+        try {
+          if (req.method == 'GET')
+            this.urls[urlRegex].GET(req);
+          if (req.method == 'POST')
+            this.urls[urlRegex].POST(req);
+          return;
+        } on NoSuchMethodError catch(e) {
+          print(e);
+        }
       }
     }
     // 404 not found
