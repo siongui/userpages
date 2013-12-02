@@ -89,3 +89,5 @@
 
 `MathPages <http://www.mathpages.com/>`_
 
+`Codewars <http://www.codewars.com/>`_
+

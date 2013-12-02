@@ -83,6 +83,8 @@ HTML/CSS/JavaScript:
   `Alicia Liu <http://alicialiu.net/>`_
   (`blog <http://blog.alicialiu.net/>`__)
 
+  `Adam Canady - I thought it, I wrote it <http://blog.adamcanady.com/>`_
+
 Linux/System:
 
   `Pádraig Brady <http://www.pixelbeat.org/>`_
@@ -157,6 +159,8 @@ Linux/System:
 `Dan Goldin <http://dangoldin.com/>`_
 
 `igorw <https://igor.io/>`_
+
+`Pete Keen <http://www.petekeen.net/>`_
 
 Simplified Chinese:
 

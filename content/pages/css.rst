@@ -70,6 +70,8 @@ Styling & Images Generator:
 
   `Prism <http://prismjs.com/>`_ (code syntax highlight)
 
+  `Colorpeek | Simply Share Colors <http://colorpeek.com/>`_
+
 CSS Front-end Frameworks:
 
   `CSS Front-end Frameworks with comparison <http://usablica.github.io/front-end-frameworks/compare.html>`_
