@@ -21,4 +21,9 @@
 (`HN news <https://news.ycombinator.com/item?id=6828477>`__)
 
 `Linux shell tips and tricks <http://www.techbar.me/linux-shell-tips/>`_
-(`Simplified Chinese Translation <http://www.aqee.net/linux-shell-tips-and-tricks/>`__)
+(Simplified Chinese Translation
+`1 <http://www.aqee.net/linux-shell-tips-and-tricks/>`__,
+`2 <http://www.oschina.net/news/46463/linux-shell-tips-and-tricks>`__)
+
+`List of Free Programming Books <http://resrc.io/>`_
+(`Github <https://github.com/vhf/resrc>`__)

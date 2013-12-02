@@ -17,6 +17,7 @@
 Info:
 
   `Hacker News <https://news.ycombinator.com/>`_
+  (`Yet Another Hacker News Reader <http://yahnr.com/>`_)
 
   `ReadWrite <http://readwrite.com/>`_
 

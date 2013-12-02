@@ -26,4 +26,7 @@
 
 `Learn PHP - Free Interactive PHP Tutorial <http://learn-php.org/>`_
 
+`List of Free Programming Books <http://resrc.io/>`_
+(`Github <https://github.com/vhf/resrc>`__)
+
 `egghead.io (AngularJS learning) <http://egghead.io/>`_

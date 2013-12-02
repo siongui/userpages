@@ -151,6 +151,8 @@ Linux/System:
 
 `Brandon Hilkert <http://brandonhilkert.com/>`_ (Ruby, Rails)
 
+`Dan Goldin <http://dangoldin.com/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_
