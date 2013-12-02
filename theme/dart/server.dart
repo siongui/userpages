@@ -1,10 +1,10 @@
 import 'dart:io';
 
 class index {
-  String name = 'index';
-
   void GET(HttpRequest req) {
-    req.response.write('Hello, world');
+    req.response.write('<!doctype html>'
+        '<html><head></head>'
+        '<body>Hello World!</body></html>');
     req.response.close();
   }
 }
