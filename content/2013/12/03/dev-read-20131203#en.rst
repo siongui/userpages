@@ -1,5 +1,5 @@
-<Live Bitcoin Price>
-####################
+<explain shell>, <Live Bitcoin Price>
+#####################################
 
 :date: 2013-12-03 01:13
 :tags: 
@@ -7,6 +7,10 @@
 :author: Siong-Ui Te
 :summary: Dev Read #2013-12-03
 
+
+`explainshell.com - match command-line arguments to their help text <http://explainshell.com/>`_
+(`HN news <https://news.ycombinator.com/item?id=6834791>`__,
+`Github <https://github.com/idank/explainshell>`__)
 
 `BitcoinIndexes - Live Bitcoin Price Index & Market Data <http://live.bitcoinindex.es/>`_
 (`HN news <https://news.ycombinator.com/item?id=6834710>`__)

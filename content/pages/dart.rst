@@ -26,3 +26,5 @@ Dart Cheat Sheet `[Core] <http://dartlangfr.net/dart-cheat-sheet/core.html>`_,
 
 `Dart Examples <http://c.dart-examples.com/>`_
 
+`Diving Into Dart <http://divingintodart.blogspot.com/>`_
+
