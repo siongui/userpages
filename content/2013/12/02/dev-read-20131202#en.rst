@@ -2,7 +2,7 @@
 ####################################################################
 
 :date: 2013-12-02 18:34
-:tags: JavaScript, C++, OS, Github, Linux, Python
+:tags: JavaScript, C++, OS, Github, Linux, Python, CSS
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-12-02
@@ -34,6 +34,9 @@
 
 `graph.tk <http://graph.tk/>`_
 (`HN news <https://news.ycombinator.com/item?id=6831836>`__)
+
+`Spritecow - create image sprite and CSS <http://www.spritecow.com/>`_
+(`HN news <https://news.ycombinator.com/item?id=6833466>`__)
 
 `List of Free Programming Books <http://resrc.io/>`_
 (`Github <https://github.com/vhf/resrc>`__)

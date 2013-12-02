@@ -156,6 +156,8 @@ Linux/System:
 
 `Dan Goldin <http://dangoldin.com/>`_
 
+`igorw <https://igor.io/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_
@@ -242,6 +244,8 @@ Traditional Chinese:
   `凍仁的筆記 <http://note.drx.tw/>`_
 
   `樂在設計 - 網頁設計向前走 <http://fundesigner.net/>`_
+
+  `便當盒 <http://blog.nahoya.com/>`_
 
 `Yu-Jie Lin <http://www.yjl.im/>`_
 

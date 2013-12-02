@@ -87,3 +87,5 @@
 
 `SVBTLE Magazine <https://svbtle.com/>`_
 
+`MathPages <http://www.mathpages.com/>`_
+
