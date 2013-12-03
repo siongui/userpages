@@ -1,14 +1,25 @@
 import 'dart:io';
 import 'lib/web.dart';
+import 'package:path/path.dart' as path;
+
+
+// simulate jinja2
+template tmpl_env = new template(
+  path.join(
+    path.dirname(Platform.script.toFilePath()),
+    'views')
+);
+
 
 class index {
   void GET(HttpRequest req) {
-    req.response.write('<!doctype html>'
-        '<html><head></head>'
-        '<body>Hello World!</body></html>');
+    req.response.write(
+        tmpl_env.render('index.html', {})
+    );
     req.response.close();
   }
 }
+
 
 // simulate urls in web.py
 // Set literal is not supported in Dart, so use Map instead of Set

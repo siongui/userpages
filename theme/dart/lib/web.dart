@@ -1,6 +1,7 @@
 library web;
 
 import 'dart:io';
+import 'package:path/path.dart' as path;
 
 part 'template.dart';
 
