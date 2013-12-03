@@ -85,6 +85,8 @@ HTML/CSS/JavaScript:
 
   `Adam Canady - I thought it, I wrote it <http://blog.adamcanady.com/>`_
 
+  `You are IT! <http://tamas.io/>`_
+
 Linux/System:
 
   `Pádraig Brady <http://www.pixelbeat.org/>`_
@@ -163,6 +165,8 @@ Linux/System:
 `Pete Keen <http://www.petekeen.net/>`_
 
 `Something Sinistral <http://somethingsinistral.net/>`_
+
+`TojiCode - Poking at WebGL and hoping it doesn't bite back. <http://blog.tojicode.com/>`_
 
 Simplified Chinese:
 

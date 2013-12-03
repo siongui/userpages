@@ -91,3 +91,5 @@
 
 `Codewars <http://www.codewars.com/>`_
 
+`Math with Bad Drawings <http://mathwithbaddrawings.com/>`_
+

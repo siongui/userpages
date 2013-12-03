@@ -36,6 +36,8 @@ Tips/News:
 
   `The CSS Ninja - All things CSS, JavaScript & HTML <http://www.thecssninja.com/>`_
 
+  `node.js中文资料导航 <https://github.com/youyudehexie/node123>`_
+
 JavaScript:
 
   `QuirksMode <http://www.quirksmode.org/>`_

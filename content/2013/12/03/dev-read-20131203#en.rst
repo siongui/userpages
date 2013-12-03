@@ -21,7 +21,24 @@
 
 `config files for zsh, bash, completions, gem, git, irb, rails <https://github.com/ryanb/dotfiles>`_
 
+`Visual Cryptography <http://datagenetics.com/blog/november32013/index.html>`_
+(`Simplified Chinese Translation <http://www.geekfan.net/4138/>`__)
+
+`Pythonium: Python 3 to JavaScript translator <https://pypi.python.org/pypi/pythonium/0.4.5>`_
+(`HN news <https://news.ycombinator.com/item?id=6837892>`__)
+
+`The Language ⇔ Language Matrix <http://langlangmatrix.com/>`_
+(`Github <https://github.com/tcr/langlangmatrix>`__,
+`HN news <https://news.ycombinator.com/item?id=6838494>`__)
+
+`node.js中文资料导航 <https://github.com/youyudehexie/node123>`_
+
+Front end workflow:
+
+  * `FireShell <http://getfireshell.com/>`_
+    (`Github <https://github.com/toddmotto/fireshell>`__)
+
 <CodersGrud/>:
 
-  - `Coder Read #20131203: 24PullRequest, giving back little gifs of code <http://www.codersgrid.com/2013/12/03/coder-read-20131203-24pullrequest-giving-back-little-gifs-of-code/>`_
+  * `Coder Read #20131203: 24PullRequest, giving back little gifs of code <http://www.codersgrid.com/2013/12/03/coder-read-20131203-24pullrequest-giving-back-little-gifs-of-code/>`_
 
