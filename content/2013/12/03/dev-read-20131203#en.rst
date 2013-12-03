@@ -1,8 +1,8 @@
 <explain shell>, <Live Bitcoin Price>, <C++ quiz>, etc.
 #######################################################
 
-:date: 2013-12-03 02:25
-:tags: Shell, C++, Bitcoin, dotfiles
+:date: 2013-12-03 17:32
+:tags: Shell, C++, Bitcoin, dotfiles, Python, JavaScript, math
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-12-03
@@ -31,7 +31,23 @@
 (`Github <https://github.com/tcr/langlangmatrix>`__,
 `HN news <https://news.ycombinator.com/item?id=6838494>`__)
 
-`node.js中文资料导航 <https://github.com/youyudehexie/node123>`_
+`☃ (unicodesnowmanforyou.com) <http://unicodesnowmanforyou.com/>`_
+(`HN news <https://news.ycombinator.com/item?id=6839237>`__)
+
+`Saving 9 GB of RAM with Python's __slots__ <http://tech.oyster.com/save-ram-with-python-slots/>`_
+(`Simplified Chinese Translation <http://blog.jobbole.com/52420/>`__)
+
+`A Crash Course in the Mathematics Of Infinite Sets <http://legacy.earlham.edu/~peters/writing/infapp.htm>`_
+(`HN news <https://news.ycombinator.com/item?id=6838917>`__)
+
+`The perfect way to have your Dropbox-hosted website on a custom domain. <http://dockbox.io/>`_
+(`HN news <https://news.ycombinator.com/item?id=6839290>`__)
+
+Simplified Chinese:
+
+  * `node.js中文资料导航 <https://github.com/youyudehexie/node123>`_
+
+  * `12行代码实现简易Javascript模板引擎 <http://www.oschina.net/code/snippet_919901_26970>`_
 
 Front end workflow:
 
