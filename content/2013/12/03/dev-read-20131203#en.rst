@@ -2,7 +2,7 @@
 #######################################################
 
 :date: 2013-12-03 17:32
-:tags: Shell, C++, Bitcoin, dotfiles, Python, JavaScript, math
+:tags: Shell, C++, Bitcoin, dotfiles, Python, JavaScript, math, CSS, Go
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-12-03
@@ -42,6 +42,15 @@
 
 `The perfect way to have your Dropbox-hosted website on a custom domain. <http://dockbox.io/>`_
 (`HN news <https://news.ycombinator.com/item?id=6839290>`__)
+
+`How Hacker News ranking really works: scoring, controversy, and penalties <http://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html>`_
+(`Simplified Chinese Translation <http://blog.jobbole.com/52575/>`__)
+
+`Hacking pseudo-elements for pure-css spinners <http://codepen.io/brbcoding/full/fedza>`_
+(`HN news <https://news.ycombinator.com/item?id=6840501>`__)
+
+`A simple virtualenv for Go <https://github.com/ChuckHa/goenv>`_
+(`HN news <https://news.ycombinator.com/item?id=6840500>`__)
 
 Simplified Chinese:
 
