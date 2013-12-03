@@ -28,7 +28,8 @@ class application {
   }
 
   void _httpRequestHandler(HttpRequest req) {
-    print('${req.method} ${req.uri.path}');
+    print('${new DateTime.now()}  '
+          '${req.method} ${req.uri.path}');
 
     for (final String urlRegex in this.urls.keys) {
       RegExp exp = new RegExp('^${urlRegex}\$');
@@ -63,6 +64,7 @@ class application {
 
   void info() {
     // print information (for debugging)
+    print('${new DateTime.now()}  ');
     print('server running at http://${HOST}:${PORT}/');
     print('HOST: ${HOST}');
     print('PORT: ${PORT}');
@@ -70,6 +72,7 @@ class application {
       print('${key} => ${value}');
     });
     print(this.runtimeType.toString());
+    print('--- end of starting server ---');
   }
 
   void run() {
