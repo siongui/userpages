@@ -3,6 +3,7 @@ DART_SDK=$(DART_DIR)/dart-sdk
 DART_SDK_BIN=$(DART_SDK)/bin
 DARTVM=$(DART_SDK_BIN)/dart
 DART2JS=$(DART_SDK_BIN)/dart2js
+DARTPUB=$(DART_SDK_BIN)/pub
 DARTIUM=$(DART_DIR)/chromium/chrome
 
 START_HTML=toggle.html
@@ -20,6 +21,9 @@ web: $(START_HTML) $(DART_APP)
 cmd: $(DART_APP)
 	$(DARTVM) --checked $(DART_SERVER)
 
+install: pubspec.yaml
+	$(DARTPUB) install
+
 js: $(DART_APP)
 	$(DART2JS) --minify --out=$(DART_APP_JS) $(DART_APP)
 
@@ -32,4 +36,4 @@ clean:
 	-rm $(DART_APP_JS).deps
 	-rm $(DART_APP_JS).map
 
-.PHONY: web cmd js clean help
+.PHONY: web cmd install js clean help

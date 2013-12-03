@@ -1,1 +1,3 @@
-data
+data/
+pubspec.lock
+packages/
