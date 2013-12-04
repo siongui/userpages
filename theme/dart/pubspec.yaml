@@ -1,7 +1,0 @@
-name: webdart
-author: Siong-Ui Te <siongui@gmail.com>
-version: 0.0.1
-homepage: https://github.com/siongui/webdart
-description: a simple server-side web framework
-dependencies:
-  path: any
