@@ -1,12 +1,15 @@
-<NoMorePasswordsJustEmail>
-##########################
+<cmd.fm>, <NoMorePasswordsJustEmail>
+####################################
 
 :date: 2013-12-05 00:30
-:tags: JavaScript, node.js
+:tags: JavaScript, node.js, Go, webapp
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-12-05
 
+
+`cmd.fm <http://cmd.fm/>`_
+(`HN news <https://news.ycombinator.com/item?id=6849979>`__)
 
 `Show HN: NoMorePasswordsJustEmail, because passwords suckity suck suck suck <https://nomorepasswordsjustemail.meteor.com/>`_
 (`HN news <https://news.ycombinator.com/item?id=6847720>`__)
@@ -21,6 +24,9 @@
 
 `A Deep Dive into Asynchronous Templating <http://jlongster.com/A-Deep-Dive-into-Asynchronous-Templating>`_
 (`HN news <https://news.ycombinator.com/item?id=6848807>`__)
+
+`How to code a markdown blogging system in Go <http://blog.will3942.com/creating-blog-go>`_
+(`HN news <https://news.ycombinator.com/item?id=6850428>`__)
 
 <CodersGrid/>
 

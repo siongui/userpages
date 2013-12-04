@@ -107,6 +107,8 @@ Ruby:
 
 `TojiCode - Poking at WebGL and hoping it doesn't bite back. <http://blog.tojicode.com/>`_
 
+`WILL EVANS <http://blog.will3942.com/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_

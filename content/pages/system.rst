@@ -26,6 +26,8 @@ blog:
 
   `Vidar's Index <http://www.vidarholen.net/>`_ (Shell, etc.)
 
+  `Into the Wild Spaces <http://www.therandymon.com/>`_
+
 Simplified Chinese:
 
   `酷壳 – CoolShell.cn <http://coolshell.cn/>`_
