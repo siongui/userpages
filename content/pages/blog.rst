@@ -38,16 +38,22 @@ Python/Go:
 
   `Real Python! Blog <http://www.realpython.com/blog/>`_
 
+Ruby:
+
+  `GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS <http://robots.thoughtbot.com/>`_ (Ruby, SASS)
+
+  `Relentless Simplicity :: Bill Harding's Tech Blog <http://www.williambharding.com/blog/>`_
+  (RAILS PROGRAMMING WITH A BLOG AFTERTASTE)
+
+  `Brandon Hilkert <http://brandonhilkert.com/>`_ (Ruby, Rails)
+
+  `Pat Shaughnessy <http://patshaughnessy.net/>`_ (blogger, rubyist, aspiring author)
+
 `kyleisom.net <http://kyleisom.net/>`_
 
 `Beej's Web Page <http://beej.us/>`_
 
 `DandyDev.net <http://dandydev.net/>`_
-
-`Relentless Simplicity :: Bill Harding's Tech Blog <http://www.williambharding.com/blog/>`_
-(RAILS PROGRAMMING WITH A BLOG AFTERTASTE)
-
-`Pat Shaughnessy <http://patshaughnessy.net/>`_ (blogger, rubyist, aspiring author)
 
 `Marginally Interesting by Mikio L. Braun <http://blog.mikiobraun.de/>`_
 
@@ -90,8 +96,6 @@ Python/Go:
 `Adereth’s Blog <http://adereth.github.io/>`_
 
 `Christopher Cole | A blog to blog my blog <http://blog.chris-cole.net/>`_
-
-`Brandon Hilkert <http://brandonhilkert.com/>`_ (Ruby, Rails)
 
 `Dan Goldin <http://dangoldin.com/>`_
 
