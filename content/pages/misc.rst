@@ -93,3 +93,5 @@
 
 `Math with Bad Drawings <http://mathwithbaddrawings.com/>`_
 
+`Mathigon | World of Mathematics <http://world.mathigon.org/>`_
+

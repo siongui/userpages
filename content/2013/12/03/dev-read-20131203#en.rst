@@ -35,7 +35,8 @@
 (`HN news <https://news.ycombinator.com/item?id=6839237>`__)
 
 `Saving 9 GB of RAM with Python's __slots__ <http://tech.oyster.com/save-ram-with-python-slots/>`_
-(`Simplified Chinese Translation <http://blog.jobbole.com/52420/>`__)
+(Simplified Chinese Translation `1 <http://blog.jobbole.com/52420/>`__,
+`2 <http://my.oschina.net/jackin/blog/181303>`__)
 
 `A Crash Course in the Mathematics Of Infinite Sets <http://legacy.earlham.edu/~peters/writing/infapp.htm>`_
 (`HN news <https://news.ycombinator.com/item?id=6838917>`__)

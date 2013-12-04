@@ -87,6 +87,8 @@ HTML/CSS/JavaScript:
 
   `You are IT! <http://tamas.io/>`_
 
+  `Perfection Kills <http://perfectionkills.com/>`_ (JavaScript)
+
 Linux/System:
 
   `Pádraig Brady <http://www.pixelbeat.org/>`_
@@ -94,6 +96,10 @@ Linux/System:
   `Dustin Boswell's Home Page <http://dustwell.com/>`_
 
   `TechBar | Random tips, tricks and advices for anything tech related <http://www.techbar.me/>`_
+
+  `Vidar's Index <http://www.vidarholen.net/>`_ (Shell, etc.)
+
+  `Krishna Raman <http://www.krishnaraman.net/>`_ (Dart on OpenShift)
 
 `Seth Ladd - Web engineer <http://www.sethladd.com/>`_,
 `blog <http://blog.sethladd.com/>`__ (Dart)
@@ -256,6 +262,8 @@ Traditional Chinese:
   `樂在設計 - 網頁設計向前走 <http://fundesigner.net/>`_
 
   `便當盒 <http://blog.nahoya.com/>`_
+
+  `My Blog - Yun Chen <http://hy31.net:8888/>`_
 
 `Yu-Jie Lin <http://www.yjl.im/>`_
 
