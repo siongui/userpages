@@ -115,6 +115,10 @@ blog:
 
   `La Grange Lab <http://lab.la-grange.ca/>`_
 
+  `James Long <http://jlongster.com/>`_ (JavaScript template, LLJS)
+
+  `// console.blog('  '); <http://consoleblog.me/>`_
+
 Simplified Chinese:
 
   `365建站·分享好看的模板网站下载,网页js代码,网站设计素材 <http://www.newsky365.com/>`_
