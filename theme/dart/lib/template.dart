@@ -14,7 +14,7 @@ class template {
     final File file = new File(
         path.join(this.templates_dir, tempalte));
     return file.readAsString().then((String content) {
-      return processTemplateSyntax(content);
+      return processTemplateSyntax(content, data);
     });
   }
 
@@ -22,18 +22,27 @@ class template {
     // render template in sync way
     final File file = new File(
         path.join(this.templates_dir, tempalte));
-    return processTemplateSyntax(file.readAsStringSync());
+    return processTemplateSyntax(file.readAsStringSync(), data);
   }
 
-  String processTemplateSyntax(String template_content) {
+  String processTemplateSyntax(String template_content,
+      Map<String, Object> data) {
     // input: content in template file
 
     var variables = new RegExp(r'{{([^}}]+)?}}');
 
+    /*
     for (Match match in variables.allMatches(template_content)) {
       print(match.group(0));
     }
+    */
 
-    return template_content;
+    return template_content.replaceAllMapped(variables, (Match m) {
+      String var_name = m.group(1).trim();
+      if (data.containsKey(var_name)) {
+        return data[var_name];
+      }
+      return '';
+    });
   }
 }

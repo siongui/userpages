@@ -13,15 +13,23 @@ template tmpl_env = new template(
 
 class index {
   void GET(HttpRequest req) {
-    tmpl_env.render('index.html', {}).then((String result) {
+    Map<String, Object> data = {
+      'name': 'siongui',
+      'time': new DateTime.now()
+    };
+    tmpl_env.render('index.html', data).then((String result) {
       req.response.write(result);
       req.response.close();
     });
   }
 
   void GETSync(HttpRequest req) {
+    Map<String, Object> data = {
+      'name': 'siongui',
+      'time': new DateTime.now()
+    };
     req.response.write(
-        tmpl_env.renderSync('index.html', {})
+        tmpl_env.renderSync('index.html', data)
     );
     req.response.close();
   }
