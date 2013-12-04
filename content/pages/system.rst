@@ -1,5 +1,6 @@
 :title: GNU/Linux/System
 :lang: en
+:status: hidden
 
 
 `tmux <http://tmux.sourceforge.net/>`_
@@ -12,6 +13,18 @@
 `explainshell.com - match command-line arguments to their help text <http://explainshell.com/>`_
 
 `Linux Commands Examples <http://linux-commands-examples.com/>`_
+
+blog:
+
+  `danielmiessler.com <http://www.danielmiessler.com/>`_ (Vim, Tmux, Git, etc.)
+
+  `Pádraig Brady <http://www.pixelbeat.org/>`_
+
+  `Dustin Boswell's Home Page <http://dustwell.com/>`_
+
+  `TechBar | Random tips, tricks and advices for anything tech related <http://www.techbar.me/>`_
+
+  `Vidar's Index <http://www.vidarholen.net/>`_ (Shell, etc.)
 
 Simplified Chinese:
 

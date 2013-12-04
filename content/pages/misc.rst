@@ -87,3 +87,5 @@
 
 `Mathigon | World of Mathematics <http://world.mathigon.org/>`_
 
+`Win-Vector Blog (The Applied Theorist's Point of View) <http://www.win-vector.com/blog/>`_
+

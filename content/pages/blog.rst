@@ -34,80 +34,6 @@ Python/Go:
 
   `Version 7.0 - Damien's Blog <http://blog.damienradtke.org/>`_ (Go, C)
 
-HTML/CSS/JavaScript:
-
-  `Ondřej Žára <http://ondras.zarovi.cz/>`_
-
-  `②ality – JavaScript and more <http://www.2ality.com/>`_
-
-  `Tero Parviainen <http://teropa.info/>`_
-
-  `Nihilogic - JavaScript, games and other things that matter <http://blog.nihilogic.dk/>`_
-
-  `jazzychad.net <http://jazzychad.net/>`_
-  (`blog <http://blog.jazzychad.net/>`__, `gistblog <http://txt.jazzychad.net/>`__)
-
-  `DailyJS: A JavaScript Blog <http://dailyjs.com/>`_
-  (`Github <https://github.com/alexyoung/dailyjs>`__)
-
-  `getiblog (Getify Solutions) <http://blog.getify.com/>`_ (javascript, performance, and ui musings)
-
-  `Frank Apicella - Thoughts of a Layman <http://frankapicella.com/>`_,
-  `H To the ML <http://htotheml.com/>`_
-
-  `Fivera.net <http://fivera.net/>`_
-
-  `Stiern.com <http://stiern.com/>`_
-
-  `Small Improvements Tech Blog <http://tech.small-improvements.com/>`_
-  (App Engine, Apache Wicket, JQuery and HTML5)
-
-  `Hackery, Math & Design — Acko.net <http://acko.net/>`_
-
-  `Broken Links - Peter Gasston's blog on web development and technologies <http://www.broken-links.com/>`_
-
-  `Lea Verou <http://lea.verou.me/>`_ (CSS)
-
-  `JavaScript <http://blog.romanliutikov.com/>`_
-
-  `Runtime Era <http://www.runtime-era.com/>`_
-
-  `mir.aculo.us JavaScript with Thomas Fuchs <http://mir.aculo.us/>`_
-
-  `Blog - Shelly Cloud <https://shellycloud.com/blog>`_
-
-  `Egor Homakov <http://homakov.blogspot.com/>`_ (security)
-
-  `Cacheline <http://tavendo.com/blog/>`_
-
-  `Blog of Krasimir Tsonev / web designer and developer with over 10 years of experience <http://krasimirtsonev.com/blog>`_
-
-  `Alicia Liu <http://alicialiu.net/>`_
-  (`blog <http://blog.alicialiu.net/>`__)
-
-  `Adam Canady - I thought it, I wrote it <http://blog.adamcanady.com/>`_
-
-  `You are IT! <http://tamas.io/>`_
-
-  `Perfection Kills <http://perfectionkills.com/>`_ (JavaScript)
-
-  `Ben Frain <http://benfrain.com/>`_ (SASS, CSS)
-
-Linux/System:
-
-  `Pádraig Brady <http://www.pixelbeat.org/>`_
-
-  `Dustin Boswell's Home Page <http://dustwell.com/>`_
-
-  `TechBar | Random tips, tricks and advices for anything tech related <http://www.techbar.me/>`_
-
-  `Vidar's Index <http://www.vidarholen.net/>`_ (Shell, etc.)
-
-  `Krishna Raman <http://www.krishnaraman.net/>`_ (Dart on OpenShift)
-
-`Seth Ladd - Web engineer <http://www.sethladd.com/>`_,
-`blog <http://blog.sethladd.com/>`__ (Dart)
-
 `kyleisom.net <http://kyleisom.net/>`_
 
 `Beej's Web Page <http://beej.us/>`_
@@ -149,9 +75,6 @@ Linux/System:
 
 `Sophearak <http://sophearak.github.io/>`_
 
-`Shailen Tuli's blog <http://shailen.github.io/>`_
-(Thoughts on coding in Dart, Ruby, Python and Javascript)
-
 `James J Porter <http://jamesporter.me/>`_
 
 `& « verbiage overflow <http://brannerchinese.wordpress.com/>`_
@@ -161,8 +84,6 @@ Linux/System:
 `The Corner - Square Engineering Blog <http://corner.squareup.com/>`_
 
 `Adereth’s Blog <http://adereth.github.io/>`_
-
-`danielmiessler.com <http://www.danielmiessler.com/>`_ (Vim, Tmux, Git, etc.)
 
 `Christopher Cole | A blog to blog my blog <http://blog.chris-cole.net/>`_
 

@@ -34,3 +34,11 @@ blog:
 
   `scribeGriff Studios <http://www.scribegriff.com/studios/>`_
 
+  `Krishna Raman <http://www.krishnaraman.net/>`_ (Dart on OpenShift)
+
+  `Seth Ladd - Web engineer <http://www.sethladd.com/>`_,
+  `blog <http://blog.sethladd.com/>`__ (Dart)
+
+  `Shailen Tuli's blog <http://shailen.github.io/>`_
+  (Thoughts on coding in Dart, Ruby, Python and Javascript)
+
