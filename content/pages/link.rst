@@ -48,6 +48,8 @@ Info:
 
   Simplified Chinese:
 
+    `酷壳 – CoolShell.cn <http://coolshell.cn/>`_
+
     `图灵社区 <http://www.ituring.com.cn/>`_
 
     `OurJS <http://ourjs.com/>`_

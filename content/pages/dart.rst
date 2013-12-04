@@ -28,3 +28,9 @@ Dart Cheat Sheet `[Core] <http://dartlangfr.net/dart-cheat-sheet/core.html>`_,
 
 `Diving Into Dart <http://divingintodart.blogspot.com/>`_
 
+blog:
+
+  `Random posts about coding <http://financecoding.github.io/>`_
+
+  `scribeGriff Studios <http://www.scribegriff.com/studios/>`_
+

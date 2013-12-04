@@ -15,7 +15,8 @@ Algorithm:
     * Simplified Chinese Translation
       `1 <http://www.infoq.com/cn/news/2013/11/Core-algorithms-deployed>`__,
       `2 <http://www.linuxeden.com/html/news/20131201/146012.html>`__,
-      `3 <http://www.linuxeden.com/html/news/20131201/146019.html>`__
+      `3 <http://www.linuxeden.com/html/news/20131201/146019.html>`__,
+      `4 <http://blog.jobbole.com/52669/>`__
 
 Vim:
 

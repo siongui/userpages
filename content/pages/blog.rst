@@ -89,6 +89,8 @@ HTML/CSS/JavaScript:
 
   `Perfection Kills <http://perfectionkills.com/>`_ (JavaScript)
 
+  `Ben Frain <http://benfrain.com/>`_ (SASS, CSS)
+
 Linux/System:
 
   `Pádraig Brady <http://www.pixelbeat.org/>`_
