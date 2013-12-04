@@ -32,6 +32,8 @@ Python/Go:
 
   `Julia Evans <http://jvns.ca/>`_
 
+  `Version 7.0 - Damien's Blog <http://blog.damienradtke.org/>`_ (Go, C)
+
 HTML/CSS/JavaScript:
 
   `Ondřej Žára <http://ondras.zarovi.cz/>`_
