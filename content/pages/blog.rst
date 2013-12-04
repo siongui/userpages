@@ -34,6 +34,10 @@ Python/Go:
 
   `Version 7.0 - Damien's Blog <http://blog.damienradtke.org/>`_ (Go, C)
 
+  `Matt Aimonetti <http://matt.aimonetti.net/>`_ (Ruby, Go)
+
+  `Real Python! Blog <http://www.realpython.com/blog/>`_
+
 `kyleisom.net <http://kyleisom.net/>`_
 
 `Beej's Web Page <http://beej.us/>`_

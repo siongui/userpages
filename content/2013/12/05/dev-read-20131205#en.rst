@@ -15,3 +15,7 @@
 (Travis CI, `Simplified Chinese translation <http://blog.jobbole.com/52397/>`_)
 
 `Easy Node Authentication: Setup and Local <http://scotch.io/tutorials/javascript/easy-node-authentication-setup-and-local>`_
+
+<CodersGrid/>
+
+  `Coder Read #20131205: Choose Your Right JavaScript MV* Framework <http://www.codersgrid.com/2013/12/05/coder-read-20131205-choose-your-right-javascript-mv-framework/>`_

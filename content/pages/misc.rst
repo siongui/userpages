@@ -41,8 +41,6 @@
 
 `BuiltWith Technology Lookup <http://builtwith.com/>`_
 
-`Real Python! Blog <http://www.realpython.com/blog/>`_
-
 `GET /engineering.blog - Zapier <https://zapier.com/engineering/>`_
 
 `watson - inline issue manager <http://goosecode.com/watson/>`_
