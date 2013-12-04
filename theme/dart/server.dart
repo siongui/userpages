@@ -13,8 +13,15 @@ template tmpl_env = new template(
 
 class index {
   void GET(HttpRequest req) {
+    tmpl_env.render('index.html', {}).then((String result) {
+      req.response.write(result);
+      req.response.close();
+    });
+  }
+
+  void GETSync(HttpRequest req) {
     req.response.write(
-        tmpl_env.render('index.html', {})
+        tmpl_env.renderSync('index.html', {})
     );
     req.response.close();
   }
