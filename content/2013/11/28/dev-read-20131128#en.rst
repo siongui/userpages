@@ -49,7 +49,8 @@
   `HN <https://news.ycombinator.com/item?id=6812926>`__)
 
 * `why GNU grep is fast <http://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html>`_
-  (`HN <https://news.ycombinator.com/item?id=6813937>`__)
+  (`HN <https://news.ycombinator.com/item?id=6813937>`__,
+  `Simplified Chinese Translation <http://blog.jobbole.com/52313/>`__)
 
 * `DynoSRC - Eliminate HTTP requests for JavaScript files <http://dinosrc.it/>`_
   (`HN <https://news.ycombinator.com/item?id=6813881>`__)

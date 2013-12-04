@@ -3,14 +3,6 @@
 :status: hidden
 
 
-`tmux <http://tmux.sourceforge.net/>`_
-
-`Terminator <http://software.jessies.org/terminator/>`_
-(`Google Code <https://code.google.com/p/jessies/>`__)
-
-`localhost 8080 <http://localhost:8080/>`_,
-`localhost 8000 <http://localhost:8000/>`_
-
 `Stackful.io blog <http://stackful-dev.com/>`_
 
 `ifcfg.net README <http://ifcfg.net/readme>`_

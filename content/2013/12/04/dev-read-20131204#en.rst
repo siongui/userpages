@@ -1,8 +1,8 @@
-<P = NP (???)>, <Prune: Github pull requests QA>
-################################################
+<P = NP (???)>, <Prune: Github pull requests QA>, etc.
+######################################################
 
 :date: 2013-12-04 17:52
-:tags: Github, Shell, CSS, SASS, eBook, jQuery
+:tags: Github, Shell, CSS, SASS, eBook, jQuery, Linux
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-12-04
@@ -33,6 +33,18 @@
 
 `Tearable Cloth <http://codepen.io/suffick/pen/KrAwx>`_
 (`Monocle news <http://monocle.io/posts/simulating-cloth>`__)
+
+`Linux Commands Examples <http://linux-commands-examples.com/>`_
+(`HN news <https://news.ycombinator.com/item?id=6846685>`__)
+
+`Simulating waves in Javascript <http://ttsiodras.github.io/physics.html>`_
+(`HN news <https://news.ycombinator.com/item?id=6846753>`__)
+
+`Digital Attack Map <http://www.digitalattackmap.com/>`_
+(`HN news <https://news.ycombinator.com/item?id=6846716>`__)
+
+`CSS Firefly Animation <http://codepen.io/astaple/pen/rGDtd>`_
+(`HN news <https://news.ycombinator.com/item?id=6847070>`__)
 
 Simplified Chinese:
 

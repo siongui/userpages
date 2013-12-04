@@ -12,6 +12,8 @@
 
 `Dart Programming Language <{filename}./dart.rst>`_
 
+`GNU/Linux/System <{filename}./system.rst>`_
+
 `Miscellaneous <{filename}./misc.rst>`_
 
 Info:
@@ -48,13 +50,9 @@ Info:
 
   Simplified Chinese:
 
-    `酷壳 – CoolShell.cn <http://coolshell.cn/>`_
-
     `图灵社区 <http://www.ituring.com.cn/>`_
 
     `OurJS <http://ourjs.com/>`_
-
-    `Linux伊甸园开源社区 <http://www.linuxeden.com/>`_
 
     `中国云计算 <http://www.chinacloud.cn/>`_
 
@@ -76,16 +74,10 @@ Info:
 
     `CSDN.NET - 全球最大中文IT社区 <http://www.csdn.net/>`_
 
-    `AngularJS中文社区 <http://angularjs.cn/>`_
-
     `SegmentFault <http://segmentfault.com/>`_
     (Chinese version of `Stack Overflow <http://stackoverflow.com/>`_)
 
     `极客范 <http://www.geekfan.net/>`_
-
-    `365建站·分享好看的模板网站下载,网页js代码,网站设计素材 <http://www.newsky365.com/>`_
-
-    `JSShare_网页特效分享网_JS特效_Jquery特效_HTML5教程_前端素材_编程知识_网页设计 <http://www.jsshare.com/>`_
 
   `各式 Web 前端開發工具整理 <https://github.com/doggy8088/frontend-tools>`_
 

@@ -53,3 +53,16 @@ JavaScript:
   `KrakenJS Suite <http://krakenjs.com/>`_
 
   `alert(1) to win - level 0 <http://escape.alf.nu/>`_
+
+blog:
+
+  `La Grange Lab <http://lab.la-grange.ca/>`_
+
+Simplified Chinese:
+
+  `365建站·分享好看的模板网站下载,网页js代码,网站设计素材 <http://www.newsky365.com/>`_
+
+  `JSShare_网页特效分享网_JS特效_Jquery特效_HTML5教程_前端素材_编程知识_网页设计 <http://www.jsshare.com/>`_
+
+  `AngularJS中文社区 <http://angularjs.cn/>`_
+
