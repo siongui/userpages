@@ -6,10 +6,10 @@ DART2JS=$(DART_SDK_BIN)/dart2js
 DARTPUB=$(DART_SDK_BIN)/pub
 DARTIUM=$(DART_DIR)/chromium/chrome
 
-START_HTML=toggle.html
-DART_APP=toggle.dart
-DART_APP_JS=toggle.js
-DART_SERVER=server.dart
+START_HTML=example/toggle.html
+DART_APP=example/toggle.dart
+DART_APP_JS=example/toggle.js
+DART_SERVER=example/server.dart
 
 all: cmd
 
@@ -22,7 +22,13 @@ cmd: $(DART_APP)
 	$(DARTVM) --checked $(DART_SERVER)
 
 install: pubspec.yaml
-	$(DARTPUB) install
+	$(DARTPUB) get
+
+upgrade: pubspec.yaml
+	$(DARTPUB) upgrade
+
+drypub: pubspec.yaml
+	$(DARTPUB) publish --dry-run
 
 js: $(DART_APP)
 	$(DART2JS) --minify --out=$(DART_APP_JS) $(DART_APP)
@@ -36,4 +42,4 @@ clean:
 	-rm $(DART_APP_JS).deps
 	-rm $(DART_APP_JS).map
 
-.PHONY: web cmd install js clean help
+.PHONY: web cmd install upgrade js clean help

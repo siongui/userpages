@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'lib/web.dart';
+import 'package:webdart/web.dart';
 import 'package:path/path.dart' as path;
 
 
