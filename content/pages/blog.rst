@@ -151,6 +151,8 @@ Simplified Chinese:
 
   `Fasiondog's Blog <http://fasiondog.cn/>`_
 
+  `颜海镜 <http://www.cnblogs.com/yanhaijing/>`_
+
 `Wenli Zhang <http://zhangwenli.com/>`_
 
 `Zhong' blog <http://stupidgrass.github.io/blog/>`_
@@ -205,6 +207,8 @@ Traditional Chinese:
   `便當盒 <http://blog.nahoya.com/>`_
 
   `My Blog - Yun Chen <http://hy31.net:8888/>`_
+
+  `小莊記事 <http://www.kvzhuang.net/>`_ (From Back-End to Front-End)
 
 `Yu-Jie Lin <http://www.yjl.im/>`_
 
