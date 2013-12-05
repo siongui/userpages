@@ -53,6 +53,8 @@ Ruby:
 
 `Beej's Web Page <http://beej.us/>`_
 
+`substack in cyberspace <http://substack.net/>`_ (unix philosopher.)
+
 `DandyDev.net <http://dandydev.net/>`_
 
 `Marginally Interesting by Mikio L. Braun <http://blog.mikiobraun.de/>`_
@@ -144,6 +146,8 @@ Simplified Chinese:
   `张亚楠 ' BLOG - 天意从来高难问 <http://www.zhidaow.com/>`_ (Python)
 
   `Comics4Me – 团队博客 <http://blog.manhuahe.net/>`_
+
+  `Fasiondog's Blog <http://fasiondog.cn/>`_
 
 `Wenli Zhang <http://zhangwenli.com/>`_
 

@@ -1,5 +1,5 @@
-<cmd.fm>, <NoMorePasswordsJustEmail>
-####################################
+<task automation with npm run>, <cmd.fm>, <NoMorePasswordsJustEmail>
+####################################################################
 
 :date: 2013-12-05 00:30
 :tags: JavaScript, node.js, Go, webapp
@@ -7,6 +7,9 @@
 :author: Siong-Ui Te
 :summary: Dev Read #2013-12-05
 
+
+`task automation with npm run <http://substack.net/task_automation_with_npm_run>`_
+(`Simplified Chinese blog post <http://my.oschina.net/dmdgeeker/blog/181493>`__)
 
 `cmd.fm <http://cmd.fm/>`_
 (`HN news <https://news.ycombinator.com/item?id=6849979>`__)
@@ -27,6 +30,12 @@
 
 `How to code a markdown blogging system in Go <http://blog.will3942.com/creating-blog-go>`_
 (`HN news <https://news.ycombinator.com/item?id=6850428>`__)
+
+`prettyping.sh - A better UI for watching ping responses <http://my.opera.com/CrazyTerabyte/blog/2013/10/18/prettyping-sh-a-better-ui-for-watching-ping-responses>`_
+
+Good Website:
+
+`substack in cyberspace <http://substack.net/>`_ (unix philosopher.)
 
 <CodersGrid/>
 

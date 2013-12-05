@@ -34,3 +34,5 @@ Simplified Chinese:
 
   `Linux伊甸园开源社区 <http://www.linuxeden.com/>`_
 
+`Linux Pilot <http://www.linuxpilot.com/>`_
+
