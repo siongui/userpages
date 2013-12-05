@@ -51,7 +51,8 @@
 * `why GNU grep is fast <http://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html>`_
   (`HN <https://news.ycombinator.com/item?id=6813937>`__,
   Simplified Chinese Translation `1 <http://blog.jobbole.com/52313/>`__,
-  `2 <http://www.linuxeden.com/html/news/20131205/146142.html>`__)
+  `2 <http://www.linuxeden.com/html/news/20131205/146142.html>`__,
+  `3 <http://www.oschina.net/news/46567/why-gnu-grep-so-fast>`__)
 
 * `DynoSRC - Eliminate HTTP requests for JavaScript files <http://dinosrc.it/>`_
   (`HN <https://news.ycombinator.com/item?id=6813881>`__)

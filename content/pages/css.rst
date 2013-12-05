@@ -96,6 +96,8 @@ CSS Front-end Frameworks:
 
 `CSS-Tricks <http://css-tricks.com/>`_
 
+`Codrops <http://tympanus.net/codrops/>`_
+
 `W3CPlus <http://www.w3cplus.com/>`_
 
 `LESS2CSS | LESS Live Preview <http://less2css.org/>`_

@@ -38,6 +38,8 @@ Python/Go:
 
   `Real Python! Blog <http://www.realpython.com/blog/>`_
 
+  `nvie.com <http://nvie.com/>`_
+
 Ruby:
 
   `GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS <http://robots.thoughtbot.com/>`_ (Ruby, SASS)

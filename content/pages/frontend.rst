@@ -13,6 +13,8 @@ Tips/News:
 
   `HTML5 Doctor <http://html5doctor.com/>`_
 
+  `Flippin' Awesome | Awesome tutorials with HTML, CSS, JavaScript and Mobile <http://flippinawesome.org/>`_
+
   `Learn HTML5, CSS3, Javascript - video style tutorials <http://thecodeplayer.com/>`_
 
   `HTML5 Weekly <http://html5weekly.com/>`_
