@@ -90,6 +90,8 @@ blog:
 
   `Lea Verou <http://lea.verou.me/>`_ (CSS)
 
+  `toby ho <http://tobyho.com/>`_ (JAVASCRIPT. WWW. CODE.)
+
   `JavaScript <http://blog.romanliutikov.com/>`_
 
   `Runtime Era <http://www.runtime-era.com/>`_
