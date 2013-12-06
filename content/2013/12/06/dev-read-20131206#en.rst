@@ -1,8 +1,8 @@
-<Fun with Esprima and Static Analysis>, <pip & virtualenv>, etc.
-################################################################
+<Fun with Esprima and Static Analysis>, <pip & virtualenv>, <tiny HTML/CS/JS editor>, etc.
+##########################################################################################
 
 :date: 2013-12-06 13:02
-:tags: JavaScript, Python, C, Game, Vim
+:tags: JavaScript, Python, C, Game, Vim, Go, Raspberry Pi
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-12-06
@@ -12,6 +12,10 @@
 (`HN news <https://news.ycombinator.com/item?id=6854762>`__)
 
 `Common Python Tools: Using virtualenv, Installing with Pip, and Managing Packages <https://www.digitalocean.com/community/articles/common-python-tools-using-virtualenv-installing-with-pip-and-managing-packages>`_
+
+`A HTML/CSS/JS editor in less than 256 bytes, in your browser <https://github.com/xem/miniCodeEditor>`_
+(`HN news <https://news.ycombinator.com/item?id=6860642>`__,
+`Github <https://github.com/xem/miniCodeEditor>`__)
 
 `Writing Shellcode with a C Compiler <http://nickharbour.wordpress.com/2010/07/01/writing-shellcode-with-a-c-compiler/>`_
 (Simplified Chinese translation `1 <http://blog.jobbole.com/52819/>`__,
@@ -28,6 +32,8 @@
 
 `Why I hate virtualenv and pip <http://pythonrants.wordpress.com/2013/12/06/why-i-hate-virtualenv-and-pip/>`_
 (`HN news <https://news.ycombinator.com/item?id=6859371>`__)
+
+`Web Components / Shadow DOM <http://hayatoito.github.io/webcomponents-slides/>`_
 
 Website:
 
@@ -49,4 +55,8 @@ Simplified Chinese:
   `Vim安装配置和常用技巧精选 <http://my.oschina.net/u/1263576/blog/182021>`_
 
   `[LINUX]利用Ncursesw编写支持中文的终端程序 <http://my.oschina.net/siyuany/blog/182018>`_
+
+  `一本好书分享《Raspberry Pi快速入门指南》 <http://www.oschina.net/question/1417593_136421>`_
+
+  `golang小程序试验（三） <http://my.oschina.net/renguijiayi/blog/182063>`_
 

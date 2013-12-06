@@ -159,6 +159,8 @@ Simplified Chinese:
 
   `颜海镜 <http://www.cnblogs.com/yanhaijing/>`_
 
+  `飞龙非龙 <http://feilong.me/>`_
+
 `Wenli Zhang <http://zhangwenli.com/>`_
 
 `Zhong' blog <http://stupidgrass.github.io/blog/>`_

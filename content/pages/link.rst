@@ -79,6 +79,8 @@ Info:
 
     `极客范 <http://www.geekfan.net/>`_
 
+    `Python学习平台 | Python程序员 <http://www.pythoner.cn/>`_
+
   `各式 Web 前端開發工具整理 <https://github.com/doggy8088/frontend-tools>`_
 
   `香港矽谷 - 科技閱讀平台 <http://www.hksilicon.com/>`_
