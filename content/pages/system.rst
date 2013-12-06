@@ -28,6 +28,8 @@ blog:
 
   `Into the Wild Spaces <http://www.therandymon.com/>`_
 
+  `Laurence Tratt's Blog <http://tratt.net/laurie/blog/>`_
+
 Simplified Chinese:
 
   `酷壳 – CoolShell.cn <http://coolshell.cn/>`_

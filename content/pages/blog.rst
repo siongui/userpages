@@ -113,6 +113,12 @@ Ruby:
 
 `WILL EVANS <http://blog.will3942.com/>`_
 
+`It's all about music discovery! <http://blog.seevl.fm/>`_
+
+`Piasa <http://piasagames.tumblr.com/>`_ (Game)
+
+`Dennis Forbes...Professional ← Software developer. Founder. Father. <http://dennisforbes.ca/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_

@@ -19,7 +19,8 @@
 `Writing Better jQuery Code <http://flippinawesome.org/2013/11/25/writing-better-jquery-code/>`_
 (Simplified Chinese translation `1 <http://blog.jobbole.com/52770/>`__,
 `2 <http://www.linuxeden.com/html/news/20131205/146158.html>`__,
-`3 <http://www.cnblogs.com/yanhaijing/p/3458234.html>`__)
+`3 <http://www.cnblogs.com/yanhaijing/p/3458234.html>`__,
+`4 <http://justjavac.com/javascript/2013/11/25/writing-better-jquery-code.html>`__)
 
 `cmd.fm <http://cmd.fm/>`_
 (`HN news <https://news.ycombinator.com/item?id=6849979>`__)
