@@ -21,7 +21,8 @@
 
 `Writing Shellcode with a C Compiler <http://nickharbour.wordpress.com/2010/07/01/writing-shellcode-with-a-c-compiler/>`_
 (Simplified Chinese translation `1 <http://blog.jobbole.com/52819/>`__,
-`2 <http://blog.idf.cn/2013/12/writing-shellcode-with-a-c-compiler/>`__)
+`2 <http://blog.idf.cn/2013/12/writing-shellcode-with-a-c-compiler/>`__,
+`3 <http://www.linuxeden.com/html/news/20131207/146184.html>`__)
 
 `Building a 2D Browser Game with PhysicsJS <http://flippinawesome.org/2013/12/02/building-a-2d-browser-game-with-physicsjs/>`_
 (`Simplified Chinese translation <http://www.oschina.net/translate/building-a-2d-browser-game-with-physicsjs>`__)

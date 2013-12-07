@@ -218,6 +218,8 @@ Traditional Chinese:
 
   `小莊記事 <http://www.kvzhuang.net/>`_ (From Back-End to Front-End)
 
+  `小惡魔 – 電腦技術 – 工作筆記 – AppleBOY <http://blog.wu-boy.com/>`_
+
 `Yu-Jie Lin <http://www.yjl.im/>`_
 
 `Licson's Tech Space <http://licson.net/>`_

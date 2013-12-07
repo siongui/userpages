@@ -2,7 +2,7 @@
 ################################
 
 :date: 2013-12-07 18:59
-:tags: Bash, Python, C, Dart, AngularJS
+:tags: Bash, Python, C, Dart, AngularJS, node.js, Linux, Lisp, X server, JavaScript
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-12-07
@@ -22,6 +22,26 @@
 `Some AngularJS pitfalls <http://branchandbound.net/blog/web/2013/08/some-angularjs-pitfalls/>`_
 (`Simplified Chinese translation <http://blog.jobbole.com/52857/>`__)
 
+`Easy Node Authentication: Facebook <http://scotch.io/tutorials/javascript/easy-node-authentication-facebook>`_
+
+`Build your own Linux Distro bootable from RAM <http://build.porteus.org/>`_
+(`HN news <https://news.ycombinator.com/item?id=6865009>`__)
+
+`X server in 5000 lines of Common Lisp <https://github.com/pyb/zen>`_
+(`HN news <https://news.ycombinator.com/item?id=6863977>`__)
+
+`Happy 18th Birthday JavaScript! A look at an unlikely past and bright future. <http://resin.io/happy-18th-birthday-javascript/>`_
+(`Traditional Chinese translation <http://blog.wu-boy.com/2013/12/happy-18th-birthday-javascript/>`__)
+
+<CodersGrid/>
+
+  `Coder Read #20131207: Searching songs using riff <http://www.codersgrid.com/2013/12/07/coder-read-20131207-searching-songs-using-riff/>`_
+
 Simplified Chinese:
 
   `用C写的Linux终端扫雷小游戏 <http://my.oschina.net/u/1387955/blog/182288>`_
+
+  `shell 的颜色显示， ansi转义码 <http://my.oschina.net/tcstory/blog/182259>`_
+
+  `数据结构(C语言版)第五章:树 <http://my.oschina.net/voler/blog/182352>`_
+

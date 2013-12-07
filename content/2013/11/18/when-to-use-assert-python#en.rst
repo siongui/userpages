@@ -10,7 +10,8 @@
 Link:
 
   `When to use assert <https://mail.python.org/pipermail/python-list/2013-November/660401.html>`_
-  (`Simplified Chinese Translation <http://www.oschina.net/translate/when-to-use-assert>`_)
+  (Simplified Chinese Translation `1 <http://www.oschina.net/translate/when-to-use-assert>`_,
+  `2 <http://www.linuxeden.com/html/news/20131207/146183.html>`_)
 
 The following is his whole post:
 

@@ -123,6 +123,8 @@ blog:
 
   `// console.blog('  '); <http://consoleblog.me/>`_
 
+  `Resin.io blog <http://resin.io/blog/>`_
+
 Simplified Chinese:
 
   `365建站·分享好看的模板网站下载,网页js代码,网站设计素材 <http://www.newsky365.com/>`_
