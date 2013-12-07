@@ -38,3 +38,4 @@ Simplified Chinese:
 
 `Linux Pilot <http://www.linuxpilot.com/>`_
 
+`ezgo <http://ezgo.westart.tw/ezgo11/>`_

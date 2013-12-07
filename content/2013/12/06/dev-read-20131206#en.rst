@@ -1,8 +1,8 @@
-<Fun with Esprima and Static Analysis>, <pip & virtualenv>, <tiny HTML/CS/JS editor>, etc.
-##########################################################################################
+<GitHub Game Off 2013>, <pip & virtualenv>, <tiny HTML/CS/JS editor>, etc.
+##########################################################################
 
 :date: 2013-12-06 13:02
-:tags: JavaScript, Python, C, Game, Vim, Go, Raspberry Pi
+:tags: JavaScript, Python, C, Game, Vim, Go, Raspberry Pi, Github
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-12-06
@@ -16,6 +16,8 @@
 `A HTML/CSS/JS editor in less than 256 bytes, in your browser <https://github.com/xem/miniCodeEditor>`_
 (`HN news <https://news.ycombinator.com/item?id=6860642>`__,
 `Github <https://github.com/xem/miniCodeEditor>`__)
+
+`The GitHub Game Off 2013 entries viewer <http://petarov.github.io/ggo13-viewer/>`_
 
 `Writing Shellcode with a C Compiler <http://nickharbour.wordpress.com/2010/07/01/writing-shellcode-with-a-c-compiler/>`_
 (Simplified Chinese translation `1 <http://blog.jobbole.com/52819/>`__,
@@ -60,3 +62,4 @@ Simplified Chinese:
 
   `golang小程序试验（三） <http://my.oschina.net/renguijiayi/blog/182063>`_
 
+  `IdeaVim插件施用技巧 <http://my.oschina.net/pureboys/blog/182211>`_
