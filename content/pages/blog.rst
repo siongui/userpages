@@ -119,6 +119,10 @@ Ruby:
 
 `Dennis Forbes...Professional ← Software developer. Founder. Father. <http://dennisforbes.ca/>`_
 
+`Tiny Subversions – Darius Kazemi <http://tinysubversions.com/>`_
+
+`The Project Spot | Lee Jacobson's Portfolio <http://www.theprojectspot.com/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_

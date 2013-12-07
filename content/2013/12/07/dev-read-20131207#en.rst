@@ -20,7 +20,8 @@
 `Trending Python repositories on GitHub <https://github.com/trending?l=python>`_
 
 `Some AngularJS pitfalls <http://branchandbound.net/blog/web/2013/08/some-angularjs-pitfalls/>`_
-(`Simplified Chinese translation <http://blog.jobbole.com/52857/>`__)
+(Simplified Chinese translation `1 <http://blog.jobbole.com/52857/>`__,
+`2 <http://www.linuxeden.com/html/news/20131207/146193.html>`__)
 
 `Easy Node Authentication: Facebook <http://scotch.io/tutorials/javascript/easy-node-authentication-facebook>`_
 
