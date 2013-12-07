@@ -220,6 +220,8 @@ Traditional Chinese:
 
   `小惡魔 – 電腦技術 – 工作筆記 – AppleBOY <http://blog.wu-boy.com/>`_
 
+  `Ming's Blog <http://mings.logdown.com/>`_
+
 `Yu-Jie Lin <http://www.yjl.im/>`_
 
 `Licson's Tech Space <http://licson.net/>`_

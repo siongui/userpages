@@ -45,3 +45,8 @@ Simplified Chinese:
 
   `数据结构(C语言版)第五章:树 <http://my.oschina.net/voler/blog/182352>`_
 
+Traditional Chinese:
+
+  `[Genie] 用近似 Python 的語法寫 C 程式！ <http://mings.logdown.com/posts/164704-genie-write-c-programs-with-python-syntax>`_
+
+  `[TDD] 以 Python 演示 TDD 開發流程 <http://mings.logdown.com/posts/164865-tdd-to-python-demonstrates-tdd-development-process>`_
