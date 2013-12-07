@@ -226,6 +226,8 @@ Traditional Chinese:
 
   `Ming's Blog <http://mings.logdown.com/>`_
 
+  `阿舍的隨手記記、隨手寫寫... <http://www.arthurtoday.com/>`_
+
 `Yu-Jie Lin <http://www.yjl.im/>`_
 
 `Licson's Tech Space <http://licson.net/>`_

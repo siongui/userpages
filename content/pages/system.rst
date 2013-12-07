@@ -30,6 +30,8 @@ blog:
 
   `Laurence Tratt's Blog <http://tratt.net/laurie/blog/>`_
 
+  `Jeroen Janssens <http://jeroenjanssens.com/>`_ (dutch data scientist in old new amsterdam)
+
 Simplified Chinese:
 
   `酷壳 – CoolShell.cn <http://coolshell.cn/>`_

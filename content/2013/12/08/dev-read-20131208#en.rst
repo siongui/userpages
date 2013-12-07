@@ -12,6 +12,9 @@
 
 `Exploring canvas drawing techniques <http://perfectionkills.com/exploring-canvas-drawing-techniques/>`_
 
+`10 Most Dangerous Commands – You Should Never Execute on Linux <http://www.tecmint.com/10-most-dangerous-commands-you-should-never-execute-on-linux/>`_
+(`Simplified Chinese translation <http://www.oschina.net/news/46657/10-most-dangerous-commands-you-should-never-execute-on-linux>`__)
+
 `An Introduction To Full-Stack JavaScript <http://coding.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript/>`_
 (`Simplified Chinese translation <http://blog.jobbole.com/52745/>`__)
 
@@ -26,6 +29,10 @@
 
 `Finger binary (wikipedia.org) <https://en.wikipedia.org/wiki/Finger_binary>`_
 (`HN news <https://news.ycombinator.com/item?id=6866567>`__)
+
+Good Website:
+
+  `cdecl: C gibberish ↔ English <http://cdecl.org/>`_
 
 Simplified Chinese:
 
