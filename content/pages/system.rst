@@ -38,6 +38,8 @@ Simplified Chinese:
 
   `Linux伊甸园开源社区 <http://www.linuxeden.com/>`_
 
+  `Linux.CN <http://linux.cn/>`_
+
 `Linux Pilot <http://www.linuxpilot.com/>`_
 
 `ezgo <http://ezgo.westart.tw/ezgo11/>`_

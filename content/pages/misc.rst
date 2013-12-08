@@ -87,3 +87,5 @@
 
 `Win-Vector Blog (The Applied Theorist's Point of View) <http://www.win-vector.com/blog/>`_
 
+`喬治查爾斯電子電路網 <http://gc.digitw.com/>`_
+

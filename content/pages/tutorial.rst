@@ -29,4 +29,6 @@
 `List of Free Programming Books <http://resrc.io/>`_
 (`Github <https://github.com/vhf/resrc>`__)
 
+`A Programmer's Guide to Data Mining | The Ancient Art of the Numerati <http://guidetodatamining.com/>`_
+
 `egghead.io (AngularJS learning) <http://egghead.io/>`_

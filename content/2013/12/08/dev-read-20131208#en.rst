@@ -13,10 +13,13 @@
 `Exploring canvas drawing techniques <http://perfectionkills.com/exploring-canvas-drawing-techniques/>`_
 
 `10 Most Dangerous Commands – You Should Never Execute on Linux <http://www.tecmint.com/10-most-dangerous-commands-you-should-never-execute-on-linux/>`_
-(`Simplified Chinese translation <http://www.oschina.net/news/46657/10-most-dangerous-commands-you-should-never-execute-on-linux>`__)
+(Simplified Chinese translation `1 <http://www.oschina.net/news/46657/10-most-dangerous-commands-you-should-never-execute-on-linux>`__,
+`2 <http://linux.cn/thread/12021/1/1/>`__,
+`3 <http://www.linuxeden.com/html/news/20131208/146197.html>`__)
 
 `An Introduction To Full-Stack JavaScript <http://coding.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript/>`_
-(`Simplified Chinese translation <http://blog.jobbole.com/52745/>`__)
+(Simplified Chinese translation `1 <http://blog.jobbole.com/52745/>`__,
+`2 <http://www.linuxeden.com/html/news/20131208/146195.html>`__)
 
 `Bashism - How to make bash scripts work in dash <http://mywiki.wooledge.org/Bashism>`_
 (`HN news <https://news.ycombinator.com/item?id=6866696>`__)
@@ -29,6 +32,9 @@
 
 `Finger binary (wikipedia.org) <https://en.wikipedia.org/wiki/Finger_binary>`_
 (`HN news <https://news.ycombinator.com/item?id=6866567>`__)
+
+`A Programmer's Guide to Data Mining | The Ancient Art of the Numerati <http://guidetodatamining.com/>`_
+(`HN news <https://news.ycombinator.com/item?id=6868479>`__)
 
 Good Website:
 
