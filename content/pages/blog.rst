@@ -44,6 +44,8 @@ Python/Go:
 
   `(still) nothing clever <http://gromgull.net/blog/>`_ (Python, machine learning)
 
+  `ionel's codelog <http://blog.ionelmc.ro/>`_ (Python)
+
 Ruby:
 
   `GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS <http://robots.thoughtbot.com/>`_ (Ruby, SASS)
@@ -233,6 +235,8 @@ Traditional Chinese:
   `Ming's Blog <http://mings.logdown.com/>`_
 
   `阿舍的隨手記記、隨手寫寫... <http://www.arthurtoday.com/>`_
+
+  `Hitripod <http://www.hitripod.com/blog/>`_
 
 `Yu-Jie Lin <http://www.yjl.im/>`_
 

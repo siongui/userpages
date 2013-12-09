@@ -42,6 +42,12 @@
 `Free Mathematics Books <http://www.e-booksdirectory.com/mathematics.php>`_
 (`HN news <https://news.ycombinator.com/item?id=6872363>`__)
 
+`Scikit-learn: Machine Learning in Python <http://scikit-learn.org/>`_
+(`HN news <https://news.ycombinator.com/item?id=6874359>`__)
+
+`Simple Programming Problems <http://adriann.github.io/programming_problems.html>`_
+(`Simplified Chinese translation <http://blog.jobbole.com/53039/>`__)
+
 Simplified Chinese:
 
   `NoSQL开篇——为什么要使用NoSQL <http://www.infoq.com/cn/news/2011/01/nosql-why/>`_
@@ -68,4 +74,6 @@ Simplified Chinese:
   `最新HOSTS法去除优酷、爱奇艺等视频网站广告 <http://www.oschina.net/code/snippet_1262919_27114>`_
 
   `地图的开发研究---在线地图 <http://my.oschina.net/songjian1314/blog/182785>`_
+
+  `平衡二叉树的建立 <http://www.oschina.net/code/snippet_1167407_27146>`_
 

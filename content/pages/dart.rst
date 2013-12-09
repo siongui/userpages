@@ -28,6 +28,9 @@ Dart Cheat Sheet `[Core] <http://dartlangfr.net/dart-cheat-sheet/core.html>`_,
 
 `Diving Into Dart <http://divingintodart.blogspot.com/>`_
 
+`HTML Components <http://html-components.appspot.com/>`_
+(`Github <https://github.com/szgabsz91/html-components>`__)
+
 blog:
 
   `Random posts about coding <http://financecoding.github.io/>`_
