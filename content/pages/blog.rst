@@ -127,6 +127,8 @@ Ruby:
 
 `The Project Spot | Lee Jacobson's Portfolio <http://www.theprojectspot.com/>`_
 
+`JOURNAL.STUFFWITHSTUFF.COM <http://journal.stuffwithstuff.com/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_

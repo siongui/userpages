@@ -14,6 +14,8 @@
 
 `Linux Commands Examples <http://linux-commands-examples.com/>`_
 
+`All commands | commandlinefu.com <http://www.commandlinefu.com/>`_
+
 blog:
 
   `danielmiessler.com <http://www.danielmiessler.com/>`_ (Vim, Tmux, Git, etc.)

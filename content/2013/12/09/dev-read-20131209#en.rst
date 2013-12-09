@@ -26,7 +26,9 @@
 `The Ten Toughest Tasks in Development <http://www.sitepoint.com/ten-toughest-tasks-development/>`_
 (Simplified Chinese translation `1 <http://www.linuxeden.com/html/news/20131209/146212.html>`__,
 `2 <http://www.pythoner.cn/home/blog/http://www.sitepoint.com/ten-toughest-tasks-development//>`__,
-`3 <http://www.oschina.net/news/46685/the-ten-toughest-tasks-in-development>`__)
+`3 <http://www.oschina.net/news/46685/the-ten-toughest-tasks-in-development>`__,
+`4 <http://blog.jobbole.com/53045/>`__,
+`5 <http://www.aqee.net/the-ten-toughest-tasks-in-development/>`__)
 
 `How is Docker.io different from a normal virtual machine? <http://stackoverflow.com/questions/16047306/how-is-docker-io-different-from-a-normal-virtual-machine>`_
 (Simplified Chinese translation `1 <http://www.linuxeden.com/html/news/20131209/146215.html>`__,
@@ -37,6 +39,8 @@
 `Plain English explanation of Big O <http://stackoverflow.com/questions/487258/plain-english-explanation-of-big-o/487278#487278>`_
 (`HN news <https://news.ycombinator.com/item?id=6872697>`__)
 
+`Free Mathematics Books <http://www.e-booksdirectory.com/mathematics.php>`_
+(`HN news <https://news.ycombinator.com/item?id=6872363>`__)
 
 Simplified Chinese:
 
@@ -54,4 +58,14 @@ Simplified Chinese:
   `网络谜团：一只令全球密码专家着迷的“蝉” <http://www.oschina.net/news/46687/fascinating-cicada>`_
 
   `js快速排序的实现代码 <http://www.oschina.net/question/1403419_136787>`_
+
+  `终端至上！将Vim打造成全新的集成开发环境！ <http://linux.cn/thread/12044/1/1/>`_
+
+  `chrome插件之优酷去广告 (基于proxy) <http://www.oschina.net/code/snippet_237940_27134>`_
+
+  `暴雪战网客户的上使用的那些开源库！ <http://my.oschina.net/cers/blog/182766>`_
+
+  `最新HOSTS法去除优酷、爱奇艺等视频网站广告 <http://www.oschina.net/code/snippet_1262919_27114>`_
+
+  `地图的开发研究---在线地图 <http://my.oschina.net/songjian1314/blog/182785>`_
 

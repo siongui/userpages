@@ -37,6 +37,7 @@ Dart:
 Vim:
 
   - `VIM IS YOUR NEW IDE <http://tmp.devcharm.com/pages/vim-is-your-new-ide>`_
+    (`Simplified Chinese translation <http://linux.cn/thread/12044/1/1/>`__)
 
 Good Website:
 
