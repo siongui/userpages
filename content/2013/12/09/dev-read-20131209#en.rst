@@ -2,7 +2,7 @@
 ###################################################################
 
 :date: 2013-12-09 14:12
-:tags: Go, CSS3, CSS, Python
+:tags: Go, CSS3, CSS, Python, Vim
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-12-09
@@ -20,12 +20,22 @@
 `Embrace Go's HTTP Tools <http://justinas.org/embrace-gos-http-tools/>`_
 (`Simplified Chinese translation <http://www.oschina.net/translate/embrace-gos-http-tools>`__)
 
+`Writing HTTP Middleware in Go <http://justinas.org/writing-http-middleware-in-go/>`_
+(`HN news <https://news.ycombinator.com/item?id=6869710>`__)
+
 `The Ten Toughest Tasks in Development <http://www.sitepoint.com/ten-toughest-tasks-development/>`_
 (Simplified Chinese translation `1 <http://www.linuxeden.com/html/news/20131209/146212.html>`__,
-`2 <http://www.pythoner.cn/home/blog/http://www.sitepoint.com/ten-toughest-tasks-development//>`__)
+`2 <http://www.pythoner.cn/home/blog/http://www.sitepoint.com/ten-toughest-tasks-development//>`__,
+`3 <http://www.oschina.net/news/46685/the-ten-toughest-tasks-in-development>`__)
 
 `How is Docker.io different from a normal virtual machine? <http://stackoverflow.com/questions/16047306/how-is-docker-io-different-from-a-normal-virtual-machine>`_
-(`Simplified Chinese translation <http://www.linuxeden.com/html/news/20131209/146215.html>`__)
+(Simplified Chinese translation `1 <http://www.linuxeden.com/html/news/20131209/146215.html>`__,
+`2 <http://www.oschina.net/translate/how-is-docker-io-different-from-a-normal-virtual-machine>`__)
+
+`Advanced Regular Expression Tips and Techniques <http://pypix.com/tools-and-tips/advanced-regular-expression-tips-techniques/>`_
+
+`Plain English explanation of Big O <http://stackoverflow.com/questions/487258/plain-english-explanation-of-big-o/487278#487278>`_
+(`HN news <https://news.ycombinator.com/item?id=6872697>`__)
 
 
 Simplified Chinese:
@@ -38,4 +48,10 @@ Simplified Chinese:
   `css动画制作 <http://my.oschina.net/u/1403186/blog/182519>`_
 
   `Sunday 模式匹配算法 <http://my.oschina.net/u/227203/blog/182570>`_
+
+  `命令太多，考验我的脑细胞。 <http://my.oschina.net/540287555/blog/182578>`_ (Vim)
+
+  `网络谜团：一只令全球密码专家着迷的“蝉” <http://www.oschina.net/news/46687/fascinating-cicada>`_
+
+  `js快速排序的实现代码 <http://www.oschina.net/question/1403419_136787>`_
 

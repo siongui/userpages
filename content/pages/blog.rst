@@ -42,6 +42,8 @@ Python/Go:
 
   `Justinas Stankevičius <http://justinas.org/>`_ (Go)
 
+  `(still) nothing clever <http://gromgull.net/blog/>`_ (Python, machine learning)
+
 Ruby:
 
   `GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS <http://robots.thoughtbot.com/>`_ (Ruby, SASS)
