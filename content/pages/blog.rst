@@ -40,6 +40,8 @@ Python/Go:
 
   `nvie.com <http://nvie.com/>`_
 
+  `Justinas Stankevičius <http://justinas.org/>`_ (Go)
+
 Ruby:
 
   `GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS <http://robots.thoughtbot.com/>`_ (Ruby, SASS)
