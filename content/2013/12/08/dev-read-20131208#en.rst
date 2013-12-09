@@ -2,7 +2,7 @@
 #####################################################################################
 
 :date: 2013-12-08 01:45
-:tags: AI, SVG, HTML5, Bash, JavaScript
+:tags: AI, SVG, HTML5, Bash, JavaScript, Linux
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-12-08
@@ -35,6 +35,11 @@
 
 `A Programmer's Guide to Data Mining | The Ancient Art of the Numerati <http://guidetodatamining.com/>`_
 (`HN news <https://news.ycombinator.com/item?id=6868479>`__)
+
+`The output element <http://www.growingwiththeweb.com/2013/12/the-output-element.html>`_
+
+`Unbelievable ! 30 Linux TOP Command Examples With Screenshots <http://linoxide.com/linux-command/linux-top-command-examples-screenshots/>`_
+(`Simplified Chinese translation <http://linux.cn/thread/12037/1/1/>`__)
 
 Good Website:
 
