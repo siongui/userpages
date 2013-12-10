@@ -48,6 +48,8 @@ Python/Go:
 
   `mxguangtw的个人博客 <http://blog.sciencenet.cn/u/mxguangtw>`_ (Python)
 
+  `Guz Alexander <http://guzalexander.com/>`_
+
 Ruby:
 
   `GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS <http://robots.thoughtbot.com/>`_ (Ruby, SASS)
@@ -239,6 +241,8 @@ Traditional Chinese:
   `阿舍的隨手記記、隨手寫寫... <http://www.arthurtoday.com/>`_
 
   `Hitripod <http://www.hitripod.com/blog/>`_
+
+  `tedshd's DevNote <http://tedshd.logdown.com/>`_
 
 `Yu-Jie Lin <http://www.yjl.im/>`_
 
