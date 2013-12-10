@@ -89,3 +89,5 @@
 
 `喬治查爾斯電子電路網 <http://gc.digitw.com/>`_
 
+`No bullshit guide to math and physics <http://minireference.com/>`_
+

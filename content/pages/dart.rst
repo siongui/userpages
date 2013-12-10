@@ -11,6 +11,8 @@
 
 `Dartwatch <http://blog.dartwatch.com/>`_
 
+`The Dartosphere <http://www.dartosphere.org/>`_
+
 Dart Cheat Sheet `[Core] <http://dartlangfr.net/dart-cheat-sheet/core.html>`_,
 `[HTML] <http://dartlangfr.net/dart-cheat-sheet/html.html>`_
 

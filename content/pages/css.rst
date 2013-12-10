@@ -129,3 +129,5 @@ CSS Front-end Frameworks:
 
 `Getting Unstuck <http://themarklee.com/>`_ (CSS, etc.)
 
+`Sideproject - WEB DESIGN & BUILDING THINGS THAT LAST <http://sideproject.io/>`_
+
