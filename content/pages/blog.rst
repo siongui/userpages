@@ -5,6 +5,8 @@
 
 Python/Go:
 
+  `Python Programming <http://www.jeffknupp.com/>`_
+
   `Herman Schaaf | IronZebra <http://www.ironzebra.com/>`_ (Go, Python, etc.)
 
   `Agiliq Blog | Django web app development <http://agiliq.com/blog/>`_ (many basic Python tutorials)
