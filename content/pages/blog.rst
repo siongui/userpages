@@ -46,6 +46,8 @@ Python/Go:
 
   `ionel's codelog <http://blog.ionelmc.ro/>`_ (Python)
 
+  `mxguangtw的个人博客 <http://blog.sciencenet.cn/u/mxguangtw>`_ (Python)
+
 Ruby:
 
   `GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS <http://robots.thoughtbot.com/>`_ (Ruby, SASS)
