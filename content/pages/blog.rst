@@ -52,6 +52,8 @@ Python/Go:
 
   `Guz Alexander <http://guzalexander.com/>`_
 
+  `Labix <http://labix.org/>`_ (Go)
+
 Ruby:
 
   `GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS <http://robots.thoughtbot.com/>`_ (Ruby, SASS)
