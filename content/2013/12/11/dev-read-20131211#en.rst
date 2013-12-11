@@ -33,6 +33,9 @@ Python:
   `A Guide to Python's Magic Methods <http://www.rafekettler.com/magicmethods.html>`_
   (`HN news <https://news.ycombinator.com/item?id=6886411>`__)
 
+  `Writing a full-text search engine using Bloom filters <http://www.stavros.io/posts/bloom-filter-search-engine/>`_
+  (`HN news <https://news.ycombinator.com/item?id=6887084>`__)
+
 Good Website:
 
   `Python Programming <http://www.jeffknupp.com/>`_
@@ -46,10 +49,13 @@ Simplified Chinese:
   C:
 
     `C语言程序员必读的5本书 <http://blog.jobbole.com/53108/>`_
+    (`2 <http://www.linuxeden.com/html/news/20131211/146257.html>`__)
 
   C++:
 
     `判断线段相交和交点 <http://my.oschina.net/u/659405/blog/183233>`_
+
+    `30分钟了解C++11新特性 <http://my.oschina.net/wangxuanyihaha/blog/183151>`_
 
   Go:
 
@@ -74,6 +80,10 @@ Simplified Chinese:
     `编译器的编译基本过程 <http://hi.baidu.com/zhuxiaoyin/item/54392df28c174c0bc7dc4564>`_
     (`2 <http://blog.jobbole.com/53152/>`__)
 
+  Python:
+
+    `tornado异步请求的理解 <http://my.oschina.net/jiemachina/blog/183179>`_
+
   `grep之字符串搜索算法Boyer-Moore由浅入深（比KMP快3-5倍） <http://blog.jobbole.com/52830/>`_
 
   `Linux设备文件简介 <http://lamp.linux.gov.cn/Linux/device_files.html>`_
@@ -86,3 +96,8 @@ Simplified Chinese:
   `正则表达式验证身份证格式是否正确 <http://my.oschina.net/meng527/blog/183231>`_
 
   `在图文混合的信息流里面，如何突出纯文本的信息呢？ <http://blog.jobbole.com/53157/>`_
+
+  `[summary] 数据挖掘-Eclat算法 <http://my.oschina.net/locusxt/blog/183168>`_
+
+  `最大钻石问题 <http://my.oschina.net/u/1183791/blog/183171>`_
+
