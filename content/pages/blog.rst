@@ -181,6 +181,8 @@ Simplified Chinese:
 
   `飞龙非龙 <http://feilong.me/>`_
 
+  `博客 -  chai2010的个人页面 <http://my.oschina.net/chai2010/blog>`_ (Go)
+
 `Wenli Zhang <http://zhangwenli.com/>`_
 
 `Zhong' blog <http://stupidgrass.github.io/blog/>`_
