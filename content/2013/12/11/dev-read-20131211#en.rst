@@ -48,6 +48,12 @@ Python:
   (Simplified Chinese translation `1 <http://blog.jobbole.com/51498/>`__,
   `2 <http://www.pythoner.cn/home/blog/the-python-debug-tools-that-i-use-usually/>`__)
 
+  `Telegraphy: real time web with python <http://telegraphy.machinalis.com/>`_
+  (`HN news <https://news.ycombinator.com/item?id=6887958>`__)
+
+`Show HN: New unix utility "when" <https://github.com/apgwoz/when>`_
+(`HN news <https://news.ycombinator.com/item?id=6888365>`__)
+
 Good Website:
 
   `Python Programming <http://www.jeffknupp.com/>`_

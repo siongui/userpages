@@ -141,6 +141,8 @@ Ruby:
 
 `JOURNAL.STUFFWITHSTUFF.COM <http://journal.stuffwithstuff.com/>`_
 
+`Michael Feathers <https://michaelfeathers.silvrback.com/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_

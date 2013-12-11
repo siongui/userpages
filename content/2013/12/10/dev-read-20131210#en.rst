@@ -23,7 +23,8 @@
 `4 <http://www.pythoner.cn/home/blog/develop-on-windows-as-if-it-was-unix/>`__)
 
 `10 basic examples of Linux ps command <http://www.binarytides.com/linux-ps-command/>`_
-(`Simplified Chinese translation <http://linux.cn/thread/12046/1/1/>`__)
+(Simplified Chinese translation `1 <http://linux.cn/thread/12046/1/1/>`__,
+`2 <http://www.linuxeden.com/html/softuse/20131211/146278.html>`__)
 
 `How to Make a YouTube Instructional Screencast Video on Linux <http://www.linux.com/learn/tutorials/745745-how-to-make-a-youtube-instructional-screencast-video-on-linux/>`_
 (`Simplified Chinese translation <http://linux.cn/thread/12047/1/1/>`__)
