@@ -54,6 +54,8 @@ Python/Go:
 
   `Labix <http://labix.org/>`_ (Go)
 
+  `Midnight Coding <http://nicoddemus.github.io/>`_ (Python)
+
 Ruby:
 
   `GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS <http://robots.thoughtbot.com/>`_ (Ruby, SASS)

@@ -1,5 +1,5 @@
-<Golang channels tutorial>, <Python Programming>, etc.
-######################################################
+<direnv>, <Golang channels tutorial>, <Python Programming>, etc.
+################################################################
 
 :date: 2013-12-11 04:07
 :tags: Go, Python, math, JavaScript, Linux, CSS, Shell
@@ -7,6 +7,10 @@
 :author: Siong-Ui Te
 :summary: Dev Read #2013-12-11
 
+
+`direnv -- Unclutter your .profile <http://direnv.net/>`_
+(`Github <https://github.com/zimbatm/direnv>`__,
+`The Changelog post <http://thechangelog.com/unclutter-profile-direnv/>`__)
 
 Go:
 
@@ -16,7 +20,8 @@ Go:
 JavaScript:
 
   `24 JavaScript Best Practices for Beginners <http://net.tutsplus.com/tutorials/JavaScript-ajax/24-JavaScript-best-practices-for-beginners/>`_
-  (`Simplified Chinese translation <http://www.cnblogs.com/yanhaijing/p/3465237.html>`__)
+  (Simplified Chinese translation `1 <http://www.cnblogs.com/yanhaijing/p/3465237.html>`__,
+  `2 <http://blog.jobbole.com/53199/>`__)
 
   `Server-generated JavaScript Responses <http://37signals.com/svn/posts/3697-server-generated-javascript-responses>`_
   (`HN news <https://news.ycombinator.com/item?id=6884377>`__,
@@ -36,6 +41,13 @@ Python:
   `Writing a full-text search engine using Bloom filters <http://www.stavros.io/posts/bloom-filter-search-engine/>`_
   (`HN news <https://news.ycombinator.com/item?id=6887084>`__)
 
+  `Python tools for penetration testers <http://dirk-loss.de/python-tools.htm>`_
+  (`HN news <https://news.ycombinator.com/item?id=6887762>`__)
+
+  `Things that surprised me in PyCharm <http://nicoddemus.github.io/articles/pycharm/>`_
+  (Simplified Chinese translation `1 <http://blog.jobbole.com/51498/>`__,
+  `2 <http://www.pythoner.cn/home/blog/the-python-debug-tools-that-i-use-usually/>`__)
+
 Good Website:
 
   `Python Programming <http://www.jeffknupp.com/>`_
@@ -50,6 +62,8 @@ Simplified Chinese:
 
     `C语言程序员必读的5本书 <http://blog.jobbole.com/53108/>`_
     (`2 <http://www.linuxeden.com/html/news/20131211/146257.html>`__)
+
+    `一个C语言指针比较大小的问题 <http://www.oschina.net/question/573517_136920>`_
 
   C++:
 
@@ -101,3 +115,6 @@ Simplified Chinese:
 
   `最大钻石问题 <http://my.oschina.net/u/1183791/blog/183171>`_
 
+  `OpenGL超级宝典笔记——贝塞尔曲线和曲面 <http://my.oschina.net/sweetdark/blog/183721>`_
+
+  `可供测试的在线webservice <http://my.oschina.net/CraneHe/blog/183471>`_
