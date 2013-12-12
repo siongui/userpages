@@ -21,7 +21,8 @@ JavaScript:
 
   `24 JavaScript Best Practices for Beginners <http://net.tutsplus.com/tutorials/JavaScript-ajax/24-JavaScript-best-practices-for-beginners/>`_
   (Simplified Chinese translation `1 <http://www.cnblogs.com/yanhaijing/p/3465237.html>`__,
-  `2 <http://blog.jobbole.com/53199/>`__)
+  `2 <http://blog.jobbole.com/53199/>`__,
+  `3 <http://www.linuxeden.com/html/news/20131212/146289.html>`__)
 
   `Server-generated JavaScript Responses <http://37signals.com/svn/posts/3697-server-generated-javascript-responses>`_
   (`HN news <https://news.ycombinator.com/item?id=6884377>`__,

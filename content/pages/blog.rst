@@ -56,6 +56,10 @@ Python/Go:
 
   `Midnight Coding <http://nicoddemus.github.io/>`_ (Python)
 
+  `Going Go Programming <http://www.goinggo.net/>`_
+
+  `blog.campoy.cat <http://blog.campoy.cat/>`_ (Go)
+
 Ruby:
 
   `GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS <http://robots.thoughtbot.com/>`_ (Ruby, SASS)
@@ -142,6 +146,10 @@ Ruby:
 `JOURNAL.STUFFWITHSTUFF.COM <http://journal.stuffwithstuff.com/>`_
 
 `Michael Feathers <https://michaelfeathers.silvrback.com/>`_
+
+`Connections <http://bitmason.blogspot.com/>`_
+
+`Varuna Jayasiri <http://vpj.svbtle.com/>`_
 
 Simplified Chinese:
 

@@ -18,10 +18,12 @@
 (`Simplified Chinese <http://my.oschina.net/yulongjiang/blog/182509>`__)
 
 `Embrace Go's HTTP Tools <http://justinas.org/embrace-gos-http-tools/>`_
-(`Simplified Chinese translation <http://www.oschina.net/translate/embrace-gos-http-tools>`__)
+(Simplified Chinese translation `1 <http://www.oschina.net/translate/embrace-gos-http-tools>`__,
+`2 <http://www.linuxeden.com/html/news/20131212/146294.html>`__)
 
 `Writing HTTP Middleware in Go <http://justinas.org/writing-http-middleware-in-go/>`_
-(`HN news <https://news.ycombinator.com/item?id=6869710>`__)
+(`HN news <https://news.ycombinator.com/item?id=6869710>`__,
+`Simplified Chinese translation <http://blog.jobbole.com/53265/>`__)
 
 `The Ten Toughest Tasks in Development <http://www.sitepoint.com/ten-toughest-tasks-development/>`_
 (Simplified Chinese translation `1 <http://www.linuxeden.com/html/news/20131209/146212.html>`__,

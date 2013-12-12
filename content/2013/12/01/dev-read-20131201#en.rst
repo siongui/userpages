@@ -25,6 +25,8 @@ Vim:
 C:
 
   - `A glimpse of undefined behavior in C <http://blog.chris-cole.net/2013/11/30/a-glimpse-of-undefined-behavior-in-c/>`_
+    (Simplified Chinese translation `1 <http://blog.jobbole.com/53211/>`__,
+    `2 <http://www.linuxeden.com/html/news/20131212/146295.html>`__)
 
     * `HN news <https://news.ycombinator.com/item?id=6824221>`__
 

@@ -49,3 +49,5 @@ blog:
   `Shailen Tuli's blog <http://shailen.github.io/>`_
   (Thoughts on coding in Dart, Ruby, Python and Javascript)
 
+  `Technical Blogs - Blog about small technical Know hows <http://www.phloxblog.in/>`_
+
