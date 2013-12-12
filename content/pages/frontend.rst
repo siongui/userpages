@@ -127,6 +127,8 @@ blog:
 
   `oak.is <http://oak.is/>`_
 
+  `Blog of Osvaldas Valutis <http://osvaldas.info/blog>`_
+
 Simplified Chinese:
 
   `365建站·分享好看的模板网站下载,网页js代码,网站设计素材 <http://www.newsky365.com/>`_

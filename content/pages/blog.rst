@@ -60,6 +60,8 @@ Python/Go:
 
   `blog.campoy.cat <http://blog.campoy.cat/>`_ (Go)
 
+  `preshing on programming <http://preshing.com/>`_ (C++, Python)
+
 Ruby:
 
   `GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS <http://robots.thoughtbot.com/>`_ (Ruby, SASS)
@@ -151,6 +153,8 @@ Ruby:
 
 `Varuna Jayasiri <http://vpj.svbtle.com/>`_
 
+`Rhumaric, pixel distiller <http://rhumaric.com/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_
@@ -194,6 +198,8 @@ Simplified Chinese:
   `飞龙非龙 <http://feilong.me/>`_
 
   `博客 -  chai2010的个人页面 <http://my.oschina.net/chai2010/blog>`_ (Go)
+
+  `董的博客 <http://dongxicheng.org/>`_ {关注大规模数据处理相关开源技术，包括：YARN/MRv2，MRv1，Corona， Mesos} 
 
 `Wenli Zhang <http://zhangwenli.com/>`_
 
