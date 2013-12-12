@@ -155,6 +155,10 @@ Ruby:
 
 `Rhumaric, pixel distiller <http://rhumaric.com/>`_
 
+`ProgramCreek.com <http://www.programcreek.com/>`_
+
+`theory.so <http://theory.so/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_
