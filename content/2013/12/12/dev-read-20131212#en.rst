@@ -16,7 +16,8 @@
 (Simplified Chinese translation `1 <http://www.aqee.net/when-a-method-can-do-nothing/>`__,
 `2 <http://www.linuxeden.com/html/news/20131212/146290.html>`__,
 `3 <http://www.oschina.net/news/46775/when-a-method-can-do-nothing>`__,
-`4 <http://www.pythoner.cn/home/blog/when-a-method-can-do-nothing/>`__)
+`4 <http://www.pythoner.cn/home/blog/when-a-method-can-do-nothing/>`__,
+`5 <http://blog.jobbole.com/53313/>`__)
 
 node.js:
 

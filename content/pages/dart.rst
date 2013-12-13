@@ -51,3 +51,5 @@ blog:
 
   `Technical Blogs - Blog about small technical Know hows <http://www.phloxblog.in/>`_
 
+  `japh(r) by Chris Strom <http://japhr.blogspot.com/>`_
+
