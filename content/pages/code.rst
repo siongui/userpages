@@ -37,3 +37,5 @@ JavaScript/HTML/CSS:
 `.NET Fiddle <http://www.dotnetfiddle.net/>`_
 
 `Online Interpreters <http://repl.it/>`_
+
+`CoderPad <https://coderpad.io/>`_

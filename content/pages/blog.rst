@@ -62,6 +62,8 @@ Python/Go:
 
   `preshing on programming <http://preshing.com/>`_ (C++, Python)
 
+  `Thomas Sileo <http://thomassileo.com/>`_
+
 Ruby:
 
   `GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS <http://robots.thoughtbot.com/>`_ (Ruby, SASS)

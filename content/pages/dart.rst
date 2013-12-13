@@ -53,3 +53,4 @@ blog:
 
   `japh(r) by Chris Strom <http://japhr.blogspot.com/>`_
 
+  `DartGameDevs <http://www.dartgamedevs.org/>`_

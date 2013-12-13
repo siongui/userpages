@@ -2,7 +2,7 @@
 #######################################################
 
 :date: 2013-12-13 02:22
-:tags: Compiler, JavaScript, Go, PNaCl, Vim, Python, C++
+:tags: Compiler, JavaScript, Go, PNaCl, Vim, Python, C++, AI
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-12-13
@@ -17,10 +17,14 @@
 `How Class based Programming Sucks <http://loup-vaillant.fr/articles/classes-suck>`_
 (`HN news <https://news.ycombinator.com/item?id=6900004>`__)
 
+`Deep Learning 101 <http://markus.com/deep-learning-101/>`_
+(`HN news <https://news.ycombinator.com/item?id=6729777>`__)
+
 Go:
 
   `Inside the Go Playground <http://blog.golang.org/playground>`_
-  (`Simplified Chinese translation <http://www.oschina.net/translate/inside-the-go-playground>`__)
+  (`HN news <https://news.ycombinator.com/item?id=6897724>`__,
+  `Simplified Chinese translation <http://www.oschina.net/translate/inside-the-go-playground>`__)
 
   `Go for Rubyists <http://www.sitepoint.com/go-rubyists/>`_
   (`HN news <https://news.ycombinator.com/item?id=6899956>`__)
@@ -57,7 +61,9 @@ database:
 
   `The Database Administrator is dead <http://thenextweb.com/kennygorman/2013/12/12/dba-dead/>`_
   (`HN news <https://news.ycombinator.com/item?id=6900252>`__,
-  `Simplified Chinese translation <http://www.oschina.net/translate/dba-dead>`__)
+  Simplified Chinese translation `1 <http://www.oschina.net/translate/dba-dead>`__,
+  `2 <http://www.linuxeden.com/html/news/20131213/146354.html>`__,
+  `3 <http://www.pythoner.cn/home/blog/dba-dead/>`__)
 
   `Why You Should Never Use MongoDB <http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/>`_
   (Simplified Chinese translation `1 <http://www.oschina.net/translate/why-you-should-never-use-mongodb>`__,
@@ -73,6 +79,8 @@ Python:
 
   `Build a Website Crawler based upon Scrapy <http://pypix.com/python/build-website-crawler-based-upon-scrapy/>`_
 
+  `Tracking Changes in Directories with Python <http://thomassileo.com/blog/2013/12/12/tracking-changes-in-directories-with-python/>`_
+  (`HN news <https://news.ycombinator.com/item?id=6899631>`__)
 
 Simplified Chinese:
 
@@ -83,4 +91,6 @@ Simplified Chinese:
   `practical vim tips --- part 1 <http://my.oschina.net/leeming/blog/184071>`_
 
   `exit和__exit的区别 <http://my.oschina.net/lvyi/blog/184157>`_
+
+  `检查来源是否为手机浏览器 <http://www.oschina.net/code/snippet_203921_27247>`_
 
