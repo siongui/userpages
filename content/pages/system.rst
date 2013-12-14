@@ -34,6 +34,10 @@ blog:
 
   `Jeroen Janssens <http://jeroenjanssens.com/>`_ (dutch data scientist in old new amsterdam)
 
+  `Lounge Scene <http://blog.thoward37.me/>`_
+
+  `ocharles.org.uk <http://ocharles.org.uk/blog/>`_
+
 Simplified Chinese:
 
   `酷壳 – CoolShell.cn <http://coolshell.cn/>`_

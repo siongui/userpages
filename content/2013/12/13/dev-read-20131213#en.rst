@@ -27,7 +27,8 @@ Go:
   `Simplified Chinese translation <http://www.oschina.net/translate/inside-the-go-playground>`__)
 
   `Go for Rubyists <http://www.sitepoint.com/go-rubyists/>`_
-  (`HN news <https://news.ycombinator.com/item?id=6899956>`__)
+  (`HN news <https://news.ycombinator.com/item?id=6899956>`__,
+  `Simplified Chinese translation <http://www.oschina.net/translate/go-rubyists>`__)
 
 JavaScript:
 
