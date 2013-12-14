@@ -91,3 +91,5 @@
 
 `No bullshit guide to math and physics <http://minireference.com/>`_
 
+`Typing Practice for Programmers <http://typing.io/>`_
+

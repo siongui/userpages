@@ -38,6 +38,8 @@ blog:
 
   `ocharles.org.uk <http://ocharles.org.uk/blog/>`_
 
+  `Chris Siebenmann <http://utcc.utoronto.ca/~cks/>`_
+
 Simplified Chinese:
 
   `酷壳 – CoolShell.cn <http://coolshell.cn/>`_
