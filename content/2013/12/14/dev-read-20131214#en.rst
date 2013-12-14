@@ -5,7 +5,7 @@
 :tags: Python, Go, Shell, Linux, GAE, C, Algorithm, AI
 :category: Dev Read
 :author: Siong-Ui Te
-:summary: Dev Read #2013-12-13
+:summary: Dev Read #2013-12-14
 
 
 `Where are Docker images stored? <http://blog.thoward37.me/articles/where-are-docker-images-stored/>`_
