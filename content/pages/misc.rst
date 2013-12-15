@@ -93,3 +93,5 @@
 
 `Typing Practice for Programmers <http://typing.io/>`_
 
+`Vimcasts - free screencasts about the text editor Vim <http://vimcasts.org/>`_
+
