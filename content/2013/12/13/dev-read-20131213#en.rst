@@ -24,11 +24,13 @@ Go:
 
   `Inside the Go Playground <http://blog.golang.org/playground>`_
   (`HN news <https://news.ycombinator.com/item?id=6897724>`__,
-  `Simplified Chinese translation <http://www.oschina.net/translate/inside-the-go-playground>`__)
+  Simplified Chinese translation `1 <http://www.oschina.net/translate/inside-the-go-playground>`__,
+  `2 <http://www.linuxeden.com/html/news/20131215/146396.html>`__)
 
   `Go for Rubyists <http://www.sitepoint.com/go-rubyists/>`_
   (`HN news <https://news.ycombinator.com/item?id=6899956>`__,
-  `Simplified Chinese translation <http://www.oschina.net/translate/go-rubyists>`__)
+  Simplified Chinese translation `1 <http://www.oschina.net/translate/go-rubyists>`__,
+  `2 <http://www.linuxeden.com/html/news/20131215/146394.html>`__)
 
 JavaScript:
 

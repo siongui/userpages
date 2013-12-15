@@ -211,6 +211,8 @@ Simplified Chinese:
 
 `Zhong' blog <http://stupidgrass.github.io/blog/>`_
 
+`Lu Wang's Page <http://coolwanglu.github.io/>`_
+
 Traditional Chinese:
 
   `QOOGLE LABORATORY - DEVELOPMENT BLOG OF LITTLEQ <http://littleq.logdown.com/>`_
