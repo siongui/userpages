@@ -14,6 +14,11 @@
 `Show HN: Omegle-style random chat combined with a recommender system <http://random-strangers.pl/>`_
 (`HN discuss <https://news.ycombinator.com/item?id=6909270>`__)
 
+`Checking the real HTTP headers with curl <http://live.julik.nl/2013/12/checking-real-http-get-headers>`_
+
+`Docker: Git for deployment <http://blog.scoutapp.com/articles/2013/08/28/docker-git-for-deployment>`_
+(`Simplified Chinese translation <http://www.oschina.net/translate/docker-git-for-deployment>`__)
+
 Assembly:
 
   `TCP HTTP Server written in Assembly <http://canonical.org/~kragen/sw/dev3/server.s>`_
@@ -72,6 +77,17 @@ Simplified Chinese:
 
   `斗地主游戏地主胜率分析 <http://my.oschina.net/u/1183791/blog/184586>`_
 
+  `使用 Docker/LXC 迅速启动一个桌面系统 <http://www.vpsee.com/2013/07/use-docker-and-lxc-to-build-a-desktop/>`_
+  (`2 <http://www.oschina.net/question/54100_137626>`__)
+
+  `Chrome 扩展插件，实时显示各比特币莱特币交易市场数据 <http://www.oschina.net/code/snippet_814428_27321>`_
+
+  `内存模拟设备进行驱动编程 <http://my.oschina.net/lvyi/blog/184623>`_
+
+  Go:
+
+    `Golang通过http代理抓取页面代码 <http://my.oschina.net/tonywang/blog/184628>`_
+
   Shell:
 
     `linux shell（根据扩展名切分分件名） <http://my.oschina.net/yulongjiang/blog/184551>`_
@@ -81,6 +97,8 @@ Simplified Chinese:
     `Flash ps HTML5 +html5经典特效 <http://my.oschina.net/u/1403217/blog/184484>`_
 
     `CSS3 Gradient <http://my.oschina.net/u/1401419/blog/184483>`_
+
+    `使用media Queries实现一个响应式的菜单 <http://www.huangbowen.net/blog/2013/12/15/responsive-menu-by-media-queries/>`_
 
     `字体处理 <http://my.oschina.net/u/1404246/blog/184490>`_
 
