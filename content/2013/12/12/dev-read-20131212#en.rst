@@ -30,7 +30,8 @@ Virtualization:
 
   `Docker will change everything <http://sathishmanohar.com/articles/docker-will-change-everything/>`_
   (`HN news <https://news.ycombinator.com/item?id=6888623>`__
-  `Simplified Chinese translation <http://www.oschina.net/translate/docker-will-change-everything>`__)
+  Simplified Chinese translation `1 <http://www.oschina.net/translate/docker-will-change-everything>`__,
+  `2 <http://www.linuxeden.com/html/news/20131215/146418.html>`__)
 
 CSS:
 

@@ -11,6 +11,9 @@
 `typing.io - Typing Practice for Programmers <http://typing.io/>`_
 (`HN discuss <https://news.ycombinator.com/item?id=6906657>`__)
 
+`Show HN: Omegle-style random chat combined with a recommender system <http://random-strangers.pl/>`_
+(`HN discuss <https://news.ycombinator.com/item?id=6909270>`__)
+
 Assembly:
 
   `TCP HTTP Server written in Assembly <http://canonical.org/~kragen/sw/dev3/server.s>`_
@@ -67,6 +70,8 @@ Simplified Chinese:
 
   `基于OpenCV的多相机图像获取与显示 <http://my.oschina.net/u/63375/blog/184569>`_
 
+  `斗地主游戏地主胜率分析 <http://my.oschina.net/u/1183791/blog/184586>`_
+
   Shell:
 
     `linux shell（根据扩展名切分分件名） <http://my.oschina.net/yulongjiang/blog/184551>`_
@@ -89,6 +94,8 @@ Simplified Chinese:
 
     `用httplib2实现的公司WEB网站监控 <http://my.oschina.net/lenglingx/blog/184515>`_
 
+    `用python刷票 <http://my.oschina.net/snnugiser/blog/184617>`_
+
   Algorithm:
 
     `K-means算法 <http://my.oschina.net/u/1412321/blog/184485>`_
@@ -108,4 +115,6 @@ Simplified Chinese:
     `中文自动摘要的基本实现方法 <http://my.oschina.net/ouyanghuangzheng/blog/184549>`_
 
     `母函数详解 <http://my.oschina.net/hlslml77/blog/184555>`_
+
+    `树总结_v1.1 <http://my.oschina.net/u/578921/blog/184587>`_
 

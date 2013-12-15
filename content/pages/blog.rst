@@ -238,7 +238,7 @@ Traditional Chinese:
 
   `Xexex's Java 和其他二三事 <http://www.javaworld.com.tw/roller/ingramchen/>`_
 
-  `A share A day <http://ashareaday.wcc.tw/>`_
+  `aShare <http://wcc723.github.io/>`_
 
   `Joe.Dev 的工作日誌與網路觀察 <http://joe-dev.blogspot.com/>`_
 
