@@ -64,6 +64,10 @@ Python/Go:
 
   `Thomas Sileo <http://thomassileo.com/>`_
 
+  `Random stream <http://kracekumar.com/>`_
+
+  `The Gopher Academy Blog <http://blog.gopheracademy.com/>`_ (Go)
+
 Ruby:
 
   `GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS <http://robots.thoughtbot.com/>`_ (Ruby, SASS)
@@ -164,6 +168,8 @@ Ruby:
 `Heidar Bernhardsson <http://iseld.org/>`_
 
 `Tom Moertel’s Blog <http://blog.moertel.com/>`_
+
+`Be Present Now - durdn - Nicola Paolucci <http://durdn.com/blog/>`_
 
 Simplified Chinese:
 

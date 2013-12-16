@@ -48,6 +48,8 @@ Info:
 
   `Monocle <http://monocle.io/>`_
 
+  `Gopher Academy <http://www.gopheracademy.com/>`_ (Go)
+
   Simplified Chinese:
 
     `图灵社区 <http://www.ituring.com.cn/>`_

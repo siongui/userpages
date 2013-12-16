@@ -9,7 +9,8 @@
 
 
 `Make grep 50x faster <https://blog.x-way.org/Linux/2013/12/15/Make-grep-50x-faster.html>`_
-(`HN discuss <https://news.ycombinator.com/item?id=6909760>`__)
+(`HN discuss <https://news.ycombinator.com/item?id=6909760>`__,
+Simplified Chinese translation `1 <http://www.oschina.net/question/12_137633>`__)
 
 `4 reasons developers are scared of making their code public <http://www.itworld.com/open-source/386457/why-are-developers-so-scared-making-their-code-public>`_
 (`Simplified Chinese translation <http://www.csdn.net/article/2013-12-16/2817814-why-are-developers-so-scared-making-their-code-public>`__)
@@ -47,6 +48,10 @@ C:
   `Optimizing loops in C for higher numerical throughput and for fun <http://www.lshift.net/blog/2013/11/27/optimizing-loops-in-c-for-higher-numerical-throughput-and-for-fun>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6910549>`__)
 
+  `Raphters: A web framework for C <http://thechangelog.com/raphters-a-web-framework-for-c/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=6910492>`__,
+  `Github <https://github.com/DanielWaterworth/Raphters>`__)
+
 Go:
 
   `Gobot <http://gobot.io/>`_
@@ -57,6 +62,14 @@ Python:
   `Essential SQLAlchemy Tips and Techniques <http://pypix.com/tools-and-tips/essential-sqlalchemy/>`_
 
   `Useful Python Functions and Features You Need to Know <http://pypix.com/tools-and-tips/python-functions/>`_
+
+  `Debugging Python Like a Boss <https://zapier.com/engineering/debugging-python-boss/>`_
+  (Simplified Chinese translation `1 <http://blog.jobbole.com/52171/>`__)
+
+Algorithm:
+
+  `Turn O(n^2) reverse into O(n) <https://github.com/nominolo/HTTP/commit/b9bd0a08fa09c6403f91422e3b23f08d339612eb>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=6912474>`__)
 
 JavaScript:
 
@@ -120,6 +133,7 @@ Simplified Chinese:
     `python中使用递归实现koch曲线绘制 <http://my.oschina.net/u/1423193/blog/184644>`_
 
     `快速，准确的中文文本摘要实现方法 <http://my.oschina.net/dancing/blog/184674>`_
+    (`2 <http://www.oschina.net/code/snippet_1180874_27326>`__)
 
   Python:
 
@@ -129,3 +143,7 @@ Simplified Chinese:
   Go:
 
     `使用Sniper来测试Http站点 <http://my.oschina.net/tuyang/blog/184706>`_
+
+  C:
+
+    `malloc后内存如何初始化？ <http://www.oschina.net/question/578519_137662>`_
