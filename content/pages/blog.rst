@@ -161,6 +161,10 @@ Ruby:
 
 `theory.so <http://theory.so/>`_
 
+`Heidar Bernhardsson <http://iseld.org/>`_
+
+`Tom Moertel’s Blog <http://blog.moertel.com/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_

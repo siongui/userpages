@@ -31,7 +31,8 @@ Go:
   `2 <http://www.linuxeden.com/html/news/20131215/146395.html>`__)
 
   `Benchmarking Nginx with Go <https://gist.github.com/hgfischer/7965620>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=6907987>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=6907987>`__,
+  Simplified Chinese translation `1 <http://www.oschina.net/translate/benchmarking-nginx-with-go>`__)
 
 Dart:
 

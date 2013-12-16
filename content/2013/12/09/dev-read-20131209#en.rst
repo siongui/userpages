@@ -2,7 +2,7 @@
 ###################################################################
 
 :date: 2013-12-09 14:12
-:tags: Go, CSS3, CSS, Python, Vim, Regular Expression, math, AI
+:tags: Go, CSS, Python, Vim, Regular Expression, math, AI
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-12-09

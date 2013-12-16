@@ -40,6 +40,10 @@ blog:
 
   `Chris Siebenmann <http://utcc.utoronto.ca/~cks/>`_
 
+  security:
+
+    `www.secalert.net <http://www.secalert.net/>`_
+
 Simplified Chinese:
 
   `酷壳 – CoolShell.cn <http://coolshell.cn/>`_
