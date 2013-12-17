@@ -137,3 +137,6 @@ Simplified Chinese:
 
   `AngularJS中文社区 <http://angularjs.cn/>`_
 
+Traditional Chinese:
+
+  `熱血漢誌 - Question about myself. <http://blog.caesarchi.com/>`_

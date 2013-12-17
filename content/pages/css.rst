@@ -98,6 +98,8 @@ CSS Front-end Frameworks:
 
 `Codrops <http://tympanus.net/codrops/>`_
 
+`CSS可樂 <http://csscoke.com/>`_
+
 `W3CPlus <http://www.w3cplus.com/>`_
 
 `LESS2CSS | LESS Live Preview <http://less2css.org/>`_
@@ -105,6 +107,8 @@ CSS Front-end Frameworks:
 `Designer.app | Your Blog Description Here <http://designerapp.blogspot.com/>`_
 
 `CSS3 Click Chart | CSS3 Browser Support and Information <http://css3clickchart.com/>`_
+
+`Web Designer Wall <http://webdesignerwall.com/>`_
 
 `Hack Design <http://www.hackdesign.org/>`_
 (`Toolkit <http://www.hackdesign.org/toolkit/>`_)

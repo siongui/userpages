@@ -65,7 +65,8 @@ Python:
 
   `Debugging Python Like a Boss <https://zapier.com/engineering/debugging-python-boss/>`_
   (Simplified Chinese translation `1 <http://blog.jobbole.com/52171/>`__,
-  `2 <http://www.linuxeden.com/html/news/20131217/146475.html>`_)
+  `2 <http://www.linuxeden.com/html/news/20131217/146475.html>`__,
+  `3 <http://www.pythoner.cn/home/blog/debugging-python-boss/>`__)
 
 Algorithm:
 

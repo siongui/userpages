@@ -177,6 +177,8 @@ Simplified Chinese:
 
   `BeiYuu.com <http://beiyuu.com/>`_
 
+  `CodingLabs - keep coding, keep foolish <http://blog.codinglabs.org/>`_
+
   `黄博文的地盘 <http://www.huangbowen.net/>`_
 
   `岁月如歌 <http://lifesinger.wordpress.com/>`_
