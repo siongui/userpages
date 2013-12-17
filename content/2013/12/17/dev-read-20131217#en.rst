@@ -94,6 +94,7 @@ Simplified Chinese:
   Linux:
 
     `Linux内核学习经验总结 <http://linux.cn/thread/12086/1/1/>`_
+    (`2 <http://www.linuxeden.com/html/softuse/20131217/146504.html>`__)
 
     `wget网站下载 <http://my.oschina.net/yulongjiang/blog/184965>`_
 

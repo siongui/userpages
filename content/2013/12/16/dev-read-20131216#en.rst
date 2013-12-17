@@ -76,6 +76,7 @@ Algorithm:
 JavaScript:
 
   `JavaScript Promises: There and back again <http://www.html5rocks.com/en/tutorials/es6/promises/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=6921828>`__)
 
   `How to Unit Test Controllers In AngularJS Without Setting Your Hair On Fire <http://nathanleclaire.com/blog/2013/12/13/how-to-unit-test-controllers-in-angularjs-without-setting-your-hair-on-fire/>`_
   (Simplified Chinese translation `1 <http://www.oschina.net/translate/how-to-unit-test-controllers-in-angularjs-without-setting-your-hair-on-fire>`__)
