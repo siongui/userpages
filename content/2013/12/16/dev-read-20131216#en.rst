@@ -64,7 +64,8 @@ Python:
   `Useful Python Functions and Features You Need to Know <http://pypix.com/tools-and-tips/python-functions/>`_
 
   `Debugging Python Like a Boss <https://zapier.com/engineering/debugging-python-boss/>`_
-  (Simplified Chinese translation `1 <http://blog.jobbole.com/52171/>`__)
+  (Simplified Chinese translation `1 <http://blog.jobbole.com/52171/>`__,
+  `2 <http://www.linuxeden.com/html/news/20131217/146475.html>`_)
 
 Algorithm:
 
