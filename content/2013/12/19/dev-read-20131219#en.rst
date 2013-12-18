@@ -1,8 +1,8 @@
-<Data Structure Visualizations>, etc.
-#####################################
+<Exploring CSS 3D Transforms>, <Data Structure Visualizations>, etc.
+####################################################################
 
 :date: 2013-12-19 02:08
-:tags: Data Structure, Python
+:tags: Data Structure, Python, CSS
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-12-19
@@ -23,6 +23,17 @@ Simplified Chinese translation `1 <http://blog.jobbole.com/53376/>`__)
 
 `59 Hilarious but True Programming Quotes for Software Developers <http://theprofessionalspoint.blogspot.com/2013/09/59-hilarious-but-true-programming.html>`_
 (Simplified Chinese translation `1 <http://www.aqee.net/59-hilarious-but-true-programming-quotes-for-software-developers/>`__)
+
+`Nmap team releases 5 gigapixel favicon map <http://nmap.org/favicon/>`_
+(`HN discuss <https://news.ycombinator.com/item?id=6930309>`__)
+
+`Organizing your OpenSCAD code: Part I <http://blog.cubehero.com/2013/12/18/organizing-your-openscad-code-part-i/>`_
+(`HN discuss <https://news.ycombinator.com/item?id=6930669>`__)
+
+CSS:
+
+  `Unfolding The Box - CSS 3D Transforms in the Box Model <http://rupl.github.io/unfold/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=6930711>`__)
 
 Python:
 
