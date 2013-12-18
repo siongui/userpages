@@ -142,3 +142,5 @@ Traditional Chinese:
   `Ticore's Blog <http://ticore.blogspot.com/>`_
 
   `熱血漢誌 - Question about myself. <http://blog.caesarchi.com/>`_
+
+  `The Front Row <http://blog.zhusee.in/>`_

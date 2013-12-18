@@ -227,6 +227,8 @@ Simplified Chinese:
 
 Traditional Chinese:
 
+  `Programming Design Notes <http://pro.ctlok.com/>`_
+
   `QOOGLE LABORATORY - DEVELOPMENT BLOG OF LITTLEQ <http://littleq.logdown.com/>`_
   (Vim, Python, GAE)
 

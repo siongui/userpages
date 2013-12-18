@@ -90,6 +90,8 @@ CSS Front-end Frameworks:
 
 `The CSS3 Test <http://css3test.com/>`_
 
+`CSS3 Generator <http://css3generator.com/>`_
+
 `Design Gallery, Articles & Community | Design Shack <http://designshack.net/>`_
 
 `CSS Portal <http://www.cssportal.com/>`_

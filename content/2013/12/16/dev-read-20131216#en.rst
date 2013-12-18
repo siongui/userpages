@@ -79,7 +79,8 @@ JavaScript:
   (`HN discuss <https://news.ycombinator.com/item?id=6921828>`__)
 
   `How to Unit Test Controllers In AngularJS Without Setting Your Hair On Fire <http://nathanleclaire.com/blog/2013/12/13/how-to-unit-test-controllers-in-angularjs-without-setting-your-hair-on-fire/>`_
-  (Simplified Chinese translation `1 <http://www.oschina.net/translate/how-to-unit-test-controllers-in-angularjs-without-setting-your-hair-on-fire>`__)
+  (Simplified Chinese translation `1 <http://www.oschina.net/translate/how-to-unit-test-controllers-in-angularjs-without-setting-your-hair-on-fire>`__,
+  `2 <http://www.linuxeden.com/html/news/20131218/146534.html>`__)
 
 CSS:
 
