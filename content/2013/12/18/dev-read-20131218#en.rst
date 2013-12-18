@@ -45,6 +45,9 @@ JavaScript:
   `Instant Edit - Type anything <http://instantedit.github.io/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6927053>`__)
 
+  `Short Guide to Javascript Gotchas <http://blog.codacy.com/short-guide-js-gotchas/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=6927689>`__)
+
 CSS:
 
   `Show HN: Myth - CSS the way it was imagined <http://www.myth.io/>`_
@@ -69,6 +72,10 @@ Simplified Chinese:
 
   `Nginx 入门级配置 <http://my.oschina.net/jiemachina/blog/185484>`_
 
+  JavaScript:
+
+    `javascript“普通”函数中的this，以及call,apply用法 <http://my.oschina.net/u/1403096/blog/185785>`_
+
   Git:
 
     `15分钟学会使用Git和远程代码库 <http://blog.jobbole.com/53573/>`_
@@ -80,6 +87,10 @@ Simplified Chinese:
     `wc命令 <http://my.oschina.net/u/1414017/blog/185517>`_
 
     `scp远程复制文件 <http://my.oschina.net/robinsonlu/blog/185528>`_
+
+    `Linux shell中的那些小把戏 <http://linux.cn/thread/12091/1/1/>`_
+
+    `关于linux下粘贴位(sticky位). <http://my.oschina.net/u/1186186/blog/185777>`_
 
   math:
 
@@ -103,6 +114,12 @@ Simplified Chinese:
     `Python浮点数损失精度的问题（为什么双精度浮点数只有15位十进制精度） <http://my.oschina.net/lionets/blog/185435>`_
 
     `用 Python 重写 PHP 加密解密算法 authcode <http://my.oschina.net/catroll/blog/185494>`_
+
+    `用python的smtplib发送邮件python2,3都可以使用 <http://my.oschina.net/lenglingx/blog/185794>`_
+
+  Algorithm:
+
+    `【九度OJ1521】二叉树的镜像 <http://my.oschina.net/u/1182234/blog/185757>`_
 
 Traditional Chinese:
 

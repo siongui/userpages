@@ -7,6 +7,8 @@
 
 `How to keep up to date on Front-End Technologies - The Recipe <http://uptodate.frontendrescue.org/>`_
 
+`UTF-8.jp <http://utf-8.jp/>`_
+
 Tips/News:
 
   `HTML5 Rocks <http://www.html5rocks.com/>`_
