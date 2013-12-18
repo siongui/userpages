@@ -2,7 +2,7 @@
 #####################################
 
 :date: 2013-12-19 02:08
-:tags: Data Structure
+:tags: Data Structure, Python
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-12-19
@@ -15,10 +15,30 @@
 (`HN discuss <https://news.ycombinator.com/item?id=6871202>`__,
 Simplified Chinese translation `1 <http://blog.jobbole.com/53376/>`__)
 
+`Reverse Engineering a Furby <http://poppopret.org/2013/12/18/reverse-engineering-a-furby/>`_
+(`HN discuss <https://news.ycombinator.com/item?id=6929592>`__)
+
+`RSA Key Extraction via Low-Bandwidth Acoustic Cryptanalysis <http://www.cs.tau.ac.il/~tromer/acoustic/>`_
+(`HN discuss <https://news.ycombinator.com/item?id=6927905>`__)
+
+`59 Hilarious but True Programming Quotes for Software Developers <http://theprofessionalspoint.blogspot.com/2013/09/59-hilarious-but-true-programming.html>`_
+(Simplified Chinese translation `1 <http://www.aqee.net/59-hilarious-but-true-programming-quotes-for-software-developers/>`__)
+
+Python:
+
+  `How To Use the Bottle Micro Framework to Develop Python Web Apps <https://www.digitalocean.com/community/articles/how-to-use-the-bottle-micro-framework-to-develop-python-web-apps>`_
+
+  `Advanced Data Structures in Python <http://pypix.com/python/advanced-data-structures/>`_
+
 Data Structure:
 
   `Data Structure Visualizations <http://www.cs.usfca.edu/~galles/visualization/Algorithms.html>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6928904>`__)
+
+JavaScript:
+
+  `Getting the details right in an interactive line graph <http://blog.heapanalytics.com/line-graph-redesign/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=6929517>`__)
 
 Coders Grid:
 
