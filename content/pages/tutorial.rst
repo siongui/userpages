@@ -5,6 +5,8 @@
 
 `Learn Code The Hard Way <http://learncodethehardway.org/>`_
 
+`1Keydata - Free Online Programming Tutorials <http://www.1keydata.com/>`_
+
 `Programming, Motherfucker - Do you speak it? <http://programming-motherfucker.com/>`_
 
 `W3Schools Online Web Tutorials <http://www.w3schools.com/>`_
