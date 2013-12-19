@@ -79,6 +79,7 @@ Simplified Chinese:
   Git:
 
     `15分钟学会使用Git和远程代码库 <http://blog.jobbole.com/53573/>`_
+    (`2 <http://www.linuxeden.com/html/develop/20131219/146589.html>`__)
 
   Linux:
 

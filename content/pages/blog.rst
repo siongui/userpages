@@ -290,6 +290,8 @@ Traditional Chinese:
 
   `tedshd's DevNote <http://tedshd.logdown.com/>`_
 
+  `1984年產物 <http://donaldisfreak.github.io/>`_
+
 `Yu-Jie Lin <http://www.yjl.im/>`_
 
 `Licson's Tech Space <http://licson.net/>`_

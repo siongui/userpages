@@ -20,7 +20,8 @@ Simplified Chinese translation `1 <http://www.oschina.net/question/12_137633>`__
 
 `Building a tiny ARM-based server <http://users.softlab.ece.ntua.gr/~ttsiod/arm.html>`_
 (`HN discuss <https://news.ycombinator.com/item?id=6911045>`__,
-Simplified Chinese translation `1 <http://www.oschina.net/translate/building-a-tiny-arm-based-server>`__)
+Simplified Chinese translation `1 <http://www.oschina.net/translate/building-a-tiny-arm-based-server>`__,
+`2 <http://www.linuxeden.com/html/news/20131219/146580.html>`__)
 
 `depl - deploying should be easy <http://depl.rtfd.org/>`_
 (`Github <https://github.com/davidhalter/depl>`__,
