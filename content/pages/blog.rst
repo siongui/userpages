@@ -171,6 +171,8 @@ Ruby:
 
 `Be Present Now - durdn - Nicola Paolucci <http://durdn.com/blog/>`_
 
+`Michael G. Noll <http://www.michael-noll.com/>`_ (Applied Research. Big Data. Distributed Systems. Open Source.)
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_
