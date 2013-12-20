@@ -221,6 +221,8 @@ Simplified Chinese:
 
   `董的博客 <http://dongxicheng.org/>`_ {关注大规模数据处理相关开源技术，包括：YARN/MRv2，MRv1，Corona， Mesos} 
 
+  `Crescent <http://www.crescentmoon.info/>`_ (math)
+
 `Wenli Zhang <http://zhangwenli.com/>`_
 
 `Zhong' blog <http://stupidgrass.github.io/blog/>`_

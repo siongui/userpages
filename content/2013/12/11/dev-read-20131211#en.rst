@@ -37,7 +37,8 @@ math:
 Python:
 
   `A Guide to Python's Magic Methods <http://www.rafekettler.com/magicmethods.html>`_
-  (`HN news <https://news.ycombinator.com/item?id=6886411>`__)
+  (`HN news <https://news.ycombinator.com/item?id=6886411>`__,
+  Simplified Chinese translation `1 <http://www.oschina.net/translate/python-magicmethods>`__)
 
   `Writing a full-text search engine using Bloom filters <http://www.stavros.io/posts/bloom-filter-search-engine/>`_
   (`HN news <https://news.ycombinator.com/item?id=6887084>`__)
