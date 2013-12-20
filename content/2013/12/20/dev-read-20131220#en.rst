@@ -26,10 +26,15 @@ Cryptography:
   `A Crypto Challenge For The Telegram Developers <http://thoughtcrime.org/blog/telegram-crypto-challenge/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6936539>`__)
 
+  `Crypto Fails — Telegram's Cryptanalysis Contest <http://www.cryptofails.com/post/70546720222/telegrams-cryptanalysis-contest>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=6940665>`__)
+
 Go:
 
   `Golang implementation of Bentley/McIlroy compression <https://github.com/cloudflare/bm>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6935784>`__)
+
+  `How To Use Martini to Serve Go Applications Behind an Nginx Server on Ubuntu <https://www.digitalocean.com/community/articles/how-to-use-martini-to-serve-go-applications-behind-an-nginx-server-on-ubuntu>`_
 
 Python:
 
@@ -46,7 +51,13 @@ Algorithm:
 Shell:
 
   `How to Create a Reverse Shell to Remotely Execute Root Commands Over Any Open Port Using NetCat or BASH <http://null-byte.wonderhowto.com/how-to/create-reverse-shell-remotely-execute-root-commands-over-any-open-port-using-netcat-bash-0132658/>`_
-  (Simplified Chinese translation `1 <http://www.aqee.net/create-reverse-shell-to-remotely-execute-root-commands-using-netcat-or-bash/>`__)
+  (Simplified Chinese translation `1 <http://www.aqee.net/create-reverse-shell-to-remotely-execute-root-commands-using-netcat-or-bash/>`__,
+  `2 <http://linux.cn/thread/12097/1/1/>`__)
+
+C:
+
+  `On the matter of strlcpy/strlcat acceptance by industry <http://marc.info/?l=openbsd-tech&m=138733933417096&w=2>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=6940368>`__)
 
 
 `Turn your Python and Javascript code into DOT flowcharts <https://github.com/scottrogowski/code2flow>`_
@@ -58,4 +69,14 @@ Coders Grid:
 
 
 Simplified Chinese:
+
+  `Hadoop YARN的发展史与详细解析 <http://www.csdn.net/article/2013-12-18/2817842-bd-hadoopyarn>`_
+
+  Python:
+
+    `爬取中国新闻 <http://www.oschina.net/code/snippet_556425_27452>`_
+
+Traditional Chinese:
+
+  `機器學習基石 (Machine Learning Foundations) <https://www.coursera.org/course/ntumlone>`_
 
