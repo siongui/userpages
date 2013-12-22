@@ -23,7 +23,9 @@ Python:
   `Advanced Data Structures in Python <http://pypix.com/python/advanced-data-structures-python/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6946883>`__)
 
-CSS:
+HTML/CSS:
+
+  `How to create 2-d charts using Html5 Canvas and CSS elements <http://www.xhtmljunction.com/blog/html5-canvas-tutorial/>`_
 
   `Hiding elements and CSS animations <http://rhumaric.com/2013/12/hiding-elements-and-css-animations/>`_
   (`monocle news <http://monocle.io/posts/how-to-smoothly-hide-an-element-with-css-animations>`__)

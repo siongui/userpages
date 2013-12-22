@@ -25,7 +25,8 @@ JavaScript:
 Cryptography:
 
   `A Crypto Challenge For The Telegram Developers <http://thoughtcrime.org/blog/telegram-crypto-challenge/>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=6936539>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=6936539>`__,
+  Simplified Chinese translation `1 <http://blog.jobbole.com/53759/>`__)
 
   `Crypto Fails — Telegram's Cryptanalysis Contest <http://www.cryptofails.com/post/70546720222/telegrams-cryptanalysis-contest>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6940665>`__)
