@@ -15,7 +15,8 @@
 Go:
 
   `Golang channels tutorial <http://guzalexander.com/2013/12/06/golang-channels-tutorial.html>`_
-  (`Simplified Chinese translation <http://www.oschina.net/translate/golang-channels-tutorial>`__)
+  (`Simplified Chinese translation <http://www.oschina.net/translate/golang-channels-tutorial>`__,
+  `2 <http://www.linuxeden.com/html/news/20131221/146662.html>`__)
 
 JavaScript:
 

@@ -80,6 +80,7 @@ Simplified Chinese:
   `Hadoop YARN的发展史与详细解析 <http://www.csdn.net/article/2013-12-18/2817842-bd-hadoopyarn>`_
 
   `不为人知的中国航天SpaceOS操作系统 <http://www.linuxeden.com/html/news/20131220/146630.html>`_
+  (`2 <http://www.oschina.net/news/47066/spaceos>`__)
 
   `图形图像库集合 <http://my.oschina.net/sweetdark/blog/186165>`_
 
