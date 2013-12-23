@@ -68,6 +68,8 @@ Python/Go:
 
   `The Gopher Academy Blog <http://blog.gopheracademy.com/>`_ (Go)
 
+  `Owen Ou's Blog <http://owenou.com/>`_
+
 Ruby:
 
   `GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS <http://robots.thoughtbot.com/>`_ (Ruby, SASS)
