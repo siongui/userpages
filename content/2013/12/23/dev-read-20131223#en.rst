@@ -13,6 +13,8 @@ Github:
   `Counting Stars on GitHub <http://adereth.github.io/blog/2013/12/23/counting-stars-on-github/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6954100>`__)
 
+  `Lazyhub - List your starred github repos that haven't been updated for a long time <http://lazyhub.info/>`_
+
 Git:
 
   `Use the Force, Luca - Jenkins Developer Wipes out a Month of Commits on GitHub <http://www.infoq.com/news/2013/11/use-the-force>`_
@@ -28,6 +30,8 @@ Go:
   `Go Advent Stocking Stuffer Bonus - Ginkgo and Gomega: BDD-Style Testing For Go <http://blog.gopheracademy.com/ginkgo>`_
 
   `Fast GitHub Command Line Client Written in Go <http://owenou.com/2013/12/22/fast-github-command-line-client-written-in-go.html>`_
+
+  `Go, RBSA and Fortran <http://www.doxsey.net/blog/go%2C-rbsa-and-fortran>`_
 
 Game:
 
@@ -97,7 +101,8 @@ Algorithm:
 (`HN discuss <https://news.ycombinator.com/item?id=6952965>`__)
 
 `Why my code and ideas are public <http://sivers.org/ws>`_
-(Simplified Chinese translation `1 <http://blog.jobbole.com/53879/>`__)
+(Simplified Chinese translation `1 <http://blog.jobbole.com/53879/>`__,
+`2 <http://www.oschina.net/news/47162/why-i-opensource-and-idea>`__)
 
 `Have a look at this picture <http://licson.net/post/have-a-look-at-this-picture/>`_
 

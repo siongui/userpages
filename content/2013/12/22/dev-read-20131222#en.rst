@@ -64,7 +64,8 @@ Nginx:
 
 `2013: A Year of Open Source at Facebook <https://code.facebook.com/posts/604847252884576/2013-a-year-of-open-source-at-facebook/>`_
 (Simplified Chinese translation `1 <http://www.oschina.net/translate/2013-a-year-of-open-source-at-facebook>`__,
-`2 <http://www.linuxeden.com/html/news/20131223/146734.html>`__)
+`2 <http://www.linuxeden.com/html/news/20131223/146734.html>`__,
+`3 <http://blog.jobbole.com/53961/>`__)
 
 
 Simplified Chinese:

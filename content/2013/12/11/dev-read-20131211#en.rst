@@ -42,7 +42,8 @@ Python:
   Simplified Chinese translation `1 <http://www.oschina.net/translate/python-magicmethods>`__)
 
   `Writing a full-text search engine using Bloom filters <http://www.stavros.io/posts/bloom-filter-search-engine/>`_
-  (`HN news <https://news.ycombinator.com/item?id=6887084>`__)
+  (`HN news <https://news.ycombinator.com/item?id=6887084>`__,
+  `HN discuss <https://news.ycombinator.com/item?id=6958735>`__)
 
   `Python tools for penetration testers <http://dirk-loss.de/python-tools.htm>`_
   (`HN news <https://news.ycombinator.com/item?id=6887762>`__)
