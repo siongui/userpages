@@ -28,7 +28,8 @@ JavaScript:
   `Server-generated JavaScript Responses <http://37signals.com/svn/posts/3697-server-generated-javascript-responses>`_
   (`HN news <https://news.ycombinator.com/item?id=6884377>`__,
   `Monocle <http://monocle.io/posts/server-generated-javascript-responses-by-david-of-37signals>`__,
-  `Simplified Chinese translation <http://www.oschina.net/translate/server-generated-javascript-responses>`__)
+  Simplified Chinese translation `1 <http://www.oschina.net/translate/server-generated-javascript-responses>`__,
+  `2 <http://www.linuxeden.com/html/news/20131225/146832.html>`__)
 
 math:
 

@@ -225,6 +225,10 @@ Simplified Chinese:
 
   `Crescent <http://www.crescentmoon.info/>`_ (math)
 
+  `MacTalk-池建强的随想录 <http://macshuo.com/>`_
+
+  `遥远的街市 <http://blog.henix.info/>`_
+
 `Wenli Zhang <http://zhangwenli.com/>`_
 
 `Zhong' blog <http://stupidgrass.github.io/blog/>`_

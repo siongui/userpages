@@ -28,7 +28,8 @@ Python:
 Github:
 
   `10 Million Repositories <https://github.com/blog/1724-10-million-repositories>`_
-  (Simplified Chinese translation `1 <http://www.oschina.net/news/47179/github-10-million-repositories>`__)
+  (Simplified Chinese translation `1 <http://www.oschina.net/news/47179/github-10-million-repositories>`__,
+  `2 <http://www.linuxeden.com/html/news/20131224/146822.html>`__)
 
 Magic:
 
@@ -107,6 +108,7 @@ Simplified Chinese:
   Github:
 
     `GitHub中国游记之CSDN——Git+Code=Gold <http://www.csdn.net/article/2013-12-23/2817890-GitHub-journal-in-China-Part2>`_
+    (`2 <http://www.linuxeden.com/html/news/20131225/146850.html>`__)
 
   HTML/CSS/JavaScript:
 

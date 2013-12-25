@@ -35,6 +35,8 @@ Dart Cheat Sheet `[Core] <http://dartlangfr.net/dart-cheat-sheet/core.html>`_,
 
 `Learning Dart <http://learningdart.org/>`_
 
+`Dart Screencasts <http://dartcasts.com/>`_
+
 blog:
 
   `Random posts about coding <http://financecoding.github.io/>`_

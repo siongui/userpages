@@ -122,6 +122,9 @@ Simplified Chinese:
   `备份整个网站数据 <http://my.oschina.net/alex001/blog/186774>`_
 
   `圣诞节快乐：来自程序员们的问候 <http://www.csdn.net/article/2013-12-23/2817894-Merry-Christmas>`_
+  (`2 <http://www.iteye.com/news/28605-Merry-Christmas>`__,
+  `3 <http://www.linuxeden.com/html/news/20131225/146868.html>`__,
+  `4 <http://blog.jobbole.com/54099/>`__)
 
   `WebSocket与Java <http://www.linuxeden.com/html/news/20131223/146766.html>`_
 
