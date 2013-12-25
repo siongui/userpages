@@ -44,6 +44,24 @@ Docker:
   `How Docker turned intricate Linux code into developer pixie dust <http://venturebeat.com/2013/12/23/how-docker-turned-intricate-linux-code-into-developer-pixie-dust/>`_
   (Simplified Chinese translation `1 <http://www.oschina.net/translate/how-docker-turned-intricate-linux-code-into-developer-pixie-dust>`__)
 
+Algorithm:
+
+  `New algorithm finds you, even in untagged photos <http://www.kurzweilai.net/new-algorithm-finds-you-even-in-untagged-photos>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=6961973>`__)
+
+CSS:
+
+  `Santa made out of CSS - Merry Christmas everyone <http://codepen.io/thirty-two-digital/pen/jpkuL>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=6962616>`__)
+
+Game:
+
+  `0 A.D. Alpha 15 - Osiris <http://play0ad.com/alpha-15-osiris/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=6961782>`__)
+
+
+`Essays from the funniest man in Microsoft Research <http://blogs.msdn.com/b/oldnewthing/archive/2013/12/24/10484402.aspx>`_
+(`HN discuss <https://news.ycombinator.com/item?id=6961248>`__)
 
 `A Forensic Overview of a Linux perlbot <http://sempersecurus.blogspot.com/2013/12/a-forensic-overview-of-linux-perlbot.html>`_
 (Simplified Chinese translation `1 <http://www.linuxeden.com/html/news/20131225/146859.html>`__)
@@ -52,7 +70,8 @@ Docker:
 (Simplified Chinese translation `1 <http://www.aqee.net/leave-your-day-job-and-develop-an-app/>`__,
 `2 <http://www.linuxeden.com/html/news/20131225/146824.html>`__,
 `3 <http://www.pythoner.cn/home/blog/leave-your-day-job-and-develop-an-app/>`__,
-`4 <http://blog.jobbole.com/54073/>`__)
+`4 <http://blog.jobbole.com/54073/>`__,
+`5 <http://www.oschina.net/news/47191/leave-your-day-job-and-develop-an-app>`__)
 
 `Drawing Christmas trees with TeX and LaTeX <http://tex.stackexchange.com/questions/39149/how-can-we-draw-a-christmas-tree-with-decorations-using-tikz>`_
 (`HN discuss <https://news.ycombinator.com/item?id=6962922>`__)
@@ -63,6 +82,9 @@ Docker:
 
 `HOWTO: Be more productive <http://www.aaronsw.com/weblog/productivity>`_
 (Simplified Chinese translation `1 <http://my.oschina.net/zhengyijie/blog/187510>`__)
+
+`Rosetta Code <http://rosettacode.org/wiki/Rosetta_Code>`_
+(`HN discuss <https://news.ycombinator.com/item?id=6963263>`__)
 
 
 Simplified Chinese:
@@ -91,6 +113,8 @@ Simplified Chinese:
 
     `求查看该目录下所有某种文本文件的总行数的脚本或命令 <http://www.oschina.net/question/262762_138990>`_
 
+    `理解 chroot <http://my.oschina.net/u/138210/blog/187395>`_
+
   Vim:
 
     `所需即所获：IDE = _plugins_ + vim <http://www.linuxeden.com/html/softuse/20131225/146838.html>`_
@@ -117,8 +141,16 @@ Simplified Chinese:
 
     `求递归算法时间复杂度：递归树 <http://my.oschina.net/fangshaowei/blog/187381>`_
 
+  Github:
+
+    `GitHub上最火的开源项目及编程语言是什么？ <http://www.csdn.net/article/2013-12-25/2817922-GitHub-open-source-language>`_
+
   `屌丝的立体效果的圣诞节下雪礼物 <http://www.oschina.net/code/snippet_867898_27547>`_
+
+  `canvas雪花飘啊飘，剩蛋节快乐， <http://www.oschina.net/code/snippet_942785_27553>`_
 
   `一个激活码泄露事故的发现过程和反思 <http://blog.jobbole.com/54120/>`_
 
   `ffmpeg <http://my.oschina.net/zhongwenhao/blog/187382>`_
+
+  `Google员工离职前必做的14件事情 <http://www.csdn.net/article/2013-12-25/2817916-google-employee-bucket-list>`_

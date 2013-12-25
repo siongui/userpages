@@ -50,6 +50,8 @@ Info:
 
   `Gopher Academy <http://www.gopheracademy.com/>`_ (Go)
 
+  `Rosetta Code <http://rosettacode.org/>`_
+
   Simplified Chinese:
 
     `图灵社区 <http://www.ituring.com.cn/>`_
