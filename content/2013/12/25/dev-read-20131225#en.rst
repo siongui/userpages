@@ -1,8 +1,8 @@
-<Sound of JS>, <>, etc.
-####################################################################
+<Sound of JS>, <0 A.D. Alpha 15 - Osiris>, <So, you want to crypto>, etc.
+#########################################################################
 
 :date: 2013-12-25 18:06
-:tags: JavaScript, Dart, HTML, Go, Shell, Linux, database, AI, Python, Docker
+:tags: JavaScript, Dart, HTML, Go, Shell, Linux, database, AI, Python, Docker, Cryptography
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-12-25
@@ -58,6 +58,11 @@ Game:
 
   `0 A.D. Alpha 15 - Osiris <http://play0ad.com/alpha-15-osiris/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6961782>`__)
+
+Cryptography:
+
+  `existential type crisis : So, you want to crypto <http://blog.existentialize.com/so-you-want-to-crypto.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=6960947>`__)
 
 
 `Essays from the funniest man in Microsoft Research <http://blogs.msdn.com/b/oldnewthing/archive/2013/12/24/10484402.aspx>`_
