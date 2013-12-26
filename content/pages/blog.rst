@@ -70,6 +70,8 @@ Python/Go:
 
   `Owen Ou's Blog <http://owenou.com/>`_
 
+  `Karan Misra <https://kidoman.com/>`_ (Go)
+
 Ruby:
 
   `GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS <http://robots.thoughtbot.com/>`_ (Ruby, SASS)
