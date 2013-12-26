@@ -118,6 +118,10 @@ Simplified Chinese:
 
     `WEB标准布局（DIV+CSS）学习笔记（二）--DIV的布局基础 <http://my.oschina.net/idearye/blog/187556>`_
 
+    Polymer:
+
+      `Polymer Code Lab <http://www.infoq.com/cn/presentations/polymer-code-lab>`_
+
   Compiler:
 
     `预编译指令详解 <http://my.oschina.net/u/1383479/blog/187577>`_
@@ -132,6 +136,9 @@ Simplified Chinese:
 
     `nodejs多线程，真正的非阻塞（转） <http://my.oschina.net/u/252343/blog/187867>`_
 
+    `在Node.js中搭建缓存管理模块 <http://www.infoq.com/cn/articles/built-cache-management-module-in-nodejs>`_
+    (`2 <http://www.linuxeden.com/html/news/20131226/146915.html>`__)
+
   News:
 
     `CyanogenMod 想成为第三大移动操作系统 <http://www.ifanr.com/391343>`_
@@ -144,3 +151,17 @@ Simplified Chinese:
 
     `Linux和开源已经在2013年开始悄悄主宰世界? <http://www.linuxeden.com/html/news/20131226/146895.html>`_
     (`2 <http://www.csdn.net/article/2013-12-25/2817914>`__)
+
+  database:
+
+    `简单十步让你全面理解SQL <http://www.oschina.net/question/615783_138620>`_
+
+  OpenGL:
+
+    `OpenGL超级宝典笔记——选择 <http://my.oschina.net/sweetdark/blog/188110>`_
+
+Traditional Chinese:
+
+  News:
+
+    `Google 收購的八家機器人公司探秘 <http://www.inside.com.tw/2013/12/26/introduction-of-8-robotics-companies-acquired-by-google>`_

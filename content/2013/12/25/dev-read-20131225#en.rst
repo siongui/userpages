@@ -113,6 +113,7 @@ Simplified Chinese:
     `终极 Shell <http://macshuo.com/?p=676>`_
 
     `成为 Linux 终端高手的七种武器 <http://linux.cn/thread/12121/1/1/>`_
+    (`2 <http://www.linuxeden.com/html/softuse/20131226/146901.html>`__)
 
     `获取当前系统使用的语言 <http://www.oschina.net/code/snippet_926655_27543>`_
 
