@@ -63,7 +63,8 @@ Python:
   `Essential SQLAlchemy Tips and Techniques <http://pypix.com/tools-and-tips/essential-sqlalchemy/>`_
 
   `Useful Python Functions and Features You Need to Know <http://pypix.com/tools-and-tips/python-functions/>`_
-  (Simplified Chinese translation `1 <http://www.oschina.net/translate/python-functions>`__)
+  (你需要知道的、有用的 Python 功能和特点 `1 <http://www.oschina.net/translate/python-functions>`__,
+  `2 <http://www.linuxeden.com/html/news/20131226/146876.html>`__)
 
   `Debugging Python Like a Boss <https://zapier.com/engineering/debugging-python-boss/>`_
   (Simplified Chinese translation `1 <http://blog.jobbole.com/52171/>`__,
