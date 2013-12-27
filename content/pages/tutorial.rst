@@ -34,3 +34,7 @@
 `A Programmer's Guide to Data Mining | The Ancient Art of the Numerati <http://guidetodatamining.com/>`_
 
 `egghead.io (AngularJS learning) <http://egghead.io/>`_
+
+Traditional Chinese:
+
+  `CodeData <http://codedata.github.io/>`_

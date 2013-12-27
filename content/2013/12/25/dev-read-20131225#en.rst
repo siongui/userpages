@@ -42,7 +42,8 @@ HTML5:
 Docker:
 
   `How Docker turned intricate Linux code into developer pixie dust <http://venturebeat.com/2013/12/23/how-docker-turned-intricate-linux-code-into-developer-pixie-dust/>`_
-  (Simplified Chinese translation `1 <http://www.oschina.net/translate/how-docker-turned-intricate-linux-code-into-developer-pixie-dust>`__)
+  (Docker 如何将错综复杂的 Linux 代码转成开发者的魔法 `1 <http://www.oschina.net/translate/how-docker-turned-intricate-linux-code-into-developer-pixie-dust>`__,
+  `2 <http://www.linuxeden.com/html/news/20131227/146925.html>`__)
 
 Algorithm:
 
@@ -160,3 +161,4 @@ Simplified Chinese:
   `ffmpeg <http://my.oschina.net/zhongwenhao/blog/187382>`_
 
   `Google员工离职前必做的14件事情 <http://www.csdn.net/article/2013-12-25/2817916-google-employee-bucket-list>`_
+  (`2 <http://www.linuxeden.com/html/itnews/20131226/146909.html>`__)

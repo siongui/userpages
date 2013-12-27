@@ -150,7 +150,8 @@ Simplified Chinese:
     `谷歌搜索引擎未来方向：终极个人助理服务 <http://www.linuxeden.com/html/news/20131226/146894.html>`_
 
     `Linux和开源已经在2013年开始悄悄主宰世界? <http://www.linuxeden.com/html/news/20131226/146895.html>`_
-    (`2 <http://www.csdn.net/article/2013-12-25/2817914>`__)
+    (`2 <http://www.csdn.net/article/2013-12-25/2817914>`__,
+    `3 <http://linux.cn/thread/12131/1/1/>`__)
 
   database:
 
