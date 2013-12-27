@@ -26,6 +26,8 @@
 
 `w3cschool菜鸟教程 <http://www.w3cschool.cc/>`_
 
+`HTML5 Tutorial For Beginners <http://www.html5tutorial4u.com/>`_
+
 `Learn PHP - Free Interactive PHP Tutorial <http://learn-php.org/>`_
 
 `List of Free Programming Books <http://resrc.io/>`_
