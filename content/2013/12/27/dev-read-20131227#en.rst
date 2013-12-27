@@ -2,7 +2,7 @@
 ############################################################################################################
 
 :date: 2013-12-27 18:53
-:tags: JavaScript, math, Git, CSS, SVG, HTML, functional programming
+:tags: JavaScript, math, Git, CSS, SVG, HTML, functional programming, Go, OS
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-12-27
@@ -14,21 +14,37 @@ Git:
   (开发者日常使用的 Git 命令 `1 <http://blog.jobbole.com/54184/>`__,
   `2 <http://www.linuxeden.com/html/develop/20131227/146945.html>`__)
 
+OS:
+
+  `Xv6, a simple Unix-like teaching operating system <http://pdos.csail.mit.edu/6.828/2012/xv6.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=6971127>`__)
 
 HTML/CSS/JavaScript:
 
-  `Demystifying this in JavaScript <http://flippinawesome.org/2013/12/09/demystifying-this-in-javascript/>`_
-  (揭秘JavaScript中谜一样的this `1 <http://www.cnblogs.com/yanhaijing/p/3494489.html>`__)
+  JavaScript:
 
-  `JavaScript Developer Survey 2013: Results <http://dailyjs.com/2013/12/12/javascript-survey-results/>`_
-  (DailyJS：2013年JavaScript开发人员调查结果 `1 <http://blog.jobbole.com/54254/>`__,
-  `2 <http://www.cnblogs.com/yanhaijing/p/3492867.html>`__,
-  `3 <http://www.linuxeden.com/html/news/20131227/146956.html>`__)
+    `Demystifying this in JavaScript <http://flippinawesome.org/2013/12/09/demystifying-this-in-javascript/>`_
+    (揭秘JavaScript中谜一样的this `1 <http://www.cnblogs.com/yanhaijing/p/3494489.html>`__)
+
+    `JavaScript Developer Survey 2013: Results <http://dailyjs.com/2013/12/12/javascript-survey-results/>`_
+    (DailyJS：2013年JavaScript开发人员调查结果 `1 <http://blog.jobbole.com/54254/>`__,
+    `2 <http://www.cnblogs.com/yanhaijing/p/3492867.html>`__,
+    `3 <http://www.linuxeden.com/html/news/20131227/146956.html>`__)
+
+    `A Deeper Dive Into JavaScript Promises <http://www.sitepoint.com/deeper-dive-javascript-promises/>`_
+
+  CSS:
+
+    `Make Sure Your Columns Don’t Collapse Horizontally <http://css-tricks.com/make-sure-columns-dont-collapse-horizontally/>`_
 
   `Devtools Console, from Novice to Ninja <http://daker.me/2013/12/devtools-console-from-novice-to-ninja.html>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6968426>`__)
 
   `How to Animate Festive SVG Icons With CSS <http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/how-to-animate-festive-svg-icons-with-css/>`_
+
+  `Responsive icons made with a single div element <http://codepen.io/jordanoaragao/pen/dHczD>`_
+
+  `A simple DIY responsive image slideshow made with HTML5, CSS3, and JavaScript <http://themarklee.com/2013/12/26/simple-diy-responsive-slideshow-made-html5-css3-javascript>`_
 
 math:
 
@@ -59,6 +75,12 @@ funny:
   `3 <http://linux.cn/thread/12130/1/1/>`__,
   `4 <http://www.linuxeden.com/html/news/20131227/146919.html>`__,
   `5 <http://www.oschina.net/news/47254/how-to-kill-a-dragon-with-various-programming-languages>`__)
+
+Go:
+
+  `upper.io/db <https://upper.io/db>`_
+
+  `go get Github Gist <https://plus.google.com/103436039737060740989/posts/MHmCSh1vsQr>`_
 
 
 `The best online marketing tools for webpreneurs <https://online-marketing-tools.zeef.com/rick.boerebach>`_
@@ -99,6 +121,10 @@ Simplified Chinese:
   JavaScript:
 
     `前端规范 <http://my.oschina.net/gejiawen0913/blog/188240>`_
+
+  Assembly:
+
+    `smali 汇编语言的设计与实现 <http://www.infoq.com/cn/presentations/smali-assembly-language-design-and-implementation>`_
 
   OpenCV:
 

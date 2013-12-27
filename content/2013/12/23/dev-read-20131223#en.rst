@@ -56,7 +56,8 @@ COBOL:
 Hadoop:
 
   `The three most common ways data junkies are using Hadoop <http://gigaom.com/2013/12/15/the-three-most-common-ways-data-junkies-are-using-hadoop/>`_
-  (Simplified Chinese translation `1 <http://www.csdn.net/article/2013-12-19/2817850-apache-hadoop-data-junkies>`__)
+  (数据控有三种最常用方式使用Hadoop `1 <http://www.csdn.net/article/2013-12-19/2817850-apache-hadoop-data-junkies>`__,
+  `2 <http://www.linuxeden.com/html/news/20131228/146962.html>`__)
 
 Business:
 
