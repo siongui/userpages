@@ -13,6 +13,9 @@ Game:
   `The Console Living Room <https://archive.org/details/consolelivingroom>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6971134>`__)
 
+  `Huge Collection of MAME ROMs from The Internet Archive <https://archive.org/details/MAME_0.151_ROMs>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=6974938>`__)
+
 math:
 
   `5 insanely great books about mathematics you should read. <http://wp.kjro.se/2013/12/27/5-insanely-great-books-about-mathematics-you-should-read/>`_
@@ -30,6 +33,8 @@ JavaScript:
   `2 <http://www.linuxeden.com/html/news/20131228/146970.html>`__)
 
   `JavaScript gains support for SIMD <http://www.2ality.com/2013/12/simd-js.html>`_
+
+  `WebGL Tombstone – lighting model <http://www.pheelicks.com/2013/12/webgl-tombstone-lighting-model/>`_
 
 CSS:
 
@@ -78,6 +83,9 @@ Design:
 `Trolling homework questions - sorting <http://codegolf.stackexchange.com/questions/16226/trolling-homework-questions-sorting>`_
 (`HN discuss <https://news.ycombinator.com/item?id=6973010>`__)
 
+`Don’t Use Try/Catch [2010] <http://codebetter.com/karlseguin/2010/01/25/don-t-use-try-catch/>`_
+(`HN discuss <https://news.ycombinator.com/item?id=6975269>`__)
+
 
 Simplified Chinese:
 
@@ -92,6 +100,8 @@ Simplified Chinese:
   `开源免费天气预报接口API以及全国所有地区代码！！（国家气象局提供） <http://my.oschina.net/solome/blog/188489>`_
 
   `伯乐访谈：吴博 – WordPress主题作者的绝境与重生 <http://blog.jobbole.com/54278/>`_
+
+  `如何在 VirtualBox 中安装 SteamOS <http://linux.cn/thread/12136/1/1/>`_
 
   OS:
 
