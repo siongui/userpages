@@ -30,6 +30,8 @@
 
   * `HN news <https://news.ycombinator.com/item?id=6817336>`__
 
+  * `HN discuss <https://news.ycombinator.com/item?id=6980085>`__
+
 - `The q element <http://www.growingwiththeweb.com/2013/11/the-q-element.html>`_
 
 - `Front End Web Development Quiz By David Shariff <http://davidshariff.com/quiz/>`_

@@ -33,6 +33,7 @@ JavaScript:
   `2 <http://www.linuxeden.com/html/news/20131228/146970.html>`__)
 
   `JavaScript gains support for SIMD <http://www.2ality.com/2013/12/simd-js.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=6975515>`__)
 
   `WebGL Tombstone – lighting model <http://www.pheelicks.com/2013/12/webgl-tombstone-lighting-model/>`_
 
@@ -102,6 +103,7 @@ Simplified Chinese:
   `伯乐访谈：吴博 – WordPress主题作者的绝境与重生 <http://blog.jobbole.com/54278/>`_
 
   `如何在 VirtualBox 中安装 SteamOS <http://linux.cn/thread/12136/1/1/>`_
+  (`2 <http://www.linuxeden.com/html/softuse/20131229/147000.html>`__)
 
   OS:
 

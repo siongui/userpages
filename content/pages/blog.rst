@@ -177,6 +177,8 @@ Ruby:
 
 `Michael G. Noll <http://www.michael-noll.com/>`_ (Applied Research. Big Data. Distributed Systems. Open Source.)
 
+`FastML <http://fastml.com/>`_ (Machine learning made easy)
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_
