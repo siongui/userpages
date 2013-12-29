@@ -2,7 +2,7 @@
 ########################################################################
 
 :date: 2013-12-30 02:46
-:tags: node.js, C++, HTML, DOM, Makefile, math, JavaScript
+:tags: node.js, C++, HTML, DOM, Makefile, math, JavaScript, Algorithm
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-12-30
@@ -45,6 +45,14 @@ JavaScript:
 
   `What if letters could move? JS type path animation. <http://www.anitype.com/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6980753>`__)
+
+Algorithm:
+
+  `The Pancake Problem. <http://www.math.uiuc.edu/~west/openp/pancake.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=6981114>`__)
+
+  `9 Hole Code Golf Challenge <http://codegolf.stackexchange.com/questions/16707/9-hole-challenge>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=6981017>`__)
 
 
 Simplified Chinese:

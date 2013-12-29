@@ -107,7 +107,7 @@ C/C++:
 
 Simplified Chinese:
 
-  `你试过这样写C程序吗？ <http://my.oschina.net/redraiment/blog/188571>` (推薦閱讀!!!
+  `你试过这样写C程序吗？ <http://my.oschina.net/redraiment/blog/188571>`_ (推薦閱讀!!!
   用C語言的範例介紹Object-Oriented Programming跟Functional Programming兩種不同風格的寫程式方法!)
 
   `epoll介绍 <http://my.oschina.net/chen0dgax/blog/188724>`_
