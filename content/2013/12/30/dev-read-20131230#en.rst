@@ -128,6 +128,10 @@ Simplified Chinese:
 
   `技术栈的选择：从Groupon转向Node.js、淘宝去IOE谈起 <http://www.csdn.net/article/2013-12-30/2817970-technology-stack-choices>`_
 
+  `Google App Engine & Cloud Overview <http://www.infoq.com/cn/presentations/google-app-engine-cloud-overview>`_
+
+  `超大型电商系统架构解密 <http://www.infoq.com/cn/presentations/decryption-of-large-electricity-system-architecture>`_
+
   Front End:
 
     `2013 前端技术盘点 <http://cnberg.com/archive/2013-fe/>`_
@@ -150,5 +154,6 @@ Simplified Chinese:
   News:
 
     `Linux是抵御“声传恶意软件”的唯一方法 <http://linux.cn/thread/12143/1/1/>`_
+    (`2 <http://www.linuxeden.com/html/news/20131230/147042.html>`__)
 
     `回顾2013软件开发：JavaScript领风骚 <http://www.csdn.net/article/2013-12-30/2817965-app-dev-2013-the-winners-and-losers>`_

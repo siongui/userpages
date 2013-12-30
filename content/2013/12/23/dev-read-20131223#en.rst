@@ -80,7 +80,8 @@ math:
 JavaScript:
 
   `45 Useful JavaScript Tips, Tricks and Best Practices <http://flippinawesome.org/2013/12/23/45-useful-javascript-tips-tricks-and-best-practices/>`_
-  (20个超实用的JavaScript技巧及最佳实践 `1 <http://www.csdn.net/article/2013-12-27/2817938-45-Useful-JavaScript-Tips>`__)
+  (20个超实用的JavaScript技巧及最佳实践 `1 <http://www.csdn.net/article/2013-12-27/2817938-45-Useful-JavaScript-Tips>`__,
+  45个实用的JavaScript技巧、窍门和最佳实践 `1 <http://flippinawesome.org/2013/12/23/45-useful-javascript-tips-tricks-and-best-practices/>`__)
 
 C:
 
