@@ -1,7 +1,7 @@
 <About Python 3>, etc.
 ###############################################################################################
 
-:date: 2013-12-30 01:23
+:date: 2013-12-31 01:23
 :tags: Python, Algorithm, C, CSS
 :category: Dev Read
 :author: Siong-Ui Te
