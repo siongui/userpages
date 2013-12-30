@@ -79,8 +79,6 @@ Simplified Chinese:
 
   `进入保护模式（六）保护模式下中断的安装 <http://my.oschina.net/u/1185580/blog/187255>`_
 
-  `简单十步让你全面理解SQL <http://www.oschina.net/question/615783_138620>`_
-
   `linux GDB <http://my.oschina.net/yulongjiang/blog/187275>`_
 
   `Verilog HDL语言 <http://my.oschina.net/u/267968/blog/187001>`_
@@ -88,6 +86,10 @@ Simplified Chinese:
   `简述：Unix/Linux内存管理 <http://my.oschina.net/u/1169027/blog/187044>`_
 
   `互联网世界的毒瘤——僵尸网络 <http://my.oschina.net/gooper/blog/187048>`_
+
+  database:
+
+    `简单十步让你全面理解SQL <http://www.oschina.net/question/615783_138620>`_
 
   C/C++:
 

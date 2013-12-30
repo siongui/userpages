@@ -61,7 +61,8 @@ Go:
 
   `Go 1.3+ Compiler Overhaul <https://docs.google.com/document/d/1P3BLR31VA8cvLJLfMibSuTdwTuF7WWLux71CYD0eeD8/preview?sle=true>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6932026>`__,
-  Simplified Chinese translation `1 <http://www.oschina.net/translate/go-1-3-compiler-overhaul>`__)
+  Go 1.3+ 编译器变革 `1 <http://www.oschina.net/translate/go-1-3-compiler-overhaul>`__,
+  `2 <http://www.linuxeden.com/html/news/20131230/147021.html>`__)
 
 
   `Go Advent Day 19 - Eject the Web <http://blog.gopheracademy.com/day-19-eject-the-web>`_

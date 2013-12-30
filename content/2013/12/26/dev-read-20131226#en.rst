@@ -13,7 +13,8 @@ Python:
   `Functional Programming in Python <http://pypix.com/python/functional-programming/>`_
 
   `Starting a Django 1.6 Project the Right Way <http://www.jeffknupp.com/blog/2013/12/18/starting-a-django-16-project-the-right-way/>`_
-  (以正确的方式开始一个 Django 1.6 项目 `1 <http://www.oschina.net/translate/starting-a-django-16-project-the-right-way>`__)
+  (以正确的方式开始一个 Django 1.6 项目 `1 <http://www.oschina.net/translate/starting-a-django-16-project-the-right-way>`__,
+  `2 <http://www.linuxeden.com/html/news/20131230/147020.html>`__)
 
 HTML/CSS/JavaScript:
 
@@ -152,10 +153,6 @@ Simplified Chinese:
     `Linux和开源已经在2013年开始悄悄主宰世界? <http://www.linuxeden.com/html/news/20131226/146895.html>`_
     (`2 <http://www.csdn.net/article/2013-12-25/2817914>`__,
     `3 <http://linux.cn/thread/12131/1/1/>`__)
-
-  database:
-
-    `简单十步让你全面理解SQL <http://www.oschina.net/question/615783_138620>`_
 
   OpenGL:
 
