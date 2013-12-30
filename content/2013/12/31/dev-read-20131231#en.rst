@@ -2,7 +2,7 @@
 ###############################################################################################
 
 :date: 2013-12-31 01:23
-:tags: Python, Algorithm, C, CSS
+:tags: Python, Algorithm, C, CSS, PHP
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2013-12-31
@@ -13,15 +13,30 @@ Python:
   `About Python 3 (Hacker News discussion) <https://news.ycombinator.com/item?id=6985207>`_
   (`post <http://alexgaynor.net/2013/dec/30/about-python-3/>`__)
 
+  `Metaprogramming in Python <http://pypix.com/python/metaprogramming-python/>`_
+
 Algorithm:
 
   `No, The TSP Isn't NP Complete <https://www.ibm.com/developerworks/community/blogs/jfp/entry/no_the_tsp_isn_t_np_complete>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6985304>`__)
 
+  `How do I find the longest palindrome in a string? <http://codegolf.stackexchange.com/questions/16327/how-do-i-find-the-longest-palindrome-in-a-string>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=6985870>`__)
+
 C:
 
   `Dangerous Embedded C Coding Standard Rules (2011) <http://embeddedgurus.com/barr-code/2011/08/dont-follow-these-5-dangerous-coding-standard-rules/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6984970>`__)
+
+database:
+
+  `MySQL vs PostgreSQL: Which Open Source Database to Choose? Which one is best? <http://theprofessionalspoint.blogspot.com/2013/12/mysql-vs-postgresql-which-open-source.html>`_
+  (MySQL与PostgreSQL：该选择哪个开源数据库？哪一个更好？ `1 <http://www.infoq.com/cn/news/2013/12/mysql-vs-postgresql>`_
+
+PHP:
+
+  `24 Cool PHP Libraries You Should Know About <http://tutorialzine.com/2013/02/24-cool-php-libraries-you-should-know-about/>`_
+  (PHP开发者应了解的24个库 `1 <http://blog.jobbole.com/54201/>`__)
 
 
 Simplified Chinese:
