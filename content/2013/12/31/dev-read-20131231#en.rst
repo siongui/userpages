@@ -1,5 +1,5 @@
-<About Python 3>, <MySQL vs PostgreSQL>, etc.
-###############################################################################################
+<About Python 3>, <chartkick.py>, <MySQL vs PostgreSQL>, etc.
+#############################################################
 
 :date: 2013-12-31 07:37
 :tags: Python, Algorithm, C, CSS, PHP, JavaScript, database, Dart
