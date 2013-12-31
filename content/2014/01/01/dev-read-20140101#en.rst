@@ -18,6 +18,11 @@ Python:
 
   `The Best of Python in 2013 <http://pypix.com/roundups/best-python-2013/>`_
 
+Algorithm:
+
+  `Eight queens visualization and solution in CoffeeScript <http://jetheis.com/blog/2013/12/01/programming-interview-question-eight-queens/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=6992338>`__)
+
 Dart:
 
   `Google Compute + Docker + Dart <http://work.j832.com/2013/12/google-compute-docker-dart.html>`_

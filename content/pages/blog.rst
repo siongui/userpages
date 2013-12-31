@@ -179,6 +179,8 @@ Ruby:
 
 `FastML <http://fastml.com/>`_ (Machine learning made easy)
 
+`Jimmy Theis <http://jetheis.com/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_
