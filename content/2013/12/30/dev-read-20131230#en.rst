@@ -76,7 +76,8 @@ Security:
   (`HN discuss <https://news.ycombinator.com/item?id=6982205>`__)
 
   `SD Cards Aren’t As Secure As We Think <http://techcrunch.com/2013/12/29/sd-cards-arent-as-secure-as-we-think/>`_
-  (SD 卡并不如我们想象中安全 `1 <http://www.oschina.net/translate/sd-cards-arent-as-secure-as-we-think>`__)
+  (SD 卡并不如我们想象中安全 `1 <http://www.oschina.net/translate/sd-cards-arent-as-secure-as-we-think>`__,
+  `2 <http://www.linuxeden.com/html/news/20131231/147055.html>`__)
 
 Ruby:
 
