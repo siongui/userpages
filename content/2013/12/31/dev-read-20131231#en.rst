@@ -75,6 +75,9 @@ Web Service:
 `twister | P2P microblogging platform <http://twister.net.co/>`_
 (`HN discuss <https://news.ycombinator.com/item?id=6987396>`__)
 
+`BSDNT - a BSD licensed bignum library v1.0 <https://github.com/wbhart/bsdnt>`_
+(`HN discuss <https://news.ycombinator.com/item?id=6990233>`__)
+
 
 Simplified Chinese:
 
@@ -85,6 +88,16 @@ Simplified Chinese:
   `我们的开源项目：网易和京东如何拥抱开源 <http://www.linuxeden.com/html/news/20131230/147045.html>`_
 
   `【开源访谈】Seafile 作者徐家强访谈实录 <http://www.oschina.net/question/12_139572>`_
+
+  `新手学数据结构，求推荐书籍或者方法 <http://segmentfault.com/q/1010000000322305>`_
+
+  `【CSDN云计算俱乐部】RSS与爬虫——从如何搜集数据开始 <http://www.csdn.net/article/2013-12-30/2817969-RSS-big-data>`_
+
+  Algorithm:
+
+    `数据挖掘十大经典算法之一--APRIOR 及python实现 <http://blog.csdn.net/wodemimi/article/details/8306825>`_
+
+    `回文字 <http://www.oschina.net/code/snippet_1270276_27662>`_
 
   Mobile:
 
@@ -106,6 +119,17 @@ Simplified Chinese:
 
     `数据仓库的基本架构 <http://my.oschina.net/leejun2005/blog/189035>`_
 
+    `盘点2013：21款最优秀的开源数据库 <http://www.csdn.net/article/2013-12-31/2817973-Open-Source-Databases>`_
+
+  Vim:
+
+    `vim中自动补齐括号引号的插件 <http://segmentfault.com/q/1010000000343455>`_
+
+  Python:
+
+    `用 Python 脚本实现对 Linux 服务器的监控 <http://www.ibm.com/developerworks/cn/linux/1312_caojh_pythonlinux/index.html>`_
+    (`2 <http://blog.jobbole.com/54563/>`__)
+
   News:
 
     `《明镜》揭秘NSA工具库：思科华为产品被攻破 <http://www.oschina.net/news/47377/nsa-toolkits>`_
@@ -113,3 +137,25 @@ Simplified Chinese:
     `Linux之父：讨厌封闭 回绝乔布斯 <http://www.cnbeta.com/articles/266513.htm>`_
     (`2 <http://www.linuxeden.com/html/news/20131231/147057.html>`__)
 
+    `国外科技公司实习生平均薪资对比 <http://blog.jobbole.com/53197/>`_
+
+    `纽约时报：未来电脑可模拟人脑思维方式 <http://tech.sina.com.cn/it/2013-12-30/15199054145.shtml>`_
+    (`2 <http://www.geekfan.net/4770/>`__)
+
+    `2014年谷歌将给世界带来什么？ <http://blog.jobbole.com/54559/>`_
+
+    `在GPU上运行Hadoop任务？ParallelX或许将带来更多帮助 <http://www.infoq.com/cn/news/2013/12/hadoop-gpu-parallelx>`_
+    (`2 <http://www.linuxeden.com/html/news/20131231/147079.html>`__)
+
+    `API业务模型：如果通过API获取回报 <http://www.infoq.com/cn/articles/api-business-models>`_
+    (`2 <http://www.linuxeden.com/html/news/20131231/147080.html>`__)
+
+    `Ruby 2.1发布，带来新的垃圾收集器 <http://www.infoq.com/cn/news/2013/12/ruby21>`_
+
+    `盘点2013年最受欢迎13款火狐扩展 <http://blog.jobbole.com/54534/>`_
+
+    `类大脑计算机，一个可以适应并从经验中学习的计算机 <http://www.csdn.net/article/2013-12-31/2817971>`_
+
+    `专访APU13讲师、西电朱虎明：概念难以理解成异构编程最大阻力 <http://www.csdn.net/article/2013-12-31/2817978-Different-Heterogeneous-Computing-development-environments-at-home-and-abroad>`_
+
+    `见证中国开源的力量：“开源力量”2013年度庆典活动亮点汇总 <http://www.csdn.net/article/2013-12-31/2817982-open-source>`_

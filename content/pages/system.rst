@@ -40,6 +40,10 @@ blog:
 
   `Chris Siebenmann <http://utcc.utoronto.ca/~cks/>`_
 
+  `The Julipedia <http://julipedia.meroh.net/>`_
+  (A mixed bag of articles on programming (C, C++, shell and others); operating systems (FreeBSD and NetBSD); software packaging (pkgsrc); software testing (Kyua); and open source in general.
+  By Julio Merino.)
+
   security:
 
     `www.secalert.net <http://www.secalert.net/>`_
