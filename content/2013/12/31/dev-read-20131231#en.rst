@@ -135,7 +135,8 @@ Simplified Chinese:
     `《明镜》揭秘NSA工具库：思科华为产品被攻破 <http://www.oschina.net/news/47377/nsa-toolkits>`_
 
     `Linux之父：讨厌封闭 回绝乔布斯 <http://www.cnbeta.com/articles/266513.htm>`_
-    (`2 <http://www.linuxeden.com/html/news/20131231/147057.html>`__)
+    (`2 <http://www.linuxeden.com/html/news/20131231/147057.html>`__,
+    `3 <http://linux.cn/thread/12149/1/1/>`__)
 
     `国外科技公司实习生平均薪资对比 <http://blog.jobbole.com/53197/>`_
 

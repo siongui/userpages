@@ -35,10 +35,11 @@ Programming Languages:
   (`HN discuss <https://news.ycombinator.com/item?id=6914177>`__)
 
   `History of Programming Languages Must Know [Infographic] <http://www.justwebworld.com/history-programming-languages-infographic.html>`_
-  (Simplified Chinese translation `1 <http://www.aqee.net/history-of-programming-languages-must-know/>`__,
+  (作为程序员必须知道的编程语言编年史 `1 <http://www.aqee.net/history-of-programming-languages-must-know/>`__,
   `2 <http://www.pythoner.cn/home/blog/history-of-programming-languages-must-know/>`__,
   `3 <http://www.linuxeden.com/html/news/20131216/146419.html>`__,
-  `4 <http://www.oschina.net/news/46882/history-of-programming-languages-must-know>`__)
+  `4 <http://www.oschina.net/news/46882/history-of-programming-languages-must-know>`__,
+  `5 <http://linux.cn/thread/12155/1/1/>`__)
 
 Statci Web Site:
 
