@@ -2,7 +2,7 @@
 ########################################################################################################
 
 :date: 2014-01-01 02:21
-:tags: Data Science, Python, Dart, Git, Algorithm, Git, Go, database
+:tags: Data Science, Python, Dart, Git, Algorithm, Git, Go, database, C, C++, JavaScript
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-01
@@ -55,10 +55,20 @@ Web service:
   `Watch pg write an essay in real time <https://code.stypi.com/hacks/13sentences?doomed=true>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6993060>`__)
 
+JavaScript:
+
+  `React: Another Level of Indirection <http://www.lispcast.com/react-another-level-of-indirection>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=6994945>`__)
+
 C:
 
   `Learn C The Hard Way -- the online course <https://www.inculcate.me/school/courses/4/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6993768>`__)
+
+C++:
+
+  `Series on Implementing Basic Data Structures in C++ <http://maclanewilkison.com/arrays/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=6994972>`__)
 
 `Best Paper Awards in Computer Science (since 1996) <http://jeffhuang.com/best_paper_awards.html>`_
 (`HN discuss <https://news.ycombinator.com/item?id=6992010>`__)
@@ -103,8 +113,13 @@ Simplified Chinese:
   `【OSChina-MoPaaS应用开发大赛】个人导航网站 <http://my.oschina.net/u/1384765/blog/189386>`_
 
   `伯乐访谈之程序员在国外：余露 – Android开发者在新加坡 <http://blog.jobbole.com/54478/>`_
+  (`2 <http://www.linuxeden.com/html/news/20140101/147101.html>`__)
 
   News:
 
     `漫画解说2013年IT行业大事件 <http://tech.qq.com/a/20131231/000786.htm>`_
     (`2 <http://linux.cn/thread/12150/1/1/>`__)
+
+    `高通将于明年推出民用神经形态处理器 <http://www.pythoner.cn/home/blog/brainlike-computers-learning-from-experience/>`_
+
+    `通过数据了解2013年的社会化新闻网站Reddit <http://www.pythoner.cn/home/blog/data-2013-reddit/>`_

@@ -235,6 +235,8 @@ Simplified Chinese:
 
   `遥远的街市 <http://blog.henix.info/>`_
 
+  `老赵点滴 - 追求编程之美 <http://blog.zhaojie.me/>`_
+
 `Wenli Zhang <http://zhangwenli.com/>`_
 
 `Zhong' blog <http://stupidgrass.github.io/blog/>`_
