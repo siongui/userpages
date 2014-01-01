@@ -2,7 +2,7 @@
 ########################################################################################################
 
 :date: 2014-01-01 02:21
-:tags: Data Science, Python, Dart, Git, Algorithm
+:tags: Data Science, Python, Dart, Git, Algorithm, Git, Go
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-01
@@ -16,7 +16,8 @@ Data Science:
 
   `7 command-line tools for data science <http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6412190>`__,
-  七个用于数据科学(data science)的命令行工具 `1 <http://blog.jobbole.com/54308/>`__)
+  七个用于数据科学(data science)的命令行工具 `1 <http://blog.jobbole.com/54308/>`__,
+  `2 <http://www.linuxeden.com/html/news/20140101/147090.html>`__)
 
 Python:
 
@@ -35,11 +36,26 @@ Dart:
 
   `Google Compute + Docker + Dart <http://work.j832.com/2013/12/google-compute-docker-dart.html>`_
 
+Go:
+
+  `gettext-go <https://code.google.com/p/gettext-go/>`_
+
+  `Macro View of Map Internals In Go <http://www.goinggo.net/2013/12/macro-view-of-map-internals-in-go.html>`_
+
+database:
+
+  `The Next Generation Query Planner - SQLite <http://www.sqlite.org/queryplanner-ng.html>`_
+  (下一代的 SQLite 查询规划器 `1 <http://www.oschina.net/translate/sqlite-queryplanner-ng>`__)
+
 Web service:
 
   `Watch pg write an essay in real time <https://code.stypi.com/hacks/13sentences?doomed=true>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6993060>`__)
 
+C:
+
+  `Learn C The Hard Way -- the online course <https://www.inculcate.me/school/courses/4/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=6993768>`__)
 
 `Best Paper Awards in Computer Science (since 1996) <http://jeffhuang.com/best_paper_awards.html>`_
 (`HN discuss <https://news.ycombinator.com/item?id=6992010>`__)
@@ -51,3 +67,14 @@ Web service:
 
 Simplified Chinese:
 
+  Git:
+
+    `Git初学者的7个建议 <http://my.oschina.net/u/1420250/blog/189206>`_
+
+    `Git使用基础 <http://my.oschina.net/u/1429079/blog/189227>`_
+
+  Python:
+
+    `Python 定制类的特殊方法 <http://my.oschina.net/lionets/blog/189326>`_
+
+  `进程与线程的区别 <http://my.oschina.net/u/811744/blog/189284>`_
