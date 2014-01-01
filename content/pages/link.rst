@@ -12,6 +12,8 @@
 
 `Dart Programming Language <{filename}./dart.rst>`_
 
+`Go Programming Language <{filename}./golang.rst>`_
+
 `GNU/Linux/System <{filename}./system.rst>`_
 
 `Miscellaneous <{filename}./misc.rst>`_
@@ -47,8 +49,6 @@ Info:
   `altJS - Web coding without JavaScript. <http://altjs.org/>`_
 
   `Monocle <http://monocle.io/>`_
-
-  `Gopher Academy <http://www.gopheracademy.com/>`_ (Go)
 
   `Rosetta Code <http://rosettacode.org/>`_
 

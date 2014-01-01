@@ -11,8 +11,6 @@ Python/Go:
 
   `Agiliq Blog | Django web app development <http://agiliq.com/blog/>`_ (many basic Python tutorials)
 
-  `Code Gangsta <http://codegangsta.io/>`_ (Go)
-
   `Michael Herman <http://mherman.org/>`_ (Python, JavaScript)
 
   `Software development et al - Stavros' Stuff <http://www.stavros.io/>`_
@@ -21,11 +19,7 @@ Python/Go:
 
   `Laurent Luce's Blog <http://www.laurentluce.com/>`_
 
-  `pheelicks.com | blog <http://www.pheelicks.com/>`_ (Go programming language)
-
   `JJinuxLand <http://jjinux.blogspot.com/>`_ (Python, Ruby, Dart, etc.)
-
-  `Ø value - a wysiwyg hypertext cyberblog <http://0value.com/>`_ (Go)
 
   `Dev Blog <http://mohd-akram.github.io/>`_ (Python)
 
@@ -34,15 +28,9 @@ Python/Go:
 
   `Julia Evans <http://jvns.ca/>`_
 
-  `Version 7.0 - Damien's Blog <http://blog.damienradtke.org/>`_ (Go, C)
-
-  `Matt Aimonetti <http://matt.aimonetti.net/>`_ (Ruby, Go)
-
   `Real Python! Blog <http://www.realpython.com/blog/>`_
 
   `nvie.com <http://nvie.com/>`_
-
-  `Justinas Stankevičius <http://justinas.org/>`_ (Go)
 
   `(still) nothing clever <http://gromgull.net/blog/>`_ (Python, machine learning)
 
@@ -52,13 +40,7 @@ Python/Go:
 
   `Guz Alexander <http://guzalexander.com/>`_
 
-  `Labix <http://labix.org/>`_ (Go)
-
   `Midnight Coding <http://nicoddemus.github.io/>`_ (Python)
-
-  `Going Go Programming <http://www.goinggo.net/>`_
-
-  `blog.campoy.cat <http://blog.campoy.cat/>`_ (Go)
 
   `preshing on programming <http://preshing.com/>`_ (C++, Python)
 
@@ -66,11 +48,7 @@ Python/Go:
 
   `Random stream <http://kracekumar.com/>`_
 
-  `The Gopher Academy Blog <http://blog.gopheracademy.com/>`_ (Go)
-
   `Owen Ou's Blog <http://owenou.com/>`_
-
-  `Karan Misra <https://kidoman.com/>`_ (Go)
 
 Ruby:
 
@@ -224,8 +202,6 @@ Simplified Chinese:
   `颜海镜 <http://www.cnblogs.com/yanhaijing/>`_
 
   `飞龙非龙 <http://feilong.me/>`_
-
-  `博客 -  chai2010的个人页面 <http://my.oschina.net/chai2010/blog>`_ (Go)
 
   `董的博客 <http://dongxicheng.org/>`_ {关注大规模数据处理相关开源技术，包括：YARN/MRv2，MRv1，Corona， Mesos} 
 

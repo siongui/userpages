@@ -1,0 +1,37 @@
+:title: Golang
+:lang: en
+:status: hidden
+
+
+`Gopher Academy <http://www.gopheracademy.com/>`_ (Go)
+
+`Gorilla, the golang web toolkit <http://www.gorillatoolkit.org/>`_
+
+Blog:
+
+  `Code Gangsta <http://codegangsta.io/>`_ (Go)
+
+  `pheelicks.com | blog <http://www.pheelicks.com/>`_ (Go programming language)
+
+  `Ø value - a wysiwyg hypertext cyberblog <http://0value.com/>`_ (Go)
+
+  `Version 7.0 - Damien's Blog <http://blog.damienradtke.org/>`_ (Go, C)
+
+  `Matt Aimonetti <http://matt.aimonetti.net/>`_ (Ruby, Go)
+
+  `Justinas Stankevičius <http://justinas.org/>`_ (Go)
+
+  `Labix <http://labix.org/>`_ (Go)
+
+  `blog.campoy.cat <http://blog.campoy.cat/>`_ (Go)
+
+  `Going Go Programming <http://www.goinggo.net/>`_
+
+  `The Gopher Academy Blog <http://blog.gopheracademy.com/>`_ (Go)
+
+  `Karan Misra <https://kidoman.com/>`_ (Go)
+
+  Simplified Chinese:
+  
+    `博客 -  chai2010的个人页面 <http://my.oschina.net/chai2010/blog>`_ (Go)
+
