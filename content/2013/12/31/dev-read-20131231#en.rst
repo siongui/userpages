@@ -128,7 +128,8 @@ Simplified Chinese:
   Python:
 
     `用 Python 脚本实现对 Linux 服务器的监控 <http://www.ibm.com/developerworks/cn/linux/1312_caojh_pythonlinux/index.html>`_
-    (`2 <http://blog.jobbole.com/54563/>`__)
+    (`2 <http://blog.jobbole.com/54563/>`__,
+    `3 <http://www.pythoner.cn/home/blog/use-python-script-to-monitor-linux-server/>`__)
 
   News:
 

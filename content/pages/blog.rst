@@ -213,6 +213,8 @@ Simplified Chinese:
 
   `老赵点滴 - 追求编程之美 <http://blog.zhaojie.me/>`_
 
+  `Tao Gao <http://joegaotao.github.io/>`_
+
 `Wenli Zhang <http://zhangwenli.com/>`_
 
 `Zhong' blog <http://stupidgrass.github.io/blog/>`_

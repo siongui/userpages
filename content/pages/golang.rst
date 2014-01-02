@@ -3,9 +3,13 @@
 :status: hidden
 
 
-`Gopher Academy <http://www.gopheracademy.com/>`_ (Go)
+`Go Programming Language Resources <http://go-lang.cat-v.org/>`_
+
+`Gopher Academy <http://www.gopheracademy.com/>`_
 
 `Gorilla, the golang web toolkit <http://www.gorillatoolkit.org/>`_
+
+`Golang(Go Language) Examples <http://golang-examples.tumblr.com/>`_
 
 Blog:
 
