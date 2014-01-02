@@ -40,7 +40,8 @@ database:
 
   `MySQL vs PostgreSQL: Which Open Source Database to Choose? Which one is best? <http://theprofessionalspoint.blogspot.com/2013/12/mysql-vs-postgresql-which-open-source.html>`_
   (MySQL与PostgreSQL：该选择哪个开源数据库？哪一个更好？ `1 <http://www.infoq.com/cn/news/2013/12/mysql-vs-postgresql>`__,
-  `2 <http://www.linuxeden.com/html/news/20131231/147051.html>`__)
+  `2 <http://www.linuxeden.com/html/news/20131231/147051.html>`__,
+  `3 <http://www.oschina.net/news/47440/mysql-vs-postgresql>`__)
 
 CSS:
 

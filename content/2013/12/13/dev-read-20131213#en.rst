@@ -81,7 +81,8 @@ C++:
 Python:
 
   `Build a Website Crawler based upon Scrapy <http://pypix.com/python/build-website-crawler-based-upon-scrapy/>`_
-  (Simplified Chinese translation `1 <http://www.oschina.net/translate/build-website-crawler-based-upon-scrapy>`__)
+  (使用Scrapy建立一个网站抓取器 `1 <http://www.oschina.net/translate/build-website-crawler-based-upon-scrapy>`__,
+  `2 <http://www.linuxeden.com/html/news/20140102/147107.html>`__)
 
   `Tracking Changes in Directories with Python <http://thomassileo.com/blog/2013/12/12/tracking-changes-in-directories-with-python/>`_
   (`HN news <https://news.ycombinator.com/item?id=6899631>`__)
