@@ -1,8 +1,8 @@
-<How Netflix Reverse Engineered Hollywood>, <The Best To-Do List: A Private Gist>, etc.
-#######################################################################################
+<How Netflix Reverse Engineered Hollywood>, <The Best To-Do List: A Private Gist>, <Building an Optimising Compiler for Dart>, etc.
+###################################################################################################################################
 
 :date: 2014-01-03 14:02
-:tags: Python, Dart, JavaScript, Data Science, Go
+:tags: Python, Dart, JavaScript, Data Science, Raspberry Pi, Go, HTML, Canvas
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-03
@@ -23,6 +23,10 @@ Data Science:
   `My experience with Kaggle's data-science competitions <http://dhruvbhatia.com/thoughts/kaggle-data-science-competitions/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7004944>`__)
 
+Poll:
+
+  `Code2013 - What programming languages have you used this year? <http://code2013.herokuapp.com/>`_
+
 Python:
 
   `Improve Your Python: Metaclasses and Dynamic Classes With Type <http://www.jeffknupp.com/blog/2013/12/28/improve-your-python-metaclasses-and-dynamic-classes-with-type/>`_
@@ -34,9 +38,11 @@ Python:
   `Python 2.x vs 3.x survey results <https://wiki.python.org/moin/2.x-vs-3.x-survey>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7005711>`__)
 
-JavaScript:
+JavaScript/HTML:
 
   `ECharts.js, Enterprise Level Charts Rendering Javascript Library <http://www.codersgrid.com/2014/01/03/echarts-js-enterprise-level-charts-rendering-javascript-library/>`_
+
+  `Canvas Tutorial <http://billmill.org/static/canvastutorial/>`_
 
 Web Service:
 
@@ -45,9 +51,15 @@ Web Service:
 
 Dart:
 
-  `game_parking, developed with dartling, based on the Rush Hour game. <http://learningdart.org/app/game_parking/game_parking.html>`_
+  `Building an Optimising Compiler for Dart <http://www.infoq.com/presentations/dart-compiler>`_
 
   `Dart Realtime Web Framework <https://github.com/jorishermans/dart-force>`_
+
+  `Dart automatic deployment in the cloud (GitHub, Drone, Heroku) <http://gereinhartasdartisan.blogspot.com/2014/01/dart-automatic-deployment-in-cloud.html>`_
+
+  `game_parking, developed with dartling, based on the Rush Hour game. <http://learningdart.org/app/game_parking/game_parking.html>`_
+
+  `Magic Boxes in Dart <http://goo.gl/If02AH>`_
 
 Raspberry Pi:
 
@@ -63,6 +75,7 @@ Embedded System:
 
   `Rex – palm-sized, single-board computer for DIY robots <http://www.kickstarter.com/projects/alphalem/rex-the-brain-for-robots>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7000877>`__)
+
 
 `Drawing fractals with PostgreSQL <http://explainextended.com/2013/12/31/happy-new-year-5/>`_
 (`HN discuss <https://news.ycombinator.com/item?id=7001418>`__)

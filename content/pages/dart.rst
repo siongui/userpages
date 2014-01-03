@@ -56,3 +56,7 @@ blog:
   `japh(r) by Chris Strom <http://japhr.blogspot.com/>`_
 
   `DartGameDevs <http://www.dartgamedevs.org/>`_
+
+  `(GeReinhart as Dartisan).blog <http://gereinhartasdartisan.blogspot.com/>`_
+
+  `On Dart <http://dzenanr.github.io/>`_
