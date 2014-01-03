@@ -54,6 +54,8 @@ Info:
 
   Simplified Chinese:
 
+    `TECH2IPO创见 - 关注互联网创业与科技创业创新 <http://tech2ipo.com/>`_
+
     `图灵社区 <http://www.ituring.com.cn/>`_
 
     `OurJS <http://ourjs.com/>`_

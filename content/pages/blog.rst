@@ -217,6 +217,8 @@ Simplified Chinese:
 
   `ivaneeo's blog - BlogJava <http://www.blogjava.net/ivanwan/>`_
 
+  `乱象，印迹 <http://www.luanxiang.org/blog/>`_
+
 `Wenli Zhang <http://zhangwenli.com/>`_
 
 `Zhong' blog <http://stupidgrass.github.io/blog/>`_

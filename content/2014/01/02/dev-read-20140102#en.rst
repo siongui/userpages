@@ -78,7 +78,8 @@ Simplified Chinese:
   `冯大辉谈技术会议：干货是要自己去挖的 <http://www.infoq.com/cn/interviews/fengdahui-talk-technical-meetings-the-drysaltery-need-to-dig-by-themselves>`_
 
   `提升软件开发者效率的10个提示 <http://www.infoq.com/cn/news/2014/01/10-productivity-tips>`_
-  (`2 <http://www.linuxeden.com/html/news/20140103/147122.html>`__)
+  (`2 <http://www.linuxeden.com/html/news/20140103/147122.html>`__,
+  `3 <http://my.oschina.net/myaniu/blog/189917>`__)
 
   `自由软件和开源协议 <http://macshuo.com/?p=984>`_
 
