@@ -215,6 +215,8 @@ Simplified Chinese:
 
   `Tao Gao <http://joegaotao.github.io/>`_
 
+  `ivaneeo's blog - BlogJava <http://www.blogjava.net/ivanwan/>`_
+
 `Wenli Zhang <http://zhangwenli.com/>`_
 
 `Zhong' blog <http://stupidgrass.github.io/blog/>`_

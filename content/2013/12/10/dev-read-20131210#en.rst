@@ -17,10 +17,11 @@
 (`HN news <https://news.ycombinator.com/item?id=6879667>`__)
 
 `Develop on Windows as if it was Unix <http://gosukiwi-blog.tumblr.com/post/68542618062/develop-on-windows-as-if-it-was-unix>`_
-(Simplified Chinese translation `1 <http://www.aqee.net/develop-on-windows-as-if-it-was-unix/>`__,
+(如何在微软Windows平台上打造出你的Linux开发环境 `1 <http://www.aqee.net/develop-on-windows-as-if-it-was-unix/>`__,
 `2 <http://www.linuxeden.com/html/news/20131210/146232.html>`__,
 `3 <http://www.oschina.net/news/46712/develop-on-windows-as-if-it-was-unix>`__,
-`4 <http://www.pythoner.cn/home/blog/develop-on-windows-as-if-it-was-unix/>`__)
+`4 <http://www.pythoner.cn/home/blog/develop-on-windows-as-if-it-was-unix/>`__,
+`5 <http://linux.cn/thread/12163/1/1/>`__)
 
 `10 basic examples of Linux ps command <http://www.binarytides.com/linux-ps-command/>`_
 (Simplified Chinese translation `1 <http://linux.cn/thread/12046/1/1/>`__,
