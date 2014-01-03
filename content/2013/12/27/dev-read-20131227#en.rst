@@ -25,7 +25,8 @@ HTML/CSS/JavaScript:
 
     `Demystifying this in JavaScript <http://flippinawesome.org/2013/12/09/demystifying-this-in-javascript/>`_
     (揭秘JavaScript中谜一样的this `1 <http://www.cnblogs.com/yanhaijing/p/3494489.html>`__,
-    `2 <http://blog.jobbole.com/54267/>`__)
+    `2 <http://blog.jobbole.com/54267/>`__,
+    `3 <http://www.linuxeden.com/html/news/20140103/147127.html>`__)
 
     `JavaScript Developer Survey 2013: Results <http://dailyjs.com/2013/12/12/javascript-survey-results/>`_
     (DailyJS：2013年JavaScript开发人员调查结果 `1 <http://blog.jobbole.com/54254/>`__,

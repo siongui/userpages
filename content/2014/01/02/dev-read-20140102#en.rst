@@ -95,6 +95,8 @@ Simplified Chinese:
     `开源中国翻译频道贡献第6期(11-12月)奖励名单 <http://www.oschina.net/news/47445/oschina-translate-prize-6th>`_
 
     `CDO：首席数据官的时代已经到来 <http://www.pythoner.cn/home/blog/the-cdo-age-has-come/>`_
+    (`2 <http://www.linuxeden.com/html/news/20140103/147130.html>`__,
+    `3 <http://www.oschina.net/news/47457/the-chief-data-officer-an-executive-whose-time-has-come>`__)
 
     `如何培养创造力：别学编程，学绘画 <http://blog.jobbole.com/54648/>`_
     (`2 <http://www.linuxeden.com/html/itnews/20140102/147120.html>`__)
@@ -103,6 +105,7 @@ Simplified Chinese:
     (`2 <http://www.linuxeden.com/html/news/20140102/147109.html>`__)
 
     `IDC：开发人员就业增长率放缓 <http://blog.jobbole.com/54682/>`_
+    (`2 <http://www.linuxeden.com/html/news/20140103/147128.html>`__)
 
     `阿西莫夫三大定律与机器人法则的现实性 <http://www.linuxeden.com/html/itnews/20140102/147112.html>`_
 
