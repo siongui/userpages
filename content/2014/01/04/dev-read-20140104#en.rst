@@ -1,8 +1,8 @@
-<Talking Raspberry Pi using Python>, <The Future of Neural Networks & MLaaS>, etc.
-###############################################################################################
+<Talking Raspberry Pi using Python>, <The Future of Neural Networks & MLaaS>, <Using Rust for an Undergraduate OS Course>, etc.
+###############################################################################################################################
 
 :date: 2014-01-04 03:19
-:tags: AI, Raspberry Pi, Data Science, math, Python, Go, CSS
+:tags: AI, Raspberry Pi, Data Science, math, Python, Go, CSS, Rust, Programming, Algorithm
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-04
@@ -34,6 +34,11 @@ Programming:
 
   `Using Rust for an Undergraduate OS Course <http://rust-class.org/pages/using-rust-for-an-undergraduate-os-course.html>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7009414>`__)
+
+Security:
+
+  `Reverse engineering my bank's security token <http://valverde.me/2014/01/03/reverse-engineering-my-bank's-security-token/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7009368>`__)
 
 
 `The Difficulty Of Private Contact Discovery <https://whispersystems.org/blog/contact-discovery/>`_
@@ -79,6 +84,8 @@ Simplified Chinese:
 
     `Django的一目了然 <http://my.oschina.net/u/1432929/blog/190152>`_
 
+    `python beautifulsoup抓取小说练习 <http://www.oschina.net/code/snippet_137631_27745>`_
+
   database:
 
     `hive-mysql的关系（Hive集成Mysql作为元数据） <http://my.oschina.net/winHerson/blog/190131>`_
@@ -122,11 +129,17 @@ Simplified Chinese:
 
     `火车售票算法和数据库性能测试 <http://my.oschina.net/iboxdb/blog/189832>`_
 
-    `排序算法笔记：基数排序 RadixSort <http://my.oschina.net/u/1386498/blog/190076>`_
+    `排序算法笔记：基数排序 RadixSort <http://my.oschina.net/u/1386498/blog/190076>`_ (Java)
+
+    `并行求解n皇后问题 <http://www.oschina.net/code/snippet_1164813_27739>`_ (Scala)
 
     `算法导论复习:第八章和第九章 <http://my.oschina.net/voler/blog/190108>`_
 
     `算法导论复习:第十章 <http://my.oschina.net/voler/blog/190155>`_
+
+    `快速排序 <http://www.oschina.net/code/snippet_1426516_27741>`_
+
+    `常用的两个排序算法 <http://www.oschina.net/code/snippet_565749_27742>`_
 
   R:
 
