@@ -2,7 +2,7 @@
 ###############################################################################################################################
 
 :date: 2014-01-04 03:19
-:tags: AI, Raspberry Pi, Data Science, math, Python, Go, CSS, Rust, Programming, Algorithm
+:tags: AI, Raspberry Pi, Data Science, math, Python, Go, CSS, Rust, Programming, Algorithm, C
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-04
@@ -12,6 +12,8 @@ Raspberry Pi & Python:
 
   `Talking Raspberry Pi using Python <http://rollcode.com/talking-raspberry-pi-using-python/>`_
   (用Python让树莓派“说话” `1 <http://www.geekfan.net/4839/>`__)
+
+  `Developer Tools in Python <http://pypix.com/tools-and-tips/developer-tools/>`_
 
 math:
 
@@ -34,6 +36,11 @@ Programming:
 
   `Using Rust for an Undergraduate OS Course <http://rust-class.org/pages/using-rust-for-an-undergraduate-os-course.html>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7009414>`__)
+
+  C:
+
+    `Object oriented programming with ANSI-C <https://ritdml.rit.edu/bitstream/handle/1850/8544/ASchreinerBook1993.pdf?sequence=1>`_
+    (`HN discuss <https://news.ycombinator.com/item?id=7011540>`__)
 
 Security:
 
@@ -78,6 +85,12 @@ Simplified Chinese:
 
   `谷歌将推无版权费的VP9 4K视频编码，与H.265竞争 <http://www.oschina.net/news/47490/no-copyright-vp9-4k-encoding>`_
 
+  `无法维护的代码 <http://my.oschina.net/clarkhill/blog/190166>`_
+
+  `【翻译】github 搜索团队访谈 <http://my.oschina.net/tsl0922/blog/190180>`_
+
+  `软件开发过程中的平台、技术选择 <http://www.infoq.com/cn/presentations/platform-technology-selection-in-software-development-process>`_
+
   Python:
 
     `tornado session <http://my.oschina.net/1123581321/blog/190133>`_
@@ -107,6 +120,10 @@ Simplified Chinese:
 
     `javascript获取鼠标点击事件的位置 <http://my.oschina.net/dingjunnan/blog/190107>`_
 
+    `解析JavaScript的事件机制 <http://my.oschina.net/chape/blog/190185>`_
+
+    `JavaScript事件封装 <http://my.oschina.net/chape/blog/190176>`_
+
   OS:
 
     `#legoo内核# -- 准则二 ：让每一个程序只做好一件事 <http://my.oschina.net/qfhxj/blog/190035>`_
@@ -114,6 +131,8 @@ Simplified Chinese:
   Linux:
 
     `linux中fork（）函数详解(转载) <http://my.oschina.net/u/260264/blog/190039>`_
+
+    `当linux内存用完的时候（译） <http://my.oschina.net/u/929415/blog/190174>`_
 
   Shell:
 
