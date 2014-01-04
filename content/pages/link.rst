@@ -1,5 +1,6 @@
 :title: Link
 :lang: en
+:status: hidden
 
 
 `Front End <{filename}./frontend.rst>`_

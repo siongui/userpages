@@ -2,7 +2,7 @@
 ##########################################################################################
 
 :date: 2014-01-05 03:33
-:tags: Python, C++, math
+:tags: Python, C++, math, Go
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-05
@@ -30,6 +30,10 @@ math:
 
   `The Mathematics of Gamification <http://engineering.foursquare.com/2014/01/03/the-mathematics-of-gamification/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7012185>`__)
+
+Go:
+
+  `6.824 Lab 1: Lock Server <http://pdos.csail.mit.edu/6.824/labs/lab-1.html>`_
 
 
 Simplified Chinese:
