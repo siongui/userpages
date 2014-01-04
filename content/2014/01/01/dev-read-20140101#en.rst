@@ -48,7 +48,8 @@ database:
   (下一代的 SQLite 查询规划器 `1 <http://www.oschina.net/translate/sqlite-queryplanner-ng>`__)
 
   `Fun with Bugs #28 - regression bugs in MySQL 5.6 <http://mysqlentomologist.blogspot.com/2013/12/fun-with-bugs-28-regression-bugs-in.html>`_
-  (有趣的 Bugs #28 —— MySQL 5.6 回归测试中的问题 `1 <http://www.oschina.net/translate/fun-with-bugs-28-regression-bugs-in-mysql>`__)
+  (有趣的 Bugs #28 —— MySQL 5.6 回归测试中的问题 `1 <http://www.oschina.net/translate/fun-with-bugs-28-regression-bugs-in-mysql>`__,
+  `2 <http://www.linuxeden.com/html/news/20140104/147170.html>`__)
 
 Web service:
 

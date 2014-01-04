@@ -30,6 +30,11 @@ Compiler:
   `Clojure to Objective-C compiler <https://github.com/joshaber/clojurem>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7008829>`__)
 
+Programming:
+
+  `Using Rust for an Undergraduate OS Course <http://rust-class.org/pages/using-rust-for-an-undergraduate-os-course.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7009414>`__)
+
 
 `The Difficulty Of Private Contact Discovery <https://whispersystems.org/blog/contact-discovery/>`_
 (`HN discuss <https://news.ycombinator.com/item?id=7007554>`__)
@@ -40,6 +45,15 @@ Compiler:
 `Read your Damn Standard Libraries <http://blog.codingforinterviews.com/reading-code-standard-libraries/>`_
 (`HN discuss <https://news.ycombinator.com/item?id=7006262>`__)
 
+`Haskell vs. Erlang for bittorent clients (2010) <http://jlouisramblings.blogspot.ca/2010/04/haskell-vs-erlang-for-bittorent-clients.html>`_
+(`HN discuss <https://news.ycombinator.com/item?id=7009534>`__)
+
+
+Go:
+
+  `Show HN: LINQ for Go <https://github.com/ahmetalpbalkan/go-linq>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7010000>`__)
+
 CSS:
 
   `The 30 CSS Selectors you Must Memorize <http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/>`_
@@ -49,12 +63,15 @@ CSS:
 Simplified Chinese:
 
   `2014年1月编程语言排行榜，Transact-SQL是年度编程语言 <http://blog.jobbole.com/51782/>`_
-  (`2 <http://www.linuxeden.com/html/news/20140104/147155.html>`__)
+  (`2 <http://www.linuxeden.com/html/news/20140104/147155.html>`__,
+  `3 <http://www.oschina.net/news/47489/tiobe-2014-january>`__)
 
   `D语言重回TIBOE排名前20 <http://www.solidot.org/story?sid=37896>`_
   (`2 <http://www.linuxeden.com/html/news/20140104/147163.html>`__)
 
   `漫谈: 黑客，NSA与自由软件 <http://www.solidot.org/story?sid=37897>`_
+
+  `谷歌将推无版权费的VP9 4K视频编码，与H.265竞争 <http://www.oschina.net/news/47490/no-copyright-vp9-4k-encoding>`_
 
   Python:
 
@@ -81,6 +98,8 @@ Simplified Chinese:
     `StackOverFlow精彩问答赏析：有jQuery背景的开发者如何建立起AngularJS的思维 <http://my.oschina.net/myaniu/blog/190037>`_
     (`2 <http://hanzheng.github.io/tech/angularjs/2013/10/28/translate-how-do-i-in-angularjs-if-i-have-a-jquery-background.html>`__)
 
+    `javascript获取鼠标点击事件的位置 <http://my.oschina.net/dingjunnan/blog/190107>`_
+
   OS:
 
     `#legoo内核# -- 准则二 ：让每一个程序只做好一件事 <http://my.oschina.net/qfhxj/blog/190035>`_
@@ -101,7 +120,13 @@ Simplified Chinese:
 
   Algorithm:
 
+    `火车售票算法和数据库性能测试 <http://my.oschina.net/iboxdb/blog/189832>`_
+
     `排序算法笔记：基数排序 RadixSort <http://my.oschina.net/u/1386498/blog/190076>`_
+
+    `算法导论复习:第八章和第九章 <http://my.oschina.net/voler/blog/190108>`_
+
+    `算法导论复习:第十章 <http://my.oschina.net/voler/blog/190155>`_
 
   R:
 
@@ -110,6 +135,10 @@ Simplified Chinese:
   Git:
 
     `Git 使用笔记 <http://my.oschina.net/tongjh/blog/190070>`_
+
+  C++:
+
+    `初学者1000行+< C++控制台贪吃蛇 > <http://www.oschina.net/code/snippet_1265060_27744>`_
 
   `hadoop-streaming 例子 <http://my.oschina.net/winHerson/blog/190067>`_
 

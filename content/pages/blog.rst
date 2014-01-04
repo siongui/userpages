@@ -225,6 +225,8 @@ Simplified Chinese:
 
   `知蚁博客-又一个WordPress站点 <http://www.letuknowit.com/>`_
 
+  `龙渊阁 紫红的泪 - 博客园 <http://www.cnblogs.com/codingmylife/>`_
+
 `Wenli Zhang <http://zhangwenli.com/>`_
 
 `Zhong' blog <http://stupidgrass.github.io/blog/>`_

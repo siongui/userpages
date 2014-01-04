@@ -41,3 +41,4 @@ Blog:
 
     `博客 -  chai2010的个人页面 <http://my.oschina.net/chai2010/blog>`_ (Go)
 
+    `skoo <http://www.bigendian123.com/>`_
