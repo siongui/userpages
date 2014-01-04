@@ -82,6 +82,7 @@ Simplified Chinese:
   (`2 <http://www.linuxeden.com/html/news/20140104/147163.html>`__)
 
   `漫谈: 黑客，NSA与自由软件 <http://www.solidot.org/story?sid=37897>`_
+  (`2 <http://www.oschina.net/news/47502/hacker-nsa-and-free-software>`__)
 
   `谷歌将推无版权费的VP9 4K视频编码，与H.265竞争 <http://www.oschina.net/news/47490/no-copyright-vp9-4k-encoding>`_
 

@@ -227,6 +227,8 @@ Simplified Chinese:
 
   `龙渊阁 紫红的泪 - 博客园 <http://www.cnblogs.com/codingmylife/>`_
 
+  `Bit Focus <http://blog.bitfoc.us/>`_
+
 `Wenli Zhang <http://zhangwenli.com/>`_
 
 `Zhong' blog <http://stupidgrass.github.io/blog/>`_

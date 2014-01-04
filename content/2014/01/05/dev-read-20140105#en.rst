@@ -18,6 +18,9 @@ Python:
   `How Python 3 Should Have Worked - Aaron Swartz [2012] <http://www.aaronsw.com/weblog/python3>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7012239>`__)
 
+  `Python 3.3: Trust Me, It's Better Than Python 2.7 <https://speakerdeck.com/pyconslides/python-3-dot-3-trust-me-its-better-than-python-2-dot-7-by-dr-brett-cannon>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7013438>`__)
+
 C++:
 
   `ISO C++ 2D API <http://tirania.org/blog/archive/2014/Jan-04.html>`_
@@ -38,3 +41,11 @@ Go:
 
 Simplified Chinese:
 
+  JavaScript:
+
+    `JavaScript事件冒泡 <http://my.oschina.net/chape/blog/190198>`_
+
+  Python:
+
+    `索引统计与 Python 字典 <http://blog.bitfoc.us/?p=517>`_
+    (`2 <http://my.oschina.net/leejun2005/blog/190213>`__)
