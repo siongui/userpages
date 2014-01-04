@@ -219,6 +219,12 @@ Simplified Chinese:
 
   `乱象，印迹 <http://www.luanxiang.org/blog/>`_
 
+  `Han Zheng - Code better, Live better <http://hanzheng.github.io/>`_
+
+  `Chen Shan | A Software Developer <http://chen-shan.net/>`_
+
+  `知蚁博客-又一个WordPress站点 <http://www.letuknowit.com/>`_
+
 `Wenli Zhang <http://zhangwenli.com/>`_
 
 `Zhong' blog <http://stupidgrass.github.io/blog/>`_

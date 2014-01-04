@@ -148,6 +148,7 @@ Simplified Chinese:
     (`2 <http://my.oschina.net/lujian863/blog/189803>`__)
 
     `2013年度最强AngularJS资源合集 <http://www.csdn.net/article/2014-01-03/2818005-AngularJS-Google-resource>`_
+    (`2 <http://www.linuxeden.com/html/news/20140104/147156.html>`__)
 
   Vim:
 

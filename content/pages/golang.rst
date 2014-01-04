@@ -36,6 +36,8 @@ Blog:
   `Karan Misra <https://kidoman.com/>`_ (Go)
 
   Simplified Chinese:
-  
+
+    `Golang 中国博客 <http://blog.go-china.org/>`_ (推薦!!!)
+
     `博客 -  chai2010的个人页面 <http://my.oschina.net/chai2010/blog>`_ (Go)
 
