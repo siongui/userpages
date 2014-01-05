@@ -2,11 +2,15 @@
 ##########################################################################################
 
 :date: 2014-01-05 03:33
-:tags: Python, C++, math, Go
+:tags: Python, C++, math, Go, C
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-05
 
+
+C:
+
+  `22nd International Obfuscated C Code Contest (2013) <http://ioccc.org/years.html#2013>`_
 
 PC Emulator:
 
