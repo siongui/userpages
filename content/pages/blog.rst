@@ -260,7 +260,8 @@ Traditional Chinese:
 
   `Lu-six Person's Notes <http://lucien.cc/>`_
 
-  `Xexex's Java 和其他二三事 <http://www.javaworld.com.tw/roller/ingramchen/>`_
+  `Xexex's Java 和其他二三事 <http://ingramchen.io/>`_
+  (`Old <http://www.javaworld.com.tw/roller/ingramchen/>`__)
 
   `aShare <http://wcc723.github.io/>`_
 

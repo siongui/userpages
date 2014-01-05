@@ -216,6 +216,7 @@ Simplified Chinese:
   `#legoo内核# -- 准则一 ：小即是美 <http://my.oschina.net/qfhxj/blog/189694>`_
 
   `关于Cassandra的错误观点 <http://www.infoq.com/cn/articles/cassandra-mythology>`_
+  (`2 <http://www.linuxeden.com/html/database/20140105/147198.html>`__)
 
   `嵌入式软件之定时器的设计 <http://my.oschina.net/rade/blog/189825>`_
 
