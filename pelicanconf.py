@@ -71,8 +71,8 @@ META_KEYWORDS = 'Python, SCSS, Web, blog'
 META_DESCRIPTION = 'Theory and Practice - Web programming'
 
 # Facebook Social Plugins › Comments Plugin
-#FB_APPID = ''
-#FB_COMMENTS = True
+FB_APPID = '193055307554766'
+FB_COMMENTS = True
 
 PLUGIN_PATH = "plugins"
 PLUGINS = ["gist", "code"]
