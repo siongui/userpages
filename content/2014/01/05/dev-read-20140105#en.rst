@@ -103,6 +103,7 @@ Simplified Chinese:
   Java:
 
     `今日Java——Cay Horstmann访谈 <http://www.infoq.com/cn/articles/java_cay_horstmann>`_
+    (`2 <http://www.linuxeden.com/html/news/20140106/147205.html>`__)
 
   JavaScript:
 
@@ -141,6 +142,7 @@ Simplified Chinese:
   Linux:
 
     `Linux free 命令 - 显示系统中空闲和已使用的内存 <http://linux.cn/thread/12166/1/1/>`_
+    (`2 <http://www.linuxeden.com/html/softuse/20140106/147216.html>`__)
 
     `嵌入式Linux分时操作系统的实时性分析 <http://www.linuxeden.com/html/develop/20140105/147196.html>`_
 

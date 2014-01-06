@@ -231,6 +231,8 @@ Simplified Chinese:
 
   `当然我在扯淡 <http://www.yinwang.org/>`_
 
+  `Alexia的技术小屋 <http://www.cnblogs.com/lanxuezaipiao/>`_
+
 `Wenli Zhang <http://zhangwenli.com/>`_
 
 `Zhong' blog <http://stupidgrass.github.io/blog/>`_

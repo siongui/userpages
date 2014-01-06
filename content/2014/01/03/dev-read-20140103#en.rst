@@ -38,7 +38,8 @@ Python:
   `Python 2.x vs 3.x survey results <https://wiki.python.org/moin/2.x-vs-3.x-survey>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7005711>`__,
   Python 2.x 和 3.x 调查结果 `1 <http://www.oschina.net/news/47494/python-2-x-vs-3-x-survey>`__,
-  `2 <http://www.linuxeden.com/html/news/20140104/147169.html>`__)
+  `2 <http://www.linuxeden.com/html/news/20140104/147169.html>`__,
+  `3 <http://www.pythoner.cn/home/blog/python-2-x-vs-3-x-survey/>`__)
 
 JavaScript/HTML:
 
