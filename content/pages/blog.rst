@@ -229,6 +229,8 @@ Simplified Chinese:
 
   `Bit Focus <http://blog.bitfoc.us/>`_
 
+  `当然我在扯淡 <http://www.yinwang.org/>`_
+
 `Wenli Zhang <http://zhangwenli.com/>`_
 
 `Zhong' blog <http://stupidgrass.github.io/blog/>`_
