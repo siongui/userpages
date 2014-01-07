@@ -2,7 +2,7 @@
 #####################################################################################################
 
 :date: 2014-01-08 00:45
-:tags: HTML, math, Python, Algorithm, CSS, JavaScript, Github
+:tags: HTML, math, Python, Algorithm, CSS, JavaScript, Github, Go
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-08
@@ -50,6 +50,9 @@ Github:
   `Introducing GitHub Traffic Analytics <https://github.com/blog/1672-introducing-github-traffic-analytics>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7018767>`__)
 
+  `Faster, More Awesome GitHub Pages <https://github.com/blog/1715-faster-more-awesome-github-pages>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7019148>`__)
+
 Algorithm:
 
   `New algorithm can dramatically streamline solutions to the ‘max flow’ problem <http://web.mit.edu/newsoffice/2013/new-algorithm-can-dramatically-streamline-solutions-to-the-max-flow-problem-0107.html>`_
@@ -58,6 +61,11 @@ Algorithm:
 math:
 
   `A monster, a rat with a key, and a dark room <http://www.datagenetics.com/blog/january22014/index.html>`_
+
+Go:
+
+  `Show HN: email - Send emails easily in Go <https://github.com/jordan-wright/email>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7019049>`__)
 
 
 Simplified Chinese:
