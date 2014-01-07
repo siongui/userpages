@@ -54,7 +54,8 @@ Data Science:
 (`HN discuss <https://news.ycombinator.com/item?id=6996973>`__)
 
 `Google Analytics for GitHub <https://github.com/igrigorik/ga-beacon>`_
-(`HN discuss <https://news.ycombinator.com/item?id=6996961>`__)
+(`HN discuss <https://news.ycombinator.com/item?id=6996961>`__,
+`2 <https://news.ycombinator.com/item?id=7016440>`__)
 
 `Proof Market: Submit Coq proof, get paid with Bitcoin <https://proofmarket.org/>`_
 (`HN discuss <https://news.ycombinator.com/item?id=6996504>`__)

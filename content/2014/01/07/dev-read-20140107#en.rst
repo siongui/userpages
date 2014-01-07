@@ -11,7 +11,8 @@
 Linux:
 
   `The Genius Of Linux Is Community, Not Technology <http://readwrite.com/2013/12/19/the-genius-of-linux-is-community-not-technology>`_
-  (`Linux的天赋在于社区，而非技术 <http://linux.cn/thread/12174/1/1/>`_)
+  (`Linux的天赋在于社区，而非技术 <http://linux.cn/thread/12174/1/1/>`_,
+  `2 <http://www.linuxeden.com/html/news/20140107/147253.html>`__)
 
 Game:
 
@@ -34,6 +35,7 @@ Dart:
   `New docs and samples for server-side and command-line Dart apps <http://news.dartlang.org/2014/01/new-docs-for-server-side-and-command.html>`_
 
   `AngularDart for AngularJS Developers. Introduction to the best Angular yet. <http://victorsavkin.com/post/72452331552/angulardart-for-angularjs-developers-introduction-to>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7018612>`__)
 
   `Magic Boxes in Dart: Spiral 04 <http://goo.gl/sr8ppM>`_
 
@@ -124,6 +126,10 @@ Simplified Chinese:
     `8 个实用的 Linux netcat 命令示例 <http://my.oschina.net/u/1388024/blog/191069>`_
 
     `每个Linux用户都应该了解的命令行省时技巧 <http://blog.jobbole.com/54425/>`_
+
+  database:
+
+    `15个 MySQL 基础面试题，DBA 们准备好了吗？ <http://www.linuxeden.com/html/news/20140107/147255.html>`_
 
   News:
 
