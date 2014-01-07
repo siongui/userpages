@@ -2,7 +2,7 @@
 #####################################################################################################
 
 :date: 2014-01-08 00:45
-:tags: HTML, math, Python, Algorithm, CSS, JavaScript
+:tags: HTML, math, Python, Algorithm, CSS, JavaScript, Github
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-08
@@ -21,6 +21,9 @@ JavaScript:
   `Cookies vs Tokens. Getting auth right with Angular.JS <http://blog.auth0.com/2014/01/07/angularjs-authentication-with-cookies-vs-token/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7018529>`__)
 
+  `Why I am switching to promises <http://spion.github.io/posts/why-i-am-switching-to-promises.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7018819>`__)
+
   Game:
 
     `We've Open-Sourced Everything <http://blog.codecombat.com/we-have-open-sourced-everything>`_
@@ -31,6 +34,9 @@ HTML:
   `"Getting Started with HTML5" - documents its rise & demos new feautures <http://www.thinkful.com/learn/getting-started-with-html5>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7018217>`__)
 
+  `Ten reasons we switched from an icon font to SVG <http://ianfeather.co.uk/ten-reasons-we-switched-from-an-icon-font-to-svg/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7018982>`__)
+
 CSS:
 
   `Perspective Mockups using CSS3 3D Transforms <http://thecodeplayer.com/walkthrough/perspective-mockups-css3-3d-transforms>`_
@@ -38,6 +44,11 @@ CSS:
 
   `Hover.css - A collection of CSS3 powered hover effects <http://ianlunn.github.io/Hover/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7018240>`__)
+
+Github:
+
+  `Introducing GitHub Traffic Analytics <https://github.com/blog/1672-introducing-github-traffic-analytics>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7018767>`__)
 
 Algorithm:
 
