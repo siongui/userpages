@@ -1,17 +1,25 @@
-<Python code to solve xkcd 1313>, <Photosynth - Capture your world in 3D>, etc.
-#####################################################################################################
+<Scaling Mercurial at Facebook>, <Python code to solve xkcd 1313>, <Photosynth - Capture your world in 3D>, etc.
+################################################################################################################
 
 :date: 2014-01-08 00:45
-:tags: HTML, math, Python, Algorithm, CSS, JavaScript, Github, Go
+:tags: HTML, math, Python, Algorithm, CSS, JavaScript, Github, Mercurial, Go
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-08
 
 
+Mercurial:
+
+  `Scaling Mercurial at Facebook <https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7019673>`__)
+
 Python:
 
   `Python code to solve xkcd 1313 by Peter Norvig <http://nbviewer.ipython.org/url/norvig.com/ipython/xkcd1313.ipynb>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7015132>`__)
+
+  `OOP in Python (live streaming class for beginners) <https://www.enginehere.com/stream/432/intro-to-object-oriented-programming-in-python/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7019815>`__)
 
 3D from photos:
 
@@ -74,6 +82,16 @@ Go:
 
   `Show HN: email - Send emails easily in Go <https://github.com/jordan-wright/email>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7019049>`__)
+
+CentOS:
+
+  `CentOS Project joins forces with Red Hat <http://lists.centos.org/pipermail/centos-announce/2014-January/020100.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7019914>`__)
+
+Humans.txt:
+
+  `Google's Humans.txt <http://www.google.com/humans.txt>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7019490>`__)
 
 
 Simplified Chinese:
