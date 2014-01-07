@@ -37,6 +37,11 @@ Dart:
 
   `Magic Boxes in Dart: Spiral 04 <http://goo.gl/sr8ppM>`_
 
+  `Intl - This package provides internationalization and localization facilities <http://pub.dartlang.org/packages/intl>`_
+  (`Google+ post <https://plus.google.com/112435264608656783923/posts/SM3S9i9Rwng>`__)
+
+  `dartdoc markdown library <https://github.com/dpeek/dart-markdown>`_
+
 Python:
 
   Docker:
