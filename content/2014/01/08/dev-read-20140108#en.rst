@@ -2,7 +2,7 @@
 ################################################################################################################
 
 :date: 2014-01-08 00:45
-:tags: HTML, math, Python, Algorithm, CSS, JavaScript, Github, Mercurial, Go
+:tags: HTML, math, Python, Algorithm, CSS, JavaScript, Github, Mercurial, Go, KDE, C, CentOS
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-08
@@ -83,6 +83,11 @@ Go:
   `Show HN: email - Send emails easily in Go <https://github.com/jordan-wright/email>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7019049>`__)
 
+C:
+
+  `Greatest: C unit testing library in one file <https://github.com/silentbicycle/greatest>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7020683>`__)
+
 CentOS:
 
   `CentOS Project joins forces with Red Hat <http://lists.centos.org/pipermail/centos-announce/2014-January/020100.html>`_
@@ -92,6 +97,19 @@ Humans.txt:
 
   `Google's Humans.txt <http://www.google.com/humans.txt>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7019490>`__)
+
+KDE:
+
+  `KDE Frameworks 5 Tech Preview <http://dot.kde.org/2014/01/07/frameworks-5-tech-preview/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7020212>`__)
+
+database:
+
+  `How Airbnb Improved Response Time by 17% By Moving Objects From Memory To Disk <http://nerds.airbnb.com/hammerspace-persistent-concurrent-off-heap-storage/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7020243>`__)
+
+  `Top 5 MongoDB gotchas <http://devblog.me/wtf-mongo>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7020300>`__)
 
 
 Simplified Chinese:
