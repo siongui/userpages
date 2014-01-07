@@ -11,7 +11,8 @@
 Python:
 
   `About Python 3 (Hacker News discussion) <https://news.ycombinator.com/item?id=6985207>`_
-  (`post <http://alexgaynor.net/2013/dec/30/about-python-3/>`__)
+  (`post <http://alexgaynor.net/2013/dec/30/about-python-3/>`__,
+  `关于Python 3的一些想法 <http://blog.jobbole.com/54846/>`_)
 
   `chartkick.py - Create beautiful Javascript charts with minimal code <https://github.com/mher/chartkick.py>`_
 

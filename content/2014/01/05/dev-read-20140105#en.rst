@@ -67,7 +67,9 @@ Linux:
 OpenStreetMap:
 
   `Why the World Needs OpenStreetMap <http://blog.emacsen.net/blog/2014/01/04/why-the-world-needs-openstreetmap/>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7015294>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7015294>`__,
+  `为什么世界需要OpenStreetMap <http://www.solidot.org/story?sid=37924>`_,
+  `2 <http://tech2ipo.com/62946>`__)
 
 Deep Learning & JavaScript:
 

@@ -12,7 +12,9 @@ Data Science:
 
   `How Netflix Reverse Engineered Hollywood <http://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7000686>`__,
-  视频流媒体 Netflix 的七万多种影视风格 `1 <http://tech2ipo.com/62905>`__)
+  `视频流媒体 Netflix 的七万多种影视风格 <http://tech2ipo.com/62905>`_,
+  `Netflix 是如何推荐电影的 <http://www.ifanr.com/393386>`_,
+  `2 <http://www.oschina.net/news/47576/how-netflix-recommend-movies>`__)
 
   `MapReduce and Spark <http://vision.cloudera.com/mapreduce-spark/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7003029>`__)

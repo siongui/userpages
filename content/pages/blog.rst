@@ -241,6 +241,8 @@ Simplified Chinese:
 
 Traditional Chinese:
 
+  `hSATAC <http://blog.hsatac.net/>`_ (Go, Vim, etc.)
+
   `Programming Design Notes <http://pro.ctlok.com/>`_
 
   `QOOGLE LABORATORY - DEVELOPMENT BLOG OF LITTLEQ <http://littleq.logdown.com/>`_
