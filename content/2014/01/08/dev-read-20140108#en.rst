@@ -1,4 +1,4 @@
-<Python code to solve xkcd 1313>, etc.
+<Python code to solve xkcd 1313>, <Photosynth - Capture your world in 3D>, etc.
 #####################################################################################################
 
 :date: 2014-01-08 00:45
@@ -12,6 +12,11 @@ Python:
 
   `Python code to solve xkcd 1313 by Peter Norvig <http://nbviewer.ipython.org/url/norvig.com/ipython/xkcd1313.ipynb>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7015132>`__)
+
+3D from photos:
+
+  `Photosynth - Capture your world in 3D. <http://photosynth.net/preview/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7019133>`__)
 
 JavaScript:
 
@@ -52,6 +57,9 @@ Github:
 
   `Faster, More Awesome GitHub Pages <https://github.com/blog/1715-faster-more-awesome-github-pages>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7019148>`__)
+
+  `Cracking the Code to GitHub’s Growth <http://growthhackers.com/companies/github/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7019341>`__)
 
 Algorithm:
 
