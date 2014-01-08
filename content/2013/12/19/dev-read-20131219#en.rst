@@ -13,7 +13,8 @@
 
 `Baby's First Garbage Collector <http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/>`_
 (`HN discuss <https://news.ycombinator.com/item?id=6871202>`__,
-Simplified Chinese translation `1 <http://blog.jobbole.com/53376/>`__)
+`编写你的第一个垃圾收集器 <http://blog.jobbole.com/53376/>`__,
+`鏡像post <http://my.oschina.net/tashi/blog/191405>`__)
 
 `Reverse Engineering a Furby <http://poppopret.org/2013/12/18/reverse-engineering-a-furby/>`_
 (`HN discuss <https://news.ycombinator.com/item?id=6929592>`__)
@@ -61,8 +62,8 @@ Go:
 
   `Go 1.3+ Compiler Overhaul <https://docs.google.com/document/d/1P3BLR31VA8cvLJLfMibSuTdwTuF7WWLux71CYD0eeD8/preview?sle=true>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6932026>`__,
-  Go 1.3+ 编译器变革 `1 <http://www.oschina.net/translate/go-1-3-compiler-overhaul>`__,
-  `2 <http://www.linuxeden.com/html/news/20131230/147021.html>`__)
+  `Go 1.3+ 编译器变革 <http://www.oschina.net/translate/go-1-3-compiler-overhaul>`__,
+  `mirror post <http://www.linuxeden.com/html/news/20131230/147021.html>`__)
 
 
   `Go Advent Day 19 - Eject the Web <http://blog.gopheracademy.com/day-19-eject-the-web>`_

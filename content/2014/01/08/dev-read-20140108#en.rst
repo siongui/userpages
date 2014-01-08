@@ -18,6 +18,9 @@ Python:
   `Python code to solve xkcd 1313 by Peter Norvig <http://nbviewer.ipython.org/url/norvig.com/ipython/xkcd1313.ipynb>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7015132>`__)
 
+  `Parallelism in one line <https://medium.com/p/40e9b2b36148>`_
+  (`Python 并行任务技巧 <http://www.oschina.net/translate/python-parallelism-in-one-line>`_)
+
   `OOP in Python (live streaming class for beginners) <https://www.enginehere.com/stream/432/intro-to-object-oriented-programming-in-python/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7019815>`__)
 
@@ -87,6 +90,9 @@ Go:
   `Show HN: email - Send emails easily in Go <https://github.com/jordan-wright/email>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7019049>`__)
 
+  `Another go at Go ... failed! <http://oneofmanyworlds.blogspot.com/2014/01/another-go-at-go-failed.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7022900>`__)
+
 C:
 
   `Greatest: C unit testing library in one file <https://github.com/silentbicycle/greatest>`_
@@ -124,8 +130,40 @@ database:
   (`HN discuss <https://news.ycombinator.com/item?id=7020300>`__,
   `MongoDB 在语法上的 5 大缺陷 <http://www.oschina.net/translate/wtf-mongo>`_)
 
+  `Transaction Management with Django 1.6 <http://www.realpython.com/blog/python/transaction-management-with-django-1-6/>`_
+  (`使用 Django 1.6 实现事务交易管理 <http://www.oschina.net/translate/transaction-management-with-django-1-6>`_)
+
+R:
+
+  `introducing R to a non-programmer in one hour <http://alyssafrazee.com/introducing-R.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7023058>`__)
+
+Quine:
+
+  `Quine Tweet Challenge <http://adereth.github.io/blog/2014/01/08/quine-tweet-challenge/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7023169>`__)
+
+Shell & eBook:
+
+  `Conquering the Command Line - Free eBook <http://conqueringthecommandline.com/book>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7023077>`__)
+
 
 Simplified Chinese:
+
+  Algorithm:
+
+    `文本相似度算法 <http://www.cnblogs.com/liangxiaxu/archive/2012/05/05/2484972.html>`_
+    (`mirror post <http://my.oschina.net/u/1156339/blog/191448>`__)
+
+    `判断一个坐标点是否在不规则多边形内部的算法 <http://my.oschina.net/u/1378445/blog/191291>`_
+
+    `扑克牌翻转 <http://www.oschina.net/code/snippet_1047279_32484>`_
+
+  Shell:
+
+    `有关 Shell 重定向那些你不知道的故事 <http://www.ustack.com/blog/%E6%9C%89%E5%85%B3-shell-%E9%87%8D%E5%AE%9A%E5%90%91%E9%82%A3%E4%BA%9B%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E6%95%85%E4%BA%8B/>`_
+    (`mirror post <http://my.oschina.net/panzhc/blog/191301>`__)
 
   C++:
 
@@ -135,11 +173,24 @@ Simplified Chinese:
 
     `C++学习笔记 <http://my.oschina.net/djone/blog/191164>`_
 
+  C:
+
+    `第二章:C语言概述 <http://my.oschina.net/voler/blog/191439>`_
+
+  compiler:
+
+    `gcc的使用 <http://my.oschina.net/u/819106/blog/191441>`_
+
   Python:
 
     `python 淘宝系列（一）：模拟登陆 <http://my.oschina.net/u/811744/blog/191165>`_
 
     `python模块介绍- select 等待I/0完成 <http://my.oschina.net/u/1433482/blog/191211>`_
+
+  Git/Github:
+
+    `git/github初级运用自如 <http://www.cnblogs.com/fnng/archive/2012/01/07/2315685.html>`_
+    (`鏡像post <http://my.oschina.net/zhangxu0512/blog/191442>`__)
 
   JavaScript:
 
@@ -149,13 +200,40 @@ Simplified Chinese:
   database:
 
     `一月份数据库排名，MongoDB 获年度数据库 <http://www.oschina.net/news/47619/db-engines-database-ranking-2014-1>`_
-    (`mirror <http://www.linuxeden.com/html/news/20140108/147279.html>`__)
+    (`mirror <http://www.linuxeden.com/html/news/20140108/147279.html>`__,
+    `mirror <http://www.pythoner.cn/home/blog/dbms-of-the-year-mongodb/>`__)
+
+    `如何删除重复数据，只保留一条 <http://my.oschina.net/u/194020/blog/191379>`_
+
+  Go:
+
+    `Martini 极好的 Go Web 框架 <http://blog.go-china.org/08-martini_intro>`_
+
+    `Go 语言的 RPC 介绍 <http://blog.go-china.org/09-protorpc>`_
+
+    `golang -- 序列化 msgpack & json <http://my.oschina.net/1123581321/blog/191282>`_
+
+    `GO大写金额转换 <http://www.oschina.net/code/snippet_122869_32503>`_
+
+  CSS:
+
+    `编写更好的CSS <http://www.cnblogs.com/yanhaijing/p/3508834.html>`_
 
   News:
 
     `Twitter联合创始人推社交搜索应用Jelly <http://www.csdn.net/article/2014-01-08/2818055-biz-stone-launches-jelly-service>`_
 
+    `Twitter联合创始人推出移动问答应用Jelly <http://tech2ipo.com/62968>`_
+
     `2013年App Store总销量超过100亿美元 <http://blog.jobbole.com/55028/>`_
+
+    `谷歌是如何考核员工的？严苛制度首次曝光 <http://blog.jobbole.com/55041/>`_
+
+    `Google组织内部评分系统OKRs <http://www.linuxeden.com/html/news/20140108/147307.html>`_
+
+    `我为什么期待M#？ <http://blog.jobbole.com/55047/>`_
+
+    `Hadoop 2.0近期的几项进展 <http://dongxicheng.org/mapreduce-nextgen/hadoop-2-new-feature-and-development/>`_
 
   `给 Nginx 增加 OAuth 支持（nginx-lua） <http://www.oschina.net/translate/oauth-support-for-nginx-with-lua>`_
 
