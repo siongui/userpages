@@ -39,3 +39,5 @@ JavaScript/HTML/CSS:
 `Online Interpreters <http://repl.it/>`_
 
 `CoderPad <https://coderpad.io/>`_
+
+`Ideone.com - Online Compiler and IDE >> C/C++, Java, PHP, Python, Perl and 40+ other compilers and interpreters <http://ideone.com/>`_

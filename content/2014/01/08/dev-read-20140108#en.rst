@@ -88,10 +88,15 @@ C:
   `Greatest: C unit testing library in one file <https://github.com/silentbicycle/greatest>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7020683>`__)
 
+  `C language and the linux macro - proof that linux is always Number 1 <http://arjunsreedharan.org/post/71403510912/c-language-and-the-linux-macro-proof-that-linux-is>`_
+  (`事实证明linux永远是number 1 <http://www.aqee.net/proof-that-linux-is-always-number-1/>`_,
+  `2 <http://www.pythoner.cn/home/blog/proof-that-linux-is-always-number-1/>`__)
+
 CentOS:
 
   `CentOS Project joins forces with Red Hat <http://lists.centos.org/pipermail/centos-announce/2014-January/020100.html>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7019914>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7019914>`__,
+  `号外！CentOS 宣布加入红帽公司！ <http://www.oschina.net/news/47609/centos-join-redhat-forces>`_)
 
 Humans.txt:
 
@@ -101,7 +106,9 @@ Humans.txt:
 KDE:
 
   `KDE Frameworks 5 Tech Preview <http://dot.kde.org/2014/01/07/frameworks-5-tech-preview/>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7020212>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7020212>`__,
+  `KDE Frameworks 5 技术预览版发布 <http://www.oschina.net/news/47605/kde-frameworks-5-tech-preview>`_,
+  `2 <http://www.linuxeden.com/html/news/20140108/147273.html>`__)
 
 database:
 
@@ -109,8 +116,19 @@ database:
   (`HN discuss <https://news.ycombinator.com/item?id=7020243>`__)
 
   `Top 5 MongoDB gotchas <http://devblog.me/wtf-mongo>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7020300>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7020300>`__,
+  `MongoDB 在语法上的 5 大缺陷 <http://www.oschina.net/translate/wtf-mongo>`_)
 
 
 Simplified Chinese:
 
+  C++ & Machine Learning:
+
+    `MLPACK 1.0.8 发布，C++ 的机器学习库 <http://www.oschina.net/news/47612/mlpack-1-0-8>`_
+
+  JavaScript:
+
+    `基于Karma和Jasmine的AngularJS测试 <http://blog.jobbole.com/54936/>`_
+    (`mirror <http://www.linuxeden.com/html/news/20140108/147274.html>`__)
+
+  `趣文：如果像招聘程序员那样租车 <http://blog.jobbole.com/54179/>`_

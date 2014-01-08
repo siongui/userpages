@@ -150,6 +150,7 @@ Simplified Chinese:
     `设计师如何写出更棒的项目建议 <http://www.csdn.net/article/2014-01-07/2818037-how-should-designers-write-better-project-proposals>`_
 
     `Cascading 2.5 支持 Hadoop 2 <http://www.infoq.com/cn/news/2014/01/cascading>`_
+    (`mirror <http://www.linuxeden.com/html/news/20140108/147277.html>`__)
 
     `数据导入HBase最常用的三种方式及实践分析 <http://www.csdn.net/article/2014-01-07/2818046>`_
 
