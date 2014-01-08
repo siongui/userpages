@@ -148,6 +148,11 @@ Shell & eBook:
   `Conquering the Command Line - Free eBook <http://conqueringthecommandline.com/book>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7023077>`__)
 
+Programming:
+
+  `Dijkstra on Haskell and Java <http://chrisdone.com/posts/dijkstra-haskell-java>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7023650>`__)
+
 
 Simplified Chinese:
 
@@ -197,6 +202,10 @@ Simplified Chinese:
     `基于Karma和Jasmine的AngularJS测试 <http://blog.jobbole.com/54936/>`_
     (`mirror <http://www.linuxeden.com/html/news/20140108/147274.html>`__)
 
+    node.js:
+
+      `【开源专访】Node-Webkit作者王文睿：桌面应用的全新开发方式 <http://www.csdn.net/article/2014-01-08/2818066-Node-Webkit>`_
+
   database:
 
     `一月份数据库排名，MongoDB 获年度数据库 <http://www.oschina.net/news/47619/db-engines-database-ranking-2014-1>`_
@@ -234,6 +243,10 @@ Simplified Chinese:
     `我为什么期待M#？ <http://blog.jobbole.com/55047/>`_
 
     `Hadoop 2.0近期的几项进展 <http://dongxicheng.org/mapreduce-nextgen/hadoop-2-new-feature-and-development/>`_
+
+    `Hadoop科普文——常见的45个问题解答 <http://www.csdn.net/article/2014-01-08/2818060-hadoop-interview-questions-setting-hadoop-cluster>`_
+
+    `2014年关于Linux的三大预测 <http://linux.cn/thread/12180/1/1/>`_
 
   `给 Nginx 增加 OAuth 支持（nginx-lua） <http://www.oschina.net/translate/oauth-support-for-nginx-with-lua>`_
 
