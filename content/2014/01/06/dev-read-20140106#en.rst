@@ -47,6 +47,7 @@ Simplified Chinese:
   Go:
 
     `Go语言的国际化支持(基于 gettext-go) <http://blog.go-china.org/07-gettext>`_
+    (`mirror <http://my.oschina.net/chai2010/blog/190914>`__)
 
   Algorithm:
 

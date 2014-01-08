@@ -131,4 +131,13 @@ Simplified Chinese:
     `基于Karma和Jasmine的AngularJS测试 <http://blog.jobbole.com/54936/>`_
     (`mirror <http://www.linuxeden.com/html/news/20140108/147274.html>`__)
 
+  database:
+
+    `一月份数据库排名，MongoDB 获年度数据库 <http://www.oschina.net/news/47619/db-engines-database-ranking-2014-1>`_
+    (`mirror <http://www.linuxeden.com/html/news/20140108/147279.html>`__)
+
+  News:
+
+    `Twitter联合创始人推社交搜索应用Jelly <http://www.csdn.net/article/2014-01-08/2818055-biz-stone-launches-jelly-service>`_
+
   `趣文：如果像招聘程序员那样租车 <http://blog.jobbole.com/54179/>`_

@@ -14,8 +14,8 @@ C:
 
   `Source Code For 22nd IOCCC Winners Has Been Released <http://developers.slashdot.org/story/14/01/04/2123236/source-code-for-22nd-ioccc-winners-has-been-released>`_
   (`第22届IOCCC获胜者作品源代码公布 <http://www.solidot.org/story?sid=37904>`__,
-  `2 <http://www.linuxeden.com/html/news/20140105/147190.html>`__,
-  `3 <http://www.oschina.net/news/47524/22th-ioccc-source-code-opened>`__)
+  `mirror <http://www.linuxeden.com/html/news/20140105/147190.html>`__,
+  `mirror <http://www.oschina.net/news/47524/22th-ioccc-source-code-opened>`__)
 
   PC Emulator:
 
@@ -69,7 +69,8 @@ OpenStreetMap:
   `Why the World Needs OpenStreetMap <http://blog.emacsen.net/blog/2014/01/04/why-the-world-needs-openstreetmap/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7015294>`__,
   `为什么世界需要OpenStreetMap <http://www.solidot.org/story?sid=37924>`_,
-  `2 <http://tech2ipo.com/62946>`__)
+  `mirror <http://tech2ipo.com/62946>`__,
+  `mirror <http://www.oschina.net/news/47621/why-we-need-openstreetmap>`__)
 
 Deep Learning & JavaScript:
 
