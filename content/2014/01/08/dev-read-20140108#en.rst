@@ -100,7 +100,8 @@ C:
 
   `C language and the linux macro - proof that linux is always Number 1 <http://arjunsreedharan.org/post/71403510912/c-language-and-the-linux-macro-proof-that-linux-is>`_
   (`事实证明linux永远是number 1 <http://www.aqee.net/proof-that-linux-is-always-number-1/>`_,
-  `2 <http://www.pythoner.cn/home/blog/proof-that-linux-is-always-number-1/>`__)
+  `事实证明linux永远是number 1 <http://www.pythoner.cn/home/blog/proof-that-linux-is-always-number-1/>`__,
+  `事实证明linux永远是number 1 <http://www.oschina.net/news/47649/proof-that-linux-is-always-number-1>`__)
 
 CentOS:
 
@@ -136,7 +137,9 @@ database:
 R:
 
   `introducing R to a non-programmer in one hour <http://alyssafrazee.com/introducing-R.html>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7023058>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7023058>`__,
+  `一小时向非程序员介绍 R 编程语言 <http://blog.jobbole.com/55093/>`__,
+  `一小时向非程序员介绍 R 编程语言 <http://www.linuxeden.com/html/news/20140109/147336.html>`__)
 
 Quine:
 

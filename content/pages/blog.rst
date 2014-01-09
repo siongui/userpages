@@ -159,6 +159,8 @@ Ruby:
 
 `Jimmy Theis <http://jetheis.com/>`_
 
+`alt F4 <http://alt-f4.de/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_
@@ -232,6 +234,12 @@ Simplified Chinese:
   `当然我在扯淡 <http://www.yinwang.org/>`_
 
   `Alexia的技术小屋 <http://www.cnblogs.com/lanxuezaipiao/>`_
+
+  `塵埃落定 - 每一個可以努力的日子，都是一份厚禮。 <http://www.lovelucy.info/>`_
+
+  `墙外行人 <http://www.ccpt.cc/>`_
+
+  `勤思录 <http://www.libaoyin.com/>`_
 
 `Wenli Zhang <http://zhangwenli.com/>`_
 
