@@ -241,6 +241,8 @@ Simplified Chinese:
 
   `勤思录 <http://www.libaoyin.com/>`_
 
+  `海 子 <http://www.cnblogs.com/dolphin0520/>`_
+
 `Wenli Zhang <http://zhangwenli.com/>`_
 
 `Zhong' blog <http://stupidgrass.github.io/blog/>`_
