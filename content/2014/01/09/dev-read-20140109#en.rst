@@ -1,5 +1,5 @@
-<>, etc.
-################################################################################################################
+<Light Table is open source>, <Why Python is steadily eating other languages lunch>, etc.
+#########################################################################################
 
 :date: 2014-01-09 18:23
 :tags: Python, Bitcoin, Linux, JavaScript, Dart, Shell, math, Algorithm
@@ -37,7 +37,7 @@ C/C++:
 
   `Atomic vs. Non-Atomic Operations <http://preshing.com/20130618/atomic-vs-non-atomic-operations/>`_
   (`原子操作 vs 非原子操作 <http://blog.jobbole.com/54345/>`_,
-  `原子操作 vs 非原子操作 http://www.linuxeden.com/html/news/20140109/147314.html`__)
+  `原子操作 vs 非原子操作 <http://www.linuxeden.com/html/news/20140109/147314.html>`__)
 
 Bitcoin:
 
@@ -51,10 +51,6 @@ JavaScript:
 
   `Stop Writing JavaScript Compilers! Make Macros Instead <http://jlongster.com/Stop-Writing-JavaScript-Compilers--Make-Macros-Instead>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7025261>`__)
-
-  node.js:
-
-    `Node的设计与实现 <http://www.infoq.com/cn/presentations/design-and-implementation-of-nodejs>`_
 
 Dart:
 
@@ -114,6 +110,10 @@ Simplified Chinese:
   HTML/CSS/JavaScript:
 
     `CSS样式+js图片旋转 <http://www.oschina.net/code/snippet_863938_32524>`_
+
+    node.js:
+
+      `Node的设计与实现 <http://www.infoq.com/cn/presentations/design-and-implementation-of-nodejs>`_
 
   C++:
 
