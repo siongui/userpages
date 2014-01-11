@@ -2,7 +2,7 @@
 ################################################################################################################
 
 :date: 2014-01-12 03:06
-:tags: Algorithm, math
+:tags: Algorithm, math, database
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-12
@@ -70,6 +70,17 @@ ElasticSearch:
 
   `Getting Started with ElasticSearch <http://java.dzone.com/articles/elasticsearch-getting-started>`_
   (`ElasticSearch 简单入门 <http://www.oschina.net/translate/elasticsearch-getting-started>`_)
+
+database:
+
+  `10 Easy Steps to a Complete Understanding of SQL <http://tech.pro/tutorial/1555/10-easy-steps-to-a-complete-understanding-of-sql>`_
+  (`十步完全理解SQL <http://blog.jobbole.com/55086/>`_,
+  `十步完全理解 SQL <http://my.oschina.net/leejun2005/blog/192146>`__)
+
+Go:
+
+  `A Grumpy Guy Complains About Complaining (Golang) <http://go.c800colon5.com/blog/2014/01/09/a-grumpy-guy-complains-about-complaining/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7044076>`__)
 
 
 Simplified Chinese:
@@ -139,6 +150,10 @@ Simplified Chinese:
 
       `php算法题 <http://my.oschina.net/leadsir/blog/192141>`_
 
+    database:
+
+      `浅谈MySQL索引背后的数据结构及算法 <http://my.oschina.net/ydsakyclguozi/blog/192150>`_
+
   Web Backend:
 
     `关于后台多语言架构的问题 <http://segmentfault.com/q/1010000000368197>`_
@@ -151,6 +166,14 @@ Simplified Chinese:
 
     `简单中文验证码 <http://www.oschina.net/code/snippet_1244643_32567>`_
 
+  OpenGL:
+
+    `OpenGL超级宝典笔记——深度纹理和阴影 <http://my.oschina.net/sweetdark/blog/191865>`_
+
+  Programming:
+
+    `OOA/OOD/OOP <http://my.oschina.net/u/159221/blog/192155>`_
+
   News:
 
     `最大比特币矿池承诺不会发动51%攻击 <http://www.solidot.org/story?sid=37989>`_
@@ -159,7 +182,10 @@ Simplified Chinese:
 
     `2013年最不可思议的10个硬件开源项目 <http://linux.cn/thread/12203/1/1/>`_
 
-    `[转帖]身为码农，为12306说两句公道话 <http://www.oschina.net/question/1014747_140831>`_
+    `身为码农，为12306说两句公道话 <http://blog.jobbole.com/55001/>`_
+    (`[转帖]身为码农，为12306说两句公道话 <http://www.oschina.net/question/1014747_140831>`_)
+
+    `谷歌修复了 FFmpeg 中上千个 bug <http://www.oschina.net/news/47702/google-fixes-a-thousand-bugs-in-ffmpeg>`_
 
 Traditional Chinese:
 
