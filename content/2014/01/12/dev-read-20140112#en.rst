@@ -2,7 +2,7 @@
 ################################################################################################################
 
 :date: 2014-01-12 03:06
-:tags: Algorithm, math, database
+:tags: Algorithm, math, database, Python, JavaScript, Machine Learning, AI, Command Line, Clojure
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-12
@@ -19,6 +19,22 @@ Algorithm:
   `Data Mining Algorithms Map <http://saedsayad.com/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7045267>`__)
 
+Python:
+
+  `D3 Plugins: Truly Interactive Matplotlib In Your Browser <http://jakevdp.github.io/blog/2014/01/10/d3-plugins-truly-interactive/>`_
+
+  Tutorial:
+
+    `Easiest way to Learn Python <http://infiniteloop.in/blog/easiest-way-to-learn-python/>`_
+
+    `Easiest way to Learn Python: Part 1 <http://infiniteloop.in/blog/easiest-way-to-learn-python-part-1/>`_
+
+    `Easiest way to Learn Python: Part 2 <http://infiniteloop.in/blog/easiest-way-to-learn-python-part-2/>`_
+
+    `Easiest way to Learn Python: Part 3 <http://infiniteloop.in/blog/easiest-way-to-learn-python-part-3/>`_
+
+    `Easiest way to Learn Python: Part 4 <http://infiniteloop.in/blog/easiest-way-to-learn-python-part-4/>`_
+
 Command Line:
 
   `Teleportation on the command line <http://thecakeisalie.in/blog/2014/01/11/teleportation-on-the-commandline/>`_
@@ -34,6 +50,8 @@ math:
 Machine Learning:
 
   `Classifying images with a pre-trained deep network <http://fastml.com/classifying-images-with-a-pre-trained-deep-network/>`_
+
+  `The SHOGUN Machine Learning Toolbox <http://shogun-toolbox.org/>`_
 
 Dart:
 
@@ -101,10 +119,38 @@ JavaScript:
 
   `Dragging and Dropping Images From One Browser Tab to Another In AngularJS <http://nathanleclaire.com/blog/2014/01/11/dragging-and-dropping-images-from-one-browser-tab-to-another-in-angularjs/>`_
 
-CS:
+  `gulp.js, Streaming Build Tool Beats Grunt.js <http://www.codersgrid.com/2014/01/11/gulp-js-streaming-build-tool-beats-grunt-js/>`_
+
+  `WebGL Spaceship Tutorial, Voxel Mars, particle-excess-demo <http://dailyjs.com/2014/01/10/webgl/>`_
+
+  `WebGL tombstone – bump mapping <http://www.pheelicks.com/2014/01/webgl-tombstone-bump-mapping/>`_
+
+CS Theory:
 
   `15-819 Homotopy Type Theory <http://www.cs.cmu.edu/~rwh/courses/hott/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7044530>`__)
+
+  `Finite State Entropy - A new breed of entropy coder <http://fastcompression.blogspot.com/2013/12/finite-state-entropy-new-breed-of.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7040951>`__)
+
+Emulatoe:
+
+  `Xenia - An Xbox 360 emulator <https://github.com/benvanik/xenia>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7044533>`__)
+
+Everpix:
+
+  `Uncensored Everpix metrics, financials and slides <https://github.com/everpix/Everpix-Intelligence>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7040332>`__)
+
+Programming:
+
+  `The Syntax vs The Spirit <http://css-tricks.com/syntax-vs-spirit/>`_
+
+Virtualization:
+
+  `Comparing Filesystem Performance in Virtual Machines <http://mitchellh.com/comparing-filesystem-performance-in-virtual-machines>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7037929>`__)
 
 
 Simplified Chinese:
@@ -132,6 +178,7 @@ Simplified Chinese:
   Go:
 
     `golang -- ToString <http://my.oschina.net/1123581321/blog/192252>`_
+    (`Golang ToString <http://www.oschina.net/code/snippet_259408_32553>`_)
 
     `golang交叉编译工具，gox使用入门 <http://my.oschina.net/goskyblue/blog/192199>`_
 
@@ -145,6 +192,11 @@ Simplified Chinese:
     `数据通信json，其实还不错 <http://my.oschina.net/u/1403159/blog/192142>`_
 
     `gobuild 网站建立起源 <http://blog.go-china.org/12-gobuild-description>`_
+
+  Browser:
+
+    `浏览器的工作原理：新式网络浏览器幕后揭秘 <http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/>`_
+    (`前端文摘：深入解析浏览器的幕后工作原理 <http://www.cnblogs.com/lhb25/p/how-browsers-work.html>`__)
 
   Linux:
 
@@ -168,6 +220,8 @@ Simplified Chinese:
 
     `面向连接的Socket Server的简单实现 <http://my.oschina.net/mickelfeng/blog/192113>`_
 
+    `初探Thrift客户端异步模式 <http://blog.jobbole.com/55256/>`_
+
   HTML:
 
     `推荐10个适合初学者的 HTML5 入门教程 <http://www.cnblogs.com/lhb25/p/10-top-html5-tutorials-for-beginners.html>`_
@@ -180,6 +234,8 @@ Simplified Chinese:
 
       `nodejs Stream使用手册 <http://my.oschina.net/sundq/blog/192276>`_
 
+      `eBay 编写第一个 Node.js 应用的经验 <http://www.oschina.net/translate/how-we-built-ebays-first-node-js-application>`_
+
   CSS:
 
     `web前端初学者必看css技巧规范（转） <http://my.oschina.net/u/1242866/blog/192291>`_
@@ -187,6 +243,18 @@ Simplified Chinese:
   Web Development:
 
     `SOAP和REST的主要区别在哪里？ <http://www.oschina.net/question/1390076_140842>`_
+
+  Security:
+
+    `使用Fail2ban阻挡针对公司邮件系统的暴力破解 <http://my.oschina.net/plutonji/blog/191683>`_
+
+    `一个新发现的Dual EC DRBG缺陷 <http://www.solidot.org/story?sid=37971>`_
+    (`一个新发现的Dual EC DRBG缺陷 <http://linux.cn/thread/12197/1/1/>`__)
+
+    `Web客户端安全性最佳实践 <http://blog.jobbole.com/54782/>`_
+    (`Web客户端安全性最佳实践 <http://www.linuxeden.com/html/news/20140110/147340.html>`__)
+
+    `如何使用 Oauth 实现一个安全的 REST API 服务 <http://www.oschina.net/translate/designing-a-secure-rest-api-without-oauth-authentication>`_
 
   Git:
 
@@ -202,6 +270,9 @@ Simplified Chinese:
 
     `排序算法笔记：桶排序 BucketSort <http://my.oschina.net/wangchen881202/blog/192320>`_
 
+    `算法预测小说是否畅销 <http://www.solidot.org/story?sid=37981>`_
+    (`算法预测小说是否畅销 <http://www.linuxeden.com/html/news/20140110/147371.html>`__)
+
     PHP:
 
       `php算法题 <http://my.oschina.net/leadsir/blog/192141>`_
@@ -211,6 +282,12 @@ Simplified Chinese:
       `浅谈MySQL索引背后的数据结构及算法 <http://my.oschina.net/ydsakyclguozi/blog/192150>`_
 
       `从jredis中学习一致性hash算法 <http://my.oschina.net/u/866190/blog/192286>`_
+
+      `《Redis 设计与实现》 <https://github.com/huangz1990/redisbook>`_
+
+  database:
+
+    `MongoDB基本使用 <http://my.oschina.net/u/1413049/blog/192074>`_
 
   Web Backend:
 
@@ -236,6 +313,8 @@ Simplified Chinese:
 
     `mini2440 使用sdram <http://my.oschina.net/u/1246604/blog/191991>`_
 
+    `用树莓派构建低能耗网络存储设备 <http://www.geekfan.net/5003/>`_
+
   News:
 
     `最大比特币矿池承诺不会发动51%攻击 <http://www.solidot.org/story?sid=37989>`_
@@ -243,6 +322,8 @@ Simplified Chinese:
     `FFmpeg和一千多次bug修正 <http://www.solidot.org/story?sid=37993>`_
 
     `2013年最不可思议的10个硬件开源项目 <http://linux.cn/thread/12203/1/1/>`_
+    (`2013年最不可思议的10个硬件开源项目 <http://www.oschina.net/news/47698/10-incredible-open-source-hardware-projects-in-2013>`__,
+    `2013 年最不可思议的 10 个硬件开源项目 <http://www.linuxeden.com/html/news/20140110/147370.html>`__)
 
     `身为码农，为12306说两句公道话 <http://blog.jobbole.com/55001/>`_
     (`[转帖]身为码农，为12306说两句公道话 <http://www.oschina.net/question/1014747_140831>`_,
@@ -259,6 +340,25 @@ Simplified Chinese:
     (`求职技巧：给自己PS上假胡须 <http://www.linuxeden.com/html/news/20140112/147394.html>`__)
 
     `facebook 开发新移动测试框架 Airlock <http://www.oschina.net/news/47748/facebook-airlock>`_
+
+    `那些出现在电影中的程序代码 <http://www.oschina.net/news/47665/source-code-in-tv-and-films>`_
+
+    `Rust 0.9 发布，Mozilla 新的编程语言 <http://www.oschina.net/news/47669/rust-0-9>`_
+
+    `我国自主研发手机操作系统 960 OS 发布 <http://www.oschina.net/news/47675/960-os>`_
+
+    `“棱镜门”下的再反思 同洲电子960手机OS诞生记 <http://www.cnbeta.com/articles/267920.htm>`_
+
+    `开源地图编辑器 MarbleMap，支持Cocos2d-x坐标系 <http://www.oschina.net/news/47697/marblemap-editor-support-cocos2d-x>`_
+
+    `熊猫烧香作者李俊的人生病毒 <http://blog.jobbole.com/55268/>`_
+
+    `王小川：硬件的互联网精神 <http://tech2ipo.com/63015>`_
+
+    `游戏科学：人工智能的假想与现实 <http://www.linuxeden.com/html/itnews/20140110/147360.html>`_
+
+    `台湾市场小吗？日本app开发商可不这么认为 <http://news.appying.com.cn/focus/4283/>`_
+    (`台湾市场小吗？日本app开发商可不这么认为 <http://www.linuxeden.com/html/itnews/20140110/147363.html>`__)
 
 Traditional Chinese:
 
