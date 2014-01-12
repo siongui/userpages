@@ -35,6 +35,8 @@ Blog:
 
   `Karan Misra <https://kidoman.com/>`_ (Go)
 
+  `Dominik Honnef <http://dominik.honnef.co/>`_
+
   Simplified Chinese:
 
     `Golang 中国博客 <http://blog.go-china.org/>`_ (推薦!!!)

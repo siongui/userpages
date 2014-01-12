@@ -163,6 +163,8 @@ Ruby:
 
 `alt F4 <http://alt-f4.de/>`_
 
+`Armin Ronacher's Thoughts and Writings <http://lucumr.pocoo.org/>`_
+
 Simplified Chinese:
 
   `Beyond the Void <https://www.byvoid.com/>`_

@@ -24,6 +24,8 @@ Workflow & Development Tricks:
   `Quick start projects <http://blog.sayan.ee/quick-start/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7045744>`__)
 
+  `Van Emde Boas trees <https://plus.google.com/100130971560879475093/posts/anW6kZuR9iA>`_
+
 Python:
 
   `D3 Plugins: Truly Interactive Matplotlib In Your Browser <http://jakevdp.github.io/blog/2014/01/10/d3-plugins-truly-interactive/>`_
@@ -33,6 +35,10 @@ Python:
   `Design Patterns for Beginners in Python <http://pypix.com/tools-and-tips/design-patterns-beginners/>`_
 
   `HSK东西 Scripts: a site for learning Chinese characters - or, "Handling Chinese characters with Python Unicode strings is less hassle than I thought it would be." <http://blog.pythonanywhere.com/79/>`_
+
+  `UCS vs UTF-8 as Internal String Encoding <http://lucumr.pocoo.org/2014/1/9/ucs-vs-utf8/>`_
+
+  `So you want to write an interpreter? <https://www.youtube.com/watch?v=LCslqgM48D4>`_
 
   Tutorial:
 
@@ -56,6 +62,7 @@ Command Line:
 math:
 
   `Kazakh Professor Claims Solution of Another Millennium Prize Problem <http://science.slashdot.org/story/14/01/11/1715227/kazakh-professor-claims-solution-of-another-millennium-prize-problem>`_
+  (`哈萨克数学家宣称解决了一个千禧年大奖难题 <http://www.solidot.org/story?sid=37997>`_)
 
   `Scientist from Astana has solved one of the most difficult mathematical tasks of the millennium <http://www.inform.kz/eng/article/2619922>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7042409>`__)
@@ -128,6 +135,17 @@ Go:
   `Gen - a generics library for Go <http://clipperhouse.github.io/gen/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7044070>`__)
 
+  `Go has Goto statements? <https://plus.google.com/100668783035075698145/posts/XuVWB2jcZ4Q>`_
+
+  `What's happening in Go tip (2014-01-10) <http://dominik.honnef.co/go-tip/2014-01-10/>`_
+
+  `Writing a modern web app with Go, TDD, REST, and AngularJS <http://go-talks.appspot.com/github.com/campoy/todo/talk/talk.slide#1>`_
+  (`Google+ post <https://plus.google.com/101406623878176903605/posts/jcrA57Bptp8>`__)
+
+  `golang-set - A "generic" set implementation for Go that has all the usual set operations. <https://plus.google.com/113415889811772707376/posts/MwoKZBLaMCR>`_
+
+  `Why did I write goChem in Go? / Writting chemistry software in Go. <https://plus.google.com/106548631604770110294/posts/5ATX3gHLL7t>`_
+
 JavaScript:
 
   `Dragging and Dropping Images From One Browser Tab to Another In AngularJS <http://nathanleclaire.com/blog/2014/01/11/dragging-and-dropping-images-from-one-browser-tab-to-another-in-angularjs/>`_
@@ -139,6 +157,12 @@ JavaScript:
   `WebGL tombstone – bump mapping <http://www.pheelicks.com/2014/01/webgl-tombstone-bump-mapping/>`_
 
   `Sweet.js, Write Marco for JavaScript, Get Ready for ES6! <http://www.codersgrid.com/2014/01/10/sweet-js-write-marco-for-javascript-get-ready-for-es6/>`_
+
+  CSS/HTML:
+
+    `CodePen - Top Pens of 2013 <http://codepen.io/2013/popular>`_
+
+    `Managing Custom Data with the HTML5 Dataset API <http://www.sitepoint.com/managing-custom-data-html5-dataset-api/>`_
 
 CS Theory:
 
@@ -176,6 +200,10 @@ Computer Architecture:
 
   `ARM immediate value encoding <http://alisdair.mcdiarmid.org/2014/01/12/arm-immediate-value-encoding.html>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7045759>`__)
+
+Ceylon:
+
+  `Ceylon: Awesome Tea or a New Language to Learn <https://www.openshift.com/blogs/ceylon-awesome-tea-or-a-new-language-to-learn>`_
 
 
 
