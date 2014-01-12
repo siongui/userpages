@@ -19,10 +19,25 @@ C#:
 
   `More functional C# <https://news.ycombinator.com/item?id=7047252>`_
 
+Go:
+
+  `Memory leak in Go http standard library? <http://stackoverflow.com/questions/21080642/memory-leak-in-go-http-standard-library>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7047680>`__)
+
+Security:
+
+  `Bypassing a DNS man-in-the-middle attack against Google Drive <http://varnull.adityamukerjee.net/post/73134171911/bypassing-a-dns-man-in-the-middle-attack-against-google>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7047682>`__)
+
 Development Book:
 
   `Best development book I've read, has no code in it. <http://arasatasaygin.com/pages/best-development-book-I-read-has-no-code-in-it.html>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7046680>`__)
+
+Entrepreneurs:
+
+  `The Google Ventures Library <http://www.gv.com/library/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7047527>`__)
 
 
 
