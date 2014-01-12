@@ -1,4 +1,4 @@
-<>, etc.
+<Data Mining Algorithms Map>, etc.
 ################################################################################################################
 
 :date: 2014-01-12 03:06
@@ -15,6 +15,9 @@ Algorithm:
 
   `Lock-free Multi-producer Multi-consumer Queue on Ring Buffer <http://natsys-lab.blogspot.com/2013/05/lock-free-multi-producer-multi-consumer.html>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7042525>`__)
+
+  `Data Mining Algorithms Map <http://saedsayad.com/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7045267>`__)
 
 Command Line:
 
@@ -41,6 +44,9 @@ Open Source:
   `Twitter ♥ Open Source <http://twitter.github.io/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7042929>`__)
 
+  `Feed Open Source <http://feedopensource.com/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7045044>`__)
+
 Clojure:
 
   `A Clojure Crash Course <http://www.braveclojure.com/do-things/>`_
@@ -55,6 +61,9 @@ Linux:
 
   `“Linux” Isn’t Just Linux: 8 Pieces of Software That Make Up Linux Systems <http://www.howtogeek.com/177213/linux-isnt-just-linux-8-pieces-of-software-that-make-up-linux-systems/>`_
   (`“Linux”不等同于Linux内核：构建Linux系统的8个软件包 <http://www.geekfan.net/5035/>`_)
+
+  `10 Useful Chaining Operators in Linux with Practical Examples <http://www.tecmint.com/chaining-operators-in-linux-with-practical-examples/>`_
+  (`Linux中命令链接操作符的十个最佳实例 <http://www.linuxeden.com/html/softuse/20140112/147406.html>`_)
 
 Cryptocurrency:
 
@@ -77,10 +86,25 @@ database:
   (`十步完全理解SQL <http://blog.jobbole.com/55086/>`_,
   `十步完全理解 SQL <http://my.oschina.net/leejun2005/blog/192146>`__)
 
+  `28 MongoDB NoSQL Database Interview Questions and Answers <http://theprofessionalspoint.blogspot.com/2014/01/28-mongodb-nosql-database-interview.html>`_
+  (`28 个 MongoDB NoSQL 数据库的面试问答 <http://www.oschina.net/translate/28-mongodb-nosql-database-interview>`_)
+
 Go:
 
   `A Grumpy Guy Complains About Complaining (Golang) <http://go.c800colon5.com/blog/2014/01/09/a-grumpy-guy-complains-about-complaining/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7044076>`__)
+
+  `Gen - a generics library for Go <http://clipperhouse.github.io/gen/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7044070>`__)
+
+JavaScript:
+
+  `Dragging and Dropping Images From One Browser Tab to Another In AngularJS <http://nathanleclaire.com/blog/2014/01/11/dragging-and-dropping-images-from-one-browser-tab-to-another-in-angularjs/>`_
+
+CS:
+
+  `15-819 Homotopy Type Theory <http://www.cs.cmu.edu/~rwh/courses/hott/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7044530>`__)
 
 
 Simplified Chinese:
@@ -93,9 +117,17 @@ Simplified Chinese:
 
     `多线程，断点续传下载 <http://www.oschina.net/code/snippet_1170370_32564>`_
 
+    `微线程下载，断点续传- gevent版 <http://www.oschina.net/code/snippet_1170370_32576>`_
+
     `Python多线程获取网页数据为何速度提升不上去呢？ <http://segmentfault.com/q/1010000000384245>`_
 
     `高性能python编程之协程 <http://my.oschina.net/u/1435993/blog/192163>`_
+
+    `python模块介绍- time 时间访问和转换 <http://my.oschina.net/u/1433482/blog/192253>`_
+
+    `Python 正则表达式（re）基本参考 <http://my.oschina.net/lionets/blog/192280>`_
+
+    `PyQt4学习笔记1：PyQt4第一个程序 <http://my.oschina.net/u/178456/blog/192308>`_
 
   Go:
 
@@ -111,6 +143,8 @@ Simplified Chinese:
     `quanpower的Golang学习笔记---1.Linux安装Go,设置环境变量 <http://my.oschina.net/quanpower/blog/192117>`_
 
     `数据通信json，其实还不错 <http://my.oschina.net/u/1403159/blog/192142>`_
+
+    `gobuild 网站建立起源 <http://blog.go-china.org/12-gobuild-description>`_
 
   Linux:
 
@@ -138,6 +172,22 @@ Simplified Chinese:
 
     `推荐10个适合初学者的 HTML5 入门教程 <http://www.cnblogs.com/lhb25/p/10-top-html5-tutorials-for-beginners.html>`_
 
+  JavaScript:
+
+    `为什么我不推荐 JavsScript 为首选编程语言 <http://www.oschina.net/news/47732/why-i-dont-suggest-javascript-first-programming-language>`_
+
+    node.js:
+
+      `nodejs Stream使用手册 <http://my.oschina.net/sundq/blog/192276>`_
+
+  CSS:
+
+    `web前端初学者必看css技巧规范（转） <http://my.oschina.net/u/1242866/blog/192291>`_
+
+  Web Development:
+
+    `SOAP和REST的主要区别在哪里？ <http://www.oschina.net/question/1390076_140842>`_
+
   Git:
 
     `15分钟学会使用Git和远程代码库 <http://my.oschina.net/gsbhz/blog/192158>`_
@@ -146,6 +196,12 @@ Simplified Chinese:
 
     `N皇后问题 位运算解法【JAVA实现】 <http://my.oschina.net/u/203607/blog/192184>`_
 
+    `关于TF-IDF <http://my.oschina.net/u/197384/blog/192293>`_
+
+    `递归详解 <http://my.oschina.net/jackguo/blog/192309>`_
+
+    `排序算法笔记：桶排序 BucketSort <http://my.oschina.net/wangchen881202/blog/192320>`_
+
     PHP:
 
       `php算法题 <http://my.oschina.net/leadsir/blog/192141>`_
@@ -153,6 +209,8 @@ Simplified Chinese:
     database:
 
       `浅谈MySQL索引背后的数据结构及算法 <http://my.oschina.net/ydsakyclguozi/blog/192150>`_
+
+      `从jredis中学习一致性hash算法 <http://my.oschina.net/u/866190/blog/192286>`_
 
   Web Backend:
 
@@ -174,6 +232,10 @@ Simplified Chinese:
 
     `OOA/OOD/OOP <http://my.oschina.net/u/159221/blog/192155>`_
 
+  Embedded System:
+
+    `mini2440 使用sdram <http://my.oschina.net/u/1246604/blog/191991>`_
+
   News:
 
     `最大比特币矿池承诺不会发动51%攻击 <http://www.solidot.org/story?sid=37989>`_
@@ -183,9 +245,20 @@ Simplified Chinese:
     `2013年最不可思议的10个硬件开源项目 <http://linux.cn/thread/12203/1/1/>`_
 
     `身为码农，为12306说两句公道话 <http://blog.jobbole.com/55001/>`_
-    (`[转帖]身为码农，为12306说两句公道话 <http://www.oschina.net/question/1014747_140831>`_)
+    (`[转帖]身为码农，为12306说两句公道话 <http://www.oschina.net/question/1014747_140831>`_,
+    `身为码农，为 12306 说两句公道话 <http://www.linuxeden.com/html/news/20140112/147399.html>`__,
+    `身为码农，为 12306 说两句公道话 <http://www.oschina.net/news/47746/for-12306>`__)
 
     `谷歌修复了 FFmpeg 中上千个 bug <http://www.oschina.net/news/47702/google-fixes-a-thousand-bugs-in-ffmpeg>`_
+
+    `oTranscribe：音频手打神器 <http://tech2ipo.com/63021>`_
+
+    `全景照片怎么拍？Panono，就决定是你了！ <http://tech2ipo.com/63020>`_
+
+    `求职技巧：给自己PS上假胡须 <http://www.cnbeta.com/articles/268165.htm>`_
+    (`求职技巧：给自己PS上假胡须 <http://www.linuxeden.com/html/news/20140112/147394.html>`__)
+
+    `facebook 开发新移动测试框架 Airlock <http://www.oschina.net/news/47748/facebook-airlock>`_
 
 Traditional Chinese:
 

@@ -20,7 +20,8 @@ math:
 
   `5 insanely great books about mathematics you should read. <http://wp.kjro.se/2013/12/27/5-insanely-great-books-about-mathematics-you-should-read/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6972765>`__,
-  `外行朋友值得一读的5本经典数学书 <http://blog.jobbole.com/55179/>`_)
+  `外行朋友值得一读的5本经典数学书 <http://blog.jobbole.com/55179/>`_,
+  `外行朋友值得一读的5本经典数学书 <http://www.linuxeden.com/html/news/20140112/147396.html>`__)
 
 Python:
 
