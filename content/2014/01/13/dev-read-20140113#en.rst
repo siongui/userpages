@@ -12,8 +12,29 @@ Python:
 
   `Ask HN: Why use Python or similar? <https://news.ycombinator.com/item?id=7046434>`_
 
+  `Real-time Applications and will Django adapt to it? <http://arunrocks.com/real-time-applications-and-will-django-adapt-to-it/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7046876>`__)
+
+C#:
+
+  `More functional C# <https://news.ycombinator.com/item?id=7047252>`_
+
+Development Book:
+
+  `Best development book I've read, has no code in it. <http://arasatasaygin.com/pages/best-development-book-I-read-has-no-code-in-it.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7046680>`__)
+
+
 
 Simplified Chinese:
+
+  Python:
+
+    `python使用matplotlib绘图 <http://my.oschina.net/dianpaopao/blog/192415>`_
+
+  Linux:
+
+    `文件内容比较工具 <http://my.oschina.net/lotte1699/blog/192373>`_
 
   Command Line:
 
@@ -28,6 +49,10 @@ Simplified Chinese:
   C++:
 
     `C++的另一种错误处理策略 <http://blog.jobbole.com/54699/>`_
+
+  Computer Architecture:
+
+    `FPU与浮点指令 <http://my.oschina.net/u/1383479/blog/192408>`_
 
   News:
 
