@@ -31,7 +31,8 @@ Python:
 Linux:
 
   `Linux:How To Use Screen Command To Manage Your Remote Session <http://itsprite.com/linuxhow-to-use-screen-command-to-manage-your-remote-session/>`_
-  (`Linux：使用 screen 命令来管理远程登录会话 <http://www.oschina.net/translate/linux-how-to-use-screen-command-to-manage-your-remote-session>`_)
+  (`Linux：使用 screen 命令来管理远程登录会话 <http://www.oschina.net/translate/linux-how-to-use-screen-command-to-manage-your-remote-session>`_,
+  `Linux:使用 screen 命令来管理远程登录会话 <http://www.linuxeden.com/html/news/20140112/147428.html>`__)
 
 C/C++:
 

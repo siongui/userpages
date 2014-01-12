@@ -1,5 +1,5 @@
-<Data Mining Algorithms Map>, <Quick start projects>, <Kazakh Professor Claims Solution of>, etc.
-#################################################################################################
+<Data Mining Algorithms Map>, <Quick start projects>, <Kazakh Professor Claims Solution of Navier-Stokes equations>, etc.
+#########################################################################################################################
 
 :date: 2014-01-12 03:06
 :tags: Algorithm, math, database, Python, JavaScript, Machine Learning, AI, Command Line, Clojure, C, C++, Linux, Go, database
