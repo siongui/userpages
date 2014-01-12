@@ -1,8 +1,8 @@
-<Data Mining Algorithms Map>, etc.
-################################################################################################################
+<Data Mining Algorithms Map>, <Quick start projects>, <Kazakh Professor Claims Solution of>, etc.
+#################################################################################################
 
 :date: 2014-01-12 03:06
-:tags: Algorithm, math, database, Python, JavaScript, Machine Learning, AI, Command Line, Clojure
+:tags: Algorithm, math, database, Python, JavaScript, Machine Learning, AI, Command Line, Clojure, C, C++, Linux, Go, database
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-12
@@ -19,9 +19,20 @@ Algorithm:
   `Data Mining Algorithms Map <http://saedsayad.com/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7045267>`__)
 
+Workflow & Development Tricks:
+
+  `Quick start projects <http://blog.sayan.ee/quick-start/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7045744>`__)
+
 Python:
 
   `D3 Plugins: Truly Interactive Matplotlib In Your Browser <http://jakevdp.github.io/blog/2014/01/10/d3-plugins-truly-interactive/>`_
+
+  `the Gravity of Python 2 <http://blog.startifact.com/posts/python-2-gravity.html>`_
+
+  `Design Patterns for Beginners in Python <http://pypix.com/tools-and-tips/design-patterns-beginners/>`_
+
+  `HSK东西 Scripts: a site for learning Chinese characters - or, "Handling Chinese characters with Python Unicode strings is less hassle than I thought it would be." <http://blog.pythonanywhere.com/79/>`_
 
   Tutorial:
 
@@ -34,6 +45,8 @@ Python:
     `Easiest way to Learn Python: Part 3 <http://infiniteloop.in/blog/easiest-way-to-learn-python-part-3/>`_
 
     `Easiest way to Learn Python: Part 4 <http://infiniteloop.in/blog/easiest-way-to-learn-python-part-4/>`_
+
+    `Easiest way to Learn Python: Part 5 <http://infiniteloop.in/blog/easiest-way-to-learn-python-part-5/>`_
 
 Command Line:
 
@@ -125,6 +138,8 @@ JavaScript:
 
   `WebGL tombstone – bump mapping <http://www.pheelicks.com/2014/01/webgl-tombstone-bump-mapping/>`_
 
+  `Sweet.js, Write Marco for JavaScript, Get Ready for ES6! <http://www.codersgrid.com/2014/01/10/sweet-js-write-marco-for-javascript-get-ready-for-es6/>`_
+
 CS Theory:
 
   `15-819 Homotopy Type Theory <http://www.cs.cmu.edu/~rwh/courses/hott/>`_
@@ -152,6 +167,17 @@ Virtualization:
   `Comparing Filesystem Performance in Virtual Machines <http://mitchellh.com/comparing-filesystem-performance-in-virtual-machines>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7037929>`__)
 
+Scheme:
+
+  `Scheme benchmarking with a meta-circular interpreter <http://yinwang0.wordpress.com/2013/11/04/scheme-benchmarking/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7045734>`__)
+
+Computer Architecture:
+
+  `ARM immediate value encoding <http://alisdair.mcdiarmid.org/2014/01/12/arm-immediate-value-encoding.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7045759>`__)
+
+
 
 Simplified Chinese:
 
@@ -175,6 +201,10 @@ Simplified Chinese:
 
     `PyQt4学习笔记1：PyQt4第一个程序 <http://my.oschina.net/u/178456/blog/192308>`_
 
+    `python 淘宝系列（二）：处理验证码的模拟登陆 <http://my.oschina.net/u/811744/blog/192087>`_
+
+    `把从豆瓣妹子抓的图片上传到七牛 <http://www.oschina.net/code/snippet_1017934_32536>`_
+
   Go:
 
     `golang -- ToString <http://my.oschina.net/1123581321/blog/192252>`_
@@ -193,6 +223,8 @@ Simplified Chinese:
 
     `gobuild 网站建立起源 <http://blog.go-china.org/12-gobuild-description>`_
 
+    `golang在线编译+下载服务 建站之路 <http://my.oschina.net/goskyblue/blog/192333>`_
+
   Browser:
 
     `浏览器的工作原理：新式网络浏览器幕后揭秘 <http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/>`_
@@ -204,6 +236,15 @@ Simplified Chinese:
 
     `sort帮你排序 - linux命令 <http://my.oschina.net/u/929434/blog/192138>`_
 
+    `初学linux者，最常用的linux指令 <http://my.oschina.net/u/854917/blog/192099>`_
+
+    `linux下的文本web浏览器 <http://my.oschina.net/lotte1699/blog/192326>`_
+
+    Shell:
+
+      `37条常用Linux Shell命令组合 <http://blog.jobbole.com/48173/>`_
+      (`37条常用Linux Shell命令组合 <http://my.oschina.net/nuc630/blog/192329>`__)
+
   C:
 
     `hash <http://www.oschina.net/code/snippet_1433581_32563>`_
@@ -211,6 +252,8 @@ Simplified Chinese:
     `C的温故知新 <http://my.oschina.net/soitravel/blog/192134>`_
 
     `文件EOF的解析（转） <http://my.oschina.net/u/819106/blog/192123>`_
+
+    `C语言实现单链队列 <http://www.oschina.net/code/snippet_998245_32547>`_
 
   C++:
 
@@ -222,13 +265,26 @@ Simplified Chinese:
 
     `初探Thrift客户端异步模式 <http://blog.jobbole.com/55256/>`_
 
+    `C++指针指向字符串的问题 <http://www.oschina.net/question/1036620_140787>`_
+
+    `c++ 继承关系中的函数调用 <http://my.oschina.net/zjuysw/blog/192321>`_
+
+    `c++读写二进制文件 <http://greatverve.cnblogs.com/archive/2012/10/29/cpp-io-binary.html>`_
+    (`C++文件输入输出 <http://my.oschina.net/zhou4306/blog/192323>`_)
+
   HTML:
 
     `推荐10个适合初学者的 HTML5 入门教程 <http://www.cnblogs.com/lhb25/p/10-top-html5-tutorials-for-beginners.html>`_
 
+    `js/html/css做一个简单的图片自动（auto）轮播效果//带注释 <http://www.oschina.net/code/snippet_1242866_32550>`_
+
   JavaScript:
 
     `为什么我不推荐 JavsScript 为首选编程语言 <http://www.oschina.net/news/47732/why-i-dont-suggest-javascript-first-programming-language>`_
+
+    `js异步调用实现 <http://my.oschina.net/cimu/blog/192089>`_
+
+    `研发周报：超实用的JavaScript技巧及最佳实践 <http://www.csdn.net/article/2014-01-10/2818103-software-weekly-report>`_
 
     node.js:
 
@@ -239,6 +295,8 @@ Simplified Chinese:
   CSS:
 
     `web前端初学者必看css技巧规范（转） <http://my.oschina.net/u/1242866/blog/192291>`_
+
+    `css优先级调整-解决整体设置a:hover的方法 <http://my.oschina.net/u/254267/blog/192078>`_
 
   Web Development:
 
@@ -270,8 +328,12 @@ Simplified Chinese:
 
     `排序算法笔记：桶排序 BucketSort <http://my.oschina.net/wangchen881202/blog/192320>`_
 
+    `排序算法笔记：希尔排序 ShellSort <http://my.oschina.net/wangchen881202/blog/192344>`_ (Java)
+
     `算法预测小说是否畅销 <http://www.solidot.org/story?sid=37981>`_
     (`算法预测小说是否畅销 <http://www.linuxeden.com/html/news/20140110/147371.html>`__)
+
+    `回溯法求解数独 <http://www.oschina.net/code/snippet_1275171_32578>`_ (Java)
 
     PHP:
 
@@ -297,6 +359,8 @@ Simplified Chinese:
 
     `进入保护模式（十二）多任务的简单实现 <http://my.oschina.net/u/1185580/blog/192207>`_
 
+    `mini2440 链接脚本 <http://my.oschina.net/u/1246604/blog/192096>`_
+
   PHP:
 
     `简单中文验证码 <http://www.oschina.net/code/snippet_1244643_32567>`_
@@ -314,6 +378,10 @@ Simplified Chinese:
     `mini2440 使用sdram <http://my.oschina.net/u/1246604/blog/191991>`_
 
     `用树莓派构建低能耗网络存储设备 <http://www.geekfan.net/5003/>`_
+
+  Java:
+
+    `httpClient模拟登录新浪微博 <http://www.oschina.net/code/snippet_1267452_32537>`_
 
   News:
 
@@ -336,18 +404,11 @@ Simplified Chinese:
 
     `全景照片怎么拍？Panono，就决定是你了！ <http://tech2ipo.com/63020>`_
 
-    `求职技巧：给自己PS上假胡须 <http://www.cnbeta.com/articles/268165.htm>`_
-    (`求职技巧：给自己PS上假胡须 <http://www.linuxeden.com/html/news/20140112/147394.html>`__)
-
     `facebook 开发新移动测试框架 Airlock <http://www.oschina.net/news/47748/facebook-airlock>`_
 
     `那些出现在电影中的程序代码 <http://www.oschina.net/news/47665/source-code-in-tv-and-films>`_
 
     `Rust 0.9 发布，Mozilla 新的编程语言 <http://www.oschina.net/news/47669/rust-0-9>`_
-
-    `我国自主研发手机操作系统 960 OS 发布 <http://www.oschina.net/news/47675/960-os>`_
-
-    `“棱镜门”下的再反思 同洲电子960手机OS诞生记 <http://www.cnbeta.com/articles/267920.htm>`_
 
     `开源地图编辑器 MarbleMap，支持Cocos2d-x坐标系 <http://www.oschina.net/news/47697/marblemap-editor-support-cocos2d-x>`_
 
@@ -359,6 +420,33 @@ Simplified Chinese:
 
     `台湾市场小吗？日本app开发商可不这么认为 <http://news.appying.com.cn/focus/4283/>`_
     (`台湾市场小吗？日本app开发商可不这么认为 <http://www.linuxeden.com/html/itnews/20140110/147363.html>`__)
+
+    `一周消息树：2013年十大产品、图书、公司盘点 <http://www.csdn.net/article/2014-01-10/2818097-Weekly-news>`_
+
+    `【PPT集萃】十位一线专家分享Spark现状与未来（三） <http://www.csdn.net/article/2014-01-09/2818080-Hadoop-Apache-Spark-Shark>`_
+
+    `25年老对手评价微软：换CEO可行，但是太迟了 <http://www.csdn.net/article/2014-01-09/2818087-25-years-competitor-to-microsoft>`_
+
+    `教育乃立国之本：教育类开源项目大汇集 <http://www.csdn.net/article/2014-01-10/2818104-Education-Open-Source>`_
+
+    Physics:
+
+      `物理学家声称首次观察到量子柴郡猫 <http://www.solidot.org/story?sid=37994>`_
+
+    Job:
+
+      `2013最吃香的技能：Java称霸、Android势头正猛 <http://www.csdn.net/article/2014-01-09/2818086-The-Most-In-Demand-Tech-Skills>`_
+
+      `求职技巧：给自己PS上假胡须 <http://www.cnbeta.com/articles/268165.htm>`_
+      (`求职技巧：给自己PS上假胡须 <http://www.linuxeden.com/html/news/20140112/147394.html>`__)
+
+    960 OS:
+
+      `我国自主研发手机操作系统 960 OS 发布 <http://www.oschina.net/news/47675/960-os>`_
+
+      `“棱镜门”下的再反思 同洲电子960手机OS诞生记 <http://www.cnbeta.com/articles/267920.htm>`_
+
+      `温室的花朵成不了苍天大树——评960 OS <http://www.linuxeden.com/html/itnews/20140112/147407.html>`_
 
 Traditional Chinese:
 

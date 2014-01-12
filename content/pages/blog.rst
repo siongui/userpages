@@ -50,6 +50,8 @@ Python/Go:
 
   `Owen Ou's Blog <http://owenou.com/>`_
 
+  `Secret Weblog <http://blog.startifact.com/>`_
+
 Ruby:
 
   `GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS <http://robots.thoughtbot.com/>`_ (Ruby, SASS)
