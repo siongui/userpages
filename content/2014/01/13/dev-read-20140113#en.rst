@@ -25,7 +25,8 @@ C#:
 Go:
 
   `Memory leak in Go http standard library? <http://stackoverflow.com/questions/21080642/memory-leak-in-go-http-standard-library>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7047680>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7047680>`__,
+  `Go 语言的 HTTP 标准库中的内存泄漏问题？ <http://www.oschina.net/translate/memory-leak-in-go-http-standard-library>`_)
 
   `Free screencasts to learn Go <https://gocasts.io/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7049717>`__)
@@ -176,6 +177,7 @@ Simplified Chinese:
   C++:
 
     `C++的另一种错误处理策略 <http://blog.jobbole.com/54699/>`_
+    (`C++的另一种错误处理策略 <http://www.linuxeden.com/html/news/20140113/147431.html>`__)
 
   Computer Architecture:
 
@@ -208,6 +210,7 @@ Simplified Chinese:
     `英国政府横评11款系统：Ubuntu最安全 <http://linux.cn/thread/12207/1/1/>`__)
 
     `开源脑电波设备问世 可通过图形判断人类思维 <http://linux.cn/thread/12206/1/1/>`_
+    (`开源脑电波设备问世 可通过图形判断人类思维 <http://www.linuxeden.com/html/news/20140113/147455.html>`__)
 
     `盘点游戏里那些奇怪的BUG 图多杀猫 <http://www.linuxeden.com/html/itnews/20140112/147425.html>`_
 
@@ -226,11 +229,21 @@ Simplified Chinese:
     `又拍云存储自建CDN技术探秘 <http://www.infoq.com/cn/presentations/quest-self-construction-cdn-technology-of-cloud-storage-in-youpaiyun>`_
 
     `Twitter 系统完全基于开源软件构建 <http://www.oschina.net/news/47756/twitter-based-on-opensource>`_
+    (`Twitter 系统完全基于开源软件构建 <http://www.linuxeden.com/html/news/20140113/147444.html>`__)
+
+    `epub: 在 Linux 命令行下阅读 ePub 电子书 <http://www.linuxeden.com/html/news/20140113/147451.html>`_
+
+    `迄今为止体积最大、最小的两款3D打印机问世 <http://www.linuxeden.com/html/itnews/20140113/147445.html>`_
+
+    `程天纵：创客是第三次工业革命的本源 <http://www.linuxeden.com/html/itnews/20140113/147446.html>`_
+
+    `2013年 IT巨头在数据中心烧掉的那些钱 <http://www.linuxeden.com/html/news/20140113/147462.html>`_
 
     `12306 大战“网络黄牛”：淘宝也“救”不了 <http://www.oschina.net/news/47759/can-taobao-save-12306>`_
 
     `Hugo Barra首度谈离开谷歌后在中国工作的感受 对中国赞不绝口 <http://www.csdn.net/article/2014-01-13/2818107-chinese-tech-industry>`_
-    (`Google前高管眼里的中国 <http://www.solidot.org/story?sid=38010>`_)
+    (`Google前高管眼里的中国 <http://www.solidot.org/story?sid=38010>`_,
+    `Hugo Barra首度谈离开谷歌后在中国工作的感受 <http://www.linuxeden.com/html/itnews/20140113/147463.html>`_)
 
     `【CSDN云计算俱乐部】九城及携程的Hadoop大数据平台 <http://www.csdn.net/article/2014-01-13/2818108-hadoop-to-business-based-bigdata-analysis>`_
 

@@ -51,6 +51,11 @@ Game:
   `SimCity Offline Is Coming <http://www.simcity.com/en_US/blog/article/simcity-offline-is-coming>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7051361>`__)
 
+Website:
+
+  `The architecture of Stack Overflow [video] <http://www.dev-metal.com/architecture-stackoverflow/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7052835>`__)
+
 
 
 Simplified Chinese:

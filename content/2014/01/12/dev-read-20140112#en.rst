@@ -101,7 +101,8 @@ Linux:
   (`“Linux”不等同于Linux内核：构建Linux系统的8个软件包 <http://www.geekfan.net/5035/>`_)
 
   `10 Useful Chaining Operators in Linux with Practical Examples <http://www.tecmint.com/chaining-operators-in-linux-with-practical-examples/>`_
-  (`Linux中命令链接操作符的十个最佳实例 <http://www.linuxeden.com/html/softuse/20140112/147406.html>`_)
+  (`Linux中命令链接操作符的十个最佳实例 <http://www.linuxeden.com/html/softuse/20140112/147406.html>`_,
+  `Linux中命令链接操作符的十个最佳实例 <http://linux.cn/thread/12205/1/1/>`__)
 
 Cryptocurrency:
 
@@ -477,6 +478,8 @@ Simplified Chinese:
       `“棱镜门”下的再反思 同洲电子960手机OS诞生记 <http://www.cnbeta.com/articles/267920.htm>`_
 
       `温室的花朵成不了苍天大树——评960 OS <http://www.linuxeden.com/html/itnews/20140112/147407.html>`_
+
+      `同洲960：自主手机操作系统自恋情结何时了 <http://www.linuxeden.com/html/news/20140113/147450.html>`_
 
 Traditional Chinese:
 
