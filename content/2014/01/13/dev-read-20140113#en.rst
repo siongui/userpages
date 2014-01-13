@@ -67,6 +67,23 @@ Programming Language:
   `New release of Self programming language <http://blog.selflanguage.org/2014/01/12/self-mallard-4-5-0-released/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7047953>`__)
 
+  `Haskell, Ada, C++, Awk: An Experiment in Prototyping Productivity (1994) [pdf] <http://haskell.cs.yale.edu/wp-content/uploads/2011/03/HaskellVsAda-NSWC.pdf>`_,
+  `[scribd] <http://www.scribd.com/vacuum?url=http://haskell.cs.yale.edu/wp-content/uploads/2011/03/HaskellVsAda-NSWC.pdf>`__
+  (`HN discuss <https://news.ycombinator.com/item?id=7050892>`__)
+
+Algorithm:
+
+  `Lightweight Indexing for Small Strings <http://spin.atomicobject.com/2014/01/13/lightweight-indexing-for-embedded-systems/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7050339>`__)
+
+
+
+Traditional Chinese:
+
+  Dart:
+
+    `Angular Dart First Impression <http://ingramchen.io/blog/2014/01/angular-dart-first-impression.html>`_
+
 
 
 Simplified Chinese:
