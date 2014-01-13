@@ -1,5 +1,5 @@
-<Why use Python or similar?>, etc.
-#################################################################################################
+<Real-time Applications and will Django adapt to it?>, <Writing A Better JavaScript Library For The DOM>, etc.
+##############################################################################################################
 
 :date: 2014-01-13 02:20
 :tags: Python, Go, Embedded System, JavaScript, CSS, Security, Algorithm, Docker, database
