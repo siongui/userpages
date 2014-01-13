@@ -2,7 +2,7 @@
 #########################################################################################
 
 :date: 2014-01-14 02:20
-:tags: Lisp, Rust, Shell, Game
+:tags: Lisp, Rust, Shell, C++, Game
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-14
@@ -17,6 +17,11 @@ Rust:
 
   `A 30 minute introduction to Rust <http://words.steveklabnik.com/a-30-minute-introduction-to-rust>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7051835>`__)
+
+C++:
+
+  `Why is reading lines from stdin much slower in C++ than Python? <http://stackoverflow.com/questions/9371238/why-is-reading-lines-from-stdin-much-slower-in-c-than-python>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7053375>`__)
 
 Web Hosting:
 
@@ -50,6 +55,9 @@ Game:
 
   `SimCity Offline Is Coming <http://www.simcity.com/en_US/blog/article/simcity-offline-is-coming>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7051361>`__)
+
+  `Super Mario World "Executes Arbitrary Code" [video] <https://www.youtube.com/watch?v=OPcV9uIY5i4>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7052650>`__)
 
 Website:
 
