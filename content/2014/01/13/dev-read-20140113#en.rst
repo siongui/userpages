@@ -31,6 +31,9 @@ Go:
   `Free screencasts to learn Go <https://gocasts.io/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7049717>`__)
 
+  `GopherJS, a transpiler from Go to JavaScript <https://github.com/neelance/gopherjs>`_
+  (`Google+ post <https://plus.google.com/101991923262638196894/posts/H7Zn9WhCQiz>`__)
+
 JavaScript:
 
   `Writing A Better JavaScript Library For The DOM <http://coding.smashingmagazine.com/2014/01/13/better-javascript-library-for-the-dom/>`_
