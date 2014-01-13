@@ -15,6 +15,9 @@ Python:
   `Real-time Applications and will Django adapt to it? <http://arunrocks.com/real-time-applications-and-will-django-adapt-to-it/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7046876>`__)
 
+  `Kickstarting a Django Open Source Project <http://www.realpython.com/blog/python/kickstarting-a-django-open-source-project/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7050947>`__)
+
 C#:
 
   `More functional C# <https://news.ycombinator.com/item?id=7047252>`_
@@ -54,6 +57,15 @@ Entrepreneurs:
 
   `The Google Ventures Library <http://www.gv.com/library/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7047527>`__)
+
+Development:
+
+  `Quick tip for developers who use OS X <https://news.ycombinator.com/item?id=7051091>`_
+
+Programming Language:
+
+  `New release of Self programming language <http://blog.selflanguage.org/2014/01/12/self-mallard-4-5-0-released/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7047953>`__)
 
 
 
@@ -96,6 +108,10 @@ Simplified Chinese:
 
     `学C语言再谈链表学习 <http://my.oschina.net/u/1409620/blog/192686>`_
 
+  Compiler:
+
+    `g++ 内联汇编 外联汇编 <http://my.oschina.net/dream0303/blog/192375>`_
+
   Security:
 
     `被小伙伴们蠢哭了的那些事儿：找回密码篇 <http://my.oschina.net/zhengyun/blog/192693>`_
@@ -105,6 +121,8 @@ Simplified Chinese:
   Frontend:
 
     `2014年最新前端开发面试题 <http://my.oschina.net/markyun/blog/192632>`_
+
+    `2014 年十大网页设计趋势和预测 <http://www.oschina.net/news/47760/top-10-web-design-trends-and-predictions-for-2014>`_
 
     JavaScript:
 
@@ -130,9 +148,14 @@ Simplified Chinese:
 
     `最基本的算法 <http://www.oschina.net/code/snippet_1258394_32602>`_
 
+  Recommender System:
+
+    `360推荐系统实践分享 <http://www.infoq.com/cn/presentations/360-recommended-practice-system-sharing>`_
+
   News:
 
     `英国政府横评11款系统：Ubuntu最安全 <http://blog.jobbole.com/55460/>`_
+    (`英国政府横评 11 款系统：Ubuntu 最安全 <http://www.oschina.net/news/47763/ubuntu-is-safe>`__)
 
     `盘点游戏里那些奇怪的BUG 图多杀猫 <http://www.linuxeden.com/html/itnews/20140112/147425.html>`_
 
@@ -141,3 +164,19 @@ Simplified Chinese:
     `朝九晚五并不适合脑力劳动者 <http://www.aqee.net/why-the-9-to-5-day-is-so-tough-on-creative-workers/>`_
 
     `D-Wave现在拥有1000量子比特的量子计算机 <http://www.solidot.org/story?sid=38015>`_
+
+    `2014年值得关注的9项技术 <http://www.infoq.com/cn/news/2014/01/9-popular-technologies-2014>`_
+
+    `探秘Twitter的应急预案、部署流程与新架构 <http://www.infoq.com/cn/interviews/twitter-emergency-plans-deploy-processes-and-new-architectures>`_
+
+    `System Linkers的理论，历史与未来 <http://www.infoq.com/cn/presentations/system-linkers-theory-history-and-future>`_
+
+    `又拍云存储自建CDN技术探秘 <http://www.infoq.com/cn/presentations/quest-self-construction-cdn-technology-of-cloud-storage-in-youpaiyun>`_
+
+    `Twitter 系统完全基于开源软件构建 <http://www.oschina.net/news/47756/twitter-based-on-opensource>`_
+
+    `12306 大战“网络黄牛”：淘宝也“救”不了 <http://www.oschina.net/news/47759/can-taobao-save-12306>`_
+
+  Magazine:
+
+    `架构师（1月刊） <http://www.infoq.com/cn/minibooks/architect-jan-10-2014>`_

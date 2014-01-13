@@ -27,8 +27,9 @@ Assembly:
 Go:
 
   `Go 1.3 Linker Overhaul <https://docs.google.com/document/d/1xN-g6qjjWflecSP08LNgh2uFsKjWb-rR9KA11ip_DIE/preview?sle=true#>`_
-  (Simplified Chinese translation `1 <http://www.oschina.net/translate/go-1-3-linker-overhaul>`__,
-  `2 <http://www.linuxeden.com/html/news/20131215/146395.html>`__)
+  (`Go 1.3 链接器检修 <http://www.oschina.net/translate/go-1-3-linker-overhaul>`__,
+  `Go 1.3 链接器检修 <http://www.linuxeden.com/html/news/20131215/146395.html>`__,
+  `Go 1.3 链接器大修 <http://blog.go-china.org/14-Go-1.3-Linker-Overhaul>`__)
 
   `Benchmarking Nginx with Go <https://gist.github.com/hgfischer/7965620>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6907987>`__,

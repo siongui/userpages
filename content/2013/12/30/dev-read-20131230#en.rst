@@ -83,7 +83,7 @@ Ruby:
 
   `Ruby 2.1: RGenGC <http://tmm1.net/ruby21-rgengc/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6983796>`__,
-  簡體中文翻譯 `1 <http://www.oschina.net/translate/ruby21-rgengc>`__)
+  `Ruby 2.1: RGenGC <http://www.oschina.net/translate/ruby21-rgengc>`__)
 
 CSS:
 
