@@ -2,7 +2,7 @@
 #################################################################################################
 
 :date: 2014-01-13 02:20
-:tags: Python, Go
+:tags: Python, Go, Embedded System, JavaScript, CSS, Security, Algorithm, Docker, database
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-13
@@ -76,6 +76,19 @@ Algorithm:
   `Lightweight Indexing for Small Strings <http://spin.atomicobject.com/2014/01/13/lightweight-indexing-for-embedded-systems/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7050339>`__)
 
+  `1000x Faster Spelling Correction: Source Code released <http://blog.faroo.com/2012/06/24/1000x-faster-spelling-correction-source-code-released/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7048225>`__)
+
+Docker:
+
+  `Docker : The Good Parts <http://blog.shrikrishnaholla.in/post/2014/01/12/docker-the-good-parts/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7048808>`__)
+
+database:
+
+  `Poor Man's Firebase: LevelDB, REST, and WebSockets <http://procbits.com/2014/01/06/poor-mans-firebase-leveldb-rest-and-websockets>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7048853>`__)
+
 
 
 Traditional Chinese:
@@ -96,13 +109,22 @@ Simplified Chinese:
 
     `python 3.3 模拟登陆百度 <http://www.oschina.net/code/snippet_1047557_32612>`_
 
+    `Python爬虫程序获取百度搜索结果的标题、描述、url。 <http://www.oschina.net/code/snippet_862533_32580>`_
+
     `查询阿里巴巴关键字排名 <http://my.oschina.net/lyroge/blog/192628>`_
+    (`查询阿里巴巴关键字排名 <http://www.oschina.net/code/snippet_186468_32591>`__)
+
+    `实现磨铁追书2.0版 <http://www.oschina.net/code/snippet_103389_32595>`_
 
   Linux:
 
     `文件内容比较工具 <http://my.oschina.net/lotte1699/blog/192373>`_
 
     `如何在Linux桌面环境下自动启动程序？ <http://my.oschina.net/u/1439140/blog/192608>`_
+
+    `如何在 Linux 中生成全景照片 <http://linux.cn/thread/12210/1/1/>`_
+
+    `Linux vmstat 命令 - 报告虚拟内存统计的工具 <http://linux.cn/thread/12209/1/1/>`_
 
   Command Line:
 
@@ -147,6 +169,10 @@ Simplified Chinese:
 
       `一次愉快的 bug 修复经历 <http://my.oschina.net/lujian863/blog/192660>`_
 
+      `屏蔽首页动弹中不想看到的人(油猴子) <http://www.oschina.net/code/snippet_1029305_32581>`_
+
+      `写的一个轻量级javascript框架的设计模式 <http://www.oschina.net/code/snippet_1010990_32586>`_
+
   C++:
 
     `C++的另一种错误处理策略 <http://blog.jobbole.com/54699/>`_
@@ -169,10 +195,19 @@ Simplified Chinese:
 
     `360推荐系统实践分享 <http://www.infoq.com/cn/presentations/360-recommended-practice-system-sharing>`_
 
+  Embedded System:
+
+    `2013年终盘点：10款最精巧的硬件开发板 <http://www.csdn.net/article/2014-01-03/2818015-tiny-hardware-development-boards-of-2013>`_
+
+    `SquareWear：可替代Lilypad Arduino的开发板 <http://www.csdn.net/article/2014-01-13/2818115-a-tiny-sewable-opensource-board-SquareWear>`_
+
   News:
 
     `英国政府横评11款系统：Ubuntu最安全 <http://blog.jobbole.com/55460/>`_
-    (`英国政府横评 11 款系统：Ubuntu 最安全 <http://www.oschina.net/news/47763/ubuntu-is-safe>`__)
+    (`英国政府横评 11 款系统：Ubuntu 最安全 <http://www.oschina.net/news/47763/ubuntu-is-safe>`__,
+    `英国政府横评11款系统：Ubuntu最安全 <http://linux.cn/thread/12207/1/1/>`__)
+
+    `开源脑电波设备问世 可通过图形判断人类思维 <http://linux.cn/thread/12206/1/1/>`_
 
     `盘点游戏里那些奇怪的BUG 图多杀猫 <http://www.linuxeden.com/html/itnews/20140112/147425.html>`_
 
@@ -193,6 +228,13 @@ Simplified Chinese:
     `Twitter 系统完全基于开源软件构建 <http://www.oschina.net/news/47756/twitter-based-on-opensource>`_
 
     `12306 大战“网络黄牛”：淘宝也“救”不了 <http://www.oschina.net/news/47759/can-taobao-save-12306>`_
+
+    `Hugo Barra首度谈离开谷歌后在中国工作的感受 对中国赞不绝口 <http://www.csdn.net/article/2014-01-13/2818107-chinese-tech-industry>`_
+    (`Google前高管眼里的中国 <http://www.solidot.org/story?sid=38010>`_)
+
+    `【CSDN云计算俱乐部】九城及携程的Hadoop大数据平台 <http://www.csdn.net/article/2014-01-13/2818108-hadoop-to-business-based-bigdata-analysis>`_
+
+    `开放数据：2014年最热门的竞争领域 <http://www.csdn.net/article/2014-01-13/2818114-open-data>`_
 
   Magazine:
 
