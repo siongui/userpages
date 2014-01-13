@@ -147,7 +147,8 @@ Simplified Chinese:
   Programming:
 
     `多如牛毛的小类 <http://www.pythoner.cn/home/blog/tons-of-small-classes/>`_
-    (`多如牛毛的小类 <http://www.linuxeden.com/html/news/20140109/147310.html>`__)
+    (`多如牛毛的小类 <http://www.linuxeden.com/html/news/20140109/147310.html>`__,
+    `多如牛毛的小类 <http://www.aqee.net/tons-of-small-classes/>`__)
 
   Algorithm:
 

@@ -419,7 +419,8 @@ Simplified Chinese:
 
     `2013年最不可思议的10个硬件开源项目 <http://linux.cn/thread/12203/1/1/>`_
     (`2013年最不可思议的10个硬件开源项目 <http://www.oschina.net/news/47698/10-incredible-open-source-hardware-projects-in-2013>`__,
-    `2013 年最不可思议的 10 个硬件开源项目 <http://www.linuxeden.com/html/news/20140110/147370.html>`__)
+    `2013 年最不可思议的 10 个硬件开源项目 <http://www.linuxeden.com/html/news/20140110/147370.html>`__,
+    `2013年十大不可思议的开源硬件项目 <http://www.pythoner.cn/home/blog/10-of-the-most-incredible-open-source-hardware-projects-born-in-2013/>`__)
 
     `身为码农，为12306说两句公道话 <http://blog.jobbole.com/55001/>`_
     (`[转帖]身为码农，为12306说两句公道话 <http://www.oschina.net/question/1014747_140831>`_,
@@ -435,6 +436,7 @@ Simplified Chinese:
     `facebook 开发新移动测试框架 Airlock <http://www.oschina.net/news/47748/facebook-airlock>`_
 
     `那些出现在电影中的程序代码 <http://www.oschina.net/news/47665/source-code-in-tv-and-films>`_
+    (`那些出现在电影中的程序代码 <http://www.aqee.net/source-code-in-tv-and-films/>`__)
 
     `Rust 0.9 发布，Mozilla 新的编程语言 <http://www.oschina.net/news/47669/rust-0-9>`_
 

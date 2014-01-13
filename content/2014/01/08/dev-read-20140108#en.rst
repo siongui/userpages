@@ -101,7 +101,8 @@ C:
   `C language and the linux macro - proof that linux is always Number 1 <http://arjunsreedharan.org/post/71403510912/c-language-and-the-linux-macro-proof-that-linux-is>`_
   (`事实证明linux永远是number 1 <http://www.aqee.net/proof-that-linux-is-always-number-1/>`_,
   `事实证明linux永远是number 1 <http://www.pythoner.cn/home/blog/proof-that-linux-is-always-number-1/>`__,
-  `事实证明linux永远是number 1 <http://www.oschina.net/news/47649/proof-that-linux-is-always-number-1>`__)
+  `事实证明linux永远是number 1 <http://www.oschina.net/news/47649/proof-that-linux-is-always-number-1>`__,
+  `事实证明linux永远是number 1 <http://www.aqee.net/proof-that-linux-is-always-number-1/>`__)
 
 CentOS:
 

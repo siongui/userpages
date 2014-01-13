@@ -323,6 +323,10 @@ Traditional Chinese:
 
   `1984年產物 <http://donaldisfreak.github.io/>`_
 
+  `Fred's blog <http://fred-zone.blogspot.com/>`_
+
+  `Random Notes <http://alberthuang314.blogspot.com/>`_
+
 `Yu-Jie Lin <http://www.yjl.im/>`_
 
 `Licson's Tech Space <http://licson.net/>`_
