@@ -41,6 +41,10 @@ Simplified Chinese:
 
     `C++11语言扩展：常规特性 <http://blog.jobbole.com/55063/>`_
 
+  Raspberry Pi:
+
+    `如何使用BerryBoot来使树莓派支持多系统 <http://www.geekfan.net/5244/>`_
+
   News:
 
     `教是最好的学 <http://www.infoq.com/cn/news/2014/01/teaching-best-way-learning>`_
@@ -54,3 +58,7 @@ Traditional Chinese:
   Development:
 
     `Rails 筆記 - terminal 設定 <http://adz.visionbundles.com/posts/174831-rails-note-terminal-settings>`_
+
+  Video Recording:
+
+    `用 VLC 簡單錄製畫面操作影片 <http://www.arthurtoday.com/2014/01/vlc-screen-recording-tutorial.html#.UtW-Ad8Q939>`_
