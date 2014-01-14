@@ -3,6 +3,10 @@
 :status: hidden
 
 
+Math:
+
+  `Got Math? | Strength in Numbers <http://gotmath.com/>`_
+
 Python/Go:
 
   `Python Programming <http://www.jeffknupp.com/>`_
@@ -51,6 +55,8 @@ Python/Go:
   `Owen Ou's Blog <http://owenou.com/>`_
 
   `Secret Weblog <http://blog.startifact.com/>`_
+
+  `code monk | hacking habits <http://drj11.wordpress.com/>`_
 
 Ruby:
 

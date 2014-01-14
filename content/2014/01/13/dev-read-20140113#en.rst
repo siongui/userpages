@@ -13,7 +13,8 @@ Python:
   `Ask HN: Why use Python or similar? <https://news.ycombinator.com/item?id=7046434>`_
 
   `Real-time Applications and will Django adapt to it? <http://arunrocks.com/real-time-applications-and-will-django-adapt-to-it/>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7046876>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7046876>`__,
+  `Meteor PK Django，谁更适合开发实时Web应用？ <http://www.csdn.net/article/2014-01-14/2818135-Meteor-PK-Django>`_)
 
   `Kickstarting a Django Open Source Project <http://www.realpython.com/blog/python/kickstarting-a-django-open-source-project/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7050947>`__)
