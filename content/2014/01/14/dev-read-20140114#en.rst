@@ -59,12 +59,58 @@ Game:
   `Super Mario World "Executes Arbitrary Code" [video] <https://www.youtube.com/watch?v=OPcV9uIY5i4>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7052650>`__)
 
+Github:
+
+  `GitHub's Future: No CS Degree Required <http://readwrite.com/2014/01/14/githubs-future-no-cs-degree-required>`_
+
 Website:
 
   `The architecture of Stack Overflow [video] <http://www.dev-metal.com/architecture-stackoverflow/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7052835>`__)
 
+Scientific Computing:
+
+  `Introduction to Scientific Computing: Error Propagation <http://functionspace.org/articles/21/Introduction-to-Scientific-Computing--Error-Propagation>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7057098>`__)
+
+math:
+
+  `Project Euler <http://projecteuler.net/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7056888>`__)
+
 
 
 Simplified Chinese:
 
+  Python:
+
+    `Django中与Html相关的filter <http://www.ccpt.cc/html_filter_in_django/>`_
+
+    `Python2.X 学习笔记 <http://my.oschina.net/bigsloth/blog/192881>`_
+
+  Linux:
+
+    `UNIX 技巧: UNIX 高手的另外 10 个习惯 <https://www.ibm.com/developerworks/cn/aix/library/au-unixtips/>`_
+    (`Unix 高手的另外 10 个习惯 <http://blog.jobbole.com/55445/>`__)
+
+    `linux 内存管理浅析（二） <http://my.oschina.net/u/1423896/blog/193016>`_
+
+  Website:
+
+    `超大型电商系统架构解密 <http://www.infoq.com/cn/presentations/decrypt-the-architecture-of-large-e-commerce-system>`_
+
+  C:
+
+    `关于C语言下的atof的小问题 <http://www.oschina.net/question/1040876_141190>`_
+
+  Security:
+
+    `360任意密码修改漏洞详情公布 <http://www.linuxeden.com/html/news/20140114/147505.html>`_
+
+  News:
+
+    `最牛数据可视化项目：过去四十年全球难民流向 <http://www.pythoner.cn/home/blog/the-best-data-visualization-project/>`_
+
+    `Netflix开源S3一致性提升利器S3mper Fi <http://www.linuxeden.com/html/news/20140114/147511.html>`_
+
+    `漫画：风险 <http://www.linuxeden.com/html/picture/fun/0114/147512.html>`_
