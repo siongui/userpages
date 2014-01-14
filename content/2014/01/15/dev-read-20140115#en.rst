@@ -41,9 +41,16 @@ Simplified Chinese:
 
     `C++11语言扩展：常规特性 <http://blog.jobbole.com/55063/>`_
 
+  News:
+
+    `教是最好的学 <http://www.infoq.com/cn/news/2014/01/teaching-best-way-learning>`_
 
 Traditional Chinese:
 
-  `Rails 筆記 - terminal 設定 <http://adz.visionbundles.com/posts/174831-rails-note-terminal-settings>`_
+  Data Science:
 
-  `網上意見是輿論嗎？ <http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/7692-20140115.html>`_
+    `網上意見是輿論嗎？ <http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/7692-20140115.html>`_
+
+  Development:
+
+    `Rails 筆記 - terminal 設定 <http://adz.visionbundles.com/posts/174831-rails-note-terminal-settings>`_
