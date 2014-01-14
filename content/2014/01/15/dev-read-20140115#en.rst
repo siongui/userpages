@@ -1,7 +1,7 @@
 <Asm.js startup performance technical details>, etc.
 #########################################################################################
 
-:date: 2014-01-14 01:54
+:date: 2014-01-15 04:52
 :tags: asm.js, Github, Scala
 :category: Dev Read
 :author: Siong-Ui Te
@@ -45,3 +45,5 @@ Simplified Chinese:
 Traditional Chinese:
 
   `Rails 筆記 - terminal 設定 <http://adz.visionbundles.com/posts/174831-rails-note-terminal-settings>`_
+
+  `網上意見是輿論嗎？ <http://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/7692-20140115.html>`_
