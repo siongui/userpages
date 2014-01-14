@@ -20,8 +20,14 @@ Github:
 
 Programming Language:
 
+  `Scala — 1★ Would Not Program Again <http://overwatering.org/blog/2013/12/scala-1-star-would-not-program-again/>`_
   `I wish I had another hand so I could give Scala three thumbs down! <http://www.theserverside.com/news/thread.tss?thread_id=78441>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7057964>`__)
+
+Code Maintenance:
+
+  `Ditching A Language <http://blogs.perl.org/users/ovid/2014/01/ditching-a-language.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7059063>`__)
 
 
 

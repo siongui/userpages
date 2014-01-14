@@ -2,7 +2,7 @@
 #######################################################################################################################################
 
 :date: 2014-01-14 02:20
-:tags: Lisp, Raspberry Pi, Rust, Shell, C, C++, Game, math, Go, Linux, database
+:tags: Lisp, Raspberry Pi, Rust, Shell, C, C++, Game, math, Go, Linux, database, Dart
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-14
@@ -69,10 +69,15 @@ LLVM:
   `Show HN: LLVM Weekly – Developments in the world of LLVM and Clang <http://llvmweekly.org/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7051572>`__)
 
+database:
+
+  `How Reactive Programming Differs From Procedural Programming <http://developers.slashdot.org/story/14/01/13/2119202/how-reactive-programming-differs-from-procedural-programming>`_
+
 Game:
 
   `SimCity Offline Is Coming <http://www.simcity.com/en_US/blog/article/simcity-offline-is-coming>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7051361>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7051361>`__,
+  `EA宣布《模拟城市》将有离线模式 <http://www.solidot.org/story?sid=38023>`_)
 
   `Super Mario World "Executes Arbitrary Code" [video] <https://www.youtube.com/watch?v=OPcV9uIY5i4>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7052650>`__)
@@ -98,6 +103,17 @@ Raspberry Pi:
 
   `How I Built a Raspberry Pi Tablet <http://makezine.com/2014/01/07/how-i-built-a-raspberry-pi-tablet/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7055384>`__)
+
+Dart:
+
+  `Single-Subscription vs. Broadcast Streams <https://www.dartlang.org/articles/broadcast-streams/>`_
+  (`Google+ post <https://plus.google.com/103716596068416580695/posts/UqbzGcq63ZY>`__)
+
+  `Mobile, multi-device, multi-player with HTML5 and Dart <http://www.parleys.com/play/529c10a5e4b039ad2298ca0e>`_
+
+  `Dart as a JVM Language - what do you think? <https://plus.google.com/112211372649695610825/posts/fXfV9u6eBi3>`_
+
+  `Integrating Polymer/Dart and Symfony – Part 1 <http://www.sitepoint.com/integrating-polymerdart-symfony-part-1/>`_
 
 
 

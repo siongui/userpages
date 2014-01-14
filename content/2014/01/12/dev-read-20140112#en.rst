@@ -131,7 +131,8 @@ database:
 Go:
 
   `A Grumpy Guy Complains About Complaining (Golang) <http://go.c800colon5.com/blog/2014/01/09/a-grumpy-guy-complains-about-complaining/>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7044076>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7044076>`__,
+  `Google+ post <https://plus.google.com/116088096017452471746/posts/hnz4hZhvUq5>`__)
 
   `Gen - a generics library for Go <http://clipperhouse.github.io/gen/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7044070>`__)
