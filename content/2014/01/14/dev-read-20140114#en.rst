@@ -155,7 +155,8 @@ Simplified Chinese:
   Linux:
 
     `UNIX 技巧: UNIX 高手的另外 10 个习惯 <https://www.ibm.com/developerworks/cn/aix/library/au-unixtips/>`_
-    (`Unix 高手的另外 10 个习惯 <http://blog.jobbole.com/55445/>`__)
+    (`Unix 高手的另外 10 个习惯 <http://blog.jobbole.com/55445/>`__,
+    `Unix 高手的另外 10 个习惯 <http://www.linuxeden.com/html/news/20140115/147521.html>`__)
 
     `linux 内存管理浅析（二） <http://my.oschina.net/u/1423896/blog/193016>`_
 
@@ -220,7 +221,8 @@ Simplified Chinese:
     `Rex：机器人的大脑 <http://www.linuxeden.com/html/news/20140114/147502.html>`_
 
     `1% 规则 —— 互联网文化 <http://www.oschina.net/translate/internet_culture>`_
-    (`HN discuss <https://news.ycombinator.com/item?id=7051355>`__)
+    (`HN discuss <https://news.ycombinator.com/item?id=7051355>`__,
+    `1% 规则 —— 互联网文化 <http://www.linuxeden.com/html/news/20140115/147519.html>`__)
 
     `Liferea 1.10.4 发布，Linux 的 RSS 阅读器 <http://www.oschina.net/news/47809/liferea-1-10-4>`_
 

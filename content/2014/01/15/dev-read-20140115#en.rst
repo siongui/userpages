@@ -1,8 +1,8 @@
-<Asm.js startup performance technical details>, etc.
-#########################################################################################
+<Asm.js startup performance technical details>, <Why Are There So Many Pythons?>, <Github Stargazers>, etc.
+###########################################################################################################
 
 :date: 2014-01-15 04:52
-:tags: asm.js, Github, Scala, Linux, FreeBSD
+:tags: asm.js, Github, Scala, Linux, FreeBSD, Rust, Security, Algorithm, Python, Go, Dart
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-15
@@ -18,10 +18,14 @@ Python:
   `Python at Netflix <http://techblog.netflix.com/2013/03/python-at-netflix.html>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7060271>`__)
 
+  `Why Are There So Many Pythons? <http://www.toptal.com/python/why-are-there-so-many-pythons>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7061360>`__)
+
 Github:
 
   `Github Stargazers <http://codeplanet.io/github-stargazers/>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7057648>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7057648>`__,
+  `github 有趣应用 github-stargazers <http://www.oschina.net/p/github-stargazers>`_)
 
 Programming Language:
 
@@ -32,6 +36,16 @@ Linux:
 
   `Xpra: screen for X <http://xpra.org/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7063217>`__)
+
+Go:
+
+  `A Tale Of Two Memory Leaks In Go <https://vividcortex.com/blog/2014/01/15/two-go-memory-leaks/>`_
+  (`Google+ post <https://plus.google.com/105105474237466030764/posts/UKuMNVc28bM>`__)
+
+Dart:
+
+  `Spaceship genetic algorithm <http://filiph.net/spacepilot/>`_
+  (`Google+ post <https://plus.google.com/111783114889748547827/posts/LqNsnJyzsGJ>`__)
 
 FreeBSD:
 
@@ -58,10 +72,18 @@ Security:
   `Are passwords stored in memory safe? <http://security.stackexchange.com/questions/29019/are-passwords-stored-in-memory-safe>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7063495>`__)
 
+  `How does SSL work? <http://security.stackexchange.com/questions/20803/how-does-ssl-work>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7062226>`__)
+
 Web Service:
 
   `Synchronise your clock <http://time.is/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7063313>`__)
+
+Rust:
+
+  `The Periodic Table of Rust Types <http://cosmic.mearie.org/2014/01/periodic-table-of-rust-types/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7060951>`__)
 
 
 
@@ -82,9 +104,15 @@ Simplified Chinese:
 
     `图+邻接矩阵+最小生成树 <http://my.oschina.net/u/1011659/blog/193312>`_
 
+    `棋牌游戏负分保护算法 <http://www.oschina.net/code/snippet_107574_32668>`_
+
     Speech Recognition:
 
       `语音特征参数MFCC提取过程详解 <http://my.oschina.net/jamesju/blog/193343>`_
+
+  Website:
+
+    `求开源中国的全套解决方案及架构 <http://www.oschina.net/question/940761_141243>`_
 
   Frontend:
 
@@ -99,6 +127,8 @@ Simplified Chinese:
 
     `2014 年 15 款最棒的 HTML&CSS 框架 <http://www.oschina.net/news/47858/top-15-html-css-framework>`_
 
+    `【框架实践之路】为什么要开发 Codekart 框架 <http://www.oschina.net/question/266240_141245>`_
+
     HTML:
 
       `手机禁止缩小和放大 <http://www.oschina.net/code/snippet_1022366_32693>`_
@@ -106,6 +136,8 @@ Simplified Chinese:
     CSS:
 
       `编写更好的CSS代码 <http://blog.jobbole.com/55067/>`_
+
+      `css3实现动画loading进度条特效 <http://www.oschina.net/code/snippet_1396465_32677>`_
 
     JavaScript:
 
@@ -127,6 +159,8 @@ Simplified Chinese:
     `C++11语言扩展：常规特性 <http://blog.jobbole.com/55063/>`_
 
     `C++异常处理 <http://my.oschina.net/dream0303/blog/193318>`_
+
+    `禁用USB <http://www.oschina.net/code/snippet_245986_32675>`_
 
   OpenStack:
 
@@ -163,6 +197,8 @@ Simplified Chinese:
     `postgres存储过程（三） <http://my.oschina.net/meowmeow/blog/193361>`_
 
     `Hive 内建操作符与函数开发——深入浅出学Hive <http://my.oschina.net/u/1435252/blog/193333>`_
+
+    `Hive 内建操作符与函数开发——深入浅出学Hive <http://www.oschina.net/question/1435252_141271>`__
 
   FreeBSD:
 
