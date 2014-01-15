@@ -73,9 +73,31 @@ Simplified Chinese:
 
     `获取豆瓣电影简介 <http://www.oschina.net/code/snippet_1257318_32686>`_
 
+    `Python写的TOMCAT口令猜解工具 <http://my.oschina.net/chinahermit/blog/193293>`_
+
+  Algorithm:
+
+    `dancing links详解 <http://blog.csdn.net/sunny606/article/details/7833551>`_
+    (`dancing links详解 <http://my.oschina.net/locusxt/blog/193345>`__)
+
+    `图+邻接矩阵+最小生成树 <http://my.oschina.net/u/1011659/blog/193312>`_
+
+    Speech Recognition:
+
+      `语音特征参数MFCC提取过程详解 <http://my.oschina.net/jamesju/blog/193343>`_
+
   Frontend:
 
+    `前端文摘：Web 开发模式演变历史和趋势 <http://www.cnblogs.com/lhb25/p/web-development-mode-evolve.html>`_
+
     `使用Jazz Automation编写自动化测试 <http://www.infoq.com/cn/articles/jazz-testing>`_
+
+    `用3个步骤实现响应式网页设计 <http://blog.csdn.net/hfahe/article/details/7082718>`_
+    (`用3个步骤实现响应式网页设计 <http://my.oschina.net/bddiudiu/blog/193326>`__)
+
+    `前端MV*框架的意义 <http://blog.jobbole.com/56136/>`_
+
+    `2014 年 15 款最棒的 HTML&CSS 框架 <http://www.oschina.net/news/47858/top-15-html-css-framework>`_
 
     HTML:
 
@@ -92,6 +114,10 @@ Simplified Chinese:
         `Express 入门简介 <http://blog.jobbole.com/56121/>`_
         (`Express 入门简介 <http://www.linuxeden.com/html/news/20140115/147570.html>`__)
 
+  Hadoop:
+
+    `hadoop面临的瓶颈是什么？ <http://www.oschina.net/question/870039_141260>`_
+
   Shell:
 
     `网卡流量监控脚本 <http://my.oschina.net/u/112731/blog/193365>`_
@@ -99,6 +125,8 @@ Simplified Chinese:
   C++:
 
     `C++11语言扩展：常规特性 <http://blog.jobbole.com/55063/>`_
+
+    `C++异常处理 <http://my.oschina.net/dream0303/blog/193318>`_
 
   OpenStack:
 
@@ -110,11 +138,35 @@ Simplified Chinese:
 
   Data Science:
 
+    `大数据时代：4000和两小时 <http://www.linuxeden.com/html/itnews/20140115/147555.html>`_
+
+    `大数据从幕后走到前台，启动“快车道” <http://www.linuxeden.com/html/itnews/20140115/147554.html>`_
+
     `新教育机会：培育未来的数据科学家 <http://www.infoq.com/cn/news/2014/01/data-scientist-education>`_
+
+  Linux:
+
+    `Linux常用命令（仅考虑个人情况） <http://my.oschina.net/u/1440501/blog/193351>`_
+
+  Go:
+
+    `golang test 说明解读 <http://blog.go-china.org/15-go-test-intro>`_
+
+    `Go Web应用部署到Apache的配置 <http://my.oschina.net/yearnfar/blog/193319>`_
 
   database:
 
     `MySQL优化的奇技淫巧之STRAIGHT_JOIN <http://www.oschina.net/question/1010990_141290>`_
+
+    `mysql索引与优化 <http://my.oschina.net/u/1032854/blog/193355>`_
+
+    `postgres存储过程（三） <http://my.oschina.net/meowmeow/blog/193361>`_
+
+    `Hive 内建操作符与函数开发——深入浅出学Hive <http://my.oschina.net/u/1435252/blog/193333>`_
+
+  FreeBSD:
+
+    `在FreeBSD下用NTP进行服务器的时钟同步 <http://my.oschina.net/u/1036767/blog/193288>`_
 
   News:
 
@@ -124,6 +176,22 @@ Simplified Chinese:
     `软件开发中团队首领的好坏之分 <http://www.aqee.net/good-vs-bad-leader/>`_
 
     `漫画：柜子的背面 <http://www.linuxeden.com/html/picture/fun/0115/147568.html>`_
+
+    `你还在为找不到教程而发愁吗 <http://my.oschina.net/zjuysw/blog/193353>`_
+
+    `2014 年值得关注的 20 家西海岸创业公司（上） <http://tech2ipo.com/63062>`_
+
+    `2014 年值得关注的 20 家西海岸创业公司（中） <http://tech2ipo.com/63078>`_
+
+    `在开源项目中遇上难以忍受的程序员该怎么办 <http://www.linuxeden.com/html/news/20140115/147540.html>`_
+
+    `14岁编程天才创业融资20万美元 <http://www.linuxeden.com/html/news/20140115/147541.html>`_
+
+    `未來需要超高效的數據中心和服務器嗎？ <http://www.linuxeden.com/html/itnews/20140115/147553.html>`_
+
+    `2014年网站分析10大发展趋势预测 <http://my.oschina.net/u/1163318/blog/193238>`_
+
+    `【开源访谈】Zeus 作者 徐恒飞 访谈实录 <http://www.oschina.net/question/947559_141125>`_
 
 Traditional Chinese:
 

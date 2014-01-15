@@ -102,7 +102,8 @@ Scientific Computing:
 Raspberry Pi:
 
   `How I Built a Raspberry Pi Tablet <http://makezine.com/2014/01/07/how-i-built-a-raspberry-pi-tablet/>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7055384>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7055384>`__,
+  `成本350美刀：用树莓派DIY的PiPad平板电脑 <http://www.linuxeden.com/html/news/20140115/147559.html>`_)
 
 Dart:
 
@@ -161,6 +162,7 @@ Simplified Chinese:
     `请教一个find问题 <http://www.oschina.net/question/1015351_141174>`_
 
     `look: Linux 下验证拼写并显示以某字符串开头的行的命令 <http://linux.cn/thread/12213/1/1/>`_
+    (`look: 验证拼写并显示以某字符串开头的行的命令 <http://www.linuxeden.com/html/softuse/20140115/147539.html>`__)
 
     `Unix下ac命令源码阅读 <http://my.oschina.net/u/578519/blog/192943>`_
 
