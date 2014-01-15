@@ -37,6 +37,8 @@ Python:
   `HSK东西 Scripts: a site for learning Chinese characters - or, "Handling Chinese characters with Python Unicode strings is less hassle than I thought it would be." <http://blog.pythonanywhere.com/79/>`_
 
   `UCS vs UTF-8 as Internal String Encoding <http://lucumr.pocoo.org/2014/1/9/ucs-vs-utf8/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7063393>`__,
+  `HN discuss <https://news.ycombinator.com/item?id=7041663>`__)
 
   `So you want to write an interpreter? <https://www.youtube.com/watch?v=LCslqgM48D4>`_
 

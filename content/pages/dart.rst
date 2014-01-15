@@ -60,3 +60,5 @@ blog:
   `(GeReinhart as Dartisan).blog <http://gereinhartasdartisan.blogspot.com/>`_
 
   `On Dart <http://dzenanr.github.io/>`_
+
+  `On Dart <http://ondart.me/>`__
