@@ -13,6 +13,11 @@ asm.js:
   `Asm.js startup performance technical details <https://blog.mozilla.org/luke/2014/01/14/asm-js-aot-compilation-and-startup-performance/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7057713>`__)
 
+Python:
+
+  `Python at Netflix <http://techblog.netflix.com/2013/03/python-at-netflix.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7060271>`__)
+
 Github:
 
   `Github Stargazers <http://codeplanet.io/github-stargazers/>`_
@@ -21,7 +26,6 @@ Github:
 Programming Language:
 
   `Scala — 1★ Would Not Program Again <http://overwatering.org/blog/2013/12/scala-1-star-would-not-program-again/>`_
-  `I wish I had another hand so I could give Scala three thumbs down! <http://www.theserverside.com/news/thread.tss?thread_id=78441>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7057964>`__)
 
 Code Maintenance:
@@ -29,9 +33,18 @@ Code Maintenance:
   `Ditching A Language <http://blogs.perl.org/users/ovid/2014/01/ditching-a-language.html>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7059063>`__)
 
+Web Development:
+
+  `Principles for making things for the web <https://github.com/veltman/principles>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7060116>`__)
+
 
 
 Simplified Chinese:
+
+  Python:
+
+    `一站式Python开发框架简评之—Django <http://www.pythoner.cn/home/blog/web-dev-framework-django/>`_
 
   CSS:
 
@@ -48,6 +61,7 @@ Simplified Chinese:
   News:
 
     `教是最好的学 <http://www.infoq.com/cn/news/2014/01/teaching-best-way-learning>`_
+    (`教是最好的学 <http://www.linuxeden.com/html/news/20140115/147513.html>`__)
 
 Traditional Chinese:
 

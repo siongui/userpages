@@ -19,7 +19,8 @@ Python:
   (`HN discuss <https://news.ycombinator.com/item?id=7015132>`__)
 
   `Parallelism in one line <https://medium.com/p/40e9b2b36148>`_
-  (`Python 并行任务技巧 <http://www.oschina.net/translate/python-parallelism-in-one-line>`_)
+  (`Python 并行任务技巧 <http://www.oschina.net/translate/python-parallelism-in-one-line>`_,
+  `Python 并行任务技巧 <http://www.pythoner.cn/home/blog/parallelism-in-one-line/>`__)
 
   `OOP in Python (live streaming class for beginners) <https://www.enginehere.com/stream/432/intro-to-object-oriented-programming-in-python/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7019815>`__)

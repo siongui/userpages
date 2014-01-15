@@ -218,6 +218,7 @@ Simplified Chinese:
     `Rex：机器人的大脑 <http://www.linuxeden.com/html/news/20140114/147502.html>`_
 
     `1% 规则 —— 互联网文化 <http://www.oschina.net/translate/internet_culture>`_
+    (`HN discuss <https://news.ycombinator.com/item?id=7051355>`__)
 
     `Liferea 1.10.4 发布，Linux 的 RSS 阅读器 <http://www.oschina.net/news/47809/liferea-1-10-4>`_
 
