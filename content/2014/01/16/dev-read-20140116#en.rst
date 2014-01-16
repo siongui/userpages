@@ -1,8 +1,8 @@
-<The State of Hy>, <Nassim Taleb: We should retire the notion of standard deviation>, etc.
-##########################################################################################
+<The State of Hy>, <Nassim Taleb: We should retire the notion of standard deviation>, <Open-Source Data Science Curriculum>, etc.
+#################################################################################################################################
 
 :date: 2014-01-16 10:35
-:tags: Algorithm, Embedded System, math, JavaScript, Security, Github, asm.js, Tcl, Hy
+:tags: Algorithm, Data Science, Embedded System, math, JavaScript, Security, Github, asm.js, Tcl, Hy, Scheme, Python, TDD, Dart
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-16
@@ -16,7 +16,31 @@ Hy:
 math:
 
   `Nassim Taleb: We should retire the notion of standard deviation <http://www.edge.org/response-detail/25401>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7064435>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7064435>`__,
+  `Why Standard Deviation Should Be Retired From Scientific Use <http://science.slashdot.org/story/14/01/15/2126200/why-standard-deviation-should-be-retired-from-scientific-use>`_)
+
+Data Science:
+
+  `Show HN: An Open-Source Data Science Curriculum <https://github.com/datasciencemasters/go/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7068672>`__)
+
+Web Service:
+
+  `Show HN: Kimono – Never write a web scraper again <http://kimonify.kimonolabs.com/kimload?url=http%3A%2F%2Fwww.kimonolabs.com%2Fwelcome.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7066479>`__)
+
+  `World’s most photographed places <http://www.sightsmap.com/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7067556>`__)
+
+Python:
+
+  `Hash Functions and its Importance <http://pypix.com/python/hash-functions/>`_
+
+  `Django for the Rails Developer <http://pypix.com/tools-and-tips/django-rails-developer/>`_
+
+Scheme:
+
+  `GNU Guile Scheme Gets a Register VM and CPS-Based IL <http://developers.slashdot.org/story/14/01/15/190230/gnu-guile-scheme-gets-a-register-vm-and-cps-based-il>`_
 
 Algorithm:
 
@@ -68,11 +92,6 @@ Github:
   `GitHub 的公开演讲文化 <http://www.oschina.net/news/47862/github-speaking-culture>`__,
   `GitHub 的公开演讲文化 <http://www.linuxeden.com/html/news/20140116/147574.html>`__)
 
-Web Service:
-
-  `World’s most photographed places <http://www.sightsmap.com/>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7067556>`__)
-
 Tcl:
 
   `Why Tcl is not a toy language, but a very powerful one <http://antirez.com/articoli/tclmisunderstood.html>`_
@@ -81,13 +100,22 @@ Tcl:
   `Happy 25th Tcl! <http://blog.tkdocs.com/2014/01/happy-25th-tcl.html>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7068656>`__)
 
+TDD:
+
+  `A Case against Test-Driven Development <https://medium.com/p/b230ebecee64>`_
+
+Dart:
+
+  `Angular Dart Examples <https://github.com/dart-lang/dart_by_example/tree/master/example/angular/forms>`_
+  (`Google+ post <https://plus.google.com/109904716767428589938/posts/7zoEtJzvh7G>`__)
+
 
 
 Simplified Chinese:
 
   Sourcegraph:
 
-    `Sourcegraph 简介 <http://wuwen.org/article/3/sourcegraph-intro.html>`_
+    `Sourcegraph 简介 <http://wuwen.org/article/14/sourcegraph-intro.html>`_
     (`Sourcegraph 简介 <http://blog.go-china.org/16-sourcegraph-intro>`__)
 
   Algorithm:
@@ -170,6 +198,10 @@ Simplified Chinese:
 
     `平均比Hive快24倍，Impala剑指Stinger <http://www.csdn.net/article/2014-01-16/2818162-what-does-it-mean-impala-is-faster-than-hive>`_
 
+  C:
+
+    `这是一个C语言开源的文件捆包系统 <http://www.oschina.net/code/snippet_616501_32705>`_
+
   C++:
 
     `C++ RTTI <http://my.oschina.net/dream0303/blog/193393>`_
@@ -228,6 +260,10 @@ Simplified Chinese:
     `【What if 系列】湖水茶 <http://my.oschina.net/kiwivip/blog/193565>`_
 
     `【信息图】专业Web设计师和业余设计师的发展状况并不协调 <http://www.csdn.net/article/2014-01-16/2818150-infographic-professional-web-designer-vs-amateur>`_
+
+    `搜狗CEO王小川：“硬件免费”是误区 <http://www.csdn.net/article/2014-01-14/2818137-sogou-ceo-wangxiaochuan>`_
+
+    `利用ElasticSearch和Redis检索和存储十亿信息 <http://www.csdn.net/article/2014-01-16/2818165-how-hipchat-stores-and-indexes-billions-of-messages>`_
 
 Traditional Chinese:
 
