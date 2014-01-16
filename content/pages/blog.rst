@@ -253,6 +253,8 @@ Simplified Chinese:
 
   `海 子 <http://www.cnblogs.com/dolphin0520/>`_
 
+  `抛弃世俗之浮躁，留我钻研之刻苦 <http://wuwen.org/>`_
+
 `Wenli Zhang <http://zhangwenli.com/>`_
 
 `Zhong' blog <http://stupidgrass.github.io/blog/>`_
