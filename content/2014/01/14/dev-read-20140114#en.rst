@@ -103,7 +103,8 @@ Raspberry Pi:
 
   `How I Built a Raspberry Pi Tablet <http://makezine.com/2014/01/07/how-i-built-a-raspberry-pi-tablet/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7055384>`__,
-  `成本350美刀：用树莓派DIY的PiPad平板电脑 <http://www.linuxeden.com/html/news/20140115/147559.html>`_)
+  `成本350美刀：用树莓派DIY的PiPad平板电脑 <http://www.linuxeden.com/html/news/20140115/147559.html>`_,
+  `用树莓派DIY的一台PiPad平板电脑 <http://www.geekfan.net/5469/>`_)
 
 Dart:
 
@@ -157,7 +158,8 @@ Simplified Chinese:
 
     `UNIX 技巧: UNIX 高手的另外 10 个习惯 <https://www.ibm.com/developerworks/cn/aix/library/au-unixtips/>`_
     (`Unix 高手的另外 10 个习惯 <http://blog.jobbole.com/55445/>`__,
-    `Unix 高手的另外 10 个习惯 <http://www.linuxeden.com/html/news/20140115/147521.html>`__)
+    `Unix 高手的另外 10 个习惯 <http://www.linuxeden.com/html/news/20140115/147521.html>`__,
+    `UNIX 技巧: UNIX 高手的另外 10 个习惯 <http://my.oschina.net/jerikc/blog/193550>`__)
 
     `linux 内存管理浅析（二） <http://my.oschina.net/u/1423896/blog/193016>`_
 

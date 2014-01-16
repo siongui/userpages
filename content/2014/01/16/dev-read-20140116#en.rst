@@ -2,7 +2,7 @@
 ##########################################################################################
 
 :date: 2014-01-16 10:35
-:tags: Algorithm, math, JavaScript, Security, Github, asm.js, Tcl, Hy
+:tags: Algorithm, Embedded System, math, JavaScript, Security, Github, asm.js, Tcl, Hy
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-16
@@ -36,10 +36,16 @@ asm.js:
 
   `Big Web App? Compile It! <http://kripken.github.io/mloc_emscripten_talk/>`_
 
+Embedded System:
+
+  `Belgian startup DPTechnics releases OpenWRT module <https://dptechnics.com/shop/?q=blog/belgian-startup-dptechnics-releases-openwrt-module>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7069107>`__)
+
 Security:
 
   `TrueCrypt Master Key Extraction And Volume Identification <http://volatility-labs.blogspot.com/2014/01/truecrypt-master-key-extraction-and.html>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7064188>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7064188>`__,
+  `安全研究人員開發出提取TrueCrypt主密鑰插件 <http://www.solidot.org/story?sid=38057>`_)
 
   `You can use Facebook to identify people by their email or phone number <https://www.facebook.com/recover/initiate>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7067400>`__)
@@ -71,6 +77,9 @@ Tcl:
 
   `Why Tcl is not a toy language, but a very powerful one <http://antirez.com/articoli/tclmisunderstood.html>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7069642>`__)
+
+  `Happy 25th Tcl! <http://blog.tkdocs.com/2014/01/happy-25th-tcl.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7068656>`__)
 
 
 
@@ -113,6 +122,8 @@ Simplified Chinese:
 
     `创建您自己的浏览器扩展，第 1 部分: 将您的触角延伸至 Chrome <http://blog.jobbole.com/56317/>`_
 
+    `创建您自己的浏览器扩展，第 2 部分: 将您的触角延伸至 Firefox <http://blog.jobbole.com/56336/>`_
+
     JavaScript:
 
       `Javascript模版引擎简介 <http://www.cnblogs.com/justany/p/3522075.html>`_
@@ -135,6 +146,12 @@ Simplified Chinese:
 
     `ls：显示指定目录的详细信息 <http://my.oschina.net/lotte1699/blog/193424>`_
 
+    `IO - 同步，异步，阻塞，非阻塞 <http://my.oschina.net/kevinair/blog/193474>`_
+
+    `cat命令与script命令结合实现一对多命令演示教程 <http://my.oschina.net/ijaychen/blog/193520>`_
+
+    `Linux下获取进程的启动时间的几种方法 <http://my.oschina.net/panzhc/blog/193587>`_
+
   FreeBSD:
 
     `FreeBSD 的 Ports 系统 <http://my.oschina.net/u/1036767/blog/193454>`_
@@ -151,9 +168,21 @@ Simplified Chinese:
 
     `回顾2013：HBase的提升与挑战 <http://www.csdn.net/article/2014-01-15/2818147-hbase-in-2013>`_
 
+    `平均比Hive快24倍，Impala剑指Stinger <http://www.csdn.net/article/2014-01-16/2818162-what-does-it-mean-impala-is-faster-than-hive>`_
+
   C++:
 
     `C++ RTTI <http://my.oschina.net/dream0303/blog/193393>`_
+
+  Static Code Checking:
+
+    `Security issue about static code checking <http://my.oschina.net/u/813598/blog/193475>`_
+
+    `clang static analyze <http://my.oschina.net/cnsworder/blog/193521>`_
+
+  Regular Expression:
+
+    `常用的正则表达式 <http://my.oschina.net/u/660932/blog/193544>`_
 
   database:
 
@@ -187,9 +216,18 @@ Simplified Chinese:
 
     `从意外流出的未修照片看业界的 PS 秘密 <http://blog.jobbole.com/56258/>`_
 
-    `Twitter开源了其流处理框架Summingbird <http://www.linuxeden.com/html/news/20140116/147603.html>`_
+    `Twitter开源了其流处理框架Summingbird <http://www.infoq.com/cn/news/2014/01/twitter-summingbird>`_
+    (`Twitter开源了其流处理框架Summingbird <http://www.linuxeden.com/html/news/20140116/147603.html>`__)
 
     `下一阶段的Node.JS：TJ负责Node，NPM可能要收费 <http://blog.jobbole.com/56331/>`_
+
+    `众建：更适合创业者的众筹 <http://tech2ipo.com/63095>`_
+
+    `2014 年值得关注的 20 家西海岸创业公司（下） <http://tech2ipo.com/63099>`_
+
+    `【What if 系列】湖水茶 <http://my.oschina.net/kiwivip/blog/193565>`_
+
+    `【信息图】专业Web设计师和业余设计师的发展状况并不协调 <http://www.csdn.net/article/2014-01-16/2818150-infographic-professional-web-designer-vs-amateur>`_
 
 Traditional Chinese:
 
