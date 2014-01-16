@@ -210,6 +210,7 @@ Simplified Chinese:
     (`教是最好的学 <http://www.linuxeden.com/html/news/20140115/147513.html>`__)
 
     `软件开发中团队首领的好坏之分 <http://www.aqee.net/good-vs-bad-leader/>`_
+    (`软件开发中团队首领的好坏之分 <http://www.pythoner.cn/home/blog/good-vs-bad-leader/>`__)
 
     `漫画：柜子的背面 <http://www.linuxeden.com/html/picture/fun/0115/147568.html>`_
 

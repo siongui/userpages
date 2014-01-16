@@ -38,7 +38,8 @@ Python:
 
   `UCS vs UTF-8 as Internal String Encoding <http://lucumr.pocoo.org/2014/1/9/ucs-vs-utf8/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7063393>`__,
-  `HN discuss <https://news.ycombinator.com/item?id=7041663>`__)
+  `HN discuss <https://news.ycombinator.com/item?id=7041663>`__,
+  `UCS 和 UTF-8 编码 <http://www.oschina.net/translate/ucs-vs-utf8>`_)
 
   `So you want to write an interpreter? <https://www.youtube.com/watch?v=LCslqgM48D4>`_
 

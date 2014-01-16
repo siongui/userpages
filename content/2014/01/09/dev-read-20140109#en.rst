@@ -17,7 +17,8 @@ Python:
   (`HN discuss <https://news.ycombinator.com/item?id=7030097>`__)
 
   `An Introduction to Mocking in Python <http://www.toptal.com/python/an-introduction-to-mocking-in-python>`_
-  (`Python 的模拟测试介绍 <http://www.oschina.net/translate/an-introduction-to-mocking-in-python>`_)
+  (`Python 的模拟测试介绍 <http://www.oschina.net/translate/an-introduction-to-mocking-in-python>`_,
+  `Python 的模拟测试介绍 <http://www.linuxeden.com/html/news/20140116/147581.html>`__)
 
   `Must-have Django packages. <https://devcharm.com/pages/79-must-have-django-packages>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7030994>`__)
