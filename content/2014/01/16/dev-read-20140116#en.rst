@@ -1,12 +1,17 @@
-<Nassim Taleb: We should retire the notion of standard deviation>, etc.
-#########################################################################################
+<The State of Hy>, <Nassim Taleb: We should retire the notion of standard deviation>, etc.
+##########################################################################################
 
 :date: 2014-01-16 10:35
-:tags: Algorithm, math, JavaScript, Security, Github, asm.js
+:tags: Algorithm, math, JavaScript, Security, Github, asm.js, Tcl, Hy
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-16
 
+
+Hy:
+
+  `The State of Hy <http://fox.devport.no/?p=82>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7069781>`__)
 
 math:
 
@@ -39,6 +44,8 @@ Security:
   `You can use Facebook to identify people by their email or phone number <https://www.facebook.com/recover/initiate>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7067400>`__)
 
+  `Good fun with bad crypto <https://news.ycombinator.com/item?id=7069182>`_
+
 Development:
 
   `Top Voted Startup Technologies <https://globality.be/tools?type=tool>`_
@@ -60,6 +67,11 @@ Web Service:
   `World’s most photographed places <http://www.sightsmap.com/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7067556>`__)
 
+Tcl:
+
+  `Why Tcl is not a toy language, but a very powerful one <http://antirez.com/articoli/tclmisunderstood.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7069642>`__)
+
 
 
 Simplified Chinese:
@@ -75,6 +87,8 @@ Simplified Chinese:
 
     `Algorithm Gossip: 约瑟夫问题（Josephus Problem） <http://my.oschina.net/u/1420982/blog/193400>`_
 
+    `一致性 hash 算法 <http://my.oschina.net/u/195065/blog/193614>`_
+
   C:
 
     `预处理命令详解 <http://my.oschina.net/kimi940211/blog/193441>`_
@@ -84,6 +98,20 @@ Simplified Chinese:
     `Web应用的组件化开发（一） <http://blog.jobbole.com/56161/>`_
 
     `为网页设计师准备的10个在线的HTML5设计工具 <http://www.oschina.net/news/47880/great-online-html5-tools-for-web-designers>`_
+
+    `虚假来电：HTML5振动API的恶意使用 <http://blog.jobbole.com/55499/>`_
+    (`虚假来电：HTML5振动API的恶意使用 <http://www.linuxeden.com/html/news/20140116/147599.html>`__)
+
+    `“移动时代的前端”——QCon北京2014专题出品人玉伯专访 <http://www.infoq.com/cn/news/2014/01/qconbeijing2014-yubo-interview>`_
+
+    `50 个高质量的响应式 HTML5/CSS3 免费模板 <http://www.oschina.net/news/47906/free-responsive-css3-html5-templates>`_
+    (`50 个高质量的响应式 HTML5/CSS3 免费模板 <http://www.linuxeden.com/html/news/20140116/147601.html>`__)
+
+    `什么是全栈开发者 <http://www.oschina.net/translate/what-is-a-full-stack-developer>`_
+
+    `全栈工程师到底有什么用 <http://www.oschina.net/news/47901/full-stack-engineer>`_
+
+    `创建您自己的浏览器扩展，第 1 部分: 将您的触角延伸至 Chrome <http://blog.jobbole.com/56317/>`_
 
     JavaScript:
 
@@ -137,6 +165,10 @@ Simplified Chinese:
 
     `实验9： 温度报警 <http://www.oschina.net/question/1436928_141344>`_
 
+  Direct2D:
+
+    `使用 Direct2D 绘制分层窗口 <http://www.oschina.net/translate/layered-windows-with-direct2d>`_
+
   News:
 
     `Android 对移动应用开发者越来越有吸引力 <http://www.oschina.net/news/47869/android-for-developer>`_
@@ -152,6 +184,12 @@ Simplified Chinese:
     `5个能激发用户体验和UI设计灵感的博客 <http://my.oschina.net/u/1428868/blog/193463>`_
 
     `分析比特币背后的数据算法，抢占背后巨大市场先机 <http://www.csdn.net/article/2014-01-15/2818144-more-money-bitcoins-real-value-lies-in-its-algorithms>`_
+
+    `从意外流出的未修照片看业界的 PS 秘密 <http://blog.jobbole.com/56258/>`_
+
+    `Twitter开源了其流处理框架Summingbird <http://www.linuxeden.com/html/news/20140116/147603.html>`_
+
+    `下一阶段的Node.JS：TJ负责Node，NPM可能要收费 <http://blog.jobbole.com/56331/>`_
 
 Traditional Chinese:
 

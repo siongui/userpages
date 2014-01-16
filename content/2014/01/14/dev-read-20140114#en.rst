@@ -149,6 +149,7 @@ Simplified Chinese:
     `Go并发笔记 <http://my.oschina.net/qbit/blog/192873>`_
 
     `Martini 的工作方式 <http://my.oschina.net/achun/blog/192912>`_
+    (`Martini 的工作方式 <http://blog.go-china.org/17-martini_injector>`__)
 
     `golang -- 字符串操作 <http://my.oschina.net/1123581321/blog/192971>`_
 
