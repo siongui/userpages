@@ -1,13 +1,17 @@
-<OpenBSD fundraising>, etc.
+<Nimrod: A New Approach to Metaprogramming>, etc.
 ##########################################################################################
 
 :date: 2014-01-17 01:01
-:tags: JavaScript, CSS
+:tags: JavaScript, CSS, Nimrod
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-17
 
 
+Nimrod:
+
+  `Nimrod: A New Approach to Metaprogramming <http://www.infoq.com/presentations/nimrod>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7071429>`__)
 
 OpenBSD:
 
@@ -22,6 +26,8 @@ JavaScript:
   `WebKit.js: It's happening for real, with Emscripten's help <http://badassjs.com/post/73526882798/webkit-js-its-happening-for-real-with-emscriptens>`_
   (`Github <https://github.com/trevorlinton/webkit.js>`__,
   `HN discuss <https://news.ycombinator.com/item?id=7071132>`__)
+
+  `Declarative Graphics <http://dailyjs.com/2014/01/16/declarative-graphics/>`_
 
 CSS:
 
