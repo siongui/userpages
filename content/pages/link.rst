@@ -55,6 +55,8 @@ Info:
 
   Simplified Chinese:
 
+    `FreeBuf.COM关注黑客与极客 <http://www.freebuf.com/>`_
+
     `TECH2IPO创见 - 关注互联网创业与科技创业创新 <http://tech2ipo.com/>`_
 
     `图灵社区 <http://www.ituring.com.cn/>`_

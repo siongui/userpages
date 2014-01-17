@@ -50,6 +50,9 @@ CSS:
   `CSS Animation Tricks: State Jumping, Negative Delays, Animating Origin, and More <http://css-tricks.com/css-animation-tricks/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7070784>`__)
 
+  `Show HN: Releasing my first real open source project – Captionss <http://captionss.com/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7073697>`__)
+
 UTF-8:
 
   `UTF-8 Everywhere <http://www.utf8everywhere.org/>`_
@@ -97,11 +100,19 @@ Simplified Chinese:
 
     `京东李大学：技术、人与云生态 <http://www.infoq.com/cn/interviews/jingdong-lidaxue-technical-human-and-cloud-ecosystem>`_
 
+  Security:
+
+    `渗透测试 实战 基本流程 <http://my.oschina.net/swrite/blog/193835>`_
+
   Algorithm:
 
     `poj 3074 Sudoku <http://my.oschina.net/locusxt/blog/193922>`_
 
     `生产者消费者问题理解与Java实现 <http://my.oschina.net/hanzhankang/blog/193917>`_
+
+    `一些小题目//持续更新； <http://my.oschina.net/epaxj/blog/193846>`_
+
+    `ipc 进程通信 <http://my.oschina.net/hejiula/blog/193853>`_
 
   C:
 
@@ -136,6 +147,14 @@ Simplified Chinese:
 
     `container_of()宏 <http://my.oschina.net/jerikc/blog/193816>`_
 
+    `linux清空MySQL的history历史记录、删除mysql操作记录 <http://my.oschina.net/kk2009/blog/193852>`_
+
+    `linux下各种格式的压缩包的压缩、解压方法 <http://my.oschina.net/skyzwg/blog/193896>`_
+
+  Shell:
+
+    `关于linux环境下 启动java程序，redis ;shell脚本 <http://my.oschina.net/chenleijava/blog/193873>`_
+
   Python:
 
     `Python 里的 super() 函数和 object.__new__ ()、.__del__() 方法 <http://my.oschina.net/lionets/blog/193900>`_
@@ -148,6 +167,10 @@ Simplified Chinese:
   Frontend:
 
     `10个实用的线框图工具 <http://blog.jobbole.com/56118/>`_
+
+    `http header 头信息参数详解 <http://my.oschina.net/u/1440923/blog/193842>`_
+
+    `Web开发者必备：Web应用检查清单 <http://blog.jobbole.com/55582/>`_
 
     JavaScript:
 
@@ -167,6 +190,8 @@ Simplified Chinese:
 
     `Grails示例程序-将附件保存到数据库 <http://my.oschina.net/65304586/blog/193802>`_
 
+    `Hive UDF整理 <http://my.oschina.net/repine/blog/193867>`_
+
   Game:
 
     `《Genesis-3D游戏引擎系列教程-入门篇》三：资源的导入 <http://my.oschina.net/Genesis3D/blog/193812>`_
@@ -184,3 +209,9 @@ Simplified Chinese:
     `Pregel：基于图分割的图结构数据并行处理 <http://my.oschina.net/u/1417577/blog/193928>`_
 
     `分布式搜索elasticsearch 配置文件详解 <http://my.oschina.net/sunzy/blog/193832>`_
+
+    `你应该具备 / 更新的测试技能！ <http://my.oschina.net/8909888/blog/193882>`_
+
+    `Google 打造云中 Hadoop 便捷版 强势对抗 AWS <http://www.oschina.net/news/47946/google-cloud-hadoop>`_
+
+    `Ekho 5.8.2 发布，中文文本转语音 <http://www.oschina.net/news/47944/ekho-5-8-2>`_
