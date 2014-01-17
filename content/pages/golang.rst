@@ -11,6 +11,8 @@
 
 `Golang(Go Language) Examples <http://golang-examples.tumblr.com/>`_
 
+`Go by Example <https://gobyexample.com/>`_
+
 Blog:
 
   `Code Gangsta <http://codegangsta.io/>`_ (Go)
