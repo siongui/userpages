@@ -98,7 +98,8 @@ Tcl:
   (`HN discuss <https://news.ycombinator.com/item?id=7069642>`__)
 
   `Happy 25th Tcl! <http://blog.tkdocs.com/2014/01/happy-25th-tcl.html>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7068656>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7068656>`__,
+  `庆祝 Tcl 脚本语言 25 周年 <http://www.oschina.net/news/47938/happy-25th-tcl>`_)
 
 TDD:
 
@@ -107,7 +108,8 @@ TDD:
 Dart:
 
   `Angular Dart Examples <https://github.com/dart-lang/dart_by_example/tree/master/example/angular/forms>`_
-  (`Google+ post <https://plus.google.com/109904716767428589938/posts/7zoEtJzvh7G>`__)
+  (`Google+ post <https://plus.google.com/109904716767428589938/posts/7zoEtJzvh7G>`__,
+  `Google+ post <https://plus.google.com/109904716767428589938/posts/6csPm68r1as>`__)
 
 
 

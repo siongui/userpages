@@ -120,7 +120,8 @@ Functional Programming:
 ElasticSearch:
 
   `Getting Started with ElasticSearch <http://java.dzone.com/articles/elasticsearch-getting-started>`_
-  (`ElasticSearch 简单入门 <http://www.oschina.net/translate/elasticsearch-getting-started>`_)
+  (`ElasticSearch 简单入门 <http://www.oschina.net/translate/elasticsearch-getting-started>`_,
+  `ElasticSearch 简单入门 <http://www.linuxeden.com/html/news/20140117/147612.html>`__)
 
 database:
 
