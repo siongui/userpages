@@ -10,7 +10,8 @@
 
 Embedded System:
 
-  `Building an open source Nest <http://blog.spark.io/2014/01/17/open-source-thermostat/>`_
+  `Building an open source Nest <http://blog.spark.io/2014/01/17/open-source-thermostat/>`_,
+  `Building an Open Source Nest <http://beta.slashdot.org/story/196985>`__
   (`HN discuss <https://news.ycombinator.com/item?id=7075626>`__)
 
   `Announcing The Matasano/Square CTF <http://www.matasano.com/matasano-square-microcontroller-ctf/>`_
@@ -90,7 +91,8 @@ Linux:
   `A history of Linux through project website screenshots <http://linux-website-screenshots.tumblr.com/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7075224>`__)
 
-  `Spotify responds to "Decide which init system to default to in Debian" <http://bugs.debian.org/cgi-bin/bugreport.cgi?msg=3546;bug=727708>`_
+  `Spotify responds to "Decide which init system to default to in Debian" <http://bugs.debian.org/cgi-bin/bugreport.cgi?msg=3546;bug=727708>`_,
+  `Spotify position in support of systemd in the default init debate <https://lists.debian.org/debian-ctte/2014/01/msg00287.html>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7076294>`__)
 
 Dart:
