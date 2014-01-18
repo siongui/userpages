@@ -26,6 +26,8 @@
 
 `w3cschool菜鸟教程 <http://www.w3cschool.cc/>`_
 
+`RegexOne - Learn regular expressions with interactive examples <http://regexone.com/>`_
+
 `HTML5 Tutorial For Beginners <http://www.html5tutorial4u.com/>`_
 
 `Learn PHP - Free Interactive PHP Tutorial <http://learn-php.org/>`_
