@@ -2,7 +2,7 @@
 ##################################################################################################################
 
 :date: 2014-01-18 01:45
-:tags: math, Chrome, Data Structure, JavaScript, OS
+:tags: math, Chrome, Data Structure, JavaScript, OS, Go
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-18
