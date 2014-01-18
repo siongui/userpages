@@ -36,6 +36,9 @@ Data Structure:
   `Data Structures in Clojure: Singly-Linked Lists <http://macromancy.com/2014/01/16/data-structures-clojure-singly-linked-list.html>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7076599>`__)
 
+  `What's new in purely functional data structures since Okasaki? <http://cstheory.stackexchange.com/questions/1539/whats-new-in-purely-functional-data-structures-since-okasaki>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7081191>`__)
+
 OS:
 
   `Operating Systems: Three Easy Pieces <http://pages.cs.wisc.edu/~remzi/OSTEP/>`_
@@ -55,6 +58,15 @@ Go:
   (`[翻译] go build 命令是如何工作的？ <http://mikespook.com/2013/11/%E7%BF%BB%E8%AF%91-go-build-%E5%91%BD%E4%BB%A4%E6%98%AF%E5%A6%82%E4%BD%95%E5%B7%A5%E4%BD%9C%E7%9A%84%EF%BC%9F/>`_,
   `go build 命令是如何工作的？ <http://blog.go-china.org/19-how-go-build-works>`__)
 
+  `Gotk3: Go + GTK3 <http://www.weberc2.com/2014/01/15/go-and-gtk.txt>`_
+  (`Google+ post <https://plus.google.com/113051927241493328996/posts/iujZbHq7dDu>`__)
+
+  `go-patricia - A generic patricia trie (also called radix tree) implemented in Go (Golang) <https://github.com/tchap/go-patricia>`_
+  (`Google+ post <https://plus.google.com/116280372870102089720/posts/7tZR7iahsfv>`__)
+
+  `go.rice: embedding your static files into a go binary <https://github.com/GeertJohan/go.rice>`_
+  (`Google+ post <https://plus.google.com/111981029186387596012/posts/bvMfPSfzZw9>`__)
+
 SCIP:
 
   `SICP in Clojure <http://sicpinclojure.com/>`_
@@ -69,6 +81,11 @@ Programming Language:
 
   `Introduction to K by Arthur Whitney <http://archive.vector.org.uk/art10010830>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7081097>`__)
+
+funny:
+
+  `js2js <http://eleks.github.io/js2js/>`_
+  (`Google+ post <https://plus.google.com/103747379090421872359/posts/Gy5skCQt4W4>`__)
 
 
 
