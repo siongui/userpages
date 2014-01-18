@@ -147,6 +147,7 @@ Simplified Chinese:
     (`50 个高质量的响应式 HTML5/CSS3 免费模板 <http://www.linuxeden.com/html/news/20140116/147601.html>`__)
 
     `什么是全栈开发者 <http://www.oschina.net/translate/what-is-a-full-stack-developer>`_
+    (`什么是全栈开发者 <http://www.linuxeden.com/html/news/20140118/147640.html>`__)
 
     `全栈工程师到底有什么用 <http://www.oschina.net/news/47901/full-stack-engineer>`_
 

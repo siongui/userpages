@@ -116,7 +116,8 @@ database:
   Docker:
 
     `Using MySQL with Docker <http://linsenraum.de/erkules_int/2014/01/using-mysql-with-docker.html>`_
-    (`在 Docker 中使用 MySQL <http://www.oschina.net/translate/using-mysql-with-docker>`_)
+    (`在 Docker 中使用 MySQL <http://www.oschina.net/translate/using-mysql-with-docker>`_,
+    `在 Docker 中使用 MySQL <http://www.linuxeden.com/html/news/20140118/147643.html>`__)
 
 Hacker News:
 
