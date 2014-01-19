@@ -43,7 +43,8 @@ OpenBSD:
   `OpenBSD will shut down if we do not have the funding to keep the lights on <http://marc.info/?l=openbsd-misc&m=138972987203440&w=2>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7069889>`__,
   `如果没有资金的话 OpenBSD 将难以为继 <http://www.oschina.net/news/47922/openbsd_will_shut_down_if_we_do_not_have_the_funding>`_,
-  `OpenBSD请求资助 <http://www.solidot.org/story?sid=38082>`_)
+  `OpenBSD请求资助 <http://www.solidot.org/story?sid=38082>`_,
+  `若再无资助，OpenBSD项目恐将停止 <http://blog.jobbole.com/56637/>`_)
 
 JavaScript:
 

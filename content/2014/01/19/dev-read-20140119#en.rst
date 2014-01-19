@@ -22,7 +22,8 @@ Python:
 JavaScript:
 
   `Yale censored a student's course catalog site. I made an unblockable replacement <http://haufler.org/2014/01/19/i-hope-i-dont-get-kicked-out-of-yale-for-this/>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7084555>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7084555>`__,
+  `Building An Uncensorable Course Guide At Yale <http://news.slashdot.org/story/14/01/19/1714214/building-an-uncensorable-course-guide-at-yale>`_)
 
 Data Structure:
 
