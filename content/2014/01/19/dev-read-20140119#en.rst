@@ -3,7 +3,7 @@
 
 :date: 2014-01-19 04:20
 :tags: Python, JavaScript, Data Structure, Embedded System, Security, math, Shell
-:tags_zh_CN:
+:tags_zh_CN: Algorithm, Machine Learning, Python, JavaScript, Linux, Shell
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-19
@@ -86,6 +86,21 @@ Programming:
   `Unix Command Lines and Relations (merrigrove.blogspot.com) <http://merrigrove.blogspot.com/2013/12/the-occultation-of-relations-and-logic_22.html>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7082109>`__)
 
+  `Simple Made Easy <http://www.infoq.com/presentations/Simple-Made-Easy>`_
+
+Dart:
+
+  `Meteor in Dartland? <https://plus.google.com/103493864228790779294/posts/9HgWbmZPz5a>`_
+
+  `Dart problems for creating command line applications <https://plus.google.com/103493864228790779294/posts/F1BHGwYMLLK>`_
+
+  `TDD (Test Driven Development) with Spec.Dart <https://github.com/SoftHai/Spec.Dart/blob/master/doc/Article_TDDExample.md>`_
+  (`Google+ post <https://plus.google.com/104521594881331191335/posts/br596m3Uje6>`__)
+
+Go:
+
+  `why the StdOut, and StdErr struct fields in a os/exec.Cmd are of type io.Writer? <https://plus.google.com/110410393931214784146/posts/jVinfsGyvvz>`_
+
 Ask HN:
 
   `Ask HN: Which language/web framework to learn for employability? <https://news.ycombinator.com/item?id=7081405>`_
@@ -104,6 +119,18 @@ Simplified Chinese:
 
     `Base64编码 <http://www.oschina.net/question/215898_141618>`_
 
+    `HashMap实现原理分析 <http://my.oschina.net/u/569297/blog/194162>`_
+
+  Machine Learning:
+
+    `KNN的一些总结 <http://my.oschina.net/u/1412321/blog/194174>`_ (推薦閱讀!!!)
+
+  Python:
+
+    `使用python一步一步搭建微信公众平台（二）----搭建一个中英互译的翻译工具 <http://my.oschina.net/yangyanxing/blog/194136>`_
+
+    `Python的各种编码设置 <http://my.oschina.net/u/1435993/blog/194172>`_
+
   Linux:
 
     `每日Ubuntu小技巧：合上笔记本，系统不睡眠 <http://linux.cn/thread/12232/1/1/>`_
@@ -113,6 +140,8 @@ Simplified Chinese:
     `dell服务器远程获取硬件状态 <http://my.oschina.net/leeyd/blog/193848>`_
 
     `linux--sed简单使用 <http://www.oschina.net/question/215898_141625>`_
+
+    `终端快捷键 <http://my.oschina.net/u/1048524/blog/194168>`_
 
   Shell:
 
@@ -136,13 +165,49 @@ Simplified Chinese:
 
     `《转》今年过节不回家，回家无需验证码（新的抢票方式） <http://my.oschina.net/lolsi/blog/194127>`_
 
+    `javacript的面向对象思想体现在哪里？ <http://segmentfault.com/q/1010000000368852>`_
+
+    `基于jquery的全局ajax函数处理session过期后的ajax操作 <http://my.oschina.net/simpleton/blog/194143>`_
+
+    `javascript获取段落内文本 <http://my.oschina.net/dingjunnan/blog/194170>`_
+
+    CoffeeScript:
+
+      `coffeescript 数组操作 <http://my.oschina.net/knightuniverse/blog/194146>`_
+
+  HTML/CSS:
+
+    `HTML布局之左右结构，左边固定右边跟据父元素自适应 <http://my.oschina.net/ito/blog/194166>`_
+
+  C++:
+
+    `C++中的动态内存与智能指针 <http://blog.jobbole.com/56316/>`_
+
+  database:
+
+    `MongoDB的基本操作 <http://my.oschina.net/u/241255/blog/194173>`_
+
+  OS:
+
+    `#legoo内核# 准则四：使用配置提高杠杆效应 <http://my.oschina.net/qfhxj/blog/194176>`_
+
   Go:
 
     `【原创翻译】你的第一个程序 <http://my.oschina.net/zingscript/blog/194124>`_
 
+    `【原创翻译】习题 <http://my.oschina.net/zingscript/blog/194149>`_
+
+  MapReduce:
+
+    `PigPen 介绍：Clojure 的 Map-Reduce <http://my.oschina.net/u/1412485/blog/194131>`_
+
   Game:
 
     `网页游戏的云计算架构 <http://www.infoq.com/cn/presentations/cloud-computing-architecture-of-web-games>`_
+
+  PHP:
+
+    `PHP里10个鲜为人知但却非常有用的函数 <http://www.aqee.net/10-little-known-but-useful-php-functions/>`_
 
   Log:
 
@@ -151,6 +216,10 @@ Simplified Chinese:
   Android:
 
     `成为“Android高手”需要经过的六个阶段和6个境界 <http://my.oschina.net/u/1014520/blog/194098>`_
+
+    `Google正在开发运动健身API <http://www.linuxeden.com/html/itnews/20140120/147685.html>`_
+
+    `ndk-gdb使用简介 <http://my.oschina.net/u/1183791/blog/194133>`_
 
   News:
 
@@ -176,4 +245,8 @@ Simplified Chinese:
     `传微软内部已将 Win8 视作“又一个Vista” <http://www.oschina.net/news/47997/windows-8-is-another-vista>`_
 
     `Dart 1.1进一步提升性能 <http://www.infoq.com/cn/news/2014/01/dart-1-1>`_
+
+    `美媒:中国操作系统欲破垄断 研发成本未公布 <http://www.linuxeden.com/html/news/20140120/147686.html>`_
+
+    `【1】为什么要学C和JAVA <http://my.oschina.net/u/573517/blog/194148>`_
 
