@@ -147,6 +147,7 @@ Simplified Chinese:
   Shell:
 
     `如何在Linux下统计高速网络中的流量 <http://www.geekfan.net/5558/>`_
+    (`如何在Linux下统计高速网络中的流量 <http://linux.cn/thread/12239/1/1/>`__)
 
   Language:
 
@@ -156,7 +157,8 @@ Simplified Chinese:
   Patent:
 
     `亚马逊新专利：用户未下单即可提前发货 <http://www.linuxeden.com/html/itnews/20140119/147676.html>`_
-    (`大數據時代：Amazon「預判發貨」，你還沒下單它已經開始發貨了 <http://www.techbang.com/posts/16570-era-of-big-data-amazon-prejudge-the-issue-you-havent-order-it-has-started-shipping-the>`_)
+    (`大數據時代：Amazon「預判發貨」，你還沒下單它已經開始發貨了 <http://www.techbang.com/posts/16570-era-of-big-data-amazon-prejudge-the-issue-you-havent-order-it-has-started-shipping-the>`_,
+    `亚马逊专利预期发货 <http://www.solidot.org/story?sid=38095>`_)
 
   JavaScript:
 

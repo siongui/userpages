@@ -171,6 +171,7 @@ Simplified Chinese:
   Linux:
 
     `为什么Linux不需要碎片整理？ <http://www.geekfan.net/5281/>`_
+    (`为什么Linux不需要碎片整理？ <http://linux.cn/thread/12238/1/1/>`__)
 
     `实例学习 Linux 的 cd 命令，及对内部命令的解释 <http://linux.cn/thread/12224/1/1/>`_
 
