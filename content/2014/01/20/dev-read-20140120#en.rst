@@ -1,9 +1,9 @@
-<>, etc.
-######################################################################################################################################
+<There’s more to mathematics than rigour and proofs>, <Build Git – Learn Git>, <Asciiflow>, etc.
+################################################################################################
 
 :date: 2014-01-20 02:49
-:tags: Python, CSS, JavaScript, OS, Lisp, Emacs
-:tags_zh_CN: 
+:tags: Python, CSS, JavaScript, OS, Lisp, Emacs, Git, C++, Go, Algorithm, math
+:tags_zh_CN: Python, Linux, Django, Distributed System, Recommender System, Algorithm, OpenCV, Go, Blog, CS, Embedded System, Security
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-20
@@ -13,6 +13,11 @@ OS:
 
   `Anatomy of a Program in Memory (duartes.org) <http://duartes.org/gustavo/blog/post/anatomy-of-a-program-in-memory>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7085643>`__)
+
+  Garbage Collection:
+
+    `A big step towards Firefox generational and compacting GC (mozilla.org) <https://blog.mozilla.org/nnethercote/2014/01/20/a-big-step-towards-generational-and-compacting-gc/>`_
+    (`HN discuss <https://news.ycombinator.com/item?id=7087949>`__)
 
 Lisp:
 
@@ -63,11 +68,6 @@ Website:
   `Asciiflow (asciiflow.com) <http://www.asciiflow.com/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7085133>`__)
 
-Garbage Collection:
-
-  `A big step towards Firefox generational and compacting GC (mozilla.org) <https://blog.mozilla.org/nnethercote/2014/01/20/a-big-step-towards-generational-and-compacting-gc/>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7087949>`__)
-
 C++:
 
   `A Tour of C++ (isocpp.org) <http://isocpp.org/tour>`_
@@ -78,12 +78,19 @@ Go:
   `Android support in Go (docs.google.com) <https://docs.google.com/document/d/1QcMuZYgEHLBQSGcFXT7YwUkvI1hRxxvXWjOo6MQ_F9k/edit>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7090036>`__)
 
+  `Go program that produced a raytraced rotating torus on the console (in text). <https://plus.google.com/107037681162008050372/posts/ZNR4HWQ2ePd>`_
+
+  `In a web app, what's the proper way to get the request URL? <https://plus.google.com/106852756908558027053/posts/eoAeBoojT9c>`_
+
 FreeBSD:
 
   `FreeBSD 10.0 is here (freebsd.org) <http://ftp.freebsd.org/pub/FreeBSD/releases/amd64/amd64/ISO-IMAGES/10.0/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7084845>`__)
 
 math:
+
+  `There’s more to mathematics than rigour and proofs <http://terrytao.wordpress.com/career-advice/there%E2%80%99s-more-to-mathematics-than-rigour-and-proofs/>`_
+  (`Google+ post <https://plus.google.com/114134834346472219368/posts/ZuJDv3daT9n>`__)
 
   `The Number Empire (numberempire.com) <http://www.numberempire.com/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7089381>`__)
