@@ -85,7 +85,8 @@ Go:
 FreeBSD:
 
   `FreeBSD 10.0 is here (freebsd.org) <http://ftp.freebsd.org/pub/FreeBSD/releases/amd64/amd64/ISO-IMAGES/10.0/>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7084845>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7084845>`__,
+  `FreeBSD 10.0发布 <http://www.solidot.org/story?sid=38102>`_)
 
 math:
 
