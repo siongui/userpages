@@ -10,7 +10,8 @@
 
 `JavaScript template engine in just 20 line <http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line>`_
 (or `here <http://tech.pro/tutorial/1743/javascript-template-engine-in-just-20-lines>`__,
-`HN news <https://news.ycombinator.com/item?id=6827962>`__)
+`HN news <https://news.ycombinator.com/item?id=6827962>`__,
+`只有20行Javascript代码！手把手教你写一个页面模板引擎 <http://blog.jobbole.com/56689/>`_)
 
 `How to Make a Computer Operating System in C++ <https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System>`_
 (`HN news <https://news.ycombinator.com/item?id=6828378>`__)
