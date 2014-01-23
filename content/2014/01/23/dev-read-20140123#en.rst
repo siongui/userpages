@@ -35,7 +35,8 @@ Security:
 
   `Chrome Bugs Allow Sites to Listen to Your Private Conversations (talater.com) <http://talater.com/chrome-is-listening/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7104817>`__,
-  `Chrome Bugs Lets Sites Listen To Your Private Conversations <http://tech.slashdot.org/story/14/01/22/2156235/chrome-bugs-lets-sites-listen-to-your-private-conversations>`_)
+  `Chrome Bugs Lets Sites Listen To Your Private Conversations <http://tech.slashdot.org/story/14/01/22/2156235/chrome-bugs-lets-sites-listen-to-your-private-conversations>`_,
+  `[视频演示]Chrome浏览器存在麦克风被后台监听风险 <http://www.cnbeta.com/articles/269748.htm>`_)
 
 Programming Language:
 
@@ -47,3 +48,36 @@ Programming Language:
 
 Simplified Chinese:
 
+  Shell:
+
+    `shell备忘录 <http://my.oschina.net/meilihao/blog/195147>`_
+
+  Python:
+
+    `python list 中找连续的数字 <http://www.oschina.net/code/snippet_347481_32855>`_
+
+  Go:
+
+    `【原创翻译】布尔值(boolean) <http://my.oschina.net/zingscript/blog/195131>`_
+
+  CSS:
+
+    `超棒的 15 款 Bootstrap UI 编辑器 <http://www.oschina.net/news/48134/the-best-bootstrap-ui-editors>`_
+
+  Algorithm:
+
+    `二叉树算法笔记：赫夫曼树(最优二叉树) in java <http://my.oschina.net/wangchen881202/blog/195167>`_
+
+  database:
+
+    `从2000万条开房数据优化谈检索 <http://www.oschina.net/question/1410074_141895>`_
+
+  News:
+
+    `专访宋海涛：我们在做一款比Google Glass更酷的设备 <http://www.csdn.net/article/2014-01-22/2818223>`_
+
+    `开源中国 2013 大记事 <http://www.oschina.net/news/48142/oschina-2013>`_
+
+    `盘点2013年IT界软件领域发生的五件大事 <http://www.csdn.net/article/2014-01-22/2818219-Top-5-Software-Blunders-of-2013>`_
+
+    `伯乐访谈之程序员在国外：张伟 – 汽车软件开发者在德国 <http://blog.jobbole.com/57005/>`_

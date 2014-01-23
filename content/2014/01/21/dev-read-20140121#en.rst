@@ -27,7 +27,8 @@ Python:
 JavaScript:
 
   `My Mind: a new web-based mindmap editor (JavaScript, OSS) (github.com) <https://github.com/ondras/my-mind>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7095449>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7095449>`__,
+  `思维导图工具 my-mind <http://www.oschina.net/p/my-mind>`_)
 
 Build Tool:
 

@@ -150,6 +150,8 @@ Simplified Chinese:
 
     `2014年1月21日全国DNS污染始末以及分析 <http://blog.jobbole.com/56821/>`_ (推薦閱讀!!!)
 
+    `中国证实互联网故障源于根服务器遭攻击 <http://www.oschina.net/news/48138/dns-root-server-attacked>`_
+
   Programming:
 
     `并发导论 <http://blog.jobbole.com/56798/>`_
@@ -179,6 +181,7 @@ Simplified Chinese:
   Hardware:
 
     `Lux：世界首款开源120胶片相机 <http://linux.cn/thread/12255/1/1/>`_
+    (`开源120胶片相机 Lux <http://www.oschina.net/p/lux>`__)
 
     `淺談Raid Cache Memory上應用的問題和實踐 <http://linux.cn/thread/12253/1/1/>`_
 
