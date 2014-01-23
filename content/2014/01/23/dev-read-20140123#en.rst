@@ -2,7 +2,7 @@
 ##########################################################################################
 
 :date: 2014-01-23 07:10
-:tags: Performance, Python, Linux, Security, JavaScript, Game, Go
+:tags: Performance, Python, Linux, Security, JavaScript, Game, Go, Vim
 :tags_zh_CN: Go, Machine Learning, Shell, Python, CSS, Linux, Algorithm
 :category: Dev Read
 :author: Siong-Ui Te
@@ -57,7 +57,8 @@ Security:
   (`HN discuss <https://news.ycombinator.com/item?id=7104817>`__,
   `Chrome Bugs Lets Sites Listen To Your Private Conversations <http://tech.slashdot.org/story/14/01/22/2156235/chrome-bugs-lets-sites-listen-to-your-private-conversations>`_,
   `[视频演示]Chrome浏览器存在麦克风被后台监听风险 <http://www.cnbeta.com/articles/269748.htm>`_,
-  `Google没能立即为语音识别漏洞发布补丁 <http://www.linuxeden.com/html/news/20140123/147808.html>`_)
+  `Google没能立即为语音识别漏洞发布补丁 <http://www.linuxeden.com/html/news/20140123/147808.html>`_,
+  `安全: Chrome的bug允许网站监听用户的私人对话 <http://www.solidot.org/story?sid=38138>`_)
 
   `HTTP Security headers you should be using (ibuildings.nl) <http://ibuildings.nl/blog/2013/03/4-http-security-headers-you-should-always-be-using>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7108796>`__)
@@ -67,6 +68,11 @@ Programming Language:
   `The RedMonk Programming Language Rankings: January 2014 (redmonk.com) <http://redmonk.com/sogrady/2014/01/22/language-rankings-1-14/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7105293>`__,
   `RedMonk 编程语言排行榜（2014年1月） <http://www.oschina.net/news/48120/redmonk-language-rankings-1-14>`_)
+
+Vim:
+
+  `Mastering Vim in Vim (weddingpartyapp.com) <http://nerds.weddingpartyapp.com/tech/2013/11/17/mastering-vim-in-vim/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7109430>`__)
 
 
 
@@ -85,6 +91,8 @@ Simplified Chinese:
 
     `python list 中找连续的数字 <http://www.oschina.net/code/snippet_347481_32855>`_
 
+    `dajngo 数据库事物的处理 <http://my.oschina.net/012345678/blog/195338>`_
+
   Go:
 
     `【原创翻译】布尔值(boolean) <http://my.oschina.net/zingscript/blog/195131>`_
@@ -98,9 +106,17 @@ Simplified Chinese:
 
     `超棒的 15 款 Bootstrap UI 编辑器 <http://www.oschina.net/news/48134/the-best-bootstrap-ui-editors>`_
 
+  JavaScript:
+
+    `JS判断浏览器客户端，达到手机网站与电脑网站分开访问 <http://www.oschina.net/code/snippet_934081_32875>`_
+
   Linux:
 
     `ssh 免密码登录 <http://my.oschina.net/hosir/blog/195297>`_
+
+    `Linux: Deadline调度器合并进3.14 kernel <http://www.solidot.org/story?sid=38141>`_
+
+    `实现linux系统调用：popen() <http://www.oschina.net/code/snippet_1160717_32874>`_
 
   Algorithm:
 
@@ -112,11 +128,17 @@ Simplified Chinese:
 
     `从2000万条开房数据优化谈检索 <http://www.oschina.net/question/1410074_141895>`_
 
+    `【原创】modb 中日志的设计 <http://my.oschina.net/moooofly/blog/195330>`_
+
   Version Control:
 
     `svn常用命令大全 <http://my.oschina.net/yoyo1987/blog/195280>`_
 
     `软件版本控制介绍 <http://blog.jobbole.com/55304/>`_
+
+  Search:
+
+    `分布式搜索elasticsearch 中文分词集成 <http://my.oschina.net/sunzy/blog/195341>`_
 
   News:
 
@@ -137,6 +159,10 @@ Simplified Chinese:
     `科技创业家库班：我为何抛弃了谷歌搜索？ <http://www.linuxeden.com/html/itnews/20140123/147818.html>`_
 
     `dnspod的彩蛋怎么生成的 <http://segmentfault.com/q/1010000000396884>`_
+
+    `我的 Linux 新世界观 <http://rca.is-programmer.com/2014/1/23/my-linux-philosophy.42488.html>`_
+
+    `中国大量封锁外媒外语网站 <http://www.solidot.org/story?sid=38139>`_
 
   funny:
 
