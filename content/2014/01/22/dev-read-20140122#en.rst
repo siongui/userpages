@@ -70,7 +70,8 @@ Github:
 
   `Best reply to a Pull Request ever? (github.com) <https://github.com/fre5h/DoctrineEnumBundle/pull/12#issuecomment-33023169>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7103031>`__,
-  `因动乱推迟处理Pull请求，众同行为乌克兰程序员送祝福 <http://www.solidot.org/story?sid=38150>`_)
+  `因动乱推迟处理Pull请求，众同行为乌克兰程序员送祝福 <http://www.solidot.org/story?sid=38150>`_,
+  `因动乱推迟处理Pull请求 众同行为乌克兰程序员送祝福 <http://blog.jobbole.com/57051/>`_)
 
 funny:
 

@@ -1,24 +1,47 @@
-<Hacker News Data Analysis: 2014 Edition>, etc.
-##########################################################################################
+<Why I'm Betting On Julia>, <Emacs, naked>, <Hacker News Data Analysis: 2014 Edition>, etc.
+###########################################################################################
 
 :date: 2014-01-23 07:10
-:tags: Performance, Python, Linux, Security, JavaScript, Game, Go, Vim
-:tags_zh_CN: Go, Machine Learning, Shell, Python, CSS, Linux, Algorithm
+:tags: Performance, Python, Linux, Security, JavaScript, Game, Go, Vim, Julia, Algorithm, Emacs, SEO, math
+:tags_zh_CN: Go, Machine Learning, Shell, Python, CSS, Linux, Algorithm, Data Structure, C++, Version Control
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-23
 
 
+Programming Language:
+
+  `The RedMonk Programming Language Rankings: January 2014 (redmonk.com) <http://redmonk.com/sogrady/2014/01/22/language-rankings-1-14/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7105293>`__,
+  `RedMonk 编程语言排行榜（2014年1月） <http://www.oschina.net/news/48120/redmonk-language-rankings-1-14>`_)
+
+  `Why I'm Betting On Julia (evanmiller.org) <http://www.evanmiller.org/why-im-betting-on-julia.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7109982>`__)
 
 Hacker News:
 
   `Hacker News Data Analysis: 2014 Edition (rjmetrics.com) <http://blog.rjmetrics.com/2014/01/23/hacker-news-data-analysis-2014-edition/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7109509>`__)
 
+Emacs:
+
+  `Emacs, naked (bzg.fr) <http://bzg.fr/emacs-strip-tease.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7107893>`__)
+
 Performance:
 
   `We spent a week making Trello boards load fast (fogcreek.com) <http://blog.fogcreek.com/we-spent-a-week-making-trello-boards-load-extremely-fast-heres-how-we-did-it/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7103815>`__)
+
+Algorithm:
+
+  `Model Your Users: Algorithms Behind the Minuum Keyboard (minuum.com) <http://minuum.com/model-your-users-algorithms-behind-the-minuum-keyboard/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7110619>`__)
+
+  math:
+
+  `Donut math: how donut.c works (2011) (a1k0n.net) <http://www.a1k0n.net/2011/07/20/donut-math.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7108044>`__)
 
 Game:
 
@@ -37,10 +60,18 @@ JavaScript:
 
   `Reveling the magic: How to properly convert HTML string to a DOM element <http://tech.pro/tutorial/1838/reveling-the-magic-how-to-properly-convert-html-string-to-a-dom-element>`_
 
+  `React: Finally, a great server/client web stack (eflorenzano.com) <http://eflorenzano.com/blog/2013/01/23/react-finally-server-client/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7111049>`__)
+
 Go:
 
   `Confession From a Go Programmer (notbroken.org) <http://notbroken.org/go_confession.html>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7109090>`__)
+
+SEO:
+
+  `If You’re “Blogging” For SEO, You’re Doing it Wrong -- AirPair's SEO Secrets (airpair.com) <http://www.airpair.com/seo/seo-focused-wordpress-infrastructure>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7110884>`__)
 
 Security:
 
@@ -62,12 +93,6 @@ Security:
 
   `HTTP Security headers you should be using (ibuildings.nl) <http://ibuildings.nl/blog/2013/03/4-http-security-headers-you-should-always-be-using>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7108796>`__)
-
-Programming Language:
-
-  `The RedMonk Programming Language Rankings: January 2014 (redmonk.com) <http://redmonk.com/sogrady/2014/01/22/language-rankings-1-14/>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7105293>`__,
-  `RedMonk 编程语言排行榜（2014年1月） <http://www.oschina.net/news/48120/redmonk-language-rankings-1-14>`_)
 
 Vim:
 
@@ -93,9 +118,16 @@ Simplified Chinese:
 
     `dajngo 数据库事物的处理 <http://my.oschina.net/012345678/blog/195338>`_
 
+    `Python基础03 序列 <http://www.cnblogs.com/vamei/archive/2012/05/28/2522677.html>`_
+
+    `Quora 为什么使用python Adam D'Angelo（Facebook第一任CTO）谈为什么Quora用python <http://www.simapple.com/249.html>`_
+    (`Quora 为什么使用python Adam D'Angelo（Facebook第一任CTO）谈为什么Quora用python <http://my.oschina.net/lonchin/blog/195223>`__)
+
   Go:
 
     `【原创翻译】布尔值(boolean) <http://my.oschina.net/zingscript/blog/195131>`_
+
+    `【原创翻译】变量 <http://my.oschina.net/zingscript/blog/195374>`_
 
     `Read Go - Split Stack <http://totorow.herokuapp.com/posts/Read_Go_-_Split_Stack>`_
     (`Read Go - Split Stack <http://blog.go-china.org/23-Read_Go_-_Split_Stack>`__)
@@ -105,6 +137,8 @@ Simplified Chinese:
   CSS:
 
     `超棒的 15 款 Bootstrap UI 编辑器 <http://www.oschina.net/news/48134/the-best-bootstrap-ui-editors>`_
+
+    `CSS3 :nth-child()伪类选择器 <http://my.oschina.net/u/992626/blog/195229>`_
 
   JavaScript:
 
@@ -118,11 +152,29 @@ Simplified Chinese:
 
     `实现linux系统调用：popen() <http://www.oschina.net/code/snippet_1160717_32874>`_
 
+    `Linux标准目录结构 <http://my.oschina.net/u/1413049/blog/195369>`_
+
+    `linux 基础命令 <http://my.oschina.net/f839903061/blog/195216>`_
+
   Algorithm:
 
     `二叉树算法笔记：赫夫曼树(最优二叉树) in java <http://my.oschina.net/wangchen881202/blog/195167>`_
 
     `请教一个统计趋势的算法 <http://segmentfault.com/q/1010000000396862>`_
+
+    `QQ协议的TEA加解密算法 <http://my.oschina.net/osbin/blog/195358>`_
+
+    `mahout 算法集 <http://my.oschina.net/winHerson/blog/195190>`_
+
+  Data Structure:
+
+    `HashMap vs. TreeMap vs. Hashtable vs.LinkedHashMap <http://my.oschina.net/u/1412027/blog/195220>`_
+
+  C++:
+
+    `C++的未来和指针 <http://blog.jobbole.com/56312/>`_
+
+    `typename在C++中的用法 <http://my.oschina.net/u/1443582/blog/195255>`_
 
   database:
 
