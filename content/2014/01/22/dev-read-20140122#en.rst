@@ -18,7 +18,9 @@ Python:
   (`HN discuss <https://news.ycombinator.com/item?id=7102268>`__)
 
   `Python Scripting and Analyzing Your Way To Love <http://science.slashdot.org/story/14/01/22/1428224/python-scripting-and-analyzing-your-way-to-love>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7099855>`_)
+  (`HN discuss <https://news.ycombinator.com/item?id=7099855>`_,
+  `学以致用，光棍极客通过大数据搞定女朋友 <http://www.csdn.net/article/2014-01-23/2818243-how-to-hack-okcupid>`_,
+  `進擊的數學宅男駭進OkCupid！展開 90 次約會的史詩求愛長征 <http://wired.tw/2014/01/23/chris-mckinlay>`_)
 
 Emulator:
 
@@ -66,7 +68,8 @@ CSS:
 Github:
 
   `Best reply to a Pull Request ever? (github.com) <https://github.com/fre5h/DoctrineEnumBundle/pull/12#issuecomment-33023169>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7103031>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7103031>`__,
+  `因动乱推迟处理Pull请求，众同行为乌克兰程序员送祝福 <http://www.solidot.org/story?sid=38150>`_)
 
 funny:
 

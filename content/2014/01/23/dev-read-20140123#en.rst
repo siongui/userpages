@@ -1,32 +1,52 @@
-<>, etc.
+<Hacker News Data Analysis: 2014 Edition>, etc.
 ##########################################################################################
 
 :date: 2014-01-23 07:10
-:tags: 
-:tags_zh_CN: 
+:tags: Performance, Python, Linux, Security, JavaScript, Game, Go
+:tags_zh_CN: Go, Machine Learning, Shell, Python, CSS, Linux, Algorithm
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-23
 
 
 
+Hacker News:
+
+  `Hacker News Data Analysis: 2014 Edition (rjmetrics.com) <http://blog.rjmetrics.com/2014/01/23/hacker-news-data-analysis-2014-edition/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7109509>`__)
+
 Performance:
 
   `We spent a week making Trello boards load fast (fogcreek.com) <http://blog.fogcreek.com/we-spent-a-week-making-trello-boards-load-extremely-fast-heres-how-we-did-it/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7103815>`__)
 
+Game:
+
+  `Pentago Is a First-Player Win <http://tech.slashdot.org/story/14/01/23/1733250/pentago-is-a-first-player-win>`_
+
 Linux:
 
   `How To Use the AWK language to Manipulate Text in Linux <https://www.digitalocean.com/community/articles/how-to-use-the-awk-language-to-manipulate-text-in-linux>`_
+
+Python:
+
+  `Introduction to the Python Interpreter, Part 4: It's Dynamic! <http://akaptur.github.io/blog/2013/12/03/introduction-to-the-python-interpreter-4/>`_
+  (`Python解释器简介（4）：动态语言 <http://blog.jobbole.com/57381/>`_)
 
 JavaScript:
 
   `Reveling the magic: How to properly convert HTML string to a DOM element <http://tech.pro/tutorial/1838/reveling-the-magic-how-to-properly-convert-html-string-to-a-dom-element>`_
 
+Go:
+
+  `Confession From a Go Programmer (notbroken.org) <http://notbroken.org/go_confession.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7109090>`__)
+
 Security:
 
   `How I found a Remote Code Execution bug affecting Facebook's servers (ubercomp.com) <http://www.ubercomp.com/posts/2014-01-16_facebook_remote_code_execution>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7105712>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7105712>`__,
+  `Facebook's Biggest Bounty Yet To Hacker Who Found "Keys To the Kingdom" <http://it.slashdot.org/story/14/01/23/1438258/facebooks-biggest-bounty-yet-to-hacker-who-found-keys-to-the-kingdom>`_)
 
   `We recently awarded our biggest bug bounty payout (facebook.com) <https://www.facebook.com/BugBounty/posts/778897822124446?stream_ref=10>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7105815>`__)
@@ -36,7 +56,11 @@ Security:
   `Chrome Bugs Allow Sites to Listen to Your Private Conversations (talater.com) <http://talater.com/chrome-is-listening/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7104817>`__,
   `Chrome Bugs Lets Sites Listen To Your Private Conversations <http://tech.slashdot.org/story/14/01/22/2156235/chrome-bugs-lets-sites-listen-to-your-private-conversations>`_,
-  `[视频演示]Chrome浏览器存在麦克风被后台监听风险 <http://www.cnbeta.com/articles/269748.htm>`_)
+  `[视频演示]Chrome浏览器存在麦克风被后台监听风险 <http://www.cnbeta.com/articles/269748.htm>`_,
+  `Google没能立即为语音识别漏洞发布补丁 <http://www.linuxeden.com/html/news/20140123/147808.html>`_)
+
+  `HTTP Security headers you should be using (ibuildings.nl) <http://ibuildings.nl/blog/2013/03/4-http-security-headers-you-should-always-be-using>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7108796>`__)
 
 Programming Language:
 
@@ -47,6 +71,11 @@ Programming Language:
 
 
 Simplified Chinese:
+
+  Machine Learning:
+
+    `分布式机器学习的故事 <http://cxwangyi.github.io/2014/01/20/distributed-machine-learning/>`_
+    (`王益：分布式机器学习的故事 <http://blog.jobbole.com/57027/>`__)
 
   Shell:
 
@@ -60,17 +89,34 @@ Simplified Chinese:
 
     `【原创翻译】布尔值(boolean) <http://my.oschina.net/zingscript/blog/195131>`_
 
+    `Read Go - Split Stack <http://totorow.herokuapp.com/posts/Read_Go_-_Split_Stack>`_
+    (`Read Go - Split Stack <http://blog.go-china.org/23-Read_Go_-_Split_Stack>`__)
+
+    `golang 并发问题 <http://segmentfault.com/q/1010000000396744>`_
+
   CSS:
 
     `超棒的 15 款 Bootstrap UI 编辑器 <http://www.oschina.net/news/48134/the-best-bootstrap-ui-editors>`_
+
+  Linux:
+
+    `ssh 免密码登录 <http://my.oschina.net/hosir/blog/195297>`_
 
   Algorithm:
 
     `二叉树算法笔记：赫夫曼树(最优二叉树) in java <http://my.oschina.net/wangchen881202/blog/195167>`_
 
+    `请教一个统计趋势的算法 <http://segmentfault.com/q/1010000000396862>`_
+
   database:
 
     `从2000万条开房数据优化谈检索 <http://www.oschina.net/question/1410074_141895>`_
+
+  Version Control:
+
+    `svn常用命令大全 <http://my.oschina.net/yoyo1987/blog/195280>`_
+
+    `软件版本控制介绍 <http://blog.jobbole.com/55304/>`_
 
   News:
 
@@ -81,3 +127,17 @@ Simplified Chinese:
     `盘点2013年IT界软件领域发生的五件大事 <http://www.csdn.net/article/2014-01-22/2818219-Top-5-Software-Blunders-of-2013>`_
 
     `伯乐访谈之程序员在国外：张伟 – 汽车软件开发者在德国 <http://blog.jobbole.com/57005/>`_
+
+    `谷歌推广知识图谱，搜索结果添加知名网站介绍 <http://www.pythoner.cn/home/blog/more-information-about-websites-to-help/>`_
+
+    `外国人眼中的COS <http://www.linuxeden.com/html/news/20140123/147802.html>`_
+
+    `小型的开源机器人手臂 帮你做细琐事情 <http://www.linuxeden.com/html/news/20140123/147813.html>`_
+
+    `科技创业家库班：我为何抛弃了谷歌搜索？ <http://www.linuxeden.com/html/itnews/20140123/147818.html>`_
+
+    `dnspod的彩蛋怎么生成的 <http://segmentfault.com/q/1010000000396884>`_
+
+  funny:
+
+    `漫画：为什么 C 被踢出窗外？ <http://blog.jobbole.com/56762/>`_

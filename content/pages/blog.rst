@@ -255,6 +255,8 @@ Simplified Chinese:
 
   `抛弃世俗之浮躁，留我钻研之刻苦 <http://wuwen.org/>`_
 
+  `Yi Wang's Tech Notes <http://cxwangyi.github.io/>`_
+
 `Wenli Zhang <http://zhangwenli.com/>`_
 
 `Zhong' blog <http://stupidgrass.github.io/blog/>`_
