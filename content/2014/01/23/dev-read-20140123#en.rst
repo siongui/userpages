@@ -63,6 +63,8 @@ JavaScript:
   `React: Finally, a great server/client web stack (eflorenzano.com) <http://eflorenzano.com/blog/2013/01/23/react-finally-server-client/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7111049>`__)
 
+  `Understanding JavaScript’s Function.prototype.bind <http://coding.smashingmagazine.com/2014/01/23/understanding-javascript-function-prototype-bind/>`_
+
 Go:
 
   `Confession From a Go Programmer (notbroken.org) <http://notbroken.org/go_confession.html>`_
@@ -137,6 +139,7 @@ Simplified Chinese:
   CSS:
 
     `超棒的 15 款 Bootstrap UI 编辑器 <http://www.oschina.net/news/48134/the-best-bootstrap-ui-editors>`_
+    (`超棒的 15 款 Bootstrap UI 编辑器 <http://blog.jobbole.com/57674/>`__)
 
     `CSS3 :nth-child()伪类选择器 <http://my.oschina.net/u/992626/blog/195229>`_
 

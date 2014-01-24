@@ -19,6 +19,7 @@ Python:
 
   `Python Scripting and Analyzing Your Way To Love <http://science.slashdot.org/story/14/01/22/1428224/python-scripting-and-analyzing-your-way-to-love>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7099855>`_,
+  `单身数学家如何通过数据挖掘找真爱 <http://blog.jobbole.com/57618/>`_
   `学以致用，光棍极客通过大数据搞定女朋友 <http://www.csdn.net/article/2014-01-23/2818243-how-to-hack-okcupid>`_,
   `進擊的數學宅男駭進OkCupid！展開 90 次約會的史詩求愛長征 <http://wired.tw/2014/01/23/chris-mckinlay>`_,
   `数学博士使用数据挖掘从OkCupid找到真爱 <http://www.solidot.org/story?sid=38148>`_)
