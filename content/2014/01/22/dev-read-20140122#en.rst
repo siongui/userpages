@@ -206,6 +206,7 @@ Simplified Chinese:
   database:
 
     `45 个非常有用的 Oracle 查询语句 <http://www.oschina.net/question/1428332_141874>`_
+    (`45 个非常有用的 Oracle 查询语句 <http://blog.jobbole.com/57741/>`__)
 
     `MYSQL 表锁以及行锁以及脏读 <http://my.oschina.net/u/568264/blog/195048>`_
 
