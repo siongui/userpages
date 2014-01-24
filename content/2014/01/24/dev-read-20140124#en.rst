@@ -1,9 +1,9 @@
-<Write an aphorism using valid code>, <web app alternative to Illustrator>, etc.
-###########################################################################################
+<Write an aphorism using valid code>, <web app alternative to Illustrator>, <Debunking Princeton>, etc.
+#######################################################################################################
 
 :date: 2014-01-24 13:10
-:tags: Git, database, Security, FreeBSD
-:tags_zh_CN: Java, R, JavaScript, node.js, Shell, database, math, Vim, Python, Linux, Robotics, Go, CSS
+:tags: Git, database, Security, FreeBSD, Python, Website, Programming Puzzles, Haskell
+:tags_zh_CN: Machine Learning, Java, R, JavaScript, node.js, Shell, database, math, Vim, Python, Linux, Robotics, Go, CSS
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-24
@@ -19,6 +19,10 @@ Website:
 
   `Show HN: I open-sourced my web app alternative to Illustrator (mondrian.io) <http://mondrian.io/contributing>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7116042>`__)
+
+  `Debunking Princeton (facebook.com) <https://www.facebook.com/notes/mike-develin/debunking-princeton/10151947421191849>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7111627>`__,
+  `Facebook 駁普林斯頓研究：按照你們的算法，貴校到了 2021 年就會沒有學生囉 <http://www.inside.com.tw/2014/01/24/facebook-data-scientist-do-not-agree-to-pristine-research>`_)
 
 database:
 
@@ -57,7 +61,17 @@ Go:
 
 Simplified Chinese:
 
+  Machine Learning:
+
+    `读图技术及应用 <http://www.infoq.com/cn/presentations/interpret-images-technology-and-applications>`_
+
+    `开启读图时代 <http://www.infoq.com/cn/presentations/interpret-images-era>`_
+
+    `百度技术沙龙第46期回顾：读图时代的识图技术（含资料下载） <http://www.infoq.com/cn/news/2014/01/interpret-images-technology>`_
+
   Python:
+
+    `Python在广告监测数据中的分析应用 <http://www.infoq.com/cn/presentations/python-in-analysis-the-application-of-advertising-monitoring-data>`_
 
     `使用networkx-python绘制点边图 <http://my.oschina.net/sanpeterguo/blog/195390>`_
 
@@ -197,12 +211,20 @@ Simplified Chinese:
 
     `NASA是如何使用AWS的 <http://www.infoq.com/cn/interviews/how-did-nasa-use-aws>`_
 
+    `GitHub中国游记最终回——开源与车库的碰撞 <http://www.csdn.net/article/2014-01-21/2818206-github-journal-part-chekucafe>`_
+
+    `BDTC2013观后感：Impala和数据挖掘 <http://www.csdn.net/article/2014-01-23/2818237>`_
+
+    `云基础上的QZone架构优化设计 <http://www.infoq.com/cn/presentations/the-optimal-architecture-design-qzone-based-on-cloud>`_
+
+    `专访iOS开发框架BeeFramework作者郭虹宇 <http://www.infoq.com/cn/news/2014/01/interview-author-guohongyu>`_
+
 
 
 Traditional Chinese:
 
   `研究顯示：群眾募資專案推出後四小時內即可預測成敗 <http://www.inside.com.tw/2014/01/23/statistical-models-can-predict-a-kickstarters-success-within-4-hours>`_
 
-  `Facebook 駁普林斯頓研究：按照你們的算法，貴校到了 2021 年就會沒有學生囉 <http://www.inside.com.tw/2014/01/24/facebook-data-scientist-do-not-agree-to-pristine-research>`_
-
   `免費切圖神器：Cut&Slice me <http://akanelee.logdown.com/posts/177177-free-diagram-artifact-cut>`_
+
+  `學會感謝，就活得更快樂！ <http://tedxtaipei.com/2014/01/david-steindl-rast-want-to-be-happy-be-grateful/>`_

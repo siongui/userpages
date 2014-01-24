@@ -91,7 +91,8 @@ Security:
   `Chrome Bugs Lets Sites Listen To Your Private Conversations <http://tech.slashdot.org/story/14/01/22/2156235/chrome-bugs-lets-sites-listen-to-your-private-conversations>`_,
   `[视频演示]Chrome浏览器存在麦克风被后台监听风险 <http://www.cnbeta.com/articles/269748.htm>`_,
   `Google没能立即为语音识别漏洞发布补丁 <http://www.linuxeden.com/html/news/20140123/147808.html>`_,
-  `安全: Chrome的bug允许网站监听用户的私人对话 <http://www.solidot.org/story?sid=38138>`_)
+  `安全: Chrome的bug允许网站监听用户的私人对话 <http://www.solidot.org/story?sid=38138>`_,
+  `Bug让Chrome浏览器成了窃听器 <http://www.csdn.net/article/2014-01-23/2818236-Google-Chrome-websites-security>`_)
 
   `HTTP Security headers you should be using (ibuildings.nl) <http://ibuildings.nl/blog/2013/03/4-http-security-headers-you-should-always-be-using>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7108796>`__)
