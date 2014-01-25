@@ -1,15 +1,21 @@
-<>, etc.
-#######################################################################################################
+<Making GIFs From Video Files With Python>, <16 Free eBooks On Machine Learning>, <The hardest computer game of all time>, etc.
+###############################################################################################################################
 
 :date: 2014-01-25 09:59
-:tags: Machine Learning, Python, Clogure, Julia
-:tags_zh_CN: 
+:tags: Machine Learning, Python, Clogure, Julia, Hacker News, Code Golfing, JavaScript
+:tags_zh_CN: Python, API, JavaScript, node.js, CSS, Algorithm, Linux, database, PHP, Clojure, Search
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-25
 
 
 Python:
+
+  `Making GIFs From Video Files With Python (zulko.github.io) <http://zulko.github.io/blog/2014/01/23/making-animated-gifs-from-video-files-with-python/#>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7121104>`__)
+
+  `Python tool to manage multiple rsync sessions (github.com) <https://github.com/ryt/psync>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7120874>`__)
 
   `Show HN: Buy stuff through your terminal (zinc.io) <http://zinc.io/cli>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7119409>`__)
@@ -18,6 +24,21 @@ Machine Learning:
 
   `16 Free eBooks On Machine Learning (efytimes.com) <http://efytimes.com/e1/fullnews.asp?edid=121516>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7120391>`__)
+
+Code Golfing:
+
+  `A code golfing site with an automatic grader (40 programming languages allowed). (spoj.com) <http://www.spoj.com/SHORTEN/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7121163>`__)
+
+Hacker News:
+
+  `HN Search Updated (algolia.io) <https://hn.algolia.io/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7118496>`__)
+
+Game:
+
+  `The hardest computer game of all time (slate.com) <http://www.slate.com/articles/technology/bitwise/2014/01/robot_odyssey_the_hardest_computer_game_of_all_time.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7118649>`__)
 
 Clojure:
 
@@ -46,6 +67,8 @@ Simplified Chinese:
     `登OSC，发动弹，等着赢【动弹有奖】 <http://www.oschina.net/code/snippet_1183145_32921>`_
 
     `2013 年python 精华集锦 <http://my.oschina.net/lonchin/blog/195932>`_
+
+    `VPS环境搭建详解 (Virtualenv+Gunicorn+Supervisor+Nginx) <http://beiyuu.com/vps-config-python-vitrualenv-flask-gunicorn-supervisor-nginx/>`_
 
   API:
 
@@ -114,4 +137,10 @@ Simplified Chinese:
     `12306网站购票后台：高峰期每秒点击量24万次 <http://blog.jobbole.com/57803/>`_
 
     `《刺客信条2》总监控诉华纳游戏新作抄袭 <http://blog.jobbole.com/57807/>`_
+
+    `RMS谈GCC、LLVM和Copyleft <http://www.solidot.org/story?sid=38168>`_
+
+    `做一个优秀的开源项目，需要注意哪些方面？ <http://blog.jobbole.com/57767/>`_
+
+    `你知道企业软件做得都很烂的最大原因是什么吗？ <http://www.aqee.net/do-you-know-the-biggest-reason-why-enterprise-software-sucks/>`_
 

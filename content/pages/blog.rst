@@ -40,6 +40,8 @@ Python/Go:
 
   `ionel's codelog <http://blog.ionelmc.ro/>`_ (Python)
 
+  `__del__( self ) <http://zulko.github.io/>`_ (Eaten by the Python.)
+
   `mxguangtw的个人博客 <http://blog.sciencenet.cn/u/mxguangtw>`_ (Python)
 
   `Guz Alexander <http://guzalexander.com/>`_
