@@ -257,6 +257,8 @@ Simplified Chinese:
 
   `Yi Wang's Tech Notes <http://cxwangyi.github.io/>`_
 
+  `ljie.pi <http://ljie-pi.github.io/>`_ (Clojure, Big Data)
+
 `Wenli Zhang <http://zhangwenli.com/>`_
 
 `Zhong' blog <http://stupidgrass.github.io/blog/>`_
