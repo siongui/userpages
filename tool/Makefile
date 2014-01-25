@@ -15,6 +15,10 @@ DARTPUB=$(DART_SDK_BIN)/pub
 DARTIUM=$(DART_DIR)/chromium/chrome
 
 
+# Dart app file
+APP_DART=static/app.dart
+APP_JS=static/app.js
+
 all: server
 
 server:
@@ -22,6 +26,13 @@ server:
 
 dartium:
 	DART_FLAGS='--checked' $(DARTIUM) --user-data-dir=./data &
+
+js: $(APP_DART)
+	$(DART2JS) --minify --out=$(APP_JS) $(APP_DART)
+
+clean:
+	rm static/app.js.*
+	rm static/app.precompiled.js
 
 help:
 	go help
