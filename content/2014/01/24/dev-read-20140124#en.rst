@@ -27,7 +27,8 @@ Website:
 database:
 
   `Use SQL subqueries to count distinct 50x faster (periscope.io) <https://periscope.io/blog/use-subqueries-to-count-distinct-50x-faster.html>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7114310>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7114310>`__,
+  `使用子查询可提升 COUNT DISTINCT 速度 50 倍 <http://www.oschina.net/translate/use-subqueries-to-count-distinct-50x-faster>`_)
 
 Python:
 
