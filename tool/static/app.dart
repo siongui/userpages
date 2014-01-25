@@ -2,6 +2,10 @@ import 'dart:html';
 import 'dart:convert';
 
 
+void handleHtml(String html) {
+  print(html);
+}
+
 void sendUrl(Event e) {
   ButtonElement elm = e.target as ButtonElement;
   InputElement urlElm = query("#url") as InputElement;
@@ -10,6 +14,15 @@ void sendUrl(Event e) {
   taElm.text = urlElm.value + '\n' + tagElm.value;
 
   HttpRequest request = new HttpRequest();
+
+  // add an event handler that is called when the request finishes
+  request.onReadyStateChange.listen((_) {
+    if (request.readyState == HttpRequest.DONE &&
+        (request.status == 200 || request.status == 0)) {
+      // data saved OK.
+      handleHtml(request.responseText);
+    }
+  });
 
   // POST the data to the server
   String url = "/url/";

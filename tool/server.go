@@ -5,6 +5,7 @@ import (
 	"net/http"
 	"html/template"
 	"encoding/json"
+	"io/ioutil"
 )
 
 
@@ -30,7 +31,14 @@ func urlHandler(w http.ResponseWriter, r *http.Request) {
 	decoder := json.NewDecoder(r.Body)
 	err := decoder.Decode(&m)
 	if err != nil { panic(err) }
-	fmt.Println(m)
+	fmt.Println("Tag: ", m.Tag, ", URL: ", m.Url)
+
+	resp, err := http.Get(m.Url)
+	if err != nil { panic(err) }
+	defer resp.Body.Close()
+	body, err := ioutil.ReadAll(resp.Body)
+	if err != nil { panic(err) }
+	fmt.Fprint(w, string(body))
 }
 
 func main() {
