@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Reading Tools</title>
+  <link href="/static/style.css" rel="stylesheet">
+</head>
+<body>
+  <p>Hello World</p>
+  <script type="application/dart" src="/static/app.dart"></script>
+  <script>
+if (navigator.userAgent.indexOf('(Dart)') === -1) {
+  var script = document.createElement('script');
+  script.src = "static/app.js";
+  document.getElementsByTagName('head')[0].appendChild(script);
+}
+  </script>
+</body>
+</html>
