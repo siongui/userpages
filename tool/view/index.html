@@ -5,7 +5,13 @@
   <link href="/static/style.css" rel="stylesheet">
 </head>
 <body>
-  <p>Hello World</p>
+  <form>
+    URL: <input type="url" placeholder="URL" size="128">
+  </form>
+  <button type="button" id="getBtn">Get</button>
+  <br />
+  <textarea rows="3" cols="128"></textarea>
+
   <script type="application/dart" src="/static/app.dart"></script>
   <script>
 if (navigator.userAgent.indexOf('(Dart)') === -1) {
