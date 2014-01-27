@@ -23,6 +23,11 @@ Go:
 
   `Moving to Go: A Pragmatic Guide <http://blog.gopheracademy.com/moving-to-go>`_
 
+C:
+
+  `What type of Machine is the C Preprocessor? (theorangeduck.com) <http://theorangeduck.com/page/what-type-machine-c-preprocessor>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7132562>`__)
+
 
 
 Simplified Chinese:
