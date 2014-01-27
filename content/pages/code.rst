@@ -40,4 +40,6 @@ JavaScript/HTML/CSS:
 
 `CoderPad <https://coderpad.io/>`_
 
+`Try Julia <http://forio.com/julia/repl/>`_
+
 `Ideone.com - Online Compiler and IDE >> C/C++, Java, PHP, Python, Perl and 40+ other compilers and interpreters <http://ideone.com/>`_

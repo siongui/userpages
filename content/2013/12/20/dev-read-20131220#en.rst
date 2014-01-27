@@ -21,7 +21,8 @@ JavaScript:
   `HN discuss 2 <https://news.ycombinator.com/item?id=6970350>`__)
 
   `The Future of JavaScript MVC Frameworks <http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=6936975>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=6936975>`__,
+  `JavaScript MVC框架的未来 <http://blog.jobbole.com/56404/>`_)
 
 Cryptography:
 
