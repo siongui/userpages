@@ -36,6 +36,26 @@ Programming Puzzles:
   `Homophony Groups in Haskell (gibiansky.com) <http://andrew.gibiansky.com/blog/linguistics/homophony-groups>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7133274>`__)
 
+Python:
+
+  `How we improved Python packaging & distribution <https://rhodecode.com/blog/45/how-we-improved-python-packaging-distribution>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7136814>`__)
+
+JavaScript:
+
+  `A positioning engine to make overlays, tooltips and dropdowns faster <https://github.com/HubSpot/tether>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7136028>`__)
+
+Test:
+
+  `There Are Only Four Billion Floats – So Test Them All <http://randomascii.wordpress.com/2014/01/27/theres-only-four-billion-floatsso-test-them-all/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7135261>`__)
+
+Linux:
+
+  `Why not kill -9 a process? <http://unix.stackexchange.com/questions/8916/why-not-kill-9-a-process>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7135325>`__)
+
 
 
 Simplified Chinese:
@@ -45,6 +65,8 @@ Simplified Chinese:
     `Python之父：为什么Python数组下标从0开始 <http://blog.jobbole.com/58018/>`_
 
     `抓取中国古籍全录网站的书籍，最新升级多线程v0.8.5 <http://www.oschina.net/code/snippet_236734_32993>`_
+
+    `视频演讲： Uliweb比较与实践 <http://www.infoq.com/cn/presentations/comepare-and-practice-of-uliweb>`_
 
   Compiler:
 
@@ -86,11 +108,23 @@ Simplified Chinese:
 
     `学习c++需要参考的几个网站 <http://my.oschina.net/kimiz/blog/196439>`_
 
+  C:
+
+    `一个“蝇量级” C 语言协程库 <http://coolshell.cn/articles/10975.html>`_
+
   Algorithm:
 
     `AC(Aho—Corasiek)多模式匹配算法 <http://my.oschina.net/u/227203/blog/196426>`_
 
     `将数据先DFT再IDFT <http://www.oschina.net/code/snippet_656503_33001>`_
+
+  `如何“入侵”Kayak订到便宜机票 <http://blog.jobbole.com/58033/>`_
+
+  `2014 年热门的 IT 职位及年薪 <http://blog.jobbole.com/58083/>`_
+
+  `网络公开课遭遇成长的烦恼：仅5%学员完成课程 <http://blog.jobbole.com/58077/>`_
+
+  `视频演讲： 反机器人行为系统漫谈 <http://www.infoq.com/cn/presentations/talking-about-anti-robot-system-behavior>`_
 
   `引导新一代年轻人编程的4种方法 <http://www.geekfan.net/5785/>`_
 
@@ -105,3 +139,7 @@ Simplified Chinese:
   `开发人员常用的10个Sublime Text插件  <http://my.oschina.net/lilinzero/blog/196525>`_
 
   `优秀程序员的十个习惯 <http://my.oschina.net/u/861770/blog/196475>`_
+
+  `移动互联网会变成 Chrome 与非 Chrome 的？ <http://www.linuxeden.com/html/news/20140128/147983.html>`_
+
+  `再再续：一张图搞定 12306 <http://www.oschina.net/question/124158_142364>`_
