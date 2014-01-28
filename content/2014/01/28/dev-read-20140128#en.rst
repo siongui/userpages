@@ -2,8 +2,8 @@
 ###########################################################################################################################################
 
 :date: 2014-01-28 03:12
-:tags: 
-:tags_zh_CN: 
+:tags: Programming, Docker, Go, C, Programming Puzzles, Python, JavaScript, Test, Linux, Security
+:tags_zh_CN: Python, Compiler, Frontend, Emacs, R, Linux, C, Algorithm
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: Dev Read #2014-01-28
@@ -55,6 +55,11 @@ Linux:
 
   `Why not kill -9 a process? <http://unix.stackexchange.com/questions/8916/why-not-kill-9-a-process>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7135325>`__)
+
+Security:
+
+  `10 things you should know about Token-based Authentication <http://blog.auth0.com/2014/01/27/ten-things-you-should-know-about-tokens-and-cookies>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7137498>`__)
 
 
 
@@ -133,6 +138,7 @@ Simplified Chinese:
   `APP解构重构：勿忘初心 <http://blog.jobbole.com/58049/>`_
 
   `深扒谷歌四亿刀买来的人工智能公司 DeepMind <http://tech2ipo.com/63246>`_
+  (`深扒谷歌四亿刀买来的人工智能公司 DeepMind <http://pythoner.cn/home/blog/more-on-deepmind-ai-startup-to-work-directly-with-googles-search-team/>`__)
 
   `谷歌代理翻墙教程 <http://my.oschina.net/yangzhiyuan/blog/196417>`_
 
