@@ -28,6 +28,11 @@ C:
   `What type of Machine is the C Preprocessor? (theorangeduck.com) <http://theorangeduck.com/page/what-type-machine-c-preprocessor>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7132562>`__)
 
+Programming Puzzles:
+
+  `Homophony Groups in Haskell (gibiansky.com) <http://andrew.gibiansky.com/blog/linguistics/homophony-groups>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7133274>`__)
+
 
 
 Simplified Chinese:
@@ -35,3 +40,9 @@ Simplified Chinese:
   Python:
 
     `Python之父：为什么Python数组下标从0开始 <http://blog.jobbole.com/58018/>`_
+
+  `引导新一代年轻人编程的4种方法 <http://www.geekfan.net/5785/>`_
+
+  `低延迟系统的 11 个最佳实践 <http://www.oschina.net/translate/11-best-practices-for-low-latency-systems>`_
+
+  `APP解构重构：勿忘初心 <http://blog.jobbole.com/58049/>`_
