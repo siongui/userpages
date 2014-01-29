@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>RSS Reader</title>
+  <link href="/static/style.css" rel="stylesheet">
+</head>
+<body>
+
+<div>
+  <a target="_blank" href="https://github.com/siongui/1246f848faa4e9c9fc0ea91122d6e680">repo</a>
+</div>
+
+<div class="row"><!--
+--><div class="left-view">
+     {{range $site := .}}
+       <div class="seed-item"
+	    title="{{$site.Title}}"
+	    data-text="{{$site.Text}}"
+	    data-title="{{$site.Title}}"
+	    data-type="{{$site.Type}}"
+	    data-xmlurl="{{$site.XmlUrl}}"
+	    data-htmlurl="{{$site.HtmlUrl}}"
+	    data-favicon="{{$site.Favicon}}">
+         {{$site.Text}}
+       </div>
+     {{end}}
+   </div><!--
+--><div class="right-view">
+    <div class="rss-site-summary">Welcome to RSS Reader</div>
+    <div class="rss-site-items"></div>
+  </div><!--
+--></div>
+
+  <script type="application/dart" src="/static/app.dart"></script>
+  <script>
+if (navigator.userAgent.indexOf('(Dart)') === -1) {
+  var script = document.createElement('script');
+  script.src = "static/app.js";
+  document.getElementsByTagName('head')[0].appendChild(script);
+}
+  </script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+bin/
+src/
+pkg/
+static/app.js
+static/app.js.deps
+static/app.js.map
+static/app.precompiled.js
+mylib/sites.sqlite3

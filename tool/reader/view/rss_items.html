@@ -1,0 +1,25 @@
+<div>
+  <div>
+    <em>{{.Channel.Description}}</em><br />
+    <span>{{.Channel.PubDate}}</span><br />
+  </div>
+{{range $item := .Channel.ItemList}}
+<div class="rss-item">
+  <div class="rss-item-head">
+    <span>{{$item.Title}}</span>
+    <span>{{$item.PubDate}}</span>
+  </div>
+  <div class="rss-item-content">
+    {{$item.Description}}
+    <div>
+      <a target="_blank" href="{{$item.Link}}">{{$item.Title}}</a>
+      {{if $item.Comments}}
+      (<a target="_blank" href="{{$item.Comments}}">Comments</a>)
+      {{end}}
+      <textarea rows="4" cols="100">`{{$item.Title}} <{{$item.Link}}>`_
+{{if $item.Comments}}(`HN discuss <{{$item.Comments}}>`__){{end}}</textarea>
+    </div>
+  </div>
+</div>
+{{end}}
+</div>

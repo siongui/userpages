@@ -1,0 +1,35 @@
+.row {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.left-view {
+  width: 25%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.right-view {
+  width: 75%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.seed-item {
+  margin: 3px;
+  background-color: #ccc;
+}
+
+.seed-item:hover {
+  background-color: #aaa;
+}
+
+.rss-item {
+  margin-bottom: 1em;
+  border-radius: 3px;
+  border: 3px solid #ccc;
+}
+
+.rss-item-head {
+  background-color: #ccc;
+}
