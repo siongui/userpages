@@ -1,12 +1,12 @@
 # cannot use relative path in GOROOT, otherwise 6g not found. For example,
 #   export GOROOT=../go  (=> 6g not found)
 # it is also not allowed to use relative path in GOPATH
-export GOROOT=$(realpath ../../go)
+export GOROOT=$(realpath ../../../go)
 export GOPATH=$(realpath .)
 export PATH := $(GOROOT)/bin:$(PATH)
 
 # path of Dart and utilities
-DART_DIR=$(realpath ../../dart)
+DART_DIR=$(realpath ../../../dart)
 DART_SDK=$(DART_DIR)/dart-sdk
 DART_SDK_BIN=$(DART_SDK)/bin
 DARTVM=$(DART_SDK_BIN)/dart
