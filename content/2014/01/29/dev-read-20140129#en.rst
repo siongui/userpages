@@ -1,8 +1,8 @@
-<Vim Croquet>, etc.
-###########################################################################################################################################
+<Vim Croquet>, <Play and Pause Buttons for YouTube and Vimeo Videos (via Their APIs)>, <Has Anyone Ever Flipped Heads 76 Times in a Row?>, etc.
+###############################################################################################################################################
 
 :date: 2014-01-29 02:11
-:tags: JavaScript, Vim, Security, Python, Assembly, Shell
+:tags: JavaScript, Vim, Security, Python, Assembly, Shell, CSS, math
 :tags_zh_CN: PHP, Go, Algorithm, C, Python, node.js, Linux, OS, Lisp
 :category: Dev Read
 :author: Siong-Ui Te
@@ -13,6 +13,11 @@ Vim:
 
   `Vim Croquet <http://www.drbunsen.org/vim-croquet/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7138205>`__)
+
+math:
+
+  `Has Anyone Ever Flipped Heads 76 Times in a Row? <http://blogs.scientificamerican.com/roots-of-unity/2014/01/27/rosencrantz-and-guildenstern-flip-coins/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7143961>`__)
 
 Assembly:
 
@@ -46,6 +51,16 @@ Security:
 
   `Jb’s story about how he nearly lost his Twitter handle <http://d.pr/n/KUMK>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7142916>`__)
+
+CSS:
+
+  `Now you can use Bootstrap, Nobody will Notice <http://strapfork.com/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7144128>`__)
+
+Website:
+
+  `Show HN: One sentence summaries of journal articles (usefulscience.org) <http://usefulscience.org/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7144295>`__)
 
 Stack Overflow:
 
@@ -146,6 +161,16 @@ Simplified Chinese:
 
     `进军移动？任天堂欲推iOS、Android版超级玛丽 <http://www.csdn.net/article/2014-01-28/2818297-nintendo-to-release-games-on-mobile-devices>`_
 
+    `8 个必看的 Bootstrap 的 WordPress 框架 <http://www.oschina.net/translate/bootstrap-wordpress-framework>`_
+
+    `为开发者准备的 20 个超棒开源工具 <http://www.oschina.net/translate/20-excellent-open-source-tools-for-developers>`_
+
+    `15 个可提升编码技能的 JavaScript 工具 <http://www.oschina.net/translate/javascript-tools-improve-your-coding-skills>`_
+
+    `继续：12306 <http://www.oschina.net/question/124158_142395>`_
+
   database:
 
     `mysql UNIX_TIMESTAMP的使用 <http://my.oschina.net/forrest420/blog/196875>`_
+
+    `安装完 MySQL 后必须调整的 10 项配置 <http://www.oschina.net/translate/10-mysql-settings-to-tune-after-installation>`_
