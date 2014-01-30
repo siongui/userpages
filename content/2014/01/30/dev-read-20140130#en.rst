@@ -24,7 +24,7 @@ Python:
   `SymPy Gamma: an open-source, Python-based alternative to Wolfram Alpha <http://www.sympygamma.com/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7145219>`__)
 
-  `Python Flask Blog Series Part 2: Authenticating Users using Flask-Login <https://www.openshift.com/blogs/python-flask-blog-series-part-2-authenticating-users-using-flask-login>`_
+  `Use Flask-Login to Add User Authentication to your Python Application <https://www.openshift.com/blogs/use-flask-login-to-add-user-authentication-to-your-python-application>`_
 
 Algorithm:
 
@@ -115,8 +115,7 @@ eBook:
 
 Search:
 
-  `(Relatively) slow Google search (2.64 seconds) (google.com) <https://www.google.com/search?q=%3Cscript[+\\t]%3F\\b[^%3C]*(%3F:(%3F!%3C\\%2Fscript%3E)%3C[^%3C]*)*%3C\\%2Fscript[+\\t]%3F%3E>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7150914>`__)
+  `(Relatively) slow Google search (2.64 seconds) <https://news.ycombinator.com/item?id=7150914>`_
 
 
 
