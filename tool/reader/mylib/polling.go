@@ -24,14 +24,16 @@ import (
 )
 
 
+const polling_interval = 10 * time.Second
+
 func cleanupDB(ch chan os.Signal, openedDBs chan string) {
 	for sig := range ch {
-		fmt.Println(sig)
 		for {
 			select {
 			case db := <- openedDBs:
 				fmt.Print(db, " closed!\n")
 			default:
+				fmt.Println(sig)
 				os.Exit(1)
 			}
 		}
@@ -47,18 +49,21 @@ func Poll(sites []OpmlOutline) {
 
 	for _, site := range sites {
 		go getSiteSeed(site, openedDBs)
+		break // FIXME: delete this line when completed
 	}
 }
 
 func getSiteSeed(site OpmlOutline, openedDBs chan string) {
 	openedDBs <- site.Title
-	count := 0
 	for {
 		select {
 		default:
-			fmt.Println(site.Title, count)
-			count += 1
-			time.Sleep(1 * time.Second)
+			v := GetSeed(site.XmlUrl)
+			for _, item := range v.Channel.ItemList {
+				fmt.Println(item)
+			}
+			fmt.Println(time.Now())
+			time.Sleep(polling_interval)
 		}
 	}
 }
