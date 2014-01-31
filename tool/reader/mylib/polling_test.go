@@ -8,4 +8,7 @@ import (
 func TestPoll(t *testing.T) {
 	const filepath = "Feeder.opml"
 	Poll(GetOutlineList(filepath))
+
+	// block here
+	for { select {} }
 }

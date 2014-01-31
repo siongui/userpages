@@ -16,3 +16,4 @@ References:
 - [mattn / go-sqlite3](https://github.com/mattn/go-sqlite3)
 - [How large RSS reader works (netvibes, Google reader…)](http://stackoverflow.com/questions/3949688/how-large-rss-reader-works-netvibes-google-reader)
 - [Go Read: Open-Source Google Reader Clone](http://mattjibson.com/blog/2013/06/26/go-read-open-source-google-reader-clone/)
+- [Is there a way to do repetitive tasks at intervals in golang?](http://stackoverflow.com/questions/16466320/is-there-a-way-to-do-repetitive-tasks-at-intervals-in-golang)
