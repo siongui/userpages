@@ -13,6 +13,8 @@
 
 `Go by Example <https://gobyexample.com/>`_
 
+`GopherCasts <https://gophercasts.io/>`_
+
 Blog:
 
   `Code Gangsta <http://codegangsta.io/>`_ (Go)

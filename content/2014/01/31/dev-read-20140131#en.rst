@@ -3,7 +3,7 @@
 
 :date: 2014-01-31 01:11
 :tags: Python, Frontend, JavaScript
-:tags_zh_CN: 
+:tags_zh_CN: JavaScript
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-01-31
@@ -48,4 +48,14 @@ Website:
 
 
 Simplified Chinese:
+
+  JavaScript:
+
+    `开发者必备的 12 个 JavaScript 库 <http://www.oschina.net/news/48383/12-essential-javascript-libraries-for-developers>`_
+
+  News:
+
+    `Chrome OS 开始入侵移动平台 <http://www.oschina.net/news/48387/chrome-os-move-into-mobile-platform>`_
+
+    `17 岁高中辍学创业者发明新型计算机 <http://www.oschina.net/news/48381/new-arm-server>`_
 
