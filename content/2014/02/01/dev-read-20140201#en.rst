@@ -1,9 +1,10 @@
-<Mystery signal from a helicopter>, etc.
-#################################################################################################
+<Mystery signal from a helicopter>, <Why Bloom filters work the way they do>, <open-sourced a Skype replacement with HTML5>, etc.
+#################################################################################################################################
 
 :date: 2014-02-01 19:27
-:tags: Dart, LaTeX, Data Science, Data Structure, Programming Language
-:tags_zh_CN: database, node.js, Docker, Linux
+:tags: Dart, LaTeX, Data Science, Data Structure, Programming Language, Python
+:tags_zh_CN: database, node.js, Docker, Linux, Java
+:tags_zh_TW: math
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-01
@@ -27,6 +28,9 @@ Programming Language:
   `Strangest Programming Language Feature? (stackoverflow.com) <http://stackoverflow.com/questions/1995113/strangest-language-feature/2002154#2002154>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7159768>`__)
 
+  `Objective Smalltalk <https://github.com/mpw/Objective-Smalltalk>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7161566>`__)
+
 Website:
 
   `Show HN: We just open-sourced a Skype replacement with HTML5 <http://voicechatapi.com/>`_
@@ -40,6 +44,9 @@ Website:
 
   `Show HN: Why sign a NDA when you can just pinky swear instead? <http://pinky-swear.herokuapp.com/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7160262>`__)
+
+  `How to get past resume screeners <http://jobscan.co>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7161875>`__)
 
 Data Science:
 
@@ -61,6 +68,15 @@ Dart:
   (`HN discuss <https://news.ycombinator.com/item?id=7159926>`__)
 
   `Going POSTal <http://blog.butlermatt.me/?p=109>`_
+
+Python:
+
+  `Python Programming: A Training Regimen <http://pypix.com/python/learn-python/>`_
+
+Markdown:
+
+  `MkDocs – Project documentation with Markdown <http://www.mkdocs.org/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7161847>`__)
 
 
 
@@ -98,3 +114,10 @@ Simplified Chinese:
 
     `雅虎组建秘密团队欲打造自主搜索引擎 <http://tech2ipo.feedsportal.com/c/34822/f/641707/s/3699737b/sc/21/l/0Ltech2ipo0N0C63268/story01.htm>`_
 
+    `Google计划从Bink中移除CSS区块 <http://www.solidot.org/story?sid=38213>`_
+
+Traditional Chinese:
+
+  math:
+
+    `Adam Spencer: 我為何愛上龐大的質數 <http://www.ted.com/talks/lang/zh-tw/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers.html>`_
