@@ -4,14 +4,8 @@ Poll RSS/ATOM seeds
 ^C event handling
 http://stackoverflow.com/questions/11268943/golang-is-it-possible-to-capture-a-ctrlc-signal-and-run-a-cleanup-function-in
 
-Is there a way to do repetitive tasks at intervals in golang?
-http://stackoverflow.com/questions/16466320/is-there-a-way-to-do-repetitive-tasks-at-intervals-in-golang
-
-10 things you (probably) don't know about Go
-http://nf.wh3rd.net/10things/
-
-multiple goroutines listening on one channel
-http://stackoverflow.com/questions/15715605/multiple-goroutines-listening-on-one-channel
+A Tour of Go - Concurrency
+http://tour.golang.org/#64
 */
 package mylib
 

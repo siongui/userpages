@@ -1,5 +1,6 @@
 // @see http://golang.org/pkg/database/sql/
 // @see https://github.com/mattn/go-sqlite3
+// @see http://stackoverflow.com/questions/3634984/insert-if-not-exists-else-update
 package mylib
 
 import (
