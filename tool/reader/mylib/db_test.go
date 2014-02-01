@@ -4,6 +4,7 @@ import (
 	"testing"
 	"os"
 	"log"
+	"net/url"
 )
 
 
@@ -64,7 +65,7 @@ func TestDbAll(t *testing.T) {
 	}
 
 	// query HN in test db
-	sql_queryHN := `SELECT XmlUrl FROM sites WHERE TITLE = ?`
+	sql_queryHN := `SELECT XmlUrl FROM sites WHERE Title = ?`
 	var hnUrl string
 	err4 := db.QueryRow(sql_queryHN, "Hacker News").Scan(&hnUrl)
 	if err4 != nil {
@@ -72,4 +73,11 @@ func TestDbAll(t *testing.T) {
 		return
 	}
 	log.Println("query Hacker News site in test db: OK!", hnUrl)
+
+	// read HN seed
+	tmp := GetSeed(hnUrl)
+	// test updateOrInsertIfNotExist
+	dbHN := InitDB(url.QueryEscape(hnUrl))
+	defer dbHN.Close()
+	updateOrInsertIfNotExist(dbHN, tmp.Channel.ItemList)
 }

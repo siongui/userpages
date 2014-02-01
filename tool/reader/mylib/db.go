@@ -2,6 +2,7 @@
 // @see https://github.com/mattn/go-sqlite3
 // @see http://stackoverflow.com/questions/3634984/insert-if-not-exists-else-update
 // @see http://stackoverflow.com/questions/2251699/sqlite-insert-or-replace-into-vs-update-where
+// @see http://stackoverflow.com/questions/1601151/how-do-i-check-in-sqlite-whether-a-table-exists
 package mylib
 
 import (
@@ -45,4 +46,19 @@ func GetSites(dbpath string) []OpmlOutline {
 }
 
 func updateOrInsertIfNotExist(db *sql.DB, items []Item) {
+	sql_table := `
+	CREATE TABLE IF NOT EXISTS items(
+		Link NOT NULL PRIMARY KEY,
+		Title TEXT,
+		Comments TEXT,
+		Description TEXT,
+		PubDate TEXT
+	);
+	`
+
+	_, err := db.Exec(sql_table)
+	if err != nil {
+		log.Fatal(err)
+		return
+	}
 }

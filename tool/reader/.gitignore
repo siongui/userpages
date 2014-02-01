@@ -6,3 +6,4 @@ static/app.js.deps
 static/app.js.map
 static/app.precompiled.js
 mylib/sites.sqlite3
+mylib/https%3A%2F%2Fnews.ycombinator.com%2Frss

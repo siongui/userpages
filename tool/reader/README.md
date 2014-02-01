@@ -15,6 +15,7 @@ References:
 - [sql - The Go Programming Language](http://golang.org/pkg/database/sql/)
 - [INSERT IF NOT EXISTS ELSE UPDATE?](http://stackoverflow.com/questions/3634984/insert-if-not-exists-else-update)
 - [SQLite “INSERT OR REPLACE INTO” vs. “UPDATE … WHERE”](http://stackoverflow.com/questions/2251699/sqlite-insert-or-replace-into-vs-update-where)
+- [How do I check in SQLite whether a table exists?](http://stackoverflow.com/questions/1601151/how-do-i-check-in-sqlite-whether-a-table-exists)
 - [mattn / go-sqlite3](https://github.com/mattn/go-sqlite3)
 - [How large RSS reader works (netvibes, Google reader…)](http://stackoverflow.com/questions/3949688/how-large-rss-reader-works-netvibes-google-reader)
 - [Go Read: Open-Source Google Reader Clone](http://mattjibson.com/blog/2013/06/26/go-read-open-source-google-reader-clone/)
