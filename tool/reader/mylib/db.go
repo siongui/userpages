@@ -1,6 +1,7 @@
 // @see http://golang.org/pkg/database/sql/
 // @see https://github.com/mattn/go-sqlite3
 // @see http://stackoverflow.com/questions/3634984/insert-if-not-exists-else-update
+// @see http://stackoverflow.com/questions/2251699/sqlite-insert-or-replace-into-vs-update-where
 package mylib
 
 import (
@@ -41,4 +42,7 @@ func GetSites(dbpath string) []OpmlOutline {
 	db := InitDB(dbpath)
 	defer db.Close()
 	return ReadSites(db)
+}
+
+func updateOrInsertIfNotExist(db *sql.DB, items []Item) {
 }

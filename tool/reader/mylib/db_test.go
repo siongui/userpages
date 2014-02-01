@@ -7,10 +7,11 @@ import (
 )
 
 
-func TestInitDB(t *testing.T) {
+func TestDbAll(t *testing.T) {
 	const dbpath = "sites.sqlite3"
 	os.Remove(dbpath)
 
+	// test InitDB
 	db := InitDB(dbpath)
 	defer db.Close()
 
@@ -30,7 +31,9 @@ func TestInitDB(t *testing.T) {
 		log.Fatal(err)
 		return
 	}
+	log.Println("create table in test db: OK!")
 
+	// insert data into test db
 	sql_additem := `
 	INSERT INTO sites(
 		XmlUrl,
@@ -42,20 +45,31 @@ func TestInitDB(t *testing.T) {
 	) values(?, ?, ?, ?, ?, ?)
 	`
 
-	stmt, err := db.Prepare(sql_additem)
-	if err != nil { log.Fatal(err) }
+	stmt, err2 := db.Prepare(sql_additem)
+	if err2 != nil { log.Fatal(err2) }
 	defer stmt.Close()
 
 	const filepath = "Feeder_test.opml"
 	siteList := GetOutlineList(filepath)
 	for _, site := range siteList {
-		_, err := stmt.Exec(site.XmlUrl, site.Title, site.Type,
+		_, err3 := stmt.Exec(site.XmlUrl, site.Title, site.Type,
 				site.Text, site.HtmlUrl, site.Favicon)
-		if err != nil { log.Fatal(err) }
+		if err3 != nil { log.Fatal(err3) }
 	}
 
+	// test ReadSites
 	sites := ReadSites(db)
 	for _, site := range sites {
 		log.Println(site)
 	}
+
+	// query HN in test db
+	sql_queryHN := `SELECT XmlUrl FROM sites WHERE TITLE = ?`
+	var hnUrl string
+	err4 := db.QueryRow(sql_queryHN, "Hacker News").Scan(&hnUrl)
+	if err4 != nil {
+		log.Fatal(err4)
+		return
+	}
+	log.Println("query Hacker News site in test db: OK!", hnUrl)
 }

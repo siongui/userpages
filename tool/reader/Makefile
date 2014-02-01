@@ -37,6 +37,10 @@ polling_test:
 	go test -test.v mylib/polling_test.go mylib/polling.go \
 		mylib/opml.go mylib/seed.go
 
+db_test:
+	go test -test.v mylib/db_test.go mylib/db.go mylib/opml.go \
+		mylib/seed.go
+
 help:
 	go help
 
