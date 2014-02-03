@@ -9,6 +9,7 @@ import (
 	"database/sql"
 	_ "github.com/mattn/go-sqlite3"
 	"log"
+	"html/template"
 )
 
 
@@ -30,12 +31,12 @@ func ReadSites(db *sql.DB) []OpmlOutline {
 	var result []OpmlOutline
 	for rows.Next() {
 		site := OpmlOutline{}
-		err := rows.Scan(&site.XmlUrl, &site.Title, &site.Type,
+		err2 := rows.Scan(&site.XmlUrl, &site.Title, &site.Type,
 			&site.Text, &site.HtmlUrl, &site.Favicon)
-		if err != nil { log.Fatal(err) }
+		if err2 != nil { log.Fatal(err2) }
 		result = append(result, site)
 	}
-	if err := rows.Err(); err != nil { log.Fatal(err) }
+	if err3 := rows.Err(); err3 != nil { log.Fatal(err3) }
 	return result
 }
 
@@ -52,7 +53,8 @@ func updateOrInsertIfNotExist(db *sql.DB, items []Item) {
 		Title TEXT,
 		Comments TEXT,
 		Description TEXT,
-		PubDate TEXT
+		PubDate TEXT,
+		IsRead INTEGER
 	);
 	`
 
@@ -61,4 +63,49 @@ func updateOrInsertIfNotExist(db *sql.DB, items []Item) {
 		log.Fatal(err)
 		return
 	}
+
+	// insert items into db
+	sql_additem := `
+	INSERT OR REPLACE INTO items(
+		Link,
+		Title,
+		Comments,
+		Description,
+		PubDate,
+		IsRead
+	) values(?, ?, ?, ?, ?, ?)
+	`
+
+	stmt, err2 := db.Prepare(sql_additem)
+	if err2 != nil { log.Fatal(err2) }
+	defer stmt.Close()
+
+	for _, item := range items {
+		_, err3 := stmt.Exec(item.Link, item.Title, item.Comments,
+			string(item.Description), item.PubDate, 0)
+		if err3 != nil { log.Fatal(err3) }
+	}
+}
+
+func ReadItems(db *sql.DB) []Item {
+	sql_readall := `
+	SELECT Link, Title, Comments, Description, PubDate, IsRead FROM items
+	`
+	rows, err := db.Query(sql_readall)
+	if err != nil { log.Fatal(err) }
+	defer rows.Close()
+
+	var result []Item
+	for rows.Next() {
+		item := Item{}
+		var rawHtml string
+		var isRead int
+		err2 := rows.Scan(&item.Link, &item.Title, &item.Comments,
+			&rawHtml, &item.PubDate, &isRead)
+		item.Description = template.HTML(rawHtml)
+		if err2 != nil { log.Fatal(err2) }
+		result = append(result, item)
+	}
+	if err3 := rows.Err(); err3 != nil { log.Fatal(err3) }
+	return result
 }

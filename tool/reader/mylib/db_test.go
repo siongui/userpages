@@ -80,4 +80,10 @@ func TestDbAll(t *testing.T) {
 	dbHN := InitDB(url.QueryEscape(hnUrl))
 	defer dbHN.Close()
 	updateOrInsertIfNotExist(dbHN, tmp.Channel.ItemList)
+
+	// test ReadItems
+	items := ReadItems(dbHN)
+	for _, item := range items {
+		log.Println(item)
+	}
 }

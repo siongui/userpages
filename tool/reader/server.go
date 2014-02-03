@@ -36,7 +36,7 @@ func siteHandler(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
-	mylib.Poll(sites)
+//	mylib.Poll(sites)
 	http.HandleFunc("/", indexHandler)
 	http.HandleFunc("/site/", siteHandler)
 	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("./static"))))
