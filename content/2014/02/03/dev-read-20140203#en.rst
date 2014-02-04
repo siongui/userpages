@@ -73,7 +73,8 @@ math:
 Programming Language:
 
   `Most Popular Programming Languages of 2014 <http://blog.codeeval.com/codeevalblog/2014>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7171115>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7171115>`__,
+  `2014 最流行的编程语言 <http://www.oschina.net/news/48495/best-programming-language-jobs>`_)
 
 Lisp:
 

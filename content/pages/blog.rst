@@ -341,6 +341,8 @@ Traditional Chinese:
 
   `Random Notes <http://alberthuang314.blogspot.com/>`_
 
+  `壞蛋的密室 <http://www.pigo.idv.tw/>`_
+
 `Yu-Jie Lin <http://www.yjl.im/>`_
 
 `Licson's Tech Space <http://licson.net/>`_
