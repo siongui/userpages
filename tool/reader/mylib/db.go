@@ -46,6 +46,13 @@ func GetSites(dbpath string) []OpmlOutline {
 }
 
 func updateOrInsertIfNotExist(db *sql.DB, items []Item) {
+// RSS:
+// http://stackoverflow.com/questions/15245896/rss-update-single-item
+// http://stackoverflow.com/questions/164124/rss-item-updates
+// SQLite:
+// http://stackoverflow.com/questions/19337029/insert-if-not-exists-statement-in-sqlite
+// http://stackoverflow.com/questions/6740733/insert-or-replace-is-creating-duplicates
+// http://stackoverflow.com/questions/12105198/sqlite-how-to-get-insert-or-ignore-to-work
 	sql_table := `
 	CREATE TABLE IF NOT EXISTS items(
 		Link NOT NULL PRIMARY KEY,
