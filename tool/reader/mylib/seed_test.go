@@ -2,16 +2,13 @@ package mylib
 
 import (
 	"testing"
-	"fmt"
+	"log"
 )
 
-const filepath = "Feeder_test.opml"
 
 func TestGetSeed(t *testing.T) {
-	siteList := GetOutlineList(filepath)
-	for _, site := range siteList {
-		v := GetSeed(site.XmlUrl)
-		fmt.Println(v)
-		break
+	v := GetSeed("https://news.ycombinator.com/rss")
+	for _, item := range v.Channel.ItemList {
+		log.Println(item)
 	}
 }

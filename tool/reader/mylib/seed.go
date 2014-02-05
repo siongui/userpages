@@ -29,6 +29,8 @@ type Item struct {
 	Comments	string	`xml:"comments"`
 	Description	template.HTML	`xml:"description"`
 	PubDate		string	`xml:"pubDate"`
+	IsRead	bool
+	ReadDate	string
 }
 
 func GetSeed(url string) Rss2 {

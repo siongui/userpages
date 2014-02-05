@@ -41,6 +41,9 @@ db_test:
 	go test -test.v mylib/db_test.go mylib/db.go mylib/opml.go \
 		mylib/seed.go
 
+seed_test:
+	go test -test.v mylib/seed_test.go mylib/seed.go
+
 help:
 	go help
 
