@@ -1,7 +1,6 @@
 package mylib
 
 import (
-	"fmt"
 	"io/ioutil"
 	"encoding/xml"
 )
@@ -39,9 +38,6 @@ func GetOutlineList(filepath string) []OpmlOutline {
 	v := Opml{}
 	content, _ := ioutil.ReadFile(filepath)
 	err := xml.Unmarshal(content, &v)
-	if err != nil {
-		fmt.Printf("IO error: %v", err)
-		return nil
-	}
+	if err != nil { panic(err) }
 	return v.Body.SiteList
 }
