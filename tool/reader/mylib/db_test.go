@@ -3,7 +3,6 @@ package mylib
 import (
 	"testing"
 	"os"
-	"log"
 	"net/url"
 	"io/ioutil"
 )
@@ -29,8 +28,8 @@ func TestDbAll(t *testing.T) {
 	`
 
 	_, err := db.Exec(sql_table)
-	if err != nil { log.Fatal(err) }
-	log.Println("create table in test db: OK!")
+	if err != nil { panic(err) }
+	t.Log("create table in test db: OK!")
 
 	// insert data into test db
 	sql_additem := `
@@ -45,7 +44,7 @@ func TestDbAll(t *testing.T) {
 	`
 
 	stmt, err2 := db.Prepare(sql_additem)
-	if err2 != nil { log.Fatal(err2) }
+	if err2 != nil { panic(err2) }
 	defer stmt.Close()
 
 	const filepath = "Feeder_test.opml"
@@ -53,25 +52,25 @@ func TestDbAll(t *testing.T) {
 	for _, site := range siteList {
 		_, err3 := stmt.Exec(site.XmlUrl, site.Title, site.Type,
 				site.Text, site.HtmlUrl, site.Favicon)
-		if err3 != nil { log.Fatal(err3) }
+		if err3 != nil { panic(err3) }
 	}
 
 	// test ReadSites
 	sites := ReadSites(db)
 	for _, site := range sites {
-		log.Println(site)
+		t.Log(site)
 	}
 
 	// query HN in test db
 	sql_queryHN := `SELECT XmlUrl FROM sites WHERE Title = ?`
 	var hnUrl string
 	err4 := db.QueryRow(sql_queryHN, "Hacker News").Scan(&hnUrl)
-	if err4 != nil { log.Fatal(err4) }
-	log.Println("query Hacker News site in test db: OK!", hnUrl)
+	if err4 != nil { panic(err4) }
+	t.Log("query Hacker News site in test db: OK!", hnUrl)
 
 	// read HN seed
 	content, err5 := ioutil.ReadFile("hn_test.rss")
-	if err5 != nil { log.Fatal(err5) }
+	if err5 != nil { panic(err5) }
 	tmp := parseSeedContent(content)
 	// test updateOrInsertIfNotExist
 	// FIXME: make url.QueryEscape(hnUrl) a function
@@ -83,6 +82,6 @@ func TestDbAll(t *testing.T) {
 	// test ReadItems
 	items := ReadItems(dbHN)
 	for _, item := range items {
-		log.Println(item)
+		t.Log(item)
 	}
 }

@@ -8,7 +8,6 @@ package mylib
 import (
 	"database/sql"
 	_ "github.com/mattn/go-sqlite3"
-	"log"
 	"html/template"
 )
 
@@ -25,7 +24,7 @@ func ReadSites(db *sql.DB) []OpmlOutline {
 	SELECT XmlUrl, Title, Type, Text, HtmlUrl, Favicon FROM sites
 	`
 	rows, err := db.Query(sql_readall)
-	if err != nil { log.Fatal(err) }
+	if err != nil { panic(err) }
 	defer rows.Close()
 
 	var result []OpmlOutline
@@ -33,10 +32,10 @@ func ReadSites(db *sql.DB) []OpmlOutline {
 		site := OpmlOutline{}
 		err2 := rows.Scan(&site.XmlUrl, &site.Title, &site.Type,
 			&site.Text, &site.HtmlUrl, &site.Favicon)
-		if err2 != nil { log.Fatal(err2) }
+		if err2 != nil { panic(err2) }
 		result = append(result, site)
 	}
-	if err3 := rows.Err(); err3 != nil { log.Fatal(err3) }
+	if err3 := rows.Err(); err3 != nil { panic(err3) }
 	return result
 }
 
@@ -59,10 +58,7 @@ func updateOrInsertIfNotExist(db *sql.DB, items []Item) {
 	`
 
 	_, err := db.Exec(sql_table)
-	if err != nil {
-		log.Fatal(err)
-		return
-	}
+	if err != nil { panic(err) }
 
 	// insert items into db
 	sql_additem := `
@@ -77,13 +73,13 @@ func updateOrInsertIfNotExist(db *sql.DB, items []Item) {
 	`
 
 	stmt, err2 := db.Prepare(sql_additem)
-	if err2 != nil { log.Fatal(err2) }
+	if err2 != nil { panic(err2) }
 	defer stmt.Close()
 
 	for _, item := range items {
 		_, err3 := stmt.Exec(item.Link, item.Title, item.Comments,
 			string(item.Description), item.PubDate, 0)
-		if err3 != nil { log.Fatal(err3) }
+		if err3 != nil { panic(err3) }
 	}
 }
 
@@ -92,7 +88,7 @@ func ReadItems(db *sql.DB) []Item {
 	SELECT Link, Title, Comments, Description, PubDate, IsRead FROM items
 	`
 	rows, err := db.Query(sql_readall)
-	if err != nil { log.Fatal(err) }
+	if err != nil { panic(err) }
 	defer rows.Close()
 
 	var result []Item
@@ -103,9 +99,9 @@ func ReadItems(db *sql.DB) []Item {
 		err2 := rows.Scan(&item.Link, &item.Title, &item.Comments,
 			&rawHtml, &item.PubDate, &isRead)
 		item.Description = template.HTML(rawHtml)
-		if err2 != nil { log.Fatal(err2) }
+		if err2 != nil { panic(err2) }
 		result = append(result, item)
 	}
-	if err3 := rows.Err(); err3 != nil { log.Fatal(err3) }
+	if err3 := rows.Err(); err3 != nil { panic(err3) }
 	return result
 }
