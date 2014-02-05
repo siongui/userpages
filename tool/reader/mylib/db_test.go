@@ -71,13 +71,17 @@ func TestDbAll(t *testing.T) {
 	// read HN seed
 	content, err5 := ioutil.ReadFile("hn_test.rss")
 	if err5 != nil { panic(err5) }
+	content2, err6 := ioutil.ReadFile("hn_test2.rss")
+	if err6 != nil { panic(err6) }
 	tmp := parseSeedContent(content)
+	tmp2 := parseSeedContent(content2)
 	// test updateOrInsertIfNotExist
 	// FIXME: make url.QueryEscape(hnUrl) a function
-	// FIXME: remove url.QueryEscape(hnUrl) before test
+	os.Remove(url.QueryEscape(hnUrl))
 	dbHN := InitDB(url.QueryEscape(hnUrl))
 	defer dbHN.Close()
 	updateOrInsertIfNotExist(dbHN, tmp.Channel.ItemList)
+	updateOrInsertIfNotExist(dbHN, tmp2.Channel.ItemList)
 
 	// test ReadItems
 	items := ReadItems(dbHN)
