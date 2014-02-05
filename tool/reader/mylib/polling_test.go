@@ -1,13 +1,12 @@
 package mylib
 
-import (
-	"testing"
-)
+import "testing"
 
 
 func TestPoll(t *testing.T) {
 	const filepath = "Feeder.opml"
-	Poll(GetOutlineList(filepath))
+	sites := GetOutlineList(filepath)
+	Poll(sites[:1])
 
 	// block here
 	for { select {} }

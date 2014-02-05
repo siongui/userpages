@@ -10,7 +10,7 @@ http://tour.golang.org/#64
 package mylib
 
 import (
-	"fmt"
+	"log"
 	"os"
 	"os/signal"
 	"syscall"
@@ -25,10 +25,9 @@ func cleanupDB(ch chan os.Signal, openedDBs chan string) {
 		for {
 			select {
 			case db := <- openedDBs:
-				fmt.Print(db, " closed!\n")
+				log.Println(db, " closed!")
 			default:
-				fmt.Println(sig)
-				os.Exit(1)
+				log.Fatal(sig)
 			}
 		}
 
@@ -43,7 +42,6 @@ func Poll(sites []OpmlOutline) {
 
 	for _, site := range sites {
 		go getSiteSeed(site, openedDBs)
-		break // FIXME: delete this line when completed
 	}
 }
 
@@ -54,9 +52,8 @@ func getSiteSeed(site OpmlOutline, openedDBs chan string) {
 		default:
 			v := GetSeed(site.XmlUrl)
 			for _, item := range v.Channel.ItemList {
-				fmt.Println(item)
+				log.Println(item)
 			}
-			fmt.Println(time.Now())
 			time.Sleep(polling_interval)
 		}
 	}
