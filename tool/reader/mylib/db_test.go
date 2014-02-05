@@ -5,6 +5,7 @@ import (
 	"os"
 	"log"
 	"net/url"
+	"io/ioutil"
 )
 
 
@@ -28,10 +29,7 @@ func TestDbAll(t *testing.T) {
 	`
 
 	_, err := db.Exec(sql_table)
-	if err != nil {
-		log.Fatal(err)
-		return
-	}
+	if err != nil { log.Fatal(err) }
 	log.Println("create table in test db: OK!")
 
 	// insert data into test db
@@ -68,15 +66,16 @@ func TestDbAll(t *testing.T) {
 	sql_queryHN := `SELECT XmlUrl FROM sites WHERE Title = ?`
 	var hnUrl string
 	err4 := db.QueryRow(sql_queryHN, "Hacker News").Scan(&hnUrl)
-	if err4 != nil {
-		log.Fatal(err4)
-		return
-	}
+	if err4 != nil { log.Fatal(err4) }
 	log.Println("query Hacker News site in test db: OK!", hnUrl)
 
 	// read HN seed
-	tmp := GetSeed(hnUrl)
+	content, err5 := ioutil.ReadFile("hn_test.rss")
+	if err5 != nil { log.Fatal(err5) }
+	tmp := parseSeedContent(content)
 	// test updateOrInsertIfNotExist
+	// FIXME: make url.QueryEscape(hnUrl) a function
+	// FIXME: remove url.QueryEscape(hnUrl) before test
 	dbHN := InitDB(url.QueryEscape(hnUrl))
 	defer dbHN.Close()
 	updateOrInsertIfNotExist(dbHN, tmp.Channel.ItemList)

@@ -33,14 +33,19 @@ type Item struct {
 	ReadDate	string
 }
 
+
+func parseSeedContent(content []byte) Rss2 {
+	v := Rss2{}
+	xml.Unmarshal(content, &v)
+	return v
+}
+
 func GetSeed(url string) Rss2 {
 	resp, err := http.Get(url)
 	if err != nil { panic(err) }
 	defer resp.Body.Close()
 
-	v := Rss2{}
 	body, err := ioutil.ReadAll(resp.Body)
 	if err != nil { panic(err) }
-	xml.Unmarshal(body, &v)
-	return v
+	return parseSeedContent(body)
 }
