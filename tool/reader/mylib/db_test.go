@@ -55,8 +55,8 @@ func TestDbAll(t *testing.T) {
 		if err3 != nil { panic(err3) }
 	}
 
-	// test ReadSites
-	sites := ReadSites(db)
+	// test readSites
+	sites := readSites(db)
 	for _, site := range sites {
 		t.Log(site)
 	}

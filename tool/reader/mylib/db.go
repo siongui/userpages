@@ -19,7 +19,7 @@ func InitDB(filepath string) *sql.DB {
 	return db
 }
 
-func ReadSites(db *sql.DB) []OpmlOutline {
+func readSites(db *sql.DB) []OpmlOutline {
 	sql_readall := `
 	SELECT XmlUrl, Title, Type, Text, HtmlUrl, Favicon FROM sites
 	`
@@ -42,7 +42,7 @@ func ReadSites(db *sql.DB) []OpmlOutline {
 func GetSites(dbpath string) []OpmlOutline {
 	db := InitDB(dbpath)
 	defer db.Close()
-	return ReadSites(db)
+	return readSites(db)
 }
 
 func updateOrInsertIfNotExist(db *sql.DB, items []Item) {
