@@ -20,7 +20,7 @@ type OpmlHead struct {
 }
 
 type OpmlBody struct {
-	XMLName	xml.Name	`xml:"body"`
+	XMLName		xml.Name	`xml:"body"`
 	SiteList	[]OpmlOutline	`xml:"outline"`
 }
 

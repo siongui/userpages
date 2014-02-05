@@ -1,14 +1,10 @@
 package mylib
 
-import (
-	"testing"
-	"log"
-)
-
+import "testing"
 
 func TestGetSeed(t *testing.T) {
 	v := GetSeed("https://news.ycombinator.com/rss")
 	for _, item := range v.Channel.ItemList {
-		log.Println(item)
+		t.Log(item)
 	}
 }

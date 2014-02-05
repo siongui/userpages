@@ -15,22 +15,22 @@ type Rss2 struct {
 }
 
 type RssChan struct {
-	XMLName	xml.Name	`xml:"channel"`
-	Title	string		`xml:"title"`
-	Link	string		`xml:"link"`
-	Description	string	`xml:"description"`
-	PubDate		string	`xml:"pubDate"`
-	ItemList	[]Item	`xml:"item"`
+	XMLName		xml.Name	`xml:"channel"`
+	Title		string		`xml:"title"`
+	Link		string		`xml:"link"`
+	Description	string		`xml:"description"`
+	PubDate		string		`xml:"pubDate"`
+	ItemList	[]Item		`xml:"item"`
 }
 
 type Item struct {
-	Title	string		`xml:"title"`
-	Link	string		`xml:"link"`
-	Comments	string	`xml:"comments"`
+	Title		string		`xml:"title"`
+	Link		string		`xml:"link"`
+	Comments	string		`xml:"comments"`
 	Description	template.HTML	`xml:"description"`
-	PubDate		string	`xml:"pubDate"`
-	IsRead	bool
-	ReadDate	string
+	PubDate		string		`xml:"pubDate"`
+	IsRead		bool
+	ReadDatetime	string
 }
 
 
