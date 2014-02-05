@@ -41,6 +41,8 @@ Blog:
 
   `Dominik Honnef <http://dominik.honnef.co/>`_
 
+  `Matt's Musings <http://mwholt.blogspot.com/>`_
+
   Simplified Chinese:
 
     `Golang 中国博客 <http://blog.go-china.org/>`_ (推薦!!!)

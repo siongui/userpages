@@ -74,7 +74,8 @@ Go:
   (`HN discuss <https://news.ycombinator.com/item?id=7175830>`__)
 
   `Does the next decade belong to Go? <http://blog.joshsoftware.com/2014/02/04/does-the-next-decade-belong-to-go/>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7177104>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7177104>`__,
+  `Google+ post <https://plus.google.com/107809992818057105754/posts/PArRNTPfyjb>`__)
 
 
 

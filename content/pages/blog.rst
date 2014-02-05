@@ -343,6 +343,8 @@ Traditional Chinese:
 
   `壞蛋的密室 <http://www.pigo.idv.tw/>`_
 
+  `噴火獸號：裴列恩之艦 <http://nyllep.wordpress.com/>`_
+
 `Yu-Jie Lin <http://www.yjl.im/>`_
 
 `Licson's Tech Space <http://licson.net/>`_
