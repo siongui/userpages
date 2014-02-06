@@ -64,6 +64,7 @@ JavaScript:
   (`HN discuss <https://news.ycombinator.com/item?id=7111049>`__)
 
   `Understanding JavaScript’s Function.prototype.bind <http://coding.smashingmagazine.com/2014/01/23/understanding-javascript-function-prototype-bind/>`_
+  (`理解 JavaScript 中的 Function.prototype.bind <http://blog.jobbole.com/58032/>`_)
 
 Go:
 
