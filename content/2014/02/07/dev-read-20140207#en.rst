@@ -2,7 +2,7 @@
 ##########################################################################################################
 
 :date: 2014-02-07 04:05
-:tags: Algorithm, Machine Learning, JavaScript, math
+:tags: Algorithm, Machine Learning, JavaScript, math, Dart, Distributed System
 :tags_zh_CN: JavaScript
 :category: Dev Read
 :author: Siong-Ui Te
@@ -24,10 +24,21 @@ math:
   `DataBall <http://grantland.com/features/expected-value-possession-nba-analytics/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7191385>`__)
 
+Dart:
+
+  `Sierpinski Carpet <http://divingintodart.blogspot.com/2014/02/sierpinski-carpet.html>`_
+
 JavaScript:
 
   `Clippy.js (smore.com) <https://www.smore.com/clippy-js>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7191372>`__)
+
+  `Monitor PasteBin for Your Email or Passwords (github.com) <https://github.com/shayanjm/pasteye/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7192677>`__)
+
+Distributed System:
+
+  `Plumbing and Semantics: Communication Patterns in Distributed System <http://blog.gopheracademy.com/plumbing-and-semantics>`_
 
 
 

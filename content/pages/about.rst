@@ -48,6 +48,7 @@ Recommended:
   `阿姜查 巴蓬寺分院 <http://www.wpp-branches.net/cn/index.php>`_
 
   `覺醒之翼——上座部佛教文獻選譯集 <http://www.theravadacn.org/DhammaIndex2.htm>`_
+  (`鏡像(mirror) <http://www.dhammatalks.org/Dhamma/DhammaIndex2.htm>`__)
 
 Statistics:
 `GitHub Résumé <http://resume.github.io/?siongui>`_ /
