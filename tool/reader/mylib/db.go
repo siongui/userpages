@@ -59,8 +59,7 @@ func updateOrInsertIfNotExist(db *sql.DB, items []Item) {
 		Title TEXT,
 		Comments TEXT,
 		Description TEXT,
-		PubDate TEXT,
-		IsRead INTEGER
+		PubDate TEXT
 	);
 	`
 
@@ -74,9 +73,8 @@ func updateOrInsertIfNotExist(db *sql.DB, items []Item) {
 		Title,
 		Comments,
 		Description,
-		PubDate,
-		IsRead
-	) values(?, ?, ?, ?, ?, ?)
+		PubDate
+	) values(?, ?, ?, ?, ?)
 	`
 
 	stmt, err2 := db.Prepare(sql_additem)
@@ -85,14 +83,14 @@ func updateOrInsertIfNotExist(db *sql.DB, items []Item) {
 
 	for _, item := range items {
 		_, err3 := stmt.Exec(item.Link, item.Title, item.Comments,
-			string(item.Description), item.PubDate, 0)
+			string(item.Description), item.PubDate)
 		if err3 != nil { panic(err3) }
 	}
 }
 
 func ReadItems(db *sql.DB) []Item {
 	sql_readall := `
-	SELECT Link, Title, Comments, Description, PubDate, IsRead FROM items
+	SELECT Link, Title, Comments, Description, PubDate FROM items
 	`
 	rows, err := db.Query(sql_readall)
 	if err != nil { panic(err) }
@@ -102,9 +100,8 @@ func ReadItems(db *sql.DB) []Item {
 	for rows.Next() {
 		item := Item{}
 		var rawHtml string
-		var isRead int
 		err2 := rows.Scan(&item.Link, &item.Title, &item.Comments,
-			&rawHtml, &item.PubDate, &isRead)
+			&rawHtml, &item.PubDate)
 		item.Description = template.HTML(rawHtml)
 		if err2 != nil { panic(err2) }
 		result = append(result, item)
