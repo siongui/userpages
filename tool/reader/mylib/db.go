@@ -55,7 +55,7 @@ func updateOrInsertIfNotExist(db *sql.DB, items []Item) {
 // http://stackoverflow.com/questions/12105198/sqlite-how-to-get-insert-or-ignore-to-work
 	sql_table := `
 	CREATE TABLE IF NOT EXISTS items(
-		Link NOT NULL PRIMARY KEY,
+		Link TEXT NOT NULL PRIMARY KEY,
 		Title TEXT,
 		Comments TEXT,
 		Description TEXT,
@@ -69,7 +69,7 @@ func updateOrInsertIfNotExist(db *sql.DB, items []Item) {
 
 	// insert items into db
 	sql_additem := `
-	INSERT OR REPLACE INTO items(
+	INSERT OR IGNORE INTO items(
 		Link,
 		Title,
 		Comments,

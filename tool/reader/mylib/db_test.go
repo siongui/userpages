@@ -18,7 +18,7 @@ func TestDbAll(t *testing.T) {
 
 	sql_table := `
 	CREATE TABLE sites(
-		XmlUrl NOT NULL PRIMARY KEY,
+		XmlUrl TEXT NOT NULL PRIMARY KEY,
 		Title TEXT,
 		Type TEXT,
 		Text TEXT,
