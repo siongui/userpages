@@ -1,13 +1,18 @@
-<>, etc.
+<Introduction to the Mill CPU Programming Model>, etc.
 ################################################################################################################
 
 :date: 2014-02-08 02:11
-:tags: Dart, Go, Data Science, Web Development, Machine Learning, JavaScript, C++, Linux, Continuous Integration, CSS, Embedded System, AWS
+:tags: Dart, Go, Data Science, Web Development, Machine Learning, JavaScript, C++, Linux, Continuous Integration, CSS, Embedded System, AWS, Computer Architecture
 :tags_zh_CN: Raspberry Pi, C
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-08
 
+
+Computer Architecture:
+
+  `Introduction to the Mill CPU Programming Model <http://ootbcomp.com/topic/introduction-to-the-mill-cpu-programming-model-2/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7198792>`__)
 
 Web Development:
 
