@@ -75,13 +75,13 @@ func TestDbAll(t *testing.T) {
 	if err6 != nil { panic(err6) }
 	tmp := parseSeedContent(content)
 	tmp2 := parseSeedContent(content2)
-	// test updateOrInsertIfNotExist
+	// test storeItems
 	// FIXME: make url.QueryEscape(hnUrl) a function
 	os.Remove(url.QueryEscape(hnUrl))
 	dbHN := InitDB(url.QueryEscape(hnUrl))
 	defer dbHN.Close()
-	updateOrInsertIfNotExist(dbHN, tmp.Channel.ItemList)
-	updateOrInsertIfNotExist(dbHN, tmp2.Channel.ItemList)
+	storeItems(dbHN, tmp.Channel.ItemList)
+	storeItems(dbHN, tmp2.Channel.ItemList)
 
 	// test ReadItems
 	items := ReadItems(dbHN)

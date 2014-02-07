@@ -45,7 +45,7 @@ func GetSites(dbpath string) []OpmlOutline {
 	return readSites(db)
 }
 
-func updateOrInsertIfNotExist(db *sql.DB, items []Item) {
+func storeItems(db *sql.DB, items []Item) {
 // RSS:
 // http://stackoverflow.com/questions/15245896/rss-update-single-item
 // http://stackoverflow.com/questions/164124/rss-item-updates
