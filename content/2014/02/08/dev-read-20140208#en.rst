@@ -2,7 +2,7 @@
 ################################################################################################################
 
 :date: 2014-02-08 02:11
-:tags: Dart, Go, Web Development
+:tags: Dart, Go, Data Science, Web Development, Machine Learning, JavaScript, C++, Linux, Continuous Integration, CSS, Embedded System, AWS
 :tags_zh_CN: Raspberry Pi, C
 :category: Dev Read
 :author: Siong-Ui Te
@@ -12,6 +12,11 @@
 Web Development:
 
   `Draggable Elements That Push Others Out Of Way <http://css-tricks.com/draggable-elements-push-others-way/>`_
+
+Machine Learning:
+
+  `My Machine Learning Tool Box <http://experimentswithmymind.blogspot.com/2013/12/machine-learning-tool-box.html>`_
+  (`Google+ post <https://plus.google.com/104727306863150984098/posts/4Ynq7Co7B6P>`__)
 
 Dart:
 
@@ -23,10 +28,64 @@ Dart:
   `new Dart API reference doc viewer <http://api.dartlang.org/>`_
   (`Google+ post <https://plus.google.com/109866369054280216564/posts/GeDpH7hfmAp>`__)
 
+  `Converters and Codecs - How to write efficient conversions <https://www.dartlang.org/articles/converters-and-codecs/>`_
+  (`Google+ post <https://plus.google.com/109866369054280216564/posts/WXpsYEcs4vQ>`__)
+
 Go:
 
   `The Go Circuit Project: Paradigm for developing and sustaining Big Data apps <http://www.gocircuit.org/>`_
   (`Google+ post <https://plus.google.com/103142583616500500470/posts/e3Yixty67Tc>`__)
+
+JavaScript:
+
+  `Getting started with gulp <http://markgoodyear.com/2014/01/getting-started-with-gulp/>`_
+
+C++:
+
+  `In the C++ bag of tricks: scoped locks <http://blog.skanev.org/2014/02/in-c-bag-of-tricks-scoped-locks.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7197147>`__)
+
+Linux:
+
+  `How to Create Your Own Git Server <http://www.spinellis.gr/blog/20130619/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7197548>`__)
+
+  `RPGFS: Crossing an RPG with a Unix Filesystem <https://code.google.com/p/rpgfs/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7198147>`__)
+
+Continuous Integration:
+
+  `Drone and Docker, Open Source CI (drone.io) <http://blog.drone.io/2014/2/5/open-source-ci-docker.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7197669>`__)
+
+CSS:
+
+  `Show HN: Sache.in: Discover Sass and Compass Extensions For Your Next Project <http://www.sache.in/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7198081>`__)
+
+Show HN:
+
+  `ShowHN: dweet.io – Twitter for machines <http://dweet.io>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7198267>`__)
+
+  `Show HN: Fresh baked bread, delivered to your door via SMS <http://getbreadbox.com/#>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7197938>`__)
+
+AWS:
+
+  `I left Heroku for OpsWorks and shaved 40% off response times <http://www.stefanwrobel.com/heroku-to-opsworks>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7198404>`__)
+
+Embedded System:
+
+  `Program an Arduino Yún without writing code Temboo's Sketch Builder <http://blog.arduino.cc/2014/02/07/program-a-yun-without-writing-code/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7198729>`__)
+
+Data Science:
+
+  `An Interview with John Foreman, Chief Data Scientist at MailChimp <http://chartio.com/blog/2014/02/john-foreman-interview>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7198874>`__)
+
 
 
 Simplified Chinese:
