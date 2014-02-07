@@ -20,7 +20,8 @@ JavaScript:
 C/C++:
 
   `The Lost Art of C Structure Packing <http://www.catb.org/esr/structure-packing/>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=6995568>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=6995568>`__,
+  `失落的C语言结构体封装艺术 <http://blog.jobbole.com/57822/>`_)
 
   `memory cache optimizations <http://blog.libtorrent.org/2013/12/memory-cache-optimizations/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=6998300>`__)

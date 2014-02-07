@@ -3,7 +3,7 @@
 
 :date: 2014-02-07 04:05
 :tags: Algorithm, Machine Learning, JavaScript, math, Dart, Distributed System, CSS, Web Development, C, Python, Security, Random Number
-:tags_zh_CN: JavaScript, Python, Algorithm, Clojure, API, Linux, Go, Java, Android
+:tags_zh_CN: JavaScript, Raspberry Pi, Python, Algorithm, Clojure, API, Linux, Go, Java, Android
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-07
@@ -167,6 +167,10 @@ Simplified Chinese:
 
     `Android开发——通过扫描二维码，打开或者下载Android应用 <http://my.oschina.net/jseven1989/blog/197533>`_
 
+  Raspberry Pi:
+
+    `树莓派热点回顾第5期 <http://www.geekfan.net/5982/>`_
+
   News:
 
     `iOS和Android平台开源的活动目录类库 <http://www.infoq.com/cn/news/2014/02/Active-Directory-Mobile>`_
@@ -220,5 +224,3 @@ Simplified Chinese:
     `CodeEval发布2014年热门编程语言排行榜 <http://blog.jobbole.com/58268/>`_
 
     `美国政府与IBM签约开发自毁型芯片 <http://blog.jobbole.com/58305/>`_
-
-    `树莓派热点回顾第5期 <http://www.geekfan.net/5982/>`_
