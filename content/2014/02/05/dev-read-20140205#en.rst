@@ -45,7 +45,8 @@ Website:
   (`HN discuss <https://news.ycombinator.com/item?id=7176387>`__)
 
   `Urs Hölzle on Google's first data center <https://plus.google.com/+UrsH%C3%B6lzle/posts/UseinB6wvmh>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7181172>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7181172>`__,
+  `Googler回憶15年前打造的第一個資料中心 <http://www.ithome.com.tw/itadm/article.php?c=85097>`_)
 
 Linux:
 
