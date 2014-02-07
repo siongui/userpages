@@ -20,20 +20,25 @@ type Rss2 struct {
 // http://www.w3schools.com/rss/rss_channel.asp
 type RssChan struct {
 	XMLName		xml.Name	`xml:"channel"`
+	// Required
 	Title		string		`xml:"title"`
 	Link		string		`xml:"link"`
 	Description	string		`xml:"description"`
+	// Optional
 	PubDate		string		`xml:"pubDate"`
 	ItemList	[]Item		`xml:"item"`
 }
 
 // http://www.w3schools.com/rss/rss_item.asp
 type Item struct {
+	// Required
 	Title		string		`xml:"title"`
 	Link		string		`xml:"link"`
-	Comments	string		`xml:"comments"`
 	Description	template.HTML	`xml:"description"`
+	// Optional
 	PubDate		string		`xml:"pubDate"`
+	Comments	string		`xml:"comments"`
+	// for reader only
 	IsRead		bool
 	ReadDatetime	string
 }
