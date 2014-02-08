@@ -345,6 +345,8 @@ Traditional Chinese:
 
   `噴火獸號：裴列恩之艦 <http://nyllep.wordpress.com/>`_
 
+  `小佳的部落格 - 關於我，以及我的程式學習紀錄 <http://claire-chang.com/>`_
+
 `Yu-Jie Lin <http://www.yjl.im/>`_
 
 `Licson's Tech Space <http://licson.net/>`_

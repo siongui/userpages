@@ -314,3 +314,9 @@ Simplified Chinese:
 
     `2014年公开课计划 <http://www.redswallow.me/blog/901>`_
 
+    `美国公司宣布Outernet计划：让网络覆盖全球 <http://blog.jobbole.com/58490/>`_
+
+    `DARPA公开一系列软件源代码 <http://www.solidot.org/story?sid=38258>`_
+
+    `量子冰箱实现超效冷却 <http://www.solidot.org/story?sid=38260>`_
+

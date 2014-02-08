@@ -68,7 +68,8 @@ Go:
 Open Source:
 
   `DARPA Publishes Tons of Open Source Code, Data <http://yro.slashdot.org/story/14/02/05/0538239/darpa-publishes-tons-of-open-source-code-data>`_
-  (`美國軍方研究單位DARPA發表開放源碼網站Open Catalog <http://www.ithome.com.tw/itadm/article.php?c=85071>`_)
+  (`美國軍方研究單位DARPA發表開放源碼網站Open Catalog <http://www.ithome.com.tw/itadm/article.php?c=85071>`_,
+  `DARPA公开一系列软件源代码 <http://www.solidot.org/story?sid=38258>`_)
 
 Physics:
 
