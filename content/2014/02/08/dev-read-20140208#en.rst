@@ -3,7 +3,7 @@
 
 :date: 2014-02-08 02:11
 :tags: Dart, Go, Data Science, Web Development, Machine Learning, JavaScript, C++, Linux, Continuous Integration, CSS, Embedded System, AWS, Computer Architecture
-:tags_zh_CN: Raspberry Pi, C, C++, Linux, Web Development, Go, HTML, Android, Algorithm, Python
+:tags_zh_CN: Raspberry Pi, C, C++, Linux, Web Development, Go, HTML, Android, Algorithm, Python, database, JavaScript, Compiler, Continuous Integration, Shell, CSS, Vim
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-08
@@ -106,23 +106,75 @@ Simplified Chinese:
 
     `linux read/write  hft partitions <http://my.oschina.net/luyuhx/blog/197636>`_
 
+    `删除rc状态的包 <http://my.oschina.net/u/1000151/blog/197778>`_
+
+    `linux网卡驱动安装 <http://my.oschina.net/xiaot99/blog/197767>`_
+
+    `Linux-----任务调度 <http://my.oschina.net/u/1402640/blog/197806>`_
+
+    `linux 查看系统信息命令(比较全) <http://my.oschina.net/sansom/blog/197919>`_
+
+    `每天一个linux命令(1)：ls命令 <http://my.oschina.net/wenhaowu/blog/197945>`_
+
+    Ubuntu:
+
+      `ubuntu下旋转屏幕 <http://my.oschina.net/suyewanwan/blog/197753>`_
+
+      `制作ubuntu的U盘启动盘 <http://my.oschina.net/f839903061/blog/197935>`_
+
   C:
 
     `失落的C语言结构体封装艺术 <http://blog.jobbole.com/57822/>`_
+
+    `C语言指针函数和函数指针 <http://my.oschina.net/u/1428392/blog/197717>`_
+
+    `怎么在UNIX C程序里之行“ls”命令并获取输出的结果？ <http://www.oschina.net/question/988162_142818>`_
+
+    `利用命名管道进行通信 <http://www.oschina.net/code/snippet_1160717_33072>`_
 
   C++:
 
     `C++引用与指针比较 <http://my.oschina.net/huangsz/blog/197655>`_
 
+    `C++前置声明的一个好处与用法 <http://my.oschina.net/zhaomengit/blog/197807>`_
+
+    `二叉查找树的C++简单实现 <http://www.oschina.net/code/snippet_1019031_33071>`_
+
   Web Development:
 
     `笔记散笔 <http://my.oschina.net/jQer/blog/197628>`_
 
-    `原生 JavaScript 开发仿微信打飞机小游戏 <http://my.oschina.net/ZaneYoung/blog/197265>`_
+    `如何逐步去构建一个大型网站系统 <http://my.oschina.net/u/210055/blog/197792>`_
+
+    `HTTPS 部署简要指南 <http://my.oschina.net/heroShane/blog/197907>`_
+ 
+    `SolrCloud Wiki翻译(1) Getting Started with SolrCloud <http://my.oschina.net/zengjie/blog/197960>`_
+
+    JavaScript:
+
+      `jQuery获取Select选中的Text和Value,根据Value值动态添加属性等 <http://my.oschina.net/usenrong/blog/197896>`_
+
+      `javascript获取页面宽度和高度以及元素的位置 <http://my.oschina.net/u/729917/blog/197946>`_
+
+      `ztree 模糊搜索 <http://my.oschina.net/u/1447911/blog/197927>`_
+
+      `原生 JavaScript 开发仿微信打飞机小游戏 <http://my.oschina.net/ZaneYoung/blog/197265>`_
+
+      `js 正则表达式判断整数 <http://my.oschina.net/ind/blog/197952>`_
+
+      `javascript 复习内容 <http://my.oschina.net/u/267384/blog/197726>`_
 
   HTML:
 
     `wkhtmtopdf--高分辨率转HTML成PDF（二） <http://my.oschina.net/wangzan/blog/197670>`_
+
+  CSS:
+
+    `用CSS限制文字宽度，使过长标题显示省略号“…” <http://my.oschina.net/fengcai/blog/197725>`_
+
+  Shell:
+
+    `PostgreSQL自动安装脚本 <http://my.oschina.net/Kenyon/blog/197961>`_
 
   Raspberry Pi:
 
@@ -134,17 +186,65 @@ Simplified Chinese:
 
     `Google 在 25 个新国家增加 Android 本地付款支持 <http://www.oschina.net/news/48602/android-local-paymemt>`_
 
+    `Android Browser学习四  TabControl: 初始化 <http://my.oschina.net/sfshine/blog/197804>`_
+
+    `如何Android自定义ListView按下颜色 <http://my.oschina.net/u/940176/blog/197929>`_
+
+    `Android 新开启Activity返回结果（发送短信应用） <http://my.oschina.net/u/1246663/blog/197933>`_
+
+    `Preference的使用  <http://my.oschina.net/u/1446273/blog/197938>`_
+
+    `android声音调整源代码分析 <http://my.oschina.net/u/589963/blog/197732>`_
+
   Algorithm:
 
     `连通性问题-算法导论 <http://my.oschina.net/yangcol/blog/197624>`_
+
+    `加密MD5 <http://my.oschina.net/u/1258401/blog/197744>`_ (Java)
+
+    `树形结构的3中搜索方式 <http://www.oschina.net/code/snippet_1019031_33062>`_ (C++)
 
   Go:
 
     `百度云Go语言SDK bcsgo <http://www.oschina.net/p/bcsgo>`_
 
+    `golang 在线编译 gobuild <http://www.oschina.net/p/gobuild>`_
+
   Python:
 
     `Python 数值计算库 Blaze <http://www.oschina.net/p/blaze>`_
+
+    `python自带简单web服务器 <http://my.oschina.net/u/1413984/blog/197752>`_
+
+    `基于Aptana3+Django开发blog的示例 <http://my.oschina.net/u/1412027/blog/197781>`_
+
+    `清空svn属性子目录 <http://my.oschina.net/sanpeterguo/blog/197724>`_
+
+  database:
+
+    `HBase文件索引分析 <http://my.oschina.net/poorzerg/blog/197782>`_
+
+    `MySQL批量SQL插入性能优化 <http://my.oschina.net/u/1382972/blog/197908>`_
+
+    `sqlite 操作一般常用方法 <http://my.oschina.net/u/1438716/blog/197922>`_
+
+    `SQL游标循环执行（又遇到了，记录一下吧） <http://my.oschina.net/u/252343/blog/197729>`_
+
+  Compiler:
+
+    `外国高校的与编译器相关的课程 <http://my.oschina.net/rinehart/blog/197917>`_
+
+  Continuous Integration:
+
+    `持续集成JenkinsAPI常见用法 <http://my.oschina.net/sanpeterguo/blog/197931>`_
+
+  Git:
+
+    `git忽略对已入库文件的修改 <http://my.oschina.net/zlLeaf/blog/197740>`_
+
+  Vim:
+
+    `vim markdown then preview instant <http://www.oschina.net/code/snippet_1432838_33075>`_
 
   News:
 
@@ -165,4 +265,6 @@ Simplified Chinese:
     `微软、谷歌及苹果从哪赚钱？ <http://www.csdn.net/article/2014-02-08/2818328-apple-google-microsoft-where-does-the-money-come-from>`_
 
     `Facebook的核优势 <http://www.36kr.com/p/209540.html>`_
+
+    `IaaS, PaaS, SaaS 解释 <http://my.oschina.net/wtm/blog/197791>`_
 
