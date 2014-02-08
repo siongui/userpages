@@ -1,8 +1,8 @@
-<Introduction to the Mill CPU Programming Model>, <Flappy Bird in HTML5>, etc.
-################################################################################################################
+<Introduction to the Mill CPU Programming Model>, <JS lib to make your website instant>, <Flappy Bird in HTML5>, etc.
+#####################################################################################################################
 
 :date: 2014-02-08 02:11
-:tags: Dart, Go, Data Science, Web Development, Machine Learning, JavaScript, C++, Linux, Continuous Integration, CSS, Embedded System, AWS, Computer Architecture
+:tags: Dart, Go, Open Source, Data Science, Web Development, Machine Learning, JavaScript, C++, Linux, Continuous Integration, CSS, Embedded System, AWS, Computer Architecture, Github, Security
 :tags_zh_CN: Raspberry Pi, C, C++, Linux, Web Development, Go, HTML, Android, Algorithm, Python, database, JavaScript, Compiler, Continuous Integration, Shell, CSS, Vim, Security, Machine Learning
 :category: Dev Read
 :author: Siong-Ui Te
@@ -16,10 +16,27 @@ Computer Architecture:
 
 Web Development:
 
+  JavaScript:
+
+    `Show HN: JS lib to make your website instant <https://news.ycombinator.com/item?id=7201353>`_
+
+    `Getting started with gulp <http://markgoodyear.com/2014/01/getting-started-with-gulp/>`_
+
   `Flappy Bird in HTML5 <http://uralozden.com/flappy/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7199334>`__)
 
+  `JZed.js – The functional JQuery Alternative [zedshaw] <https://github.com/zedshaw/jzed>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7200979>`__)
+
   `Draggable Elements That Push Others Out Of Way <http://css-tricks.com/draggable-elements-push-others-way/>`_
+
+  `Introducing Mozilla Firefox Accounts <https://blog.mozilla.org/blog/2014/02/07/introducing-mozilla-firefox-accounts/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7200270>`__)
+
+Open Source:
+
+  `Fosdem 2014 First videos are online <https://fosdem.org/2014/news/2014-02-06-first-videos/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7201031>`__)
 
 Machine Learning:
 
@@ -46,10 +63,6 @@ Go:
 
   `Parallel computation of Mandelbrot set <http://blog.campoy.cat/2014/02/parallel-computation-of-mandelbrot-set.html>`_
 
-JavaScript:
-
-  `Getting started with gulp <http://markgoodyear.com/2014/01/getting-started-with-gulp/>`_
-
 C++:
 
   `In the C++ bag of tricks: scoped locks <http://blog.skanev.org/2014/02/in-c-bag-of-tricks-scoped-locks.html>`_
@@ -75,6 +88,9 @@ CSS:
 
 Show HN:
 
+  `Show HN: Speedsums – procrastinate productively <http://www.speedsums.com>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7201405>`__)
+
   `ShowHN: dweet.io – Twitter for machines <http://dweet.io>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7198267>`__)
 
@@ -95,6 +111,22 @@ Data Science:
 
   `An Interview with John Foreman, Chief Data Scientist at MailChimp <http://chartio.com/blog/2014/02/john-foreman-interview>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7198874>`__)
+
+Security:
+
+  `Cheat Sheets – OWASP <https://www.owasp.org/index.php/Cheat_Sheets>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7200598>`__)
+
+  `Show HN: Automatic VPN Generator – Protect Yourself at Sochi and Starbucks <https://www.tinfoilsecurity.com/vpn/new>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7200043>`__)
+
+  `Reverse engineering my bank's security token <http://blog.valverde.me/2014/01/03/reverse-engineering-my-bank%27s-security-token/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7200516>`__)
+
+Github:
+
+  `Gitbucket – The easily installable Github clone powered by Scala <https://github.com/takezoe/gitbucket/blob/master/README.md>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7200458>`__)
 
 
 
