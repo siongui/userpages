@@ -1,8 +1,10 @@
-// @see http://golang.org/pkg/database/sql/
-// @see https://github.com/mattn/go-sqlite3
-// @see http://stackoverflow.com/questions/3634984/insert-if-not-exists-else-update
-// @see http://stackoverflow.com/questions/2251699/sqlite-insert-or-replace-into-vs-update-where
-// @see http://stackoverflow.com/questions/1601151/how-do-i-check-in-sqlite-whether-a-table-exists
+/*
+http://golang.org/pkg/database/sql/
+https://github.com/mattn/go-sqlite3
+http://stackoverflow.com/questions/3634984/insert-if-not-exists-else-update
+http://stackoverflow.com/questions/2251699/sqlite-insert-or-replace-into-vs-update-where
+http://stackoverflow.com/questions/1601151/how-do-i-check-in-sqlite-whether-a-table-exists
+*/
 package mylib
 
 import (
@@ -46,13 +48,16 @@ func GetSites(dbpath string) []OpmlOutline {
 }
 
 func storeItems(db *sql.DB, items []Item) {
-// RSS:
-// http://stackoverflow.com/questions/15245896/rss-update-single-item
-// http://stackoverflow.com/questions/164124/rss-item-updates
-// SQLite:
-// http://stackoverflow.com/questions/19337029/insert-if-not-exists-statement-in-sqlite
-// http://stackoverflow.com/questions/6740733/insert-or-replace-is-creating-duplicates
-// http://stackoverflow.com/questions/12105198/sqlite-how-to-get-insert-or-ignore-to-work
+/*
+RSS:
+http://stackoverflow.com/questions/15245896/rss-update-single-item
+http://stackoverflow.com/questions/164124/rss-item-updates
+SQLite:
+http://stackoverflow.com/questions/19337029/insert-if-not-exists-statement-in-sqlite
+http://stackoverflow.com/questions/6740733/insert-or-replace-is-creating-duplicates
+http://stackoverflow.com/questions/12105198/sqlite-how-to-get-insert-or-ignore-to-work
+http://stackoverflow.com/questions/19134274/sqlitedatabase-insert-or-replace-if-changed
+*/
 	sql_table := `
 	CREATE TABLE IF NOT EXISTS items(
 		Link TEXT NOT NULL PRIMARY KEY,
