@@ -1,9 +1,9 @@
-<Introduction to the Mill CPU Programming Model>, etc.
+<Introduction to the Mill CPU Programming Model>, <Flappy Bird in HTML5>, etc.
 ################################################################################################################
 
 :date: 2014-02-08 02:11
 :tags: Dart, Go, Data Science, Web Development, Machine Learning, JavaScript, C++, Linux, Continuous Integration, CSS, Embedded System, AWS, Computer Architecture
-:tags_zh_CN: Raspberry Pi, C
+:tags_zh_CN: Raspberry Pi, C, C++, Linux, Web Development, Go, HTML, Android, Algorithm
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-08
@@ -15,6 +15,9 @@ Computer Architecture:
   (`HN discuss <https://news.ycombinator.com/item?id=7198792>`__)
 
 Web Development:
+
+  `Flappy Bird in HTML5 <http://uralozden.com/flappy/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7199334>`__)
 
   `Draggable Elements That Push Others Out Of Way <http://css-tricks.com/draggable-elements-push-others-way/>`_
 
@@ -95,10 +98,53 @@ Data Science:
 
 Simplified Chinese:
 
+  Linux:
+
+    `关于gcc、glibc和binutils模块之间的关系 <http://my.oschina.net/weiweiqiao/blog/197673>`_
+
+    `linux read/write  hft partitions <http://my.oschina.net/luyuhx/blog/197636>`_
+
   C:
 
     `失落的C语言结构体封装艺术 <http://blog.jobbole.com/57822/>`_
 
+  C++:
+
+    `C++引用与指针比较 <http://my.oschina.net/huangsz/blog/197655>`_
+
+  Web Development:
+
+    `笔记散笔 <http://my.oschina.net/jQer/blog/197628>`_
+
+  HTML:
+
+    `wkhtmtopdf--高分辨率转HTML成PDF（二） <http://my.oschina.net/wangzan/blog/197670>`_
+
   Raspberry Pi:
 
     `如何打造一台树莓派一体机 <http://www.geekfan.net/5909/>`_
+
+  Android:
+
+    `Android 判断横屏还是竖屏以及设置方式 <http://my.oschina.net/u/1246663/blog/197626>`_
+
+    `Google 在 25 个新国家增加 Android 本地付款支持 <http://www.oschina.net/news/48602/android-local-paymemt>`_
+
+  Algorithm:
+
+    `连通性问题-算法导论 <http://my.oschina.net/yangcol/blog/197624>`_
+
+  Go:
+
+    `百度云Go语言SDK bcsgo <http://www.oschina.net/p/bcsgo>`_
+
+  News:
+
+    `为什么埃洛普未能当选微软新 CEO？ <http://www.oschina.net/news/48590/elop-microsoft-ceo>`_
+
+    `开源的 Dropbox 替代品 Quilter <http://www.oschina.net/p/quilter>`_
+
+    `[视频] 在 OpenStack 上运行 Cloud Foundry <http://www.oschina.net/news/48597/running-cloud-foundry-on-openstack>`_
+
+    `ARM 另类发展路：小公司大生态 <http://www.oschina.net/news/48600/arm-road>`_
+
