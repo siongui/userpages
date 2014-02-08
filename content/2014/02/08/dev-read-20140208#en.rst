@@ -3,7 +3,7 @@
 
 :date: 2014-02-08 02:11
 :tags: Dart, Go, Data Science, Web Development, Machine Learning, JavaScript, C++, Linux, Continuous Integration, CSS, Embedded System, AWS, Computer Architecture
-:tags_zh_CN: Raspberry Pi, C, C++, Linux, Web Development, Go, HTML, Android, Algorithm
+:tags_zh_CN: Raspberry Pi, C, C++, Linux, Web Development, Go, HTML, Android, Algorithm, Python
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-08
@@ -43,6 +43,8 @@ Go:
 
   `The Go Circuit Project: Paradigm for developing and sustaining Big Data apps <http://www.gocircuit.org/>`_
   (`Google+ post <https://plus.google.com/103142583616500500470/posts/e3Yixty67Tc>`__)
+
+  `Parallel computation of Mandelbrot set <http://blog.campoy.cat/2014/02/parallel-computation-of-mandelbrot-set.html>`_
 
 JavaScript:
 
@@ -116,6 +118,8 @@ Simplified Chinese:
 
     `笔记散笔 <http://my.oschina.net/jQer/blog/197628>`_
 
+    `原生 JavaScript 开发仿微信打飞机小游戏 <http://my.oschina.net/ZaneYoung/blog/197265>`_
+
   HTML:
 
     `wkhtmtopdf--高分辨率转HTML成PDF（二） <http://my.oschina.net/wangzan/blog/197670>`_
@@ -138,6 +142,10 @@ Simplified Chinese:
 
     `百度云Go语言SDK bcsgo <http://www.oschina.net/p/bcsgo>`_
 
+  Python:
+
+    `Python 数值计算库 Blaze <http://www.oschina.net/p/blaze>`_
+
   News:
 
     `为什么埃洛普未能当选微软新 CEO？ <http://www.oschina.net/news/48590/elop-microsoft-ceo>`_
@@ -147,4 +155,14 @@ Simplified Chinese:
     `[视频] 在 OpenStack 上运行 Cloud Foundry <http://www.oschina.net/news/48597/running-cloud-foundry-on-openstack>`_
 
     `ARM 另类发展路：小公司大生态 <http://www.oschina.net/news/48600/arm-road>`_
+
+    `世界上最强的激光器：百万亿分之一秒发射 <http://news.mydrivers.com/1/291/291848.htm>`_
+
+    `Mozilla 千兆网络公益基金会成立 <http://www.oschina.net/news/48607/mozilla-gigabit-community-fund>`_
+
+    `拨开国产 COS 系统的重重迷雾 <http://www.oschina.net/news/48604/cos-inside>`_
+
+    `微软、谷歌及苹果从哪赚钱？ <http://www.csdn.net/article/2014-02-08/2818328-apple-google-microsoft-where-does-the-money-come-from>`_
+
+    `Facebook的核优势 <http://www.36kr.com/p/209540.html>`_
 
