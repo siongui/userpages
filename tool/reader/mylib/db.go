@@ -57,9 +57,9 @@ func storeItems(db *sql.DB, items []Item) {
 	CREATE TABLE IF NOT EXISTS items(
 		Link TEXT NOT NULL PRIMARY KEY,
 		Title TEXT,
-		Comments TEXT,
 		Description TEXT,
-		PubDate TEXT
+		PubDate TEXT,
+		Comments TEXT
 	);
 	`
 
@@ -71,9 +71,9 @@ func storeItems(db *sql.DB, items []Item) {
 	INSERT OR IGNORE INTO items(
 		Link,
 		Title,
-		Comments,
 		Description,
-		PubDate
+		PubDate,
+		Comments
 	) values(?, ?, ?, ?, ?)
 	`
 
@@ -82,15 +82,15 @@ func storeItems(db *sql.DB, items []Item) {
 	defer stmt.Close()
 
 	for _, item := range items {
-		_, err3 := stmt.Exec(item.Link, item.Title, item.Comments,
-			string(item.Description), item.PubDate)
+		_, err3 := stmt.Exec(item.Link, item.Title,
+			string(item.Description), item.PubDate, item.Comments)
 		if err3 != nil { panic(err3) }
 	}
 }
 
 func ReadItems(db *sql.DB) []Item {
 	sql_readall := `
-	SELECT Link, Title, Comments, Description, PubDate FROM items
+	SELECT Link, Title, Description, PubDate, Comments FROM items
 	`
 	rows, err := db.Query(sql_readall)
 	if err != nil { panic(err) }
