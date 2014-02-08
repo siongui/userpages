@@ -3,7 +3,7 @@
 
 :date: 2014-02-08 02:11
 :tags: Dart, Go, Data Science, Web Development, Machine Learning, JavaScript, C++, Linux, Continuous Integration, CSS, Embedded System, AWS, Computer Architecture
-:tags_zh_CN: Raspberry Pi, C, C++, Linux, Web Development, Go, HTML, Android, Algorithm, Python, database, JavaScript, Compiler, Continuous Integration, Shell, CSS, Vim
+:tags_zh_CN: Raspberry Pi, C, C++, Linux, Web Development, Go, HTML, Android, Algorithm, Python, database, JavaScript, Compiler, Continuous Integration, Shell, CSS, Vim, Security, Machine Learning
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-08
@@ -100,6 +100,10 @@ Data Science:
 
 Simplified Chinese:
 
+  Machine Learning:
+
+    `视频演讲： 大数据及深度机器学习介绍 <http://www.infoq.com/cn/presentations/introduction-of-big-data-and-machine-depth-learning>`_
+
   Linux:
 
     `关于gcc、glibc和binutils模块之间的关系 <http://my.oschina.net/weiweiqiao/blog/197673>`_
@@ -115,6 +119,8 @@ Simplified Chinese:
     `linux 查看系统信息命令(比较全) <http://my.oschina.net/sansom/blog/197919>`_
 
     `每天一个linux命令(1)：ls命令 <http://my.oschina.net/wenhaowu/blog/197945>`_
+
+    `Linux 中如何打开一个大文本文件 <http://linux.cn/thread/12307/1/1/>`_
 
     Ubuntu:
 
@@ -166,6 +172,8 @@ Simplified Chinese:
 
   HTML:
 
+    `html的a标签后续绑定js事件，href属性设置为#还是javascript:;或者javascript:void(0);好？ <http://segmentfault.com/q/1010000000404876>`_
+
     `wkhtmtopdf--高分辨率转HTML成PDF（二） <http://my.oschina.net/wangzan/blog/197670>`_
 
   CSS:
@@ -210,6 +218,8 @@ Simplified Chinese:
 
     `golang 在线编译 gobuild <http://www.oschina.net/p/gobuild>`_
 
+    `Go语言中有单个字符和ascii码值直接转换的方法吗？ <http://segmentfault.com/q/1010000000404709>`_
+
   Python:
 
     `Python 数值计算库 Blaze <http://www.oschina.net/p/blaze>`_
@@ -246,6 +256,12 @@ Simplified Chinese:
 
     `vim markdown then preview instant <http://www.oschina.net/code/snippet_1432838_33075>`_
 
+  Security:
+
+    `iOS 7 新漏洞：可无需密码禁用“查找我的iPhone” <http://blog.jobbole.com/58374/>`_
+
+    `椭圆曲线和Dual_EC_DRBG后门 <http://www.redswallow.me/blog/903>`_
+
   News:
 
     `为什么埃洛普未能当选微软新 CEO？ <http://www.oschina.net/news/48590/elop-microsoft-ceo>`_
@@ -267,4 +283,34 @@ Simplified Chinese:
     `Facebook的核优势 <http://www.36kr.com/p/209540.html>`_
 
     `IaaS, PaaS, SaaS 解释 <http://my.oschina.net/wtm/blog/197791>`_
+
+    `Photoshop专用键盘Keyboard-S问世 <http://blog.jobbole.com/58371/>`_
+
+    `谷歌面向iOS、Android以及Chrome开发者发布Chromecast SDK <http://blog.jobbole.com/58385/>`_
+
+    `TOP 10 iOS 开发者会议（2014年） <http://blog.jobbole.com/58395/>`_
+
+    `增强现实技术是如何增强自身的未来？ <http://blog.jobbole.com/58407/>`_
+
+    `自由微博镜像网站被迫转移网址 <http://www.solidot.org/story?sid=38255>`_
+
+    `未来编程趋势的12个猜想 命令行永存... <http://www.csdn.net/article/2014-02-08/2818336-12-predictions-for-the-future-of-programming>`_
+
+    `2014年美国大学生数学建模竞赛翻译及建模思路 <http://www.csdn.net/article/2014-02-08/2818335-2014-MCM-ICM>`_
+
+    `IBM发布SmartCloud数据虚拟化服务 <http://www.csdn.net/article/2014-02-08/2818334-Cloud-IBM-Actifo-Completel>`_
+
+    `围观龙虎斗：谷歌GCE vs. 亚马逊AWS，要做9件事 <http://www.csdn.net/article/2014-02-08/2818333-google-gce-vs-amazon-aws>`_
+
+    `苹果CEO Tim Cook：我们是一家快速发展的公司 <http://www.csdn.net/article/2014-02-08/2818329-apple-still-a-growth-company-cook-says-in-journal-interview>`_
+
+    `占领Android？Mozilla联合EverythingMe发布Firefox启动器 <http://www.csdn.net/article/2014-02-08/2818330>`_
+
+    `我们是怎样毁了社交网站的？ <http://tech2ipo.com/63300>`_
+
+    `免费系统升级策略：微软还是苹果胜出？ <http://linux.cn/thread/12306/1/1/>`_
+
+    `微软为何废除员工排名制度 <http://blog.jobbole.com/58474/>`_
+
+    `2014年公开课计划 <http://www.redswallow.me/blog/901>`_
 
