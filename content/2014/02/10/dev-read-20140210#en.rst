@@ -27,6 +27,9 @@ JavaScript:
   `Flappybird.js (divshot.io) <http://ss14-team-107.divshot.io/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7205853>`__)
 
+  `Contact Us <http://contact.darkigloo.com/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7207526>`__)
+
 Algorithm:
 
   `Counting Votes Is Hard <http://blog.forcerank.it/counting-votes-is-hard>`_
@@ -46,6 +49,9 @@ Website:
   `IPv6 domain readiness tester <http://ip6.nl/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7206193>`__)
 
+  `A game to learn a new language <http://babadum.com/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7207336>`__)
+
 Go in FOSDEM:
 
   `Go talks <https://plus.google.com/118102824679316338470/posts/VKVBLdHBZsf>`_
@@ -54,6 +60,11 @@ Dart:
 
   `VaDart - an Up-To-Date Dart Vagrant Box <http://www.bitfalls.com/2014/02/vadart-up-to-date-dart-vagrant-box.html>`_
   (`Google+ post <https://plus.google.com/104771776404197897488/posts/6viY6nBWwMh>`_)
+
+Story:
+
+  `Flappy Bird by the Numbers <http://zachwill.com/flappy-bird/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7207506>`__)
 
 
 

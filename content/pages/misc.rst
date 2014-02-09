@@ -96,3 +96,5 @@
 `Vimcasts - free screencasts about the text editor Vim <http://vimcasts.org/>`_
 
 `PICTURE TO ASCII CONVERT - PICASCII <http://picascii.com/>`_
+
+`Ba Ba Dum (Language Learning) <http://babadum.com/>`_

@@ -60,6 +60,8 @@ Python/Go:
 
   `code monk | hacking habits <http://drj11.wordpress.com/>`_
 
+  `Paul M Furley ← C++ | Python | Arduino | Linux <http://paulfurley.com/>`_
+
 Ruby:
 
   `GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS <http://robots.thoughtbot.com/>`_ (Ruby, SASS)
