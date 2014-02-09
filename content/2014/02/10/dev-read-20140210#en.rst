@@ -2,7 +2,7 @@
 ###########################################################################################################
 
 :date: 2014-02-10 00:30
-:tags: Linux, Embedded System, LaTeX, JavaScript, Algorithm, Go, Dart
+:tags: Linux, Embedded System, LaTeX, JavaScript, Algorithm, Go, Dart, Python
 :tags_zh_CN: Python, Linux
 :category: Dev Read
 :author: Siong-Ui Te
@@ -13,6 +13,16 @@
 
   `GIFs: 3D pictures become possible with two straight lines <http://www.wikitree.us/story/2052>`_
   (`GIF文件：3D画面成为可能的两条直线 <http://www.wikitree.cn/story/2052>`_)
+
+Python:
+
+  `Python with Braces <http://www.pythonb.org/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7207557>`__)
+
+Story:
+
+  `Flappy Bird by the Numbers <http://zachwill.com/flappy-bird/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7207506>`__)
 
 LaTeX:
 
@@ -37,6 +47,9 @@ Algorithm:
 
 Linux:
 
+  `Broken by design: systemd <http://ewontfix.com/14/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7207655>`__)
+
   `tree sed <http://blog.yjl.im/2014/02/tree-sed.html>`_
 
 Embedded System:
@@ -52,19 +65,19 @@ Website:
   `A game to learn a new language <http://babadum.com/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7207336>`__)
 
-Go in FOSDEM:
+Go:
 
-  `Go talks <https://plus.google.com/118102824679316338470/posts/VKVBLdHBZsf>`_
+  in FOSDEM:
+
+    `Go talks <https://plus.google.com/118102824679316338470/posts/VKVBLdHBZsf>`_
+
+  `Golang overtakes clojure in Goggle Trends <http://www.google.com/trends/explore#q=clojure%2C%20golang&cmpt=q>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7207716>`__)
 
 Dart:
 
   `VaDart - an Up-To-Date Dart Vagrant Box <http://www.bitfalls.com/2014/02/vadart-up-to-date-dart-vagrant-box.html>`_
   (`Google+ post <https://plus.google.com/104771776404197897488/posts/6viY6nBWwMh>`_)
-
-Story:
-
-  `Flappy Bird by the Numbers <http://zachwill.com/flappy-bird/>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7207506>`__)
 
 
 
@@ -87,4 +100,14 @@ Simplified Chinese:
     `中國400家智慧手機廠商混戰 <http://zh.cn.nikkei.com/china/ccompany/7948-20140210.html>`_
 
     `中國企業要爭奪家用遊戲機領域 <http://zh.cn.nikkei.com/china/ccompany/7954-20140210.html>`_
+
+    `微信第三方开发者该何去何从？ <http://www.oschina.net/news/48665/wechat-third-party-developer>`_
+
+    `LLVM 和 GCC 编译器开发者将开始展开合作 <http://www.oschina.net/news/48664/llvm-and-gcc>`_
+
+    `黑客可通过 JavaScript 漏洞破解谷歌眼镜 <http://www.oschina.net/news/48663/google-glass-hacked-via-javascript>`_
+
+    `Windows Phone 8.1 通知中心在谍照中现身 <http://www.oschina.net/news/48662/windows-phone-8-1-notification-center>`_
+
+    `库克：不会被 Android 击垮 <http://www.oschina.net/news/48661/tim-cook-talk-about-android>`_
 
