@@ -24,6 +24,9 @@ Info:
   `Hacker News <https://news.ycombinator.com/>`_
   (`Yet Another Hacker News Reader <http://yahnr.com/>`_)
 
+  `wikitree - social network news service <http://www.wikitree.us/>`_
+  (`中文 <http://www.wikitree.cn/>`__)
+
   `ReadWrite <http://readwrite.com/>`_
 
   `Coders Grid <http://www.codersgrid.com/>`_
