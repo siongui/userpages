@@ -14,6 +14,7 @@ Raspberry Pi & Python:
   (用Python让树莓派“说话” `1 <http://www.geekfan.net/4839/>`__)
 
   `Developer Tools in Python <http://pypix.com/tools-and-tips/developer-tools/>`_
+  (`Python程序员必知必会的开发者工具 <http://blog.jobbole.com/58226/>`_)
 
 math:
 
