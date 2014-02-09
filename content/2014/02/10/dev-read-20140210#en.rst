@@ -2,7 +2,7 @@
 ###########################################################################################################
 
 :date: 2014-02-10 00:30
-:tags: Linux, Embedded System, LaTeX, JavaScript, Algorithm
+:tags: Linux, Embedded System, LaTeX, JavaScript, Algorithm, Go, Dart
 :tags_zh_CN: Python, Linux
 :category: Dev Read
 :author: Siong-Ui Te
@@ -45,6 +45,15 @@ Website:
 
   `IPv6 domain readiness tester <http://ip6.nl/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7206193>`__)
+
+Go in FOSDEM:
+
+  `Go talks <https://plus.google.com/118102824679316338470/posts/VKVBLdHBZsf>`_
+
+Dart:
+
+  `VaDart - an Up-To-Date Dart Vagrant Box <http://www.bitfalls.com/2014/02/vadart-up-to-date-dart-vagrant-box.html>`_
+  (`Google+ post <https://plus.google.com/104771776404197897488/posts/6viY6nBWwMh>`_)
 
 
 
