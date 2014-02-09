@@ -2,7 +2,7 @@
 ###########################################################################################################
 
 :date: 2014-02-10 00:30
-:tags: Linux, LaTeX, JavaScript
+:tags: Linux, Embedded System, LaTeX, JavaScript, Algorithm
 :tags_zh_CN: Python, Linux
 :category: Dev Read
 :author: Siong-Ui Te
@@ -27,9 +27,25 @@ JavaScript:
   `Flappybird.js (divshot.io) <http://ss14-team-107.divshot.io/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7205853>`__)
 
+Algorithm:
+
+  `Counting Votes Is Hard <http://blog.forcerank.it/counting-votes-is-hard>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7206492>`__)
+
 Linux:
 
   `tree sed <http://blog.yjl.im/2014/02/tree-sed.html>`_
+
+Embedded System:
+
+  `We built a Bitcoin Keurig coffee maker this weekend <http://www.hackthebeanpot.com/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7206021>`__)
+
+Website:
+
+  `IPv6 domain readiness tester <http://ip6.nl/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7206193>`__)
+
 
 
 Simplified Chinese:
