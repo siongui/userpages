@@ -2,8 +2,8 @@
 ###########################################################################################################
 
 :date: 2014-02-10 00:30
-:tags: 
-:tags_zh_CN: 
+:tags: Linux, LaTeX, JavaScript
+:tags_zh_CN: Python, Linux
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-30
@@ -14,6 +14,41 @@
   `GIFs: 3D pictures become possible with two straight lines <http://www.wikitree.us/story/2052>`_
   (`GIF文件：3D画面成为可能的两条直线 <http://www.wikitree.cn/story/2052>`_)
 
+LaTeX:
+
+  `Tex – Show off your best scientific illustration <http://tex.stackexchange.com/questions/158668/nice-scientific-pictures-show-off>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7206572>`__)
+
+JavaScript:
+
+  `I've made an open source flappy bird clone <https://github.com/ellisonleao/clumsy-bird>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7206155>`__)
+
+  `Flappybird.js (divshot.io) <http://ss14-team-107.divshot.io/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7205853>`__)
+
+Linux:
+
+  `tree sed <http://blog.yjl.im/2014/02/tree-sed.html>`_
+
 
 Simplified Chinese:
+
+  Python:
+
+    `用Python处理视频 <http://blog.jobbole.com/58257/>`_
+
+  Linux:
+
+    `no no no. 不要使用kill -9 <http://www.aqee.net/no-no-no-dont-use-kill-9/>`_
+
+  News:
+
+    `授人以渔（可他要是钓到河豚会死的） <http://blog.jobbole.com/58281/>`_
+
+    `提升团队编码效率的10个提示 <http://www.infoq.com/cn/news/2014/02/10-tips-efficient-team-coding>`_
+
+    `中國400家智慧手機廠商混戰 <http://zh.cn.nikkei.com/china/ccompany/7948-20140210.html>`_
+
+    `中國企業要爭奪家用遊戲機領域 <http://zh.cn.nikkei.com/china/ccompany/7954-20140210.html>`_
 

@@ -12,7 +12,8 @@
 Linux:
 
   `Debian committee members vote for systemd as init system <https://lists.debian.org/debian-ctte/2014/02/msg00294.html>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7203364>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7203364>`__,
+  `Debian Technical Committee Votes For Systemd Over Upstart <http://linux.slashdot.org/story/14/02/09/1725229/debian-technical-committee-votes-for-systemd-over-upstart>`_)
 
   `Debian 7.4 Relased <http://www.debian.org/News/2014/20140208>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7205531>`__)

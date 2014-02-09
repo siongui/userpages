@@ -20,7 +20,8 @@ Interview:
 OS:
 
   `ReactOS 0.3.16 released <http://www.reactos.org/node/772>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7190481>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7190481>`__,
+  `Windows Replacement? ReactOS 0.3.16 Gets Themes, CSRSS Rewrite, and More <http://tech.slashdot.org/story/14/02/09/1945232/windows-replacement-reactos-0316-gets-themes-csrss-rewrite-and-more>`_)
 
 Random Number:
 

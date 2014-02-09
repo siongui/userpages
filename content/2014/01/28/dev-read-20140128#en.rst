@@ -54,7 +54,8 @@ Test:
 Linux:
 
   `Why not kill -9 a process? <http://unix.stackexchange.com/questions/8916/why-not-kill-9-a-process>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7135325>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7135325>`__,
+  `no no no. 不要使用kill -9 <http://www.aqee.net/no-no-no-dont-use-kill-9/>`_)
 
 Security:
 
