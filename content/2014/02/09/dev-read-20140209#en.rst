@@ -1,12 +1,41 @@
-<>, etc.
-########################################################################################
+<Debian committee members vote for systemd as init system>, <Every line of code is always documented>, etc.
+###########################################################################################################
 
 :date: 2014-02-09 20:29
-:tags: 
+:tags: Linux, Git, Bitcoin, database, Security, Machine Learning
 :tags_zh_CN: xkcd, C, Web Development, Programming, CSS, Version Control, JavaScript, Vim, Programming, Linux, Python, database, C++, Go
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-09
+
+
+Linux:
+
+  `Debian committee members vote for systemd as init system <https://lists.debian.org/debian-ctte/2014/02/msg00294.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7203364>`__)
+
+  `Debian 7.4 Relased <http://www.debian.org/News/2014/20140208>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7205531>`__)
+
+Git:
+
+  `Every line of code is always documented <http://mislav.uniqpath.com/2014/02/hidden-documentation/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7202146>`__)
+
+Bitcoin:
+
+  `Bitcoin Ponzi scheme <http://ponzi.io/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7202182>`__)
+
+database & Security:
+
+  `Total security in a PostgreSQL database <http://www.ibm.com/developerworks/library/os-postgresecurity/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7202603>`__)
+
+Machine Learning:
+
+  `The Computational Complexity of Machine Learning <https://www.cs.utexas.edu/~klivans/395t.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7205049>`__)
 
 
 
