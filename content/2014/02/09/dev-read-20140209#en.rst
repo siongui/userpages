@@ -3,7 +3,7 @@
 
 :date: 2014-02-09 20:29
 :tags: 
-:tags_zh_CN: xkcd, Web Development, JavaScript, Vim, Programming, Linux, Python, database, Go
+:tags_zh_CN: xkcd, C, Web Development, Programming, CSS, Version Control, JavaScript, Vim, Programming, Linux, Python, database, C++, Go
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-09
@@ -26,9 +26,17 @@ Simplified Chinese:
 
     `12个令人印象深刻的JavaScript和HTML5的内容呈现框架 <http://www.oschina.net/translate/best-javascript-html5-presentation-frameworks>`_
 
+    `计算时间间隔 <http://www.oschina.net/code/snippet_151849_33079>`_
+
+    `仿mac os 导航栏，值得一看 <http://www.oschina.net/code/snippet_164404_33082>`_
+
   JavaScript:
 
     `使用CucumberJS，让JavaScript与行为驱动开发结合 <http://www.infoq.com/cn/news/2014/02/bdd-cucumberjs>`_
+
+  CSS:
+
+    `[原创]纯css模拟ios7开关 <http://www.oschina.net/code/snippet_1029305_33081>`_
 
   Vim:
 
@@ -67,6 +75,14 @@ Simplified Chinese:
 
     `golang的调用shell的库 go-sh <http://www.oschina.net/p/go-sh>`_
 
+  C:
+
+    `将输入中的制表符替换为适当数目的空格 <http://www.oschina.net/code/snippet_1166431_33085>`_
+
+  C++:
+
+    `堆得基本操作 <http://www.oschina.net/code/snippet_1019031_33077>`_
+
   News:
 
     `IDC研究报告：究竟有多少软件开发人员？ <http://www.infoq.com/cn/news/2014/02/IDC-software-developers>`_
@@ -102,4 +118,16 @@ Simplified Chinese:
     `DARPA 公开一系列软件源代码 <http://www.oschina.net/news/48646/darpa-open-catalog>`_
 
     `2013 年 Linux 周刊读者投票出炉 Ubuntu、Android 榜上有名 <http://www.oschina.net/news/48644/2013-linux-journal-survey-results>`_
+
+    `越南奇葩小鸟游戏《Flappy Bird》一夜爆红 <http://www.geekfan.net/6069/>`_
+
+    `英国公司打造出全球首款3D打印自行车钛车架 <http://www.geekfan.net/6061/>`_
+
+    `中本和新矿 <http://tech2ipo.com/63307>`_
+
+    `不要再劝微软入Android坑了 <http://tech2ipo.com/63310>`_
+
+    `通过翻译技术博客学习的一些体会 <http://blog.jobbole.com/58672/>`_
+
+    `视频演讲： 问题驱动、结合实际--平安保险IT团队的敏捷转型的经验与反思 <http://www.infoq.com/cn/presentations/experience-and-reflection-of-agile-transition-in-pingan-insurance-it-team>`_
 
