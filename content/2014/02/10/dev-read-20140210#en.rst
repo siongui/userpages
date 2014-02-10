@@ -1,8 +1,8 @@
-<>, etc.
-###########################################################################################################
+<3D pictures become possible with two straight lines>, <Godot Engine open sourced>, <Show off your best scientific illustration>, <Contact Us>, <flappy bird clone>, etc.
+#########################################################################################################################################################################
 
 :date: 2014-02-10 00:30
-:tags: Linux, Embedded System, LaTeX, JavaScript, Algorithm, Go, Dart, Python
+:tags: Linux, Embedded System, LaTeX, JavaScript, Algorithm, Go, Dart, Python, Vim, C, Game, Random Number, Git
 :tags_zh_CN: Python, Web Development, Linux, Security, Search, Shell, Java, Assembly, Machine Learning, CSS, JavaScript
 :category: Dev Read
 :author: Siong-Ui Te
@@ -14,15 +14,10 @@
   `GIFs: 3D pictures become possible with two straight lines <http://www.wikitree.us/story/2052>`_
   (`GIF文件：3D画面成为可能的两条直线 <http://www.wikitree.cn/story/2052>`_)
 
-Python:
+Game:
 
-  `Python with Braces <http://www.pythonb.org/>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7207557>`__)
-
-Story:
-
-  `Flappy Bird by the Numbers <http://zachwill.com/flappy-bird/>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7207506>`__)
+  `Godot Engine open sourced <http://www.godotengine.org/wp/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7209149>`__)
 
 LaTeX:
 
@@ -31,19 +26,30 @@ LaTeX:
 
 JavaScript:
 
+  `Contact Us <http://contact.darkigloo.com/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7207526>`__)
+
   `I've made an open source flappy bird clone <https://github.com/ellisonleao/clumsy-bird>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7206155>`__)
 
   `Flappybird.js (divshot.io) <http://ss14-team-107.divshot.io/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7205853>`__)
 
-  `Contact Us <http://contact.darkigloo.com/>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7207526>`__)
+  `Flappy Bird Typing Tutor <http://www.mrspeaker.net/dev/game/flappy>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7210459>`__)
+
+Random Number:
+
+  `When Random Isn't Random Enough: Lessons from an Online Poker Exploit  <http://www.lauradhamilton.com/random-lessons-online-poker-exploit>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7207851>`__)
 
 Algorithm:
 
   `Counting Votes Is Hard <http://blog.forcerank.it/counting-votes-is-hard>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7206492>`__)
+
+  `Ask HN: Decode Youtube 500 page <https://news.ycombinator.com/item?id=7210750>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7210750>`__)
 
 Linux:
 
@@ -51,6 +57,19 @@ Linux:
   (`HN discuss <https://news.ycombinator.com/item?id=7207655>`__)
 
   `tree sed <http://blog.yjl.im/2014/02/tree-sed.html>`_
+
+Python:
+
+  `Python with Braces <http://www.pythonb.org/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7207557>`__)
+
+  `PyPy status: Rewrites of the STM core model – again <http://morepypy.blogspot.com/2014/02/rewrites-of-stm-core-model-again.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7211469>`__)
+
+Story:
+
+  `Flappy Bird by the Numbers <http://zachwill.com/flappy-bird/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7207506>`__)
 
 Embedded System:
 
@@ -84,6 +103,26 @@ Dart:
 
   `VaDart - an Up-To-Date Dart Vagrant Box <http://www.bitfalls.com/2014/02/vadart-up-to-date-dart-vagrant-box.html>`_
   (`Google+ post <https://plus.google.com/104771776404197897488/posts/6viY6nBWwMh>`_)
+
+Stack Overflow:
+
+  `The Anatomy of a Great Stack Overflow Question (After Analyzing 10,000) <http://www.takipioncode.com/2014/02/03/the-anatomy-of-a-great-stack-overflow-question-after-analyzing-10000/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7211162>`__)
+
+Vim:
+
+  `A Vim Tutorial and Primer <http://www.danielmiessler.com/study/vim>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7210718>`__)
+
+C:
+
+  `"there is a substantial gap between the capabilities of hardware and C" <http://accu.org/index.php/journals/1849>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7210025>`__)
+
+Git:
+
+  `Announcing gitsh <http://robots.thoughtbot.com/announcing-gitsh>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7210230>`__)
 
 
 

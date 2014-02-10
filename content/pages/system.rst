@@ -44,6 +44,8 @@ blog:
   (A mixed bag of articles on programming (C, C++, shell and others); operating systems (FreeBSD and NetBSD); software packaging (pkgsrc); software testing (Kyua); and open source in general.
   By Julio Merino.)
 
+  `Inconsolation | Adventures with lightweight and minimalist software for Linux <http://inconsolation.wordpress.com/>`_
+
   security:
 
     `www.secalert.net <http://www.secalert.net/>`_
