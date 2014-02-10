@@ -96,6 +96,8 @@ Simplified Chinese:
 
     `python匹配行的下一行 <http://www.oschina.net/question/1395186_143046>`_
 
+    `python解决全排列数字的问题。 <http://www.oschina.net/code/snippet_1448389_33116>`_
+
   Linux:
 
     `no no no. 不要使用kill -9 <http://www.aqee.net/no-no-no-dont-use-kill-9/>`_
@@ -106,11 +108,21 @@ Simplified Chinese:
 
     `LINUX目录结构 <http://my.oschina.net/shupeng/blog/198275>`_
 
+    `Debian技术委员会倾向采用Systemd <http://www.solidot.org/story?sid=38265>`_
+
+    `Linux服务器性能评估 <http://blog.jobbole.com/58714/>`_
+
   Security:
 
     `从“黑掉Github”学习Web安全开发 <http://coolshell.cn/articles/11021.html>`_
 
     `黑客可通过 JavaScript 漏洞破解谷歌眼镜 <http://www.oschina.net/news/48663/google-glass-hacked-via-javascript>`_
+
+    `iOS安全攻防（二）：后台daemon非法窃取用户iTunesstore信息 <http://blog.jobbole.com/58771/>`_
+
+    `iOS安全攻防（三）：使用Reveal分析他人app <http://blog.jobbole.com/58783/>`_
+
+    `我是如何失去价值 5 万美元的Twitter用户名 <http://blog.jobbole.com/58761/>`_
 
   Search:
 
@@ -130,6 +142,8 @@ Simplified Chinese:
 
     `JVM学习笔记之三：垃圾回收算法 <http://my.oschina.net/u/1268144/blog/198347>`_
 
+    `Treap 的基本操作 <http://www.oschina.net/code/snippet_1019031_33122>`_ (C++)
+
   Shell:
 
     `在原来时间的基础上加上一天！ <http://my.oschina.net/guomingliang/blog/198293>`_
@@ -139,6 +153,8 @@ Simplified Chinese:
     `Google Java编程风格指南 <http://my.oschina.net/gds/blog/198284>`_
 
     `译-final keyword in Java <http://my.oschina.net/u/615444/blog/198349>`_
+
+    `常见面试题，3个线程依次打印ABC <http://www.oschina.net/code/snippet_818707_33119>`_
 
   Assembly:
 
@@ -152,6 +168,8 @@ Simplified Chinese:
 
       `斯诺登仅用“网络爬虫”软件获取机密文件 <http://www.csdn.net/article/2014-02-10/2818346-Edward-Snowden-NSA-web-crawler-security>`_
 
+      `斯诺登用爬虫窃取NSA服务器数据 <http://blog.jobbole.com/58730/>`_
+
     Flappy Bird:
 
       `Flappy Bird开发者下架游戏 <http://www.solidot.org/story?sid=38270>`_
@@ -164,11 +182,21 @@ Simplified Chinese:
 
       `TIOBE 2014年2月编程语言排行榜：VB.NET首次进入TOP 10 <http://www.csdn.net/article/2014-02-10/2818339-TIOBE-Index-for-February-2014>`_
 
+      `2014年2月TIOBE编程语言排行榜，VB.NET首次进入前十 <http://blog.jobbole.com/58913/>`_
+
+    Mobile:
+
+      `中國400家智慧手機廠商混戰 <http://zh.cn.nikkei.com/china/ccompany/7948-20140210.html>`_
+
+      `库克：不会被 Android 击垮 <http://www.oschina.net/news/48661/tim-cook-talk-about-android>`_
+
+      `中國低價手機走進世界已不遙遠 <http://zh.cn.nikkei.com/china/ccompany/7951-20140210.html>`_
+
+      `全球开发者：iOS、Android、WP哪个最赚钱？ <http://www.csdn.net/article/2014-02-08/2818337-developer-economics-q1-2014>`_
+
     `授人以渔（可他要是钓到河豚会死的） <http://blog.jobbole.com/58281/>`_
 
     `提升团队编码效率的10个提示 <http://www.infoq.com/cn/news/2014/02/10-tips-efficient-team-coding>`_
-
-    `中國400家智慧手機廠商混戰 <http://zh.cn.nikkei.com/china/ccompany/7948-20140210.html>`_
 
     `中國企業要爭奪家用遊戲機領域 <http://zh.cn.nikkei.com/china/ccompany/7954-20140210.html>`_
 
@@ -178,13 +206,7 @@ Simplified Chinese:
 
     `Windows Phone 8.1 通知中心在谍照中现身 <http://www.oschina.net/news/48662/windows-phone-8-1-notification-center>`_
 
-    `库克：不会被 Android 击垮 <http://www.oschina.net/news/48661/tim-cook-talk-about-android>`_
-
     `索尼抛售PC业务：内忧外患导致全面退出 <http://www.csdn.net/article/2014-02-09/2818338-sony-sell-pc-business-JIP>`_
-
-    `中國低價手機走進世界已不遙遠 <http://zh.cn.nikkei.com/china/ccompany/7951-20140210.html>`_
-
-    `Debian技术委员会倾向采用Systemd <http://www.solidot.org/story?sid=38265>`_
 
     `记者访问被搜索引擎索引的内部文件，被罚3000欧元 <http://www.solidot.org/story?sid=38274>`_
 
@@ -198,8 +220,6 @@ Simplified Chinese:
 
     `陌生的编程任务，该拿你怎么办？ <http://www.csdn.net/article/2014-02-10/2818349-questions-how-do-you-face-a-programming-task-that-youve-never-done-before>`_
 
-    `全球开发者：iOS、Android、WP哪个最赚钱？ <http://www.csdn.net/article/2014-02-08/2818337-developer-economics-q1-2014>`_
-
     `HBase写数据过程 <http://www.csdn.net/article/2014-01-27/2818283>`_
 
     `专访李神龙：一个大三学生的CTO之路 <http://www.csdn.net/article/2014-01-24/2818266>`_
@@ -209,4 +229,8 @@ Simplified Chinese:
     `你会开枪打下邻居的无人机吗？ <http://www.csdn.net/article/2014-02-10/2818343-Would-You-Shoot-Your-Neighbor's-Drone>`_
 
     `慧正通软技术副总裁：工作流引擎厂商的生存之道 <http://www.csdn.net/article/2014-02-10/2818342-huizhengtech-interview>`_
+
+    `对联合创始人尽职调查的重要性 <http://blog.jobbole.com/58721/>`_
+
+    `20 个强大的 Sublime Text 插件 <http://blog.jobbole.com/58725/>`_
 
