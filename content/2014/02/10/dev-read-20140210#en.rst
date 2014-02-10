@@ -3,7 +3,7 @@
 
 :date: 2014-02-10 00:30
 :tags: Linux, Embedded System, LaTeX, JavaScript, Algorithm, Go, Dart, Python
-:tags_zh_CN: Python, Linux, Security
+:tags_zh_CN: Python, Web Development, Linux, Security, Search, Shell, Java, Assembly
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-30
@@ -90,15 +90,79 @@ Simplified Chinese:
 
     `用Python处理视频 <http://blog.jobbole.com/58257/>`_
 
+    `python计算两个日期的差 <http://my.oschina.net/u/861483/blog/198295>`_
+
+    `python 如何计算时间差 <http://my.oschina.net/u/1032854/blog/198286>`_
+
+    `python匹配行的下一行 <http://www.oschina.net/question/1395186_143046>`_
+
   Linux:
 
     `no no no. 不要使用kill -9 <http://www.aqee.net/no-no-no-dont-use-kill-9/>`_
+
+    `Rsyslog配置文件详解 <http://my.oschina.net/0757/blog/198329>`_
+
+    `dialog-inux图形界面工具浅尝 <http://my.oschina.net/sanpeterguo/blog/198307>`_
+
+    `LINUX目录结构 <http://my.oschina.net/shupeng/blog/198275>`_
 
   Security:
 
     `从“黑掉Github”学习Web安全开发 <http://coolshell.cn/articles/11021.html>`_
 
+    `黑客可通过 JavaScript 漏洞破解谷歌眼镜 <http://www.oschina.net/news/48663/google-glass-hacked-via-javascript>`_
+
+  Search:
+
+    `如何搭建一个站内搜索引擎(一) 第1章 写在最前 <http://my.oschina.net/u/210055/blog/198321>`_
+
+  Web Development:
+
+    `移动平台的meta标签-----神奇的功效 <http://my.oschina.net/u/1392382/blog/198302>`_
+
+    `通过Jsonp从中国天气网跨域获取天气预报信息 <http://my.oschina.net/vipo/blog/198272>`_
+
+    `Bootstrap用户界面架构视频教程 <http://my.oschina.net/u/820161/blog/198182>`_
+
+    `推荐15款响应式Web设计测试工具 <http://www.csdn.net/article/2014-02-10/2818344-Best-Responsive-Web-Design-Testing-Tools>`_
+
+  Algorithm:
+
+    `JVM学习笔记之三：垃圾回收算法 <http://my.oschina.net/u/1268144/blog/198347>`_
+
+  Shell:
+
+    `在原来时间的基础上加上一天！ <http://my.oschina.net/guomingliang/blog/198293>`_
+
+  Java:
+
+    `Google Java编程风格指南 <http://my.oschina.net/gds/blog/198284>`_
+
+    `译-final keyword in Java <http://my.oschina.net/u/615444/blog/198349>`_
+
+  Assembly:
+
+    `NASM学习之Windows下编写16位程序 <http://my.oschina.net/acmfly/blog/198255>`_
+
   News:
+
+    NSA:
+
+      `Snowden用爬虫扫描NSA网络 <http://www.solidot.org/story?sid=38273>`_
+
+      `斯诺登仅用“网络爬虫”软件获取机密文件 <http://www.csdn.net/article/2014-02-10/2818346-Edward-Snowden-NSA-web-crawler-security>`_
+
+    Flappy Bird:
+
+      `Flappy Bird开发者下架游戏 <http://www.solidot.org/story?sid=38270>`_
+
+      `Flappy Bird不再“飞翔”后，还剩下什么？ <http://www.csdn.net/article/2014-02-10/2818341-flappy-bird-pulled-from-app-stores>`_
+
+      `嚓嚓嚓嚓：虐心的Flappy Bird今日终于下架 <http://www.csdn.net/article/2014-02-10/2818340-flappy-bird-down>`_
+
+    TIOBE:
+
+      `TIOBE 2014年2月编程语言排行榜：VB.NET首次进入TOP 10 <http://www.csdn.net/article/2014-02-10/2818339-TIOBE-Index-for-February-2014>`_
 
     `授人以渔（可他要是钓到河豚会死的） <http://blog.jobbole.com/58281/>`_
 
@@ -112,8 +176,6 @@ Simplified Chinese:
 
     `LLVM 和 GCC 编译器开发者将开始展开合作 <http://www.oschina.net/news/48664/llvm-and-gcc>`_
 
-    `黑客可通过 JavaScript 漏洞破解谷歌眼镜 <http://www.oschina.net/news/48663/google-glass-hacked-via-javascript>`_
-
     `Windows Phone 8.1 通知中心在谍照中现身 <http://www.oschina.net/news/48662/windows-phone-8-1-notification-center>`_
 
     `库克：不会被 Android 击垮 <http://www.oschina.net/news/48661/tim-cook-talk-about-android>`_
@@ -121,4 +183,30 @@ Simplified Chinese:
     `索尼抛售PC业务：内忧外患导致全面退出 <http://www.csdn.net/article/2014-02-09/2818338-sony-sell-pc-business-JIP>`_
 
     `中國低價手機走進世界已不遙遠 <http://zh.cn.nikkei.com/china/ccompany/7951-20140210.html>`_
+
+    `Debian技术委员会倾向采用Systemd <http://www.solidot.org/story?sid=38265>`_
+
+    `记者访问被搜索引擎索引的内部文件，被罚3000欧元 <http://www.solidot.org/story?sid=38274>`_
+
+    `一起大数据引发的事故 <http://www.solidot.org/story?sid=38268>`_
+
+    `更快、更强——解析Hadoop新一代MapReduce框架Yarn <http://www.csdn.net/article/2014-02-10/2818355>`_
+
+    `高薪利器：四大热门云计算认证推荐 <http://www.csdn.net/article/2014-02-10/2818352-Cloud-Certifications-CompTIA-IBM>`_
+
+    `开源世界应该致谢的五家公司 Square、LinkedIn、Google... <http://www.csdn.net/article/2014-02-10/2818351-open-source-5-companies-code-projects>`_
+
+    `陌生的编程任务，该拿你怎么办？ <http://www.csdn.net/article/2014-02-10/2818349-questions-how-do-you-face-a-programming-task-that-youve-never-done-before>`_
+
+    `全球开发者：iOS、Android、WP哪个最赚钱？ <http://www.csdn.net/article/2014-02-08/2818337-developer-economics-q1-2014>`_
+
+    `HBase写数据过程 <http://www.csdn.net/article/2014-01-27/2818283>`_
+
+    `专访李神龙：一个大三学生的CTO之路 <http://www.csdn.net/article/2014-01-24/2818266>`_
+
+    `回归魅族：黄章重任CEO MX3降至1999元 <http://www.csdn.net/article/2014-02-10/2818345>`_
+
+    `你会开枪打下邻居的无人机吗？ <http://www.csdn.net/article/2014-02-10/2818343-Would-You-Shoot-Your-Neighbor's-Drone>`_
+
+    `慧正通软技术副总裁：工作流引擎厂商的生存之道 <http://www.csdn.net/article/2014-02-10/2818342-huizhengtech-interview>`_
 
