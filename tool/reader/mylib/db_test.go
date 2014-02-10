@@ -17,31 +17,13 @@ func TestDbAll(t *testing.T) {
 	defer db.Close()
 
 	createSitesTable(db)
-	t.Log("create table in test db: OK!")
+	t.Log("create sites table in test db: OK!")
 
-	// insert data into test db
-	sql_additem := `
-	INSERT INTO sites(
-		XmlUrl,
-		Title,
-		Type,
-		Text,
-		HtmlUrl,
-		Favicon
-	) values(?, ?, ?, ?, ?, ?)
-	`
-
-	stmt, err2 := db.Prepare(sql_additem)
-	if err2 != nil { panic(err2) }
-	defer stmt.Close()
-
+	// insert sites data into test db
 	const filepath = "Feeder_test.opml"
 	siteList := GetOutlineList(filepath)
-	for _, site := range siteList {
-		_, err3 := stmt.Exec(site.XmlUrl, site.Title, site.Type,
-				site.Text, site.HtmlUrl, site.Favicon)
-		if err3 != nil { panic(err3) }
-	}
+	storeSites(db, siteList)
+	t.Log("store sites table in test db: OK!")
 
 	// test readSites
 	sites := readSites(db)

@@ -37,6 +37,29 @@ func createSitesTable(db *sql.DB) {
 	if err != nil { panic(err) }
 }
 
+func storeSites(db *sql.DB, sites []OpmlOutline) {
+	sql_additem := `
+	INSERT INTO sites(
+		XmlUrl,
+		Title,
+		Type,
+		Text,
+		HtmlUrl,
+		Favicon
+	) values(?, ?, ?, ?, ?, ?)
+	`
+
+	stmt, err := db.Prepare(sql_additem)
+	if err != nil { panic(err) }
+	defer stmt.Close()
+
+	for _, site := range sites {
+		_, err2 := stmt.Exec(site.XmlUrl, site.Title, site.Type,
+				site.Text, site.HtmlUrl, site.Favicon)
+		if err2 != nil { panic(err2) }
+	}
+}
+
 func readSites(db *sql.DB) []OpmlOutline {
 	sql_readall := `
 	SELECT XmlUrl, Title, Type, Text, HtmlUrl, Favicon FROM sites
