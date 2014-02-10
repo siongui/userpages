@@ -1,23 +1,45 @@
-<Bill Gates: AMA on Reddit>, etc.
+<Facebook Fraud>, <Bill Gates: AMA on Reddit>, etc.
 ########################################################################################################
 
 :date: 2014-02-11 01:40
-:tags: CSS, Reddit, JavaScript, Linux, Algorithm
+:tags: CSS, Reddit, JavaScript, Linux, Algorithm, Lisp, Security, Shell, Python
 :tags_zh_CN: Python, Embedded System, database, Security, Web Development, Java
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-11
 
 
+Facebook:
+
+  `Facebook Fraud [video] <http://www.youtube.com/watch?v=oVfHeWTKjag>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7211514>`__)
+
 Reddit:
 
   `Bill Gates: AMA on Reddit <http://www.reddit.com/r/IAmA/comments/1xj56q/hello_reddit_im_bill_gates_cochair_of_the_bill/#b02g10f20b14>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7212226>`__)
 
-Facebook:
+Linux:
 
-  `Facebook Fraud [video] <http://www.youtube.com/watch?v=oVfHeWTKjag>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7211514>`__)
+  `Things We Forgot to Monitor <http://word.bitly.com/post/74839060954/ten-things-to-monitor?h=2>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7212935>`__)
+
+  `GNU Hurd Gets Improvements: User-Space Driver Support and More <http://news.slashdot.org/story/14/02/10/1732223/gnu-hurd-gets-improvements-user-space-driver-support-and-more>`_
+
+Lisp:
+
+  `Common Lisp in the 21st Century <https://github.com/fukamachi/cl21>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7212859>`__)
+
+Security:
+
+  `How I hacked Instagram to see private photos <http://insertco.in/2014/02/10/how-i-hacked-instagram/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7212376>`__)
+
+Shell:
+
+  `hr for your terminal <https://github.com/LuRsT/hr>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7213347>`__)
 
 Algorithm:
 
@@ -32,19 +54,26 @@ CSS:
 
   `CSS3 Hidden Social Buttons <http://scotch.io/tutorials/css/css3-hidden-social-buttons>`_
 
-Linux:
-
-  `GNU Hurd Gets Improvements: User-Space Driver Support and More <http://news.slashdot.org/story/14/02/10/1732223/gnu-hurd-gets-improvements-user-space-driver-support-and-more>`_
-
 Show HN:
 
   `Show HN: Guipedia – clone, program, and execute in the browser <https://guipedia.com/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7211744>`__)
 
+  `Show HN: Automatic feedback on improving your PowerPoint slides <http://sketch-deck.com/rater>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7212547>`__)
+
 Website:
 
   `Hitlist, a Smart Flight Finder That Saves You Money by Telling You When To Fly <http://techcrunch.com/2014/02/07/hitlist-a-smarter-flight-finder-that-saves-you-money-by-telling-you-when-to-fly-exits-beta/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7212176>`__)
+
+  `Boromir Death Simulator (toolness.org) <http://boromir.toolness.org/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7213138>`__)
+
+Python:
+
+  `Cleaning Data and Graphing in R and Python <http://climateecology.wordpress.com/2014/02/10/a-side-by-side-example-of-r-and-python/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7212099>`__)
 
 
 
