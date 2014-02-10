@@ -2,7 +2,7 @@
 ########################################################################################################
 
 :date: 2014-02-11 01:40
-:tags: CSS, Reddit, JavaScript, Linux, Algorithm, Lisp, Security, Shell, Python
+:tags: CSS, Reddit, JavaScript, Linux, Algorithm, Lisp, Security, Shell, Python, Github
 :tags_zh_CN: Python, Embedded System, database, Security, Web Development, Java
 :category: Dev Read
 :author: Siong-Ui Te
@@ -74,6 +74,14 @@ Python:
 
   `Cleaning Data and Graphing in R and Python <http://climateecology.wordpress.com/2014/02/10/a-side-by-side-example-of-r-and-python/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7212099>`__)
+
+Github:
+
+  `GitHub goes to school <https://github.com/blog/1775-github-goes-to-school>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7213741>`__)
+
+  `Github People You Know <https://github.com/blog/1777-people-you-know>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7214084>`__)
 
 
 
