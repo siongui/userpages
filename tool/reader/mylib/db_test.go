@@ -16,19 +16,7 @@ func TestDbAll(t *testing.T) {
 	db := InitDB(dbpath)
 	defer db.Close()
 
-	sql_table := `
-	CREATE TABLE sites(
-		XmlUrl TEXT NOT NULL PRIMARY KEY,
-		Title TEXT,
-		Type TEXT,
-		Text TEXT,
-		HtmlUrl TEXT,
-		Favicon TEXT
-	);
-	`
-
-	_, err := db.Exec(sql_table)
-	if err != nil { panic(err) }
+	createSitesTable(db)
 	t.Log("create table in test db: OK!")
 
 	// insert data into test db

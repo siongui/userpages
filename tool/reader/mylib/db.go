@@ -21,6 +21,22 @@ func InitDB(filepath string) *sql.DB {
 	return db
 }
 
+func createSitesTable(db *sql.DB) {
+	sql_table := `
+	CREATE TABLE sites(
+		XmlUrl TEXT NOT NULL PRIMARY KEY,
+		Title TEXT,
+		Type TEXT,
+		Text TEXT,
+		HtmlUrl TEXT,
+		Favicon TEXT
+	);
+	`
+
+	_, err := db.Exec(sql_table)
+	if err != nil { panic(err) }
+}
+
 func readSites(db *sql.DB) []OpmlOutline {
 	sql_readall := `
 	SELECT XmlUrl, Title, Type, Text, HtmlUrl, Favicon FROM sites
