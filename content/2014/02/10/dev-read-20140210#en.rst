@@ -6,7 +6,7 @@
 :tags_zh_CN: Python, Web Development, Linux, Security, Search, Shell, Java, Assembly, Machine Learning, CSS, JavaScript
 :category: Dev Read
 :author: Siong-Ui Te
-:summary: English and Chinese Daily Dev Read #2014-02-30
+:summary: English and Chinese Daily Dev Read #2014-02-10
 
 
 3D Picture:
