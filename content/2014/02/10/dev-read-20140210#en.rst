@@ -3,7 +3,7 @@
 
 :date: 2014-02-10 00:30
 :tags: Linux, Embedded System, LaTeX, JavaScript, Algorithm, Go, Dart, Python
-:tags_zh_CN: Python, Linux
+:tags_zh_CN: Python, Linux, Security
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-30
@@ -65,6 +65,9 @@ Website:
   `A game to learn a new language <http://babadum.com/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7207336>`__)
 
+  `Google turns on "Download Gmail Archive" feature <https://www.google.com/settings/takeout>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7203797>`__)
+
 Go:
 
   in FOSDEM:
@@ -91,6 +94,10 @@ Simplified Chinese:
 
     `no no no. 不要使用kill -9 <http://www.aqee.net/no-no-no-dont-use-kill-9/>`_
 
+  Security:
+
+    `从“黑掉Github”学习Web安全开发 <http://coolshell.cn/articles/11021.html>`_
+
   News:
 
     `授人以渔（可他要是钓到河豚会死的） <http://blog.jobbole.com/58281/>`_
@@ -110,4 +117,8 @@ Simplified Chinese:
     `Windows Phone 8.1 通知中心在谍照中现身 <http://www.oschina.net/news/48662/windows-phone-8-1-notification-center>`_
 
     `库克：不会被 Android 击垮 <http://www.oschina.net/news/48661/tim-cook-talk-about-android>`_
+
+    `索尼抛售PC业务：内忧外患导致全面退出 <http://www.csdn.net/article/2014-02-09/2818338-sony-sell-pc-business-JIP>`_
+
+    `中國低價手機走進世界已不遙遠 <http://zh.cn.nikkei.com/china/ccompany/7951-20140210.html>`_
 
