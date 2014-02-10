@@ -12,7 +12,8 @@
 Machine Learning:
 
   `Stanford Scientists Put Free Text-Analysis Tool on the Web <http://engineering.stanford.edu/research-profile/stanford-scientists-put-free-text-analysis-tool-web>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7190905>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7190905>`__,
+  `斯坦福大学发布免费在线文本分析工具 <http://www.infoq.com/cn/news/2014/02/stanford-free-text-analysis-tool>`_)
 
 Web Development:
 

@@ -3,7 +3,7 @@
 
 :date: 2014-02-10 00:30
 :tags: Linux, Embedded System, LaTeX, JavaScript, Algorithm, Go, Dart, Python
-:tags_zh_CN: Python, Web Development, Linux, Security, Search, Shell, Java, Assembly
+:tags_zh_CN: Python, Web Development, Linux, Security, Search, Shell, Java, Assembly, Machine Learning, CSS, JavaScript
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-30
@@ -68,6 +68,9 @@ Website:
   `Google turns on "Download Gmail Archive" feature <https://www.google.com/settings/takeout>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7203797>`__)
 
+  `Show HN: The Sochi 2014 medal count ordered by population (gflandre.com) <http://gflandre.com/olympics/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7211254>`__)
+
 Go:
 
   in FOSDEM:
@@ -97,6 +100,12 @@ Simplified Chinese:
     `python匹配行的下一行 <http://www.oschina.net/question/1395186_143046>`_
 
     `python解决全排列数字的问题。 <http://www.oschina.net/code/snippet_1448389_33116>`_
+
+    `回答贴吧上2个习题 <http://www.oschina.net/code/snippet_1448389_33115>`_
+
+    `python爬虫_采集联想词代码 <http://www.oschina.net/code/snippet_1448389_33100>`_
+
+    `剪刀石头布习题 <http://www.oschina.net/code/snippet_1448389_33098>`_
 
   Linux:
 
@@ -138,6 +147,14 @@ Simplified Chinese:
 
     `推荐15款响应式Web设计测试工具 <http://www.csdn.net/article/2014-02-10/2818344-Best-Responsive-Web-Design-Testing-Tools>`_
 
+    JavaScript:
+
+      `JS在web页面显示当前时间，包含年月日，时分秒的显示以及星期 <http://www.oschina.net/code/snippet_1242747_33095>`_
+
+    CSS:
+
+      `CSS  实现按钮及线呼吸灯效果 <http://www.oschina.net/code/snippet_1045532_33099>`_
+
   Algorithm:
 
     `JVM学习笔记之三：垃圾回收算法 <http://my.oschina.net/u/1268144/blog/198347>`_
@@ -147,6 +164,8 @@ Simplified Chinese:
   Shell:
 
     `在原来时间的基础上加上一天！ <http://my.oschina.net/guomingliang/blog/198293>`_
+
+    `快速定位 当前目录的子目录 或者 文件 <http://www.oschina.net/code/snippet_1432838_33102>`_
 
   Java:
 
@@ -159,6 +178,14 @@ Simplified Chinese:
   Assembly:
 
     `NASM学习之Windows下编写16位程序 <http://my.oschina.net/acmfly/blog/198255>`_
+
+  Tcl/Tk:
+
+    `数学：斐波那契数列 <http://www.oschina.net/code/snippet_1447395_33110>`_
+
+  Machine Learning:
+
+    `斯坦福大学发布免费在线文本分析工具 <http://www.infoq.com/cn/news/2014/02/stanford-free-text-analysis-tool>`_
 
   News:
 
@@ -178,11 +205,15 @@ Simplified Chinese:
 
       `嚓嚓嚓嚓：虐心的Flappy Bird今日终于下架 <http://www.csdn.net/article/2014-02-10/2818340-flappy-bird-down>`_
 
+      `最欠游戏Flappy Bird已下架 <http://tech2ipo.com/63313>`_
+
     TIOBE:
 
       `TIOBE 2014年2月编程语言排行榜：VB.NET首次进入TOP 10 <http://www.csdn.net/article/2014-02-10/2818339-TIOBE-Index-for-February-2014>`_
 
       `2014年2月TIOBE编程语言排行榜，VB.NET首次进入前十 <http://blog.jobbole.com/58913/>`_
+
+      `2014年2月 TIOBE 编程语言排行榜单 <http://www.oschina.net/news/48690/2014-2-tiobe>`_
 
     Mobile:
 
@@ -233,4 +264,12 @@ Simplified Chinese:
     `对联合创始人尽职调查的重要性 <http://blog.jobbole.com/58721/>`_
 
     `20 个强大的 Sublime Text 插件 <http://blog.jobbole.com/58725/>`_
+
+    `垃圾收集器 bdwgc <http://www.oschina.net/p/bdwgc>`_
+
+    `文章： “数据驱动生活，算法统治世界”——QCon北京2014专题出品人吴甘沙专访 <http://www.infoq.com/cn/articles/qconbeijing2014-wugansha-interview>`_
+
+    `视频演讲： 又拍云存储外围CDN剖析 <http://www.infoq.com/cn/presentations/peripheral-cdn-analysis-of-youpai-cloud-storage>`_
+
+    `Quora或将试水答案中添加广告 <http://tech2ipo.com/63316>`_
 
