@@ -1,13 +1,23 @@
-<>, etc.
+<Bill Gates: AMA on Reddit>, etc.
 ########################################################################################################
 
 :date: 2014-02-11 01:40
-:tags: CSS, JavaScript, Linux, Algorithm
+:tags: CSS, Reddit, JavaScript, Linux, Algorithm
 :tags_zh_CN: Python, Embedded System, database, Security, Web Development, Java
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-11
 
+
+Reddit:
+
+  `Bill Gates: AMA on Reddit <http://www.reddit.com/r/IAmA/comments/1xj56q/hello_reddit_im_bill_gates_cochair_of_the_bill/#b02g10f20b14>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7212226>`__)
+
+Facebook:
+
+  `Facebook Fraud [video] <http://www.youtube.com/watch?v=oVfHeWTKjag>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7211514>`__)
 
 Algorithm:
 
@@ -30,6 +40,11 @@ Show HN:
 
   `Show HN: Guipedia – clone, program, and execute in the browser <https://guipedia.com/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7211744>`__)
+
+Website:
+
+  `Hitlist, a Smart Flight Finder That Saves You Money by Telling You When To Fly <http://techcrunch.com/2014/02/07/hitlist-a-smarter-flight-finder-that-saves-you-money-by-telling-you-when-to-fly-exits-beta/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7212176>`__)
 
 
 
