@@ -3,7 +3,7 @@
 
 :date: 2014-02-11 01:40
 :tags: CSS, Reddit, JavaScript, Linux, Algorithm, Lisp, Security, Shell, Python, Github, Go
-:tags_zh_CN: Python, Embedded System, database, Security, Web Development, Java, Vim, Go, C, C++, Android, Linux,  JavaScript, Hadoop, CSS, Compiler, iOS, Search, Algorithm
+:tags_zh_CN: Python, Embedded System, database, Security, Web Development, Java, Vim, Go, C, C++, Android, Linux,  JavaScript, Hadoop, CSS, Compiler, iOS, Search, Algorithm, Ruby
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-11
@@ -105,11 +105,17 @@ Simplified Chinese:
 
     `python 练习一 <http://my.oschina.net/pliot/blog/198692>`_
 
+    `dnspod动态dns更新 <http://www.oschina.net/code/snippet_657813_33144>`_
+
+    `chrome firefox 哪个浏览器开着就用哪个浏览器打开网页 <http://www.oschina.net/code/snippet_870108_33138>`_
+
   C:
 
     `C双向循环链表 <http://my.oschina.net/acikee/blog/198478>`_
 
     `C Base系列之 贪吃蛇 <http://my.oschina.net/Cu1Cuu2/blog/198696>`_
+
+    `各大操作系统的宏定义 <http://www.oschina.net/code/snippet_106588_33135>`_
 
   C++:
 
@@ -142,6 +148,8 @@ Simplified Chinese:
     `MySQL下SELECT...INTO OUTFILE导出文本文件命令 <http://my.oschina.net/shupeng/blog/198672>`_
 
     `Sql Replace函数语法 <http://my.oschina.net/jgy/blog/198687>`_
+
+    `sqllite 判断 某个id是否存在于表中了，如果存在则不插入，不存在则插入 <http://www.oschina.net/code/snippet_615618_33131>`_
 
   Security:
 
@@ -187,6 +195,10 @@ Simplified Chinese:
 
     `pc调试移动终端web代码（工具Weinre） <http://my.oschina.net/u/1402271/blog/198682>`_
 
+    `仿windows经典扫雷小代码 <http://www.oschina.net/code/snippet_1243326_33133>`_
+
+    `情人节浪漫爱心表白动画特效 <http://www.oschina.net/code/snippet_436266_33129>`_
+
   JavaScript:
 
     `如何设置Highcharts刻度线 <http://my.oschina.net/u/1163318/blog/198461>`_
@@ -204,6 +216,12 @@ Simplified Chinese:
     `转的 常用JQ 查找元素~ <http://my.oschina.net/lyc819/blog/198579>`_
 
     `屏蔽一些热键，让那些测试刷新去吧 <http://my.oschina.net/u/858241/blog/198678>`_
+
+    `使用javascript实现图片无缝轮播 <http://www.oschina.net/code/snippet_1259682_33139>`_
+
+    `jQuery格式化时间插件formatDate V1.0 <http://www.oschina.net/code/snippet_1445438_33134>`_
+
+    `几行jquery代码搞定网站右下角向左弹出广告代码 <http://www.oschina.net/code/snippet_1396465_33125>`_
 
   CSS:
 
@@ -234,6 +252,8 @@ Simplified Chinese:
     `linux 常用命令 <http://my.oschina.net/swearyd7/blog/198684>`_
 
     `CentOS 使用配置 <http://my.oschina.net/sourcecoding/blog/198686>`_
+
+    `综合应用——实现一个POSIX的消息队列 <http://www.oschina.net/code/snippet_1160717_33141>`_
 
   Java:
 
@@ -311,6 +331,12 @@ Simplified Chinese:
 
     `不仅是微软和诺基亚，谁都无法 fork Android，因为它就没法 fork <http://blog.jobbole.com/59020/>`_
 
+    `在 Android 使用 C# 开发 iBeacons 应用 <http://www.oschina.net/translate/use-ibeacons-in-android-with-c>`_
+
+    `[android]亲自破解Flappy Bird（去广告+永生） <http://www.oschina.net/code/snippet_1048014_33145>`_
+
+    `ListView上拉下拉刷新 <http://www.oschina.net/code/snippet_724985_33126>`_
+
   iOS:
 
     `iOS开发之iOS程序偏好设置(Settings Bundle)的使用 <http://my.oschina.net/u/1432769/blog/198598>`_
@@ -330,6 +356,10 @@ Simplified Chinese:
   Algorithm:
 
     `CLRS 4.2 Exercises <http://my.oschina.net/jerryWu/blog/198702>`_
+
+  Ruby:
+
+    `去除C语言注释 <http://www.oschina.net/code/snippet_58387_33146>`_
 
   News:
 
@@ -390,4 +420,6 @@ Simplified Chinese:
     `斯坦福大学发布免费在线文本分析工具 <http://blog.jobbole.com/58934/>`_
 
     `文章： 书评：DevOps for Developers <http://www.infoq.com/cn/articles/book-review-devops-for-developers>`_
+
+    `15 个有用的项目管理工具 <http://www.oschina.net/translate/15-useful-project-management-tools>`_
 
