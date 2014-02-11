@@ -3,7 +3,7 @@
 
 :date: 2014-02-11 01:40
 :tags: CSS, Reddit, JavaScript, Linux, Algorithm, Lisp, Security, Shell, Python, Github
-:tags_zh_CN: Python, Embedded System, database, Security, Web Development, Java, Vim, Go, C, C++, Android, Linux,  JavaScript, Hadoop, CSS
+:tags_zh_CN: Python, Embedded System, database, Security, Web Development, Java, Vim, Go, C, C++, Android, Linux,  JavaScript, Hadoop, CSS, Compiler, iOS
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-11
@@ -91,6 +91,10 @@ Simplified Chinese:
 
     `Python超级程序员使用的开发工具 <http://www.aqee.net/tools-used-by-python-super-stars/>`_
 
+    `Python+Selenium+Phantomjs数据抓取环境配置实践 <http://my.oschina.net/amstrong/blog/198588>`_
+
+    `字符串的详解 <http://my.oschina.net/coderinfo/blog/198608>`_
+
   C:
 
     `C双向循环链表 <http://my.oschina.net/acikee/blog/198478>`_
@@ -98,6 +102,12 @@ Simplified Chinese:
   C++:
 
     `gbk编码的简介以及针对gbk文本飘红截断原理以及实现 <http://my.oschina.net/u/210055/blog/198469>`_
+
+    `C++语言学习之STL 的组成  <http://my.oschina.net/bingxuebage/blog/198563>`_
+
+  Compiler:
+
+    `GCC/CC 编译常用工具 <http://my.oschina.net/tonysite/blog/198594>`_
 
   database:
 
@@ -110,6 +120,12 @@ Simplified Chinese:
     `MySQL数据库优化（基于酒店2000w条数据） <http://my.oschina.net/twinkling/blog/198451>`_
 
     `RAISE_APPLICATION_ERROR用法 <http://my.oschina.net/u/138995/blog/198419>`_
+
+    `Oracle分析函数 <http://my.oschina.net/u/218583/blog/198593>`_
+
+    `初探Apache derby  <http://my.oschina.net/quanzhong/blog/198600>`_
+
+    `大批量IP查询和IP区域快速查询 <http://my.oschina.net/u/128568/blog/198603>`_
 
   Security:
 
@@ -131,6 +147,14 @@ Simplified Chinese:
 
     `hawkhost老鹰主机免费SSH开通方法 <http://my.oschina.net/taomac/blog/198458>`_
 
+    `原来可以这样玩 SSO <http://my.oschina.net/huangyong/blog/198519>`_
+
+    `表头固定的功能 <http://my.oschina.net/cwzhang/blog/198546>`_
+
+    `概念了解：CGI，FastCGI，PHP-CGI与PHP-FPM <http://my.oschina.net/u/162204/blog/198548>`_
+
+    `前端开发利器 Emmet 介绍与基础语法教程 <http://my.oschina.net/xxiu/blog/198558>`_
+
   JavaScript:
 
     `如何设置Highcharts刻度线 <http://my.oschina.net/u/1163318/blog/198461>`_
@@ -140,6 +164,12 @@ Simplified Chinese:
     `JavaScript 捕获按键 <http://my.oschina.net/u/1403155/blog/198407>`_
 
     `8种Javascript过渡特效 <http://my.oschina.net/Weiwanbinblogs/blog/198413>`_
+
+    `关于JSON <http://my.oschina.net/babycat/blog/198540>`_
+
+    `JSLint操作文档 <http://my.oschina.net/11253217/blog/198574>`_
+
+    `转的 常用JQ 查找元素~ <http://my.oschina.net/lyc819/blog/198579>`_
 
   CSS:
 
@@ -159,6 +189,10 @@ Simplified Chinese:
 
     `ubuntu将文件夹中文名改为英文 <http://my.oschina.net/oldfeel/blog/198418>`_
 
+    `solaris查看内存、CUP、硬盘总数和使用情况情况 <http://my.oschina.net/GeminiLiu/blog/198573>`_
+
+    `gentoo 最近无法更新 <http://my.oschina.net/u/859703/blog/198597>`_
+
   Java:
 
     `全速前进：Oracle计划于3月份发布Java 8，即便有Bug亦如此 <http://www.infoq.com/cn/news/2014/02/oracle-ship-java-8-in-march>`_
@@ -167,9 +201,15 @@ Simplified Chinese:
 
     `二维码生成与解析代码实现 <http://blog.csdn.net/wangpeng047/article/details/7181217>`_
 
+    `转载收藏，Integer.valueOf() <http://my.oschina.net/u/1267653/blog/198537>`_
+
+    `java 泛型-擦除erasure   <http://my.oschina.net/u/782865/blog/198570>`_
+
   Embedded System:
 
     `如何把树莓派嵌入绘蛋机 <http://www.geekfan.net/5850/>`_
+
+    `FALCON DAQ98多功能便携式数据采集分析系统 <http://my.oschina.net/u/1420135/blog/198528>`_
 
   Hadoop:
 
@@ -194,6 +234,18 @@ Simplified Chinese:
     `自定义ScrollView里面包含ListView <http://my.oschina.net/oppo4545/blog/198448>`_
 
     `Service 与 Thread 的区别  <http://my.oschina.net/u/573470/blog/198439>`_
+
+    `Android 读取联系信息的三张表 <http://my.oschina.net/u/1189048/blog/198514>`_
+
+    `UIWebView加载本地HTML文件 <http://my.oschina.net/u/1425198/blog/198517>`_
+
+    `红米手机开启---开发者选项方法 <http://my.oschina.net/dengyz/blog/198541>`_
+
+    `expandablelistview 的拖拽 <http://my.oschina.net/u/1187110/blog/198586>`_
+
+  iOS:
+
+    `iOS开发之iOS程序偏好设置(Settings Bundle)的使用 <http://my.oschina.net/u/1432769/blog/198598>`_
 
   News:
 
