@@ -12,7 +12,8 @@
 Facebook:
 
   `Facebook Fraud [video] <http://www.youtube.com/watch?v=oVfHeWTKjag>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7211514>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7211514>`__,
+  `Facebook 殭局 ─ 花錢買到粉絲還是殭屍 <http://wired.tw/2014/02/11/facebook-%E6%AE%AD%E5%B1%80-%E2%94%80-%E8%8A%B1%E9%8C%A2%E8%B2%B7%E5%88%B0%E7%B2%89%E7%B5%B2%E9%82%84%E6%98%AF%E6%AE%AD%E5%B1%8D>`_)
 
 Reddit:
 
@@ -83,7 +84,8 @@ Python:
 Github:
 
   `GitHub goes to school <https://github.com/blog/1775-github-goes-to-school>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7213741>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7213741>`__,
+  `Github推出Education平台 师生免费享有微账号 <http://www.csdn.net/article/2014-02-11/2818363-GitHub-goes-to-school>`_)
 
   `Github People You Know <https://github.com/blog/1777-people-you-know>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7214084>`__)
@@ -95,6 +97,7 @@ Simplified Chinese:
   Python:
 
     `Python超级程序员使用的开发工具 <http://www.aqee.net/tools-used-by-python-super-stars/>`_
+    (`博樂在線mirror <http://blog.jobbole.com/59000/>`__)
 
     `Python+Selenium+Phantomjs数据抓取环境配置实践 <http://my.oschina.net/amstrong/blog/198588>`_
 
@@ -151,6 +154,8 @@ Simplified Chinese:
     `科技: 元数据打击：NSA在美国无人机袭击计划中的角色 <http://www.solidot.org/story?sid=38291>`_
 
     `安全: 云计算公司遭遇峰值流量400Gbps的DDoS攻击 <http://www.solidot.org/story?sid=38288>`_
+
+    `iOS安全攻防（五）：使用Cycript修改支付宝app运行时 <http://blog.jobbole.com/58796/>`_
 
   Web Development:
 
@@ -256,11 +261,15 @@ Simplified Chinese:
 
     `hadoop问题 <http://my.oschina.net/u/1169079/blog/198440>`_
 
+    `Hadoop Namenode以regular方式启动代码流程分析 <http://www.csdn.net/article/2014-02-11/2818374-Hadoop-Namenode-regular>`_
+
   Vim:
 
     `复制文本 <http://my.oschina.net/fhd/blog/198494>`_
 
     `基本vi命令的复习 <http://my.oschina.net/fhd/blog/198660>`_
+
+    `Vim自动补全神器：YouCompleteMe <http://blog.jobbole.com/58978/>`_
 
   Android:
 
@@ -298,11 +307,19 @@ Simplified Chinese:
 
     `Bundle savedInstanceState的作用 <http://my.oschina.net/u/1446273/blog/198698>`_
 
+    `传诺基亚月底推Android手机 去除一切谷歌服务 <http://www.csdn.net/article/2014-02-11/2818357-nokia-android-phone>`_
+
+    `不仅是微软和诺基亚，谁都无法 fork Android，因为它就没法 fork <http://blog.jobbole.com/59020/>`_
+
   iOS:
 
     `iOS开发之iOS程序偏好设置(Settings Bundle)的使用 <http://my.oschina.net/u/1432769/blog/198598>`_
 
     `Reachability  检查网络状态 <http://my.oschina.net/u/1425198/blog/198673>`_
+
+    `OS X平台上出现窃取比特币的木马 <http://www.csdn.net/article/2014-02-11/2818368-Mac-OSX-CoinThief.A-Trojan-Horse-Bitcoins>`_
+
+    `文章： ReactiveCocoa - iOS开发的新框架 <http://www.infoq.com/cn/articles/reactivecocoa-ios-new-develop-framework>`_
 
   Search:
 
@@ -345,4 +362,32 @@ Simplified Chinese:
     `Godot游戏引擎开源 <http://www.solidot.org/story?sid=38289>`_
 
     `新后缀再开放，投资者应谨慎对待！ <http://my.oschina.net/b08com/blog/198689>`_
+
+    `走进支撑过8亿用户的Yahoo!数据中心 <http://www.csdn.net/article/2014-02-11/2818365-yahoo-datacenter-view>`_
+
+    `Napier，一个引领Rackspace14年老兵功成身退 <http://www.csdn.net/article/2014-02-11/2818367-Cloud-Rackspace-OpenStack>`_
+
+    `《近匠》第11期：Arrownock——移动社交构造师 <http://www.csdn.net/article/2014-01-08/2818067-mobile-develop-interview-Arrownock>`_
+
+    `央视的互联网思维 新浪微博成春晚最大赢家 <http://www.csdn.net/article/2014-02-11/2818364>`_
+
+    `HBuilder：最快的Web开发IDE <http://www.csdn.net/article/2014-02-07/2818326-HBuilder-the-fastest-web-ide>`_
+
+    `Flappy Bird作者：不想让你们沉迷游戏 <http://tech2ipo.com/63333>`_
+
+    `迪拜将启用采用视网膜扫描的无人机快递服务 <http://www.geekfan.net/6142/>`_
+
+    `长时间充电对手机电池是否有害？ <http://www.geekfan.net/6129/>`_
+
+    `德大学研究人员正在打造能够像蜜蜂一样“思考”的小机器人 <http://www.geekfan.net/6122/>`_
+
+    `数字阅读的未来：颠覆传统“翻阅”体验 <http://blog.jobbole.com/59031/>`_
+
+    `Chris Fry：如何打造一个稳定的技术团队 <http://blog.jobbole.com/59009/>`_
+
+    `IDC：全球究竟有多少程序员？ <http://blog.jobbole.com/58991/>`_
+
+    `斯坦福大学发布免费在线文本分析工具 <http://blog.jobbole.com/58934/>`_
+
+    `文章： 书评：DevOps for Developers <http://www.infoq.com/cn/articles/book-review-devops-for-developers>`_
 
