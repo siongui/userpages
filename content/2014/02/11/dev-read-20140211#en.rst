@@ -1,9 +1,9 @@
-<Facebook Fraud>, <Bill Gates: AMA on Reddit>, etc.
-########################################################################################################
+<Facebook Fraud>, <Bill Gates: AMA on Reddit>, <Things We Forgot to Monitor>, <Mbox – A lightweight sandboxing mechanism>, etc.
+###############################################################################################################################
 
 :date: 2014-02-11 01:40
-:tags: CSS, Reddit, JavaScript, Linux, Algorithm, Lisp, Security, Shell, Python, Github, Go
-:tags_zh_CN: Python, Embedded System, database, Security, Web Development, Java, Vim, Go, C, C++, Android, Linux,  JavaScript, Hadoop, CSS, Compiler, iOS, Search, Algorithm, Ruby
+:tags: CSS, Reddit, JavaScript, Linux, Algorithm, Lisp, Security, Shell, Python, Github, Go, Mobile, math
+:tags_zh_CN: Python, Embedded System, database, Security, Web Development, Java, Vim, Go, C, C++, Android, Linux,  JavaScript, Hadoop, CSS, Compiler, iOS, Search, Algorithm, Ruby, Dart
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-11
@@ -26,12 +26,27 @@ Linux:
   `Things We Forgot to Monitor <http://word.bitly.com/post/74839060954/ten-things-to-monitor?h=2>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7212935>`__)
 
+  `Mbox – A lightweight sandboxing mechanism <http://pdos.csail.mit.edu/mbox/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7214419>`__)
+
   `GNU Hurd Gets Improvements: User-Space Driver Support and More <http://news.slashdot.org/story/14/02/10/1732223/gnu-hurd-gets-improvements-user-space-driver-support-and-more>`_
 
 Lisp:
 
   `Common Lisp in the 21st Century <https://github.com/fukamachi/cl21>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7212859>`__)
+
+  `Hy, a Lisp that compiles to Python (github.com) <https://github.com/hylang/hy>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7214400>`__)
+
+Go:
+
+  `Gisp: A Lisp that compiles to Go <https://github.com/jcla1/gisp>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7216396>`__)
+
+  `Lexical Scanning in Go <http://cuddle.googlecode.com/hg/talk/lex.html#title-slide>`_
+
+  `Singing Gophers <http://blog.campoy.cat/2014/02/singing-gophers.html>`_
 
 Security:
 
@@ -43,10 +58,6 @@ Shell:
   `hr for your terminal <https://github.com/LuRsT/hr>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7213347>`__)
 
-Go:
-
-  `Lexical Scanning in Go <http://cuddle.googlecode.com/hg/talk/lex.html#title-slide>`_
-
 Algorithm:
 
   `Node Summary – Naive summarization algorithm for Node.js <http://jbrooksuk.github.io/node-summary/>`_
@@ -56,9 +67,18 @@ JavaScript:
 
   `Test for Support of SVG as img <http://css-tricks.com/test-support-svg-img/>`_
 
+  `Phaser – Desktop and Mobile HTML5 Game Framework <http://phaser.io/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7215398>`__)
+
+Mobile:
+
+  `Four Ways To Build A Mobile Application, Part 3: PhoneGap <http://mobile.smashingmagazine.com/2014/02/11/four-ways-to-build-a-mobile-app-part3-phonegap/>`_
+
 CSS:
 
   `CSS3 Hidden Social Buttons <http://scotch.io/tutorials/css/css3-hidden-social-buttons>`_
+
+  `Tricks with Flexbox for Better CSS Patterns <http://webdesign.tutsplus.com/tutorials/tricks-with-flexbox-for-better-css-patterns--cms-19449>`_
 
 Show HN:
 
@@ -68,6 +88,9 @@ Show HN:
   `Show HN: Automatic feedback on improving your PowerPoint slides <http://sketch-deck.com/rater>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7212547>`__)
 
+  `Show HN: I wrote a very niche ebook about GTFS public transit data (gtfsbook.com) <http://gtfsbook.com/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7216034>`__)
+
 Website:
 
   `Hitlist, a Smart Flight Finder That Saves You Money by Telling You When To Fly <http://techcrunch.com/2014/02/07/hitlist-a-smarter-flight-finder-that-saves-you-money-by-telling-you-when-to-fly-exits-beta/>`_
@@ -76,10 +99,27 @@ Website:
   `Boromir Death Simulator (toolness.org) <http://boromir.toolness.org/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7213138>`__)
 
+  `Free unlimited rebooting experience from vintage operating systems <http://www.therestartpage.com/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7217154>`__)
+
+  `Google search for "blink tag" (Easter egg) (google.com) <https://www.google.com/search?q=blink+tag>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7217959>`__)
+
 Python:
 
   `Cleaning Data and Graphing in R and Python <http://climateecology.wordpress.com/2014/02/10/a-side-by-side-example-of-r-and-python/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7212099>`__)
+
+  `How to Create a Python Library <http://pypix.com/python/create-python-library/>`_
+
+  `SymPy – simplify (sympy.org) <http://docs.sympy.org/latest/tutorial/simplification.html#simplify>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7214783>`__)
+
+  `Using virtualenv in production (dangoldin.com) <http://dangoldin.com/2014/02/10/using-virtualenv-in-production/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7217625>`__)
+
+  `A Celery-like Python Task Queue in 55 Lines of Code <http://www.jeffknupp.com/blog/2014/02/11/a-celerylike-python-task-queue-in-55-lines-of-code/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7218046>`__)
 
 Github:
 
@@ -90,9 +130,18 @@ Github:
   `Github People You Know <https://github.com/blog/1777-people-you-know>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7214084>`__)
 
+math:
+
+  `Elliptic Curves as Elementary Equations (jeremykun.com) <http://jeremykun.com/2014/02/10/elliptic-curves-as-elementary-equations/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7215921>`__)
+
 
 
 Simplified Chinese:
+
+  Dart:
+
+    `用Dart写的黑白棋游戏 <http://www.cnblogs.com/rufi/p/dart-reversi.html>`_
 
   Python:
 
@@ -164,6 +213,8 @@ Simplified Chinese:
     `安全: 云计算公司遭遇峰值流量400Gbps的DDoS攻击 <http://www.solidot.org/story?sid=38288>`_
 
     `iOS安全攻防（五）：使用Cycript修改支付宝app运行时 <http://blog.jobbole.com/58796/>`_
+
+    `iOS安全攻防（六）：使用class-dump-z分析支付宝app <http://blog.jobbole.com/58814/>`_
 
   Web Development:
 
@@ -422,4 +473,6 @@ Simplified Chinese:
     `文章： 书评：DevOps for Developers <http://www.infoq.com/cn/articles/book-review-devops-for-developers>`_
 
     `15 个有用的项目管理工具 <http://www.oschina.net/translate/15-useful-project-management-tools>`_
+
+    `使用Marvel Comics的API访问复仇者联盟 <http://www.infoq.com/cn/news/2014/02/marvel-comics-api>`_
 
