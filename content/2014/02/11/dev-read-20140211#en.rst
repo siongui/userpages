@@ -2,8 +2,8 @@
 ########################################################################################################
 
 :date: 2014-02-11 01:40
-:tags: CSS, Reddit, JavaScript, Linux, Algorithm, Lisp, Security, Shell, Python, Github
-:tags_zh_CN: Python, Embedded System, database, Security, Web Development, Java, Vim, Go, C, C++, Android, Linux,  JavaScript, Hadoop, CSS, Compiler, iOS
+:tags: CSS, Reddit, JavaScript, Linux, Algorithm, Lisp, Security, Shell, Python, Github, Go
+:tags_zh_CN: Python, Embedded System, database, Security, Web Development, Java, Vim, Go, C, C++, Android, Linux,  JavaScript, Hadoop, CSS, Compiler, iOS, Search, Algorithm
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-11
@@ -17,7 +17,8 @@ Facebook:
 Reddit:
 
   `Bill Gates: AMA on Reddit <http://www.reddit.com/r/IAmA/comments/1xj56q/hello_reddit_im_bill_gates_cochair_of_the_bill/#b02g10f20b14>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7212226>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7212226>`__,
+  `微軟創辦人Bill Gates上 Reddit 與網友有問必答 <http://www.ithome.com.tw/itadm/article.php?c=85133>`_)
 
 Linux:
 
@@ -40,6 +41,10 @@ Shell:
 
   `hr for your terminal <https://github.com/LuRsT/hr>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7213347>`__)
+
+Go:
+
+  `Lexical Scanning in Go <http://cuddle.googlecode.com/hg/talk/lex.html#title-slide>`_
 
 Algorithm:
 
@@ -95,9 +100,13 @@ Simplified Chinese:
 
     `字符串的详解 <http://my.oschina.net/coderinfo/blog/198608>`_
 
+    `python 练习一 <http://my.oschina.net/pliot/blog/198692>`_
+
   C:
 
     `C双向循环链表 <http://my.oschina.net/acikee/blog/198478>`_
+
+    `C Base系列之 贪吃蛇 <http://my.oschina.net/Cu1Cuu2/blog/198696>`_
 
   C++:
 
@@ -127,11 +136,21 @@ Simplified Chinese:
 
     `大批量IP查询和IP区域快速查询 <http://my.oschina.net/u/128568/blog/198603>`_
 
+    `MySQL下SELECT...INTO OUTFILE导出文本文件命令 <http://my.oschina.net/shupeng/blog/198672>`_
+
+    `Sql Replace函数语法 <http://my.oschina.net/jgy/blog/198687>`_
+
   Security:
 
     `不是所有的“病毒”都是病毒： 10个恶意软件术语解释 <http://blog.jobbole.com/57916/>`_
 
     `不是所有“病毒”都是病毒： 恶意软件术语解释 <http://www.oschina.net/news/48713/not-all-viruses-are-viruses-10-malware-terms-explained>`_
+
+    `安全: 卡巴斯基发现新的网络间谍行动The Mask <http://www.solidot.org/story?sid=38292>`_
+
+    `科技: 元数据打击：NSA在美国无人机袭击计划中的角色 <http://www.solidot.org/story?sid=38291>`_
+
+    `安全: 云计算公司遭遇峰值流量400Gbps的DDoS攻击 <http://www.solidot.org/story?sid=38288>`_
 
   Web Development:
 
@@ -155,6 +174,14 @@ Simplified Chinese:
 
     `前端开发利器 Emmet 介绍与基础语法教程 <http://my.oschina.net/xxiu/blog/198558>`_
 
+    `移动: 维基百科尚未适应移动时代 <http://www.solidot.org/story?sid=38281>`_
+
+    `base-framework 工程文档收录 <http://my.oschina.net/u/1448456/blog/198648>`_
+
+    `Varnish,Nginx搭建缓存服务器 <http://my.oschina.net/u/1449160/blog/198650>`_
+
+    `pc调试移动终端web代码（工具Weinre） <http://my.oschina.net/u/1402271/blog/198682>`_
+
   JavaScript:
 
     `如何设置Highcharts刻度线 <http://my.oschina.net/u/1163318/blog/198461>`_
@@ -171,6 +198,8 @@ Simplified Chinese:
 
     `转的 常用JQ 查找元素~ <http://my.oschina.net/lyc819/blog/198579>`_
 
+    `屏蔽一些热键，让那些测试刷新去吧 <http://my.oschina.net/u/858241/blog/198678>`_
+
   CSS:
 
     `css怎样命名比较规范 <http://my.oschina.net/u/1403217/blog/198400>`_
@@ -178,6 +207,8 @@ Simplified Chinese:
   Go:
 
     `golang中list包使用方法 <http://my.oschina.net/xlplbo/blog/198488>`_
+
+    `Go 的 Lisp 编译器 gisp <http://www.oschina.net/p/gisp>`_
 
   Linux:
 
@@ -193,6 +224,12 @@ Simplified Chinese:
 
     `gentoo 最近无法更新 <http://my.oschina.net/u/859703/blog/198597>`_
 
+    `进程的概念与管理 <http://my.oschina.net/u/1402640/blog/198645>`_
+
+    `linux 常用命令 <http://my.oschina.net/swearyd7/blog/198684>`_
+
+    `CentOS 使用配置 <http://my.oschina.net/sourcecoding/blog/198686>`_
+
   Java:
 
     `全速前进：Oracle计划于3月份发布Java 8，即便有Bug亦如此 <http://www.infoq.com/cn/news/2014/02/oracle-ship-java-8-in-march>`_
@@ -204,6 +241,10 @@ Simplified Chinese:
     `转载收藏，Integer.valueOf() <http://my.oschina.net/u/1267653/blog/198537>`_
 
     `java 泛型-擦除erasure   <http://my.oschina.net/u/782865/blog/198570>`_
+
+    `加速Java应用开发速度3——单元/集成测试+CI <http://my.oschina.net/heroShane/blog/198642>`_
+
+    `JAVA深复制(深克隆)与浅复制(浅克隆) <http://my.oschina.net/ydsakyclguozi/blog/198657>`_
 
   Embedded System:
 
@@ -218,6 +259,8 @@ Simplified Chinese:
   Vim:
 
     `复制文本 <http://my.oschina.net/fhd/blog/198494>`_
+
+    `基本vi命令的复习 <http://my.oschina.net/fhd/blog/198660>`_
 
   Android:
 
@@ -243,9 +286,33 @@ Simplified Chinese:
 
     `expandablelistview 的拖拽 <http://my.oschina.net/u/1187110/blog/198586>`_
 
+    `android app內切换语言环境 <http://my.oschina.net/u/1409622/blog/198649>`_
+
+    `android 的webView的透明设置 <http://my.oschina.net/xwy/blog/198654>`_
+
+    `Android自定义广播接收者 <http://my.oschina.net/u/1246663/blog/198667>`_
+
+    `andoid.mk 入门 <http://my.oschina.net/lirongwei/blog/198677>`_
+
+    `[Android] Android Tweened Animations动画使用详解二 <http://my.oschina.net/u/242041/blog/198685>`_
+
+    `Bundle savedInstanceState的作用 <http://my.oschina.net/u/1446273/blog/198698>`_
+
   iOS:
 
     `iOS开发之iOS程序偏好设置(Settings Bundle)的使用 <http://my.oschina.net/u/1432769/blog/198598>`_
+
+    `Reachability  检查网络状态 <http://my.oschina.net/u/1425198/blog/198673>`_
+
+  Search:
+
+    `Groonga 4.0.0 发布，全文搜索引擎 <http://www.oschina.net/news/48727/groonga-4-0-0>`_
+
+    `lucene使用与优化 <http://my.oschina.net/lushuifa/blog/198690>`_
+
+  Algorithm:
+
+    `CLRS 4.2 Exercises <http://my.oschina.net/jerryWu/blog/198702>`_
 
   News:
 
@@ -258,10 +325,6 @@ Simplified Chinese:
     Git:
 
       `gitsh —— 交互式的 Git 操作 SHELL 环境 <http://www.oschina.net/p/gitsh>`_
-
-    Search:
-
-      `Groonga 4.0.0 发布，全文搜索引擎 <http://www.oschina.net/news/48727/groonga-4-0-0>`_
 
     `coccigrep 1.13 发布，C 语言的语义 grep 工具 <http://www.oschina.net/news/48700/coccigrep-1-13>`_
 
@@ -278,4 +341,8 @@ Simplified Chinese:
     `SoftAP是什么[译] <http://my.oschina.net/ejoyc/blog/198449>`_
 
     `SolrCloud Wiki翻译(2)Nodes,Cores,Clusters & Leaders <http://my.oschina.net/zengjie/blog/198420>`_
+
+    `Godot游戏引擎开源 <http://www.solidot.org/story?sid=38289>`_
+
+    `新后缀再开放，投资者应谨慎对待！ <http://my.oschina.net/b08com/blog/198689>`_
 

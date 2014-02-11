@@ -17,7 +17,8 @@
 Game:
 
   `Godot Engine open sourced <http://www.godotengine.org/wp/>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7209149>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7209149>`__,
+  `Godot游戏引擎开源 <http://www.solidot.org/story?sid=38289>`_)
 
 LaTeX:
 
