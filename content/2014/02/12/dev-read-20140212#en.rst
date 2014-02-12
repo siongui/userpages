@@ -3,7 +3,7 @@
 
 :date: 2014-02-12 01:22
 :tags: Go, Python
-:tags_zh_CN: Linux, Embedded System, Python, Git, C, database, Computer Architecture, Unicode, Web Development, Go, JavaScript, API, Security, R, Assembly
+:tags_zh_CN: Linux, Embedded System, Python, Git, C, database, Computer Architecture, Unicode, Web Development, Go, JavaScript, API, Security, R, Assembly, FreeBSD, Hadoop, node.js, Android, Functional Programming, Vim, Java
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-12
@@ -31,6 +31,14 @@ Simplified Chinese:
 
     `linux查看和修改系统时间 <http://my.oschina.net/u/1032854/blog/198902>`_
 
+    `强大的linux网络功能 <http://my.oschina.net/pikeman/blog/198977>`_
+
+    `linux 命令(1) find -exec 将当前目录下所有"test.file"文件删除 <http://my.oschina.net/u/156529/blog/199013>`_
+
+  FreeBSD:
+
+    `FreeBSD 10 + Nginx 1.4.4 + PHP 5.5.9 + MySQL 5.6.1 <http://my.oschina.net/neochen/blog/198979>`_
+
   Python:
 
     `Django对静态文件的处理——开发阶段 <http://my.oschina.net/u/993130/blog/198769>`_
@@ -40,6 +48,12 @@ Simplified Chinese:
     `［无聊转］验证码识别远离原理 <http://my.oschina.net/nishenvip/blog/198950>`_
 
     `Python的数据结构 <http://my.oschina.net/coderinfo/blog/198965>`_
+
+    `在twisted中按天进行日志切分 <http://my.oschina.net/u/1032854/blog/198973>`_
+
+    `Python数据结构——collections <http://my.oschina.net/u/1449160/blog/198993>`_
+
+    `原因和解决方案: 'ascii' codec can't decode byte. <http://my.oschina.net/u/993130/blog/199127>`_
 
   Embedded System:
 
@@ -65,17 +79,33 @@ Simplified Chinese:
 
     `谷歌CloudSQL全面投入 承诺99.95％正常运行时间 <http://blog.jobbole.com/59074/>`_
 
+    `sqlite3常用操作 <http://my.oschina.net/0757/blog/199028>`_
+
+    `画图解释SQL联合语句 <http://my.oschina.net/u/1412027/blog/199143>`_
+
+    `我的大数据之路（一）-数据仓库也需要大数据 <http://my.oschina.net/pangzi/blog/199158>`_
+
   Unicode:
 
     `谈谈Unicode编码，简要解释UCS、UTF、BMP、BOM等名词 <http://my.oschina.net/Jsiwa/blog/198881>`_
+
+    `字符编码的简单总结 <http://my.oschina.net/roll1987/blog/199000>`_
 
   Computer Architecture:
 
     `现代计算机的硬件组成图 <http://my.oschina.net/fhd/blog/198882>`_
 
+    `计算机基础--二进制 <http://my.oschina.net/freesea/blog/198986>`_
+
+    `计算机的工作过程 <http://my.oschina.net/fhd/blog/198987>`_
+
   Go:
 
     `32位系统下atomic.AddUint64导致程序崩溃及解决办法 <http://my.oschina.net/u/115763/blog/198912>`_
+
+    `Go不能简单的将slice转换为接口的slice <http://my.oschina.net/xlplbo/blog/199145>`_
+
+    `Golang中的正则表达式 <http://my.oschina.net/kuerant/blog/199146>`_
 
   JavaScript:
 
@@ -87,11 +117,29 @@ Simplified Chinese:
 
     `Web 开发者必备的 14 个 JavaScript 音频库 <http://www.oschina.net/translate/14-essential-javascript-audio-libraries-for-web-developers>`_
 
+    `seajs 初探（未完） <http://my.oschina.net/tommyfok/blog/198978>`_
+
+    `jquery grep()筛选遍历数组 <http://my.oschina.net/GeminiLiu/blog/199126>`_
+
+    `jquey中的mouseover和mouseout事件 <http://my.oschina.net/u/1388018/blog/199160>`_
+
   Web Development:
 
     `史上最全的Web性能测试工具大全（下 ） <http://my.oschina.net/u/918621/blog/198920>`_
 
     `SEO题记 <http://my.oschina.net/ankh2008/blog/198938>`_
+
+    `前端性能影响思维导图 <http://my.oschina.net/blogshi/blog/199008>`_
+
+    `使用谷歌或微软的 jQuery <http://my.oschina.net/u/1388018/blog/199012>`_
+
+    `闪烁输入效果 <http://my.oschina.net/wbo0801/blog/199170>`_
+
+    node.js:
+
+      `NodeJs:使用http构建一个简单的网站 <http://my.oschina.net/websec/blog/199035>`_
+
+      `NodeJs:使用connect构建简单的用户登录 <http://my.oschina.net/websec/blog/199157>`_
 
     API:
 
@@ -112,6 +160,32 @@ Simplified Chinese:
   R:
 
     `R语言 线性回归（上） <http://my.oschina.net/u/1047640/blog/198956>`_
+
+    `R语言 线性回归（下） <http://my.oschina.net/u/1047640/blog/199149>`_
+
+  Hadoop:
+
+    `国内第一篇详细讲解hadoop2的automatic HA+Federation+Yarn配置的教程 <http://my.oschina.net/superwu/blog/198989>`_
+
+    `hadoop2.2.0 第三方jar引入方法 <http://my.oschina.net/indestiny/blog/199168>`_
+
+  Android:
+
+    `Android开机自启动 <http://my.oschina.net/u/1447521/blog/199128>`_
+
+  Vim:
+
+    `ubuntu12.04的vim配置 <http://my.oschina.net/robinsonlu/blog/199163>`_
+
+    `在VIM中添加一键编译和一键运行  <http://my.oschina.net/u/156529/blog/199176>`_
+
+  Functional Programming:
+
+    `函数式对代码更优雅的描述  (避免if else) <http://my.oschina.net/jQer/blog/199166>`_
+
+  Java:
+
+    `JVM学习笔记之四：分代垃圾回收 <http://my.oschina.net/u/1268144/blog/199174>`_
 
   News:
 
@@ -146,4 +220,8 @@ Simplified Chinese:
     `2013年微软从Android赚取16亿美元授权费 是WP总利润5倍 <http://blog.jobbole.com/59076/>`_
 
     `Twitter悄然测试全新界面 风格趋向Facebook <http://blog.jobbole.com/59070/>`_
+
+    `Godot 将要开源 <http://my.oschina.net/ten/blog/199038>`_
+
+    `【详解】回车 换行 0x0D 0x0A CR LF \r \n的来龙去脉 <http://my.oschina.net/songxinqiang/blog/199175>`_
 
