@@ -3,7 +3,7 @@
 
 :date: 2014-02-12 01:22
 :tags: Go, Python
-:tags_zh_CN: Linux, Embedded System, Python, Git, C, database, Computer Architecture, Unicode, Web Development, Go, JavaScript, API, Security, R, Assembly, FreeBSD, Hadoop, node.js, Android, Functional Programming, Vim, Java
+:tags_zh_CN: Linux, Embedded System, Python, Git, C, database, Computer Architecture, Unicode, Web Development, Go, JavaScript, API, Security, R, Assembly, FreeBSD, Hadoop, node.js, Android, Functional Programming, Vim, Java, Shell, math
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-12
@@ -26,6 +26,7 @@ Simplified Chinese:
   Linux:
 
     `12款最佳Linux命令行终端工具 <http://www.aqee.net/best-terminal-alternatives-for-linux-systems/>`_
+    (`伯樂在線轉錄 <http://blog.jobbole.com/59165/>`_)
 
     `查找并杀死进程 <http://my.oschina.net/u/1449566/blog/198887>`_
 
@@ -34,6 +35,8 @@ Simplified Chinese:
     `强大的linux网络功能 <http://my.oschina.net/pikeman/blog/198977>`_
 
     `linux 命令(1) find -exec 将当前目录下所有"test.file"文件删除 <http://my.oschina.net/u/156529/blog/199013>`_
+
+    `给Linux系统/网络管理员的nmap的29个实用例子 <http://linux.cn/thread/12324/1/1/>`_
 
   FreeBSD:
 
@@ -55,9 +58,19 @@ Simplified Chinese:
 
     `原因和解决方案: 'ascii' codec can't decode byte. <http://my.oschina.net/u/993130/blog/199127>`_
 
+    `斐波那契数列的尾递归实现（只是实现，python不支持尾递归） <http://www.oschina.net/code/snippet_991321_33172>`_
+
+    `面试题：求斐波那契数列 <http://www.oschina.net/code/snippet_1250095_33164>`_
+
+    `Python：推荐爬虫框架 <http://segmentfault.com/q/1010000000399370>`_
+
   Embedded System:
 
     `使用arduino开发环境来开发普通单片机开发板 <http://my.oschina.net/okimbin/blog/198764>`_
+
+    `寓教于乐的Pi-Bot：教孩子们机器人技术和C语言编程 <http://www.geekfan.net/6147/>`_
+
+    `用树莓派驱动一个16×2的LCD <http://www.geekfan.net/5588/>`_
 
   Git:
 
@@ -70,6 +83,8 @@ Simplified Chinese:
     `排列的C语言数组实现 <http://my.oschina.net/rst/blog/198875>`_
 
     `【每日一博】C/C++回调函数简要介绍 <http://my.oschina.net/jungleliu0923/blog/198151>`_
+
+    `请教一道关于c语言结构体的题目 <http://segmentfault.com/q/1010000000407228>`_
 
   database:
 
@@ -116,12 +131,17 @@ Simplified Chinese:
     `javascript 写类方式之一 <http://my.oschina.net/guozqiu/blog/198921>`_
 
     `Web 开发者必备的 14 个 JavaScript 音频库 <http://www.oschina.net/translate/14-essential-javascript-audio-libraries-for-web-developers>`_
+    (`伯樂在線轉錄 <http://blog.jobbole.com/59147/>`__)
 
     `seajs 初探（未完） <http://my.oschina.net/tommyfok/blog/198978>`_
 
     `jquery grep()筛选遍历数组 <http://my.oschina.net/GeminiLiu/blog/199126>`_
 
     `jquey中的mouseover和mouseout事件 <http://my.oschina.net/u/1388018/blog/199160>`_
+
+    `个人觉得很实用的JavaScript实现文章历史浏览记录 <http://www.oschina.net/code/snippet_1449560_33186>`_
+
+    `很多小球乱撞（HTML5+jQuery） <http://www.oschina.net/code/snippet_1416472_33185>`_
 
   Web Development:
 
@@ -134,6 +154,12 @@ Simplified Chinese:
     `使用谷歌或微软的 jQuery <http://my.oschina.net/u/1388018/blog/199012>`_
 
     `闪烁输入效果 <http://my.oschina.net/wbo0801/blog/199170>`_
+
+    `Phaser：开源的HTML5 2D游戏开发框架 <http://www.csdn.net/article/2014-02-12/2818387-phaser>`_
+
+    `HTML5调查：做的好，收入不比iOS差 <http://www.csdn.net/article/2014-02-11/2818369-html5-ios-android-developers>`_
+
+    `小图查看大图 <http://www.oschina.net/code/snippet_1259682_33177>`_
 
     node.js:
 
@@ -157,17 +183,25 @@ Simplified Chinese:
 
     `一行代码完成并行任务 <http://blog.jobbole.com/58700/>`_
 
+    `交易平台遭遇拒绝服务攻击，多家暂停比特币提款 <http://www.solidot.org/story?sid=38304>`_
+
   R:
 
     `R语言 线性回归（上） <http://my.oschina.net/u/1047640/blog/198956>`_
 
     `R语言 线性回归（下） <http://my.oschina.net/u/1047640/blog/199149>`_
 
+  Shell:
+
+    `有趣命令集合 codemiscs <http://www.oschina.net/p/codemiscs>`_
+
   Hadoop:
 
     `国内第一篇详细讲解hadoop2的automatic HA+Federation+Yarn配置的教程 <http://my.oschina.net/superwu/blog/198989>`_
 
     `hadoop2.2.0 第三方jar引入方法 <http://my.oschina.net/indestiny/blog/199168>`_
+
+    `Hortonworks联手Red Hat，构建更强大的Hadoop <http://www.csdn.net/article/2014-02-11/2818361>`_
 
   Android:
 
@@ -187,11 +221,23 @@ Simplified Chinese:
 
     `JVM学习笔记之四：分代垃圾回收 <http://my.oschina.net/u/1268144/blog/199174>`_
 
+    `Google的Java编码规范 <http://www.infoq.com/cn/news/2014/02/google-java-coding-standards>`_
+
+  math:
+
+    `如何估算 2^2^2^2^2^2 的大小？ <http://segmentfault.com/q/1010000000407139>`_
+
   News:
 
     CMS:
 
       `9 款最好的基于 Rails 的 CMS 内容管理系统 <http://www.oschina.net/news/48760/best-ruby-on-rails-content-management-systems-cms>`_
+
+    Flappy Bird:
+
+      `Flappy Bird：28天的起落 <http://tech2ipo.com/63356>`_
+
+      `游戏: Flappy Bird开发者因游戏容易上瘾而将其下架 <http://www.solidot.org/story?sid=38303>`_
 
     `子墨对酒《三国杀》里论模式(肆)单例模式 <http://my.oschina.net/u/874727/blog/198760>`_
 
@@ -206,8 +252,6 @@ Simplified Chinese:
     `Jolla 宣布 Sailfish 系统浏览器开源 <http://www.oschina.net/news/48744/sailfish-opensource>`_
 
     `国内开源社区软件 PHPWind 团队已解散 <http://www.oschina.net/news/48743/phpwind-dismiss>`_
-
-    `游戏: Flappy Bird开发者因游戏容易上瘾而将其下架 <http://www.solidot.org/story?sid=38303>`_
 
     `IBM雇员被发现编辑维基百科条目 <http://www.solidot.org/story?sid=38302>`_
 
@@ -224,4 +268,22 @@ Simplified Chinese:
     `Godot 将要开源 <http://my.oschina.net/ten/blog/199038>`_
 
     `【详解】回车 换行 0x0D 0x0A CR LF \r \n的来龙去脉 <http://my.oschina.net/songxinqiang/blog/199175>`_
+
+    `基调数据解读2014网购行业的3大变化 <http://www.csdn.net/article/2014-02-12/2818392-Online-Shopping-in-2014>`_
+
+    `苹果员工爆辞职内幕 <http://www.csdn.net/article/2014-02-12/2818388-Apple-employee-Jordan-Price-resignation>`_
+
+    `Windows Phone 8.1被曝光信息汇总 <http://www.csdn.net/article/2014-02-12/2818383-windows-phone-8.1-leak>`_
+
+    `汽车巨人福特让“数据”说话 <http://www.csdn.net/article/2014-02-10/2818350-lessons-big-data-from-ford>`_
+
+    `认知科学家：沃森和Siri不是人工智能 <http://www.csdn.net/article/2014-02-12/2818381>`_
+
+    `Twitter最新测试版被指仿Facebook的界面设计 <http://www.csdn.net/article/2014-02-12/2818379-twitter-said-to-be-working-on-major-facebook-like-site-redesign>`_
+
+    `仅用移动开发服务：一分钱不花，开发native应用 <http://www.csdn.net/article/2014-02-11/2818360-mobile-dev-tools>`_
+
+    `Mozilla将在Firefox上展示“广告” <http://www.solidot.org/story?sid=38309>`_
+
+    `MapReduce框架Yarn、Web增量更新算法、面向查询服务——架构周报 <http://www.infoq.com/cn/news/2014/02/mapreduce-yarn-web-arch-weekly>`_
 
