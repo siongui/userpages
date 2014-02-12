@@ -3,7 +3,6 @@ package mylib
 import (
 	"testing"
 	"os"
-	"net/url"
 	"io/ioutil"
 )
 
@@ -46,9 +45,8 @@ func TestDbAll(t *testing.T) {
 	tmp := parseSeedContent(content)
 	tmp2 := parseSeedContent(content2)
 	// test storeItems
-	// FIXME: make url.QueryEscape(hnUrl) a function
-	os.Remove(url.QueryEscape(hnUrl))
-	dbHN := InitDB(url.QueryEscape(hnUrl))
+	os.Remove(XmlUrl2DBPath(hnUrl))
+	dbHN := InitDB(XmlUrl2DBPath(hnUrl))
 	defer dbHN.Close()
 	storeItems(dbHN, tmp.Channel.ItemList)
 	storeItems(dbHN, tmp2.Channel.ItemList)
