@@ -28,6 +28,8 @@
 
 `RegexOne - Learn regular expressions with interactive examples <http://regexone.com/>`_
 
+`Learn X in Y Minutes: Scenic Programming Language Tours <http://learnxinyminutes.com/>`_
+
 `HTML5 Tutorial For Beginners <http://www.html5tutorial4u.com/>`_
 
 `Learn PHP - Free Interactive PHP Tutorial <http://learn-php.org/>`_
