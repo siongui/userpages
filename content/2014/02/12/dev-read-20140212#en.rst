@@ -3,7 +3,7 @@
 
 :date: 2014-02-12 01:22
 :tags: Go, Python
-:tags_zh_CN: Linux, Embedded System, Python, Git, C, database, Computer Architecture, Unicode, Web Development, Go, JavaScript, API, Security
+:tags_zh_CN: Linux, Embedded System, Python, Git, C, database, Computer Architecture, Unicode, Web Development, Go, JavaScript, API, Security, R, Assembly
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-12
@@ -36,6 +36,10 @@ Simplified Chinese:
     `Django对静态文件的处理——开发阶段 <http://my.oschina.net/u/993130/blog/198769>`_
 
     `django以stream的方式返回请求 <http://my.oschina.net/u/197384/blog/198890>`_
+
+    `［无聊转］验证码识别远离原理 <http://my.oschina.net/nishenvip/blog/198950>`_
+
+    `Python的数据结构 <http://my.oschina.net/coderinfo/blog/198965>`_
 
   Embedded System:
 
@@ -87,9 +91,15 @@ Simplified Chinese:
 
     `史上最全的Web性能测试工具大全（下 ） <http://my.oschina.net/u/918621/blog/198920>`_
 
+    `SEO题记 <http://my.oschina.net/ankh2008/blog/198938>`_
+
     API:
 
       `开源中国 OpenAPI 上线 <http://www.oschina.net/news/48768/oschina-openapi>`_
+
+  Assembly:
+
+    `四种方法交换两个变量的值 不借助第三个变量  <http://my.oschina.net/cuilili/blog/198944>`_
 
   Security:
 
@@ -98,6 +108,10 @@ Simplified Chinese:
     `iOS安全攻防（七）：Hack实战——解除支付宝app手势解锁错误次数限制 <http://blog.jobbole.com/58818/>`_
 
     `一行代码完成并行任务 <http://blog.jobbole.com/58700/>`_
+
+  R:
+
+    `R语言 线性回归（上） <http://my.oschina.net/u/1047640/blog/198956>`_
 
   News:
 
