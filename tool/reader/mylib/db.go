@@ -111,7 +111,7 @@ func storeItems(db *sql.DB, items []Item) {
 	// insert items into db
 	sql_qryItem := `SELECT PubDate FROM items WHERE Link=?`
 	sql_additem := `
-	INSERT INTO items(
+	INSERT OR REPLACE INTO items(
 		Link,
 		Title,
 		Description,
@@ -139,6 +139,13 @@ func storeItems(db *sql.DB, items []Item) {
 			panic(err3)
 		default:
 			// TODO: check if the same pubDate
+			if pubDate != item.PubDate {
+				_, err4 := stmt.Exec(
+					item.Link, item.Title,
+					string(item.Description),
+					item.PubDate, item.Comments)
+				if err4 != nil { panic(err4) }
+			}
 		}
 	}
 }

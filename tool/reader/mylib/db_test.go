@@ -55,7 +55,8 @@ func TestDbAll(t *testing.T) {
 
 	// test ReadItems
 	items := ReadItems(dbHN)
-	for _, item := range items {
+	for index, item := range items {
+		t.Log(index)
 		t.Log(item)
 	}
 }
