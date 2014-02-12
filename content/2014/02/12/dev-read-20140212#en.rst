@@ -1,9 +1,9 @@
-<Toward Go 1.3>, etc.
-##############################################################################################################
+<Toward Go 1.3>, <Hemingway makes your writing bold and clear>, <How does Facebook disable Developer Tools?>, etc.
+##################################################################################################################
 
 :date: 2014-02-12 01:22
-:tags: Go, Python
-:tags_zh_CN: Linux, Embedded System, Python, Git, C, database, Computer Architecture, Unicode, Web Development, Go, JavaScript, API, Security, R, Assembly, FreeBSD, Hadoop, node.js, Android, Functional Programming, Vim, Java, Shell, math
+:tags: Go, Python, JavaScript, Programming Language, Linux, Github
+:tags_zh_CN: Linux, Embedded System, Python, Git, C, database, Computer Architecture, Unicode, Web Development, Go, JavaScript, API, Security, R, Assembly, FreeBSD, Hadoop, node.js, Android, Functional Programming, Vim, Java, Shell, math, Docker
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-12
@@ -14,14 +14,72 @@ Go:
   `Toward Go 1.3 <http://talks.golang.org/2014/go1.3.slide#1>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7218349>`__)
 
+Website:
+
+  `Hemingway makes your writing bold and clear <http://www.hemingwayapp.com/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7223969>`__)
+
+  `Massively-multiplayer online Flappy Bird <http://flapmmo.com/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7224458>`__)
+
+  `Let me Google that for you (lmgtfy.com) <http://lmgtfy.com/?q=hacker+news>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7223927>`__)
+
+JavaScript:
+
+  `How does Facebook disable Developer Tools? <http://stackoverflow.com/questions/21692646/how-does-facebook-disable-developer-tools>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7222129>`__)
+
+  `Responsive JavaScript (responsivejavascript.com) <http://www.responsivejavascript.com/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7219840>`__)
+
+  `I love you (jsbin.com) <http://jsbin.com/OhisIQAW/1/edit>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7223564>`__)
+
+Linux:
+
+  `Why systemd is winning the init wars and other things aren't (utoronto.ca) <http://utcc.utoronto.ca/~cks/space/blog/linux/SystemdWhyItWon>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7222313>`__)
+
+  `Show HN: ssh and cd get married (github.com) <https://github.com/christianbundy/sshcd>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7223781>`__)
+
+  `Spark web server <https://github.com/rif/spark>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7224162>`__)
+
 Python:
+
+  `Create a DDOS attack using NTP servers <https://github.com/vpnguy/ntpdos>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7223911>`__)
 
   `Show HN: Sunfish – A 111 line Chess Engine in Python (github.com) <https://github.com/thomasahle/sunfish/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7218552>`__)
 
+  `Show HN: pyDash – small web dashboard for linux in python and Django <https://news.ycombinator.com/item?id=7224710>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7224710>`__)
+
+Github:
+
+  `Webhooks Level Up (github.com) <https://github.com/blog/1778-webhooks-level-up>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7220419>`__)
+
+Programming Language:
+
+  `X86 is Turing-complete with no registers <http://mainisusuallyafunction.blogspot.com/2014/02/x86-is-turing-complete-with-no-registers.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7224061>`__)
+
+Show HN:
+
+  `Show HN: Siri-as-a-Service Speech API <https://wit.ai/blog/2014/02/12/speech-api>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7224436>`__)
+
 
 
 Simplified Chinese:
+
+  Docker:
+
+    `文章： Docker：利用Linux容器实现可移植的应用部署 <http://www.infoq.com/cn/articles/docker-containers>`_
 
   Linux:
 
