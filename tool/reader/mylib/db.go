@@ -1,9 +1,17 @@
 /*
+RSS:
+http://stackoverflow.com/questions/15245896/rss-update-single-item
+http://stackoverflow.com/questions/164124/rss-item-updates
+SQLite:
 http://golang.org/pkg/database/sql/
 https://github.com/mattn/go-sqlite3
 http://stackoverflow.com/questions/3634984/insert-if-not-exists-else-update
 http://stackoverflow.com/questions/2251699/sqlite-insert-or-replace-into-vs-update-where
 http://stackoverflow.com/questions/1601151/how-do-i-check-in-sqlite-whether-a-table-exists
+http://stackoverflow.com/questions/19337029/insert-if-not-exists-statement-in-sqlite
+http://stackoverflow.com/questions/6740733/insert-or-replace-is-creating-duplicates
+http://stackoverflow.com/questions/12105198/sqlite-how-to-get-insert-or-ignore-to-work
+http://stackoverflow.com/questions/19134274/sqlitedatabase-insert-or-replace-if-changed
 */
 package mylib
 
@@ -87,16 +95,6 @@ func GetSites(dbpath string) []OpmlOutline {
 }
 
 func storeItems(db *sql.DB, items []Item) {
-/*
-RSS:
-http://stackoverflow.com/questions/15245896/rss-update-single-item
-http://stackoverflow.com/questions/164124/rss-item-updates
-SQLite:
-http://stackoverflow.com/questions/19337029/insert-if-not-exists-statement-in-sqlite
-http://stackoverflow.com/questions/6740733/insert-or-replace-is-creating-duplicates
-http://stackoverflow.com/questions/12105198/sqlite-how-to-get-insert-or-ignore-to-work
-http://stackoverflow.com/questions/19134274/sqlitedatabase-insert-or-replace-if-changed
-*/
 	sql_table := `
 	CREATE TABLE IF NOT EXISTS items(
 		Link TEXT NOT NULL PRIMARY KEY,
@@ -111,8 +109,9 @@ http://stackoverflow.com/questions/19134274/sqlitedatabase-insert-or-replace-if-
 	if err != nil { panic(err) }
 
 	// insert items into db
+	sql_qryItem := `SELECT PubDate FROM items WHERE Link=?`
 	sql_additem := `
-	INSERT OR IGNORE INTO items(
+	INSERT INTO items(
 		Link,
 		Title,
 		Description,
@@ -126,9 +125,21 @@ http://stackoverflow.com/questions/19134274/sqlitedatabase-insert-or-replace-if-
 	defer stmt.Close()
 
 	for _, item := range items {
-		_, err3 := stmt.Exec(item.Link, item.Title,
-			string(item.Description), item.PubDate, item.Comments)
-		if err3 != nil { panic(err3) }
+		// query if the item exists
+		var pubDate string
+		err3 := db.QueryRow(sql_qryItem, item.Link).Scan(&pubDate)
+		switch {
+		case err3 == sql.ErrNoRows:
+			// add item to table in db
+			_, err4 := stmt.Exec(item.Link, item.Title,
+				string(item.Description), item.PubDate,
+				item.Comments)
+			if err4 != nil { panic(err4) }
+		case err3 != nil:
+			panic(err3)
+		default:
+			// TODO: check if the same pubDate
+		}
 	}
 }
 
