@@ -167,8 +167,8 @@ func ReadItems(db *sql.DB) []Item {
 	for rows.Next() {
 		item := Item{}
 		var rawHtml string
-		err2 := rows.Scan(&item.Link, &item.Title, &item.Comments,
-			&rawHtml, &item.PubDate)
+		err2 := rows.Scan(&item.Link, &item.Title,
+			&rawHtml, &item.PubDate, &item.Comments)
 		item.Description = template.HTML(rawHtml)
 		if err2 != nil { panic(err2) }
 		result = append(result, item)
