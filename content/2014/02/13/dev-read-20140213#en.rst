@@ -3,7 +3,7 @@
 
 :date: 2014-02-13 01:27
 :tags: JavaScript, Web Development, Search, math, Go, Python
-:tags_zh_CN: Embedded System, database, JavaScript, CSS, Linux, Unicode, Python, TCP, Go, Makefile, XML, Search, C, Lisp, Shell, Socket
+:tags_zh_CN: Embedded System, Computer Architecture, database, JavaScript, CSS, Linux, Unicode, Python, TCP, Go, Makefile, XML, Search, C, Lisp, Shell, Socket, Perl
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-17
@@ -62,6 +62,10 @@ Simplified Chinese:
 
     `Python 条件判断的使用 <http://my.oschina.net/xiaocon/blog/199492>`_
 
+    `Python文件系统——glob <http://my.oschina.net/u/1449160/blog/199648>`_
+
+    `【解决】web.py接收POST参数，web.input输出为空的问题 <http://my.oschina.net/chenyoca/blog/199641>`_
+
   Socket:
 
     `socket阻塞与非阻塞，同步与异步 <http://my.oschina.net/u/818427/blog/199573>`_
@@ -80,6 +84,10 @@ Simplified Chinese:
 
     `Linux 技巧：让进程在后台可靠运行的几种方法 <http://my.oschina.net/panzhc/blog/199538>`_
 
+    `【原创】如何在 Linux 下调整可打开文件/文件描述符数目 <http://my.oschina.net/moooofly/blog/199596>`_
+
+    `linux之 find命令 <http://my.oschina.net/u/861562/blog/199659>`_
+
   Shell:
 
     `教会你Linux Shell自动交互的三种方法 <http://my.oschina.net/u/1167921/blog/199568>`_
@@ -91,6 +99,10 @@ Simplified Chinese:
   Go:
 
     `golang注意Channel的阻塞特性 <http://my.oschina.net/huangsz/blog/199513>`_
+
+    `golang 的 orm 库 gdao <http://www.oschina.net/p/gdao>`_
+
+    `Go不能简单的将slice转换为接口的slice(2) <http://my.oschina.net/xlplbo/blog/199630>`_
 
   TCP:
 
@@ -132,11 +144,19 @@ Simplified Chinese:
 
     `调试js时，firebug方便的打印功能 <http://my.oschina.net/itxti/blog/199555>`_
 
+    `JavaScript作用域 - 学习Javascript的基石之一(转) <http://my.oschina.net/blogshi/blog/199654>`_
+
+    `jQuery.extend 函数详解 <http://my.oschina.net/shunshun/blog/199639>`_
+
+    `双语站，根据访客自动跳转js <http://my.oschina.net/itxti/blog/199636>`_
+
   CSS:
 
     `transform的使用 <http://my.oschina.net/u/1403171/blog/199243>`_
 
     `Margin简写分析图 <http://my.oschina.net/u/1420791/blog/199265>`_
+
+    `块级元素和行内元素 <http://my.oschina.net/u/1420791/blog/199576>`_
 
   Unicode:
 
@@ -155,6 +175,14 @@ Simplified Chinese:
   Lisp:
 
     `电梯升降过程模拟的CLOS实现 <http://my.oschina.net/u/1011760/blog/199545>`_
+
+  Perl:
+
+    `一段Perl代码获取指定目录下的文件 <http://my.oschina.net/sulliy/blog/199658>`_
+
+  Computer Architecture:
+
+    `计算机基础--二进制补充 <http://my.oschina.net/freesea/blog/199617>`_
 
   News:
 
