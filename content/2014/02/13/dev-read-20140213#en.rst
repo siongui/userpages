@@ -3,7 +3,7 @@
 
 :date: 2014-02-13 01:27
 :tags: JavaScript, Web Development, Search, math, Go, Python
-:tags_zh_CN: Embedded System, Computer Architecture, database, JavaScript, CSS, Linux, Unicode, Python, TCP, Go, Makefile, XML, Search, C, Lisp, Shell, Socket, Perl
+:tags_zh_CN: Machine Learning, Embedded System, Computer Architecture, database, JavaScript, CSS, Linux, Unicode, Python, TCP, Go, Makefile, XML, Search, C, Lisp, Shell, Socket, Perl, Game, Web Development, Data Structure, Algorithm, Hadoop, Security
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-17
@@ -40,11 +40,16 @@ Python:
 math:
 
   `P values are not as reliable as many scientists assume <http://www.nature.com/news/scientific-method-statistical-errors-1.14700>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7225739>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7225739>`__,
+  `统计有效性的黄金标准并不那么可靠 <http://www.solidot.org/story?sid=38331>`_)
 
 
 
 Simplified Chinese:
+
+  Machine Learning:
+
+    `详解并行逻辑回归 <http://www.csdn.net/article/2014-02-13/2818400-2014-02-13>`_ (推薦閱讀!!!)
 
   Philosophy:
 
@@ -65,6 +70,12 @@ Simplified Chinese:
     `Python文件系统——glob <http://my.oschina.net/u/1449160/blog/199648>`_
 
     `【解决】web.py接收POST参数，web.input输出为空的问题 <http://my.oschina.net/chenyoca/blog/199641>`_
+
+    `python中的id,==和is <http://www.oschina.net/code/snippet_1250095_33197>`_
+
+    `python列表去重的几种算法 <http://www.oschina.net/code/snippet_1250095_33209>`_
+
+    `爬虫下载漫画-游侠网 <http://www.oschina.net/code/snippet_870108_33217>`_
 
   Socket:
 
@@ -88,6 +99,10 @@ Simplified Chinese:
 
     `linux之 find命令 <http://my.oschina.net/u/861562/blog/199659>`_
 
+    `crontab 命令 <http://my.oschina.net/idiotsky/blog/199679>`_
+
+    `find命令 <http://my.oschina.net/idiotsky/blog/199682>`_
+
   Shell:
 
     `教会你Linux Shell自动交互的三种方法 <http://my.oschina.net/u/1167921/blog/199568>`_
@@ -103,6 +118,8 @@ Simplified Chinese:
     `golang 的 orm 库 gdao <http://www.oschina.net/p/gdao>`_
 
     `Go不能简单的将slice转换为接口的slice(2) <http://my.oschina.net/xlplbo/blog/199630>`_
+
+    `golang发送邮件 <http://www.oschina.net/code/snippet_1253018_33198>`_
 
   TCP:
 
@@ -128,6 +145,12 @@ Simplified Chinese:
 
     `mysql查询当前数据库中所有表  <http://my.oschina.net/u/1053706/blog/199541>`_
 
+  Web Development:
+
+    `html5+css3酷炫音频播放器代码 <http://www.oschina.net/code/snippet_1448636_33189>`_
+
+    `Facebook 开源移动应用交互设计工具 Origami <http://www.infoq.com/cn/news/2014/02/facebook-open-source-origami>`_
+
   JavaScript:
 
     `15 款优秀的 HTML5 jQuery 插件 <http://www.oschina.net/news/48798/15-excellent-html5-jquery-plugins>`_
@@ -149,6 +172,8 @@ Simplified Chinese:
     `jQuery.extend 函数详解 <http://my.oschina.net/shunshun/blog/199639>`_
 
     `双语站，根据访客自动跳转js <http://my.oschina.net/itxti/blog/199636>`_
+
+    `jquery高级在线配色器插件 <http://www.oschina.net/code/snippet_1390946_33216>`_
 
   CSS:
 
@@ -172,6 +197,8 @@ Simplified Chinese:
 
     `分享下ini的读写 <http://my.oschina.net/panyuanyi/blog/199540>`_
 
+    `ini读写 <http://www.oschina.net/code/snippet_568872_33199>`_
+
   Lisp:
 
     `电梯升降过程模拟的CLOS实现 <http://my.oschina.net/u/1011760/blog/199545>`_
@@ -183,6 +210,38 @@ Simplified Chinese:
   Computer Architecture:
 
     `计算机基础--二进制补充 <http://my.oschina.net/freesea/blog/199617>`_
+
+  Game:
+
+    `Unity3D游戏学习制作之一 <http://my.oschina.net/u/185335/blog/199597>`_
+
+    `支持多平台！2D和3D游戏引擎Godot宣布开源 <http://www.csdn.net/article/2014-02-13/2818403-Godot-Engine>`_
+
+  Algorithm:
+
+    `当我写二分查找时，我想些什么 <http://my.oschina.net/fullofbull/blog/199693>`_
+
+    `新手必会的排序算法python实现 <http://www.oschina.net/code/snippet_1393508_33213>`_
+
+  Data Structure:
+
+    `二叉平衡树（绝对平衡）AVL 操作模板 <http://www.oschina.net/code/snippet_1019031_33203>`_
+
+  Hadoop:
+
+    `为Hadoop存储层增加对OpenStack Swift的支持 <http://www.csdn.net/article/2014-02-11/2818378-OpenStack-Swift-Hadoop>`_
+
+  Security:
+
+    `iOS安全攻防（八）：键盘缓存与安全键盘 <http://blog.jobbole.com/58825/>`_
+
+    `iOS安全攻防（九）：使用Keychain-Dumper导出keychain数据 <http://blog.jobbole.com/58832/>`_
+
+    `iOS安全攻防（十）：二进制和资源文件自检 <http://blog.jobbole.com/58837/>`_
+
+    `iOS安全攻防（十一）：Hack实战——探究支付宝app手势密码 <http://blog.jobbole.com/58842/>`_
+
+    `iOS安全攻防（十二）：iOS7的动态库注入 <http://blog.jobbole.com/58856/>`_
 
   News:
 
@@ -217,4 +276,40 @@ Simplified Chinese:
     `制作思维导图的建议 <http://my.oschina.net/iware/blog/199553>`_
 
     `深圳：海外创客梦想的摇篮 <http://www.leiphone.com/sz-neverland.html>`_
+
+    `ZigBee的发展也有“碎片化” <http://my.oschina.net/u/1422202/blog/199616>`_
+
+    `英国Bytemark Hosting公司为Linux Deepin提供镜像支持 <http://www.oschina.net/news/48809/another-mirror-is-now-available-in-the-uk-chinese-version>`_
+
+    `《纽约时报》希望利用机器学习增加订阅量 <http://www.solidot.org/story?sid=38328>`_
+
+    `从Google备份互联网看“数据安全” <http://www.csdn.net/article/2014-02-08/2818332-how-google-backs-up-internet-data-security>`_
+
+    `支持多平台！2D和3D游戏引擎Godot宣布开源 <http://www.csdn.net/article/2014-02-13/2818403-Godot-Engine>`_
+
+    `NBA全明星周末，数据打造下的辉煌盛事 <http://www.csdn.net/article/2014-02-13/2818406-big-data-firing-up-fans-nba-all-star>`_
+
+    `手游福音：官方中文版Unity用户手册免费发布 <http://www.csdn.net/article/2014-02-13/2818411-unity-released-the-Chinese-version-of-the-user-manual>`_
+
+    `22人15天研发 微信红包系统发起“珍珠港偷袭”的背后 <http://www.csdn.net/article/2014-02-13/2818405-story-about-function-of-getting-red-package-in-weixin>`_
+
+    `追本溯源 解析“大数据生态环境”发展现状 <http://www.csdn.net/article/2014-02-13/2818402-bigdata-hadoop>`_
+
+    `Google Now新增语音命令：生活简单一点，让爱更近一点 <http://www.csdn.net/article/2014-02-13/2818398-Google-Now-commands>`_
+
+    `测测：用百度Clouda占卜移动互联网 <http://www.csdn.net/article/2014-01-06/2818028-xxwolo-clouda>`_
+
+    `微软得小心了！谷歌与VMware合作推动Chrome OS上使用Windows应用 <http://www.csdn.net/article/2014-02-13/2818395>`_
+
+    `微软的无奈：或允许Android应用运行于Windows平台 <http://www.csdn.net/article/2014-02-13/2818394-microsoft-considering-android-apps-on-windows>`_
+
+    `千万美金收购案：GetJar是一家怎样的公司 <http://www.csdn.net/article/2014-02-13/2818396-Sungy-Mobile-acquisition-GetJar>`_
+
+    `如何选择适合自己的编程语言 <http://www.csdn.net/article/2014-02-12/2818389-Which-Coding-Language-Is-Right-For-You>`_
+
+    `迷你书： 架构师（2月刊） <http://www.infoq.com/cn/minibooks/architect-feb-10-2014>`_
+
+    `传微软在考虑允许Android应用运行于Windows和WP <http://blog.jobbole.com/59241/>`_
+
+    `诺基亚式裁员 <http://blog.jobbole.com/59246/>`_
 
