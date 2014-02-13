@@ -19,7 +19,8 @@ import (
 )
 
 
-const polling_interval = 10 * time.Second
+//const polling_interval = 10 * time.Second
+const polling_interval = 5 * time.Minute
 
 type dbInfo struct {
 	site	OpmlOutline
@@ -64,9 +65,13 @@ func getSiteSeed(site OpmlOutline, openedDBs chan dbInfo) {
 	for {
 		select {
 		default:
-			v := GetSeed(site.XmlUrl)
-			storeItems(db, v.Channel.ItemList)
-			log.Println("store: ", site.Title)
+			v, ok := GetSeed(site.XmlUrl)
+			if ok {
+				storeItems(db, v.Channel.ItemList)
+				log.Println("store: ", site.Title)
+			} else {
+				log.Println("fail to get: ", site.Title)
+			}
 			time.Sleep(polling_interval)
 		}
 	}

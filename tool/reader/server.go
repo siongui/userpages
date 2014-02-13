@@ -10,7 +10,6 @@ import (
 
 var (
 	sites = mylib.GetSites("sqlite3/sites.db")
-	//sites = mylib.GetOutlineList("mylib/Feeder_test.opml")
 	indexTmpl = mylib.GetTemplate("view/index.html")
 	rssItemsTmpl = mylib.GetTemplate("view/rss_items.html")
 )
@@ -32,13 +31,12 @@ func siteHandler(w http.ResponseWriter, r *http.Request) {
 	if err != nil { panic(err) }
 	fmt.Println(s.Text)
 
-	v := mylib.GetSeed(s.XmlUrl)
-	//items := mylib.GetItemsFromDB(s.XmlUrl)
-	rssItemsTmpl.Execute(w, v.Channel.ItemList)
+	items := mylib.GetItemsFromDB(s.XmlUrl)
+	rssItemsTmpl.Execute(w, items)
 }
 
 func main() {
-//	mylib.Poll(sites)
+	mylib.Poll(sites)
 	http.HandleFunc("/", indexHandler)
 	http.HandleFunc("/site/", siteHandler)
 	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("./static"))))

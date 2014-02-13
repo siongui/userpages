@@ -50,12 +50,12 @@ func parseSeedContent(content []byte) Rss2 {
 	return v
 }
 
-func GetSeed(url string) Rss2 {
+func GetSeed(url string) (Rss2, bool) {
 	resp, err := http.Get(url)
-	if err != nil { panic(err) }
+	if err != nil { return Rss2{}, false }
 	defer resp.Body.Close()
 
 	body, err := ioutil.ReadAll(resp.Body)
-	if err != nil { panic(err) }
-	return parseSeedContent(body)
+	if err != nil { return Rss2{}, false }
+	return parseSeedContent(body), true
 }
