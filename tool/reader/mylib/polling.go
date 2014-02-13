@@ -26,6 +26,8 @@ type dbInfo struct {
 	db	*sql.DB
 }
 
+var dbMap map[string]dbInfo
+
 func cleanupDB(ch chan os.Signal, openedDBs chan dbInfo) {
 	for sig := range ch {
 		for {
@@ -42,6 +44,8 @@ func cleanupDB(ch chan os.Signal, openedDBs chan dbInfo) {
 }
 
 func Poll(sites []OpmlOutline) {
+	dbMap = make(map[string]dbInfo)
+
 	openedDBs := make(chan dbInfo, len(sites))
 	c := make(chan os.Signal, 2)
 	signal.Notify(c, os.Interrupt, syscall.SIGTERM)
@@ -54,7 +58,9 @@ func Poll(sites []OpmlOutline) {
 
 func getSiteSeed(site OpmlOutline, openedDBs chan dbInfo) {
 	db := InitDB(XmlUrl2DBPath(site.XmlUrl))
-	openedDBs <- dbInfo{site, db}
+	di := dbInfo{site, db}
+	openedDBs <- di
+	dbMap[site.XmlUrl] = di
 	for {
 		select {
 		default:
@@ -64,4 +70,10 @@ func getSiteSeed(site OpmlOutline, openedDBs chan dbInfo) {
 			time.Sleep(polling_interval)
 		}
 	}
+}
+
+func GetItemsFromDB(xmlUrl string) []Item {
+	di, ok := dbMap[xmlUrl]
+	if !ok { return nil }
+	return ReadItems(di.db)
 }

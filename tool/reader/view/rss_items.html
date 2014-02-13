@@ -1,9 +1,5 @@
 <div>
-  <div>
-    <em>{{.Channel.Description}}</em><br />
-    <span>{{.Channel.PubDate}}</span><br />
-  </div>
-{{range $item := .Channel.ItemList}}
+{{range $item := .}}
 <div class="rss-item">
   <div class="rss-item-head">
     <span>{{$item.Title}}</span>
