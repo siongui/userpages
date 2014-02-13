@@ -15,17 +15,24 @@ import (
 	"os/signal"
 	"syscall"
 	"time"
+	"database/sql"
 )
 
 
 const polling_interval = 10 * time.Second
 
-func cleanupDB(ch chan os.Signal, openedDBs chan string) {
+type dbInfo struct {
+	site	OpmlOutline
+	db	*sql.DB
+}
+
+func cleanupDB(ch chan os.Signal, openedDBs chan dbInfo) {
 	for sig := range ch {
 		for {
 			select {
-			case db := <- openedDBs:
-				log.Println(db, " closed!")
+			case di := <- openedDBs:
+				di.db.Close()
+				log.Println(di.site.Title, " db closed!")
 			default:
 				log.Fatal(sig)
 			}
@@ -35,7 +42,7 @@ func cleanupDB(ch chan os.Signal, openedDBs chan string) {
 }
 
 func Poll(sites []OpmlOutline) {
-	openedDBs := make(chan string, len(sites))
+	openedDBs := make(chan dbInfo, len(sites))
 	c := make(chan os.Signal, 2)
 	signal.Notify(c, os.Interrupt, syscall.SIGTERM)
 	go cleanupDB(c, openedDBs)
@@ -45,15 +52,15 @@ func Poll(sites []OpmlOutline) {
 	}
 }
 
-func getSiteSeed(site OpmlOutline, openedDBs chan string) {
-	openedDBs <- site.Title
+func getSiteSeed(site OpmlOutline, openedDBs chan dbInfo) {
+	db := InitDB(XmlUrl2DBPath(site.XmlUrl))
+	openedDBs <- dbInfo{site, db}
 	for {
 		select {
 		default:
 			v := GetSeed(site.XmlUrl)
-			for _, item := range v.Channel.ItemList {
-				log.Println(item)
-			}
+			storeItems(db, v.Channel.ItemList)
+			log.Println("store: ", site.Title)
 			time.Sleep(polling_interval)
 		}
 	}
