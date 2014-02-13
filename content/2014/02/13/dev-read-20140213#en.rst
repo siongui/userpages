@@ -3,7 +3,7 @@
 
 :date: 2014-02-13 01:27
 :tags: JavaScript, Web Development, Search, math, Go, Python
-:tags_zh_CN: Embedded System, database
+:tags_zh_CN: Embedded System, database, JavaScript
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-17
@@ -58,7 +58,21 @@ Simplified Chinese:
 
     `把 ElasticSearch 当成是 NoSQL 数据库 <http://www.oschina.net/translate/elasticsearch-as-nosql>`_
 
+    `【每日一博】数据仓库也需要大数据 <http://my.oschina.net/pangzi/blog/199158>`_
+
+  JavaScript:
+
+    `15 款优秀的 HTML5 jQuery 插件 <http://www.oschina.net/news/48798/15-excellent-html5-jquery-plugins>`_
+
+    `20 个具有惊艳效果的 jQuery 图像缩放插件  <http://www.oschina.net/translate/20-jquery-image-zoom-plugins-for-stunning-effects>`_
+
   News:
+
+    `国产操作系统（红旗Linux）厂商中科红旗解散清算内幕 <http://blog.jobbole.com/59085/>`_
+
+    `国产操作系统厂商中科红旗解散清算内幕 <http://www.oschina.net/news/48789/redflag-dismiss>`__
+
+    `国产操作系统厂商中科红旗解散清算内幕 <http://www.csdn.net/article/2014-02-13/2818393>`__
 
     `业余编程爱好者：请不要叫我们业余爱好者 <http://blog.jobbole.com/58971/>`_
 
@@ -68,5 +82,15 @@ Simplified Chinese:
 
     `20 年来微软官方网站首页的改版截图 <http://www.oschina.net/news/48793/visualized-20-years-of-microsoft-homepage>`_
 
-    `国产操作系统厂商中科红旗解散清算内幕 <http://www.oschina.net/news/48789/redflag-dismiss>`_
+    `微软发飙：是朋友就不要让他/她用XP！ <http://www.oschina.net/news/48799/dont-use-xp>`_
+
+    `利用开源技术搭建视频解决方案平台，以色列初创公司Kaltura获4700万美元投资 <http://www.oschina.net/news/48800/kaltura-opensource-video>`_
+
+    `Red Hat 雇用 CentOS 开发者 <http://www.oschina.net/news/48803/redhat-hire-centos-developers>`_
+
+    `传微软考虑允许安卓应用运行于Windows和WP <http://www.linuxeden.com/html/news/20140213/148361.html>`_
+
+    `TalkingData CEO崔晓波深度专访：真正懂大数据的公司不说大数据 <http://www.csdn.net/article/2014-01-23/2818242>`_
+
+    `在AWS上使用GPU实现分布式神经网络 <http://www.csdn.net/article/2014-02-12/2818391-Cloud-Networks-Netflix>`_
 
