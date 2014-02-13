@@ -1,9 +1,9 @@
-<>, etc.
-##################################################################################################################
+<Elasticsearch 1.0.0 released>, <Technical Details Behind a 400Gbps NTP Amplification DDoS Attack>, <Scaling Asana.com>, etc.
+#############################################################################################################################
 
 :date: 2014-02-13 01:27
-:tags: JavaScript, Web Development, Search, math, Go, Python
-:tags_zh_CN: Machine Learning, Embedded System, Computer Architecture, database, JavaScript, CSS, Linux, Unicode, Python, TCP, Go, Makefile, XML, Search, C, Lisp, Shell, Socket, Perl, Game, Web Development, Data Structure, Algorithm, Hadoop, Security
+:tags: JavaScript, Web Development, Search, math, Go, Python, Security
+:tags_zh_CN: Machine Learning, Embedded System, Computer Architecture, database, JavaScript, CSS, Linux, Unicode, Python, TCP, Go, Makefile, XML, Search, C, Lisp, Shell, Socket, Perl, Game, Web Development, Data Structure, Algorithm, Hadoop, Security, Docker
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-17
@@ -13,6 +13,11 @@ Search:
 
   `Elasticsearch 1.0.0 released <http://www.elasticsearch.org/blog/1-0-0-released/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7225363>`__)
+
+Security:
+
+  `Technical Details Behind a 400Gbps NTP Amplification DDoS Attack <http://blog.cloudflare.com/technical-details-behind-a-400gbps-ntp-amplification-ddos-attack>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7230847>`__)
 
 Web Development:
 
@@ -32,10 +37,19 @@ JavaScript:
   `JQuery Notebook – A Medium like editor wrapped inside a jQuery plugin <http://raphaelcruzeiro.github.io/jquery-notebook/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7225271>`__)
 
+  `Dug.js – A JSONP to HTML Script <http://rog.ie/blog/dugjs-a-jsonp-to-html-script>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7230411>`__)
+
 Python:
 
   `Don't Pickle Your Data <http://www.benfrederickson.com/2014/02/12/dont-pickle-your-data.html>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7226207>`__)
+
+  `Show HN: Wagtail, our new Django CMS <https://news.ycombinator.com/item?id=7231164>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7231164>`__)
+
+  `Why Your Python Runs Slow. Part 1: Data Structures <http://lukauskas.co.uk/articles/2014/02/13/why-your-python-runs-slow-part-1-data-structures/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7230820>`__)
 
 math:
 
@@ -103,6 +117,10 @@ Simplified Chinese:
 
     `find命令 <http://my.oschina.net/idiotsky/blog/199682>`_
 
+    `监控 Linux 性能的 18 个命令行工具 <http://www.oschina.net/translate/command-line-tools-to-monitor-linux-performance>`_
+
+    `sed匹配JSON数据中的数字 <http://segmentfault.com/q/1010000000408080>`_
+
   Shell:
 
     `教会你Linux Shell自动交互的三种方法 <http://my.oschina.net/u/1167921/blog/199568>`_
@@ -120,6 +138,8 @@ Simplified Chinese:
     `Go不能简单的将slice转换为接口的slice(2) <http://my.oschina.net/xlplbo/blog/199630>`_
 
     `golang发送邮件 <http://www.oschina.net/code/snippet_1253018_33198>`_
+
+    `正则表达式提取a标签 <http://www.oschina.net/code/snippet_988783_33221>`_
 
   TCP:
 
@@ -199,6 +219,8 @@ Simplified Chinese:
 
     `ini读写 <http://www.oschina.net/code/snippet_568872_33199>`_
 
+    `请教一个c语言指针的题目 <http://segmentfault.com/q/1010000000408139>`_
+
   Lisp:
 
     `电梯升降过程模拟的CLOS实现 <http://my.oschina.net/u/1011760/blog/199545>`_
@@ -230,6 +252,10 @@ Simplified Chinese:
   Hadoop:
 
     `为Hadoop存储层增加对OpenStack Swift的支持 <http://www.csdn.net/article/2014-02-11/2818378-OpenStack-Swift-Hadoop>`_
+
+  Docker:
+
+    `Docker和其他VM技术有什么不同？ <http://segmentfault.com/q/1010000000407991>`_
 
   Security:
 
@@ -312,4 +338,8 @@ Simplified Chinese:
     `传微软在考虑允许Android应用运行于Windows和WP <http://blog.jobbole.com/59241/>`_
 
     `诺基亚式裁员 <http://blog.jobbole.com/59246/>`_
+
+    `隐私数据开价50/月，你卖吗？ <http://tech2ipo.com/63376>`_
+
+    `Objective-C 高性能的循环 <http://www.oschina.net/translate/high-performance-collection-looping-objective-c>`_
 
