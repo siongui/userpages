@@ -3,7 +3,7 @@
 
 :date: 2014-02-13 01:27
 :tags: JavaScript, Web Development, Search, math, Go, Python
-:tags_zh_CN: 
+:tags_zh_CN: Embedded System, database
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-17
@@ -50,6 +50,14 @@ Simplified Chinese:
 
     `Plan-9效应：为什么东西不坏就不要去修它 <http://www.aqee.net/the-plan-9-effect-or-why-you-should-not-fix-it-if-it-aint-broken/>`_
 
+  Embedded System:
+
+    `DIY一个带WIFI的树莓派照相机 <http://www.geekfan.net/5618/>`_
+
+  database:
+
+    `把 ElasticSearch 当成是 NoSQL 数据库 <http://www.oschina.net/translate/elasticsearch-as-nosql>`_
+
   News:
 
     `业余编程爱好者：请不要叫我们业余爱好者 <http://blog.jobbole.com/58971/>`_
@@ -57,4 +65,8 @@ Simplified Chinese:
     `Tim Bray：2014年软件之路 <http://blog.jobbole.com/58671/>`_
 
     `DataFu在Apache进入孵化状态 <http://www.infoq.com/cn/news/2014/02/datafu-asf>`_
+
+    `20 年来微软官方网站首页的改版截图 <http://www.oschina.net/news/48793/visualized-20-years-of-microsoft-homepage>`_
+
+    `国产操作系统厂商中科红旗解散清算内幕 <http://www.oschina.net/news/48789/redflag-dismiss>`_
 
