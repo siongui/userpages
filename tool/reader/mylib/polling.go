@@ -19,8 +19,8 @@ import (
 )
 
 
-//const polling_interval = 10 * time.Second
-const polling_interval = 5 * time.Minute
+//const polling_interval = 5 * time.Second
+const polling_interval = 8 * time.Minute
 
 type dbInfo struct {
 	site	OpmlOutline

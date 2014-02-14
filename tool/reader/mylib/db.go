@@ -23,11 +23,12 @@ import (
 	_ "github.com/mattn/go-sqlite3"
 	"html/template"
 	"net/url"
+	"fmt"
 )
 
 
 func XmlUrl2DBPath(xmlUrl string) string {
-	return url.QueryEscape(xmlUrl)
+	return fmt.Sprint("sqlite3/", url.QueryEscape(xmlUrl), ".db")
 }
 
 func InitDB(filepath string) *sql.DB {

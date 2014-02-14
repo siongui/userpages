@@ -5,6 +5,6 @@ static/app.js
 static/app.js.deps
 static/app.js.map
 static/app.precompiled.js
-mylib/sites.sqlite3
-mylib/https%3A%2F%2Fnews.ycombinator.com%2Frss
-http*
+mylib/sqlite3/sites.db
+mylib/sqlite3/http*
+sqlite3/http*

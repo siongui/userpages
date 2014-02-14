@@ -4,7 +4,7 @@ import "testing"
 
 
 func TestPoll(t *testing.T) {
-	const filepath = "Feeder.opml"
+	const filepath = "sqlite3/Feeder.opml"
 	sites := GetOutlineList(filepath)
 	Poll(sites[:1])
 

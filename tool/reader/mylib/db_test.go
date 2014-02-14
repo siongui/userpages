@@ -8,7 +8,7 @@ import (
 
 
 func TestDbAll(t *testing.T) {
-	const dbpath = "sites.sqlite3"
+	const dbpath = "sqlite3/sites.db"
 	os.Remove(dbpath)
 
 	// test InitDB
@@ -19,7 +19,7 @@ func TestDbAll(t *testing.T) {
 	t.Log("create sites table in test db: OK!")
 
 	// insert sites data into test db
-	const filepath = "Feeder_test.opml"
+	const filepath = "sqlite3/Feeder_test.opml"
 	siteList := GetOutlineList(filepath)
 	storeSites(db, siteList)
 	t.Log("store sites table in test db: OK!")
@@ -38,9 +38,9 @@ func TestDbAll(t *testing.T) {
 	t.Log("query Hacker News site in test db: OK!", hnUrl)
 
 	// read HN seed
-	content, err5 := ioutil.ReadFile("hn_test.rss")
+	content, err5 := ioutil.ReadFile("sqlite3/hn_test.rss")
 	if err5 != nil { panic(err5) }
-	content2, err6 := ioutil.ReadFile("hn_test2.rss")
+	content2, err6 := ioutil.ReadFile("sqlite3/hn_test2.rss")
 	if err6 != nil { panic(err6) }
 	tmp := parseSeedContent(content)
 	tmp2 := parseSeedContent(content2)
