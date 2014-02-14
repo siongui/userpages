@@ -12,6 +12,9 @@ http://stackoverflow.com/questions/19337029/insert-if-not-exists-statement-in-sq
 http://stackoverflow.com/questions/6740733/insert-or-replace-is-creating-duplicates
 http://stackoverflow.com/questions/12105198/sqlite-how-to-get-insert-or-ignore-to-work
 http://stackoverflow.com/questions/19134274/sqlitedatabase-insert-or-replace-if-changed
+http://stackoverflow.com/questions/14091183/sqlite-order-by-date
+http://stackoverflow.com/questions/15473325/inserting-current-date-and-time-in-sqlite-database
+http://stackoverflow.com/questions/7316747/sqlite-inserting-bool-value
 */
 package mylib
 
