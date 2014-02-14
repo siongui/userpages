@@ -6,7 +6,7 @@
 :tags_zh_CN: Machine Learning, Embedded System, Computer Architecture, database, JavaScript, CSS, Linux, Unicode, Python, TCP, Go, Makefile, XML, Search, C, Lisp, Shell, Socket, Perl, Game, Web Development, Data Structure, Algorithm, Hadoop, Security, Docker
 :category: Dev Read
 :author: Siong-Ui Te
-:summary: English and Chinese Daily Dev Read #2014-02-17
+:summary: English and Chinese Daily Dev Read #2014-02-13
 
 
 Search:
