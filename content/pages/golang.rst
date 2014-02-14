@@ -15,6 +15,8 @@
 
 `GopherCasts <https://gophercasts.io/>`_
 
+`Gadget: A smallish web framework for Go <http://redneckbeard.github.io/gadget/>`_
+
 Blog:
 
   `Code Gangsta <http://codegangsta.io/>`_ (Go)

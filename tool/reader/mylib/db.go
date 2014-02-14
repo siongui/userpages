@@ -104,6 +104,7 @@ func GetSites(dbpath string) []OpmlOutline {
 }
 
 func storeItems(db *sql.DB, items []Item) {
+	// FIXME: add IsRead & InsertDatetime
 	sql_table := `
 	CREATE TABLE IF NOT EXISTS items(
 		Link TEXT NOT NULL PRIMARY KEY,

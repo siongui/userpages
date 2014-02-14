@@ -15,6 +15,8 @@
 
 `Go Programming Language <{filename}./golang.rst>`_
 
+`Python <{filename}./python.rst>`_
+
 `GNU/Linux/System <{filename}./system.rst>`_
 
 `Miscellaneous <{filename}./misc.rst>`_
@@ -58,6 +60,16 @@ Info:
 
   Simplified Chinese:
 
+    `博客 - 伯乐在线 <http://blog.jobbole.com/>`_
+
+    `开源中国 <http://www.oschina.net/>`_
+
+    `外刊IT评论网 | 国外IT评论,编程技巧,网站开发趋势,创业 <http://www.aqee.net/>`_
+
+    `极客范 <http://www.geekfan.net/>`_
+
+    `CSDN.NET - 全球最大中文IT社区 <http://www.csdn.net/>`_
+
     `FreeBuf.COM关注黑客与极客 <http://www.freebuf.com/>`_
 
     `TECH2IPO创见 - 关注互联网创业与科技创业创新 <http://tech2ipo.com/>`_
@@ -68,13 +80,7 @@ Info:
 
     `中国云计算 <http://www.chinacloud.cn/>`_
 
-    `博客 - 伯乐在线 <http://blog.jobbole.com/>`_
-
-    `外刊IT评论网 | 国外IT评论,编程技巧,网站开发趋势,创业 <http://www.aqee.net/>`_
-
     `V2EX <http://www.v2ex.com/>`_
-
-    `Django中国社区 <http://django-china.cn/>`_
 
     `站长之家 <http://www.chinaz.com/>`_
 
@@ -82,16 +88,8 @@ Info:
 
     `中国Zope用户组 <http://czug.org/>`_ (many Python tutorials included)
 
-    `开源中国 <http://www.oschina.net/>`_
-
-    `CSDN.NET - 全球最大中文IT社区 <http://www.csdn.net/>`_
-
     `SegmentFault <http://segmentfault.com/>`_
     (Chinese version of `Stack Overflow <http://stackoverflow.com/>`_)
-
-    `极客范 <http://www.geekfan.net/>`_
-
-    `Python学习平台 | Python程序员 <http://www.pythoner.cn/>`_
 
     `编程狂人 <http://www.tuicool.com/mags>`_
 
@@ -104,8 +102,6 @@ Web Development:
   `Vanseo Design <http://www.vanseodesign.com/>`_
 
   `DevDocs <http://devdocs.io/>`_
-
-  `Pypix <http://pypix.com/>`_
 
   `Webdesigntuts+ <http://webdesign.tutsplus.com/>`_
 
@@ -137,8 +133,10 @@ Web Development:
   `Moot | Forums and commenting re-imagined <https://moot.it/>`_
 
   `Continuous Integration · drone.io <https://drone.io/>`_
- 
+
   `Prepros :: Compile Sass, less or any preprocessing language <http://alphapixels.com/prepros/>`_
+
+  `Ionic: Advanced HTML5 Hybrid Mobile App Framework <http://ionicframework.com/>`_
 
 Web Hosting:
 
@@ -172,12 +170,6 @@ Social:
   `facebook <https://www.facebook.com/>`_
 
   `imgur: the simple image sharer <http://imgur.com/>`_
-
-Web Framework:
-
-  `Gadget: A smallish web framework for Go <http://redneckbeard.github.io/gadget/>`_
-
-  `Ionic: Advanced HTML5 Hybrid Mobile App Framework <http://ionicframework.com/>`_
 
 News:
 
