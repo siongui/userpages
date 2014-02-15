@@ -111,7 +111,9 @@ func storeItems(db *sql.DB, items []Item) {
 		Title TEXT,
 		Description TEXT,
 		PubDate TEXT,
-		Comments TEXT
+		Comments TEXT,
+		IsRead INTEGER,
+		InsertedDatetime DATETIME
 	);
 	`
 
@@ -126,8 +128,10 @@ func storeItems(db *sql.DB, items []Item) {
 		Title,
 		Description,
 		PubDate,
-		Comments
-	) values(?, ?, ?, ?, ?)
+		Comments,
+		IsRead,
+		InsertedDatetime
+	) values(?, ?, ?, ?, ?, 0, CURRENT_TIMESTAMP)
 	`
 
 	stmt, err2 := db.Prepare(sql_additem)
@@ -163,6 +167,7 @@ func storeItems(db *sql.DB, items []Item) {
 func ReadItems(db *sql.DB) []Item {
 	sql_readall := `
 	SELECT Link, Title, Description, PubDate, Comments FROM items
+	ORDER BY datetime(InsertedDatetime) DESC
 	`
 	rows, err := db.Query(sql_readall)
 	if err != nil { panic(err) }
