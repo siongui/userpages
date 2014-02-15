@@ -294,6 +294,8 @@ Traditional Chinese:
 
   `小佳的部落格 - 關於我，以及我的程式學習紀錄 <http://claire-chang.com/>`_
 
+  `hoamon's sandbox <http://www.hoamon.info/blog/>`_
+
 `Yu-Jie Lin <http://www.yjl.im/>`_
 
 `Licson's Tech Space <http://licson.net/>`_

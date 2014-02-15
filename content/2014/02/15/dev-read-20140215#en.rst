@@ -3,7 +3,7 @@
 
 :date: 2014-02-15 04:41
 :tags: Web API, Open Source, Reverse Engineering, JavaScript, Github
-:tags_zh_CN: Web Development
+:tags_zh_CN: Python, Security, Web Development, Linux, Socket, Assembly, R, JavaScript
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-15
@@ -26,6 +26,12 @@ JavaScript:
   `How I want to write node: stream all the things <http://caolanmcmahon.com/posts/how_i_want_to_write_node_stream_all_the_things_new/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7239407>`__)
 
+  `Easily Create, Read, and Erase Cookies with jQuery <http://scotch.io/quick-tips/easily-create-read-and-erase-cookies-with-jquery>`_
+
+  `Making HTML5 Placeholder Input Fields Cross-Browser with jQuery <http://scotch.io/quick-tips/making-html5-placeholder-input-fields-cross-browser-with-jquery>`_
+
+  `How to Encode and Decode Strings with Base64 in JavaScript <http://scotch.io/quick-tips/how-to-encode-and-decode-strings-with-base64-in-javascript>`_
+
 Reverse Engineering:
 
   `Cryptic Crossword: Amateur Crypto and Reverse Engineering <http://www.muppetlabs.com/~breadbox/txt/acre.html>`_
@@ -45,7 +51,81 @@ Open Source:
 
 Simplified Chinese:
 
+  Python:
+
+    `Flask: SSO原理及实现 <http://my.oschina.net/goal/blog/199978>`_
+
+    `python 目录文件操作 <http://my.oschina.net/cloudcoder/blog/199934>`_
+
+    `Python网络编程-socket（一） <http://my.oschina.net/u/1449160/blog/199911>`_
+
+    `tablib 导入导出excel <http://my.oschina.net/u/240562/blog/199909>`_
+
   Web Development:
 
     `Web应用中的离线数据存储 <http://blog.jobbole.com/58661/>`_
+
+    `A4纸的象素分辨率计算  <http://my.oschina.net/xautchao/blog/199912>`_
+
+  Security:
+
+    `恶意程序利用Linksys路由器漏洞在路由器中传播 <http://www.oschina.net/news/48874/linksys-worm-themoon-captured>`_
+
+    `IE10 0day 漏洞被利用获取军事情报 <http://www.oschina.net/news/48873/ie10-0day>`_
+
+    `denyhost防止SSH暴力破解 <http://my.oschina.net/u/112731/blog/199999>`_
+
+  database:
+
+    `mysql开启客户端远程登录功能  <http://my.oschina.net/mjRao/blog/199977>`_
+
+    `HBase中CloumnFamily的设计规则 <http://my.oschina.net/hanzhankang/blog/199969>`_
+
+    `开源数据中心资产管理系统openDCIM 官方WIKI翻译 <http://my.oschina.net/u/1160948/blog/199960>`_
+
+    `sqlite讲解二 <http://my.oschina.net/u/1432769/blog/199906>`_
+
+  Linux:
+
+    `每天一个linux命令（7）：mv命令 <http://my.oschina.net/wenhaowu/blog/199971>`_
+
+    `如何让 history 命令输出格式： 行号 时间戳 执行人 命令 <http://my.oschina.net/lionel45/blog/199901>`_
+
+    `Ubuntu将切换到systemd <http://www.solidot.org/story?sid=38349>`_
+
+  JavaScript:
+
+    `7 个顶级的 jQuery 地图插件 <http://www.oschina.net/translate/seven-top-notch-jquery-global-map-plug-ins>`_
+
+    `Gulp的目标是取代Grunt <http://www.infoq.com/cn/news/2014/02/gulp>`_
+
+  Socket:
+
+    `Socket通信原理和实践 <http://my.oschina.net/u/818427/blog/199939>`_
+
+  Assembly:
+
+    `《汇编语言·王爽》读书笔记 <http://my.oschina.net/wddqing/blog/199935>`_
+
+  R:
+
+    `R语言 方差分析 <http://my.oschina.net/u/1047640/blog/199920>`_
+
+  Algorithm:
+
+    `堆排序(Heapsort) <http://my.oschina.net/u/1412027/blog/199907>`_
+
+  News & Misc:
+
+    `WP 8.1 的一些新泄露：IE浏览器将能上传文件 <http://www.oschina.net/news/48876/wp81-ie-can-upload-file>`_
+
+    `黑市交易网站遭黑客入侵 损失270万美元比特币 <http://www.oschina.net/news/48875/bitcoin-exchange-hacked>`_
+
+    `后台 JavaScript 编译改进 Chrome 性能 <http://www.oschina.net/news/48871/compiling-in-background-for-smoother>`_
+
+    `微软再与 Android 设备制造商签署专利授权协议 <http://www.oschina.net/news/48869/microsoft-and-voxx-electronics-sign-patent-agreement-for-android>`_
+
+    `MultiTail 6.2 发布，提高了命令行帮助的易读性 <http://www.oschina.net/news/48859/multitail-6-2>`_
+
+    `转：我的第一个博文  程序员技术练级攻略 <http://my.oschina.net/u/1450999/blog/199944>`_
 
