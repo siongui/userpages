@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"flag"
 	"net/http"
 	"encoding/json"
 	"./mylib"
@@ -12,6 +13,7 @@ var (
 	sites = mylib.GetSites("sqlite3/sites.db")
 	indexTmpl = mylib.GetTemplate("view/index.html")
 	rssItemsTmpl = mylib.GetTemplate("view/rss_items.html")
+	isProductonServer = flag.Bool("production", false, "localhost:8080")
 )
 
 func indexHandler(w http.ResponseWriter, r *http.Request) {
@@ -40,5 +42,10 @@ func main() {
 	http.HandleFunc("/", indexHandler)
 	http.HandleFunc("/site/", siteHandler)
 	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("./static"))))
-	http.ListenAndServe(":8080", nil)
+	flag.Parse()
+	if *isProductonServer {
+		http.ListenAndServe(":8080", nil)
+	} else {
+		http.ListenAndServe(":8000", nil)
+	}
 }

@@ -19,10 +19,13 @@ DARTIUM=$(DART_DIR)/chromium/chrome
 APP_DART=static/app.dart
 APP_JS=static/app.js
 
-all: server
+all: devserver
 
-server:
+devserver:
 	go run server.go
+
+production:
+	go run server.go -production=true
 
 dartium:
 	DART_FLAGS='--checked' $(DARTIUM) --user-data-dir=./data &
