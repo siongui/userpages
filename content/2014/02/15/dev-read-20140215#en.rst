@@ -2,8 +2,8 @@
 ##########################################
 
 :date: 2014-02-15 04:41
-:tags: Web API, Open Source, Reverse Engineering, JavaScript, Github
-:tags_zh_CN: Python, Security, Web Development, Linux, Socket, Assembly, R, JavaScript
+:tags: Web API, Open Source, Reverse Engineering, JavaScript, Github, Bitcoin, Browser
+:tags_zh_CN: Python, Security, Web Development, Linux, Socket, Assembly, R, JavaScript, GCC, C, Compiler, OS, Unicode
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-15
@@ -42,10 +42,23 @@ Show HN:
   `Show HN: Phaser. It's Trello for software development, with Vim built in. <http://phaserapp.com>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7240370>`__)
 
+  `Show HN: Writebin, an inline markdown editor <http://writebin.io>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7242501>`__)
+
 Open Source:
 
   `Darpa Open Catalog <http://www.darpa.mil/opencatalog/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7240797>`__)
+
+Bitcoin:
+
+  `BitPay introduces Bitcore <http://bitcore.io/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7241176>`__)
+
+Browser:
+
+  `Apple Removes Shadow DOM from Safari <http://trac.webkit.org/changeset/164131>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7243122>`__)
 
 
 
@@ -61,11 +74,21 @@ Simplified Chinese:
 
     `tablib 导入导出excel <http://my.oschina.net/u/240562/blog/199909>`_
 
+    `Python检测服务器或程序是否可用 <http://my.oschina.net/cloudcoder/blog/200014>`_
+
+    `判断ip是不是大陆的 <http://www.oschina.net/code/snippet_177666_33250>`_
+
+  Compiler:
+
+    `php编译原理 <http://my.oschina.net/robin3d/blog/200031>`_
+
   Web Development:
 
     `Web应用中的离线数据存储 <http://blog.jobbole.com/58661/>`_
 
     `A4纸的象素分辨率计算  <http://my.oschina.net/xautchao/blog/199912>`_
+
+    `网站分析师如何让分析报告更具价值 <http://my.oschina.net/u/1451194/blog/200027>`_
 
   Security:
 
@@ -74,6 +97,8 @@ Simplified Chinese:
     `IE10 0day 漏洞被利用获取军事情报 <http://www.oschina.net/news/48873/ie10-0day>`_
 
     `denyhost防止SSH暴力破解 <http://my.oschina.net/u/112731/blog/199999>`_
+
+    `YARA——恶意软件模式匹配利器 <http://my.oschina.net/gooper/blog/200035>`_
 
   database:
 
@@ -84,6 +109,10 @@ Simplified Chinese:
     `开源数据中心资产管理系统openDCIM 官方WIKI翻译 <http://my.oschina.net/u/1160948/blog/199960>`_
 
     `sqlite讲解二 <http://my.oschina.net/u/1432769/blog/199906>`_
+
+    `PostgreSQL 行变列的小应用 <http://my.oschina.net/hexin1/blog/200039>`_
+
+    `学习如何使用Sql Server Analysis Services进行数据挖掘（1） <http://my.oschina.net/lbp0200/blog/200032>`_
 
   Linux:
 
@@ -99,6 +128,10 @@ Simplified Chinese:
 
     `Gulp的目标是取代Grunt <http://www.infoq.com/cn/news/2014/02/gulp>`_
 
+  OS:
+
+    `操作系统基本结构和原理简介 <http://my.oschina.net/u/129126/blog/200026>`_
+
   Socket:
 
     `Socket通信原理和实践 <http://my.oschina.net/u/818427/blog/199939>`_
@@ -111,9 +144,23 @@ Simplified Chinese:
 
     `R语言 方差分析 <http://my.oschina.net/u/1047640/blog/199920>`_
 
+  Unicode:
+
+    `学点Unicode又不会死——Unicode的流言终结者和编码大揭秘 <http://linux.cn/thread/12340/1/1/>`_
+
   Algorithm:
 
     `堆排序(Heapsort) <http://my.oschina.net/u/1412027/blog/199907>`_
+
+  C:
+
+    `获取文件大小 <http://my.oschina.net/plp626/blog/200017>`_
+
+    `开源纯C日志函数库iLOG3快速入门（四、使用合适的日志输出函数或宏） <http://my.oschina.net/u/988092/blog/200013>`_
+
+  GCC:
+
+    `在main()前面或后面调用自己的函数 <http://my.oschina.net/js2854/blog/200019>`_
 
   News & Misc:
 
@@ -128,4 +175,6 @@ Simplified Chinese:
     `MultiTail 6.2 发布，提高了命令行帮助的易读性 <http://www.oschina.net/news/48859/multitail-6-2>`_
 
     `转：我的第一个博文  程序员技术练级攻略 <http://my.oschina.net/u/1450999/blog/199944>`_
+
+    `究竟是谁杀死了中科红旗Linux？ <http://linux.cn/thread/12339/1/1/>`_
 
