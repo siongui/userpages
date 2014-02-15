@@ -19,8 +19,7 @@ import (
 )
 
 
-//const polling_interval = 5 * time.Second
-const polling_interval = 8 * time.Minute
+var polling_interval = 8 * time.Minute
 
 type dbInfo struct {
 	site	OpmlOutline
@@ -28,6 +27,10 @@ type dbInfo struct {
 }
 
 var dbMap map[string]dbInfo
+
+func setTestPollingInterval() {
+	polling_interval = 5 * time.Second
+}
 
 func cleanupDB(ch chan os.Signal, openedDBs chan dbInfo) {
 	for sig := range ch {
