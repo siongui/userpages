@@ -2,12 +2,22 @@
 ############################################################################################
 
 :date: 2014-02-17 03:33
-:tags: Web Development
+:tags: Game, Web Development, Search
 :tags_zh_CN: database, Linux
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-17
 
+
+3D Picture:
+
+  `3D GIFs Created with a Simple Visual Effect <http://www.mymodernmet.com/profiles/blogs/3d-gifs>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7248708>`__)
+
+Game:
+
+  `Thousands of people playing a game of pokemon live <http://www.dorkly.com/article/59332/there-are-thousands-of-people-trying-to-play-the-same-game-of-pokemon>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7249121>`__)
 
 Web Development:
 
@@ -22,10 +32,10 @@ JavaScript:
   `Building JavaScript Tools You Didn't Think Were Possible <http://gregfranko.com/building-javascript-tools-talk/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7248362>`__)
 
-3D Picture:
+Search:
 
-  `3D GIFs Created with a Simple Visual Effect <http://www.mymodernmet.com/profiles/blogs/3d-gifs>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7248708>`__)
+  `Realtime Search as a Service <http://www.algolia.com>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7249019>`__)
 
 
 
