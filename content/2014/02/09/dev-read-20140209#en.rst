@@ -21,7 +21,8 @@ Linux:
 Git:
 
   `Every line of code is always documented <http://mislav.uniqpath.com/2014/02/hidden-documentation/>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7202146>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7202146>`__,
+  `每一行代码都有记录 <http://blog.jobbole.com/59359/>`_)
 
 Bitcoin:
 
