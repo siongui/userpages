@@ -14,22 +14,17 @@ import (
 
 
 // http://www.w3schools.com/rss/rss_syntax.asp
-type Rss2 struct {
-	XMLName	xml.Name	`xml:"rss"`
-	Version	string		`xml:"version,attr"`
-	Channel	RssChan
-}
-
 // http://www.w3schools.com/rss/rss_channel.asp
-type RssChan struct {
-	XMLName		xml.Name	`xml:"channel"`
+type Rss2 struct {
+	XMLName		xml.Name	`xml:"rss"`
+	Version		string		`xml:"version,attr"`
 	// Required
-	Title		string		`xml:"title"`
-	Link		string		`xml:"link"`
-	Description	string		`xml:"description"`
+	Title		string		`xml:"channel>title"`
+	Link		string		`xml:"channel>link"`
+	Description	string		`xml:"channel>description"`
 	// Optional
-	PubDate		string		`xml:"pubDate"`
-	ItemList	[]Item		`xml:"item"`
+	PubDate		string		`xml:"channel>pubDate"`
+	ItemList	[]Item		`xml:"channel>item"`
 }
 
 // http://www.w3schools.com/rss/rss_item.asp
@@ -48,11 +43,12 @@ type Item struct {
 
 
 // http://en.wikipedia.org/wiki/Atom_(standard)
+// http://golang.org/src/pkg/encoding/xml/
 type Atom1 struct {
-	XMLName		xml.Name	`xml:"feed"`
-	Xmlns		string		`xml:"xmlns,attr"`
+	XMLName		xml.Name	`xml:"http://www.w3.org/2005/Atom feed"`
 	Title		string		`xml:"title"`
 	Subtitle	string		`xml:"subtitle"`
+	Id		string		`xml:"id"`
 	Link		Link		`xml:"link"`
 	Author		Author		`xml:"author"`
 	EntryList	[]Entry		`xml:"entry"`
@@ -117,9 +113,5 @@ func GetAtom(url string) (Atom1, bool) {
 		return a, false
 	}
 
-	if a.Xmlns == "http://www.w3.org/2005/Atom" {
-		// Atom 1.0
-		return a, true
-	}
-	return a, false
+	return a, true
 }
