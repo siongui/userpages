@@ -49,6 +49,8 @@ type Atom1 struct {
 	Title		string		`xml:"title"`
 	Subtitle	string		`xml:"subtitle"`
 	Id		string		`xml:"id"`
+	Updated		string		`xml:"updated"`
+	Rights		string		`xml:"rights"`
 	Link		Link		`xml:"link"`
 	Author		Author		`xml:"author"`
 	EntryList	[]Entry		`xml:"entry"`
@@ -66,7 +68,9 @@ type Author struct {
 type Entry struct {
 	Title		string		`xml:"title"`
 	Summary		string		`xml:"summary"`
+	Content		string		`xml:"content"`
 	Id		string		`xml:"id"`
+	Updated		string		`xml:"updated"`
 	Link		Link		`xml:"link"`
 	Author		Author		`xml:"author"`
 }
@@ -76,6 +80,17 @@ func atom1ToRss2(a Atom1) Rss2 {
 		Title: a.Title,
 		Link: a.Link.Href,
 		Description: a.Subtitle,
+		PubDate: a.Updated,
+	}
+	r.ItemList = make([]Item, len(a.EntryList))
+	for i, entry := range a.EntryList {
+		r.ItemList[i].Title = entry.Title
+		r.ItemList[i].Link = entry.Link.Href
+		if entry.Content == "" {
+			r.ItemList[i].Description = template.HTML(entry.Summary)
+		} else {
+			r.ItemList[i].Description = template.HTML(entry.Content)
+		}
 	}
 	return r
 }
