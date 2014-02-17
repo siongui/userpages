@@ -1,5 +1,7 @@
 // http://www.w3schools.com/rss/default.asp
 // http://www.tutorialspoint.com/rss/what-is-atom.htm
+// http://stackoverflow.com/questions/6619717/what-is-the-difference-between-rss-and-atom-feeds
+// http://stackoverflow.com/questions/16309944/atom-to-rss-feeds-converter
 package mylib
 
 import (
@@ -12,22 +14,17 @@ import (
 
 
 // http://www.w3schools.com/rss/rss_syntax.asp
-type Rss2 struct {
-	XMLName	xml.Name	`xml:"rss"`
-	Version	string		`xml:"version,attr"`
-	Channel	RssChan
-}
-
 // http://www.w3schools.com/rss/rss_channel.asp
-type RssChan struct {
-	XMLName		xml.Name	`xml:"channel"`
+type Rss2 struct {
+	XMLName		xml.Name	`xml:"rss"`
+	Version		string		`xml:"version,attr"`
 	// Required
-	Title		string		`xml:"title"`
-	Link		string		`xml:"link"`
-	Description	string		`xml:"description"`
+	Title		string		`xml:"channel>title"`
+	Link		string		`xml:"channel>link"`
+	Description	string		`xml:"channel>description"`
 	// Optional
-	PubDate		string		`xml:"pubDate"`
-	ItemList	[]Item		`xml:"item"`
+	PubDate		string		`xml:"channel>pubDate"`
+	ItemList	[]Item		`xml:"channel>item"`
 }
 
 // http://www.w3schools.com/rss/rss_item.asp
@@ -46,11 +43,14 @@ type Item struct {
 
 
 // http://en.wikipedia.org/wiki/Atom_(standard)
+// http://golang.org/src/pkg/encoding/xml/
 type Atom1 struct {
-	XMLName		xml.Name	`xml:"feed"`
-	Xmlns		string		`xml:"xmlns,attr"`
+	XMLName		xml.Name	`xml:"http://www.w3.org/2005/Atom feed"`
 	Title		string		`xml:"title"`
 	Subtitle	string		`xml:"subtitle"`
+	Id		string		`xml:"id"`
+	Updated		string		`xml:"updated"`
+	Rights		string		`xml:"rights"`
 	Link		Link		`xml:"link"`
 	Author		Author		`xml:"author"`
 	EntryList	[]Entry		`xml:"entry"`
@@ -68,56 +68,81 @@ type Author struct {
 type Entry struct {
 	Title		string		`xml:"title"`
 	Summary		string		`xml:"summary"`
+	Content		string		`xml:"content"`
 	Id		string		`xml:"id"`
+	Updated		string		`xml:"updated"`
 	Link		Link		`xml:"link"`
 	Author		Author		`xml:"author"`
 }
 
+func atom1ToRss2(a Atom1) Rss2 {
+	r := Rss2{
+		Title: a.Title,
+		Link: a.Link.Href,
+		Description: a.Subtitle,
+		PubDate: a.Updated,
+	}
+	r.ItemList = make([]Item, len(a.EntryList))
+	for i, entry := range a.EntryList {
+		r.ItemList[i].Title = entry.Title
+		r.ItemList[i].Link = entry.Link.Href
+		if entry.Content == "" {
+			r.ItemList[i].Description = template.HTML(entry.Summary)
+		} else {
+			r.ItemList[i].Description = template.HTML(entry.Content)
+		}
+	}
+	return r
+}
 
-func parseSeedContent(content []byte) Rss2 {
+
+const atomErrStr = "expected element type <rss> but have <feed>"
+
+func parseAtom(content []byte) (Rss2, bool){
+	a := Atom1{}
+	err := xml.Unmarshal(content, &a)
+	if err != nil {
+		log.Println(err)
+		return Rss2{}, false
+	}
+	return atom1ToRss2(a), true
+}
+
+func parseSeedContent(content []byte) (Rss2, bool) {
 	v := Rss2{}
 	err := xml.Unmarshal(content, &v)
 	if err != nil {
+		if err.Error() == atomErrStr {
+			// try Atom 1.0
+			return parseAtom(content)
+		}
 		log.Println(err)
-		return v
+		return v, false
 	}
 
 	if v.Version == "2.0" {
 		// RSS 2.0
-		return v
+		return v, true
 	}
-	return v
+
+	log.Println("not RSS 2.0")
+	return v, false
 }
 
 func GetSeed(url string) (Rss2, bool) {
 	resp, err := http.Get(url)
-	if err != nil { return Rss2{}, false }
+	if err != nil {
+		log.Println(err)
+		return Rss2{}, false
+	}
 	defer resp.Body.Close()
 
 	body, err2 := ioutil.ReadAll(resp.Body)
-	if err2 != nil { return Rss2{}, false }
-	return parseSeedContent(body), true
-}
-
-
-func GetAtom(url string) (Atom1, bool) {
-	a := Atom1{}
-	resp, err := http.Get(url)
-	if err != nil { return a, false }
-	defer resp.Body.Close()
-
-	body, err2 := ioutil.ReadAll(resp.Body)
-	if err2 != nil { return a, false }
-
-	err3 := xml.Unmarshal(body, &a)
-	if err3 != nil {
-		log.Println(err3)
-		return a, false
+	if err2 != nil {
+		log.Println(err2)
+		return Rss2{}, false
 	}
 
-	if a.Xmlns == "http://www.w3.org/2005/Atom" {
-		// Atom 1.0
-		return a, true
-	}
-	return a, false
+	return parseSeedContent(body)
 }
+

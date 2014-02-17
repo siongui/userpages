@@ -42,14 +42,14 @@ func TestDbAll(t *testing.T) {
 	if err5 != nil { panic(err5) }
 	content2, err6 := ioutil.ReadFile("sqlite3/hn_test2.rss")
 	if err6 != nil { panic(err6) }
-	tmp := parseSeedContent(content)
-	tmp2 := parseSeedContent(content2)
+	tmp, _ := parseSeedContent(content)
+	tmp2, _ := parseSeedContent(content2)
 	// test storeItems
 	os.Remove(XmlUrl2DBPath(hnUrl))
 	dbHN := InitDB(XmlUrl2DBPath(hnUrl))
 	defer dbHN.Close()
-	storeItems(dbHN, tmp.Channel.ItemList)
-	storeItems(dbHN, tmp2.Channel.ItemList)
+	storeItems(dbHN, tmp.ItemList)
+	storeItems(dbHN, tmp2.ItemList)
 
 	// test ReadItems
 	items := ReadItems(dbHN)
