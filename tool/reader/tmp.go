@@ -72,46 +72,53 @@ type Entry struct {
 }
 
 
-func parseSeedContent(content []byte) Rss2 {
+const atomErrStr = "expected element type <rss> but have <feed>"
+
+func parseAtom(content []byte) (Atom1, bool){
+	a := Atom1{}
+	err := xml.Unmarshal(content, &a)
+	if err != nil {
+		log.Println(err)
+		return a, false
+	}
+	return a, true
+}
+
+func parseSeedContent(content []byte) (Rss2, bool) {
 	v := Rss2{}
 	err := xml.Unmarshal(content, &v)
 	if err != nil {
+		if err.Error() == atomErrStr {
+			// try Atom 1.0
+			log.Println(parseAtom(content))
+		}
 		log.Println(err)
-		return v
+		return v, false
 	}
 
 	if v.Version == "2.0" {
 		// RSS 2.0
-		return v
+		return v, true
 	}
-	return v
+
+	log.Println("not RSS 2.0")
+	return v, false
 }
 
 func GetSeed(url string) (Rss2, bool) {
 	resp, err := http.Get(url)
-	if err != nil { return Rss2{}, false }
+	if err != nil {
+		log.Println(err)
+		return Rss2{}, false
+	}
 	defer resp.Body.Close()
 
 	body, err2 := ioutil.ReadAll(resp.Body)
-	if err2 != nil { return Rss2{}, false }
-	return parseSeedContent(body), true
-}
-
-
-func GetAtom(url string) (Atom1, bool) {
-	a := Atom1{}
-	resp, err := http.Get(url)
-	if err != nil { return a, false }
-	defer resp.Body.Close()
-
-	body, err2 := ioutil.ReadAll(resp.Body)
-	if err2 != nil { return a, false }
-
-	err3 := xml.Unmarshal(body, &a)
-	if err3 != nil {
-		log.Println(err3)
-		return a, false
+	if err2 != nil {
+		log.Println(err2)
+		return Rss2{}, false
 	}
 
-	return a, true
+	return parseSeedContent(body)
 }
+
