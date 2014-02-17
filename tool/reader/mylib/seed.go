@@ -28,12 +28,15 @@ type Rss2 struct {
 }
 
 // http://www.w3schools.com/rss/rss_item.asp
+// http://stackoverflow.com/questions/7220670/difference-between-description-and-contentencoded-tags-in-rss2
+// https://groups.google.com/d/topic/golang-nuts/uBMo1BpaQCM
 type Item struct {
 	// Required
 	Title		string		`xml:"title"`
 	Link		string		`xml:"link"`
 	Description	template.HTML	`xml:"description"`
 	// Optional
+	Content		template.HTML	`xml:"encoded"`
 	PubDate		string		`xml:"pubDate"`
 	Comments	string		`xml:"comments"`
 	// for reader only
@@ -122,6 +125,11 @@ func parseSeedContent(content []byte) (Rss2, bool) {
 
 	if v.Version == "2.0" {
 		// RSS 2.0
+		for _, item := range v.ItemList {
+			if item.Content != "" {
+				item.Description = item.Content
+			}
+		}
 		return v, true
 	}
 

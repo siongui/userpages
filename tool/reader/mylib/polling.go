@@ -71,7 +71,7 @@ func getSiteSeed(site OpmlOutline, openedDBs chan dbInfo) {
 			v, ok := GetSeed(site.XmlUrl)
 			if ok {
 				storeItems(db, v.ItemList)
-				log.Println("store: ", site.Title)
+				//log.Println("store: ", site.Title)
 			} else {
 				log.Println("fail to get: ", site.Title)
 			}

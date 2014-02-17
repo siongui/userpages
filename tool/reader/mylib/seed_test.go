@@ -5,6 +5,7 @@ import "testing"
 func TestGetSeed(t *testing.T) {
 //	v, ok := GetSeed("https://news.ycombinator.com/rss")
 //	v, ok := GetSeed("http://www.linuxeden.com/rss.php")
+//	v, ok := GetSeed("http://www.aqee.net/feed/")
 	v, ok := GetSeed("http://zh.cn.nikkei.com/rss.html")
 	if !ok { t.Fatal("GetSeed 日經中文網 not ok") }
 	t.Log(v)
