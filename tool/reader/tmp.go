@@ -71,17 +71,26 @@ type Entry struct {
 	Author		Author		`xml:"author"`
 }
 
+func atom1ToRss2(a Atom1) Rss2 {
+	r := Rss2{
+		Title: a.Title,
+		Link: a.Link.Href,
+		Description: a.Subtitle,
+	}
+	return r
+}
+
 
 const atomErrStr = "expected element type <rss> but have <feed>"
 
-func parseAtom(content []byte) (Atom1, bool){
+func parseAtom(content []byte) (Rss2, bool){
 	a := Atom1{}
 	err := xml.Unmarshal(content, &a)
 	if err != nil {
 		log.Println(err)
-		return a, false
+		return Rss2{}, false
 	}
-	return a, true
+	return atom1ToRss2(a), true
 }
 
 func parseSeedContent(content []byte) (Rss2, bool) {
@@ -90,7 +99,7 @@ func parseSeedContent(content []byte) (Rss2, bool) {
 	if err != nil {
 		if err.Error() == atomErrStr {
 			// try Atom 1.0
-			log.Println(parseAtom(content))
+			return parseAtom(content)
 		}
 		log.Println(err)
 		return v, false
