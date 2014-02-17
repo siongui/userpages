@@ -125,9 +125,9 @@ func parseSeedContent(content []byte) (Rss2, bool) {
 
 	if v.Version == "2.0" {
 		// RSS 2.0
-		for _, item := range v.ItemList {
-			if item.Content != "" {
-				item.Description = item.Content
+		for i, _ := range v.ItemList {
+			if v.ItemList[i].Content != "" {
+				v.ItemList[i].Description = v.ItemList[i].Content
 			}
 		}
 		return v, true
