@@ -3,7 +3,7 @@
 
 :date: 2014-02-18 04:58
 :tags: Web Development, JavaScript
-:tags_zh_CN: Linux, Web Development
+:tags_zh_CN: Linux, Web Development, JavaScript
 :category: Dev Read
 :author: Siong-Ui Te
 :summary: English and Chinese Daily Dev Read #2014-02-18
@@ -49,9 +49,15 @@ Simplified Chinese:
 
     `监控 Linux 性能的 18 个命令行工具 <http://www.oschina.net/translate/command-line-tools-to-monitor-linux-performance>`_
 
+    `深度专访：深谈的故事 (LinuxDeepin) <http://www.oschina.net/news/48943/deepin-talk>`_
+
   Web Development:
 
     `全Javascript的Web开发架构：MEAN和Yeoman <http://blog.jobbole.com/59689/>`_
+
+  JavaScript:
+
+    `jQuery制作手风琴左右伸缩导航菜单效果超级棒 <http://www.oschina.net/code/snippet_1438110_33292>`_
 
   News & Misc:
 
@@ -74,4 +80,12 @@ Simplified Chinese:
     `#翻译# Objective-C 高性能的循环 <http://www.oschina.net/translate/high-performance-collection-looping-objective-c>`_
 
     `Google首席软件工程师Joshua Bloch谈如何设计一款优秀的API【附PPT】 <http://www.csdn.net/article/2014-02-18/2818441-How-to-design-a-good-API>`_
+
+    `MorphOS 3.5 发布，非主流操作系统 <http://www.oschina.net/news/48967/morphos-3-5>`_
+
+    `x86版安卓4.4-RC1截图曝光 或将近期正式发布 <http://tech2ipo.com/63424>`_
+
+    `微软推出C#必应代码搜索：编程变得太简单 <http://tech2ipo.com/63423>`_
+
+    `Mt.Gox宣称比特币交易漏洞已经解决 <http://tech2ipo.com/63422>`_
 
