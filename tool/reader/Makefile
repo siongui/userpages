@@ -50,9 +50,6 @@ db_test:
 seed_test:
 	go test -test.v mylib/seed_test.go mylib/seed.go
 
-tmp_test:
-	go test -test.v tmp.go tmp_test.go
-
 opml_test:
 	go test -test.v mylib/opml_test.go mylib/opml.go
 

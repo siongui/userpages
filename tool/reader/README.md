@@ -2,7 +2,32 @@
 
 my RSS Reader written in [Go](http://golang.org/) (server side) and [Dart](https://www.dartlang.org/) (client side).
 
-References:
+## Set up Development Environment
+
+Tested under:
+
+  - [Ubuntu Linux](http://www.ubuntu.com/) 13.10
+  - [Go](http://golang.org/) 1.2
+  - [Dart](https://www.dartlang.org/) 1.1
+
+Download Golang and Dart SDK, after extracting the SDK, edit the path in Makefile to point to the path of your extracted SDK.
+
+Need [sqlite](http://www.sqlite.org/) to store data on server side. Please install sqlite3 driver first:
+
+```bash
+$ make sqlite3
+```
+
+If everything goes fine, start the server by:
+
+```bash
+$ make production
+```
+
+Then open your browser at [localhost:8080](http://localhost:8080/) to use this reader.
+
+
+## References
 
 - [Golang 中国博客](http://blog.go-china.org/)
 - [《Go Web 编程》](https://github.com/astaxie/build-web-application-with-golang/blob/master/ebook/preface.md)
