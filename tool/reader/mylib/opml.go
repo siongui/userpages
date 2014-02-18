@@ -24,7 +24,6 @@ type OpmlBody struct {
 }
 
 type OpmlOutline struct {
-//	XMLName	xml.Name	`xml:"outline"`
 	Text	string		`xml:"text,attr"`
 	Title	string		`xml:"title,attr"`
 	Type	string		`xml:"type,attr"`

@@ -27,6 +27,9 @@ devserver:
 production:
 	go run server.go -production=true
 
+import:
+	go run importcheck.go
+
 dartium:
 	DART_FLAGS='--checked' $(DARTIUM) --user-data-dir=./data &
 
