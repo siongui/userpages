@@ -1,8 +1,8 @@
-<>, etc.
-#################################################################################
+<Game Theory: How 70,000 Pokemon Players Sabotage Themselves>, <Video Processing at Dropbox>, <WebGL Water>, etc.
+#################################################################################################################
 
 :date: 2014-02-19 04:33
-:tags: SVG, Random Number, Docker
+:tags: math, Git, Security, Linux, Web Development, SVG, Random Number, Docker, database
 :tags_zh_CN: Algorithm, Shell, Embedded System, math, C, Ruby, Java, Lisp, Go, R, C++, Linux, Perl, PHP, Web Development, JavaScript, database, Security
 :category: Dev Read
 :author: Siong-Ui Te
@@ -13,6 +13,42 @@ Game:
 
   `Game Theory: How 70,000 Pokemon Players Sabotage Themselves <http://minimaxir.com/2014/02/glory-to-the-helix/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7258905>`__)
+
+Web Development:
+
+  `Video Processing at Dropbox <https://tech.dropbox.com/2014/02/video-processing-at-dropbox/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7260368>`__)
+
+  `WebGL Water <http://madebyevan.com/webgl-water/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7264103>`__)
+
+Linux:
+
+  `Cluster-Level Container Deployment with fleet <http://coreos.com/blog/cluster-level-container-orchestration/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7260596>`__)
+
+  `Sta.li: Static Linux <http://sta.li>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7261559>`__)
+
+  `Comparison of C/Posix standard library implementations for Linux <http://www.etalabs.net/compare_libcs.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7263020>`__)
+
+Security:
+
+  `WRT120N fprintf Stack Overflow <http://www.devttys0.com/2014/02/wrt120n-fprintf-stack-overflow/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7261508>`__)
+
+database:
+
+  `Want to run SQL on a CSV file? <http://thechangelog.com/want-to-run-sql-on-a-csv-file/>`_
+
+  `Costs of a PostgreSQL connection <http://hans.io/blog/2014/02/19/postgresql_connection/index.html>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7263696>`__)
+
+Git:
+
+  `Cool Git Intro/Summary/Refresher <http://rogerdudler.github.io/git-guide/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7262905>`__)
 
 SVG:
 
@@ -27,6 +63,27 @@ Docker:
 
   `Automated deployment with Docker – lessons learnt <https://www.hiddentao.com/archives/2013/12/26/automated-deployment-with-docker-lessons-learnt/>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7258683>`__)
+
+Website:
+
+  `Drp.io: Fast and easy images hosting <http://drp.io>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7262997>`__)
+
+  `Show HN: Cronstring – parse human readable strings into cron times <http://thomseddon.github.io/cronstring/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7263114>`__)
+
+math:
+
+  `A probabilistic model of prime numbers, based on network theory <http://arxiv.org/abs/1402.3612>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7263309>`__)
+
+  `A Fervent Defense of Frequentist Statistics <http://lesswrong.com/lw/jne/a_fervent_defense_of_frequentist_statistics/>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7263490>`__)
+
+Programming Languages:
+
+  `Helloworld program in 100+ langauges <https://github.com/Prithvirajbilla/helloworld>`_
+  (`HN discuss <https://news.ycombinator.com/item?id=7263325>`__)
 
 
 
@@ -108,6 +165,8 @@ Simplified Chinese:
 
     `浅谈JavaScript学习之旅 <http://my.oschina.net/web705/blog/201022>`_
 
+    `JavaScript Puzzlers 解密（一）：为什么 ["1", "2", "3"].map(parseInt) 返回 [1, NaN, NaN]？ <http://justjavac.com/javascript/2014/02/18/javascript-puzzlers-why-1-2-3-map-parseint-returns-1-NaN-NaN-in-javascript.html>`_
+
     `为什么 ["1", "2", "3"].map(parseInt) 返回 [1,NaN,NaN]？ <http://my.oschina.net/justjavac/blog/201043>`_
 
     `通过cssText属性批量设置、修改样式 <http://my.oschina.net/tommyfok/blog/201061>`_
@@ -115,6 +174,8 @@ Simplified Chinese:
     `百度的在刷新页面之前触发的脚本 <http://www.oschina.net/code/snippet_436266_33366>`_
 
     `表格隔行间色及高亮 <http://www.oschina.net/code/snippet_1026590_33339>`_
+
+    `javascript运动框架 <http://www.oschina.net/code/snippet_1026590_33378>`_
 
   PHP:
 
@@ -243,4 +304,12 @@ Simplified Chinese:
     `Firefox OS，在利基市场匍匐前进 <http://linux.cn/thread/12359/1/1/>`_
 
     `为什么鼠标光标向左倾斜，而不是垂直的？ <http://www.geekfan.net/6346/>`_
+
+    `一小时造一辆开源造汽车，成本不到 4000 美元 <http://www.geekfan.net/6381/>`_
+
+    `腾讯大规模Hadoop集群实践 <http://www.csdn.net/article/2014-02-19/2818473-Tencent-Hadoop>`_
+
+    `MIT研究发现Twitters数据能预测大型公共事件 <http://www.pythoner.cn/home/blog/can-twitter-predict-major-events-such-as-mass-protests/>`_
+
+    `Android文本时钟 — Part5 <http://blog.jobbole.com/59488/>`_
 
