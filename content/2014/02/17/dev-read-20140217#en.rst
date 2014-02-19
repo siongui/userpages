@@ -49,7 +49,8 @@ Cryptography:
 History:
 
   `Why is the mouse cursor slightly tilted and not straight? <http://ux.stackexchange.com/questions/52336/why-is-the-mouse-cursor-slightly-tilted-and-not-straight>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7251987>`__)
+  (`HN discuss <https://news.ycombinator.com/item?id=7251987>`__,
+  `为什么鼠标光标向左倾斜，而不是垂直的？ <http://www.geekfan.net/6346/>`_)
 
 Security:
 

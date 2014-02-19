@@ -122,6 +122,8 @@ Ruby:
 
 Simplified Chinese:
 
+  `阮一峰的网络日志 <http://www.ruanyifeng.com/blog/>`_
+
   `Beyond the Void <https://www.byvoid.com/>`_
 
   `BeiYuu.com <http://beiyuu.com/>`_
