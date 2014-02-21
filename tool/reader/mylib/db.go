@@ -19,11 +19,12 @@ http://stackoverflow.com/questions/7316747/sqlite-inserting-bool-value
 package mylib
 
 import (
-	"database/sql"
-	_ "github.com/mattn/go-sqlite3"
-	"html/template"
-	"net/url"
 	"fmt"
+	"net/url"
+	"html/template"
+	"database/sql"
+
+	_ "github.com/mattn/go-sqlite3"
 )
 
 
