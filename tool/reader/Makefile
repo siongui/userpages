@@ -36,6 +36,10 @@ dartium:
 js: $(APP_DART)
 	$(DART2JS) --minify --out=$(APP_JS) $(APP_DART)
 
+clean:
+	rm static/app.js.*
+	rm static/app.precompiled.js
+
 test:
 	go test -test.v ./mylib
 
