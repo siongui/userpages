@@ -1,6 +1,15 @@
 import 'dart:html';
 import 'dart:convert';
 
+void sendLink(Map<String, String> jsonData) {
+  HttpRequest request = new HttpRequest();
+
+  // POST the data to the server
+  String url = "/savelink/";
+  request.open("POST", url, async: false);
+  request.send(JSON.encode(jsonData));
+}
+
 void showRssItems(String html) {
   DivElement view = query(".rss-site-items");
   view.children.clear();
@@ -19,6 +28,19 @@ void showRssItems(String html) {
       }
     });
     elm.query(".rss-item-content").hidden = true;
+
+    // send link to server
+    elm.query("button").onClick.listen((Event e) {
+      DivElement dElm = elm.query(".rss-item-send2server");
+      Map<String, String> jsonData = {
+        "Title": dElm.dataset["title"],
+        "Link": dElm.dataset["link"],
+        "Tag": (elm.query('[name="tag"]') as SelectElement).value,
+        "Language": (elm.query('[name="lang"]') as SelectElement).value,
+        "HNComments": dElm.dataset["comments"],
+      };
+      sendLink(jsonData);
+    });
   });
 }
 

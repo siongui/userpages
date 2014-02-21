@@ -30,6 +30,7 @@ func siteHandler(w http.ResponseWriter, r *http.Request) {
 	var s mylib.OpmlOutline
 	decoder := json.NewDecoder(r.Body)
 	err := decoder.Decode(&s)
+	// FIXME: do not use panic here
 	if err != nil { panic(err) }
 	fmt.Println(s.Text)
 
@@ -37,10 +38,23 @@ func siteHandler(w http.ResponseWriter, r *http.Request) {
 	rssItemsTmpl.Execute(w, items)
 }
 
+func saveLinkHandler(w http.ResponseWriter, r *http.Request) {
+	if r.Method != "POST" { return }
+
+	var l mylib.LinkInfo
+	decoder := json.NewDecoder(r.Body)
+	err := decoder.Decode(&l)
+	// FIXME: do not use panic here
+	if err != nil { panic(err) }
+
+	mylib.SaveLinkAsJson(l)
+}
+
 func main() {
 	mylib.Poll(sites)
 	http.HandleFunc("/", indexHandler)
 	http.HandleFunc("/site/", siteHandler)
+	http.HandleFunc("/savelink/", saveLinkHandler)
 	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("./static"))))
 	flag.Parse()
 	if *isProductonServer {
