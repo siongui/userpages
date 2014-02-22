@@ -43,7 +43,14 @@ if __name__ == '__main__':
 	  f.write(j[u"Title"].encode("utf8"))
 	  f.write(" <")
 	  f.write(j[u"Link"])
-	  f.write(">`_\n\n")
+	  f.write(">`_\n")
+	  if j[u"HNComments"].startswith(u"https://news.ycombinator.com/item?id="):
+            f.write(" " * space2)
+            f.write("(`HN discuss <")
+	    f.write(j[u"HNComments"])
+	    f.write(">__`)\n\n")
+	  else:
+	    f.write("\n")
 
       f.write(tags[:-2])
       f.write("\n\n")
