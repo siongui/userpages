@@ -22,3 +22,28 @@ if __name__ == '__main__':
 	langTagLink[j["Language"]][j['Tag']].append(j)
 
   print(langTagLink)
+  with open("zzz.rst", 'w') as f:
+    for lang in langTagLink:
+      space = 0
+      if lang == u"zh_CN":
+        f.write(u"Simplified Chinese:\n\n")
+	space += 2
+
+      tags = u""
+      for tag in langTagLink[lang]:
+	tags = tags + tag + u", "
+	f.write(" " * space)
+	f.write(tag)
+	f.write(":\n\n")
+
+	for j in langTagLink[lang][tag]:
+	  space2 = space + 2
+          f.write(" " * space2)
+	  f.write("`")
+	  f.write(j[u"Title"].encode("utf8"))
+	  f.write(" <")
+	  f.write(j[u"Link"])
+	  f.write(">`_\n\n")
+
+      f.write(tags[:-2])
+      f.write("\n\n")
