@@ -8,3 +8,4 @@ static/app.precompiled.js
 mylib/sqlite3/sites.db
 mylib/sqlite3/http*
 sqlite3/http*
+links/
