@@ -48,7 +48,7 @@ if __name__ == '__main__':
             f.write(" " * space2)
             f.write("(`HN discuss <")
 	    f.write(j[u"HNComments"])
-	    f.write(">__`)\n\n")
+	    f.write(">`__)\n\n")
 	  else:
 	    f.write("\n")
 

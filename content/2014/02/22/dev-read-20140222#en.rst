@@ -12,15 +12,15 @@
 Vim:
 
   `Neovim <https://github.com/neovim/neovim>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7278214>__`)
+  (`HN discuss <https://news.ycombinator.com/item?id=7278214>`__)
 
 math:
 
   `German tank problem <http://en.wikipedia.org/wiki/German_tank_problem>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7278198>__`)
+  (`HN discuss <https://news.ycombinator.com/item?id=7278198>`__)
 
   `A Geometric Review of Linear Algebra [pdf] <http://www.cns.nyu.edu/~eero/NOTES/geomLinAlg.pdf>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7280980>__`)
+  (`HN discuss <https://news.ycombinator.com/item?id=7280980>`__)
 
   `Newton and Pepys <http://www.datagenetics.com/blog/february12014/>`_
 
@@ -30,25 +30,25 @@ Security:
   (`HN discuss <https://news.ycombinator.com/item?id=7282005>`__)
 
   `Show HN: Check if your browser is vulnerable to the Apple SSL bug. <https://gotofail.com/>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7282164>__`)
+  (`HN discuss <https://news.ycombinator.com/item?id=7282164>`__)
 
   `Gmaxwell's “prove how (non)-fractional your Bitcoin reserves are” scheme <https://iwilcox.me.uk/v/nofrac>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7277865>__`)
+  (`HN discuss <https://news.ycombinator.com/item?id=7277865>`__)
 
 Erlang:
 
   `Ask HN Why isn't Erlang more popular? <https://news.ycombinator.com/item?id=7277797>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7277797>__`)
+  (`HN discuss <https://news.ycombinator.com/item?id=7277797>`__)
 
 Embedded System:
 
   `FreeBSD 10.0 on Ubiquiti EdgeRouter Lite <http://rtfm.net/FreeBSD/ERL/>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7281991>__`)
+  (`HN discuss <https://news.ycombinator.com/item?id=7281991>`__)
 
 Show HN:
 
   `Show HN: I built an HTML 5 Guitar Tuner <http://www.freetuner.co>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7279412>__`)
+  (`HN discuss <https://news.ycombinator.com/item?id=7279412>`__)
 
 JavaScript:
 
@@ -65,7 +65,7 @@ Dart:
 Misc:
 
   `Uzbl – Web interface tools which adhere to the Unix philosophy <http://www.uzbl.org/readme.php>`_
-  (`HN discuss <https://news.ycombinator.com/item?id=7279407>__`)
+  (`HN discuss <https://news.ycombinator.com/item?id=7279407>`__)
 
   `Generate a CHANGELOG based on merged pull requests <http://thechangelog.com/generate-changelog-based-merged-pull-requests/>`_
 
