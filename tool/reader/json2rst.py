@@ -7,6 +7,7 @@ import json
 if __name__ == '__main__':
   langTagLink = {}
 
+  os.chdir("./links/")
   for path in os.listdir('.'):
     if path.startswith("http"):
       with open(path, 'r') as f:
@@ -22,7 +23,7 @@ if __name__ == '__main__':
 	langTagLink[j["Language"]][j['Tag']].append(j)
 
   print(langTagLink)
-  with open("zzz.rst", 'w') as f:
+  with open("links.rst", 'w') as f:
     for lang in langTagLink:
       space = 0
       if lang == u"zh_CN":
