@@ -25,5 +25,5 @@ func SaveLinkAsJson(l LinkInfo) {
 	b, err := json.Marshal(l)
 	if err != nil { log.Println(err) }
 
-	ioutil.WriteFile(path, b, 0x644)
+	ioutil.WriteFile(path, b, 0644)
 }

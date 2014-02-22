@@ -54,6 +54,9 @@ db_test:
 seed_test:
 	go test -test.v mylib/seed_test.go mylib/seed.go
 
+savelink_test:
+	go test -test.v mylib/savelink_test.go mylib/savelink.go
+
 opml_test:
 	go test -test.v mylib/opml_test.go mylib/opml.go
 
