@@ -64,6 +64,8 @@ Info:
 
     `开源中国 <http://www.oschina.net/>`_
 
+    `36氪 | 关注互联网创业 <http://www.36kr.com/>`_
+
     `外刊IT评论网 | 国外IT评论,编程技巧,网站开发趋势,创业 <http://www.aqee.net/>`_
 
     `极客范 <http://www.geekfan.net/>`_
