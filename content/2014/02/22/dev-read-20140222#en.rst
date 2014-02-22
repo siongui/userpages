@@ -35,6 +35,8 @@ Security:
   `Gmaxwell's “prove how (non)-fractional your Bitcoin reserves are” scheme <https://iwilcox.me.uk/v/nofrac>`_
   (`HN discuss <https://news.ycombinator.com/item?id=7277865>`__)
 
+  `MD5 Collision Demo <http://www.mscs.dal.ca/~selinger/md5collision/>`_
+
 Erlang:
 
   `Ask HN Why isn't Erlang more popular? <https://news.ycombinator.com/item?id=7277797>`_
