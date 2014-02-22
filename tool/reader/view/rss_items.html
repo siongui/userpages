@@ -1,4 +1,9 @@
 <div>
+  <select name="lang">
+    <option value="zh_CN" selected="selected">簡體中文</option>
+    <option value="en">English</option>
+    <option value="zh_TW">傳統中文</option>
+  </select>
 {{range $item := .}}
 <div class="rss-item">
   <div class="rss-item-head">
@@ -20,11 +25,6 @@
 	data-title="{{$item.Title}}"
 	data-link="{{$item.Link}}"
 	data-comments="{{$item.Comments}}">
-    <select name="lang">
-      <option value="zh_CN" selected="selected">簡體中文</option>
-      <option value="en">English</option>
-      <option value="zh_TW">傳統中文</option>
-    </select>
     <select name="tag">
       <option value="News" selected="selected">News</option>
       <option value="Misc">Misc</option>

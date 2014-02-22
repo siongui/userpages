@@ -36,7 +36,7 @@ void showRssItems(String html) {
         "Title": dElm.dataset["title"],
         "Link": dElm.dataset["link"],
         "Tag": (elm.query('[name="tag"]') as SelectElement).value,
-        "Language": (elm.query('[name="lang"]') as SelectElement).value,
+        "Language": (view.query('[name="lang"]') as SelectElement).value,
         "HNComments": dElm.dataset["comments"],
       };
       sendLink(jsonData);
