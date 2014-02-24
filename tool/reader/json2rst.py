@@ -30,6 +30,10 @@ if __name__ == '__main__':
         f.write(u"Simplified Chinese:\n\n")
 	space += 2
 
+      if lang == u"zh_TW":
+        f.write(u"Traditional Chinese:\n\n")
+	space += 2
+
       tags = u""
       for tag in langTagLink[lang]:
 	tags = tags + tag + u", "
