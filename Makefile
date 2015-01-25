@@ -56,4 +56,4 @@ github_upload:
 	git push git@github.com:$(GITHUB_USER_NAME)/$(GITHUB_USER_NAME).github.io.git $(GITHUB_PAGES_BRANCH):master
 
 
-.PHONY: scss html clean serve publish github_upload
+.PHONY: download scss html clean serve publish github_upload

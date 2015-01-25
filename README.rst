@@ -44,14 +44,17 @@ First-time Setup
 
 5. Install pelican `i18n_subsites <https://github.com/getpelican/pelican-plugins/tree/master/i18n_subsites>`_ plugin:
 
-    Download ``i18n_subsites`` directory and put under ``~/dev/userpages/plugins/``
+.. code-block:: bash
+
+    $ cd ~/dev/userpages/
+    $ make download
 
 6. Generate CSS file:
 
 .. code-block:: bash
 
     $ cd ~/dev/userpages/
-    $ python -mscss < theme/scss/style.scss -o theme/static/css/style.css
+    $ make scss
 
 
 Daily Development
@@ -62,10 +65,11 @@ Daily Development
     $ cd ~/dev/
     $ source bin/activate
     $ cd userpages/
-    # If scss file changes
-    $ python -mscss < theme/scss/style.scss -o theme/static/css/style.css
-    $ make html
     # start edit and develope
+    # If something changes
+    $ make html
+    # start dev server at http://localhost:8000/
+    $ make serve
 
 
 UNLICENSE
