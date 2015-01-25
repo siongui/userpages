@@ -1,0 +1,16 @@
+{% macro gettext(string, lang) -%}
+  {%- if lang == 'en' -%}
+    {{ string }}
+  {%- elif lang == 'zh' -%}
+    {%- if string == 'Home' -%} 首頁
+    {%- elif string == 'Tel' -%} 電話
+    {%- elif string == 'Street' -%} 街道
+    {%- elif string == 'Email' -%} 電子郵件
+    {%- elif string == 'Kaohsiung, Taiwan' -%} 高雄,台灣
+    {%- else -%}
+      {{ string }}
+    {%- endif -%}
+  {%- else -%}
+    {{ string }}
+  {%- endif -%}
+{%- endmacro %}

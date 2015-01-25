@@ -4,6 +4,7 @@ PELICANOPTS=
 
 BASEDIR=$(CURDIR)
 THEMEDIR=$(BASEDIR)/theme
+CSSDIR=$(THEMEDIR)/static/css
 INPUTDIR=$(BASEDIR)/content
 CACHEDIR=$(BASEDIR)/cache
 OUTPUTDIR=$(BASEDIR)/output
@@ -26,7 +27,8 @@ download:
 	wget -P $(I18N_SUBSITES_DIR) https://raw.githubusercontent.com/getpelican/pelican-plugins/master/i18n_subsites/i18n_subsites.py
 
 scss:
-	$(PY) -mscss < $(THEMEDIR)/scss/style.scss -o $(THEMEDIR)/static/css/style.css
+	[ -d $(CSSDIR) ] || mkdir -p $(CSSDIR)
+	$(PY) -mscss < $(THEMEDIR)/styling/style.scss -o $(CSSDIR)/style.css
 
 html: scss
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)

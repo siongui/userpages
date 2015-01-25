@@ -1,0 +1,30 @@
+{%- from 'localize.html' import gettext -%}
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+  <meta charset="utf-8">
+  <title>{%- block title -%}{{ SITENAME }}{%- endblock -%}</title>
+  <meta name="keywords" content="{% block meta_keywords -%}{{ META_KEYWORDS }}{%- endblock %}"/>
+  <meta name="description" content="{% block meta_description -%}{{ META_DESCRIPTION }}{%- endblock %}"/>
+  <meta name="author" content="{% block meta_author -%}{{ AUTHOR }}{%- endblock %}"/>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/theme/css/style.css">
+</head>
+<body>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-4"><h1>{{ SITENAME }}</h1></div>
+    <div class="col-md-5"></div>
+    <div class="col-md-3">
+      <a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/">[English]</a>||
+      <a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/zh/">[傳統中文]</a>
+    </div>
+  </div>
+  {%- block content -%}{%- endblock -%}
+</div>
+
+</body>
+</html>

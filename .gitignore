@@ -2,3 +2,4 @@ cache
 output
 plugins
 *.pyc
+theme/static/css/style.css
