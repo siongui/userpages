@@ -7,12 +7,23 @@ THEMEDIR=$(BASEDIR)/theme
 INPUTDIR=$(BASEDIR)/content
 CACHEDIR=$(BASEDIR)/cache
 OUTPUTDIR=$(BASEDIR)/output
+PLUGINSDIR=$(BASEDIR)/plugins
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
+
+# pelican plugins
+I18N_SUBSITES_DIR=$(PLUGINSDIR)/i18n_subsites
 
 GITHUB_PAGES_BRANCH=gh-pages
 GITHUB_USER_NAME=siongui
 
+
+download:
+	# download pelican i18n_subsites plugin
+	[ ! -d $(I18N_SUBSITES_DIR) ] || rm -rf $(I18N_SUBSITES_DIR)
+	mkdir -p $(I18N_SUBSITES_DIR)
+	wget -P $(I18N_SUBSITES_DIR) https://raw.githubusercontent.com/getpelican/pelican-plugins/master/i18n_subsites/__init__.py
+	wget -P $(I18N_SUBSITES_DIR) https://raw.githubusercontent.com/getpelican/pelican-plugins/master/i18n_subsites/i18n_subsites.py
 
 scss:
 	$(PY) -mscss < $(THEMEDIR)/scss/style.scss -o $(THEMEDIR)/static/css/style.css
