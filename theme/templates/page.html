@@ -1,0 +1,44 @@
+{% extends "layout.html" %}
+{% block title -%}
+  {{- page.title }} - {{ super() -}}
+{%- endblock %}
+
+{% block meta_keywords -%}
+  {%- if page.tags -%}
+    {%- for tag in page.tags -%}
+      {{- tag -}}
+      {%- if not loop.last -%}, {%- endif -%}
+    {%- endfor -%}
+  {%- else -%}
+    {{- META_KEYWORDS -}}
+  {%- endif -%}
+{%- endblock %}
+
+{% block meta_description -%}
+  {%- if page.summary -%}
+    {{- page.summary|striptags -}}
+  {%- else -%}
+    {{- META_DESCRIPTION -}}
+  {%- endif -%}
+{%- endblock %}
+
+{% block meta_author -%}
+  {%- if page.author -%}
+    {{- page.author -}}
+  {%- else -%}
+    {{- AUTHOR -}}
+  {%- endif -%}
+{%- endblock %}
+
+{% block content %}
+<section class="page">
+  <header>
+    <h1>{{ page.title }}</h1>
+  </header>
+  <div class="rst-body">
+    {{ translations_for(page, SITEURL) }}
+
+    {{ page.content }}
+  </div>
+</section>
+{% endblock %}

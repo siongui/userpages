@@ -1,4 +1,4 @@
-{%- from 'localize.html' import gettext -%}
+{%- from 'localize.html' import gettext, translations_for -%}
 <!DOCTYPE html>
 <html lang="{{ DEFAULT_LANG }}">
 <head>
@@ -17,7 +17,11 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-4"><h1>{{ SITENAME }}</h1></div>
-    <div class="col-md-5"></div>
+    <div class="col-md-5">
+      {%- for p in pages -%}
+        <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+      {%- endfor -%}
+    </div>
     <div class="col-md-3">
       <a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/">[English]</a>||
       <a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/zh/">[傳統中文]</a>

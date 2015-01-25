@@ -3,6 +3,7 @@
     {{ string }}
   {%- elif lang == 'zh' -%}
     {%- if string == 'Home' -%} 首頁
+    {%- elif string == 'Translation(s)' -%} 翻譯
     {%- elif string == 'Tel' -%} 電話
     {%- elif string == 'Street' -%} 街道
     {%- elif string == 'Email' -%} 電子郵件
@@ -14,3 +15,20 @@
     {{ string }}
   {%- endif -%}
 {%- endmacro %}
+
+{% macro lang_code2name(code)  %}
+  {%- if   code == 'en'    -%}   English
+  {%- elif code == 'zh'    -%}   中文
+  {%- elif code == 'zh_TW' -%}   中文 (繁體)
+  {%- elif code == 'zh_CN' -%}   中文 (简体)
+  {%- else -%}{{ code }}{%- endif -%}
+{% endmacro %}
+
+{% macro translations_for(writing, SITEURL)  %}
+  {% if writing.translations %}
+    {{ gettext("Translation(s)", writing.lang) }}:
+    {% for translation in writing.translations %}
+      <a href="{{ SITEURL }}/{{ translation.url }}">{{ lang_code2name(translation.lang) }}</a>
+    {% endfor %}
+  {% endif %}
+{% endmacro %}
