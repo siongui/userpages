@@ -1,3 +1,20 @@
 $font-stack: Arial, Helvetica, sans-serif, "微軟正黑體", "Microsoft JhengHei";
 
 * { font-family: $font-stack; }
+
+.top-nav[role=navigation] {
+  background-image: linear-gradient(to bottom right, white, #dddddd);
+  border-radius: 4px;
+  margin-top: 8px;
+
+  h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .col-md-3, .col-md-4, .col-md-5 {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+  }
+}

@@ -93,6 +93,10 @@ edit on Github link:
 
   `pelican-edit-url <https://github.com/pmclanahan/pelican-edit-url>`_
 
+CSS layout:
+
+  `vertical-align with bootstrap 3 <http://stackoverflow.com/questions/20547819/vertical-align-with-bootstrap-3>`_
+
 Bootstrap image trigger modal:
 
   `Can I use an image to trigger a modal window in Bootstrap? <http://stackoverflow.com/questions/15423532/can-i-use-an-image-to-trigger-a-modal-window-in-bootstrap>`_

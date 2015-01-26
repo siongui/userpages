@@ -15,14 +15,14 @@
 <body>
 
 <div class="container-fluid">
-  <div class="row">
-    <div class="col-md-4"><h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1></div>
-    <div class="col-md-5">
+  <div class="row top-nav" role="navigation">
+    <div class="col-md-4"><h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1></div><!--
+ --><div class="col-md-5">
       {%- for p in pages -%}
         <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
       {%- endfor -%}
-    </div>
-    <div class="col-md-3">
+    </div><!--
+ --><div class="col-md-3">
       <a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/">[English]</a>||
       <a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/zh/">[傳統中文]</a>
     </div>
