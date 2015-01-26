@@ -24,7 +24,7 @@ DEFAULT_PAGINATION = 10
 THEME = 'theme'
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['i18n_subsites']
+PLUGINS = ['i18n_subsites', 'edit_on_github']
 
 # mapping: language_code -> settings_overrides_dict
 I18N_SUBSITES = {
@@ -36,6 +36,9 @@ I18N_SUBSITES = {
 
 DIRECT_TEMPLATES = ['index']
 PAGE_ORDER_BY = 'order'
+
+# CONTENT_DIR_URL is the setting for edit_on_github plugin
+CONTENT_DIR_URL = u'https://github.com/siongui/userpages/tree/master/content'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
