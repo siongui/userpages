@@ -24,7 +24,7 @@ DEFAULT_PAGINATION = 10
 THEME = 'theme'
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['i18n_subsites', 'edit_on_github']
+PLUGINS = ['i18n_subsites', 'edit_on_github', 'embed_github_repository_file']
 
 # mapping: language_code -> settings_overrides_dict
 I18N_SUBSITES = {
