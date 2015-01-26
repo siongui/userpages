@@ -31,14 +31,12 @@
 {%- endblock %}
 
 {% block content %}
-<section class="page">
-  <header>
-    <h1>{{ page.title }}</h1>
-  </header>
-  <div class="rst-body">
-    {{ translations_for(page, SITEURL) }}
-
-    {{ page.content }}
-  </div>
+<section>
+  <article>
+    <header><h1>{{ page.title }}</h1></header>
+    <aside>{{ translations_for(page, SITEURL) }}</aside>
+    </hr>
+    <div>{{ page.content }}</div>
+  </article>
 </section>
 {% endblock %}

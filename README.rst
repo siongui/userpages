@@ -83,10 +83,24 @@ References
 
 `Online reStructuredText editor <http://rst.ninjs.org/>`_
 
-`Can I use an image to trigger a modal window in Bootstrap? <http://stackoverflow.com/questions/15423532/can-i-use-an-image-to-trigger-a-modal-window-in-bootstrap>`_
+embed Github repo file:
 
-`Bootstrap Image trigger modal example code <http://www.bootply.com/7wOLkC9AVX>`_
+  `Gistfy - Gist your GitHub and Bitbucket repositories <http://www.gistfy.com/>`_
 
-`iHover <http://gudh.github.io/ihover/dist/>`_ (`src <https://github.com/gudh/ihover>`_)
+  `gist-it.appspot.com - Embed files from a github repository like a gist <http://gist-it.appspot.com/>`_
 
-`bootstrap image hover overlay with icon <http://stackoverflow.com/questions/26823237/bootstrap-image-hover-overlay-with-icon>`_
+edit on Github link:
+
+  `pelican-edit-url <https://github.com/pmclanahan/pelican-edit-url>`_
+
+Bootstrap image trigger modal:
+
+  `Can I use an image to trigger a modal window in Bootstrap? <http://stackoverflow.com/questions/15423532/can-i-use-an-image-to-trigger-a-modal-window-in-bootstrap>`_
+
+  `Bootstrap Image trigger modal example code <http://www.bootply.com/7wOLkC9AVX>`_
+
+Image Hover:
+
+  `iHover <http://gudh.github.io/ihover/dist/>`_ (`src <https://github.com/gudh/ihover>`_)
+
+  `bootstrap image hover overlay with icon <http://stackoverflow.com/questions/26823237/bootstrap-image-hover-overlay-with-icon>`_
