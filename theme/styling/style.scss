@@ -18,3 +18,26 @@ $font-stack: Arial, Helvetica, sans-serif, "微軟正黑體", "Microsoft JhengHe
     float: none;
   }
 }
+
+.page {
+  background-image: linear-gradient(to top left, white, #dddddd);
+  border-radius: 4px;
+  margin-top: 4px;
+  padding: 5px;
+
+  aside {
+    .edit-on-github {
+      float: right;
+      a {
+        padding: 5px 5px;
+        background: PaleGreen;
+        border-radius: 4px;
+        display: inline-block;
+      }
+    }
+    .available-translations {
+      float: left;
+    }
+  }
+  hr { clear: both; }
+}

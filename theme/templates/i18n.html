@@ -25,10 +25,12 @@
 {% endmacro %}
 
 {% macro translations_for(writing, SITEURL)  %}
-  {% if writing.translations %}
-    {{ gettext("Translation(s)", writing.lang) }}:
-    {% for translation in writing.translations %}
-      <a href="{{ SITEURL }}/{{ translation.url }}">{{ lang_code2name(translation.lang) }}</a>
-    {% endfor %}
-  {% endif %}
+  {%- if writing.translations -%}
+    <div class="available-translations">
+      <span>{{- gettext("Translation(s)", writing.lang) -}}</span>:&nbsp;
+      {%- for translation in writing.translations -%}
+        <a href="{{ SITEURL }}/{{ translation.url }}">{{ lang_code2name(translation.lang) }}</a>&nbsp;
+      {%- endfor -%}
+    </div>
+  {%- endif -%}
 {% endmacro %}

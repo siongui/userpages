@@ -31,14 +31,16 @@
 {%- endblock %}
 
 {% block content %}
-<section>
+<section class="page">
   <article>
     <header><h1>{{ page.title }}</h1></header>
-    {%- if page.github_url -%}
-      <aside><a href="{{ page.github_url }}">Edit on Github</a></aside>
-    {%- endif -%}
-    <aside>{{ translations_for(page, SITEURL) }}</aside>
-    </hr>
+    <aside>
+      {{- translations_for(page, SITEURL) -}}
+      {%- if page.github_url -%}
+        <div class="edit-on-github"><a href="{{ page.github_url }}">Edit on Github</a></div>
+      {%- endif -%}
+    </aside>
+    <hr>
     <div>{{ page.content }}</div>
   </article>
 </section>
