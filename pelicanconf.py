@@ -35,12 +35,18 @@ THEME = 'theme'
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['i18n_subsites', 'edit_on_github', 'embed_github_repository_file']
 
+# my custom setting for HTML meta info
+META_KEYWORDS = 'Web Development, Python, SCSS, blog'
+META_DESCRIPTION = 'My blog and sharing'
+
 # mapping: language_code -> settings_overrides_dict
 I18N_SUBSITES = {
   'zh': {
     'SITENAME': '理論與實作',
     'AUTHOR': '戴上為',
     'LOCALE': 'zh_TW.UTF-8',
+    'META_KEYWORDS': 'Web開發, Python, SCSS, 部落格',
+    'META_DESCRIPTION': '我的部落格及分享',
   }
 }
 
@@ -52,10 +58,6 @@ PAGE_ORDER_BY = 'order'
 
 # CONTENT_DIR_URL is the setting for edit_on_github plugin
 CONTENT_DIR_URL = u'https://github.com/siongui/userpages/tree/master/content'
-
-# my custom setting for HTML meta info
-META_KEYWORDS = 'Python, SCSS, Web, blog'
-META_DESCRIPTION = 'Theory and Practice - Web Development'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
