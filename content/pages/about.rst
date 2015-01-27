@@ -58,3 +58,8 @@ Statistics:
 `GitHub Résumé <http://resume.github.io/?siongui>`_ /
 `Open Source Report Card <http://osrc.dfm.io/siongui>`_ /
 `Github Visualizer <http://artzub.com/ghv/#user=siongui>`_
+
+
+Obsoleted:
+`pali - Google Code <https://code.google.com/p/pali/>`_ /
+`poosip - Google Code <https://code.google.com/p/poosip/>`_

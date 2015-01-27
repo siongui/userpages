@@ -58,3 +58,8 @@
 `GitHub 履歷表 <http://resume.github.io/?siongui>`_ /
 `開放原始碼報告卡 <http://osrc.dfm.io/siongui>`_ /
 `Github 視覺化 <http://artzub.com/ghv/#user=siongui>`_
+
+
+過時:
+`pali - Google Code <https://code.google.com/p/pali/>`_ /
+`poosip - Google Code <https://code.google.com/p/poosip/>`_
