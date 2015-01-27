@@ -11,6 +11,7 @@ PATH = 'content'
 TIMEZONE = 'Asia/Taipei'
 
 DEFAULT_LANG = u'en'
+LOCALE = 'en_US.UTF-8'
 
 # @see http://docs.getpelican.com/en/3.5.0/settings.html#basic-settings
 # @see http://docs.getpelican.com/en/3.5.0/settings.html#path-metadata
@@ -39,6 +40,7 @@ I18N_SUBSITES = {
   'zh': {
     'SITENAME': '理論與實作',
     'AUTHOR': '戴上為',
+    'LOCALE': 'zh_TW.UTF-8',
   }
 }
 
