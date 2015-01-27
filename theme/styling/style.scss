@@ -1,9 +1,10 @@
 $font-stack: Arial, Helvetica, sans-serif, "微軟正黑體", "Microsoft JhengHei";
+$primary-color: #dddddd;
 
 * { font-family: $font-stack; }
 
 .top-nav[role=navigation] {
-  background-image: linear-gradient(to bottom right, white, #dddddd);
+  background-image: linear-gradient(to bottom right, white, $primary-color);
   border-radius: 4px;
   margin-top: 8px;
 
@@ -19,9 +20,10 @@ $font-stack: Arial, Helvetica, sans-serif, "微軟正黑體", "Microsoft JhengHe
   }
 }
 
-.page {
-  background-image: linear-gradient(to top left, white, #dddddd);
+.content {
+  //background-image: linear-gradient(to top left, white, $primary-color);
   border-radius: 4px;
+  border: medium solid $primary-color;
   margin-top: 4px;
   padding: 5px;
 
@@ -30,14 +32,23 @@ $font-stack: Arial, Helvetica, sans-serif, "微軟正黑體", "Microsoft JhengHe
       float: right;
       a {
         padding: 5px 5px;
-        background: PaleGreen;
+        background: $primary-color;
         border-radius: 4px;
-        display: inline-block;
       }
     }
+
     .available-translations {
       float: left;
     }
+
+    // keep parent element of floated elements from collapsing
+    &:after {
+      content:"";
+      display:table;
+      clear:both;
+    }
   }
-  hr { clear: both; }
 }
+
+.page { @extend .content; }
+.article { @extend .content; }
