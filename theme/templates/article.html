@@ -1,0 +1,85 @@
+{% extends "layout.html" %}
+{% block title -%}
+  {{- article.title|striptags }} - {{ super() -}}
+{%- endblock %}
+
+{% block meta_keywords -%}
+  {%- if article.tags -%}
+    {%- for tag in article.tags -%}
+      {{- tag -}}
+      {%- if not loop.last -%}, {%- endif -%}
+    {%- endfor -%}
+  {%- else -%}
+    {{- META_KEYWORDS -}}
+  {%- endif -%}
+{%- endblock %}
+
+{% block meta_description -%}
+  {%- if article.summary -%}
+    {{- article.summary|striptags -}}
+  {%- else -%}
+    {{- META_DESCRIPTION -}}
+  {%- endif -%}
+{%- endblock %}
+
+{% block meta_author -%}
+  {%- if article.author -%}
+    {{- article.author -}}
+  {%- else -%}
+    {{- AUTHOR -}}
+  {%- endif -%}
+{%- endblock %}
+
+{% block content %}
+<section class="article">
+  <article>
+    <header>
+      <h1>
+        <a href="{{ SITEURL }}/{{ article.url }}"
+           rel="bookmark"
+           title="Permalink to {{ article.title|striptags }}">
+          {{ article.title }}
+        </a>
+      </h1>
+    </header>
+    <aside>
+      <time title="{{ article.date.isoformat() }}">
+        <span>{{ article.date | strftime('%B %d') }}</span>,
+        <span>{{ article.date | strftime('%Y') }}</span>
+      </time>
+      {{- translations_for(article, SITEURL) -}}
+      {%- if article.github_url -%}
+        <div class="edit-on-github"><a href="{{ article.github_url }}">Edit on Github</a></div>
+      {%- endif -%}
+    </aside>
+
+    <hr>
+    {{ article.content }}
+    <hr>
+
+    {% if article.author %}
+      <address><b>By</b>
+        <a rel="author"
+           href="{{ SITEURL }}/{{ article.author.url }}">
+          {{ article.author }}
+        </a>
+      </address>
+    {% endif %}
+
+    {% if article.category %}
+      <i>&isin;</i> <b>Category</b>:
+      <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+    {% endif %}
+
+    {% if article.tags %}
+      <aside>
+        <i>&sum;</i> <b>Tags</b>:
+        {% for tag in article.tags %}
+          <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+          {% if not loop.last %}, {% endif %}
+        {% endfor %}
+      </aside>
+    {% endif %}
+  </article>
+</section>
+{% endblock %}

@@ -12,6 +12,14 @@ TIMEZONE = 'Asia/Taipei'
 
 DEFAULT_LANG = u'en'
 
+# @see http://docs.getpelican.com/en/3.5.0/settings.html#basic-settings
+# @see http://docs.getpelican.com/en/3.5.0/settings.html#path-metadata
+PATH_METADATA = '(?P<date>\d{4}/\d{2}/\d{2})/(?P<slug>[-a-zA-Z0-9]*)\.rst'
+
+# @see http://docs.getpelican.com/en/3.5.0/settings.html#url-settings
+ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -42,6 +50,10 @@ PAGE_ORDER_BY = 'order'
 
 # CONTENT_DIR_URL is the setting for edit_on_github plugin
 CONTENT_DIR_URL = u'https://github.com/siongui/userpages/tree/master/content'
+
+# my custom setting for HTML meta info
+META_KEYWORDS = 'Python, SCSS, Web, blog'
+META_DESCRIPTION = 'Theory and Practice - Web Development'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
