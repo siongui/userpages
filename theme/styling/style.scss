@@ -28,6 +28,14 @@ $link-hover-color: #2445ae;
     vertical-align: middle;
     float: none;
   }
+
+  ul {
+    margin-bottom: 0; // bootstrap3 set this to 10px.
+    li {
+      display: inline;
+      margin-right: 1em;
+    }
+  }
 }
 
 .common-border {
@@ -92,6 +100,26 @@ $link-hover-color: #2445ae;
     a.read-more {
       color: #428bca;
       &:hover { color: $link-hover-color; }
+    }
+  }
+}
+
+.archives {
+  @extend .common-border;
+  @extend .common-title;
+
+  // @see http://stackoverflow.com/questions/9538247/css-background-disappears-when-using-floatleft
+  overflow: hidden;
+  dl {
+    line-height: 2em;
+
+    dt {
+      float: left;
+      clear: left;
+    }
+    dd {
+      float: left;
+      margin-left: 1em;
     }
   }
 }
