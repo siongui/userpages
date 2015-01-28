@@ -1,0 +1,9 @@
+{% extends "groups.html" %}
+
+{% set groups = categories %}
+
+{% block groups_name -%}
+  {{ gettext('Categories', DEFAULT_LANG) }}
+{%- endblock %}
+
+{% block groups_css_class %}none{% endblock %}

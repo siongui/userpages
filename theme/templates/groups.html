@@ -1,0 +1,26 @@
+{#
+  Multiple blocks of same name in Jinja2
+  @see http://stackoverflow.com/questions/1242239/multiple-blocks-of-same-name-in-jinja2
+#}
+{%- extends "layout.html" -%}
+
+{% block title %}{% block groups_name %}{% endblock %} - {{ super() }}{% endblock %}
+
+{% block content %}
+<section class="{% block groups_css_class %}{% endblock %}">
+  <header>
+    <h3 title="{{ self.groups_name() }}">{{ self.groups_name() }}</h3>
+  </header>
+
+  <ul>
+    {% for group, articles in groups %}
+      <li title="{{ group }}">
+        <a href="{{ SITEURL }}/{{ group.url }}">
+          <span>{{ group }}</span>
+          <span class="badge">{{ articles | count }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endblock %}

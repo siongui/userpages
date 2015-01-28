@@ -1,0 +1,9 @@
+{% extends "groups.html" %}
+
+{% set groups = authors %}
+
+{% block groups_name -%}
+  {{ gettext('Authors', DEFAULT_LANG) }}
+{%- endblock %}
+
+{% block groups_css_class %}none{% endblock %}
