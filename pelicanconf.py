@@ -15,7 +15,7 @@ LOCALE = 'en_US.UTF-8'
 
 # @see http://docs.getpelican.com/en/3.5.0/settings.html#basic-settings
 # @see http://docs.getpelican.com/en/3.5.0/settings.html#path-metadata
-PATH_METADATA = '(?P<date>\d{4}/\d{2}/\d{2})/(?P<slug>[-a-zA-Z0-9]*)\.rst'
+PATH_METADATA = '(?P<date>\d{4}/\d{2}/\d{2})/(?P<slug>[-a-zA-Z0-9]*)#(?P<lang>[_a-zA-Z]{2,5})\.rst'
 
 # @see http://docs.getpelican.com/en/3.5.0/settings.html#url-settings
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'

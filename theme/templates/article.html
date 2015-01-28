@@ -47,6 +47,8 @@
         <span>{{ article.date | strftime('%B %d') }}</span>,
         <span>{{ article.date | strftime('%Y') }}</span>
       </time>
+    </aside>
+    <aside>
       {{- translations_for(article, SITEURL) -}}
       {%- if article.github_url -%}
         <div class="edit-on-github"><a href="{{ article.github_url }}">Edit on Github</a></div>
