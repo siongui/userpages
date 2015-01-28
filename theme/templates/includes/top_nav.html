@@ -1,0 +1,18 @@
+<nav class="row top-nav" role="navigation">
+  <div class="col-md-4"><header><h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1></header></div><!--
+--><div class="col-md-5">
+    <ul>
+      {% if DISPLAY_PAGES_ON_MENU %}
+      {%- for p in pages -%}
+        <li><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+      {%- endfor -%}
+      {% endif %}
+      <li><a href="{{ SITEURL }}/{{ ARCHIVES_URL | default('archives.html') }}">{{ gettext('Archives', DEFAULT_LANG) }}</a></li>
+    </ul>
+    <!--TODO: add links for Tags, Categories, Links(optional), and RSS -->
+  </div><!--
+--><div class="col-md-3">
+    <a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/">[English]</a>||
+    <a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/zh/">[傳統中文]</a>
+  </div>
+</nav>

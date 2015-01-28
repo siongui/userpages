@@ -50,8 +50,8 @@ I18N_SUBSITES = {
   }
 }
 
-# generate only index.html and pages. (no archives, tags, categories)
-DIRECT_TEMPLATES = ['index']
+# generate only index.html and pages and articles. (no archives, tags, categories)
+#DIRECT_TEMPLATES = ['index']
 # use metadata attribute 'order' in page files for ordering
 # @see http://docs.getpelican.com/en/3.5.0/settings.html#url-settings
 PAGE_ORDER_BY = 'order'

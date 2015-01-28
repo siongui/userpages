@@ -19,19 +19,7 @@
 <body>
 
 <div class="container-fluid">
-  <nav class="row top-nav" role="navigation">
-    <div class="col-md-4"><header><h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1></header></div><!--
- --><div class="col-md-5">
-      {%- for p in pages -%}
-        <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
-      {%- endfor -%}
-      <!--TODO: add links for Archives, Tags, Categories, Links(optional), and RSS -->
-    </div><!--
- --><div class="col-md-3">
-      <a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/">[English]</a>||
-      <a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/zh/">[傳統中文]</a>
-    </div>
-  </nav>
+  {% include 'includes/top_nav.html' %}
   <div class="row">{%- block content -%}{%- endblock -%}</div>
 </div>
 
