@@ -1,9 +1,9 @@
-Test Page
+Test Post
 #########
 
 :tags: test, testing
 :category: test
-:summary: Test Page
+:summary: Test post summary
 
 .. |br| raw:: html
 

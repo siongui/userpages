@@ -5,15 +5,23 @@ $link-hover-color: #2445ae;
 
 * { font-family: $font-stack; }
 
+.common-title {
+  header {
+    h1, h2 {
+      margin-top: 10px;
+      a {
+        text-decoration: none;
+        &:hover { color: $link-hover-color; }
+      }
+    }
+  }
+}
+
 .top-nav[role=navigation] {
+  @extend .common-title;
   background-image: linear-gradient(to bottom right, white, $primary-color);
   border-radius: 4px;
   margin-top: 8px;
-
-  h1 {
-    margin-top: 10px;
-    margin-bottom: 10px;
-  }
 
   .col-md-3, .col-md-4, .col-md-5 {
     display: inline-block;
@@ -29,9 +37,17 @@ $link-hover-color: #2445ae;
   padding: 5px;
 }
 
+.common-datetime {
+  //color: #d6d5d5;
+  color: #dbdad0;
+  font-size: 1.25em;
+  line-height: 1.5em;
+}
+
 .content {
   //background-image: linear-gradient(to top left, white, $primary-color);
   @extend .common-border;
+  @extend .common-title;
 
   aside {
     .edit-on-github {
@@ -57,16 +73,16 @@ $link-hover-color: #2445ae;
 }
 
 .page { @extend .content; }
-.article { @extend .content; }
+.article { @extend .content; 
+  aside { time {@extend .common-datetime;} }
+}
 
 .post {
   @extend .common-border;
+  @extend .common-title;
 
   aside.post-metadata-date {
-    //color: #d6d5d5;
-    color: #dbdad0;
-    font-size: 1.25em;
-    line-height: 1.5em;
+    @extend .common-datetime;
   }
 
   div.post-content {

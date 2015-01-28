@@ -1,3 +1,7 @@
+{#
+  HTML5 Semantic Elements
+  @see http://www.w3schools.com/html/html5_semantic_elements.asp
+#}
 {%- from 'includes/i18n.html' import gettext, translations_for -%}
 <!DOCTYPE html>
 <html lang="{{ DEFAULT_LANG }}">
@@ -15,8 +19,8 @@
 <body>
 
 <div class="container-fluid">
-  <div class="row top-nav" role="navigation">
-    <div class="col-md-4"><h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1></div><!--
+  <nav class="row top-nav" role="navigation">
+    <div class="col-md-4"><header><h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1></header></div><!--
  --><div class="col-md-5">
       {%- for p in pages -%}
         <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
@@ -27,7 +31,7 @@
       <a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/">[English]</a>||
       <a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/zh/">[傳統中文]</a>
     </div>
-  </div>
+  </nav>
   <div class="row">{%- block content -%}{%- endblock -%}</div>
 </div>
 

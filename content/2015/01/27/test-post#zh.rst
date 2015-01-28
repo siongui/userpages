@@ -1,9 +1,9 @@
-測試網頁
+測試文章
 ########
 
 :tags: 測試, 測試中
 :category: 測試
-:summary: 測試網頁
+:summary: 測試文章摘要
 
 .. |br| raw:: html
 
