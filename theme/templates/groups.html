@@ -2,7 +2,7 @@
   Multiple blocks of same name in Jinja2
   @see http://stackoverflow.com/questions/1242239/multiple-blocks-of-same-name-in-jinja2
 #}
-{%- extends "layout.html" -%}
+{%- extends "layout/layout.html" -%}
 
 {% block title %}{% block groups_name %}{% endblock %} - {{ super() }}{% endblock %}
 

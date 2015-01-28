@@ -2,7 +2,7 @@
   HTML5 Semantic Elements
   @see http://www.w3schools.com/html/html5_semantic_elements.asp
 #}
-{%- from 'includes/i18n.html' import gettext, translations_for -%}
+{%- from 'layout/includes/i18n.html' import gettext, translations_for -%}
 <!DOCTYPE html>
 <html lang="{{ DEFAULT_LANG }}">
 <head>
@@ -19,7 +19,7 @@
 <body>
 
 <div class="container-fluid">
-  {% include 'includes/top_nav.html' %}
+  {% include 'layout/includes/top_nav.html' %}
   <div class="row">{%- block content -%}{%- endblock -%}</div>
 </div>
 
