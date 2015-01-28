@@ -1,5 +1,7 @@
 $font-stack: Arial, Helvetica, sans-serif, "微軟正黑體", "Microsoft JhengHei";
 $primary-color: #dddddd;
+$link-hover-color: #2445ae;
+
 
 * { font-family: $font-stack; }
 
@@ -52,3 +54,22 @@ $primary-color: #dddddd;
 
 .page { @extend .content; }
 .article { @extend .content; }
+
+.post {
+  aside.post-metadata-date {
+    //color: #d6d5d5;
+    color: #dbdad0;
+    font-size: 1.25em;
+    line-height: 1.5em;
+  }
+
+  div.post-content {
+    line-height: 1.5em;
+    p { display: inline; }
+
+    a.read-more {
+      color: #428bca;
+      &:hover { color: $link-hover-color; }
+    }
+  }
+}

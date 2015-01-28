@@ -1,7 +1,9 @@
 {% extends "layout.html" %}
 {% block content %}
 <div class="row">
-  <div class="col-md-4"></div>
-  <div class="col-md-4">To be written...</div>
+{% for article in (articles_page.object_list if articles_page else articles) %}
+  {% include 'includes/article_info.html' %}
+{% endfor %}
+{# TODO: add pagination #}
 </div>
 {% endblock %}

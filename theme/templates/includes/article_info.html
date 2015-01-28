@@ -1,0 +1,15 @@
+<article class="post">
+  <header>
+    <strong><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></strong>
+  </header>
+  <aside class="post-metadata-date">
+    <time title="{{ article.date.isoformat() }}">
+      {{ article.date | strftime('%B %d, %Y') }}
+    </time>
+  </aside>
+
+  <div class="post-content">
+    {{ article.summary }}
+    <a class="read-more" href="{{ SITEURL }}/{{ article.url }}">&nbsp;read more &raquo;</a>
+  </div>
+</article>
