@@ -3,6 +3,11 @@
 
 from pelican import signals
 from os.path import join
+# @see http://stackoverflow.com/questions/1695183/how-to-percent-encode-url-parameters-in-python
+try:
+  from urllib import quote
+except ImportError:
+  from urllib.parse import quote
 
 
 def add_github_url_to_content_object(content_instance):
@@ -14,7 +19,7 @@ def add_github_url_to_content_object(content_instance):
     return
 
   content_instance.github_url = join(CONTENT_DIR_URL,
-      content_instance.get_relative_source_path())
+      quote(content_instance.get_relative_source_path()))
 
 
 # @see http://docs.getpelican.com/en/3.5.0/plugins.html#list-of-signals
