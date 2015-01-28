@@ -1,0 +1,33 @@
+{% extends "layout.html" %}
+{% set content = (page if page else article )%}
+
+{% block title -%}
+  {{- content.title }} - {{ super() -}}
+{%- endblock %}
+
+{% block meta_keywords -%}
+  {%- if content.tags -%}
+    {%- for tag in content.tags -%}
+      {{- tag -}}
+      {%- if not loop.last -%}, {%- endif -%}
+    {%- endfor -%}
+  {%- else -%}
+    {{- META_KEYWORDS -}}
+  {%- endif -%}
+{%- endblock %}
+
+{% block meta_description -%}
+  {%- if content.summary -%}
+    {{- content.summary|striptags -}}
+  {%- else -%}
+    {{- META_DESCRIPTION -}}
+  {%- endif -%}
+{%- endblock %}
+
+{% block meta_author -%}
+  {%- if content.author -%}
+    {{- content.author -}}
+  {%- else -%}
+    {{- AUTHOR -}}
+  {%- endif -%}
+{%- endblock %}
