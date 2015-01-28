@@ -22,12 +22,16 @@ $link-hover-color: #2445ae;
   }
 }
 
-.content {
-  //background-image: linear-gradient(to top left, white, $primary-color);
+.common-border {
   border-radius: 4px;
   border: medium solid $primary-color;
   margin-top: 4px;
   padding: 5px;
+}
+
+.content {
+  //background-image: linear-gradient(to top left, white, $primary-color);
+  @extend .common-border;
 
   aside {
     .edit-on-github {
@@ -56,6 +60,8 @@ $link-hover-color: #2445ae;
 .article { @extend .content; }
 
 .post {
+  @extend .common-border;
+
   aside.post-metadata-date {
     //color: #d6d5d5;
     color: #dbdad0;
