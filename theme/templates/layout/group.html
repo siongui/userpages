@@ -3,9 +3,11 @@
 {% block title %}{{ groups_name }}: {{ group }} - {{ super() }}{% endblock %}
 
 {% block content %}
+<section class="{{ group_css_class }}">
   <ol class="breadcrumb">
     <li><a href="{{ SITEURL}}/{{ groups_partial_url }}">{{ groups_name }}</a></li>
     <li class="active">{{ group }}</li>
   </ol>
   {% include "layout/includes/list_articles.html" %}
+</section>
 {% endblock %}

@@ -142,3 +142,19 @@ $link-hover-color: #2445ae;
 .tags, .authors, .categories {
   @extend .common-groups;
 }
+
+.common-group {
+  padding: 5px;
+  ol.breadcrumb {
+    @extend .common-border;
+  //  li {
+  //    &:after { content: " / "; }
+  //    &.active:after { content: ""; }
+  //    display: inline;
+  //  }
+  }
+}
+
+.tag, .author, .category {
+  @extend .common-group;
+}
