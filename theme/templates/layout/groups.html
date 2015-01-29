@@ -4,12 +4,12 @@
 #}
 {%- extends "layout/layout.html" -%}
 
-{% block title %}{% block groups_name %}{% endblock %} - {{ super() }}{% endblock %}
+{% block title %}{{ groups_name }} - {{ super() }}{% endblock %}
 
 {% block content %}
-<section class="{% block groups_css_class %}{% endblock %}">
+<section class="{{ groups_css_class }}">
   <header>
-    <h3 title="{{ self.groups_name() }}">{{ self.groups_name() }}</h3>
+    <h3 title="{{ groups_name }}">{{ groups_name }}</h3>
   </header>
 
   <ul>

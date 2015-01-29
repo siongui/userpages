@@ -1,9 +1,6 @@
 {% extends "layout/groups.html" %}
+{%- from 'layout/includes/i18n.html' import gettext -%}
 
 {% set groups = authors %}
-
-{% block groups_name -%}
-  {{ gettext('Authors', DEFAULT_LANG) }}
-{%- endblock %}
-
-{% block groups_css_class %}none{% endblock %}
+{% set groups_name = gettext('Authors', DEFAULT_LANG) %}
+{% set groups_css_class = "none" %}

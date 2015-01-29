@@ -1,9 +1,6 @@
 {% extends "layout/groups.html" %}
+{%- from 'layout/includes/i18n.html' import gettext -%}
 
 {% set groups = categories %}
-
-{% block groups_name -%}
-  {{ gettext('Categories', DEFAULT_LANG) }}
-{%- endblock %}
-
-{% block groups_css_class %}none{% endblock %}
+{% set groups_name = gettext('Categories', DEFAULT_LANG) %}
+{% set groups_css_class = "none" %}
