@@ -31,3 +31,29 @@
     {{- AUTHOR -}}
   {%- endif -%}
 {%- endblock %}
+
+{% block content %}
+<section class="{{ content_css_class }}">
+  <article>
+    <header>
+      <h1>
+        <a href="{{ SITEURL }}/{{ content.url }}"
+           rel="bookmark"
+           title="Permalink to {{ content.title|striptags }}">
+          {{ content.title }}
+        </a>
+      </h1>
+    </header>
+    {% block article_time %}{% endblock %}
+    <aside>
+      {{- translations_for(content, SITEURL) -}}
+      {%- if content.github_url -%}
+        <div class="edit-on-github"><a href="{{ content.github_url }}">Edit on Github</a></div>
+      {%- endif -%}
+    </aside>
+    <hr>
+    <div class="main-content">{{ content.content }}</div>
+    {% block article_metadata %}{% endblock %}
+  </article>
+</section>
+{% endblock %}

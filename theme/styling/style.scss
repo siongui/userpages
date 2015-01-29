@@ -47,7 +47,8 @@ $link-hover-color: #2445ae;
 
 .common-datetime {
   //color: #d6d5d5;
-  color: #dbdad0;
+  //color: #dbdad0;
+  color: #888888;
   font-size: 1.25em;
   line-height: 1.5em;
 }
@@ -78,6 +79,10 @@ $link-hover-color: #2445ae;
       clear:both;
     }
   }
+
+  .main-content {
+    font-size: 1.75em;
+  }
 }
 
 .page { @extend .content; }
@@ -95,6 +100,7 @@ $link-hover-color: #2445ae;
 
   div.post-content {
     line-height: 1.5em;
+    font-size: 1.5em;
     p { display: inline; }
 
     a.read-more {

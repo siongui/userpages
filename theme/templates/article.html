@@ -1,57 +1,38 @@
 {% extends "layout/content.html" %}
+{% set content_css_class = "article" %}
 
-{% block content %}
-<section class="article">
-  <article>
-    <header>
-      <h1>
-        <a href="{{ SITEURL }}/{{ article.url }}"
-           rel="bookmark"
-           title="Permalink to {{ article.title|striptags }}">
-          {{ article.title }}
-        </a>
-      </h1>
-    </header>
-    <aside>
-      <time title="{{ article.date.isoformat() }}">
-        <span>{{ article.date | strftime('%B %d') }}</span>,
-        <span>{{ article.date | strftime('%Y') }}</span>
-      </time>
-    </aside>
-    <aside>
-      {{- translations_for(article, SITEURL) -}}
-      {%- if article.github_url -%}
-        <div class="edit-on-github"><a href="{{ article.github_url }}">Edit on Github</a></div>
-      {%- endif -%}
-    </aside>
+{% block article_time %}
+<aside>
+  <time title="{{ article.date.isoformat() }}">
+    <span>{{ article.date | strftime('%B %d') }}</span>,
+    <span>{{ article.date | strftime('%Y') }}</span>
+  </time>
+</aside>
+{% endblock %}
 
-    <hr>
-    {{ article.content }}
-    <hr>
+{% block article_metadata %}
+<hr>
+{% if article.author %}
+  <address><b>By</b>
+    <a rel="author"
+       href="{{ SITEURL }}/{{ article.author.url }}">
+      {{ article.author }}
+    </a>
+  </address>
+{% endif %}
 
-    {% if article.author %}
-      <address><b>By</b>
-        <a rel="author"
-           href="{{ SITEURL }}/{{ article.author.url }}">
-          {{ article.author }}
-        </a>
-      </address>
-    {% endif %}
+{% if article.category %}
+  <i>&isin;</i> <b>Category</b>:
+  <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+{% endif %}
 
-    {% if article.category %}
-      <i>&isin;</i> <b>Category</b>:
-      <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
-    {% endif %}
-
-    {% if article.tags %}
-      <aside>
-        <i>&sum;</i> <b>Tags</b>:
-        {% for tag in article.tags %}
-          <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
-          {% if not loop.last %}, {% endif %}
-        {% endfor %}
-      </aside>
-    {% endif %}
-  </article>
-</section>
+{% if article.tags %}
+  <aside>
+    <i>&sum;</i> <b>Tags</b>:
+    {% for tag in article.tags %}
+      <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+      {% if not loop.last %}, {% endif %}
+    {% endfor %}
+  </aside>
+{% endif %}
 {% endblock %}
