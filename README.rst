@@ -99,6 +99,18 @@ CSS layout:
 
   `How do you keep parents of floated elements from collapsing? <http://stackoverflow.com/questions/218760/how-do-you-keep-parents-of-floated-elements-from-collapsing>`_
 
+mobile responsive design:
+
+  `Bootstrap 3 Slide in Menu / Navbar on Mobile <http://stackoverflow.com/questions/20863288/bootstrap-3-slide-in-menu-navbar-on-mobile>`_
+
+  `Bootstrap Tutorial – Creating a Responsive Navbar (Video) <http://bootstrapbay.com/blog/bootstrap-tutorial-navbar/>`_
+
+  `How to Create Off Canvas Layouts with Susy <http://www.zell-weekeat.com/off-canvas-layouts-susy/>`_
+
+  `Off The Beaten Canvas: Exploring The Potential Of The Off-Canvas Pattern <http://www.smashingmagazine.com/2014/02/24/off-the-beaten-canvas-exploring-the-potential-of-the-off-canvas-pattern/>`_
+
+  `Implementing Off-Canvas Navigation For A Responsive Website <http://www.smashingmagazine.com/2013/01/15/off-canvas-navigation-for-responsive-website/>`_
+
 Bootstrap image trigger modal:
 
   `Can I use an image to trigger a modal window in Bootstrap? <http://stackoverflow.com/questions/15423532/can-i-use-an-image-to-trigger-a-modal-window-in-bootstrap>`_
