@@ -123,3 +123,22 @@ $link-hover-color: #2445ae;
     }
   }
 }
+
+.common-groups {
+  @extend .common-border;
+
+  ul > li {
+    line-height: 2em;
+    .badge {
+      line-height: 1.5em;
+      color: rgb(0, 0, 238);
+      padding: 0 .75em 0 .75em;
+      background-color: #CCFFCC;
+      border-radius: 3px, 3px;
+    }
+  }
+}
+
+.tags, .authors, .categories {
+  @extend .common-groups;
+}
