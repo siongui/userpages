@@ -3,7 +3,6 @@
 
 :tags: Dart, DOM
 :category: Dart
-:author: Siong-Ui Te
 :summary: DOM element remove all children in Dart programming language
 
 
