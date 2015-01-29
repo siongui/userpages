@@ -1,3 +1,4 @@
+{% for article in (articles_page.object_list if articles_page else articles) %}
 <article class="post">
   <header>
     <h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
@@ -13,3 +14,5 @@
     <a class="read-more" href="{{ SITEURL }}/{{ article.url }}">&nbsp;read more &raquo;</a>
   </div>
 </article>
+{% endfor %}
+{# TODO: add pagination #}

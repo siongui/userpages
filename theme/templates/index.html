@@ -1,7 +1,2 @@
 {% extends "layout/layout.html" %}
-{% block content %}
-{% for article in (articles_page.object_list if articles_page else articles) %}
-  {% include 'layout/includes/article_info.html' %}
-{% endfor %}
-{# TODO: add pagination #}
-{% endblock %}
+{% block content %}{% include "layout/includes/list_articles.html" %}{% endblock %}

@@ -7,8 +7,5 @@
     <li><a href="{{ SITEURL}}/{{ groups_partial_url }}">{{ groups_name }}</a></li>
     <li class="active">{{ group }}</li>
   </ol>
-  {% for article in (articles_page.object_list if articles_page else articles) %}
-    {% include 'layout/includes/article_info.html' %}
-  {% endfor %}
-  {# TODO: add pagination #}
+  {% include "layout/includes/list_articles.html" %}
 {% endblock %}
