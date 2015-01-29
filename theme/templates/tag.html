@@ -1,0 +1,6 @@
+{% extends "layout/group.html" %}
+{%- from 'layout/includes/i18n.html' import gettext -%}
+
+{% set groups_name = gettext('Tags', DEFAULT_LANG) %}
+{% set groups_partial_url = TAGS_URL | default('tags.html') %}
+{% set group = tag %}
