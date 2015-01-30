@@ -13,6 +13,11 @@ $link-hover-color: #2445ae;
 }
 
 * { font-family: $font-stack; }
+blockquote {
+  padding: 10px;
+  margin: 0 0 10px 0;
+  border-left: 5px solid #eee;
+}
 
 a {
   text-decoration: none;
@@ -130,10 +135,10 @@ a {
   }
 
   .main-content {
-    font-size: 1.75em;
+    //font-size: 1.25em;
 
     // styling Gistfy source code
-    div.gist {font-size: 14px;}
+    //div.gist {font-size: 14px;}
   }
 }
 
@@ -152,7 +157,7 @@ a {
 
   div.post-content {
     line-height: 1.5em;
-    font-size: 1.5em;
+    font-size: 1.25em;
     p { display: inline; }
 
     a.read-more {
