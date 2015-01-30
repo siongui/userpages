@@ -19,6 +19,8 @@ GITHUB_PAGES_BRANCH=gh-pages
 GITHUB_USER_NAME=siongui
 
 
+default: html serve
+
 download:
 	# download pelican i18n_subsites plugin
 	[ ! -d $(I18N_SUBSITES_DIR) ] || rm -rf $(I18N_SUBSITES_DIR)

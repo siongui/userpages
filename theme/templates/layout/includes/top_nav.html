@@ -1,12 +1,12 @@
 <nav class="row top-nav" role="navigation">
-  <div class="col-md-4">
-    <div class="window">
+  <div class="col-md-4 window-and-header">
+    <div class="toggleable-window visible-xs-inline-block">
       <input type="checkbox" class="toggle" id="punch" checked>
-      <label for="punch">&#8803;<!-- three lines: &equiv; --></label>
+      <label for="punch">&#8803;<!-- three lines(math symbol equivalent): &equiv; --></label>
       <div>menu here</div>
     </div>
     <header><h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1></header></div><!--
---><div class="col-md-5">
+--><div class="col-md-5 hidden-xs">
     <ul>
       {% if DISPLAY_PAGES_ON_MENU %}
       {%- for p in pages -%}
@@ -20,7 +20,7 @@
     </ul>
     <!--TODO: add links for Links(optional), and RSS -->
   </div><!--
---><div class="col-md-3">
+--><div class="col-md-3 hidden-xs">
     <a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/">[English]</a>||
     <a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/zh/">[傳統中文]</a>
   </div>

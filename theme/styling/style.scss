@@ -17,6 +17,31 @@ $link-hover-color: #2445ae;
   }
 }
 
+/* pure css toggle-able window */
+.toggleable-window {
+  input.toggle {display: none;}
+  label {
+    margin: 0; // bootstrap3 set margin-bottom to 5px
+    background-color: #dbdad0;
+    border-radius: 3px;
+    padding: .6rem;
+    font-size: 2.5rem;
+    font-weight:bold;
+    &:hover, &:focus {
+      cursor: pointer;
+      background-color: #888888;
+    }
+  }
+  input.toggle:checked ~ label {font-weight:normal;}
+  input.toggle:checked ~ div {display: none;}
+  div {
+    position: absolute;
+    width: 100%;
+    color: white;
+    background-color: #888888;
+  }
+}
+
 .top-nav[role=navigation] {
   @extend .common-title;
   background-image: linear-gradient(to bottom right, white, $primary-color);
@@ -27,32 +52,11 @@ $link-hover-color: #2445ae;
     display: inline-block;
     vertical-align: middle;
     float: none;
-    position: relative;
+  }
 
+  .window-and-header {
+    position: relative;
     header {display: inline-block}
-    .window {
-      display: inline-block;
-      input.toggle {display: none;}
-      label {
-        margin: 0; // bootstrap3 set margin-bottom to 5px
-        background-color: #dbdad0;
-        border-radius: 3px;
-        padding: .6rem;
-        font-size: 2.5rem;
-        &:hover, &:focus {
-          cursor: pointer;
-          background-color: #888888;
-        }
-      }
-      input.toggle:checked ~ label {font-weight:bold;}
-      input.toggle:checked ~ div {display: none;}
-      div {
-        position: absolute;
-        width: 100%;
-        color: white;
-        background-color: black;
-      }
-    }
   }
 
   ul {
@@ -108,6 +112,9 @@ $link-hover-color: #2445ae;
 
   .main-content {
     font-size: 1.75em;
+
+    // styling Gistfy source code
+    div.gist {font-size: 14px;}
   }
 }
 
