@@ -1,12 +1,17 @@
-<nav class="row top-nav" role="navigation">
-  <div class="col-md-4 window-and-header">
-    <div class="toggleable-window visible-xs-inline-block">
+<nav class="top-nav" role="navigation">
+  <div class="nav-header-window">
+    <div class="toggleable-window">
       <input type="checkbox" class="toggle" id="punch" checked>
       <label for="punch">&#8803;<!-- three lines(math symbol equivalent): &equiv; --></label>
-      <div>menu here</div>
+      <div>
+        link 1<br>
+        link 2<br>
+        link 3<br>
+      </div>
     </div>
-    <header><h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1></header></div><!--
---><div class="col-md-5 hidden-xs">
+    <header><h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1></header>
+  </div>
+  <div class="nav-links">
     <ul>
       {% if DISPLAY_PAGES_ON_MENU %}
       {%- for p in pages -%}
@@ -17,11 +22,11 @@
       <li><a href="{{ SITEURL }}/{{ CATEGORIES_URL | default('categories.html') }}">{{ gettext('Categories', DEFAULT_LANG) }}</a></li>
       <li><a href="{{ SITEURL }}/{{ TAGS_URL | default('tags.html') }}">{{ gettext('Tags', DEFAULT_LANG) }}</a></li>
       <li><a href="{{ SITEURL }}/{{ AUTHORS_URL | default('authors.html') }}">{{ gettext('Authors', DEFAULT_LANG) }}</a></li>
+      <!--TODO: add links for Links(optional), and RSS -->
     </ul>
-    <!--TODO: add links for Links(optional), and RSS -->
-  </div><!--
---><div class="col-md-3 hidden-xs">
-    <a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/">[English]</a>||
+  </div>
+  <div class="nav-lang-select">
+    <a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/">[English]</a>&nbsp;
     <a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/zh/">[傳統中文]</a>
   </div>
 </nav>

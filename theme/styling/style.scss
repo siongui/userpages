@@ -3,29 +3,35 @@ $primary-color: #dddddd;
 $link-hover-color: #2445ae;
 
 
-* { font-family: $font-stack; }
-
-.common-title {
-  header {
-    h1, h2 {
-      margin-top: 10px;
-      a {
-        text-decoration: none;
-        &:hover { color: $link-hover-color; }
-      }
-    }
+// keep parent element of floated elements from collapsing
+@mixin clearfix {
+  &:after {
+    content:"";
+    display:table;
+    clear:both;
   }
 }
+
+* { font-family: $font-stack; }
+
+a {
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+    color: $link-hover-color;
+  }
+}
+
+.common-title {}
 
 /* pure css toggle-able window */
 .toggleable-window {
   input.toggle {display: none;}
   label {
-    margin: 0; // bootstrap3 set margin-bottom to 5px
     background-color: #dbdad0;
     border-radius: 3px;
-    padding: .6rem;
-    font-size: 2.5rem;
+    padding: .2em;
+    font-size: 2em;
     font-weight:bold;
     &:hover, &:focus {
       cursor: pointer;
@@ -42,29 +48,37 @@ $link-hover-color: #2445ae;
   }
 }
 
+// top navigation bar
 .top-nav[role=navigation] {
   @extend .common-title;
-  background-image: linear-gradient(to bottom right, white, $primary-color);
+  background-image: linear-gradient(to bottom left, white, $primary-color);
   border-radius: 4px;
   margin-top: 8px;
 
-  .col-md-3, .col-md-4, .col-md-5 {
-    display: inline-block;
-    vertical-align: middle;
-    float: none;
+  .nav-header-window, .nav-links, .nav-lang-select {
+    float: left;
   }
 
-  .window-and-header {
+  .nav-header-window {
+    width: 30%;
     position: relative;
-    header {display: inline-block}
+    .toggleable-window {display: inline-block;}
+    header {display: inline-block;}
   }
 
-  ul {
-    margin-bottom: 0; // bootstrap3 set this to 10px.
-    li {
-      display: inline;
-      margin-right: 1em;
-    }
+  .nav-links {
+    width: 50%;
+  }
+
+  .nav-lang-select {
+    width: 20%;
+  }
+
+  @include clearfix;
+
+  ul li {
+    display: inline;
+    margin-right: 1em;
   }
 }
 
@@ -84,7 +98,6 @@ $link-hover-color: #2445ae;
 }
 
 .content {
-  //background-image: linear-gradient(to top left, white, $primary-color);
   @extend .common-border;
   @extend .common-title;
 
@@ -102,12 +115,7 @@ $link-hover-color: #2445ae;
       float: left;
     }
 
-    // keep parent element of floated elements from collapsing
-    &:after {
-      content:"";
-      display:table;
-      clear:both;
-    }
+    @include clearfix;
   }
 
   .main-content {
@@ -186,11 +194,11 @@ $link-hover-color: #2445ae;
   padding: 5px;
   ol.breadcrumb {
     @extend .common-border;
-  //  li {
-  //    &:after { content: " / "; }
-  //    &.active:after { content: ""; }
-  //    display: inline;
-  //  }
+    li {
+      &:after { content: " / "; }
+      &.active:after { content: ""; }
+      display: inline;
+    }
   }
 }
 

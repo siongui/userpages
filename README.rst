@@ -99,6 +99,14 @@ CSS layout:
 
   `How do you keep parents of floated elements from collapsing? <http://stackoverflow.com/questions/218760/how-do-you-keep-parents-of-floated-elements-from-collapsing>`_
 
+scss media query:
+
+  `Responsive Web Design in Sass: Using media queries in Sass 3.2 <http://thesassway.com/intermediate/responsive-web-design-in-sass-using-media-queries-in-sass-32>`_
+
+  `Write Better Media Queries with Sass <http://davidwalsh.name/write-media-queries-sass>`_
+
+  `Approaches to Media Queries in Sass <http://css-tricks.com/approaches-media-queries-sass/>`_
+
 CSS toggle element:
 
   `Is it possible to toggle div visibility with CSS? <http://www.reddit.com/r/css/comments/1f1nmm/is_it_possible_to_toggle_div_visibility_with_css/>`_
