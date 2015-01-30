@@ -99,6 +99,12 @@ CSS layout:
 
   `How do you keep parents of floated elements from collapsing? <http://stackoverflow.com/questions/218760/how-do-you-keep-parents-of-floated-elements-from-collapsing>`_
 
+CSS toggle element:
+
+  `Is it possible to toggle div visibility with CSS? <http://www.reddit.com/r/css/comments/1f1nmm/is_it_possible_to_toggle_div_visibility_with_css/>`_
+
+  `HTML5 Window Toggle Events In Pure CSS3 <http://demosthenes.info/blog/506/HTML5-Window-Toggle-Events-In-Pure-CSS3>`_
+
 mobile responsive design:
 
   `Bootstrap 3 Slide in Menu / Navbar on Mobile <http://stackoverflow.com/questions/20863288/bootstrap-3-slide-in-menu-navbar-on-mobile>`_

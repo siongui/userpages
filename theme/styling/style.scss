@@ -19,6 +19,7 @@ $link-hover-color: #2445ae;
 
 .top-nav[role=navigation] {
   @extend .common-title;
+  header {display: inline-block}
   background-image: linear-gradient(to bottom right, white, $primary-color);
   border-radius: 4px;
   margin-top: 8px;
@@ -27,6 +28,23 @@ $link-hover-color: #2445ae;
     display: inline-block;
     vertical-align: middle;
     float: none;
+
+    .window {
+      display: inline-block;
+      input.toggle {display: none;}
+      label {
+        background-color: #dbdad0;
+        border-radius: 3px;
+        padding: .2rem;
+        font-size: 2.5rem;
+        &:hover, &:focus {
+          cursor: pointer;
+          background-color: #888888;
+        }
+      }
+      input.toggle:checked ~ label {font-weight:bold;}
+      input.toggle:checked ~ div {display: none;}
+    }
   }
 
   ul {
