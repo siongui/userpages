@@ -31,6 +31,7 @@ $link-hover-color: #2445ae;
 }
 
 * { font-family: $font-stack; }
+
 blockquote {
   padding: 10px;
   margin: 0 0 10px 0;
@@ -56,7 +57,13 @@ a {
   }
 }
 
-.common-title {}
+.common-title {
+  header {
+    h1, h2 {
+      @media #{$smartphone} {font-size: 1.25em;}
+    }
+  }
+}
 
 /* pure css toggle-able window */
 .toggleable-window {
@@ -96,10 +103,24 @@ a {
 
     .toggleable-window {
       display: inline-block;
-      margin-left: 5px;
+      label {margin-left: 8px;}
+      // mobile menu
+      div {
+        // links for pages, archives,...
+        a {
+          margin: 0 2px 0 2px;
+          display: block;
+          padding: 4px;
+          background-color: #c0c0c0;
+          border-bottom: 2px solid #202020;
+        }
+        // links for lang
+        span a {background-color: #a0a0a0;}
+      }
     }
     header {
       display: inline-block;
+      @media #{$non-smartphone} {margin-left: 10px;}
       h1 { @media #{$smartphone} {font-size: 1.5em;} }
     }
   }

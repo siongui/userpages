@@ -4,9 +4,17 @@
       <input type="checkbox" class="toggle" id="punch" checked>
       <label for="punch">&#8803;<!-- three lines(math symbol equivalent): &equiv; --></label>
       <div>
-        link 1<br>
-        link 2<br>
-        link 3<br>
+      {% if DISPLAY_PAGES_ON_MENU %}
+      {%- for p in pages -%}
+        <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+      {%- endfor -%}
+      {% endif %}
+        <a href="{{ SITEURL }}/{{ ARCHIVES_URL | default('archives.html') }}">{{ gettext('Archives', DEFAULT_LANG) }}</a>
+        <a href="{{ SITEURL }}/{{ CATEGORIES_URL | default('categories.html') }}">{{ gettext('Categories', DEFAULT_LANG) }}</a>
+        <a href="{{ SITEURL }}/{{ TAGS_URL | default('tags.html') }}">{{ gettext('Tags', DEFAULT_LANG) }}</a>
+        <a href="{{ SITEURL }}/{{ AUTHORS_URL | default('authors.html') }}">{{ gettext('Authors', DEFAULT_LANG) }}</a>
+        <span><a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/">English</a></span>
+        <span><a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/zh/">傳統中文</a></span>
       </div>
     </div>
     <header><h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1></header>
