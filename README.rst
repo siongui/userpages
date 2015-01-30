@@ -95,6 +95,8 @@ edit on Github link:
 
 CSS layout:
 
+  `A Complete Guide to Flexbox <http://css-tricks.com/snippets/css/a-guide-to-flexbox/>`_
+
   `vertical-align with bootstrap 3 <http://stackoverflow.com/questions/20547819/vertical-align-with-bootstrap-3>`_
 
   `How do you keep parents of floated elements from collapsing? <http://stackoverflow.com/questions/218760/how-do-you-keep-parents-of-floated-elements-from-collapsing>`_

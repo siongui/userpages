@@ -10,8 +10,8 @@
       </div>
     </div>
     <header><h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1></header>
-  </div>
-  <div class="nav-links">
+  </div><!--
+--><div class="nav-links">
     <ul>
       {% if DISPLAY_PAGES_ON_MENU %}
       {%- for p in pages -%}
@@ -24,8 +24,8 @@
       <li><a href="{{ SITEURL }}/{{ AUTHORS_URL | default('authors.html') }}">{{ gettext('Authors', DEFAULT_LANG) }}</a></li>
       <!--TODO: add links for Links(optional), and RSS -->
     </ul>
-  </div>
-  <div class="nav-lang-select">
+  </div><!--
+--><div class="nav-lang-select">
     <a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/">[English]</a>&nbsp;
     <a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/zh/">[傳統中文]</a>
   </div>

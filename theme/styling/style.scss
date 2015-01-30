@@ -72,7 +72,8 @@ a {
   margin-top: 8px;
 
   .nav-header-window, .nav-links, .nav-lang-select {
-    float: left;
+    display: inline-block;
+    vertical-align: middle;
   }
 
   .nav-header-window {
