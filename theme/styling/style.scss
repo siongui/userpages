@@ -19,7 +19,6 @@ $link-hover-color: #2445ae;
 
 .top-nav[role=navigation] {
   @extend .common-title;
-  header {display: inline-block}
   background-image: linear-gradient(to bottom right, white, $primary-color);
   border-radius: 4px;
   margin-top: 8px;
@@ -28,14 +27,17 @@ $link-hover-color: #2445ae;
     display: inline-block;
     vertical-align: middle;
     float: none;
+    position: relative;
 
+    header {display: inline-block}
     .window {
       display: inline-block;
       input.toggle {display: none;}
       label {
+        margin: 0; // bootstrap3 set margin-bottom to 5px
         background-color: #dbdad0;
         border-radius: 3px;
-        padding: .2rem;
+        padding: .6rem;
         font-size: 2.5rem;
         &:hover, &:focus {
           cursor: pointer;
@@ -44,6 +46,12 @@ $link-hover-color: #2445ae;
       }
       input.toggle:checked ~ label {font-weight:bold;}
       input.toggle:checked ~ div {display: none;}
+      div {
+        position: absolute;
+        width: 100%;
+        color: white;
+        background-color: black;
+      }
     }
   }
 
