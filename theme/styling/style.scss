@@ -1,3 +1,21 @@
+// reponsive class names are the same as bootstrap 3
+// @see http://getbootstrap.com/css/
+$screen-xs-max: 767;
+$screen-sm-min: 768;
+$screen-md-min: 992;
+$screen-lg-min: 1200;
+
+$smartphone: "(max-width: #{$screen-xs-max}px)";
+$non-smartphone: "(min-width: #{$screen-sm-min}px)";
+
+.visible-xs {
+  @media #{$non-smartphone} {display: none !important;}
+}
+
+.hidden-xs {
+  @media #{$smartphone} {display: none !important;}
+}
+
 $font-stack: Arial, Helvetica, sans-serif, "微軟正黑體", "Microsoft JhengHei";
 $primary-color: #dddddd;
 $link-hover-color: #2445ae;
@@ -44,14 +62,10 @@ a {
 .toggleable-window {
   input.toggle {display: none;}
   label {
-    background-color: #dbdad0;
-    border-radius: 3px;
-    padding: .2em;
     font-size: 2em;
     font-weight:bold;
     &:hover, &:focus {
       cursor: pointer;
-      background-color: #888888;
     }
   }
   input.toggle:checked ~ label {font-weight:normal;}
@@ -59,8 +73,6 @@ a {
   div {
     position: absolute;
     width: 100%;
-    color: white;
-    background-color: #888888;
   }
 }
 
@@ -78,9 +90,18 @@ a {
 
   .nav-header-window {
     width: 30%;
+    @media #{$smartphone} {width: 100%;}
     position: relative;
-    .toggleable-window {display: inline-block;}
-    header {display: inline-block;}
+    vertical-align: middle;
+
+    .toggleable-window {
+      display: inline-block;
+      margin-left: 5px;
+    }
+    header {
+      display: inline-block;
+      h1 { @media #{$smartphone} {font-size: 1.5em;} }
+    }
   }
 
   .nav-links {
