@@ -2,7 +2,7 @@
   <div class="nav-header-window">
     <div class="toggleable-window visible-xs">
       <input type="checkbox" class="toggle" id="punch" checked>
-      <label for="punch">&#8803;<!-- three lines(math symbol equivalent): &equiv; --></label>
+      <label for="punch">&equiv;<!-- mobile devices cannot show &#8803; (math symbol STRICTLY EQUIVALENT TO) --></label>
       <div>
       {% if DISPLAY_PAGES_ON_MENU %}
       {%- for p in pages -%}
