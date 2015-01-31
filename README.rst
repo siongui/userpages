@@ -42,7 +42,7 @@ First-time Setup
     $ cd ~/dev/userpages/
     $ sudo pip install -r requirements.txt
 
-5. Install pelican `i18n_subsites <https://github.com/getpelican/pelican-plugins/tree/master/i18n_subsites>`_ plugin:
+5. Install pelican `i18n_subsites <https://github.com/getpelican/pelican-plugins/tree/master/i18n_subsites>`_ plugin and download `normalize.css <http://necolas.github.io/normalize.css/>`_:
 
 .. code-block:: bash
 
