@@ -41,7 +41,9 @@ blockquote {
 a {
   text-decoration: none;
   &:hover {
-    text-decoration: underline;
+    @media #{$non-smartphone} {
+      text-decoration: underline;
+    }
     color: $link-hover-color;
   }
 }
@@ -69,7 +71,7 @@ a {
 .toggleable-window {
   input.toggle {display: none;}
   label {
-    font-size: 2em;
+    font-size: 3em;
     font-weight:bold;
     &:hover, &:focus {
       cursor: pointer;
@@ -103,14 +105,15 @@ a {
 
     .toggleable-window {
       display: inline-block;
-      label {margin-left: 8px;}
+      label {margin-left: 10px;}
       // mobile menu
       div {
         // links for pages, archives,...
         a {
+          font-size: 1.5em;
           margin: 0 2px 0 2px;
           display: block;
-          padding: 4px;
+          padding: 6px 6px 6px 10px;
           background-color: #c0c0c0;
           border-bottom: 2px solid #202020;
         }
@@ -120,6 +123,10 @@ a {
     }
     header {
       display: inline-block;
+      @media #{$smartphone} {
+        position: absolute;
+        right: 10px;
+      }
       @media #{$non-smartphone} {margin-left: 10px;}
       h1 { @media #{$smartphone} {font-size: 1.5em;} }
     }
