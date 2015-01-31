@@ -1,6 +1,9 @@
 {#
   HTML5 Semantic Elements
   @see http://www.w3schools.com/html/html5_semantic_elements.asp
+
+  Facebook Content Sharing Best Practices
+  @see https://developers.facebook.com/docs/sharing/best-practices
 #}
 {%- from 'layout/includes/i18n.html' import gettext, translations_for -%}
 <!DOCTYPE html>
@@ -11,6 +14,8 @@
   <meta name="keywords" content="{% block meta_keywords -%}{{ META_KEYWORDS }}{%- endblock %}"/>
   <meta name="description" content="{% block meta_description -%}{{ META_DESCRIPTION }}{%- endblock %}"/>
   <meta name="author" content="{% block meta_author -%}{{ AUTHOR }}{%- endblock %}"/>
+  {%- if OG_TITLE -%}<meta property="og:title" content="{{ OG_TITLE }}" />{%- endif -%}
+  {%- if OG_IMAGE -%}<meta property="og:image" content="{{ OG_IMAGE }}" />{%- endif -%}
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.2/normalize.min.css">

@@ -30,6 +30,8 @@ Contact:
 
   Skype Name: ``siongui``
 
+  LINE: ``siongui``
+
 Blogs:
 
   `Theory and Practice <http://siongui.github.io/>`__

@@ -1,5 +1,10 @@
 {% extends "layout/content.html" %}
 {% set content_css_class = "article" %}
+{%- if article.og_title -%}
+  {% set OG_TITLE = article.og_title %}
+{%- else -%}
+  {% set OG_TITLE = article.title %}
+{%- endif -%}
 
 {% block article_time %}
 <aside>

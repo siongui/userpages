@@ -32,6 +32,8 @@
   {%- endif -%}
 {%- endblock %}
 
+{%- if content.og_image -%}{% set OG_IMAGE = content.og_image %}{%- endif -%}
+
 {% block content %}
 <section class="{{ content_css_class }}">
   <article>

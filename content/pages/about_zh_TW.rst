@@ -30,6 +30,8 @@
 
   Skype帳號: ``siongui``
 
+  LINE帳號: ``siongui``
+
 部落格:
 
   `理論與實作 <http://siongui.github.io/>`__
