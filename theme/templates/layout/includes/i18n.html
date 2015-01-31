@@ -2,16 +2,14 @@
   {%- if lang == 'en' -%}
     {{ string }}
   {%- elif lang == 'zh' -%}
-    {%- if string == 'Home' -%} 首頁
-    {%- elif string == 'Archives' -%} 歸檔
+    {%- if string == 'Archives' -%} 歸檔
     {%- elif string == 'Categories' -%} 分類
+    {%- elif string == 'Category' -%} 分類
     {%- elif string == 'Authors' -%} 作者
+    {%- elif string == 'Author' -%} 作者
     {%- elif string == 'Tags' -%} 標籤
     {%- elif string == 'Translation(s)' -%} 翻譯
-    {%- elif string == 'Tel' -%} 電話
-    {%- elif string == 'Street' -%} 街道
-    {%- elif string == 'Email' -%} 電子郵件
-    {%- elif string == 'Kaohsiung, Taiwan' -%} 高雄,台灣
+    {%- elif string == 'Edit on Github' -%} 在Github上編輯
     {%- else -%}
       {{ string }}
     {%- endif -%}

@@ -48,7 +48,7 @@
     <aside>
       {{- translations_for(content, SITEURL) -}}
       {%- if content.github_url -%}
-        <div class="edit-on-github"><a href="{{ content.github_url }}">Edit on Github</a></div>
+        <div class="edit-on-github"><a href="{{ content.github_url }}">{{ gettext('Edit on Github', DEFAULT_LANG) }}</a></div>
       {%- endif -%}
     </aside>
     <hr>

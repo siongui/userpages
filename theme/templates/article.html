@@ -13,7 +13,7 @@
 {% block article_metadata %}
 <hr>
 {% if article.author %}
-  <address><b>By</b>
+  <address><b>{{ gettext('Author', DEFAULT_LANG) }}</b>:
     <a rel="author"
        href="{{ SITEURL }}/{{ article.author.url }}">
       {{ article.author }}
@@ -22,13 +22,13 @@
 {% endif %}
 
 {% if article.category %}
-  <i>&isin;</i> <b>Category</b>:
+  <i>&isin;</i> <b>{{ gettext('Category', DEFAULT_LANG) }}</b>:
   <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
 {% endif %}
 
 {% if article.tags %}
   <aside>
-    <i>&sum;</i> <b>Tags</b>:
+    <i>&sum;</i> <b>{{ gettext('Tags', DEFAULT_LANG) }}</b>:
     {% for tag in article.tags %}
       <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
       {% if not loop.last %}, {% endif %}
