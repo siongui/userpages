@@ -1,4 +1,6 @@
+// include normalize.css 3.0.2
 @import "normalize302";
+// include styling for code snippet
 @import "pygments";
 
 // reponsive class names are the same as bootstrap 3
@@ -192,6 +194,18 @@ a {
 
     // styling Gistfy source code
     //div.gist {font-size: 14px;}
+
+    // for styling of rst syntax: ``some_word_here``
+    // <tt> is not supported in HTML5
+    tt.literal {
+      white-space: nowrap;
+      margin: 0 2px;
+      padding: 0 5px;
+      border: 1px solid #ddd;
+      background-color: #f8f8f8;
+      //background-color: rgba(0,0,0,0.04);
+      border-radius: 3px;
+    }
   }
 }
 
