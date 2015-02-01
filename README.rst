@@ -93,6 +93,16 @@ edit on Github link:
 
   `pelican-edit-url <https://github.com/pmclanahan/pelican-edit-url>`_
 
+reStructuredText:
+
+  `reStructuredText Markup Specification <http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html>`_
+
+  `reStructuredText简明教程 <http://jwch.sdut.edu.cn/book/rst.html>`_
+
+  `轻量级标记语言 <http://www.worldhello.net/gotgithub/appendix/markups.html>`_
+
+  `reStructuredText 简明教程 <http://wstudio.web.fc2.com/others/restructuredtext.html>`_
+
 CSS layout:
 
   `A Complete Guide to Flexbox <http://css-tricks.com/snippets/css/a-guide-to-flexbox/>`_

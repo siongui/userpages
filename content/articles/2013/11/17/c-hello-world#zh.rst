@@ -6,13 +6,13 @@ C語言Hello Word
 :summary: C語言的Hello World程式
 
 
-.. |br| raw:: html
+.. the following is equivalent to insert <br> in html
 
-   <br />
+|
 
-.. show_github_file:: siongui userpages content/2013/11/17/hello.c
+.. show_github_file:: siongui userpages content/articles/2013/11/17/hello.c
 
-|br|
+|
 
-.. show_github_file:: siongui userpages content/2013/11/17/Makefile
+.. show_github_file:: siongui userpages content/articles/2013/11/17/Makefile
 

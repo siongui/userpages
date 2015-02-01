@@ -45,9 +45,6 @@ Love with your whole being.
 
 Always be happy.
 
-
-.. raw:: html
-
-    <br><br><br>
+----
 
 *Sources*: `The Four Principles of Spirituality. <http://rummuser.com/?p=4624>`_, `The Four Principles of Indian Spirituality <http://www.synchrosecrets.com/synchrosecrets/?p=4782>`_
