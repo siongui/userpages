@@ -103,6 +103,34 @@ reStructuredText:
 
   `reStructuredText 简明教程 <http://wstudio.web.fc2.com/others/restructuredtext.html>`_
 
+  rst2html:
+
+    `How can I get rst2html.py to include the CSS for syntax highlighting? <http://stackoverflow.com/questions/9807604/how-can-i-get-rst2html-py-to-include-the-css-for-syntax-highlighting>`_
+
+    `Hottest 'rst2html.py' Answers - Stack Overflow <http://stackoverflow.com/tags/rst2html.py/hot>`_
+
+    `html4css1.css <http://sourceforge.net/p/docutils/code/HEAD/tree/trunk/docutils/docutils/writers/html4css1/html4css1.css>`_
+
+    rst2html stylesheet:
+
+      `Writing HTML (CSS) Stylesheets for Docutils <http://docutils.sourceforge.net/docs/howto/html-stylesheets.html>`_
+
+    rst2html css:
+
+      `Documentation: Create GitHub like styled html doc file with rst2html <https://gist.github.com/vergissberlin/6422a0fe146c8fc04d7f>`_
+
+      `marianoguerra/rst2html5 <https://github.com/marianoguerra/rst2html5>`_
+
+      `How to render reStructuredText documents with latest docutils on Ubuntu 12.04 LTS <http://www.van-tomas.de/blog/restructuredtext-docutils-ubuntu-12-04-lts/>`_
+
+      `[rsST] 修改 rst2html highlight style <http://blog.float.tw/2013/07/rst2html-change-highlight-style.html>`_
+
+      `Docutils使用方式 <http://www.openfoundry.org/tw/download/doc_download/417-docutils-teachingdoc>`_ (`Google cache <http://www.openfoundry.org/tw/download/doc_download/417-docutils-teachingdoc>`__)
+
+  restructuredtext center text:
+
+    `Best way to align center a paragraph with RestructuredText? <http://stackoverflow.com/questions/14819093/best-way-to-align-center-a-paragraph-with-restructuredtext>`_
+
 CSS layout:
 
   `A Complete Guide to Flexbox <http://css-tricks.com/snippets/css/a-guide-to-flexbox/>`_

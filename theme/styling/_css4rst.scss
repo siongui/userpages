@@ -1,3 +1,11 @@
+/**
+ * References:
+ * 1. Default HTML (CSS) Stylesheets for reStructuredText
+ * URL: http://sourceforge.net/p/docutils/code/HEAD/tree/trunk/docutils/docutils/writers/html4css1/html4css1.css
+ * 2. Documentation: Create GitHub like styled html doc file with rst2html
+ * URL: https://gist.github.com/vergissberlin/6422a0fe146c8fc04d7f
+ */
+
 //font-size: 1.25em;
 
 // styling Gistfy source code
@@ -30,4 +38,16 @@ tt.literal {
   background-color: #f8f8f8;
   //background-color: rgba(0,0,0,0.04);
   border-radius: 3px;
+}
+
+p.rubric {
+  font-weight: bold;
+  font-size: larger;
+  color: maroon;
+  text-align: center;
+}
+
+.align-center {
+  clear: both;
+  text-align: center;
 }
