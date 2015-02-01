@@ -21,4 +21,4 @@ In line 7 and 8, we create a dom with root element 'html'. If you run the the sc
 
     <?xml version="1.0" ?><html/>
 
-In the next post, we will show how to add a text node to the root element.
+In the `next post <{filename}python-xml-dom-minidom-howto-2%en.rst>`_, we will show how to add a text node to the root element.
