@@ -1,7 +1,7 @@
 [AngularJS] Set HTML Document Title
 ###################################
 
-:tags: AngularJS, document title, html
+:tags: AngularJS, document title, html, JavaScript
 :category: AngularJS
 :summary: Set HTML document title in AngularJS
 
