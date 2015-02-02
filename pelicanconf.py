@@ -8,6 +8,14 @@ SITEURL = ''
 
 PATH = 'content'
 
+# avoid processing .html files
+READERS = {'html': None}
+
+# mix articles and static files in the same place
+# @see https://github.com/getpelican/pelican/issues/1587
+ARTICLE_PATHS = ['articles']
+STATIC_PATHS = ['articles']
+
 TIMEZONE = 'Asia/Taipei'
 
 DEFAULT_LANG = u'en'
