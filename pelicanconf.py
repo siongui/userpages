@@ -16,6 +16,9 @@ READERS = {'html': None}
 ARTICLE_PATHS = ['articles']
 STATIC_PATHS = ['articles']
 
+EXTRA_PATH_METADATA = {'extra/robots.txt': {'path': 'robots.txt'},
+                       'extra/yezi.png': {'path': 'favicon.ico'},}
+
 TIMEZONE = 'Asia/Taipei'
 
 DEFAULT_LANG = u'en'
