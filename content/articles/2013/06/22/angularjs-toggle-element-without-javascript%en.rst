@@ -1,7 +1,7 @@
 [AngularJS] Toggle Element without JavaScript
 #############################################
 
-:tags: AngularJS, example, howto, JavaScript, toggle, toggleable
+:tags: AngularJS, JavaScript, toggle, toggleable
 :category: AngularJS
 :summary: Example of toggling DOM element using AngularJS, without any JavaScript code.
 

@@ -1,7 +1,7 @@
 [Python] Pretty Print Variable (Dictionary, List, Object, Array)
 ################################################################
 
-:tags: array, dictionary, list, object, pretty print, Python, variable
+:tags: pretty print, Python
 :category: Python
 :summary: Pretty print variable in Python
 

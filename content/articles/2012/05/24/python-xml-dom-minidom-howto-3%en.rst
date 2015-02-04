@@ -1,7 +1,7 @@
 Python Library xml.dom.minidom Howto (3)
 ########################################
 
-:tags: DOM, howto, html, minidom, Python, tutorial, XML
+:tags: DOM, html, minidom, Python, XML
 :category: Python
 :summary: Python XML/HTML manipulation primer of xml.dom.minidom
 

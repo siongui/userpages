@@ -1,7 +1,7 @@
 Show Math on Web
 ################
 
-:tags: blog, blogger, latex, math, math symbol, online latex editor, web
+:tags: latex, math, online latex editor, web
 :category: Web
 :summary: Show math symbols on the blog or website.
 

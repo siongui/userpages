@@ -1,7 +1,7 @@
 [C] Remove String Trailing Newline (Carriage Return)
 ####################################################
 
-:tags: C, code snippet, howto, tutorial, Makefile
+:tags: C, remove trailing newline, remove carriage return, Makefile
 :category: C
 :summary: Remove trailing newline (carriage return) of a string in C programming language.
 
