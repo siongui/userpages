@@ -176,3 +176,7 @@ Image Hover:
   `iHover <http://gudh.github.io/ihover/dist/>`_ (`src <https://github.com/gudh/ihover>`_)
 
   `bootstrap image hover overlay with icon <http://stackoverflow.com/questions/26823237/bootstrap-image-hover-overlay-with-icon>`_
+
+Embed Google+ Album:
+
+  `Embed Google+ Album <http://youtu.be/tTSG2NR15Qw>`_
