@@ -1,7 +1,7 @@
 Show Math on Web
 ################
 
-:tags: latex, math, online latex editor, web
+:tags: LaTeX, math symbol, online latex editor, web
 :category: Web
 :summary: Show math symbols on the blog or website.
 
@@ -14,7 +14,7 @@ Let's give it a try:
 
 Input the following mathematical equation of latex syntax:
 
-.. rubric:: \int_{-\infty}^{x}e^xdx =e^x
+.. rubric:: :code:`\int_{-\infty}^{x}e^xdx =e^x`
    :class: align-center
 
 Copy the HTML code in the below of the website, put on your web page, and you will see:

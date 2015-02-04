@@ -11,6 +11,7 @@ This post shows how to use `AngularJS <https://angularjs.org/>`_ powerful `direc
 Please first see:
 
 .. rubric:: `Demo <{filename}ngdropdown.html>`_
+   :class: align-center
 
 js: See `Developer Guide: Directives <https://docs.angularjs.org/guide/directive>`_ and `API: $compile <https://docs.angularjs.org/api/ng/service/$compile>`_ for how to write custom directives and API.
 

@@ -11,6 +11,7 @@ The power of `AngularJS <https://angularjs.org/>`_ is best described by toggling
 Please first see:
 
 .. rubric:: `Demo <{filename}ngtoggle.html>`_
+   :class: align-center
 
 The source code of above demo:
 
