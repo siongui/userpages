@@ -23,7 +23,7 @@
     :css_class: picasa-image
     :description: (道場大殿及小碼頭)
 
-.. container:: align-center
+.. container:: align-center video-container
 
   .. raw:: html
 
@@ -34,7 +34,7 @@
 
 `Wat Pah Bodhiyan <http://maps.google.com/maps?q=15.177021,105.422573&ll=15.178181,105.422487&spn=0.048211,0.078964&num=1&t=h&z=14>`__ (又名Wat Khuen) 翻成中文應該是"覺悟之乘叢林道場",這個道場有個更好記的名字,叫做"水壩道場",因為它就在水壩旁邊,水壩非常大,叫Sirinthon Dam,道場也非常大,依泰國的面積單位rai來算,有2400rai,大約是384公頃.這個道場屬於 `烏汶府 <http://zh.wikipedia.org/zh-tw/%E7%83%8F%E6%B1%B6%E5%BA%9C>`_ (`Ubon Ratchathani <http://en.wikipedia.org/wiki/Ubon_Ratchathani_Province>`_)內的 `Sirinthon <http://en.wikipedia.org/wiki/Amphoe_Sirindhorn>`_ (Google地圖上是翻譯成Sirindhorn)縣,位在泰國跟寮國邊境附近,離寮國非常近,算是一個非常偏遠的地方.這個道場是巴蓬寺系統(阿姜查系統)的第八個分院.
 
-.. container:: align-center
+.. container:: align-center video-container
 
   .. raw:: html
 
@@ -54,7 +54,7 @@
     :css_class: picasa-image
     :description: (Luang Por Boonchu照片)
 
-.. container:: align-center
+.. container:: align-center video-container
 
   .. raw:: html
 
@@ -108,7 +108,7 @@
     :css_class: picasa-image
     :description: (Luang Por Boonchu托缽結束坐船回來)
 
-.. container:: align-center
+.. container:: align-center video-container
 
   .. raw:: html
 
@@ -121,7 +121,7 @@
 
 在阿姜查(Ajahn Chah)系統的道場都是一天吃一餐,大約都是早上八點或九點吃飯,下午會另外有一個時段可以喝果汁或飲料,稱為nampana.道場平日作息有兩個重要時間,一個是早上5am,另一個是下午2pm,上午5am這個時間集合打掃大殿,然後出去托缽,回來後由居士重新分配食物,有時也會有居士開車帶食物到道場供養,食物一併重新分配.食物非常多吃不完,雖然一天只吃一餐,並不用擔心吃不飽.大約九點左右是用餐時間,吃飽飯後是自由時間直到下午兩點.下午兩點在大殿集合開始工作.每天工作多久不一定,有時會做到天黑還拿手電筒繼續做,有時下大雨就沒做,一般而言都會做兩三個小時左右,做完後就是nampana喝飲料時間.
 
-.. container:: align-center
+.. container:: align-center video-container
 
   .. raw:: html
 

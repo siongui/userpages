@@ -20,7 +20,7 @@
     :css_class: picasa-image
     :description: (<a href="http://maps.google.com/maps?q=15.16764,104.776011&ll=15.167971,104.775968&spn=0.012053,0.019741&num=1&t=h&z=16">國際叢林道場</a>大門)
 
-.. container:: align-center
+.. container:: align-center video-container
 
   .. raw:: html
 
