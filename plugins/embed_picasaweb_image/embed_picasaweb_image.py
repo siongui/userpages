@@ -11,10 +11,11 @@ class embed_picasaweb_image(Directive):
   required_arguments = 1
   optional_arguments = 0
   final_argument_whitespace = True
-  option_spec = { 'album_name': directives.unchanged,
-                  'css_class' : directives.unchanged,
-                  'album_url' : directives.uri,
-                  'image_url' : directives.uri,
+  option_spec = { 'album_name'  : directives.unchanged,
+                  'css_class'   : directives.unchanged,
+                  'description' : directives.unchanged,
+                  'album_url'   : directives.uri,
+                  'image_url'   : directives.uri,
                 }
   has_content = False
 
@@ -24,9 +25,15 @@ class embed_picasaweb_image(Directive):
     album_url = self.options.get('album_url', None)
     image_url = self.options.get('image_url', None)
     css_class = self.options.get('css_class', None)
+    description = self.options.get('description', u'')
 
-    html = u'<div class="{}"><a href="{}"><image src="{}"></a><div><a href="{}">{}</a></div></div>'.format(
-           css_class, image_url, url, album_url, album_name)
+    if album_name and album_url:
+      html = u'<div class="{}"><a href="{}"><image src="{}"></a><div><a href="{}">{}</a></div><div>{}</div></div>'.format(
+             css_class, image_url, url, album_url, album_name, description)
+    else:
+      html = u'<div class="{}"><a href="{}"><image src="{}"></a><div>{}</div></div>'.format(
+             css_class, image_url, url, description)
+
     return [nodes.raw('', html, format='html')]
 
 
