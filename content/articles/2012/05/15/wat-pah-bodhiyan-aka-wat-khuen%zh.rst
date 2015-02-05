@@ -4,6 +4,7 @@
 :tags: Ajahn Boonchu, Ajahn Chah, Luang Por Boonchu, Luang Por Chah, Wat Khuen, Wat Nong Pah Pong Branch, Wat Pah Bodhiyan, 巴蓬寺分院, 水壩道場, 阿姜查, 阿姜查道場, 隆波查
 :category: 泰國道場見聞
 :summary: 今年(2012)二月一號到四月三十號,總共去了泰國六個道場(Wat Pah Nanachat, Wat Nong Pah Pong, Wat Pah Bodhiyan, Wat Pah Ampawan, Wat Fakram, Wat Ampawan),住了其中四個,這篇先來介紹Wat Pah Bodhiyan.
+:og_image: https://lh3.googleusercontent.com/-YEf8r0ISxY4/VNNbsFBXZoI/AAAAAAAAlzQ/ltLd0ILj_do/s640/IMG_20120429_053534.jpg
 
 
 今年(2012)二月一號到四月三十號,總共去了泰國六個道場(
