@@ -81,7 +81,8 @@ div.note p.admonition-title {
 
 // responsive youtube embed
 // http://avexdesigns.com/responsive-youtube-embed/
-@media (max-width: 480px) {
+// screen width >= 420px, no need to be responsive
+@media (max-width: 419px) {
   .video-container {
       position: relative;
       padding-bottom: 56.25%;
@@ -97,3 +98,10 @@ div.note p.admonition-title {
       height: 100%;
   }
 }
+// make description of iframe (youtube or google maps)
+// close to the iframe
+.video-container-description > dl {
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+.video-container-description > p { margin: 0; }

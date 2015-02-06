@@ -29,6 +29,8 @@
 
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1646.9947351731164!2d105.418619!3d15.185328!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTXCsDExJzA3LjUiTiAxMDXCsDI1JzA3LjYiRQ!5e1!3m2!1sen!2sus!4v1423108725726" width="400" height="300" frameborder="0" style="border:0"></iframe>
 
+.. container:: align-center video-container-description
+
   (大殿及小碼頭空拍圖,標記處是大殿)
    `看較大地圖 <http://maps.google.com/maps?q=15.185416,105.41878&num=1&t=h&ie=UTF8&ll=15.185222,105.418426&spn=0.001812,0.00228&z=18&source=embed>`__
 
@@ -39,6 +41,8 @@
   .. raw:: html
 
     <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m11!1m3!1d26360.98732944094!2d105.422338!3d15.177247!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTXCsDEwJzM3LjMiTiAxMDXCsDI1JzIxLjMiRQ!5e1!3m2!1sen!2sus!4v1423111104652" width="400" height="300" frameborder="0" style="border:0"></iframe>
+
+.. container:: align-center video-container-description
 
   (水壩道場衛星地圖)
    `看較大地圖 <http://maps.google.com/maps?q=15.177021,105.422573&num=1&t=h&ie=UTF8&ll=15.177518,105.422058&spn=0.057986,0.072956&z=13&source=embed>`__
@@ -59,6 +63,8 @@
   .. raw:: html
 
     <iframe width="420" height="315" src="https://www.youtube.com/embed/UOTKWp-5bKI" frameborder="0" allowfullscreen></iframe>
+
+.. container:: align-center video-container-description
 
   (Luang Por Boonchu影片)
 
@@ -114,6 +120,8 @@
 
     <iframe width="420" height="315" src="https://www.youtube.com/embed/_joJ7pDklKU" frameborder="0" allowfullscreen></iframe>
 
+.. container:: align-center video-container-description
+
   (Luang Por Boonchu托缽結束坐船回來的影片)
 
   `在相簿中觀看 <https://picasaweb.google.com/116486520727854844696/2012April22th29th#6112329931792490690>`__
@@ -126,6 +134,8 @@
   .. raw:: html
 
     <iframe width="420" height="315" src="https://www.youtube.com/embed/s9vyZdGfs1c" frameborder="0" allowfullscreen></iframe>
+
+.. container:: align-center video-container-description
 
   (用餐時間Luang Por Boonchu進大殿)
 

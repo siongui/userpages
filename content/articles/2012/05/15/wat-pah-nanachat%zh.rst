@@ -26,6 +26,8 @@
 
     <iframe src="https://www.google.com/maps/embed?pb=!1m13!1m11!1m3!1d6599.869329598915!2d104.77574224441265!3d15.168219410505127!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1423160803180" width="400" height="300" frameborder="0" style="border:0"></iframe>
 
+.. container:: align-center video-container-description
+
   (國際叢林道場衛星地圖)
    `看較大地圖 <http://maps.google.com/maps?q=15.16764,104.776011&num=1&t=h&ie=UTF8&ll=15.168323,104.776096&spn=0.014497,0.018239&z=15&source=embed>`__
 
