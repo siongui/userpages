@@ -1,5 +1,5 @@
-泰國道場之旅（三）：巴蓬寺(Wat Nong Pah Pong)
-#############################################
+巴蓬寺(Wat Nong Pah Pong) - 泰國道場之旅（三）
+##############################################
 
 :tags: Ajahn Chah, Luang Por Chah, Wat Nong Pah Pong, Wat Pah Nanachat, 國際叢林道場, 巴蓬寺, 阿姜查, 隆波查
 :category: 泰國道場見聞

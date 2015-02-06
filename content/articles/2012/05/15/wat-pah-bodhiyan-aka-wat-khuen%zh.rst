@@ -1,5 +1,5 @@
-泰國道場之旅（一）：覺乘叢林道場（Wat Pah Bodhiyan）又名水壩道場（Wat Khuen）
-#############################################################################
+覺乘叢林道場(Wat Pah Bodhiyan)又名水壩道場(Wat Khuen) - 泰國道場之旅（一）
+##########################################################################
 
 :tags: Ajahn Boonchu, Ajahn Chah, Luang Por Boonchu, Luang Por Chah, Wat Khuen, Wat Nong Pah Pong Branch, Wat Pah Bodhiyan, 巴蓬寺分院, 水壩道場, 阿姜查, 阿姜查道場, 隆波查
 :category: 泰國道場見聞
