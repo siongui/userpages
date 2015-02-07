@@ -3,7 +3,7 @@ Special Format Conversion in Python
 
 :tags: Python
 :category: Python
-:summary: "%2c%e3%80%90%e5%bd%a2%e3%80%91%e6%97%a0%e7%a2%8d%e7%9a%84%e3%80%82" <=> ",【形】无碍的。"
+:summary: `%2c%e3%80%90%e5%bd%a2%e3%80%91%e6%97%a0%e7%a2%8d%e7%9a%84%e3%80%82` <=> `,【形】无碍的。`
 
 
 The folloing string:
