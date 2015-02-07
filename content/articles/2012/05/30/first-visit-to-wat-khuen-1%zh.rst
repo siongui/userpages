@@ -9,7 +9,7 @@
 
 .. note::
 
-   % 本文一張圖片連結自 `國際叢林道場相簿 <https://picasaweb.google.com/105007927083171937889>`_,若有侵權請 `來信 <mailto:siongui@gmail.com>`_ 告知刪除。
+   % 本文有一張圖片連結自 `國際叢林道場相簿 <https://picasaweb.google.com/105007927083171937889>`_,若有侵權請 `來信 <mailto:siongui@gmail.com>`_ 告知刪除。
 
    % One of the photos of this post are linked from `International Forest Monastery Wat Pah Nanachat's Gallery <https://picasaweb.google.com/105007927083171937889>`_. If this is not allowed, please `mail me <mailto:siongui@gmail.com>`_ to delete.
 

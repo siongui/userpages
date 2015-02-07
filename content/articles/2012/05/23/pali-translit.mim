@@ -1,0 +1,42 @@
+;; pali-translit.mim
+;;
+;; Input method for Pali transliteration using the ITRANS scheme.
+
+(input-method t pali-translit)
+
+(title "pali-translit")
+
+(map
+(trans
+
+("aa" "ā")
+((A-a) "ā")
+("AA" "Ā")
+((A-A) "Ā")
+("ii" "ī")
+((A-i) "ī")
+("II" "Ī")
+((A-I) "Ī")
+("uu" "ū")
+((A-u) "ū")
+("UU" "Ū")
+((A-U) "Ū")
+(".l" "ḷ")
+(".L" "Ḷ")
+(".M" "ṁ")
+(".m" "ṃ")
+(";n" "ṅ")
+(";N" "Ṅ")
+("~n" "ñ")
+("~N" "Ñ")
+(".t" "ṭ")
+(".T" "Ṭ")
+(".d" "ḍ")
+(".D" "Ḍ")
+(".n" "ṇ")
+(".N" "Ṇ")
+))
+
+(state
+(init
+(trans)))
