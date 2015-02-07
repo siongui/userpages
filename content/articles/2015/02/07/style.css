@@ -1,0 +1,34 @@
+/* pure css toggle-able window */
+.toggleable-window input.toggle {
+  display: none;
+}
+
+.toggleable-window label {
+  font-size: 3em;
+  font-weight:bold;
+}
+
+.toggleable-window label:hover,
+.toggleable-window label:focus {
+  cursor: pointer;
+}
+
+.toggleable-window input.toggle:checked ~ label {
+  font-weight:normal;
+}
+
+.toggleable-window input.toggle:checked ~ div {
+  display: none;
+}
+
+
+.toggleable-window div {
+  position: absolute;
+  width: 100%;
+  background: yellow;
+}
+
+.container {
+  position: relative;
+  width: 10em;
+}
