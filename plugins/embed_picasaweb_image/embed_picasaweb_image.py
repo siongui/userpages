@@ -28,8 +28,8 @@ class embed_picasaweb_image(Directive):
     description = self.options.get('description', u'')
 
     if album_name and album_url:
-      html = u'<div class="{}"><a href="{}"><image src="{}"></a><div><a href="{}">{}</a></div><div>{}</div></div>'.format(
-             css_class, image_url, url, album_url, album_name, description)
+      html = u'<div class="{}"><a href="{}"><image src="{}"></a><div>{}</div><div class="album">From Album: <a href="{}">{}</a></div></div>'.format(
+             css_class, image_url, url, description, album_url, album_name)
     else:
       html = u'<div class="{}"><a href="{}"><image src="{}"></a><div>{}</div></div>'.format(
              css_class, image_url, url, description)
