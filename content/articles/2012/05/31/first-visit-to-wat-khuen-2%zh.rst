@@ -16,7 +16,7 @@
     :album_name: 二訪水壩道場. 2012 April 22th-29th
     :album_url: https://picasaweb.google.com/116486520727854844696/2012April22th29th
     :css_class: picasa-image
-    :description: (男眾就住在下方孤邸(kuti)附近的樹下)
+    :description: (男眾就住在照片右下方附近那片森林裡，那裡還有間孤邸[泰語：กุฏิ]，但照片上沒標出來)
 
 .. container:: align-center video-container
 
