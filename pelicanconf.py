@@ -60,6 +60,7 @@ I18N_SUBSITES = {
     'META_DESCRIPTION': '我的部落格及分享',
   }
 }
+I18N_UNTRANSLATED_ARTICLES = 'remove'
 
 # generate only index.html and pages and articles. (no archives, tags, categories)
 #DIRECT_TEMPLATES = ['index']
