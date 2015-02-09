@@ -3,7 +3,7 @@
 
 :tags: Ajahn Boonchu, Luang Por Boonchu, Wat Khuen, Wat Nong Pah Pong Branch, Wat Pah Bodhiyan, 巴蓬寺分院, 水壩道場, 阿姜查道場
 :category: 泰國道場見聞
-:summary: 
+:summary: 又有團體來到道場，以及平日托缽情形。
 :og_image: https://lh3.googleusercontent.com/-aDRDyAlbOJE/VNNbsD8n9YI/AAAAAAAAlzQ/htag3qpsxEc/s640/IMG_20120429_060924.jpg
 
 
