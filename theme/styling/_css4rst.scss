@@ -52,13 +52,21 @@ p.rubric {
   text-align: center;
 }
 
+.default-image-align-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+img.align-center {
+  @extend .default-image-align-center;
+}
+
 .picasa-image {
   img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 100%;
-    height: auto;
+    @extend .default-image-align-center;
   }
   div {
     text-align: center;
