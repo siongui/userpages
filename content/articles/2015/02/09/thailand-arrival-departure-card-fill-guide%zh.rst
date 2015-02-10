@@ -5,6 +5,7 @@
 :tags: 泰國, 入境卡, 出境卡
 :category: 轉錄
 :summary: 泰國入出境卡填寫指南
+:og_image: http://mmbiz.qpic.cn/mmbiz/0GEvbAAVJ8Au12Tt2TH2u28dibqMkdZSeTCicliaLPOolaiakss9vmO6beftTc0n7TicoIIEdOyumZylMlGqGpqLzzg/0
 
 
 入境卡正面：
