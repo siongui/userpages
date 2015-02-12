@@ -4,7 +4,7 @@
 :tags: Wat Khuen, Wat Nong Pah Pong Branch, Wat Pah Bodhiyan, 巴蓬寺分院, 水壩道場, 阿姜查道場
 :category: 泰國道場見聞
 :summary: 如何靠大眾運輸工具隻身抵達水壩道場。
-:og_image: https://lh6.googleusercontent.com/-kMh6W4LAzM4/VNgW40wy9QI/AAAAAAAAl4U/hiA-sjXdwHU/s640/IMG_20120422_070927.jpg
+:og_image: https://lh3.googleusercontent.com/-2o5Tb9l6n1U/VNyhv5ED__I/AAAAAAAAl6M/J9fewX4Sq_I/s640/IMG_20120422_070803.jpg
 
 
 供養完Luang Por Jarun,走出芒果樹道場大門,走幾步路往右手邊看,有一個 `攤位 <http://maps.google.com/maps?q=14.82391,100.440324&ll=14.823407,100.440295&spn=0.003018,0.004935&num=1&t=h&z=18>`_ 在賣通往曼谷的小巴士車票.車票售價120(or 140, 正確數字忘了)泰銖.
