@@ -21,11 +21,14 @@ Source Code for Demo (*html*):
 
 .. show_github_file:: siongui userpages content/articles/2015/02/13/vanilla-javascript-dropdown-menu-example.html
 
-Note: In line 10, *inline css* ``display: none;`` is added to the *div* element.
-Why not put ``display: none;`` in css file? Because if we put it in the css
-file, ``document.getElementById("menuDiv-dropdown").style.display`` will return
-*null* instead of *none*, which will cause problem in our following JavaScript
-code.
+.. note::
+
+  In line 10, `inline css`_ :code:`display: none;` is added to the *div* element.
+
+  Why not put :code:`display: none;` in css file? Because if we put it in the
+  css file, :code:`document.getElementById("menuDiv-dropdown").style.display`
+  will return *null* instead of *none*, which will cause problem in our
+  following JavaScript code.
 
 Source Code for Demo (*JavaScript*):
 
@@ -46,3 +49,5 @@ References:
 .. _search result: https://www.google.com/search?aq=f&gcx=w&sourceid=chrome&ie=UTF-8&q=Hide+Div+When+Clicking+Outside+the+Div
 
 .. _jQuery: http://jquery.com/
+
+.. _inline css: http://www.w3schools.com/css/css_howto.asp

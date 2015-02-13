@@ -5,8 +5,9 @@ Javascript Drop Down Menu
 :category: JavaScript
 :summary: Dropdown menu using vanilla JavaScript. No jQuery or libraries are used.
 
-This post gives an example of JavaScript dropdown menu. jQuery is not used
-because I want to keep it pure without dependency.
+
+This post gives an example of JavaScript dropdown menu. jQuery and libraries are
+not used because I want to keep it pure without dependency.
 
 Please first see:
 
@@ -17,11 +18,14 @@ Source Code for Demo (*html*):
 
 .. show_github_file:: siongui userpages content/articles/2015/02/13/vanilla-javascript-dropdown-menu-example.html
 
-Note: In line 10, *inline css* ``display: none;`` is added to the *div* element.
-Why not put ``display: none;`` in css file? Because if we put it in the css
-file, ``document.getElementById("menuDiv-dropdown").style.display`` will return
-*null* instead of *none*, which will cause problem in our following JavaScript
-code.
+.. note::
+
+  In line 10, `inline css`_ :code:`display: none;` is added to the *div* element.
+
+  Why not put :code:`display: none;` in css file? Because if we put it in the
+  css file, :code:`document.getElementById("menuDiv-dropdown").style.display`
+  will return *null* instead of *none*, which will cause problem in our
+  following JavaScript code.
 
 Source Code for Demo (*JavaScript*):
 
@@ -41,3 +45,4 @@ References:
 
 .. [3] `hide popup div when clicking outside the div <http://www.webdeveloper.com/forum/showthread.php?t=98973>`_
 
+.. _inline css: http://www.w3schools.com/css/css_howto.asp

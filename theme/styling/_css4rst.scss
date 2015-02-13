@@ -28,6 +28,13 @@ blockquote {
   }
 }
 
+// inline code highlight
+code {
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
 // for styling of rst syntax: ``some_word_here``
 // <tt> is not supported in HTML5
 tt.literal {
