@@ -41,8 +41,6 @@
   `理論與實作 <http://cvmlrobotics.blogspot.com/>`__
   (託管於 `Blogger <http://www.blogger.com/>`_)
 
-  `泰國道場之旅 <http://siongui.blogspot.com/>`_
-
 推薦:
 
   `巴蓬寺 <http://www.watnongpahpong.org/indexe.php>`_

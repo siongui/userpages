@@ -41,8 +41,6 @@ Blogs:
   `Theory and Practice <http://cvmlrobotics.blogspot.com/>`__
   (hosted on `Blogger <http://www.blogger.com/>`_)
 
-  `泰國道場之旅 <http://siongui.blogspot.com/>`_
-
 Recommended:
 
   `Wat Nong Pah Pong <http://www.watnongpahpong.org/indexe.php>`_
