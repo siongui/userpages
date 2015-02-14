@@ -1,0 +1,18 @@
+#menu-dropdown {
+  font-size: 48px;
+  color: blue;
+  margin-left: 20%;
+}
+
+#menu-dropdown:hover {
+  cursor: pointer;
+}
+
+#menuDiv-dropdown {
+  position: absolute;
+  border: 1px solid blue;
+}
+
+.invisible {
+  display: none;
+}

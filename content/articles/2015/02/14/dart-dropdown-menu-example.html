@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Dart DropDown Menu Example</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <div id="menu-dropdown">Menu&#9660;</div>
+    <div id="menuDiv-dropdown" class="invisible">
+      content<br>content<br>content
+    </div>
+
+  <script type='text/javascript'>
+  var script = document.createElement('script');
+  if (navigator.userAgent.indexOf('(Dart)') === -1) {
+    // Browser doesn't support Dart
+    script.setAttribute("type","text/javascript");
+    script.setAttribute("src", "app.js");
+  } else {
+    var script = document.createElement('script');
+    script.setAttribute("type","application/dart");
+    script.setAttribute("src", "app.dart");
+  }
+  document.getElementsByTagName("head")[0].appendChild(script);
+  </script>
+  </body>
+</html>
