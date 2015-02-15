@@ -11,24 +11,24 @@ Outside It* [2]_.
 
 Please first see (Dartium_ is needed for the demo):
 
-.. rubric:: `Demo <{filename}dart-dropdown-menu-example.html>`_
+.. rubric:: `Demo <{filename}/code/dart-dropdown-menu/dart-dropdown-menu-example.html>`_
    :class: align-center
 
 Source Code for Demo (*html*):
 
-.. show_github_file:: siongui userpages content/articles/2015/02/14/dart-dropdown-menu-example.html
+.. show_github_file:: siongui userpages content/code/dart-dropdown-menu/dart-dropdown-menu-example.html
 
 Source Code for Demo (*Dart*):
 
-.. show_github_file:: siongui userpages content/articles/2015/02/14/app.dart
+.. show_github_file:: siongui userpages content/code/dart-dropdown-menu/app.dart
 
 Source Code for Demo (*css*):
 
-.. show_github_file:: siongui userpages content/articles/2015/02/14/style.css
+.. show_github_file:: siongui userpages content/code/dart-dropdown-menu/style.css
 
 Makefile for automating the development:
 
-.. show_github_file:: siongui userpages content/articles/2015/02/14/Makefile
+.. show_github_file:: siongui userpages content/code/dart-dropdown-menu/Makefile
 
 ----
 
