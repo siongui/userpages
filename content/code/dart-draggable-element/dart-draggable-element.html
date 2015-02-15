@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Dart Draggable (div) Element</title>
+  </head>
+  <body>
+
+  <div id="dragMe" style="width: 200px; height: 200px; background: yellow;">Drag Me</div>
+
+  <script type='text/javascript'>
+  var script = document.createElement('script');
+  if (navigator.userAgent.indexOf('(Dart)') === -1) {
+    // Browser doesn't support Dart
+    script.setAttribute("type","text/javascript");
+    script.setAttribute("src", "app.js");
+  } else {
+    script.setAttribute("type","application/dart");
+    script.setAttribute("src", "app.dart");
+  }
+  document.getElementsByTagName("head")[0].appendChild(script);
+  </script>
+  </body>
+</html>
