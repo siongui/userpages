@@ -14,12 +14,12 @@ code and come up with a working code.
 
 Please first see:
 
-.. rubric:: `Demo <{filename}vanilla-javascript-dropdown-menu-example.html>`_
+.. rubric:: `Demo <{filename}/code/vanilla-javascript-dropdown-menu/vanilla-javascript-dropdown-menu-example.html>`_
    :class: align-center
 
 Source Code for Demo (*html*):
 
-.. show_github_file:: siongui userpages content/articles/2015/02/13/vanilla-javascript-dropdown-menu-example.html
+.. show_github_file:: siongui userpages content/code/vanilla-javascript-dropdown-menu/vanilla-javascript-dropdown-menu-example.html
 
 .. note::
 
@@ -32,11 +32,11 @@ Source Code for Demo (*html*):
 
 Source Code for Demo (*JavaScript*):
 
-.. show_github_file:: siongui userpages content/articles/2015/02/13/vanilla-javascript-dropdown-menu-example.js
+.. show_github_file:: siongui userpages content/code/vanilla-javascript-dropdown-menu/vanilla-javascript-dropdown-menu-example.js
 
 Source Code for Demo (*css*):
 
-.. show_github_file:: siongui userpages content/articles/2015/02/13/style.css
+.. show_github_file:: siongui userpages content/code/vanilla-javascript-dropdown-menu/style.css
 
 ----
 
