@@ -23,7 +23,7 @@ import (
 
 type dataFromClient struct {
 	Title string // cannot use title (lower case will case json decode failure)
-	Url string // cannot use title (lower case will case json decode failure)
+	Url string // cannot use url (lower case will case json decode failure)
 }
 
 func handler(w http.ResponseWriter, r *http.Request) {

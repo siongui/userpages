@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Simple Keypad Example</title>
+</head>
+<body>
+  <input id="PaliInput" type="text" name="word" value="">
+
+  <div id="keyboard" style="position: absolute; border: 1px solid #ccc; padding: 1em;">
+    <input name="7" type="button" value="7" onclick="numClicked(this)"/>
+    <input name="8" type="button" value="8" onclick="numClicked(this)"/>
+    <input name="9" type="button" value="9" onclick="numClicked(this)"/>
+    <br>
+    <input name="4" type="button" value="4" onclick="numClicked(this)"/>
+    <input name="5" type="button" value="5" onclick="numClicked(this)"/>
+    <input name="6" type="button" value="6" onclick="numClicked(this)"/>
+    <br>
+    <input name="1" type="button" value="1" onclick="numClicked(this)"/>
+    <input name="2" type="button" value="2" onclick="numClicked(this)"/>
+    <input name="3" type="button" value="3" onclick="numClicked(this)"/>
+  </div>
+
+  <script type="text/javascript">
+    function numClicked(elm) {
+      document.getElementById("PaliInput").value += elm.value;
+      document.getElementById("PaliInput").focus();
+    }
+  </script>
+</body>
+</html>
