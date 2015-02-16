@@ -1,6 +1,7 @@
 [Dart] MouseEvent ClientX and ClientY Deprecated
 ################################################
 
+:date: 2015-02-16 23:00
 :tags: Dart
 :category: Dart
 :summary: e.clientX => e.client.x & e.clientY => e.client.y
