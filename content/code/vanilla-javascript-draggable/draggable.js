@@ -59,6 +59,9 @@ Draggable = function(id) {
    * @private
    */
   this.draggedElement_ = document.getElementById(id);
+
+  // the element to be made draggable must have CSS property
+  // 'position: absolute;' or 'position: fixed;'
   this.draggedElement_.style.position = "absolute";
 
   if (!this.draggedElement_) {
