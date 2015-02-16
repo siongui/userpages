@@ -2,6 +2,8 @@
 // https://api.dartlang.org/apidocs/channels/stable/dartdoc-viewer/dart:html.MouseEvent
 // https://www.dartlang.org/articles/improving-the-dom/
 // http://stackoverflow.com/questions/14476738/remove-event-listener-with-the-new-library
+// https://code.google.com/p/dart/issues/detail?id=15216
+// https://github.com/threeDart/three.dart/issues/109
 import 'dart:html';
 
 void draggable(Element elm) {
@@ -11,8 +13,8 @@ void draggable(Element elm) {
 
   void mousemove(e) {
     e.preventDefault();
-    int dx = e.clientX - initialMouseX;
-    int dy = e.clientY - initialMouseY;
+    int dx = e.client.x - initialMouseX;
+    int dy = e.client.y - initialMouseY;
     elm.style.top = (startY+dy).toString() + 'px';
     elm.style.left = (startX+dx).toString() + 'px';
   }
@@ -26,8 +28,8 @@ void draggable(Element elm) {
     e.preventDefault();
     startX = elm.offsetLeft;
     startY = elm.offsetTop;
-    initialMouseX = e.clientX;
-    initialMouseY = e.clientY;
+    initialMouseX = e.client.x;
+    initialMouseY = e.client.y;
     docMouseMoveSub = document.onMouseMove.listen(mousemove);
     docMouseUpSub = document.onMouseUp.listen(mouseup);
   });
