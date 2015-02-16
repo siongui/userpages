@@ -13,7 +13,9 @@ void draggable(Element elm) {
 
   void mousemove(e) {
     e.preventDefault();
+    // e.clientX works in Dartium, but fails on compiled js
     int dx = e.client.x - initialMouseX;
+    // e.clientY works in Dartium, but fails on compiled js
     int dy = e.client.y - initialMouseY;
     elm.style.top = (startY+dy).toString() + 'px';
     elm.style.left = (startX+dx).toString() + 'px';
@@ -28,7 +30,9 @@ void draggable(Element elm) {
     e.preventDefault();
     startX = elm.offsetLeft;
     startY = elm.offsetTop;
+    // e.clientX works in Dartium, but fails on compiled js
     initialMouseX = e.client.x;
+    // e.clientY works in Dartium, but fails on compiled js
     initialMouseY = e.client.y;
     docMouseMoveSub = document.onMouseMove.listen(mousemove);
     docMouseUpSub = document.onMouseUp.listen(mouseup);
