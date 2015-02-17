@@ -44,6 +44,8 @@ Makefile for automating the development:
 
 .. show_github_file:: siongui userpages content/code/go-xml/Makefile
 
+Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``.
+
 ----
 
 References:
