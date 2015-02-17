@@ -1,7 +1,7 @@
 [Golang] XML Parsing Example (1)
 ################################
 
-:date: 2015-02-17 11:42
+:date: 2015-02-17 13:24
 :tags: Go, Golang, XML, html
 :category: Go
 :summary: How to read XML files in Go programming language (for newbie).
@@ -14,6 +14,13 @@ We would like to parse the XML file and extract the useful content. Here is how
 we do in Go_ programming language:
 
 .. show_github_file:: siongui userpages content/code/go-xml/parse-1.go
+
+Put the above two files on the same directory and run the code. The ouput will
+be:
+
+.. code-block:: bash
+
+  {{ html} Example}
 
 .. note::
 
