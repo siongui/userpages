@@ -1,5 +1,3 @@
-// http://golang.org/pkg/io/ioutil/
-// http://golang.org/pkg/encoding/xml/
 package main
 
 import (
@@ -10,15 +8,16 @@ import (
 
 type div struct {
 	XMLName	xml.Name	`xml:"div"`
-	// First letter must be capital. Cannot use `content`
+	Class	string		`xml:"class,attr"`
 	Content	string		`xml:",chardata"`
 }
 
 func main() {
 	d := div{}
-	xmlContent, _ := ioutil.ReadFile("example-1.xml")
+	xmlContent, _ := ioutil.ReadFile("example-2.xml")
 	err := xml.Unmarshal(xmlContent, &d)
 	if err != nil { panic(err) }
 	fmt.Println("XMLName:", d.XMLName)
+	fmt.Println("Class:", d.Class)
 	fmt.Println("Content:", d.Content)
 }
