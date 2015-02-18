@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Dart Arrow Key Event Example</title>
+</head>
+<body>
+
+Press Any Key:<br>
+<textarea id="info" rows="20" cols="80"></textarea>
+
+<script type='text/javascript'>
+  var script = document.createElement('script');
+  if (navigator.userAgent.indexOf('(Dart)') === -1) {
+    // Browser doesn't support Dart
+    script.setAttribute("type","text/javascript");
+    script.setAttribute("src", "arrow-key.js");
+  } else {
+    script.setAttribute("type","application/dart");
+    script.setAttribute("src", "arrow-key.dart");
+  }
+  document.getElementsByTagName("head")[0].appendChild(script);
+</script>
+</body>
+</html>
