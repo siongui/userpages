@@ -2,10 +2,10 @@
 ################################
 
 :date: 2015-02-17 13:24
-:modified: 2015-02-19 05:22
+:modified: 2015-02-19 05:53
 :tags: Go, Golang, XML, html
 :category: Go
-:summary: How to read XML files in Go programming language (for newbie).
+:summary: How to read XML/HTML files in Go programming language (for newbie).
 
 Assume we have a XML file as follows:
 
@@ -76,13 +76,21 @@ Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``.
 
 ----
 
+*[Golang] XML Parsing Example* series:
+
+.. [1] `[Golang] XML Parsing Example (1) <{filename}go-parse-xml-example-1%en.rst>`_
+
+.. [2] `[Golang] XML Parsing Example (2) <{filename}../19/go-parse-xml-example-2%en.rst>`_
+
+----
+
 References:
 
-.. [1] `xml - The Go Programming Language <http://golang.org/pkg/encoding/xml/>`_
+.. [a] `xml - The Go Programming Language <http://golang.org/pkg/encoding/xml/>`_
 
-.. [2] `src/encoding/xml/example_test.go - The Go Programming Language <https://golang.org/src/encoding/xml/example_test.go>`_
+.. [b] `src/encoding/xml/example_test.go - The Go Programming Language <https://golang.org/src/encoding/xml/example_test.go>`_
 
-.. [3] `Reading XML Documents in Go <http://www.goinggo.net/2013/06/reading-xml-documents-in-go.html>`_
+.. [c] `Reading XML Documents in Go <http://www.goinggo.net/2013/06/reading-xml-documents-in-go.html>`_
 
 
 .. _Go: https://golang.org/
