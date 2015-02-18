@@ -8,16 +8,17 @@ import (
 	"fmt"
 )
 
-type html struct {
-	XMLName	xml.Name	`xml:"html"`
+type div struct {
+	XMLName	xml.Name	`xml:"div"`
 	// First letter must be capital. Cannot use inner
-	Inner	string		`xml:",innerxml"`
+	Content	string		`xml:",chardata"`
 }
 
 func main() {
-	h := html{}
-	content, _ := ioutil.ReadFile("example-1.xml")
-	err := xml.Unmarshal(content, &h)
+	d := div{}
+	xmlContent, _ := ioutil.ReadFile("example-1.xml")
+	err := xml.Unmarshal(xmlContent, &d)
 	if err != nil { panic(err) }
-	fmt.Println(h)
+	fmt.Println("XMLName:", d.XMLName)
+	fmt.Println("Content:", d.Content)
 }

@@ -2,6 +2,7 @@
 ################################
 
 :date: 2015-02-17 13:24
+:modified: 2015-02-19 05:22
 :tags: Go, Golang, XML, html
 :category: Go
 :summary: How to read XML files in Go programming language (for newbie).
@@ -20,7 +21,8 @@ be:
 
 .. code-block:: bash
 
-  {{ html} Example}
+  XMLName: { div}
+  Content: Example
 
 .. note::
 
@@ -28,9 +30,9 @@ be:
 
   .. code-block:: go
 
-    XMLName       xml.Name        `xml:"html"`
+    XMLName	xml.Name	`xml:"div"`
 
-  :code:`XMLName` and :code:`xml.Name` are fixed syntax for reading ``html``
+  :code:`XMLName` and :code:`xml.Name` are fixed syntax for reading ``div``
   element, you can not change them at will.
 
 .. note::
@@ -39,11 +41,30 @@ be:
 
   .. code-block:: go
 
-    Inner string          `xml:",innerxml"`
+    Content	string		`xml:",chardata"`
 
-  The first letter of the variable :code:`Inner` must be capital. If you use
-  :code:`inner`, the Go_ parser will fail to read the *innerxml*. You can use
-  another name for the variable, as long as the first letter is capital.
+  The first letter of the variable :code:`Content` must be capital. If you use
+  :code:`content`, the Go_ parser will fail to read the content in *div*
+  element. You can use another name for the variable, as long as the first
+  letter is capital.
+
+.. note::
+
+  If you replace the line:
+
+  .. code-block:: go
+
+    Content	string		`xml:",chardata"`
+
+  with
+
+  .. code-block:: go
+
+    Content	string		`xml:",innerxml"`
+
+  i.e., replace *,chardata* with *,innerxml*. The output result will be the same
+  because the raw XML nested inside the *div* element is the same as the
+  character data of the *div* element in this case.
 
 ----
 
