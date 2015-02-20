@@ -2,6 +2,7 @@ JSONP with Anonymous Callback Function
 ######################################
 
 :date: 2015-02-20 21:12
+:modified: 2015-02-20 21:50
 :tags: JavaScript, JSONP, Google App Engine, Python
 :category: JavaScript
 :summary: Cross-domain requests by JSONP with anonymous callback function on Google App Engine for Python.
@@ -27,12 +28,12 @@ The following is a complete example of JSONP with anonymous callback function.
 
 *jsonp.js* (run on client side, i.e., browser):
 
+.. show_github_file:: siongui userpages content/code/jsonp-anonymous-gae/jsonp.js
+
 .. note::
 
   In :code:`'/jsonp?callback=' + encodeURIComponent(callback.toString())`, the
   whole anonymous callback function is supplied in the HTTP request.
-
-.. show_github_file:: siongui userpages content/code/jsonp-anonymous-gae/jsonp.js
 
 *jsonp.py* (run on server side, i.e., GAE Python):
 
@@ -71,6 +72,11 @@ will return HTTP 414 error (Requested URI too long). As a result, if a callback
 function is so long such that it exceeds URI length limit, the only choice is to
 use named callback function.
 
+----
+
+If you want to use JSONP with object instance function as callback function,
+see [2]_.
+
 
 Tested on: ``Ubuntu Linux 14.10``, ``Google App Engine Python SDK 1.9.18``
 
@@ -79,3 +85,5 @@ Tested on: ``Ubuntu Linux 14.10``, ``Google App Engine Python SDK 1.9.18``
 References:
 
 .. [1] `JSONP on Google App Engine Python <{filename}jsonp-on-google-app-engine-python%en.rst>`_
+
+.. [2] `Use Object Instance Function as JSONP Callback Function <{filename}jsonp-object-instance-callback%en.rst>`_

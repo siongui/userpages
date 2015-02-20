@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>JSONP with object instance function as callback</title>
+</head>
+<body onload="var myObj = new demoObj('demoForm');">
+
+<br style="line-height: 3em;" />
+<form id="demoForm" style="text-align: center;">
+  <input id="input1" type="text" value=""><br />
+  <input id="input2" type="text" value=""><br />
+  <input type="submit" value="Submit">
+</form>
+<br style="line-height: 3em;" />
+<div id="info" style="text-align: center;">
+   try to input something and then submit.
+   a JSONP request will be sent to Google App Engine Python server
+   and then response will be sent back.
+</div>
+
+<script src="jsonp.js"></script>
+</body>
+</html>

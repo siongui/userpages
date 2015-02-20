@@ -1,0 +1,17 @@
+application: jsonp-object-instance-callback
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /
+  static_files: index.html
+  upload: index.html
+
+- url: /jsonp.js
+  static_files: jsonp.js
+  upload: jsonp.js
+
+- url: /jsonp
+  script: jsonp.application
