@@ -2,7 +2,7 @@
 ####################################################################
 
 :date: 2012-09-27 19:59
-:modified: 2015-02-20 12:57
+:modified: 2015-02-20 23:11
 :tags: html, JavaScript, DOM
 :category: JavaScript
 :summary: JavaScript equivalent of Python string startswith, endswith, and contains.
@@ -85,5 +85,6 @@ References:
 
 .. [4] `JavaScript String indexOf() Method <http://www.w3schools.com/jsref/jsref_indexof.asp>`_
 
+.. [5] `JavaScript basename() <{filename}../../10/02/javascript-basename%en.rst>`_
 
 .. _indexOf(): http://www.w3schools.com/jsref/jsref_indexof.asp

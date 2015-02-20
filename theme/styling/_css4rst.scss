@@ -86,13 +86,14 @@ img.align-center {
   margin-bottom: 2em;
 }
 
-div.admonition, div.note {
+div.admonition, div.note, div.warning {
   margin: 2em;
   border: medium outset;
   padding: 1em;
 }
 
 div.admonition p.admonition-title,
+div.warning p.admonition-title,
 div.note p.admonition-title {
   font-weight: bold;
   font-family: sans-serif;
