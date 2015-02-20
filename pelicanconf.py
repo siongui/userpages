@@ -40,6 +40,10 @@ AUTHOR_FEED_RSS = None
 
 DEFAULT_PAGINATION = False
 
+# https://github.com/getpelican/pelican/issues/1513
+# {tag}tagName syntax not working now
+# content/articles/2012/09/26/python-create-html-element-dynamically%en.rst
+
 THEME = 'theme'
 
 PLUGIN_PATHS = ['plugins']
