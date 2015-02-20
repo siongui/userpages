@@ -2,6 +2,7 @@
 #######################################
 
 :date: 2013-04-04 03:32
+:modified: 2015-02-20 09:57
 :tags: JavaScript, DOM, draggable, AngularJS
 :category: AngularJS
 :summary: Draggable, movable HTML element using AngularJS.
@@ -20,6 +21,8 @@ AngularJS_ way:
 
 If you prefer to do this in pure JavaScript way, see reference [3]_.
 
+If you want to know how to do this in Dart_, see reference [4]_.
+
 ----
 
 References:
@@ -30,4 +33,8 @@ References:
 
 .. [3] `JavaScript Drag and Drop (Draggable, Movable) Element without External Library <{filename}../../../2012/07/13/javascript-drag-and-drop-draggable-movable-element%en.rst>`_
 
+.. [4] `[Dart] Draggable (Movable) Element <{filename}../../../2015/02/17/dart-draggable-movable-element%en.rst>`_
+
 .. _AngularJS: https://angularjs.org/
+
+.. _Dart: https://www.dartlang.org/

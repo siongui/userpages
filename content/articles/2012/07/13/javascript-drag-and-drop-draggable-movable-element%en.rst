@@ -2,6 +2,7 @@ JavaScript Drag and Drop (Draggable, Movable) Element without External Library
 ##############################################################################
 
 :date: 2012-07-13 00:03
+:modified: 2015-02-20 10:07
 :tags: JavaScript, DOM, draggable
 :category: JavaScript
 :summary: Draggable, movable HTML element using vanilla JavaScript.
@@ -36,6 +37,10 @@ Note that the element to be made draggable must have CSS property
 the code understandable. Hope this would be helpful for those who are
 interested.
 
+If you need draggable elements in AngularJS_ way, see [4]_.
+
+If you need draggable elements in Dart_, see [5]_.
+
 ----
 
 References:
@@ -46,9 +51,16 @@ References:
 
 .. [3] `The HTML5 drag and drop disaster <http://www.quirksmode.org/blog/archives/2009/09/the_html5_drag.html>`_
 
+.. [4] `[AngularJS] Draggable (Movable) Element <{filename}../../../2013/04/04/angularjs-draggable-movable-element%en.rst>`_
+
+.. [5] `[Dart] Draggable (Movable) Element <{filename}../../../2015/02/17/dart-draggable-movable-element%en.rst>`_
 
 .. _jQuery: http://jquery.com/
 
 .. _plugins: http://jqueryui.com/draggable/
 
 .. _DOM element: http://www.w3schools.com/dom/dom_element.asp
+
+.. _AngularJS: https://angularjs.org/
+
+.. _Dart: https://www.dartlang.org/
