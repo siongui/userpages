@@ -2,6 +2,7 @@ JSONP on Google App Engine Python
 #################################
 
 :date: 2015-02-20 15:11
+:modified: 2015-02-20 21:14
 :tags: JavaScript, JSONP, Google App Engine, Python
 :category: JavaScript
 :summary: Cross-domain requests by JSONP on Google App Engine for Python.
@@ -56,6 +57,7 @@ The following is complete sample code.
 
 .. show_github_file:: siongui userpages content/code/jsonp-gae-python/app.yaml
 
+If you want to use JSONP with anonymous callback function, see [4]_.
 
 
 Tested on: ``Ubuntu Linux 14.10``, ``Google App Engine Python SDK 1.9.18``
@@ -70,6 +72,7 @@ References:
 
 .. [3] `Google App Engine for Python <https://cloud.google.com/appengine/docs/python/>`_
 
+.. [4] `JSONP with Anonymous Callback Function <{filename}jsonp-anonymous-callback-function%en.rst>`_
 
 .. _JSONP: http://en.wikipedia.org/wiki/JSONP
 
