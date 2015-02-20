@@ -2,9 +2,11 @@
 ################################
 
 :date: 2015-02-19 06:08
+:modified: 2015-02-21 01:23
 :tags: Go, Golang, XML, html
 :category: Go
-:summary: How to read XML/HTML files in Go programming language (for newbie).
+:summary: How to read XML/HTML files in Go programming language (for newbie)
+          - Read element attribute.
 
 
 following previous post [1]_, we add the attribute ``class="myClass"`` to the
@@ -41,3 +43,4 @@ Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``.
 
 .. [2] `[Golang] XML Parsing Example (2) <{filename}go-parse-xml-example-2%en.rst>`_
 
+.. [3] `[Golang] XML Parsing Example (3) <{filename}../21/go-parse-xml-example-3%en.rst>`_

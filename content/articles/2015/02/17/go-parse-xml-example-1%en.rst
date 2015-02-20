@@ -2,10 +2,11 @@
 ################################
 
 :date: 2015-02-17 13:24
-:modified: 2015-02-19 05:53
+:modified: 2015-02-21 01:24
 :tags: Go, Golang, XML, html
 :category: Go
-:summary: How to read XML/HTML files in Go programming language (for newbie).
+:summary: How to read XML/HTML files in Go programming language (for newbie)
+          - Read element and its content.
 
 Assume we have a XML file as follows:
 
@@ -81,6 +82,8 @@ Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``.
 .. [1] `[Golang] XML Parsing Example (1) <{filename}go-parse-xml-example-1%en.rst>`_
 
 .. [2] `[Golang] XML Parsing Example (2) <{filename}../19/go-parse-xml-example-2%en.rst>`_
+
+.. [3] `[Golang] XML Parsing Example (3) <{filename}../21/go-parse-xml-example-3%en.rst>`_
 
 ----
 
