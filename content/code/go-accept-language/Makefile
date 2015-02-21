@@ -7,12 +7,8 @@ export PATH := $(GOROOT)/bin:$(PATH)
 
 
 test:
-	@# -test.v means verbose, can see logs of t.Log
-	@go test -test.v
-
-parse:
-	@# http://stackoverflow.com/questions/9967105/suppress-echo-of-command-invocation-in-makefile
-	@go run parse.go
+	@# -v means verbose, can see logs of t.Log
+	@go test -v
 
 help:
 	go help
