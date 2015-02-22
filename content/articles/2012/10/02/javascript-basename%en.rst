@@ -3,7 +3,7 @@ JavaScript basename()
 
 :date: 2012-10-02 01:13
 :modified: 2015-02-20 23:17
-:tags: html, JavaScript
+:tags: html, String Manipulation, JavaScript
 :category: JavaScript
 :summary: JavaScript equivalent of basename program.
 

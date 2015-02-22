@@ -3,7 +3,7 @@
 
 :date: 2012-10-11 02:36
 :modified: 2015-02-21 07:10
-:tags: Python, Locale, Google App Engine, HTTP Header, Accept-Language
+:tags: Python, Locale, String Manipulation, Google App Engine, HTTP Header, Accept-Language
 :category: Python
 :summary: Parse Accept-Language in HTTP Request Header in Python.
 

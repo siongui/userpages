@@ -2,7 +2,7 @@
 #####################################################
 
 :date: 2015-02-22 02:49
-:tags: Go, Golang, Google App Engine, HTTP Header, Accept-Language, Locale
+:tags: Go, Golang, Google App Engine, String Manipulation, HTTP Header, Accept-Language, Locale
 :category: Go
 :summary: Parse Accept-Language in HTTP Request Header in Go Programming Language.
 

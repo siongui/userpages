@@ -3,7 +3,7 @@
 
 :date: 2012-09-27 19:59
 :modified: 2015-02-20 23:11
-:tags: html, JavaScript, DOM
+:tags: html, String Manipulation, JavaScript, DOM
 :category: JavaScript
 :summary: JavaScript equivalent of Python string startswith, endswith, and contains.
 
