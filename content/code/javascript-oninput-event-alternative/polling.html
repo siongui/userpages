@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>JavaScript oninput and onpropertychangte Event Alternative</title>
+</head>
+<body>
+
+<input id="input" type="text">
+<div id="info">Type something in above input.</div>
+
+<script src="polling.js"></script>
+<script type="text/javascript">
+  // focus to input element.
+  document.getElementById('input').focus();
+
+  // start to polling input element
+  polling();
+</script>
+</body>
+</html>
