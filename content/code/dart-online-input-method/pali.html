@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Dart Online Input Method - Pali (Pāli, Pāḷi)</title>
+</head>
+<body>
+
+<input type="text" id="pali">
+
+<table class="mapping">
+<tr><th>Type</th><th>For</th></tr>
+<tr><td>AA</td><td>Ā</td></tr>
+<tr><td>aa</td><td>ā</td></tr>
+<tr><td>II</td><td>Ī</td></tr>
+<tr><td>ii</td><td>ī</td></tr>
+<tr><td>UU</td><td>Ū</td></tr>
+<tr><td>uu</td><td>ū</td></tr>
+<tr><td>"N</td><td>Ṅ</td></tr>
+<tr><td>"n</td><td>ṅ</td></tr>
+<tr><td>.M</td><td>Ṃ</td></tr>
+<tr><td>.m</td><td>ṃ</td></tr>
+<tr><td>~N</td><td>Ñ</td></tr>
+<tr><td>~n</td><td>ñ</td></tr>
+<tr><td>.T</td><td>Ṭ</td></tr>
+<tr><td>.t</td><td>ṭ</td></tr>
+<tr><td>.D</td><td>Ḍ</td></tr>
+<tr><td>.d</td><td>ḍ</td></tr>
+<tr><td>.N</td><td>Ṇ</td></tr>
+<tr><td>.n</td><td>ṇ</td></tr>
+<tr><td>.L</td><td>Ḷ</td></tr>
+<tr><td>.l</td><td>ḷ</td></tr>
+</table>
+
+Inspired by <a href="https://code.google.com/p/palipad/">palipad</a>
+(<a href="http://palipad.googlecode.com/git/palipad.html">demo of palipad</a>)
+
+<script type='text/javascript'>
+  var script = document.createElement('script');
+  if (navigator.userAgent.indexOf('(Dart)') === -1) {
+    // Browser doesn't support Dart
+    script.setAttribute("type","text/javascript");
+    script.setAttribute("src", "pali.js");
+  } else {
+    script.setAttribute("type","application/dart");
+    script.setAttribute("src", "pali.dart");
+  }
+  document.getElementsByTagName("head")[0].appendChild(script);
+</script>
+</body>
+</html>
