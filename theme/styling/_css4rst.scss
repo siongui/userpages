@@ -130,3 +130,13 @@ div.note p.admonition-title {
 table.table-syntax-diff {
   width: 100%;
 }
+
+// for grid table
+table.docutils[border="1"] {
+  th, td {
+    width: 4em;
+    height: 2em;
+    line-height: 2em;
+    text-align: center;
+  }
+}
