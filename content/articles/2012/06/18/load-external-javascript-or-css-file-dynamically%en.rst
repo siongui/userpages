@@ -2,7 +2,8 @@ Load External JavaScript or CSS file Dynamically
 ################################################
 
 :date: 2012-06-18 20:29
-:tags: JavaScript, CSS
+:modified: 2015-02-23 10:27
+:tags: JavaScript, CORS, CSS
 :category: JavaScript
 :summary: Load JavaScript or CSS on demand.
 
