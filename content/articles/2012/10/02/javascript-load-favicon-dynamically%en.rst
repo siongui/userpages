@@ -2,7 +2,7 @@
 #####################################
 
 :date: 2012-10-02 01:50
-:modified: 2015-02-23 10:30
+:modified: 2015-02-23 10:46
 :tags: html, CORS, JavaScript
 :category: JavaScript
 :summary: Load website icon (favicon) dynamically.
@@ -22,8 +22,8 @@ function, and then favicon_ will be loaded dynamically:
     document.getElementsByTagName("head")[0].appendChild(ext);
   }
 
-Example Usage of LoadFavicon()
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Example Usage of LoadFavicon Function
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Assume that the path of favicon is located at */favicon.ico* under the domain of
 the website. You can call:
@@ -39,6 +39,8 @@ function and it also works!
 Enjoy!
 
 ----
+
+Reference:
 
 .. [1] `Load External JavaScript or CSS file Dynamically <{filename}../../06/18/load-external-javascript-or-css-file-dynamically%en.rst>`_
 
