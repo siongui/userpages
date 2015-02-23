@@ -1,0 +1,21 @@
+<!doctype html>
+<html ng-app="event">
+<head>
+  <meta charset="utf-8">
+  <title>AngularJS Update Parent Scope</title>
+</head>
+<body>
+
+<div ng-controller="parentCtrl">
+  The parentProperty value: {{ parentProperty }}
+  <div ng-controller="childCtrl">
+    <button ng-click="update()">click me to update parentProperty in parent scope</button>
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.11/angular.min.js"></script>
+<script src="event.js"></script>
+<!-- tested on 1.0.4 and 1.3.11 -->
+</script>
+</body>
+</html>
