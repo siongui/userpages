@@ -3,7 +3,7 @@ JSONP with Anonymous Callback Function
 
 :date: 2015-02-20 21:12
 :modified: 2015-02-20 21:50
-:tags: JavaScript, JSONP, Google App Engine, Python
+:tags: JavaScript, CORS, JSONP, Google App Engine, Python
 :category: JavaScript
 :summary: Cross-domain requests by JSONP with anonymous callback function on Google App Engine for Python.
 
