@@ -83,12 +83,6 @@ References
 
 `Online reStructuredText editor <http://rst.ninjs.org/>`_
 
-embed Github repo file:
-
-  `Gistfy - Gist your GitHub and Bitbucket repositories <http://www.gistfy.com/>`_
-
-  `gist-it.appspot.com - Embed files from a github repository like a gist <http://gist-it.appspot.com/>`_
-
 edit on Github link:
 
   `pelican-edit-url <https://github.com/pmclanahan/pelican-edit-url>`_

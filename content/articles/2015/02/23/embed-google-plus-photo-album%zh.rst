@@ -21,4 +21,4 @@ Google搜尋： `Embed Google+ Album`_ 得知
 
 .. [1] `Embed Google+ Album <http://youtu.be/tTSG2NR15Qw>`__
 
-.. _Embed Google+ Album: https://www.google.com.tw/search?q=Embed+Google%2B+Album
+.. _Embed Google+ Album: https://www.google.com/search?q=Embed+Google%2B+Album
