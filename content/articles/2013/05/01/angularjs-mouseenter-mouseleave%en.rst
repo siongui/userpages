@@ -3,7 +3,7 @@
 
 :date: 2013-05-01 06:53
 :modified: 2015-02-24 14:22
-:tags: AngularJS, JavaScript, mouseenter, mouseleave
+:tags: AngularJS, JavaScript, Directives, mouseenter, mouseleave
 :category: AngularJS
 :summary: Solution to mouseenter and mouseleave event in old version AngularJS.
 
