@@ -38,3 +38,5 @@ Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``.
 .. [2] `[Golang] XML Parsing Example (2) <{filename}../19/go-parse-xml-example-2%en.rst>`_
 
 .. [3] `[Golang] XML Parsing Example (3) <{filename}go-parse-xml-example-3%en.rst>`_
+
+.. [4] `[Golang] XML Parsing Example (4) <{filename}../24/go-parse-xml-example-4%en.rst>`_
