@@ -62,20 +62,28 @@ Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``, ``Python 2.7.8``
 
 ----
 
+*Golang html/template versus Python Jinja2* series:
+
+.. [1] `Golang html/template versus Python Jinja2 (1) <{filename}python-jinja2-vs-go-html-template-1%en.rst>`_
+
+.. [2] `Golang html/template versus Python Jinja2 (2) <{filename}../24/python-jinja2-vs-go-html-template-2%en.rst>`_
+
+----
+
 References:
 
-.. [1] `html/template - Golang <http://golang.org/pkg/html/template/>`_
+.. [a] `html/template - Golang <http://golang.org/pkg/html/template/>`_
 
-.. [2] `Jinja2 (The Python Template Engine) <http://jinja.pocoo.org/>`_
+.. [b] `Jinja2 (The Python Template Engine) <http://jinja.pocoo.org/>`_
 
-.. [3] `Using Templates - Google App Engine for Python <https://cloud.google.com/appengine/docs/python/gettingstartedpython27/templates>`_
+.. [c] `Using Templates - Google App Engine for Python <https://cloud.google.com/appengine/docs/python/gettingstartedpython27/templates>`_
 
-.. [4] `Go HTML Templates: Not Jinja2 <http://blog.ojrac.com/go-html-templates-not-jinja2.html>`_
+.. [d] `Go HTML Templates: Not Jinja2 <http://blog.ojrac.com/go-html-templates-not-jinja2.html>`_
 
-.. [5] `Go HTML Templates: Applying Data <http://blog.ojrac.com/go-html-templates-applying-data.html>`_
+.. [e] `Go HTML Templates: Applying Data <http://blog.ojrac.com/go-html-templates-applying-data.html>`_
 
-.. [6] `Go HTML Templates: Functions and Flow <http://blog.ojrac.com/go-html-templates-functions-and-flow.html>`_
+.. [f] `Go HTML Templates: Functions and Flow <http://blog.ojrac.com/go-html-templates-functions-and-flow.html>`_
 
-.. [7] `pongo2: Django-syntax like template-engine for Go <https://github.com/flosch/pongo2>`_
+.. [g] `pongo2: Django-syntax like template-engine for Go <https://github.com/flosch/pongo2>`_
 
-.. [8] `go语言：优雅的模板切割技术 <http://studygolang.com/articles/2315>`_
+.. [h] `go语言：优雅的模板切割技术 <http://studygolang.com/articles/2315>`_
