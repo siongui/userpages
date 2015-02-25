@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+  <title>Feeder - RSS Feed Reader</title>
+</head>
+<body>
+  <outline text="Hacker News" title="Hacker News" type="rss" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/" rssfr-favicon="https://news.ycombinator.com/favicon.ico"/>
+  <outline text="CSDN最新资讯" title="CSDN最新资讯" type="rss" xmlUrl="http://www.csdn.net/article/rss_lastnews" htmlUrl="http://news.csdn.net" rssfr-favicon="http://s2.googleusercontent.com/s2/favicons?domain=csdn.net"/>
+  <outline text="Solidot" title="Solidot" type="rss" xmlUrl="http://www.solidot.org/index.rss" htmlUrl="http://www.solidot.org" rssfr-favicon="http://s2.googleusercontent.com/s2/favicons?domain=solidot.org"/>
+  <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="http://slashdot.org/" rssfr-favicon="http://slashdot.org/favicon.ico"/>
+  <outline text="InfoQ中文" title="InfoQ中文" type="rss" xmlUrl="http://www.infoq.com/cn/rss/rss.action?token=Apz6T7JrRXKONbiLoKzdoHiJ8uTgu5ef" htmlUrl="http://www.infoq.com/cn/" rssfr-favicon="http://infoqstatic.com/favicon.ico"/>
+  <outline text="外刊IT评论" title="外刊IT评论" type="rss" xmlUrl="http://www.aqee.net/feed/" htmlUrl="http://www.aqee.net" rssfr-favicon="http://s2.googleusercontent.com/s2/favicons?domain=aqee.net"/>
+  <outline text="博客 - 伯乐在线" title="博客 - 伯乐在线" type="rss" xmlUrl="http://blog.jobbole.com/feed/" htmlUrl="http://blog.jobbole.com" rssfr-favicon="http://cdn2.jobbole.com/2013/10/favicon.png"/>
+</body>
+</opml>
