@@ -87,6 +87,8 @@ Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``.
 
 .. [4] `[Golang] XML Parsing Example (4) <{filename}../24/go-parse-xml-example-4%en.rst>`_
 
+.. [5] `[Golang] XML Parsing Example (5) - Parse OPML <{filename}../25/go-parse-opml%en.rst>`_
+
 ----
 
 References:
