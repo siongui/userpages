@@ -2,8 +2,8 @@
 #####################################################
 
 :date: 2012-10-08 23:49
-:modified: 2015-02-25 10:41
-:tags: html, JavaScript
+:modified: 2015-02-25 12:10
+:tags: html, HTML5 audio, JavaScript
 :category: JavaScript
 :summary: Play sound on click event of DOM element.
 

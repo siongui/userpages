@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>JavaScript Toggle (Play/Pause) Sound on Click Event of DOM Element</title>
+</head>
+<body>
+
+<button id="player" type="button"
+  onclick="javascript:toggleSound();">
+  Click to Toggle Sound
+</button>
+<audio id="audio">
+  <source src="Wat_Metta_Buddha_Qualities.mp3" type="audio/mpeg">
+Your browser does not support this audio format.
+</audio>
+
+<script type="text/javascript">
+function toggleSound() {
+  var audioElem = document.getElementById('audio');
+  if (audioElem.paused)
+    audioElem.play();
+  else
+    audioElem.pause();
+}
+</script>
+
+</body>
+</html>
