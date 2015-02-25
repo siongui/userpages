@@ -2,7 +2,7 @@
 ######
 
 :author: 郭良鋆(譯者)
-:tags: 巴利三藏, 經集, 衰老經
+:tags: 巴利三藏, 經集
 :category: 巴利三藏
 :summary: 《巴利經藏‧小部‧經集‧第四品　八頌經》第六章 衰老經
 
@@ -32,3 +32,11 @@
 813 純潔者不考慮所見、所聞、所想；他不願意通過其他途徑達到淨化，因為他即不激動，也不冷漠。
 
 (第六章 衰老經 完)
+
+----
+
+相關連結：
+
+`府城佛教網 <http://nanda.online-dhamma.net/>`_
+`經集 <http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Sutta-nipata/Sutta-nipaata.html>`_
+`第四品　八頌經 <http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Sutta-nipata/Snp-Vaggo4.html>`_
