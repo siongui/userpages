@@ -132,11 +132,9 @@ table.table-syntax-diff {
 }
 
 // for grid table
-table.docutils[border="1"] {
+table.docutils {
   th, td {
-    width: 4em;
-    height: 2em;
-    line-height: 2em;
-    text-align: center;
+    padding: 3px;
+    pre { margin: 0; }
   }
 }
