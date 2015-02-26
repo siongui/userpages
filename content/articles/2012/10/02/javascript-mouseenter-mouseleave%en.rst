@@ -41,6 +41,12 @@ See also:
 .. rubric:: `Demo <{filename}/code/javascript-mouseenter-mouseleave/mouseenterleave.html>`_
       :class: align-center
 
+----
+
+Reference:
+
+.. [1] `[JavaScript] Comparison of MouseEnter MouseLeave MouseOver MouseOut <{filename}../../08/07/javascript-compare-mouseenter-mouseleave-mouseover-mouseout%en.rst>`_
+
 
 .. _onmouseenter: http://www.w3schools.com/jsref/event_onmouseenter.asp
 
