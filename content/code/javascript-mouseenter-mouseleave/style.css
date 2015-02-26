@@ -1,0 +1,35 @@
+#div1 {
+  text-align: left;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #36C;
+  width: 30%;
+  margin-left:25%;
+  margin-right:45%;
+  min-width: 200px;
+  height: 300px;
+  margin-top: 100px;
+}
+
+#div2 {
+  text-align: left;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #36C;
+  width: 60%;
+  margin-left:20%;
+  margin-right:20%;
+  height: 60%;
+}
+
+#span1 {
+  background-color: #0C0;
+  border-width: 3px;
+}
+
+.info {
+  margin-top: 20px;
+  width: 30%;
+  margin-left:35%;
+  margin-right:35%;
+}

@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>JavaScript mouseenter and mouseleave Example</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body onload="addevt()">
+ <div id="div1">I am div1. Try to move mouse over me.
+  <br /><br />
+  <div id="div2">I am div2. Try to move mouse over me.
+   <br /><br />
+   <span id="span1">I am span1. Try to move mouse over me.</span>
+  </div>
+ </div>
+
+<div id="info" class="info"></div>
+
+<script src="mouseenter-mouseleave.js"></script>
+<script type="text/javascript">
+  function onDiv1MouseEnter(element) {
+    document.getElementById("info").innerHTML = 'div1 mouseenter';
+  }
+
+  function onDiv1MouseLeave(element) {
+    document.getElementById("info").innerHTML = 'div1 mouseleave';
+  }
+
+  function addevt() {
+    var div1 = document.getElementById("div1");
+    addMouseEnterEventListener(div1, onDiv1MouseEnter);
+    addMouseLeaveEventListener(div1, onDiv1MouseLeave);
+    document.getElementById("info").innerHTML = "div1 onmouseenter and onmouseleave event";
+  }
+</script>
+</body>
+</html>
