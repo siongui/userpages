@@ -19,6 +19,7 @@ blockquote {
 
 // style code snippet
 .highlight {
+  * { font-family: monospace; }
   pre {
     font-size: 14px;
     padding: .5em;
@@ -86,7 +87,8 @@ img.align-center {
   margin-bottom: 2em;
 }
 
-div.admonition, div.note, div.warning {
+div.admonition, div.note,
+div.warning, div.tip {
   margin: 2em;
   border: medium outset;
   padding: 1em;
@@ -94,6 +96,7 @@ div.admonition, div.note, div.warning {
 
 div.admonition p.admonition-title,
 div.warning p.admonition-title,
+div.tip p.admonition-title,
 div.note p.admonition-title {
   font-weight: bold;
   font-family: sans-serif;
