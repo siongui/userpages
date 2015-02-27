@@ -1,6 +1,5 @@
 // http://www.w3schools.com/rss/default.asp
 // http://www.tutorialspoint.com/rss/what-is-atom.htm
-// http://stackoverflow.com/questions/6619717/what-is-the-difference-between-rss-and-atom-feeds
 // http://stackoverflow.com/questions/16309944/atom-to-rss-feeds-converter
 package main
 
