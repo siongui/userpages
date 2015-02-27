@@ -5,7 +5,7 @@ export GOROOT=$(realpath ../../../../../go)
 export GOPATH=$(realpath .)
 export PATH := $(GOROOT)/bin:$(PATH)
 
-all: example5_2
+all: example6
 
 example1:
 	@# http://stackoverflow.com/questions/9967105/suppress-echo-of-command-invocation-in-makefile
@@ -25,6 +25,9 @@ example5:
 
 example5_2:
 	@go run parse-5_2.go
+
+example6:
+	@go run parse-6.go
 
 help:
 	go help
