@@ -93,6 +93,8 @@ Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``.
 
 .. [7] `[Golang] XML Parsing Example (7) - Parse RSS 2.0 <{filename}../27/go-parse-rss2%en.rst>`_
 
+.. [8] `[Golang] XML Parsing Example (8) - Parse Atom 1.0 <{filename}../28/go-parse-atom%en.rst>`_
+
 ----
 
 References:

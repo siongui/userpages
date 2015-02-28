@@ -9,7 +9,7 @@ import (
 )
 
 
-// http://en.wikipedia.org/wiki/Atom_(standard)
+// http://en.wikipedia.org/wiki/Atom_%28standard%29
 // http://golang.org/src/pkg/encoding/xml/
 type Atom1 struct {
 	XMLName		xml.Name	`xml:"http://www.w3.org/2005/Atom feed"`
