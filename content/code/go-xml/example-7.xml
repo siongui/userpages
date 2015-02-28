@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>kura.io</title>
+  <link href="https://kura.io/" rel="alternate"></link>
+  <link href="https://kura.io/feeds/atom.xml" rel="self"></link>
+  <id>https://kura.io/</id>
+  <updated>2015-02-02T09:59:00+00:00</updated>
+  <entry>
+    <title>Running a Tor exit node is not as scary as it sounds</title>
+    <link href="https://kura.io/2015/02/02/running-a-tor-exit-node-is-not-as-scary-as-it-sounds/" rel="alternate"></link>
+    <updated>2015-02-02T09:59:00+00:00</updated>
+    <author><name>kura</name></author>
+    <id>tag:kura.io,2015-02-02:2015/02/02/running-a-tor-exit-node-is-not-as-scary-as-it-sounds/</id>
+    <summary type="html">
+&lt;p&gt;There is a variety of information out there about being a Tor exit node
+operator. Articles like &lt;a class="reference external" href="https://testbit.eu/tor-exit-node-less-week/"&gt;this one&lt;/a&gt;
+make the thought of running a Tor exit as scary prospect, it's understandable,
+some countries have laws that make running an exit scary too.&lt;/p&gt;
+&lt;p&gt;I run &lt;a class="reference external" href="/tor/"&gt;a variety of relays&lt;/a&gt; in various countries in this crazy World
+and thought I'd share my experiences.&lt;/p&gt;
+&lt;div class="section" id="choosing-a-hosting-partner"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id1"&gt;Choosing a hosting partner&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I personally choose to use a third party hosting provider for my relays,
+rather than using colocation. I just find this is easier and I don't have to
+think about the hardware much at all.&lt;/p&gt;
+&lt;p&gt;Finding a provider can be a pain, there is a decent list on the &lt;a class="reference external" href="https://trac.torproject.org/projects/tor/wiki/doc/GoodBadISPs"&gt;Tor wiki&lt;/a&gt;. I use
+some of the providers on this list but I've also found it can be a really
+good idea to just contact a provider and talk to them. There is a company I
+spoke to recently that is quite small and were really happy about the idea of
+having an exit operator using them. When we have figured things out, I'll
+add them to the wiki.&lt;/p&gt;
+&lt;p&gt;You'll really want to find a provider with 1Gbps link and lots of bandwidth, I
+like to find or pay for unmetered 1Gbps connectivity, but 10TB/month should be
+a good amount.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-good-exit-policy"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id2"&gt;A good exit policy&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The exit policy is everything, it can mean the difference between lots of abuse
+complaints or very few. There is a &lt;a class="reference external" href="https://trac.torproject.org/projects/tor/wiki/doc/ReducedExitPolicy"&gt;good reduced exit policy on the Tor Wiki&lt;/a&gt;, I use
+this on all of my nodes.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abuse-complaints"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id3"&gt;Abuse complaints&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;With the reduced exit policy from the Tor wiki, I find abuse complaints are
+actually very rare.&lt;/p&gt;
+&lt;p&gt;The complaints I get are usually automatic emails from some hosting companies
+that have HTTP brute force attempts logged. Not many companies use these
+things but there are a few. There's not much you can do, they are automated
+and you should reply to them like you should reply to all abuse complaints but,
+the response will never be read.&lt;/p&gt;
+&lt;p&gt;The majority of complaints I get are related to &lt;a class="reference external" href="http://stopforumspam.com/"&gt;stopforumspam.com&lt;/a&gt;. Again, there's not really anything you can do
+about this except reply.&lt;/p&gt;
+&lt;p&gt;Generally though, I will receive maybe one complaint per month on each node,
+sometimes two, but that's about it and it's always one of the two abuse reports
+I mentioned above.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="use-the-exit-notice"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id4"&gt;Use the exit notice&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I can't really give any evidence as to whether or not this helps but, use the
+&lt;a class="reference external" href="https://svn.torproject.org/svn/tor/branches/hidserv-perf/contrib/tor-exit-notice.html"&gt;Tor exit notice&lt;/a&gt;
+on port 80. This means any admins that look up your IP may browse to it and see
+it's a Tor exit node and also has your email address in case they want to get
+in touch about blocking their servers from your node.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="incorporate"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id5"&gt;Incorporate&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I haven't had any reason to result to this myself but, I started my own
+company (easy to do in the UK) and my servers are paid for through this company.&lt;/p&gt;
+&lt;p&gt;It's really not much hassle to set-up a company and a company bank account.&lt;/p&gt;
+&lt;p&gt;Any of the donations I receive that aren't Bitcoin are paid in to this company
+too to continue paying for my nodes and put new ones online.&lt;/p&gt;
+&lt;/div&gt;
+</summary>
+    <category term="tor"></category>
+  </entry>
+  <entry>
+    <title>HPKP: HTTP Public Key Pinning with HAProxy</title>
+    <link href="https://kura.io/2015/01/27/hpkp-http-public-key-pinning-with-haproxy/" rel="alternate"></link>
+    <updated>2015-01-27T07:04:00+00:00</updated>
+    <author><name>kura</name></author>
+    <id>tag:kura.io,2015-01-27:2015/01/27/hpkp-http-public-key-pinning-with-haproxy/</id>
+    <summary type="html">
+&lt;p&gt;Public Key Pinning is a security feature that tells a web browser to associate
+a public cryptographic key with a server or servers. When a web browser visits
+a website for the first time, it will read the HPKP header and store the hashes
+for the certificates that are provided. Each time the browser then revisits
+that website, the hash from the provided public key is compared against the
+stored keys, if the hashes do not match, the web browser should display a
+warning.&lt;/p&gt;
+&lt;p&gt;The HPKP header adds protection against man-in-the-middle (MITM) attacks but,
+if incorrectly configured can make your website display a TLS error for a long
+period of time.&lt;/p&gt;
+&lt;p&gt;Here's a look at what this website publishes as it's HKPK header.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Public-Key-Pins: pin-sha256="cYf9T3Il8DaCnaMaM0LatIAru1vqmcu2JSwS7uvyEB0="; pin-sha256="u2q8QZ8Hjp3o/efZjsch9NKjnZmrISJQjwoi/rmsKLU="; max-age=15768000; includeSubDomains
+&lt;/pre&gt;
+&lt;p&gt;To explain it, the first &lt;cite&gt;pin-sha265&lt;/cite&gt; key is the hash of the public key that
+was used to generate the certificate this website uses, the second &lt;cite&gt;pin-sha256&lt;/cite&gt;
+key is the hash of the public key that I have as a backup for when I either need
+to generate a new certificate when the old one expires or if something happens
+and I need to revoke the old key. &lt;cite&gt;max-age&lt;/cite&gt; tells the browser how long to store
+the pin-sha256 details, for me that is 182 days and finally &lt;cite&gt;includeSubDomains&lt;/cite&gt;
+tells the browser that these hashes are valid for this domain and all sub
+domains.&lt;/p&gt;
+&lt;div class="section" id="extracting-the-public-key-information"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id1"&gt;Extracting the public key information&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;These commands will extract the public key information and encode it in base64.&lt;/p&gt;
+&lt;pre class="code bash literal-block"&gt;
+openssl rsa -in KEYFILE -outform der -pubout &lt;span class="p"&gt;|&lt;/span&gt; openssl dgst -sha256 -binary &lt;span class="p"&gt;|&lt;/span&gt; base64
+&lt;/pre&gt;
+&lt;p&gt;The above command will extract the public key from a private key generated with
+&lt;cite&gt;openssl genrsa&lt;/cite&gt;, you can replace rsa with dsa for DSA keys.&lt;/p&gt;
+&lt;pre class="code bash literal-block"&gt;
+openssl req -in CSRFILE -pubkey -noout &lt;span class="p"&gt;|&lt;/span&gt; openssl rsa -pubin -outform der &lt;span class="p"&gt;|&lt;/span&gt; openssl dgst -sha256 -binary &lt;span class="p"&gt;|&lt;/span&gt; base64
+&lt;/pre&gt;
+&lt;p&gt;The above command will extract the public key from a CSR.&lt;/p&gt;
+&lt;pre class="code bash literal-block"&gt;
+openssl x509 -in PEMFILE -pubkey -noout &lt;span class="p"&gt;|&lt;/span&gt; openssl rsa -pubin -outform der &lt;span class="p"&gt;|&lt;/span&gt; openssl dgst -sha256 -binary &lt;span class="p"&gt;|&lt;/span&gt; base64
+&lt;/pre&gt;
+&lt;p&gt;And the above command here will extract the public key from an existing x509
+certificate.&lt;/p&gt;
+&lt;p&gt;All three of the above commands will generate something similar to below.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+writing RSA key
+cYf9T3Il8DaCnaMaM0LatIAru1vqmcu2JSwS7uvyEB0=
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="backup-key-s"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id2"&gt;Backup key(s)&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The backup key is actually really simple, you make any number of backups and
+store them for future use in case of problems or emergencies with the primary
+key file.&lt;/p&gt;
+&lt;pre class="code bash literal-block"&gt;
+openssl genrsa -out backup1.key 4096
+&lt;/pre&gt;
+&lt;p&gt;You can then use the command in the previous section to get the base64 encoded
+public key of this backup key.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="the-hpkp-header"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id3"&gt;The HPKP header&lt;/a&gt;&lt;/h2&gt;
+&lt;pre class="literal-block"&gt;
+Public-Key-Pins: pin-sha256="PUBLIC_KEY"; max-age=EXPIRE_TIME [; includeSubdomains][; report-uri="REPORT_URI"]
+&lt;/pre&gt;
+&lt;p&gt;As you can see the header is relatively simple, a definition of each option is
+below.&lt;/p&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;pin-sha256&lt;/dt&gt;
+&lt;dd&gt;The quoted string is the Base64 encoded fingerprint. You can specify this
+option multiple times.&lt;/dd&gt;
+&lt;dt&gt;max-age&lt;/dt&gt;
+&lt;dd&gt;The time, in seconds, that the browser should remember that this site is only to be accessed using one of the pinned keys.&lt;/dd&gt;
+&lt;dt&gt;includeSubdomains &lt;em&gt;optional&lt;/em&gt;&lt;/dt&gt;
+&lt;dd&gt;If this optional parameter is specified, this rule applies to all of
+the website's subdomains.&lt;/dd&gt;
+&lt;dt&gt;report-uri &lt;em&gt;optional&lt;/em&gt;&lt;/dt&gt;
+&lt;dd&gt;If this optional parameter is specified, pin validation failures are
+reported to this URL. This won't be covered here though.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/div&gt;
+&lt;div class="section" id="haproxy"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id4"&gt;HAProxy&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;In HAproxy you simply using the &lt;cite&gt;rspadd&lt;/cite&gt; config option inside the &lt;cite&gt;frontend&lt;/cite&gt;
+declaration.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+rspadd Public-Key-Pins:\ pin-sha256="KEY=";\ pin-sha256="BACKUP_KEY";\ max-age=15768000;\ includeSubDomains
+&lt;/pre&gt;
+&lt;/div&gt;
+</summary>
+    <category term="haproxy"></category>
+    <category term="http"></category>
+    <category term="tls"></category>
+    <category term="ssl"></category>
+    <category term="hpkp"></category>
+    <category term="public key pinning"></category>
+  </entry>
+  <entry>
+    <title>Debian Wheezy encrypted Maildir using encfs</title>
+    <link href="https://kura.io/2015/01/26/debian-wheezy-encrypted-maildir-using-encfs/" rel="alternate"></link>
+    <updated>2015-01-26T21:25:00+00:00</updated>
+    <author><name>kura</name></author>
+    <id>tag:kura.io,2015-01-26:2015/01/26/debian-wheezy-encrypted-maildir-using-encfs/</id>
+    <summary type="html">
+&lt;p&gt;This is really a follow up article to &lt;a class="reference external" href="/debian-wheezy-tls-mailserver-with-mysql-clamav-domainkeys-dkim-spf-solr-imap-search/"&gt;one I wrote earlier this year&lt;/a&gt;
+but is really applicable to any similar set-up, with some modifications. The
+only configuration similarity this requires is that mail for all users is
+stored on the filesystem in the same place, rather than to separate locations
+i.e. each user having ~/.Maildir.&lt;/p&gt;
+&lt;div class="section" id="encfs"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id1"&gt;EncFS&lt;/a&gt;&lt;/h2&gt;
+&lt;pre class="code bash literal-block"&gt;
+sudo apt-get install encfs
+&lt;/pre&gt;
+&lt;p&gt;Once installed, you'll need to make a directory for encrypted and decrypted
+mail to live.&lt;/p&gt;
+&lt;pre class="code bash literal-block"&gt;
+sudo mkdir /var/mail/encrypted /var/mail/decrypted
+&lt;/pre&gt;
+&lt;p&gt;You'll need to set up permissions so your mail user can access the fuse device
+and the new directories.&lt;/p&gt;
+&lt;p&gt;For me, this user and group are called &lt;em&gt;vmail&lt;/em&gt; but yours may be different.&lt;/p&gt;
+&lt;pre class="code bash literal-block"&gt;
+sudo chgrp mail /var/mail/decrypted
+sudo g+rw /var/mail/decrypted
+sudo usermod -a -g fuse vmail
+sudo chgrp fuse /dev/fuse
+sudo chmod g+rw /dev/fuse
+&lt;/pre&gt;
+&lt;p&gt;Next you need to build the encrypted volume.&lt;/p&gt;
+&lt;pre class="code bash literal-block"&gt;
+sudo encfs /var/mail/encrypted /var/mail/decrypted --public
+&lt;/pre&gt;
+&lt;p&gt;When prompted for an option, choose &lt;strong&gt;p&lt;/strong&gt; for paranoid mode.&lt;/p&gt;
+&lt;p&gt;Finally, &lt;strong&gt;don't forget to choose a good, strong passphrase. Really this
+should be a phrase, not a password.&lt;/strong&gt; It'll be needed each time you unmount the
+volume or reboot the machine.&lt;/p&gt;
+&lt;p&gt;It is important to include the &lt;cite&gt;--public&lt;/cite&gt; argument, this forces Fuse to be more
+Linux multi-user friendly, it's kind of a bad option to use due to it being a
+hammer option. You could always try to do this properly but for me I think it's
+fine in this case.&lt;/p&gt;
+&lt;p&gt;If you unmount the volume for any reason, you can remount it using the same
+command that was used to create the volume.&lt;/p&gt;
+&lt;p&gt;Now you'll just want to copy over your existing mail in to &lt;cite&gt;/var/mail/decrypted/&lt;/cite&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="dovecot"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id2"&gt;Dovecot&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The final step to getting this to work is to tell Dovecot to use this mail
+location.&lt;/p&gt;
+&lt;p&gt;With my setup there are two pleces to modify this, the first is
+&lt;cite&gt;/etc/dovecot/conf.d/10-mail.conf&lt;/cite&gt;. It's really hard to tell you what this
+exact value should be, due to set-ups being different but if you followed my
+previous article, it'll look like below.&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;
+mail_location = maildir:/var/mail/decrypted/vhosts/%d/%n/maildir
+&lt;/pre&gt;
+&lt;p&gt;The other file that is likely to need modification is
+&lt;cite&gt;/etc/dovecot/conf.d/auth-sql.conf.ext&lt;/cite&gt;&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;
+userdb {
+    driver = static
+    args = uid=vmail gid=vmail home=/var/spool/mail/decrypted/vhosts/%d/%n/maildir
+}
+&lt;/pre&gt;
+&lt;p&gt;That's everything you technically need to do, just restart Dovecot.&lt;/p&gt;
+&lt;pre class="code bash literal-block"&gt;
+sudo /etc/init.d/dovecot restart
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="tomcat-solr"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id3"&gt;Tomcat/Solr&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;If you use Solr for IMAP SEARCH, you'll just want to move that index inside of
+the new directory.&lt;/p&gt;
+&lt;pre class="code bash literal-block"&gt;
+sudo /etc/init.d/tomcat6 stop
+sudo mv /var/lib/solr /var/mail/decrypted/
+&lt;/pre&gt;
+&lt;p&gt;You'll need to tell Solr to get it's data from this directory, this is done in
+&lt;cite&gt;/etc/solr/conf/solrconfig.xml&lt;/cite&gt;&lt;/p&gt;
+&lt;pre class="code xml literal-block"&gt;
+&lt;span class="nt"&gt;&amp;lt;dataDir&amp;gt;&lt;/span&gt;/var/mail/decrypted/solr&lt;span class="nt"&gt;&amp;lt;/dataDir&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Start tomcat again.&lt;/p&gt;
+&lt;pre class="code bash literal-block"&gt;
+sudo /etc/init.d/tomcat6 start
+&lt;/pre&gt;
+&lt;p&gt;And finally, it's always good when you mess with Solr's indexes like this to
+run optimize task.&lt;/p&gt;
+&lt;pre class="code bash literal-block"&gt;
+curl http://localhost:8080/solr/update?optimize&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="nb"&gt;true&lt;/span&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="init-d"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id4"&gt;init.d&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Something to remember is that encfs will not mount on it's own, that's the
+entire point of doing this. This means that Postfix, Dovecot, Solr etc will
+not have any data to read on a server reboot.&lt;/p&gt;
+&lt;p&gt;I just "fix" this by forcing the init scripts for those processes to look for
+the mount point and fail if it's not there.&lt;/p&gt;
+&lt;p&gt;In each init script for Postfix, Dovecot, Tomcat6 and anything else that will
+try to read data from /var/mail/decrypted you'll want to find where
+&lt;cite&gt;/lib/lsb/init-functions&lt;/cite&gt; is loaded and a check after it.&lt;/p&gt;
+&lt;pre class="code bash literal-block"&gt;
+&lt;span class="k"&gt;if&lt;/span&gt; ! mount &lt;span class="p"&gt;|&lt;/span&gt; grep &lt;span class="s2"&gt;"on /var/mail/decrypted"&lt;/span&gt; &amp;gt; /dev/null
+&lt;span class="k"&gt;then&lt;/span&gt;
+    log_daemon_msg &lt;span class="s2"&gt;"/var/mail/decrypted not mounted"&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+    log_end_msg 1&lt;span class="p"&gt;;&lt;/span&gt;
+    &lt;span class="nb"&gt;exit &lt;/span&gt;1&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="k"&gt;fi&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;It'll look similar to below if you put it in the right place.&lt;/p&gt;
+&lt;pre class="code bash literal-block"&gt;
+&lt;span class="c"&gt;# Define LSB log_* functions.
+# Depend on lsb-base (&amp;gt;= 3.0-6) to ensure that this file is present.
+&lt;/span&gt;. /lib/lsb/init-functions
+
+&lt;span class="k"&gt;if&lt;/span&gt; ! mount &lt;span class="p"&gt;|&lt;/span&gt; grep &lt;span class="s2"&gt;"on /var/mail/decrypted"&lt;/span&gt; &amp;gt; /dev/null
+&lt;span class="k"&gt;then&lt;/span&gt;
+    log_daemon_msg &lt;span class="s2"&gt;"/var/mail/decrypted not mounted"&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+    log_end_msg 1&lt;span class="p"&gt;;&lt;/span&gt;
+    &lt;span class="nb"&gt;exit &lt;/span&gt;1&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="k"&gt;fi&lt;/span&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+</summary>
+    <category term="debian"></category>
+    <category term="wheezy"></category>
+    <category term="postfix"></category>
+    <category term="dovecot"></category>
+    <category term="mail"></category>
+    <category term="encrypted"></category>
+  </entry>
+</feed>
