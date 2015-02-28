@@ -1,2 +1,4 @@
 {% extends "layout/content.html" %}
 {% set content_css_class = "page" %}
+
+{% block title %}{{ content.title }} - {{ super() }}{% endblock %}

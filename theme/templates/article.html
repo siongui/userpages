@@ -1,5 +1,8 @@
 {% extends "layout/content.html" %}
 {% set content_css_class = "article" %}
+
+{% block title %}{{ article.title }}{% endblock %}
+
 {%- if article.og_title -%}
   {% set OG_TITLE = article.og_title %}
 {%- else -%}

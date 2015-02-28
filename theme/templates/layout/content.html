@@ -1,10 +1,6 @@
 {% extends "layout/layout.html" %}
 {% set content = (page if page else article )%}
 
-{% block title -%}
-  {{- content.title }} - {{ super() -}}
-{%- endblock %}
-
 {% block meta_keywords -%}
   {%- if content.tags -%}
     {%- for tag in content.tags -%}
