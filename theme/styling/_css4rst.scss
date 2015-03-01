@@ -44,6 +44,11 @@ figure.github-file {
     padding: 5px;
     background-color: #ececec;
   }
+  div.code-file {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+  }
   table.highlighttable {
     border-collapse: collapse;
     @extend .common-code-style;
