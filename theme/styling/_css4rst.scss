@@ -17,15 +17,36 @@ blockquote {
   border-left: 5px solid #eee;
 }
 
+.common-code-style {
+  * { font-family: monospace; }
+
+  pre {
+    line-height: 18px;
+    font-size: 14px;
+    padding: 5px;
+    background-color: #f5f5f5;
+    margin: 0;
+  }
+}
+
 // style code snippet
 .highlight {
-  * { font-family: monospace; }
-  pre {
-    font-size: 14px;
-    padding: .5em;
-    background-color: #f5f5f5;
-    border: 1px solid #ccc;
-    border-radius: 4px;
+  border: 1px solid #ccc;
+  @extend .common-code-style;
+}
+
+// style github code file
+figure.github-file {
+  margin: 0;
+  border: 1px solid #ccc;
+  background-color: #f5f5f5;
+  figcaption {
+    padding: 5px;
+    background-color: #ececec;
+  }
+  table.highlighttable {
+    border-collapse: collapse;
+    @extend .common-code-style;
   }
 }
 
