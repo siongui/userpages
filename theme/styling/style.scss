@@ -257,3 +257,8 @@ a {
 .tag, .author, .category {
   @extend .common-group;
 }
+
+.layout-footer {
+  padding: 3px;
+  float: right;
+}
