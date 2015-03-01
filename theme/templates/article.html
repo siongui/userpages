@@ -18,23 +18,25 @@
 </aside>
 {% endblock %}
 
-{% block article_metadata %}
-<hr>
-{% if article.author %}
+{%- block article_metadata -%}
+  <hr>
+  {%- if article.author -%}
   <address><b>{{ gettext('Author', DEFAULT_LANG) }}</b>:
     <a rel="author"
        href="{{ SITEURL }}/{{ article.author.url }}">
-      {{ article.author }}
+      {{- article.author -}}
     </a>
   </address>
-{% endif %}
+  {%- endif -%}
 
-{% if article.category %}
-  <i>&isin;</i> <b>{{ gettext('Category', DEFAULT_LANG) }}</b>:
-  <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
-{% endif %}
+  {%- if article.category -%}
+  <aside>
+    <i>&isin;</i> <b>{{ gettext('Category', DEFAULT_LANG) }}</b>:
+    <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+  </aside>
+  {%- endif -%}
 
-{% if article.tags %}
+  {%- if article.tags -%}
   <aside>
     <i>&sum;</i> <b>{{ gettext('Tags', DEFAULT_LANG) }}</b>:
     {% for tag in article.tags %}
@@ -42,5 +44,5 @@
       {% if not loop.last %}, {% endif %}
     {% endfor %}
   </aside>
-{% endif %}
-{% endblock %}
+  {%- endif -%}
+{%- endblock -%}

@@ -29,9 +29,10 @@
 {%- endblock %}
 
 {%- if content.og_image -%}{% set OG_IMAGE = content.og_image %}{%- endif -%}
+{%- if content.summary -%}{% set OG_DESCRIPTION = (content.summary|striptags) %}{%- endif -%}
 
 {% block content %}
-<section class="{{ content_css_class }}">
+<main role="main" class="{{ content_css_class }}">
   <article>
     <header>
       <h1>
@@ -51,7 +52,7 @@
     </aside>
     <hr>
     <div class="main-content">{{ content.content }}</div>
-    {% block article_metadata %}{% endblock %}
+    <footer>{% block article_metadata %}{% endblock %}</footer>
   </article>
-</section>
+</main>
 {% endblock %}
