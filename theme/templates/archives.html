@@ -8,7 +8,12 @@
 
   <dl>
     {% for article in dates %}
-      <dt>{{ article.date | strftime('%B %d, %Y') }}</dt>
+      <dt>
+        {{ article.date | strftime('%B %d, %Y') }}
+        {% if article.modified -%}
+        (Updated: {{ article.modified | strftime('%B %d, %Y') }})
+        {%- endif -%}
+      </dt>
       <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
     {% endfor %}
   </dl>

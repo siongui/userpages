@@ -11,10 +11,15 @@
 
 {% block article_time %}
 <aside>
-  <time title="{{ article.date.isoformat() }}">
-    <span>{{ article.date | strftime('%B %d') }}</span>,
-    <span>{{ article.date | strftime('%Y') }}</span>
+  {%- if article.modified -%}
+  <time datetime="{{ article.modified.isoformat() }}">
+    Updated: {{ article.modified | strftime('%B %d, %Y') }}
   </time>
+  {%- else -%}
+  <time datetime="{{ article.date.isoformat() }}">
+    {{ article.date | strftime('%B %d, %Y') }}
+  </time>
+  {%- endif -%}
 </aside>
 {% endblock %}
 

@@ -4,9 +4,16 @@
     <h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
   </header>
   <aside class="post-metadata-date">
-    <time title="{{ article.date.isoformat() }}">
+    {%- if article.modified -%}
+    <time datetime="{{ article.modified.isoformat() }}">
+      {{ article.date | strftime('%B %d, %Y') }}
+      (Updated: {{ article.modified | strftime('%B %d, %Y') }})
+    </time>
+    {%- else -%}
+    <time datetime="{{ article.date.isoformat() }}">
       {{ article.date | strftime('%B %d, %Y') }}
     </time>
+    {%- endif -%}
   </aside>
 
   <div class="post-content">
