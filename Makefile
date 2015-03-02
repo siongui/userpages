@@ -33,7 +33,7 @@ download:
 
 scss:
 	[ -d $(CSSDIR) ] || mkdir -p $(CSSDIR)
-	$(PY) -mscss < $(THEMEDIR)/styling/style.scss -I $(SCSSDIR) -o $(CSSDIR)/style.css
+	$(PY) -mscss < $(SCSSDIR)/style.scss -I $(SCSSDIR) -o $(CSSDIR)/style.css
 
 html: scss
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
