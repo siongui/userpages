@@ -54,6 +54,8 @@ Reference:
 
 .. [d] `src/encoding/xml/ - The Go Programming Language <http://golang.org/src/encoding/xml/>`_
 
+.. [e] `[Golang] Convert Atom to RSS <{filename}../../03/02/go-convert-atom-to-rss-feed%en.rst>`_
+
 
 .. _Atom 1.0: http://en.wikipedia.org/wiki/Atom_%28standard%29
 

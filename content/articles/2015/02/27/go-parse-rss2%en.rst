@@ -73,6 +73,8 @@ Reference:
 
 .. [h] `golang xml parsing with CDATA and a colon in the keyname - Google Groups <https://groups.google.com/d/topic/golang-nuts/uBMo1BpaQCM>`_
 
+.. [i] `[Golang] Convert Atom to RSS <{filename}../../03/02/go-convert-atom-to-rss-feed%en.rst>`_
+
 
 .. _RSS 2.0: http://www.w3schools.com/rss/default.asp
 
