@@ -1,0 +1,17 @@
+application: ajax-form-post-gae-python
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /
+  static_files: index.html
+  upload: index.html
+
+- url: /post.js
+  static_files: post.js
+  upload: post.js
+
+- url: /post
+  script: post.application
