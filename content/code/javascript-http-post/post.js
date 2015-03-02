@@ -42,23 +42,3 @@ HTTPPOST = function(url, keyValuePairs, callback, failCallback) {
 
   xmlhttp.send(kvpairs);
 };
-
-
-function ajaxformpost() {
-  var keyValuePairs = {
-    'input1': document.getElementById('input1').value,
-    'input2': document.getElementById('input2').value
-  };
-
-  var callback = function(responseText, url) {
-    alert('responseText from url ' + url + ':\n'
-          + responseText);
-  };
-
-  var failCallback = function(url) {
-    // write your own handler for failure of HTTP POST
-    alert('fail to post ' + url);
-  }
-
-  HTTPPOST("/post", keyValuePairs, callback, failCallback);
-}
