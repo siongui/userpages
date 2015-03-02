@@ -37,8 +37,8 @@ blockquote {
 
 // style github code file
 figure.github-file {
-  margin: 0;
-  border: 1px solid #ccc;
+  margin: 10px 0 10px 0;
+  border: 2px solid #ccc;
   background-color: #f5f5f5;
   figcaption {
     padding: 5px;
@@ -48,10 +48,17 @@ figure.github-file {
     width: 100%;
     height: 100%;
     overflow: auto;
-  }
-  table.highlighttable {
-    border-collapse: collapse;
-    @extend .common-code-style;
+
+    table.highlighttable {
+      .highlight {
+        border-width: 0;
+      }
+      border-collapse: collapse;
+      @extend .common-code-style;
+      td.linenos {
+        border-right: 2px solid #ccc;
+      }
+    }
   }
 }
 
