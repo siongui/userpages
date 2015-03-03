@@ -53,6 +53,10 @@ Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``.
 
 .. [8] `[Golang] XML Parsing Example (8) - Parse Atom 1.0 <{filename}../28/go-parse-atom%en.rst>`_
 
+.. [9] `[Golang] Convert Atom to RSS <{filename}../../03/02/go-convert-atom-to-rss-feed%en.rst>`_
+
+.. [10] `[Golang] Parse Web Feed - RSS and Atom <{filename}../../03/03/go-parse-web-feed-rss-atom%en.rst>`_
+
 ----
 
 Reference:
