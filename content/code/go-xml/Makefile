@@ -5,7 +5,7 @@ export GOROOT=$(realpath ../../../../../go)
 export GOPATH=$(realpath .)
 export PATH := $(GOROOT)/bin:$(PATH)
 
-all: atom2rss
+all: parseFeed
 
 example1:
 	@# http://stackoverflow.com/questions/9967105/suppress-echo-of-command-invocation-in-makefile
@@ -34,6 +34,9 @@ example7:
 
 atom2rss:
 	@go run atom2rss.go
+
+parseFeed:
+	@go run parseFeed.go
 
 help:
 	go help
