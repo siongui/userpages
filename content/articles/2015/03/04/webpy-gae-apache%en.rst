@@ -1,0 +1,74 @@
+[web.py] Web Application on Both Google App Engine and Apache
+#############################################################
+
+:date: 2015-03-04 23:07
+:tags: web.py, Python, Google App Engine, Apache
+:category: Python
+:summary: Web application (web.py framework) template runs on both Google App
+          Engine Python and Apache with mod_wsgi.
+
+
+This post shows a web.py application template which runs on both Apache_ with
+mod_wsgi_ and `Google App Engine Python`_.
+
+"Hello World" web.py_ application
++++++++++++++++++++++++++++++++++
+
+.. show_github_file:: siongui userpages content/code/webpy-gae-apache/mainweb.py
+
+Sample GAE Python config
+++++++++++++++++++++++++
+
+.. show_github_file:: siongui userpages content/code/webpy-gae-apache/app.yaml
+
+Sample Apache config
+++++++++++++++++++++
+
+.. show_github_file:: siongui userpages content/code/webpy-gae-apache/apache.conf
+
+Development
++++++++++++
+
+.. show_github_file:: siongui userpages content/code/webpy-gae-apache/Makefile
+
+Modify the path of ``GAE_PY_SDK`` in *Makefile* to your path of GAE Python SDK.
+
+Test run the web.py_ application locally:
+
+.. code-block:: bash
+
+  # open your terminal and run
+  $ make local
+  # OR
+  $ make
+  # open browser with URL: http://localhost:8080/
+
+Test run the web.py_ application on local GAE Python environment:
+
+.. code-block:: bash
+
+  # open your terminal and run
+  $ make devserver
+  # open browser with URL: http://localhost:8080/
+
+
+Tested on: ``Ubuntu Linux 14.10``, ``Google App Engine Python SDK 1.9.18``
+
+----
+
+References:
+
+.. [1] `web.py <http://webpy.org/>`_
+
+.. [2] `Webpy + Apache with mod_wsgi on Ubuntu (web.py) <http://webpy.org/cookbook/mod_wsgi-apache-ubuntu>`_
+
+.. [3] `Webpy + Google App Engine (web.py) <http://webpy.org/cookbook/google_app_engine>`_
+
+
+.. _web.py: http://webpy.org/
+
+.. _Apache: http://httpd.apache.org/
+
+.. _mod_wsgi: https://code.google.com/p/modwsgi/
+
+.. _Google App Engine Python: https://cloud.google.com/appengine/docs/python/
