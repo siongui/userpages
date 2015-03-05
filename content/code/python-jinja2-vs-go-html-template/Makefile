@@ -5,7 +5,19 @@ export GOROOT=$(realpath ../../../../../go)
 export GOPATH=$(realpath .)
 export PATH := $(GOROOT)/bin:$(PATH)
 
-all: example1
+# path of Google App Engine Python SDK
+GAE_PY_SDK=../../../../../google_appengine
+
+all: gonet
+
+gonet:
+	go run html-net.go
+
+webapp2:
+	$(GAE_PY_SDK)/dev_appserver.py .
+
+webpy:
+	python webpy-jinja2.py
 
 example1:
 	@# http://stackoverflow.com/questions/9967105/suppress-echo-of-command-invocation-in-makefile
@@ -14,3 +26,6 @@ example1:
 
 help:
 	go help
+
+clean:
+	rm *.pyc
