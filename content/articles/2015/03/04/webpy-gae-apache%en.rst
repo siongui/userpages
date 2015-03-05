@@ -2,6 +2,7 @@
 #############################################################
 
 :date: 2015-03-04 23:07
+:modified: 2015-03-05 09:33
 :tags: web.py, Python, Google App Engine, Apache
 :category: Python
 :summary: Web application (web.py framework) template runs on both Google App
@@ -15,6 +16,13 @@ mod_wsgi_ and `Google App Engine Python`_.
 +++++++++++++++++++++++++++++++++
 
 .. show_github_file:: siongui userpages content/code/webpy-gae-apache/mainweb.py
+
+.. note::
+
+  web.py_ is not included in the `third-party libraries in GAE Python 2.7`_. To
+  use web.py on GAE, please `download web.py from Github`_. Put the ``web``
+  directory in web.py repo and this "Hello World" application in the same
+  directory.
 
 Sample GAE Python config
 ++++++++++++++++++++++++
@@ -72,3 +80,7 @@ References:
 .. _mod_wsgi: https://code.google.com/p/modwsgi/
 
 .. _Google App Engine Python: https://cloud.google.com/appengine/docs/python/
+
+.. _third-party libraries in GAE Python 2.7: https://cloud.google.com/appengine/docs/python/tools/libraries27
+
+.. _download web.py from Github: https://github.com/webpy/webpy
