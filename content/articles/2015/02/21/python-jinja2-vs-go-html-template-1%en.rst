@@ -109,23 +109,29 @@ Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``, ``Python 2.7.8``, ``Google App En
 
 References:
 
-.. [a] `html/template - Golang <http://golang.org/pkg/html/template/>`_
+.. [a] `html/template - The Go Programming Language <http://golang.org/pkg/html/template/>`_
 
-.. [b] `Jinja2 (The Python Template Engine) <http://jinja.pocoo.org/>`_
+.. [b] `src/html/template/ - The Go Programming Language <http://golang.org/src/html/template/>`_
 
-.. [c] `jinja2.FileSystemLoader <http://jinja.pocoo.org/docs/dev/api/#jinja2.FileSystemLoader>`_
+.. [c] `text/template - The Go Programming Language <http://golang.org/pkg/text/template/>`_
 
-.. [d] `Using Templates - Google App Engine for Python <https://cloud.google.com/appengine/docs/python/gettingstartedpython27/templates>`_
+.. [d] `src/text/template/ - The Go Programming Language <http://golang.org/src/text/template/>`_
 
-.. [e] `Go HTML Templates: Not Jinja2 <http://blog.ojrac.com/go-html-templates-not-jinja2.html>`_
+.. [e] `Jinja2 (The Python Template Engine) <http://jinja.pocoo.org/>`_
 
-.. [f] `Go HTML Templates: Applying Data <http://blog.ojrac.com/go-html-templates-applying-data.html>`_
+.. [f] `jinja2.FileSystemLoader <http://jinja.pocoo.org/docs/dev/api/#jinja2.FileSystemLoader>`_
 
-.. [g] `Go HTML Templates: Functions and Flow <http://blog.ojrac.com/go-html-templates-functions-and-flow.html>`_
+.. [g] `Using Templates - Google App Engine for Python <https://cloud.google.com/appengine/docs/python/gettingstartedpython27/templates>`_
 
-.. [h] `pongo2: Django-syntax like template-engine for Go <https://github.com/flosch/pongo2>`_
+.. [h] `Go HTML Templates: Not Jinja2 <http://blog.ojrac.com/go-html-templates-not-jinja2.html>`_
 
-.. [i] `go语言：优雅的模板切割技术 <http://studygolang.com/articles/2315>`_
+.. [i] `Go HTML Templates: Applying Data <http://blog.ojrac.com/go-html-templates-applying-data.html>`_
+
+.. [j] `Go HTML Templates: Functions and Flow <http://blog.ojrac.com/go-html-templates-functions-and-flow.html>`_
+
+.. [k] `pongo2: Django-syntax like template-engine for Go <https://github.com/flosch/pongo2>`_
+
+.. [l] `go语言：优雅的模板切割技术 <http://studygolang.com/articles/2315>`_
 
 
 .. _html/template: http://golang.org/pkg/html/template/
