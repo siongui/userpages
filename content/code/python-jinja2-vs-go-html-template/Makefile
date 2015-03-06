@@ -8,7 +8,7 @@ export PATH := $(GOROOT)/bin:$(PATH)
 # path of Google App Engine Python SDK
 GAE_PY_SDK=../../../../../google_appengine
 
-all: example2
+all: example3
 
 gonet:
 	go run html-net.go
@@ -27,6 +27,10 @@ example1:
 example2:
 	@python jinja2-example-2.py
 	@go run html-template-example-2.go
+
+example3:
+	@python jinja2-example-3.py
+	@go run html-template-example-3.go
 
 help:
 	go help

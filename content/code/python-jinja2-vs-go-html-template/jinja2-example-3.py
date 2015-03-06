@@ -6,7 +6,8 @@ import sys
 
 tmpl = """
 {% for link in links %}
-<a href="{{link.href}}">{{link.name}}</a>
+{{ loop.index0 }}: <a href="{{link.href}}">{{link.name}}</a>
+{{ loop.index }}: <a href="{{link.href}}">{{link.name}}</a>
 {% endfor %}
 """
 
