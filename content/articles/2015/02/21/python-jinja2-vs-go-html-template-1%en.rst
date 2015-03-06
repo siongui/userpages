@@ -140,6 +140,8 @@ Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``, ``Python 2.7.8``, ``Google App En
 
 .. [3] `Golang html/template versus Python Jinja2 (3) - Arrays and Slices <{filename}../../03/05/python-jinja2-vs-go-html-template-array-slice%en.rst>`_
 
+.. [4] `Golang html/template versus Python Jinja2 (4) - Arrays and Slices Index <{filename}../../03/06/python-jinja2-vs-go-html-template-array-slice-index%en.rst>`_
+
 ----
 
 References:
