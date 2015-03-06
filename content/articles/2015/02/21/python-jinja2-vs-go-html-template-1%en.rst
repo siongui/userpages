@@ -2,17 +2,25 @@ Golang html/template versus Python Jinja2 (1)
 #############################################
 
 :date: 2015-02-21 02:51
-:modified: 2015-03-05 14:36
+:modified: 2015-03-06 19:54
 :tags: Go, Golang, html, Jinja2, Python
 :category: Go
 :summary: Comparison of Python Jinja2 and Go html/template, side by side for
-          easy reference - Load Templates
+          easy reference - Load and Serve Templates
+
+
+This post compares the following two combinations:
+
+  * Python_: webapp2_/`web.py`_ framework + Jinja2_ templating
+
+  * Go_: `net/http`_ framework + `html/template`_ templating
+
+to show how to serve a "Hello World" webpage.
 
 |
 |
-|
 
-.. list-table:: Go html/template versue Python Jinja2 - Load Templates
+.. list-table:: Go html/template versue Python Jinja2 - Load and Serve Templates
    :header-rows: 1
    :class: table-syntax-diff
 
@@ -94,6 +102,31 @@ Golang html/template versus Python Jinja2 (1)
 
          return template.render(template_values)
 
+----
+
+Complete Jinja2_ template:
+
+.. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/index-jinja2.html
+
+Complete web.py_ code for serving the above template:
+
+.. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/webpy-jinja2.py
+
+Complete webapp2_ (run on `GAE Python`_) code for serving the above template:
+
+.. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/webapp2-jinja2.py
+
+----
+
+Complete `html/template`_ template:
+
+.. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/index-go.html
+
+Complete `net/http`_ code for serving the above template:
+
+.. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/html-net.go
+
+----
 
 Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``, ``Python 2.7.8``, ``Google App Engine Python SDK 1.9.18``
 
@@ -145,3 +178,9 @@ References:
 .. _net/http: http://golang.org/pkg/net/http/
 
 .. _web.py: http://webpy.org/
+
+.. _Go: https://golang.org/
+
+.. _Python: https://www.python.org/
+
+.. _GAE Python: https://cloud.google.com/appengine/docs/python/
