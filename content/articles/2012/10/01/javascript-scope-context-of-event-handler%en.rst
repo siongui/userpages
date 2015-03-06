@@ -3,7 +3,7 @@
 
 :date: 2012-10-01 03:17
 :modified: 2015-03-07 01:09
-:tags: JavaScript
+:tags: JavaScript, Function.prototype.bind()
 :category: JavaScript
 :summary: Discuss the scope (context) of event handler and how to change what
           "this" keyword refers to.

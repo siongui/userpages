@@ -67,6 +67,8 @@ figure.github-file {
     overflow: auto;
 
     table.highlighttable {
+      margin: 0;
+      border-width: 0;
       @extend .common-linenos-code-table;
     }
   }
