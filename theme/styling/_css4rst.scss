@@ -29,10 +29,27 @@ blockquote {
   }
 }
 
+.common-linenos-code-table {
+  .highlight {
+    border-width: 0;
+  }
+  border-collapse: collapse;
+  @extend .common-code-style;
+  td.linenos {
+    border-right: 2px solid #ccc;
+  }
+}
+
 // style code snippet
 .highlight {
   border: 1px solid #ccc;
   @extend .common-code-style;
+}
+// style code snippet with line number
+table.highlighttable {
+  margin: 10px 0 10px 0;
+  border: 2px solid #ccc;
+  @extend .common-linenos-code-table;
 }
 
 // style github code file
@@ -50,14 +67,7 @@ figure.github-file {
     overflow: auto;
 
     table.highlighttable {
-      .highlight {
-        border-width: 0;
-      }
-      border-collapse: collapse;
-      @extend .common-code-style;
-      td.linenos {
-        border-right: 2px solid #ccc;
-      }
+      @extend .common-linenos-code-table;
     }
   }
 }
