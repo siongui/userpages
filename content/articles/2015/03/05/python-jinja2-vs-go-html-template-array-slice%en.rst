@@ -72,7 +72,7 @@ Complete *Python Jinja2* source code:
 .. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/jinja2-example-2.py
 
 
-Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``, ``Python 2.7.8``
+Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``, ``Python 2.7.8``, ``Jinja2 2.7.3``
 
 ----
 
@@ -85,6 +85,8 @@ Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``, ``Python 2.7.8``
 .. [3] `Golang html/template versus Python Jinja2 (3) - Arrays and Slices <{filename}python-jinja2-vs-go-html-template-array-slice%en.rst>`_
 
 .. [4] `Golang html/template versus Python Jinja2 (4) - Arrays and Slices Index <{filename}../06/python-jinja2-vs-go-html-template-array-slice-index%en.rst>`_
+
+.. [5] `Golang html/template versus Python Jinja2 (5) - Maps and Dictionaries <{filename}../07/python-jinja2-vs-go-html-template-map-dictionary%en.rst>`_
 
 
 .. _html/template: http://golang.org/pkg/html/template/
