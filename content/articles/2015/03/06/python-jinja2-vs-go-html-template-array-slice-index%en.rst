@@ -107,6 +107,8 @@ Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``, ``Python 2.7.8``, ``Jinja2 2.7.3`
 
 .. [5] `Golang html/template versus Python Jinja2 (5) - Maps and Dictionaries <{filename}../07/python-jinja2-vs-go-html-template-map-dictionary%en.rst>`_
 
+.. [6] `Golang html/template versus Python Jinja2 (6) - Template Inheritance (Extends) <{filename}../08/python-jinja2-vs-go-html-template-extends%en.rst>`_
+
 ----
 
 References:
