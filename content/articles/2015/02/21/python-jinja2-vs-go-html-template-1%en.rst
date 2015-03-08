@@ -106,25 +106,25 @@ to show how to serve a "Hello World" webpage.
 
 Complete Jinja2_ template:
 
-.. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/index-jinja2.html
+.. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/webapp/index-jinja2.html
 
 Complete web.py_ code for serving the above template:
 
-.. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/webpy-jinja2.py
+.. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/webapp/webpy-jinja2.py
 
 Complete webapp2_ (run on `GAE Python`_) code for serving the above template:
 
-.. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/webapp2-jinja2.py
+.. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/webapp/webapp2-jinja2.py
 
 ----
 
 Complete `html/template`_ template:
 
-.. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/index-go.html
+.. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/webapp/index-go.html
 
 Complete `net/http`_ code for serving the above template:
 
-.. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/html-net.go
+.. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/webapp/html-net.go
 
 ----
 

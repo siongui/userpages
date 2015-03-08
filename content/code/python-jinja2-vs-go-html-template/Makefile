@@ -10,15 +10,6 @@ GAE_PY_SDK=../../../../../google_appengine
 
 all: example4
 
-gonet:
-	go run html-net.go
-
-webapp2:
-	$(GAE_PY_SDK)/dev_appserver.py .
-
-webpy:
-	python webpy-jinja2.py
-
 example1:
 	@# http://stackoverflow.com/questions/9967105/suppress-echo-of-command-invocation-in-makefile
 	@python jinja2-example-1.py
@@ -38,6 +29,3 @@ example4:
 
 help:
 	go help
-
-clean:
-	rm *.pyc
