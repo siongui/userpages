@@ -4,16 +4,19 @@
 :tags: Ajahn Chah, Luang Por Chah, Wat Nong Pah Pong, Wat Pah Nanachat, 國際叢林道場, 巴蓬寺分院, 阿姜查, 阿姜查道場, 隆波查
 :category: 泰國道場見聞
 :summary: Wat Pah Nanachat（國際叢林道場）是泰國巴蓬寺（阿姜查）的分院，離巴蓬寺不遠，阿姜查特地設立國際叢林道場給來泰國修行以及出家的外國人居住，主要溝通語言是英文，本文紀錄參訪國際叢林道場的見聞。
-:og_image: https://lh4.googleusercontent.com/-l4bXhbFvpck/Tl0YlbxVqNI/AAAAAAAABY0/-hbMxA-hnM8/s640/002%2520Entrance%2520to%2520WPN.jpg
 
+..
+  :og_image: https://lh4.googleusercontent.com/-l4bXhbFvpck/Tl0YlbxVqNI/AAAAAAAABY0/-hbMxA-hnM8/s640/002%2520Entrance%2520to%2520WPN.jpg
 
-.. note::
-
+..
+  .. note::
+..
    % 本文圖片連結自 `國際叢林道場相簿 <https://picasaweb.google.com/105007927083171937889>`_,若有侵權請 `來信 <mailto:siongui@gmail.com>`_ 告知刪除。
-
+..
    % The photos of this post are linked from `International Forest Monastery Wat Pah Nanachat's Gallery <https://picasaweb.google.com/105007927083171937889>`_. If this is not allowed, please `mail me <mailto:siongui@gmail.com>`_ to delete.
 
-.. embed_picasaweb_image:: https://lh4.googleusercontent.com/-DctzA80ZIXQ/TKMZ91kpjkI/AAAAAAAAFgI/fn3qioB3qzo/s640/002%2520Entrance%2520to%2520WPN.jpg
+..
+  .. embed_picasaweb_image:: https://lh4.googleusercontent.com/-DctzA80ZIXQ/TKMZ91kpjkI/AAAAAAAAFgI/fn3qioB3qzo/s640/002%2520Entrance%2520to%2520WPN.jpg
     :image_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatPhotoCollection#5522286118229872194
     :album_name: Wat Pah Nanachat Photo Collection
     :album_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatPhotoCollection
@@ -33,7 +36,8 @@
 
 `Wat Pah Nanachat <http://maps.google.com/maps?q=15.16764,104.776011&ll=15.167971,104.775968&spn=0.012053,0.019741&num=1&t=h&z=16>`_ (國際叢林道場)是第一個去的泰國道場,二月二號到三月五號,以及三月二十五到三十一,我都住在這裡.雖然這是泰國道場,但是泰國味道比較沒那麼濃,道場內的出家人幾乎都是外國人,道場內的白衣以及白衣訪客也都是外國人,英文是道場內主要的溝通語言,住在這裡有一種住在聯合國的感覺,因為住的人是從世界各國來的.我住在這裡的時候常常有外國的訪客來這裡住,也因此認識了不少外國人.
 
-.. embed_picasaweb_image:: https://lh6.googleusercontent.com/-pxuimV3WM5Y/TYaAk1yUL0I/AAAAAAAAF7k/Dmme1kAXdAc/s640/05%252007%2520concrete%2520pillars.jpg
+..
+  .. embed_picasaweb_image:: https://lh6.googleusercontent.com/-pxuimV3WM5Y/TYaAk1yUL0I/AAAAAAAAF7k/Dmme1kAXdAc/s640/05%252007%2520concrete%2520pillars.jpg
     :image_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatSalaConstruction2010#5586293758201442114
     :album_name: Wat Pah Nanachat Sala Construction 2010
     :album_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatSalaConstruction2010
@@ -42,7 +46,8 @@
 
 剛到的男訪客必須先去見知客僧(Guest Monk),知客僧會告知訪客住在廚房二樓的宿舍,並換穿白色衣服,若想要住孤邸(kuti),則必須住滿三天才可以跟知客僧講,他會請訪客去找管kuti的比丘(Kuti Monk)安排一個kuti.第一次見面知客僧會請訪客交出貴重物品,手機,以及照相機,這些東西會被鎖在安全櫃裡,等要離開的時候才會交還.若訪客想要住久一點,則必須把頭髮全部剃掉
 
-.. embed_picasaweb_image:: https://lh3.googleusercontent.com/-jDVcvJRH33k/TKQ_FZLBFAI/AAAAAAAAFoU/ichVBLvjuC4/s640/009%2520Kitchen%2520and%2520Dormitory.jpg
+..
+  .. embed_picasaweb_image:: https://lh3.googleusercontent.com/-jDVcvJRH33k/TKQ_FZLBFAI/AAAAAAAAFoU/ichVBLvjuC4/s640/009%2520Kitchen%2520and%2520Dormitory.jpg
     :image_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatPhotoCollection#5522608404952060930
     :album_name: Wat Pah Nanachat Photo Collection
     :album_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatPhotoCollection
@@ -51,14 +56,16 @@
 
 住在道場內的訪客要剃頭是國際叢林道場的特殊原則,在我去的其他泰國道場,白衣訪客是不需要剃頭的,在Wat Pah Ampawan有一個泰國人跟我說,只有想要出家的白衣訪客才會剃頭.國際叢林道場的知客僧在第一次會面也會講一些住道場的規矩,大致上就是持守八戒,一日一餐,以及每天必須做道場指派的工作.負責指派工作的比丘(Work Monk)則會安排每天必須做的工作給住在道場的訪客,通常是打掃某一個區域或地方.我住在那裡的時候被指派每天去打掃BOT(比丘誦戒的地方).
 
-.. embed_picasaweb_image:: https://lh6.googleusercontent.com/-gmgZz3IN2BA/TKNrHA0GigI/AAAAAAAAFoo/BYVYGnh9DwI/s640/004%2520The%2520Bot%2520%2528ordination%2520hall%2529.jpg
+..
+  .. embed_picasaweb_image:: https://lh6.googleusercontent.com/-gmgZz3IN2BA/TKNrHA0GigI/AAAAAAAAFoo/BYVYGnh9DwI/s640/004%2520The%2520Bot%2520%2528ordination%2520hall%2529.jpg
     :image_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatPhotoCollection#5522375336308148738
     :album_name: Wat Pah Nanachat Photo Collection
     :album_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatPhotoCollection
     :css_class: picasa-image
     :description: (BOT,比丘誦戒的地方,我的打掃區域)
 
-.. embed_picasaweb_image:: https://lh4.googleusercontent.com/-igVhHGtN2sM/TKNq7bFz7qI/AAAAAAAAFgg/EurL0HD5kvA/s640/722%2520Sangha%2520meeting%2520in%2520the%2520Bot.jpg
+..
+  .. embed_picasaweb_image:: https://lh4.googleusercontent.com/-igVhHGtN2sM/TKNq7bFz7qI/AAAAAAAAFgg/EurL0HD5kvA/s640/722%2520Sangha%2520meeting%2520in%2520the%2520Bot.jpg
     :image_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatPhotoCollection#5522375137203318434
     :album_name: Wat Pah Nanachat Photo Collection
     :album_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatPhotoCollection
@@ -67,7 +74,8 @@
 
 道場作息從早上三點半早課（有時會沒有早課）開始,約半個小時唱頌後,有一個小時的共同禪修時間,可以隨意打坐或經行,五點後白衣訪客打掃從門口到大殿的主要水泥道路,大約五點四十五分開始入村托缽,有時人手不夠白衣訪客也要跟著出家人入村托缽,去幫忙拿食物,若沒有去幫忙的人則是自由時間,有時則會有額外的工作指派.七點左右陸陸續續托缽的人回來了,白衣訪客則必須把食物收集重新分配,在國際叢林道場每天都有非常多的食物,不只有托缽得來的食物,每天也有居士會自己帶食物來道場供養,若是遇到布蕯日或是假日,食物更是多到很誇張.
 
-.. embed_picasaweb_image:: https://lh4.googleusercontent.com/-ss_75ef9jkk/TKQ_iUnyTCI/AAAAAAAAFo0/sd1Ib4y57E0/s640/010%2520Sign%2520in%2520front%2520of%2520the%2520Kitchen.jpg
+..
+  .. embed_picasaweb_image:: https://lh4.googleusercontent.com/-ss_75ef9jkk/TKQ_iUnyTCI/AAAAAAAAFo0/sd1Ib4y57E0/s640/010%2520Sign%2520in%2520front%2520of%2520the%2520Kitchen.jpg
     :image_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatPhotoCollection#5522608901946756130
     :album_name: Wat Pah Nanachat Photo Collection
     :album_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatPhotoCollection
@@ -76,7 +84,8 @@
 
 大約八點左右大家會到大殿集合,由出家人唱頌祝福的巴利文然後取食用餐,取食的順序依是比丘,沙彌,住道場的白衣,住道場的白衣訪客,最後才是居士,布薩日用餐前會有開示以及授受八戒的儀式,假日用餐前則是會有授受五戒的儀式,週日通常還會有開示.所以布薩日或假日會到九點左右才取食.這裡是一天一餐,不過這一餐非常豐盛.
 
-.. embed_picasaweb_image:: https://lh3.googleusercontent.com/-Fj4cHJe36VM/TVJ2_5Z1NaI/AAAAAAAAFgY/IXg7q6Q5WJU/s640/DSC_3693.JPG
+..
+  .. embed_picasaweb_image:: https://lh3.googleusercontent.com/-Fj4cHJe36VM/TVJ2_5Z1NaI/AAAAAAAAFgY/IXg7q6Q5WJU/s640/DSC_3693.JPG
     :image_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatPhotoCollection#5571646529123726754
     :album_name: Wat Pah Nanachat Photo Collection
     :album_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatPhotoCollection
@@ -85,14 +94,16 @@
 
 用完餐後有meeting,所有住在道場的人都會參加,通常會由住持ajahn kevali給開示,這時若有需要也會宣佈一些事情.
 
-.. embed_picasaweb_image:: https://lh6.googleusercontent.com/-LsTFzqLVhlY/TKWXoHE07RI/AAAAAAAAFzs/dMp7t6aaUPg/s640/019%2520Newly%2520finished%2520Library%2520and%2520Reception%2520Kuti%2520%2528July%25202010%2529.jpg
+..
+  .. embed_picasaweb_image:: https://lh6.googleusercontent.com/-LsTFzqLVhlY/TKWXoHE07RI/AAAAAAAAFzs/dMp7t6aaUPg/s640/019%2520Newly%2520finished%2520Library%2520and%2520Reception%2520Kuti%2520%2528July%25202010%2529.jpg
     :image_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatPhotoCollection#5522987233389636882
     :album_name: Wat Pah Nanachat Photo Collection
     :album_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatPhotoCollection
     :css_class: picasa-image
     :description: (一樓是辦公室,二樓是圖書館,吃完飯就是在這裡聽開示)
 
-.. embed_picasaweb_image:: https://lh3.googleusercontent.com/-g_TU2D_nE7E/TzU3rELt0qI/AAAAAAAAFqA/dTwv6yGPCPo/s640/DSC_1820.JPG
+..
+  .. embed_picasaweb_image:: https://lh3.googleusercontent.com/-g_TU2D_nE7E/TzU3rELt0qI/AAAAAAAAFqA/dTwv6yGPCPo/s640/DSC_1820.JPG
     :image_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatPhotoCollection#5707529315758756514
     :album_name: Wat Pah Nanachat Photo Collection
     :album_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatPhotoCollection
@@ -103,14 +114,16 @@ meeting完後通常是做指派工作的時間,對我而言就是去打掃BOT,�
 
 國際叢林道場還有一點比較特殊的地方就是不隨便剃度,這跟我去的其他泰國道場不一樣,若訪客想要出家,則必須先住在道場當幾個月的白衣,然後再當一年的沙彌,最後道場才會幫忙剃度成比丘.我住在水壩道場時有一個泰國當地人跟LP Boonchu表明想要出家,只需當白衣大約一個月,就受戒成沙彌,而且在受戒成沙彌的當天就受戒成比丘.
 
-.. embed_picasaweb_image:: https://lh5.googleusercontent.com/-3PgCE-srGEs/TYZynIqeirI/AAAAAAAAGsw/8FlEt_E2gs4/s640/21%252024.JPG
+..
+  .. embed_picasaweb_image:: https://lh5.googleusercontent.com/-3PgCE-srGEs/TYZynIqeirI/AAAAAAAAGsw/8FlEt_E2gs4/s640/21%252024.JPG
     :image_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatSalaConstruction2010#5586278404465789618
     :album_name: Wat Pah Nanachat Sala Construction 2010
     :album_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatSalaConstruction2010
     :css_class: picasa-image
     :description: (一般沒有打算出家的男白衣訪客穿這樣)
 
-.. embed_picasaweb_image:: https://lh6.googleusercontent.com/-v2oKuVcIzR0/TYZdWV7OW2I/AAAAAAAAGQI/acmaj0wPRIc/s640/01%252027.jpg
+..
+  .. embed_picasaweb_image:: https://lh6.googleusercontent.com/-v2oKuVcIzR0/TYZdWV7OW2I/AAAAAAAAGQI/acmaj0wPRIc/s640/01%252027.jpg
     :image_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatSalaConstruction2010#5586255026223733602
     :album_name: Wat Pah Nanachat Sala Construction 2010
     :album_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatSalaConstruction2010
@@ -127,7 +140,8 @@ meeting完後通常是做指派工作的時間,對我而言就是去打掃BOT,�
 
 我二月住在這裡時,認識一位德國比丘,名叫Cittaviro,他介紹了三個有名的ajahn跟他們的道場給我,分別是在烏汶府(Ubon Ratchathani)水壩道場(Wat Khuen a.k.a. Wat Pah Bodhiyan)的LP Boonchu,春武里府(ChonBuri)芒果樹道場(Wat Pah Ampawan)的LP Jundee,以及巴吞他尼府(Pathum Thani, ปทุมธานี, 位在曼谷市郊)Wat Fakram的LP Piak.我都有去拜訪.
 
-.. embed_picasaweb_image:: https://lh6.googleusercontent.com/-yvJeFON5ZyA/TzVHvnxeEBI/AAAAAAAAFqY/zc5Km5Cw4KI/s640/Wam%252015%2520Jan%25202006%2520%252849%2529.JPG
+..
+  .. embed_picasaweb_image:: https://lh6.googleusercontent.com/-yvJeFON5ZyA/TzVHvnxeEBI/AAAAAAAAFqY/zc5Km5Cw4KI/s640/Wam%252015%2520Jan%25202006%2520%252849%2529.JPG
     :image_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatPhotoCollection#5707546986217869330
     :album_name: Wat Pah Nanachat Photo Collection
     :album_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatPhotoCollection

@@ -6,16 +6,17 @@
 :summary: 在德國籍比丘Cittaviro的介紹下，初次拜訪了水壩道場。
 :og_image: https://lh4.googleusercontent.com/-PLaadLiQv6o/VNNZkrUuFyI/AAAAAAAAly0/1daoS6lcDBM/s640/IMG_20120325_090220.jpg
 
-
-.. note::
-
+..
+  .. note::
+..
    % 本文有一張圖片連結自 `國際叢林道場相簿 <https://picasaweb.google.com/105007927083171937889>`_,若有侵權請 `來信 <mailto:siongui@gmail.com>`_ 告知刪除。
-
+..
    % One of the photos of this post are linked from `International Forest Monastery Wat Pah Nanachat's Gallery <https://picasaweb.google.com/105007927083171937889>`_. If this is not allowed, please `mail me <mailto:siongui@gmail.com>`_ to delete.
 
 當初啟程往泰國,本意是想在國際叢林道場待兩個月,然後就回台灣.但在國際叢林道場待了一陣子之後,認識了德國籍Tan Cittaviro,跟他有過好幾次不短的交談.他得知我有興趣向泰國有名的大師學習.於是他就給我兩個道場跟住持的名字,其中之一就是水壩道場的Luang Por Boonchu.後來我覺得兩個月要跑這麼多地方,根本沒機會從日常生活中學習,只能走馬看花而已.於是決定在三月底去把旅遊簽證延期一個月,讓我有更多機會去跟這些大師生活.
 
-.. embed_picasaweb_image:: https://lh6.googleusercontent.com/-yvJeFON5ZyA/TzVHvnxeEBI/AAAAAAAAFqY/zc5Km5Cw4KI/s640/Wam%252015%2520Jan%25202006%2520%252849%2529.JPG
+..
+  .. embed_picasaweb_image:: https://lh6.googleusercontent.com/-yvJeFON5ZyA/TzVHvnxeEBI/AAAAAAAAFqY/zc5Km5Cw4KI/s640/Wam%252015%2520Jan%25202006%2520%252849%2529.JPG
     :image_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatPhotoCollection#5707546986217869330
     :album_name: Wat Pah Nanachat Photo Collection
     :album_url: https://picasaweb.google.com/105007927083171937889/WatPahNanachatPhotoCollection
