@@ -1,6 +1,7 @@
 初訪水壩道場(Wat Khuen)之二 - 泰國道場之旅（五）
 ################################################
 
+:modified: 2015-03-10 01:52
 :tags: Ajahn Boonchu, Luang Por Boonchu, Wat Khuen, Wat Nong Pah Pong Branch, Wat Pah Bodhiyan, 巴蓬寺分院, 水壩道場, 阿姜查道場
 :category: 泰國道場見聞
 :summary: 初到水壩道場的第一天，與當地泰國居士同住樹下。
@@ -33,6 +34,16 @@ Sallekho領著我們到男眾居住地,這裡有很多車子跟帳篷,Sallekho�
 Sallekho離去後,我就開始把我的裝備架設起來,Lan跟amit也不知道該怎麼辦,旁邊有一位很好心的泰國居士,他借了一組傘帳跟兩塊地墊給我們,Lan拿去用,但是還是缺一組給amit,這裡也沒辦法出去買,因為我們沒車,泰語也不通.不知道amit是不是在開玩笑,他說如果真沒辦法的話,要跟我擠一起睡.
 
 下午四點是大眾繞道場經行時間,由Luang Por Boonchu帶大家一起走.我們因為在架設裝備所以沒跟上.弄好後我們也自己走,沿著湖邊往沒有人跟建築物的地方走去,邊走邊聊.amit說也許明天他坐車回國際叢林道場拿些裝備再來.
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/teepopiku.teepopiku/posts/380378888835112" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/teepopiku.teepopiku/posts/380378888835112">Post</a> by <a href="https://www.facebook.com/teepopiku.teepopiku">ทีปะ สา วะ กะ</a>.</div></div>
+
+.. container:: align-center video-container-description
+
+  此為2015年隆波生日慶典時帶大眾繞道場照片(非2012年照片)
 
 走了一個小時左右太陽快下山,我們就回到男眾居住地,這時有人在找我們.是三個泰國女居士在找我們,其中兩位是母女,住在湖另一端的Sirinthon,女兒在讀大學,英文講得不錯,他們來參加慶典,住在附近的女眾居住區.是Sallekho請來幫忙我們的,他們很親切熱情,帶來了一堆裝備給我們,其中包括折疊式蚊帳,並幫我們架設,並說如果有任何問題都可以找他們,看來我們的福報很不錯,今晚amit不必赤手空拳住樹下了.
 
