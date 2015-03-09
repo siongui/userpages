@@ -1,0 +1,12 @@
+application: webpy-multiple-app
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /robots.txt
+  script: staticweb.app
+
+- url: /.*
+  script: mainweb.app
