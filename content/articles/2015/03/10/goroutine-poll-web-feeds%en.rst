@@ -4,7 +4,7 @@
 :date: 2015-03-10 21:59
 :tags: Go, Golang, HTTP GET, Atom, RSS
 :category: Go
-:summary: Poll RSS/ATOM seeds with Goroutines
+:summary: Poll RSS/ATOM feeds with Goroutines
 
 
 This post shows how to periodically poll (fetch by http get) `web feeds`_ with

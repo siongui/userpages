@@ -128,3 +128,9 @@ Maṅgalasuttaṃ (吉祥經) - 巴利唸誦
 .. [11] `吉祥經 <http://averychan.blogspot.com/2013/09/blog-post_3139.html>`_
 
 .. [12] `上座部佛教巴利课诵 <http://dhamma.sutta.org/index7-chanting.html>`_
+
+.. [13] `鄧殿臣 譯 W05n0045_001 小誦第1卷 | CBETA 漢文大藏經 <http://tripitaka.cbeta.org/W05n0045_001>`_
+        (`手機版 <http://tripitaka.cbeta.org/mobile/index.php?index=W05n0045_001>`__)
+
+.. [14] `悟醒 譯 N26n0008 小誦經 元亨寺漢譯南傳大藏經 | CBETA 漢文大藏經 <http://tripitaka.cbeta.org/ko/N26n0008_001>`_
+        (`手機版 <http://tripitaka.cbeta.org/mobile/index.php?index=N26n0008_001>`__)
