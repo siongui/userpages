@@ -1,7 +1,8 @@
-saraṇagamanaṃ (三皈依) - 巴利唸誦
-#################################
+saraṇagamanaṃ (三皈依, ไตรสรณคมน์) - 巴利唸誦
+#############################################
 
 :date: 2015-03-10 23:43
+:modified: 2015-03-12 01:12
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: saraṇagamanaṃ (三皈依) 巴利語唸誦
@@ -85,3 +86,5 @@ saraṇagamanaṃ (三皈依) - 巴利唸誦
 
 .. [7] `Daily chanting used in Ajahn Chah's branch monasteries <http://forestsanghapublications.org/viewBook.php?id=26&ref=vec>`_
        (`PDF <http://forestsanghapublications.org/assets/book/ChantingBook_rev2010.pdf>`__)
+
+.. [8] `บทสวดมนต์ ไตรสรณคมน์ <http://m.flash-mini.com/pray.php?id=6&sub=%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%AA%E0%B8%A3%E0%B8%93%E0%B8%84%E0%B8%A1%E0%B8%99%E0%B9%8C>`_

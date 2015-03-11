@@ -1,7 +1,8 @@
-Maṅgalasuttaṃ (吉祥經) - 巴利唸誦
-#################################
+Maṅgalasuttaṃ (吉祥經, มงฺคลสุตฺตํ, มงคลปริตร) - 巴利唸誦
+######################################################
 
 :date: 2015-03-10 00:42
+:modified: 2015-03-12 01:44
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: Maṅgalasuttaṃ (吉祥經)巴利語唸誦
@@ -100,6 +101,34 @@ Maṅgalasuttaṃ (吉祥經) - 巴利唸誦
 .. container:: align-center video-container-description
 
   吉祥經
+
+|
+|
+|
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="420" height="315" src="https://www.youtube.com/embed/EfdVZLYKuGE" frameborder="0" allowfullscreen></iframe>
+
+.. container:: align-center video-container-description
+
+  吉祥經 มงฺคลสุตฺตํ
+
+|
+|
+|
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="420" height="315" src="https://www.youtube.com/embed/PONHWyMg2ik" frameborder="0" allowfullscreen></iframe>
+
+.. container:: align-center video-container-description
+
+  吉祥經 มงคลปริตร
 
 ----
 
