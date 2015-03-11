@@ -12,8 +12,8 @@ Location: `Kaohsiung <http://en.wikipedia.org/wiki/Kaohsiung>`_,
 `Taiwan <http://en.wikipedia.org/wiki/Taiwan>`_
 
 Profiles:
-`Google+ <https://plus.google.com/u/0/+SiongUiTe/about>`_ /
-`facebook <https://www.facebook.com/siongui.te>`_ /
+`Google+ <https://plus.google.com/+SiongUiTe>`_ /
+`Facebook <https://www.facebook.com/siongui.te>`__ /
 `Github <https://github.com/siongui>`_ /
 `Gist <https://gist.github.com/siongui>`_ /
 `Stack Overflow <http://stackoverflow.com/users/2350927/siongui>`_
@@ -32,14 +32,11 @@ Contact:
 
   LINE: ``siongui``
 
-Blogs:
+Blog:
 
   `Theory and Practice <http://siongui.github.io/>`__
-  (hosted on `GitHub Pages <http://pages.github.com/>`_,
+  (hosted on `GitHub Pages <https://pages.github.com/>`_,
   `source code <https://github.com/siongui/userpages>`_)
-
-  `Theory and Practice <http://cvmlrobotics.blogspot.com/>`__
-  (hosted on `Blogger <http://www.blogger.com/>`_)
 
 Recommended:
 
@@ -47,12 +44,16 @@ Recommended:
   (`Photos <https://picasaweb.google.com/105008812818042996376>`__)
 
   `Wat Pah Nanachat (WPN) - The International Forest Monastery <http://www.watpahnanachat.org/>`_
-  (`Photos <http://picasaweb.google.com/wpnpictures>`__)
+  (`Photos <https://picasaweb.google.com/105007927083171937889>`__,
+  `Facebook <https://www.facebook.com/pages/Wat-Pah-Nanachat-The-International-Forest-Monastery-WPN-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4/152820321494231>`__,
+  `Google+ <https://plus.google.com/+InternationalForestMonasteryWatPahNanachat>`__)
 
-  `阿姜查 巴蓬寺分院 <http://www.wpp-branches.net/cn/index.php>`_
+  `Ajahn Chah -- Branches of Wat Nong Pah Pong <http://www.wpp-branches.net/en/index.php>`_
 
   `覺醒之翼——上座部佛教文獻選譯集 <http://www.theravadacn.org/DhammaIndex2.htm>`_
   (`mirror <http://www.dhammatalks.org/Dhamma/DhammaIndex2.htm>`__)
+
+  `Forest Sangha Publications <http://forestsanghapublications.org/>`_
 
 Statistics:
 `GitHub Résumé <http://resume.github.io/?siongui>`_ /

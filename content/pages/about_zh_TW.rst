@@ -12,8 +12,8 @@
 `臺灣 <http://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3>`_
 
 社交:
-`Google+ <https://plus.google.com/u/0/+SiongUiTe/about>`_ /
-`臉書 <https://www.facebook.com/siongui.te>`_ /
+`Google+ <https://plus.google.com/+SiongUiTe>`_ /
+`臉書 <https://www.facebook.com/siongui.te>`__ /
 `Github <https://github.com/siongui>`_ /
 `Gist <https://gist.github.com/siongui>`_ /
 `Stack Overflow <http://stackoverflow.com/users/2350927/siongui>`_
@@ -35,11 +35,8 @@
 部落格:
 
   `理論與實作 <http://siongui.github.io/>`__
-  (託管於 `GitHub Pages <http://pages.github.com/>`_,
+  (託管於 `GitHub Pages <https://pages.github.com/>`_,
   `原始碼 <https://github.com/siongui/userpages>`_)
-
-  `理論與實作 <http://cvmlrobotics.blogspot.com/>`__
-  (託管於 `Blogger <http://www.blogger.com/>`_)
 
 推薦:
 
@@ -47,12 +44,16 @@
   (`相簿 <https://picasaweb.google.com/105008812818042996376>`__)
 
   `國際叢林道場 <http://www.watpahnanachat.org/>`_
-  (`相簿 <http://picasaweb.google.com/wpnpictures>`__)
+  (`相簿 <https://picasaweb.google.com/105007927083171937889>`__,
+  `臉書 <https://www.facebook.com/pages/Wat-Pah-Nanachat-The-International-Forest-Monastery-WPN-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4/152820321494231>`__,
+  `Google+ <https://plus.google.com/+InternationalForestMonasteryWatPahNanachat>`__)
 
   `阿姜查 巴蓬寺分院 <http://www.wpp-branches.net/cn/index.php>`_
 
   `覺醒之翼——上座部佛教文獻選譯集 <http://www.theravadacn.org/DhammaIndex2.htm>`_
   (`鏡像 <http://www.dhammatalks.org/Dhamma/DhammaIndex2.htm>`__)
+
+  `森林僧團刊物 <http://forestsanghapublications.org/>`_
 
 統計:
 `GitHub 履歷表 <http://resume.github.io/?siongui>`_ /
