@@ -134,3 +134,6 @@ Maṅgalasuttaṃ (吉祥經) - 巴利唸誦
 
 .. [14] `悟醒 譯 N26n0008 小誦經 元亨寺漢譯南傳大藏經 | CBETA 漢文大藏經 <http://tripitaka.cbeta.org/ko/N26n0008_001>`_
         (`手機版 <http://tripitaka.cbeta.org/mobile/index.php?index=N26n0008_001>`__)
+
+.. [15] `Daily chanting used in Ajahn Chah's branch monasteries <http://forestsanghapublications.org/viewBook.php?id=26&ref=vec>`_
+        (`PDF <http://forestsanghapublications.org/assets/book/ChantingBook_rev2010.pdf>`__)
