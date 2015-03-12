@@ -2,11 +2,15 @@ Maṅgalasuttaṃ (吉祥經, มงฺคลสุตฺตํ, มงคลป
 ######################################################
 
 :date: 2015-03-10 00:42
-:modified: 2015-03-12 01:44
+:modified: 2015-03-12 22:04
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: Maṅgalasuttaṃ (吉祥經)巴利語唸誦
 
+
+這是在泰國常聽到的吉祥經唸誦，裡頭有一句"*Mātāpitu upaṭṭhānaṃ*"，中文是"善能事父
+母"，就是要孝敬父母的意思，我在泰國常聽到 `隆波Boonchu`_ 在開示中說這句巴利語，
+雖然我還是無法聽懂泰語或寮語的開示，但聽到這句話就知道隆波在講孝順父母了。
 
 .. list-table:: Maṅgalasuttaṃ (吉祥經)
    :header-rows: 1
@@ -166,3 +170,6 @@ Maṅgalasuttaṃ (吉祥經, มงฺคลสุตฺตํ, มงคลป
 
 .. [15] `Daily chanting used in Ajahn Chah's branch monasteries <http://forestsanghapublications.org/viewBook.php?id=26&ref=vec>`_
         (`PDF <http://forestsanghapublications.org/assets/book/ChantingBook_rev2010.pdf>`__)
+
+
+.. _隆波Boonchu: {filename}../../../2012/05/15/wat-pah-bodhiyan-aka-wat-khuen%zh.rst

@@ -2,10 +2,17 @@ Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈, โอวาทปาต�
 ####################################################################
 
 :date: 2015-03-11 23:31
+:modified: 2015-03-12 22:10
 :tags: 巴利語
 :category: 巴利唸誦
-:summary: Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈) 巴利語唸誦
+:summary: 「諸惡莫作，眾善奉行；自淨其意，是諸佛教。」
+          Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈) 巴利語唸誦
 
+
+這也是常在泰國早晚課會唸誦的偈，著名的「諸惡莫作，眾善奉行；自淨其意，是諸佛教。
+」就在這裡面。裡有一句"*khantī paramaṃ tapo tītikkhā*",意思是"忍辱(耐)為最高苦行
+",這也常在 `隆波Boonchu`_ 開示中會聽到，跟"`Mātāpitu upaṭṭhānaṃ`_"（善能事父母）
+那句巴利語並列我最常聽到 `隆波Boonchu`_ 開示中講出的巴利偈。
 
 .. list-table:: Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈)
    :header-rows: 1
@@ -137,3 +144,10 @@ Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈, โอวาทปาต�
 .. [8] `大護衛經 斯里蘭卡上座部佛教傳統 瑪欣德尊者 編譯 <http://www.dhammatalks.net/Chinese/Bhikkhu_Mahinda-Maha_Paritta.pdf>`_
 
 .. [9] `上座部佛教唸誦集 - 瑪欣德尊者 編譯 <http://www.dhammatalks.net/Chinese/Bhikkhu_Mahinda-Puja.pdf>`_
+
+.. [10] `Ovāda-pātimokkha Gāthā <http://kusala.online-dhamma.net/%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E5%9C%96%E6%9B%B8%E9%A4%A8%20Theravada%20Buddhism%20E-Library/041%20%E8%AA%B2%E8%AA%A6%20%20Chanting/Tusita%20Version%20Pdf/29%20Ovada%20Patimokkha%20Gatha.pdf>`_
+
+
+.. _隆波Boonchu: {filename}../../../2012/05/15/wat-pah-bodhiyan-aka-wat-khuen%zh.rst
+
+.. _Mātāpitu upaṭṭhānaṃ: {filename}../10/mangalasuttam-pali-chanting%zh.rst
