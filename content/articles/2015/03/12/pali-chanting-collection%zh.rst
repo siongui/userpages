@@ -2,6 +2,7 @@
 ##############
 
 :date: 2015-03-12 05:11
+:modified: 2015-03-12 23:27
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: 整理網路上關於巴利-英文-中文唸誦書本。
@@ -31,6 +32,7 @@
 * 瑪欣德尊者 編譯
 
   - `大護衛經 斯里蘭卡上座部佛教傳統 瑪欣德尊者 編譯 <http://www.dhammatalks.net/Chinese/Bhikkhu_Mahinda-Maha_Paritta.pdf>`_
+    (`PDF <http://www.asoka-vihara.com/ebook/eb_05_131119/eb005_pdf.pdf>`__)
 
   - `上座部佛教唸誦集 - 瑪欣德尊者 編譯 <http://www.dhammatalks.net/Chinese/Bhikkhu_Mahinda-Puja.pdf>`_
 
