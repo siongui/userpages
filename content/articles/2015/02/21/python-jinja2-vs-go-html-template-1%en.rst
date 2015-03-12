@@ -146,6 +146,8 @@ Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``, ``Python 2.7.8``, ``Google App En
 
 .. [6] `Golang html/template versus Python Jinja2 (6) - Template Inheritance (Extends) <{filename}../../03/08/python-jinja2-vs-go-html-template-extends%en.rst>`_
 
+.. [7] `Golang html/template versus Python Jinja2 (7) - Custom Functions and Filters <{filename}../../03/12/python-jinja2-vs-go-html-template-function-and-filter%en.rst>`_
+
 ----
 
 References:
