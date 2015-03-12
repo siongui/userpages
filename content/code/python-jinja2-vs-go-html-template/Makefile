@@ -8,7 +8,7 @@ export PATH := $(GOROOT)/bin:$(PATH)
 # path of Google App Engine Python SDK
 GAE_PY_SDK=../../../../../google_appengine
 
-all: example4
+all: example5
 
 example1:
 	@# http://stackoverflow.com/questions/9967105/suppress-echo-of-command-invocation-in-makefile
@@ -26,6 +26,10 @@ example3:
 example4:
 	@python jinja2-example-4.py
 	@go run html-template-example-4.go
+
+example5:
+	@python jinja2-example-5.py
+	@go run html-template-example-5.go
 
 help:
 	go help
