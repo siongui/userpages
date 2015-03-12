@@ -193,7 +193,7 @@ Jaya-maṅgala Gāthā (勝利吉祥偈) - 巴利唸誦
 參考：
 
 .. [1] `Comprehensive English-Mandarin Chanting Book <http://methika.com/comprehensive-english-mandarin-chanting-book/>`_
-       (`PDF part3 <http://methika.com/comprehensive-english-mandarin-chanting-book/>`__)
+       (`PDF part3 <http://methika.com/wp-content/uploads/2010/01/Book3.PDF>`__)
 
 .. [2] `佛勝吉祥偈 - 巴英中對照-課誦 <http://www.dhammatalks.org/Dhamma/Chanting/Verses2.htm#buddhajaya>`_
 
