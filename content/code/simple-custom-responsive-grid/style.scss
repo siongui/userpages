@@ -1,0 +1,17 @@
+.left-column {
+  width: 70%;
+  display: inline-block;
+  @media screen and (max-width: 767px) {
+    width: 100%;
+    display: block;
+  }
+}
+
+.right-column {
+  width: 30%;
+  display: inline-block;
+  @media screen and (max-width: 767px) {
+    width: 100%;
+    display: block;
+  }
+}
