@@ -119,3 +119,5 @@ anumodanāvidhī (祝福) - 巴利唸誦
 
     <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/tbcm.org.my/posts/789601584451833:0" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/tbcm.org.my/posts/789601584451833:0">Post</a> by <a href="https://www.facebook.com/tbcm.org.my">Theravada Buddhist Council of Malaysia</a>.</div></div>
 
+.. [8] `Comprehensive English-Mandarin Chanting Book <http://methika.com/comprehensive-english-mandarin-chanting-book/>`_
+       (`PDF part7 <http://methika.com/wp-content/uploads/2010/01/Book7.PDF>`__)

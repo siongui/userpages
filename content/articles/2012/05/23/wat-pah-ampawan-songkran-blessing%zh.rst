@@ -1,6 +1,7 @@
 芒果樹叢林道場(Wat Pah Ampawan)倒水儀式 - 泰國道場之旅（二十六）
 ################################################################
 
+:modified: 2015-03-18 23:52
 :tags: Ajahn Chah, Ajahn Jundee, Luang Por Chah, Luang Por Jundee, Wat Nong Pah Pong Branch, Wat Pah Ampawan, 巴蓬寺分院, 芒果樹叢林道場, 阿姜查, 阿姜查道場, 隆波查
 :category: 泰國道場見聞
 :summary: 巴蓬寺分院芒果樹叢林道場(Wat Pah Ampawan)於泰國新年宋干節舉行隆波Jundee的倒水祝福儀式。
@@ -44,6 +45,11 @@
 .. container:: align-center video-container-description
 
   (另一段倒水儀式影片)
+
+----
+
+參考：
+`迎接泰式新年 你已懂宋干節習俗嗎？ – 看見泰國 VisionThai <http://visionthai.net/p7251/>`_
 
 ----
 

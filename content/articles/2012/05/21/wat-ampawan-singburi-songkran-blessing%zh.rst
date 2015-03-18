@@ -1,6 +1,7 @@
 芒果樹道場(Wat Ampawan)之宋干節倒水儀式 - 泰國道場之旅（二十五）
 ################################################################
 
+:modified: 2015-03-18 23:52
 :tags: Ajahn Jarun, Luang Por Jarun, Sing Buri, Wat Ampawan, 芒果樹道場
 :category: 泰國道場見聞
 :summary: 芒果樹道場(Wat Ampawan)於泰國新年宋干節的倒水祝福儀式。
@@ -55,6 +56,11 @@
     :description: (倒水結束後離開)
 
 在台灣從沒看過類似的活動,泰國新年期間,我在芒果樹道場和芒果樹叢林道場都有看到類似的活動,十分有趣~
+
+----
+
+參考：
+`迎接泰式新年 你已懂宋干節習俗嗎？ – 看見泰國 VisionThai <http://visionthai.net/p7251/>`_
 
 ----
 
