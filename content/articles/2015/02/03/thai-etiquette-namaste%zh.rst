@@ -9,9 +9,11 @@
 
 也許你很早之前就知道「合十禮和告別辭」在泰國文化中是很重要的組成部分，但是這個現象在泰語中又是怎樣表述的呢?今天我們就配合一段泰國動漫來和大家講解「合十禮和告別辭 ไปลามาไหว้」。
 
-.. raw:: html
+.. container:: align-center video-container
 
-  <iframe width="420" height="315" src="https://www.youtube.com/embed/3Q6xB9GLJLc" frameborder="0" allowfullscreen></iframe>
+  .. raw:: html
+
+    <iframe width="420" height="315" src="https://www.youtube.com/embed/3Q6xB9GLJLc" frameborder="0" allowfullscreen></iframe>
 
 คนไทยเป็นคนที่มีอุปนิสัยอ่อนน้อม
 
@@ -54,4 +56,8 @@
 
 來源: `爱上泰语 泰国礼仪“合十礼与告别辞 ไปลามาไหว้”_泰语学习_沪江泰语 <http://th.hujiang.com/new/p408383/>`_
 
-臉書分享: `Post <https://www.facebook.com/RichnessThai/photos/a.1398449817037965.1073741828.1395957037287243/1600450033504608/?type=1>`_ by `富貴泰國邦 <https://www.facebook.com/RichnessThai>`_
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/RichnessThai/photos/a.1398449817037965.1073741828.1395957037287243/1600450033504608/?type=1" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/RichnessThai/photos/a.1398449817037965.1073741828.1395957037287243/1600450033504608/?type=1">Post</a> by <a href="https://www.facebook.com/RichnessThai">富貴泰國邦</a>.</div></div>
