@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Responsive Navigation Bar (navbar) Demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<nav class="top-nav" role="navigation">
+  <div class="nav-header-window">
+    <div class="toggleable-window visible-xs">
+      <input type="checkbox" class="toggle" id="punch" checked>
+      <label for="punch">&equiv;<!-- mobile devices cannot show &#8803; (math symbol STRICTLY EQUIVALENT TO) --></label>
+      <div>
+        <a href="#">Page</a>
+        <a href="#">Archives</a>
+        <a href="#">Categories</a>
+        <a href="#">Tags</a>
+        <a href="#">Authors</a>
+        <span><a href="#">English</a></span>
+        <span><a href="#">傳統中文</a></span>
+      </div>
+    </div>
+    <header><h1><a href="#">{{ SITENAME }}</a></h1></header>
+  </div><!--
+--><div class="nav-links hidden-xs">
+    <ul>
+      <li><a href="#">Page</a></li>
+      <li><a href="#">Archives</a></li>
+      <li><a href="#">Categories</a></li>
+      <li><a href="#">Tags</a></li>
+      <li><a href="#">Authors</a></li>
+    </ul>
+  </div><!--
+--><div class="nav-lang-select hidden-xs">
+    <a href="#">[English]</a>&nbsp;
+    <a href="#">[傳統中文]</a>
+  </div>
+</nav>
+
+</body>
+</html>
