@@ -3,7 +3,7 @@
 
 :date: 2014-02-14 23:30
 :author: 釋暢懷 法師
-:tags: 靜坐
+:tags: 靜坐, 轉錄
 :category: 轉錄
 :summary: 靜坐是修養身心最好的方法之一，它非但能治生理上的病，也能治心理上的病，可以說，對一切身心的病均能作根本的治療。
 :og_image: http://www.bya.org.hk/life/medit/meditcover.jpg

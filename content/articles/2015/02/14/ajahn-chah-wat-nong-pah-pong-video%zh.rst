@@ -1,7 +1,7 @@
 有關阿姜查以及巴蓬寺的影片
 ##########################
 
-:tags: 巴蓬寺, 阿姜查, Ajahn Chah, Wat Nong Pah Pong
+:tags: 巴蓬寺, 阿姜查, Ajahn Chah, Wat Nong Pah Pong, 影片, 轉錄
 :category: 阿姜查
 :summary: 搜集網路上有關阿姜查以及巴蓬寺的影片
 :og_image: http://www.ajahnchah.org/book/07bb.jpg
@@ -30,5 +30,3 @@
 .. container:: align-center video-container-description
 
   正念之道(The Mindful Way)，中文字幕
-
-
