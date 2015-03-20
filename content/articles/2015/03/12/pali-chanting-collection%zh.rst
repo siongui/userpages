@@ -2,7 +2,7 @@
 ##############
 
 :date: 2015-03-12 05:11
-:modified: 2015-03-12 23:27
+:modified: 2015-03-21 05:53
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: 整理網路上關於巴利-英文-中文唸誦書本。
@@ -36,6 +36,17 @@
 
   - `上座部佛教唸誦集 - 瑪欣德尊者 編譯 <http://www.dhammatalks.net/Chinese/Bhikkhu_Mahinda-Puja.pdf>`_
 
+* `Dhammavaro 南传佛教(法增法师) <https://plus.google.com/105094144621281842697>`_
+
+  - `佛教课诵经文集第二版 <https://skydrive.live.com/?cid=a88ae0574c8756ae#cid=A88AE0574C8756AE&id=A88AE0574C8756AE%211037>`_
+
+  - `佛教朝暮课诵第七版 <https://skydrive.live.com/?cid=a88ae0574c8756ae#cid=A88AE0574C8756AE&id=A88AE0574C8756AE%21353>`_
+
+  - `南传护卫经偈第一版 <https://skydrive.live.com/?cid=a88ae0574c8756ae#cid=A88AE0574C8756AE&id=A88AE0574C8756AE%211493>`_
+
+  - `[PDF] 南傳佛教課誦本 <http://211.72.214.103/gkv/book/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E8%AA%B2%E8%AA%A6%E6%9C%AC-%E4%B8%AD%E7%B9%81.pdf>`_
+    (`mirror <{filename}/chanting/Dhammavaro/buddhism-chanting-cht.pdf>`__)
+
 * `Samathidhammaram Centre <http://methika.com/>`_
 
   - `Chanting & Books Download <http://methika.com/chanting/>`__
@@ -58,7 +69,9 @@
     (`Download <http://reading.buddhistdoor.com/resources/get/0448aa69fe6c4cd6b574fd054a1b3972f5bacd8f>`__)
 
   - `Chanting Book - Pali-Thai-English-Chinese [1.0] <http://www.nirotharam.com/book/English-ChineseChantingbook1.pdf>`_
+    (`mirror <{filename}/chanting/nirotharam/English-ChineseChantingbook1.pdf>`__)
 
     `Daily Contemplation - Pali-Thai-English-Chinese Chanting Book 2 <http://www.nirotharam.com/book/English-ChineseChantingbook2.pdf>`_
+    (`mirror <{filename}/chanting/nirotharam/English-ChineseChantingbook2.pdf>`__)
 
   - `Pali in Thai Script <http://paliinthaiscript.blogspot.com/>`_
