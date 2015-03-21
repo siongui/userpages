@@ -4,10 +4,10 @@ bhojanadānānumodanāgāthā (供養食物感恩偈) - 巴利唸誦
 :date: 2015-03-21 06:17
 :tags: 巴利語
 :category: 巴利唸誦
-:summary: bhojanadānānumodanāgāthā (供養食物感恩偈) 巴利語唸誦
+:summary: bhojanadānānumodanāgāthā (供養食物感恩偈, 食施隨喜偈) 巴利語唸誦
 
 
-.. list-table:: bhojanadānānumodanāgāthā (供養食物感恩偈)
+.. list-table:: bhojanadānānumodanāgāthā (供養食物感恩偈, 食施隨喜偈)
    :header-rows: 1
    :class: table-syntax-diff
 
@@ -42,7 +42,7 @@ bhojanadānānumodanāgāthā (供養食物感恩偈) - 巴利唸誦
 
 .. container:: align-center video-container-description
 
-  bhojanadānānumodanāgāthā (供養食物感恩偈)
+  bhojanadānānumodanāgāthā (供養食物感恩偈, 食施隨喜偈)
 
 ----
 

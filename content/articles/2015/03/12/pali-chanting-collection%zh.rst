@@ -91,6 +91,9 @@
       `8 <{filename}/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book8.PDF>`__)
 
     + `Pali-Mandarin Chanting Book <http://methika.com/pali-mandarin-chanting-book/>`__
+      (PDF mirror `1 <{filename}/chanting/Methika/Pali-Mandarin-Chanting-Book/pali-chinese-chantingbook-part1.pdf>`__,
+      `2 <{filename}/chanting/Methika/Pali-Mandarin-Chanting-Book/pali-chinese-chantingbook-part2.pdf>`__,
+      `3 <{filename}/chanting/Methika/Pali-Mandarin-Chanting-Book/pali-chinese-chantingbook-part3.pdf>`__)
 
 * Misc
 
@@ -108,3 +111,5 @@
     (`mirror <{filename}/chanting/nirotharam/English-ChineseChantingbook2.pdf>`__)
 
   - `Pali in Thai Script <http://paliinthaiscript.blogspot.com/>`_
+
+  - `南傳佛教圖書館 Theravada Buddhism E-Library <http://kusala.online-dhamma.net/%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E5%9C%96%E6%9B%B8%E9%A4%A8%20Theravada%20Buddhism%20E-Library/>`_
