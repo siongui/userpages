@@ -121,6 +121,8 @@ Sabba Pattidāna Gāthā (迴向一切有情偈 สัพพปัตติท�
 
 .. [7] `Paritta/Sutta: Dedication of Merit <http://chantingguide.blogspot.com/2014/02/dedicaiton-of-merit.html>`_
 
+.. [8] (巴利唸誦) `37 附錄四.pdf <http://kusala.online-dhamma.net/%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E5%9C%96%E6%9B%B8%E9%A4%A8%20Theravada%20Buddhism%20E-Library/077%20%E8%B3%87%E8%A8%8A/%E7%B7%AC%E7%94%B8%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E7%A6%AA%E4%BF%AE%E8%B3%87%E8%A8%8A/%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E6%B8%85%E5%87%88%E4%B9%8B%E6%97%85/%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E6%B8%85%E5%87%88%E4%B9%8B%E6%97%85%20PDF/37%20%E9%99%84%E9%8C%84%E5%8C%97.pdf>`_
+
 
 .. _สัพพปัตติทานคาถา: http://www.aia.or.th/prayer14.htm
 
