@@ -8,10 +8,31 @@
 :summary: 整理網路上關於巴利-英文-中文唸誦書本。
 
 
+* 巴利唸誦：
+
+  - `Maṅgalasuttaṃ (吉祥經, มงฺคลสุตฺตํ, มงคลปริตร) - 巴利唸誦 <{filename}../10/mangalasuttam-pali-chanting%zh.rst>`_
+
+  - `saraṇagamanaṃ (三皈依, ไตรสรณคมน์) - 巴利唸誦 <{filename}../10/saranattayam-pali-chanting%zh.rst>`_
+
+  - `Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈, โอวาทปาติโมกข์) - 巴利唸誦 <{filename}../11/ovada-patimokkha-pali-chanting%zh.rst>`_
+
+  - `Jaya-maṅgala Gāthā (勝利吉祥偈) - 巴利唸誦 <{filename}jaya-mangala-attha-gatha-pali-chanting%zh.rst>`_
+
+  - `Buddhānussati (佛隨念) - 巴利唸誦 <{filename}../13/buddhanussati-pali-chanting%zh.rst>`_
+
+  - `anumodanāvidhī (祝福) - 巴利唸誦 <{filename}../16/anumodanaavidhii-pali-chanting%zh.rst>`_
+
+  - `uddisanādhiṭṭhāna gāthā (迴向許願文, อุททิสสนาธิฏฐาน คาถา) - 巴利唸誦 <{filename}../18/uddisana-dhitthana-gatha-pali-chanting%zh.rst>`_
+
+  - `Pacchimabuddhovāda pāṭhaṃ (佛陀的最後之言誦 ปัจฉิมพุทโธวาทปาฐะ) - 巴利唸誦 <{filename}../19/pacchimabuddhovaada-pali-chanting%zh.rst>`_
+
+  - `bhojanadānānumodanāgāthā (供養食物感恩偈) - 巴利唸誦 <{filename}../21/bhojanadaanaanumodanaa-gaathaa-pali-chanting%zh.rst>`_
+
 * 巴蓬寺(`Wat Nong Pah Pong <http://www.watnongpahpong.org/indexe.php>`_)系統
 
   - `Wat Nong Pah Pong Chanting Book (Pali - Thai, romanized) <http://mahanyano.blogspot.com/2012/03/chanting-book.html>`_
     (`PDF <https://docs.google.com/file/d/0B3rNKttyXDClQ1RDTDJnXzRUUjJweE5TcWRnZWdIUQ/edit>`__)
+    (`mirror <{filename}/chanting/nong-pah-pong/Wat-Nong-Pah-Pong-Chanting-Book.pdf>`__)
 
   - `Chanting Book » Amaravati Buddhist Monastery <http://www.amaravati.org/dhamma-books/chanting-book/>`_
     (`PDF <http://cdn.amaravati.org/wp-content/uploads/2014/09/Amaravati-Chanting-Book.pdf>`__)
@@ -22,6 +43,7 @@
 * `DHAMMA TALKS & WRITINGS OF Ṭhānissaro BHIKKHU | dhammatalks.org <http://www.dhammatalks.org/>`_
 
   - `A Chanting Gude: Pali Passages with English Translations <http://www.dhammatalks.org/Archive/Writings/ChantingGuideWithIndex.pdf>`_
+    (`mirror <{filename}/chanting/Thanissaro/ChantingGuideWithIndex.pdf>`__)
 
   - `Pali Chants | dhammatalks.org <http://www.dhammatalks.org/chant_index.html>`_
 
@@ -32,9 +54,12 @@
 * 瑪欣德尊者 編譯
 
   - `大護衛經 斯里蘭卡上座部佛教傳統 瑪欣德尊者 編譯 <http://www.dhammatalks.net/Chinese/Bhikkhu_Mahinda-Maha_Paritta.pdf>`_
-    (`PDF <http://www.asoka-vihara.com/ebook/eb_05_131119/eb005_pdf.pdf>`__)
+    (`mirror <{filename}/chanting/Mahinda/Bhikkhu_Mahinda-Maha_Paritta.pdf>`__)
+    (`another PDF <http://www.asoka-vihara.com/ebook/eb_05_131119/eb005_pdf.pdf>`__,
+    `mirror <{filename}/chanting/Mahinda/eb005_pdf.pdf>`__)
 
   - `上座部佛教唸誦集 - 瑪欣德尊者 編譯 <http://www.dhammatalks.net/Chinese/Bhikkhu_Mahinda-Puja.pdf>`_
+    (`mirror <{filename}/chanting/Mahinda/Bhikkhu_Mahinda-Puja.pdf>`__)
 
 * `Dhammavaro 南传佛教(法增法师) <https://plus.google.com/105094144621281842697>`_
 
@@ -56,6 +81,14 @@
     + `Pali-Thai-English Chanting Book <http://methika.com/chanting-book/>`__
 
     + `Comprehensive English-Mandarin Pali Chanting Book <http://methika.com/comprehensive-english-mandarin-chanting-book/>`__
+      (PDF mirror `1 <{filename}/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book1.PDF>`__,
+      `2 <{filename}/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book2.PDF>`__,
+      `3 <{filename}/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book3.PDF>`__,
+      `4 <{filename}/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book4.PDF>`__,
+      `5 <{filename}/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book5.PDF>`__,
+      `6 <{filename}/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book6.PDF>`__,
+      `7 <{filename}/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book7.PDF>`__,
+      `8 <{filename}/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book8.PDF>`__)
 
     + `Pali-Mandarin Chanting Book <http://methika.com/pali-mandarin-chanting-book/>`__
 
