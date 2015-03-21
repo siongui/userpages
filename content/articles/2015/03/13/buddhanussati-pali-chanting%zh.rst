@@ -80,3 +80,5 @@ Buddhānussati (佛隨念) - 巴利唸誦
 
 .. [4] `Comprehensive English-Mandarin Chanting Book <http://methika.com/comprehensive-english-mandarin-chanting-book/>`_
        (`PDF part1 <http://methika.com/wp-content/uploads/2010/01/Book1.PDF>`__)
+
+.. [5] `Buddha Guṇā ［帰依仏］－パーリ語 常用経典集－真言宗泉涌寺派大本山 法楽寺 <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/paritta/Buddha_guna.htm>`_

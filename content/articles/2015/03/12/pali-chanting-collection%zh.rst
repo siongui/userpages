@@ -2,7 +2,7 @@
 ##############
 
 :date: 2015-03-12 05:11
-:modified: 2015-03-21 05:53
+:modified: 2015-03-22 01:18
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: 整理網路上關於巴利-英文-中文唸誦書本。
@@ -27,6 +27,8 @@
   - `Pacchimabuddhovāda pāṭhaṃ (佛陀的最後之言誦 ปัจฉิมพุทโธวาทปาฐะ) - 巴利唸誦 <{filename}../19/pacchimabuddhovaada-pali-chanting%zh.rst>`_
 
   - `bhojanadānānumodanāgāthā (供養食物感恩偈) - 巴利唸誦 <{filename}../21/bhojanadaanaanumodanaa-gaathaa-pali-chanting%zh.rst>`_
+
+  - `Pathamabuddhabhāsita Gāthā (佛陀的最初之言偈 ปฐมพุทธภาสิตคาถา) - 巴利唸誦 <{filename}../22/pathama-buddhabhaasita-pali-chanting%zh.rst>`_
 
 * 巴蓬寺(`Wat Nong Pah Pong <http://www.watnongpahpong.org/indexe.php>`_)系統
 
@@ -113,3 +115,5 @@
   - `Pali in Thai Script <http://paliinthaiscript.blogspot.com/>`_
 
   - `南傳佛教圖書館 Theravada Buddhism E-Library <http://kusala.online-dhamma.net/%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E5%9C%96%E6%9B%B8%E9%A4%A8%20Theravada%20Buddhism%20E-Library/>`_
+
+  - `上座部パーリ語常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺－ <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/>`_

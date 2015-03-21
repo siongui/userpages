@@ -61,5 +61,7 @@ Pacchimabuddhovāda pāṭhaṃ (佛陀的最後之言誦 ปัจฉิมพ�
 
 .. [6] `Daily Contemplation - Pali-Thai-English-Chinese Chanting Book 2 <http://www.nirotharam.com/book/English-ChineseChantingbook2.pdf>`_
 
+.. [7] `Ovāda［教誡］－パーリ語 常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺 <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/paritta/Bhagavato_Ovado.htm>`_
+
 
 .. _ปัจฉิมพุทโธวาทปาฐะ: http://www.aia.or.th/prayer40.htm

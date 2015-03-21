@@ -88,3 +88,5 @@ saraṇagamanaṃ (三皈依, ไตรสรณคมน์) - 巴利唸誦
        (`PDF <http://forestsanghapublications.org/assets/book/ChantingBook_rev2010.pdf>`__)
 
 .. [8] `บทสวดมนต์ ไตรสรณคมน์ <http://m.flash-mini.com/pray.php?id=6&sub=%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%AA%E0%B8%A3%E0%B8%93%E0%B8%84%E0%B8%A1%E0%B8%99%E0%B9%8C>`_
+
+.. [9] `Saraṇataya ［三帰依］－パーリ語 常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺 <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/paritta/Sarana_gamanam.htm>`_
