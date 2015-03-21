@@ -97,6 +97,14 @@
       `2 <{filename}/chanting/Methika/Pali-Mandarin-Chanting-Book/pali-chinese-chantingbook-part2.pdf>`__,
       `3 <{filename}/chanting/Methika/Pali-Mandarin-Chanting-Book/pali-chinese-chantingbook-part3.pdf>`__)
 
+* `Wat Dhammagunaram of Utah วัดธรรมคุณาราม รัฐยูท่าห์ (Wat Latyon or Layton Buddhist Temple) <http://www.watlayton.org/>`_
+
+  - `BUDDHIST CHANTING ON SUNDAY SERVICE <http://www.watlayton.org/attachments/view/?attach_id=16855>`_
+    (`mirror <{filename}/chanting/watlayton/BUDDHIST_CHANTING_ON_SUNDAY_SERVICE.pdf>`__)
+
+  - `Wat_Layton_Chanting_Book <http://www.watlayton.org/attachments/view/?attach_id=16856>`_
+    (`mirror <{filename}/chanting/watlayton/Wat_Layton_Chanting_Book_.pdf>`__)
+
 * Misc
 
   - `Pali Chants - Forest Meditation <http://forestmeditation.com/audio/audio.html>`_
@@ -117,3 +125,7 @@
   - `南傳佛教圖書館 Theravada Buddhism E-Library <http://kusala.online-dhamma.net/%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E5%9C%96%E6%9B%B8%E9%A4%A8%20Theravada%20Buddhism%20E-Library/>`_
 
   - `上座部パーリ語常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺－ <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/>`_
+
+  - `MonPitee (Pali Chanting) | suvaco bhikkhu thailand <https://suvacobhikkhu.wordpress.com/pali-chanting/>`_
+
+  - `หนังสือสวดมนต์ภาษาอังกฤษ บทสวดมนต์ภาษาอังกฤษ หนังสือสวดมนภาษาอังกฤษ  บทสวดมนภาษาอังกฤษ chanting book <http://chanting-book-for-buddha.blogspot.com/>`_
