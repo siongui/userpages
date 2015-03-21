@@ -30,6 +30,8 @@
 
   - `Pathamabuddhabhāsita Gāthā (佛陀的最初之言偈 ปฐมพุทธภาสิตคาถา) - 巴利唸誦 <{filename}../22/pathama-buddhabhaasita-pali-chanting%zh.rst>`_
 
+  - `Sabba Pattidāna Gāthā (迴向一切有情偈 สัพพปัตติทานคาถา) - 巴利唸誦 <{filename}../22/sabba-patti-daana-pali-chanting%zh.rst>`_
+
 * 巴蓬寺(`Wat Nong Pah Pong <http://www.watnongpahpong.org/indexe.php>`_)系統
 
   - `Wat Nong Pah Pong Chanting Book (Pali - Thai, romanized) <http://mahanyano.blogspot.com/2012/03/chanting-book.html>`_
@@ -53,7 +55,7 @@
 
   - `巴利經誦索引 <http://www.dhammatalks.org/Dhamma/Chanting/ChantIndex2.htm>`_
 
-* 瑪欣德尊者 編譯
+* `瑪欣德尊者 <http://baike.baidu.com/view/3793719.htm>`_ 編譯
 
   - `大護衛經 斯里蘭卡上座部佛教傳統 瑪欣德尊者 編譯 <http://www.dhammatalks.net/Chinese/Bhikkhu_Mahinda-Maha_Paritta.pdf>`_
     (`mirror <{filename}/chanting/Mahinda/Bhikkhu_Mahinda-Maha_Paritta.pdf>`__)
@@ -104,6 +106,14 @@
 
   - `Wat_Layton_Chanting_Book <http://www.watlayton.org/attachments/view/?attach_id=16856>`_
     (`mirror <{filename}/chanting/watlayton/Wat_Layton_Chanting_Book_.pdf>`__)
+
+* `Wat Buddhametta (Tucson Buddhist Meditation Center) <http://tucsonbuddhistcenter.org/>`_
+
+  - `Morning Chanting: Pali with English translation <http://tucsonbuddhistcenter.org/chanting/MorningChanting.pdf>`_
+    (`mirror <{filename}/chanting/WatBuddhametta/MorningChanting.pdf>`__)
+
+  - `Evening Chanting: Pali with English translation <http://tucsonbuddhistcenter.org/chanting/EveningChanting.pdf>`_
+    (`mirror <{filename}/chanting/WatBuddhametta/EveningChanting.pdf>`__)
 
 * Misc
 
