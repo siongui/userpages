@@ -88,6 +88,15 @@
 
   - `Chanting & Books Download <http://methika.com/chanting/>`__
 
+    + `Navakovāda- Instructions for Newly Ordained Bhikkhus and Samaneras <http://methika.com/books/navakovada/>`_
+      (PDF mirror `1 <{filename}/chanting/Methika/Navakovaada/Navakovada1.pdf>`__,
+      `2 <{filename}/chanting/Methika/Navakovaada/Navakovada2.pdf>`__,
+      `3 <{filename}/chanting/Methika/Navakovaada/Navakovada3.pdf>`__,
+      `4 <{filename}/chanting/Methika/Navakovaada/Navakovada4.pdf>`__)
+
+    + `75 Monastic Rules to be observed by Novices <http://methika.com/observance/the-novice-precepts/>`_
+      (`PDF mirror <{filename}/chanting/Methika/Novice-Precepts/Novice-75Precepts.pdf>`__)
+
     + `Thai-Pali Chanting Book <http://methika.com/pali-chanting/thai-pali-chanting-book/>`__
       (PDF mirror `1 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting1.pdf>`__,
       `2 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting2.pdf>`__,
@@ -105,6 +114,8 @@
       `14 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting14.pdf>`__)
 
     + `Pali-Thai-English Chanting Book <http://methika.com/chanting-book/>`__
+      (PDF mirror `1 <{filename}/chanting/Methika/Thai-Pali-English-Chanting-Book/palienglishthaichantingbook-1.pdf>`__,
+      `2 <{filename}/chanting/Methika/Thai-Pali-English-Chanting-Book/palienglishthaichantingbook-2.pdf>`__)
 
     + `Comprehensive English-Mandarin Pali Chanting Book <http://methika.com/comprehensive-english-mandarin-chanting-book/>`__
       (PDF mirror `1 <{filename}/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book1.PDF>`__,
