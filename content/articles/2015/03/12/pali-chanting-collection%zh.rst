@@ -1,14 +1,15 @@
-巴利課誦本整理
-##############
+巴利唸誦及課誦本整理
+####################
 
 :date: 2015-03-12 05:11
-:modified: 2015-03-22 05:13
+:modified: 2015-03-23 04:34
 :tags: 巴利語
 :category: 巴利唸誦
-:summary: 整理網路上關於巴利-英文-中文唸誦書本。
+:summary: 整理網路上關於巴利-英文-中文唸誦書本。以及巴利唸誦集合。
 
 
-* 巴利唸誦：
+巴利唸誦
+++++++++
 
   - `Maṅgalasuttaṃ (吉祥經, มงฺคลสุตฺตํ, มงคลปริตร) - 巴利唸誦 <{filename}../10/mangalasuttam-pali-chanting%zh.rst>`_
 
@@ -31,6 +32,13 @@
   - `Pathamabuddhabhāsita Gāthā (佛陀的最初之言偈 ปฐมพุทธภาสิตคาถา) - 巴利唸誦 <{filename}../22/pathama-buddhabhaasita-pali-chanting%zh.rst>`_
 
   - `Sabba Pattidāna Gāthā (迴向一切有情偈 สัพพปัตติทานคาถา) - 巴利唸誦 <{filename}../22/sabba-patti-daana-pali-chanting%zh.rst>`_
+
+  - `Mettā Pharaṇaṃ (慈心遍滿 คำแผ่เมตตา) - 巴利唸誦 <{filename}../22/mettaa-phara-pali-chanting%zh.rst>`_
+
+----
+
+課誦本
+++++++
 
 * 巴蓬寺(`Wat Nong Pah Pong <http://www.watnongpahpong.org/indexe.php>`_)系統
 
@@ -81,6 +89,20 @@
   - `Chanting & Books Download <http://methika.com/chanting/>`__
 
     + `Thai-Pali Chanting Book <http://methika.com/pali-chanting/thai-pali-chanting-book/>`__
+      (PDF mirror `1 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting1.pdf>`__,
+      `2 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting2.pdf>`__,
+      `3 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting3.pdf>`__,
+      `4 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting4.pdf>`__,
+      `5 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting5.pdf>`__,
+      `6 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting6.pdf>`__,
+      `7 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting7.pdf>`__,
+      `8 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting8.pdf>`__,
+      `9 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting9.pdf>`__,
+      `10 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting10.pdf>`__,
+      `11 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting11.pdf>`__,
+      `12 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting12.pdf>`__,
+      `13 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting13.pdf>`__,
+      `14 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting14.pdf>`__)
 
     + `Pali-Thai-English Chanting Book <http://methika.com/chanting-book/>`__
 
@@ -115,23 +137,32 @@
   - `Evening Chanting: Pali with English translation <http://tucsonbuddhistcenter.org/chanting/EveningChanting.pdf>`_
     (`mirror <{filename}/chanting/WatBuddhametta/EveningChanting.pdf>`__)
 
-* `帕奧禪林清凈之旅 PDF <http://kusala.online-dhamma.net/%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E5%9C%96%E6%9B%B8%E9%A4%A8%20Theravada%20Buddhism%20E-Library/077%20%E8%B3%87%E8%A8%8A/%E7%B7%AC%E7%94%B8%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E7%A6%AA%E4%BF%AE%E8%B3%87%E8%A8%8A/%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E6%B8%85%E5%87%88%E4%B9%8B%E6%97%85/%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E6%B8%85%E5%87%88%E4%B9%8B%E6%97%85%20PDF/>`_
+* `南傳佛教圖書館 Theravada Buddhism E-Library <http://kusala.online-dhamma.net/%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E5%9C%96%E6%9B%B8%E9%A4%A8%20Theravada%20Buddhism%20E-Library/>`_
 
-  - (比丘常用巴利作持文) `36 附錄三.pdf <http://kusala.online-dhamma.net/%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E5%9C%96%E6%9B%B8%E9%A4%A8%20Theravada%20Buddhism%20E-Library/077%20%E8%B3%87%E8%A8%8A/%E7%B7%AC%E7%94%B8%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E7%A6%AA%E4%BF%AE%E8%B3%87%E8%A8%8A/%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E6%B8%85%E5%87%88%E4%B9%8B%E6%97%85/%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E6%B8%85%E5%87%88%E4%B9%8B%E6%97%85%20PDF/36%20%E9%99%84%E9%8C%84%E4%B8%89.pdf>`_
-    (`mirror <{filename}/chanting/Pa-Auk/appendix3.pdf>`__)
+  - `帕奧禪林清凈之旅 PDF <http://kusala.online-dhamma.net/%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E5%9C%96%E6%9B%B8%E9%A4%A8%20Theravada%20Buddhism%20E-Library/077%20%E8%B3%87%E8%A8%8A/%E7%B7%AC%E7%94%B8%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E7%A6%AA%E4%BF%AE%E8%B3%87%E8%A8%8A/%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E6%B8%85%E5%87%88%E4%B9%8B%E6%97%85/%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E6%B8%85%E5%87%88%E4%B9%8B%E6%97%85%20PDF/>`_
 
+    + (比丘常用巴利作持文) `36 附錄三.pdf <http://kusala.online-dhamma.net/%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E5%9C%96%E6%9B%B8%E9%A4%A8%20Theravada%20Buddhism%20E-Library/077%20%E8%B3%87%E8%A8%8A/%E7%B7%AC%E7%94%B8%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E7%A6%AA%E4%BF%AE%E8%B3%87%E8%A8%8A/%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E6%B8%85%E5%87%88%E4%B9%8B%E6%97%85/%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E6%B8%85%E5%87%88%E4%B9%8B%E6%97%85%20PDF/36%20%E9%99%84%E9%8C%84%E4%B8%89.pdf>`_
+      (`mirror <{filename}/chanting/Pa-Auk/appendix3.pdf>`__)
 
-  - (巴利唸誦) `37 附錄四.pdf <http://kusala.online-dhamma.net/%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E5%9C%96%E6%9B%B8%E9%A4%A8%20Theravada%20Buddhism%20E-Library/077%20%E8%B3%87%E8%A8%8A/%E7%B7%AC%E7%94%B8%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E7%A6%AA%E4%BF%AE%E8%B3%87%E8%A8%8A/%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E6%B8%85%E5%87%88%E4%B9%8B%E6%97%85/%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E6%B8%85%E5%87%88%E4%B9%8B%E6%97%85%20PDF/37%20%E9%99%84%E9%8C%84%E5%8C%97.pdf>`_
-    (`mirror <{filename}/chanting/Pa-Auk/appendix4.pdf>`__)
+    + (巴利唸誦) `37 附錄四.pdf <http://kusala.online-dhamma.net/%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E5%9C%96%E6%9B%B8%E9%A4%A8%20Theravada%20Buddhism%20E-Library/077%20%E8%B3%87%E8%A8%8A/%E7%B7%AC%E7%94%B8%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E7%A6%AA%E4%BF%AE%E8%B3%87%E8%A8%8A/%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E6%B8%85%E5%87%88%E4%B9%8B%E6%97%85/%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E6%B8%85%E5%87%88%E4%B9%8B%E6%97%85%20PDF/37%20%E9%99%84%E9%8C%84%E5%8C%97.pdf>`_
+      (`mirror <{filename}/chanting/Pa-Auk/appendix4.pdf>`__)
 
-* Misc
+* `Buddhist Publication Society <http://www.bps.lk/>`_
 
-  - `Pali Chants - Forest Meditation <http://forestmeditation.com/audio/audio.html>`_
+  - `A Manual of Buddhist Chanting and Devotional Texts <http://www.bps.lk/olib/wh/wh054.pdf>`_
+    (`mirror <{filename}/chanting/BPS/wh054.pdf>`__)
+
+* `BuddhaNet <http://www.buddhanet.net/>`_
 
   - `Chanting Book - BuddhaNet <http://www.buddhanet.net/pdf_file/bookchant.pdf>`_
+    (`mirror <{filename}/chanting/BuddhaNet/bookchant.pdf>`__)
 
-  - `Traditional Pali Chants English <http://reading.buddhistdoor.com/en/item/d/1675>`_
-    (`Download <http://reading.buddhistdoor.com/resources/get/0448aa69fe6c4cd6b574fd054a1b3972f5bacd8f>`__)
+  - `Vandana: Album of Pali Devotional Chanting - BuddhaNet <http://www.buddhanet.net/pdf_file/vandana02.pdf>`_
+    (`mirror <{filename}/chanting/BuddhaNet/vandana02.pdf>`__)
+
+  - `Pali Chanting in Theravada Buddhist Tradition - BuddhaNet <http://www.buddhanet.net/pali_chant.htm>`_
+
+* `Nirotharam <http://www.nirotharam.com/>`_
 
   - `Chanting Book - Pali-Thai-English-Chinese [1.0] <http://www.nirotharam.com/book/English-ChineseChantingbook1.pdf>`_
     (`mirror <{filename}/chanting/nirotharam/English-ChineseChantingbook1.pdf>`__)
@@ -139,9 +170,17 @@
     `Daily Contemplation - Pali-Thai-English-Chinese Chanting Book 2 <http://www.nirotharam.com/book/English-ChineseChantingbook2.pdf>`_
     (`mirror <{filename}/chanting/nirotharam/English-ChineseChantingbook2.pdf>`__)
 
-  - `Pali in Thai Script <http://paliinthaiscript.blogspot.com/>`_
+* Misc
 
-  - `南傳佛教圖書館 Theravada Buddhism E-Library <http://kusala.online-dhamma.net/%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E5%9C%96%E6%9B%B8%E9%A4%A8%20Theravada%20Buddhism%20E-Library/>`_
+  - `Buddhist Pali chanting book - A Fellow Design <http://fellowdesigns.com/main/images/stories/palichanting_urw_csx_short.pdf>`_
+    (`mirror <{filename}/chanting/Dhammarato/palichanting_urw_csx_short.pdf>`__)
+
+  - `Pali Chants - Forest Meditation <http://forestmeditation.com/audio/audio.html>`_
+
+  - `Traditional Pali Chants English <http://reading.buddhistdoor.com/en/item/d/1675>`_
+    (`Download <http://reading.buddhistdoor.com/resources/get/0448aa69fe6c4cd6b574fd054a1b3972f5bacd8f>`__)
+
+  - `Pali in Thai Script <http://paliinthaiscript.blogspot.com/>`_
 
   - `上座部パーリ語常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺－ <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/>`_
 
