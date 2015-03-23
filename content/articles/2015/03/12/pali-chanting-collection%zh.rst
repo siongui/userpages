@@ -198,13 +198,17 @@
 
   - `Pali in Thai Script <http://paliinthaiscript.blogspot.com/>`_
 
+  - `Pali Sutta, Gatha and Paritta in Thai Script <http://sutta-sutra-pali-in-thai-script-lette.blogspot.com/>`_
+
   - `上座部パーリ語常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺－ <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/>`_
 
   - `MonPitee (Pali Chanting) | suvaco bhikkhu thailand <https://suvacobhikkhu.wordpress.com/pali-chanting/>`_
 
   - `หนังสือสวดมนต์ภาษาอังกฤษ บทสวดมนต์ภาษาอังกฤษ หนังสือสวดมนภาษาอังกฤษ  บทสวดมนภาษาอังกฤษ chanting book <http://chanting-book-for-buddha.blogspot.com/>`_
 
-  - `Chanting - Pali, Thai, English, and translation - Page 2 <http://www.thailandqa.com/forum/showthread.php?32134-Chanting-Pali-Thai-English-and-translation/page2>`_
+  - `Chanting - Pali, Thai, English, and translation <http://www.thailandqa.com/forum/showthread.php?32134-Chanting-Pali-Thai-English-and-translation>`_,
+    `Page 2 <http://www.thailandqa.com/forum/showthread.php?32134-Chanting-Pali-Thai-English-and-translation/page2>`__,
+    `Page 3 <http://www.thailandqa.com/forum/showthread.php?32134-Chanting-Pali-Thai-English-and-translation/page3>`__
 
   - `Anāpānasati Sutta in Pali and English - Leigh Brasington <http://www.leighb.com/mn118.htm>`_
 
