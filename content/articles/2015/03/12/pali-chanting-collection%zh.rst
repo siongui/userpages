@@ -11,29 +11,29 @@
 巴利唸誦
 ++++++++
 
-  - `Maṅgalasuttaṃ (吉祥經, มงฺคลสุตฺตํ, มงคลปริตร) - 巴利唸誦 <{filename}../10/mangalasuttam-pali-chanting%zh.rst>`_
+- `Maṅgalasuttaṃ (吉祥經, มงฺคลสุตฺตํ, มงคลปริตร) - 巴利唸誦 <{filename}../10/mangalasuttam-pali-chanting%zh.rst>`_
 
-  - `saraṇagamanaṃ (三皈依, ไตรสรณคมน์) - 巴利唸誦 <{filename}../10/saranattayam-pali-chanting%zh.rst>`_
+- `saraṇagamanaṃ (三皈依, ไตรสรณคมน์) - 巴利唸誦 <{filename}../10/saranattayam-pali-chanting%zh.rst>`_
 
-  - `Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈, โอวาทปาติโมกข์) - 巴利唸誦 <{filename}../11/ovada-patimokkha-pali-chanting%zh.rst>`_
+- `Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈, โอวาทปาติโมกข์) - 巴利唸誦 <{filename}../11/ovada-patimokkha-pali-chanting%zh.rst>`_
 
-  - `Jaya-maṅgala Gāthā (勝利吉祥偈) - 巴利唸誦 <{filename}jaya-mangala-attha-gatha-pali-chanting%zh.rst>`_
+- `Jaya-maṅgala Gāthā (勝利吉祥偈) - 巴利唸誦 <{filename}jaya-mangala-attha-gatha-pali-chanting%zh.rst>`_
 
-  - `Buddhānussati (佛隨念) - 巴利唸誦 <{filename}../13/buddhanussati-pali-chanting%zh.rst>`_
+- `Buddhānussati (佛隨念) - 巴利唸誦 <{filename}../13/buddhanussati-pali-chanting%zh.rst>`_
 
-  - `anumodanāvidhī (祝福) - 巴利唸誦 <{filename}../16/anumodanaavidhii-pali-chanting%zh.rst>`_
+- `anumodanāvidhī (祝福) - 巴利唸誦 <{filename}../16/anumodanaavidhii-pali-chanting%zh.rst>`_
 
-  - `uddisanādhiṭṭhāna gāthā (迴向許願文, อุททิสสนาธิฏฐาน คาถา) - 巴利唸誦 <{filename}../18/uddisana-dhitthana-gatha-pali-chanting%zh.rst>`_
+- `uddisanādhiṭṭhāna gāthā (迴向許願文, อุททิสสนาธิฏฐาน คาถา) - 巴利唸誦 <{filename}../18/uddisana-dhitthana-gatha-pali-chanting%zh.rst>`_
 
-  - `Pacchimabuddhovāda pāṭhaṃ (佛陀的最後之言誦 ปัจฉิมพุทโธวาทปาฐะ) - 巴利唸誦 <{filename}../19/pacchimabuddhovaada-pali-chanting%zh.rst>`_
+- `Pacchimabuddhovāda pāṭhaṃ (佛陀的最後之言誦 ปัจฉิมพุทโธวาทปาฐะ) - 巴利唸誦 <{filename}../19/pacchimabuddhovaada-pali-chanting%zh.rst>`_
 
-  - `bhojanadānānumodanāgāthā (供養食物感恩偈) - 巴利唸誦 <{filename}../21/bhojanadaanaanumodanaa-gaathaa-pali-chanting%zh.rst>`_
+- `bhojanadānānumodanāgāthā (供養食物感恩偈) - 巴利唸誦 <{filename}../21/bhojanadaanaanumodanaa-gaathaa-pali-chanting%zh.rst>`_
 
-  - `Pathamabuddhabhāsita Gāthā (佛陀的最初之言偈 ปฐมพุทธภาสิตคาถา) - 巴利唸誦 <{filename}../22/pathama-buddhabhaasita-pali-chanting%zh.rst>`_
+- `Pathamabuddhabhāsita Gāthā (佛陀的最初之言偈 ปฐมพุทธภาสิตคาถา) - 巴利唸誦 <{filename}../22/pathama-buddhabhaasita-pali-chanting%zh.rst>`_
 
-  - `Sabba Pattidāna Gāthā (迴向一切有情偈 สัพพปัตติทานคาถา) - 巴利唸誦 <{filename}../22/sabba-patti-daana-pali-chanting%zh.rst>`_
+- `Sabba Pattidāna Gāthā (迴向一切有情偈 สัพพปัตติทานคาถา) - 巴利唸誦 <{filename}../22/sabba-patti-daana-pali-chanting%zh.rst>`_
 
-  - `Mettā Pharaṇaṃ (慈心遍滿 คำแผ่เมตตา) - 巴利唸誦 <{filename}../22/mettaa-phara-pali-chanting%zh.rst>`_
+- `Mettā Pharaṇaṃ (慈心遍滿 คำแผ่เมตตา) - 巴利唸誦 <{filename}../22/mettaa-phara-pali-chanting%zh.rst>`_
 
 ----
 
@@ -178,8 +178,13 @@
   - `Chanting Book - Pali-Thai-English-Chinese [1.0] <http://www.nirotharam.com/book/English-ChineseChantingbook1.pdf>`_
     (`mirror <{filename}/chanting/nirotharam/English-ChineseChantingbook1.pdf>`__)
 
-    `Daily Contemplation - Pali-Thai-English-Chinese Chanting Book 2 <http://www.nirotharam.com/book/English-ChineseChantingbook2.pdf>`_
+  - `Daily Contemplation - Pali-Thai-English-Chinese Chanting Book 2 <http://www.nirotharam.com/book/English-ChineseChantingbook2.pdf>`_
     (`mirror <{filename}/chanting/nirotharam/English-ChineseChantingbook2.pdf>`__)
+
+* `Samatha Buddhist Meditation <http://www.samatha.org/>`_
+
+  - `Chanting Book <http://www.bahaistudies.net/asma/samatha4.pdf>`__
+    (`mirror <{filename}/chanting/SamathaTrust/samatha4.pdf>`__)
 
 * Misc
 
@@ -198,3 +203,10 @@
   - `MonPitee (Pali Chanting) | suvaco bhikkhu thailand <https://suvacobhikkhu.wordpress.com/pali-chanting/>`_
 
   - `หนังสือสวดมนต์ภาษาอังกฤษ บทสวดมนต์ภาษาอังกฤษ หนังสือสวดมนภาษาอังกฤษ  บทสวดมนภาษาอังกฤษ chanting book <http://chanting-book-for-buddha.blogspot.com/>`_
+
+  - `Chanting - Pali, Thai, English, and translation - Page 2 <http://www.thailandqa.com/forum/showthread.php?32134-Chanting-Pali-Thai-English-and-translation/page2>`_
+
+  - `Anāpānasati Sutta in Pali and English - Leigh Brasington <http://www.leighb.com/mn118.htm>`_
+
+  - `Chanting – Blessings (english) - BuddhismInfo.se <http://www.buddhisminfo.se/pdf/tobias/Recitation_-_Blessings_(english).pdf>`_
+    (`mirror <{filename}/chanting/TobiasHeed/Recitation_-_Blessings_(english).pdf>`__)

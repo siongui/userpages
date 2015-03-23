@@ -140,6 +140,8 @@ Mettā Pharaṇaṃ (慈心遍滿 คำแผ่เมตตา) - 巴利唸誦
 
 .. [13] `南传佛教早晚课诵（汉巴对照及注释） <http://www.china2551.org/Article/dffj/z/200710/768.html>`_
 
+.. [14] `Metta bhāvanā ［慈観］－パーリ語 常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺 <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/paritta/Metta_Bhavana.htm>`_
+
 
 
 .. _เมตตาผะระณัง: http://www.aia.or.th/prayer02.htm
