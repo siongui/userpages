@@ -2,7 +2,7 @@
 ########################################
 
 :date: 2015-03-11 20:59
-:tags: Go, Golang, Signal
+:tags: Go, Golang, Signal, Goroutine, Go Channels
 :category: Go
 :summary: Run cleanup function when receiving ^C signal.
 
