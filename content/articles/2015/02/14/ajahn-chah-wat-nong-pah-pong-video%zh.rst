@@ -30,3 +30,9 @@
 .. container:: align-center video-container-description
 
   正念之道(The Mindful Way)，中文字幕
+
+----
+
+影片：
+
+.. [1] `The Buddha Comes to Sussex (In English) 佛陀東來－阿姜查到訪英倫 (中文字幕) - YouTube <https://youtu.be/H5-Fzob9MZc>`_
