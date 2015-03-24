@@ -3,7 +3,7 @@
 
 :date: 2015-03-16 18:56
 :modified: 2015-03-24 04:56
-:tags: 泰國, 阿姜蘇美多, 隆波蘇美多, Ajahn Sumedho, Luang Por Sumedho
+:tags: 泰國, 阿姜蘇美多, 隆波蘇美多, Ajahn Sumedho, Luang Por Sumedho, 影片
 :category: 阿姜查
 :summary: 隆波蘇美多(Sumedho)於2015年3月於馬來西亞的開示
 :og_image: https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/s720x720/11026279_791062614305730_6211127688382117692_o.jpg

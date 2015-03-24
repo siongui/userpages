@@ -173,5 +173,8 @@ Maṅgalasuttaṃ (吉祥經, มงฺคลสุตฺตํ, มงคลป
 
 .. [16] `Maṅgala sutta ［吉祥経］－パーリ語 常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺 <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/paritta/Mangala_sutta.htm>`_
 
+.. [17] `Mangalasuttang - YouTube <https://youtu.be/KHGPsrjZiOg>`_
+
+
 
 .. _隆波Boonchu: {filename}../../../2012/05/15/wat-pah-bodhiyan-aka-wat-khuen%zh.rst

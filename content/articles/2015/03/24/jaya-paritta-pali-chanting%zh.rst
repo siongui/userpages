@@ -121,7 +121,7 @@ Jaya Paritta Gāthā (勝利護衛偈) - 巴利唸誦
 .. [1] `勝利護衛偈 <http://www.dhammatalks.org/Dhamma/Chanting/Verses2.htm#Jaya>`_ -
        `巴英中對照-課誦 <http://www.dhammatalks.org/Dhamma/Chanting/Verses2.htm>`_
 
-影片：
+其他唸誦：
 
 .. [2] `Paritta Chanting Jayaparittam - YouTube <https://youtu.be/GOVJ2Pj-1ys>`_
 

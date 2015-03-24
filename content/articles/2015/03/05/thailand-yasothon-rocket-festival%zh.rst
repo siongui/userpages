@@ -2,7 +2,7 @@
 ##############
 
 :date: 2015-03-05 22:25
-:tags: 泰國, 驚奇
+:tags: 泰國, 驚奇, 影片
 :category: 驚奇
 :summary: 每年五月泰國東北部的亞索通府舉行的火箭節(Yasothon Bun Bangfai Rocket Festival)
 

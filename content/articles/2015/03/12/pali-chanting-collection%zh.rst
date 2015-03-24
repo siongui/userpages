@@ -2,7 +2,7 @@
 ####################
 
 :date: 2015-03-12 05:11
-:modified: 2015-03-23 04:34
+:modified: 2015-03-25 04:56
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: 整理網路上關於巴利-英文-中文唸誦書本。以及巴利唸誦集合。
@@ -38,6 +38,8 @@
 - `Cha Ratana Paritta Gāthā (三寶護衛偈) - 巴利唸誦 <{filename}../24/cha-ratana-paritta-pali-chanting%zh.rst>`_
 
 - `Jaya Paritta Gāthā (勝利護衛偈) - 巴利唸誦 <{filename}../24/jaya-paritta-pali-chanting%zh.rst>`_
+
+- `Karaṇīya Mettā Sutta (應作慈愛經) - 巴利唸誦 <{filename}../25/karaniiya-mettaa-pali-chanting%zh.rst>`_
 
 ----
 

@@ -8,6 +8,10 @@
 :og_image: http://mmbiz.qpic.cn/mmbiz/Jk15lWl78GP3YmYiap83g1zicaAiciaa3H3a8ibfDDI7JZBpe76jXMHtMH9hh5w4VKAuXicvaVYaJHft6ntr8drtfdYQ/0
 
 
+.. image:: http://mmbiz.qpic.cn/mmbiz/Jk15lWl78GP3YmYiap83g1zicaAiciaa3H3a8ibfDDI7JZBpe76jXMHtMH9hh5w4VKAuXicvaVYaJHft6ntr8drtfdYQ/0
+   :align: center
+   :alt: Living Without Money 不花錢過生活
+
 簡介 [1]_
 
 不花錢過生活

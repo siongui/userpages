@@ -207,3 +207,8 @@ Jaya-maṅgala Gāthā (勝利吉祥偈) - 巴利唸誦
        (`PDF <http://www.asoka-vihara.com/ebook/eb_05_131119/eb005_pdf.pdf>`__)
 
 .. [7] `上座部佛教唸誦集 - 瑪欣德尊者 編譯 <http://www.dhammatalks.net/Chinese/Bhikkhu_Mahinda-Puja.pdf>`_
+
+
+其他唸誦：
+
+.. [8] `Bahung - YouTube <https://youtu.be/NxKCp4G_-ac>`_

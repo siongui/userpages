@@ -165,11 +165,13 @@ Cha Ratana Paritta Gāthā (三寶護衛偈) - 巴利唸誦
 .. [1] `三寶護衛偈 <http://www.dhammatalks.org/Dhamma/Chanting/Verses2.htm#Ratana>`_ -
        `巴英中對照-課誦 <http://www.dhammatalks.org/Dhamma/Chanting/Verses2.htm>`_
 
-影片：
+其他唸誦：
 
 .. [2] `Paritta Chanting Ratanasuttam - YouTube <https://youtu.be/zZXiQqOi6p0>`_
 
 .. [3] `Ratanasuttam.FLV - YouTube <https://youtu.be/flKKVxeXMp0>`_
+
+.. [4] `Rattanasuttang - YouTube <https://youtu.be/4gsJBHQ-6PM>`_
 
 
 .. _Pali Chants | dhammatalks.org: http://www.dhammatalks.org/chant_index.html
