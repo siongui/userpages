@@ -35,6 +35,10 @@
 
 - `Mettā Pharaṇaṃ (慈心遍滿 คำแผ่เมตตา) - 巴利唸誦 <{filename}../22/mettaa-phara-pali-chanting%zh.rst>`_
 
+- `Cha Ratana Paritta Gāthā (三寶護衛偈) - 巴利唸誦 <{filename}../24/cha-ratana-paritta-pali-chanting%zh.rst>`_
+
+- `Jaya Paritta Gāthā (勝利護衛偈) - 巴利唸誦 <{filename}../24/jaya-paritta-pali-chanting%zh.rst>`_
+
 ----
 
 課誦本
