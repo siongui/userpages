@@ -12,12 +12,14 @@
 ++++++++
 
 - `Maṅgalasuttaṃ (吉祥經, มงฺคลสุตฺตํ, มงคลปริตร) - 巴利唸誦 <{filename}../10/mangalasuttam-pali-chanting%zh.rst>`_
+  (護衛經 `Paritta <http://en.wikipedia.org/wiki/Paritta>`__)
 
 - `saraṇagamanaṃ (三皈依, ไตรสรณคมน์) - 巴利唸誦 <{filename}../10/saranattayam-pali-chanting%zh.rst>`_
 
 - `Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈, โอวาทปาติโมกข์) - 巴利唸誦 <{filename}../11/ovada-patimokkha-pali-chanting%zh.rst>`_
 
 - `Jaya-maṅgala Gāthā (勝利吉祥偈) - 巴利唸誦 <{filename}jaya-mangala-attha-gatha-pali-chanting%zh.rst>`_
+  (護衛經 `Paritta <http://en.wikipedia.org/wiki/Paritta>`__)
 
 - `Buddhānussati (佛隨念) - 巴利唸誦 <{filename}../13/buddhanussati-pali-chanting%zh.rst>`_
 
@@ -36,10 +38,13 @@
 - `Mettā Pharaṇaṃ (慈心遍滿 คำแผ่เมตตา) - 巴利唸誦 <{filename}../22/mettaa-phara-pali-chanting%zh.rst>`_
 
 - `Cha Ratana Paritta Gāthā (三寶護衛偈) - 巴利唸誦 <{filename}../24/cha-ratana-paritta-pali-chanting%zh.rst>`_
+  (護衛經 `Paritta <http://en.wikipedia.org/wiki/Paritta>`__)
 
 - `Jaya Paritta Gāthā (勝利護衛偈) - 巴利唸誦 <{filename}../24/jaya-paritta-pali-chanting%zh.rst>`_
+  (護衛經 `Paritta <http://en.wikipedia.org/wiki/Paritta>`__)
 
 - `Karaṇīya Mettā Sutta (應作慈愛經) - 巴利唸誦 <{filename}../25/karaniiya-mettaa-pali-chanting%zh.rst>`_
+  (護衛經 `Paritta <http://en.wikipedia.org/wiki/Paritta>`__)
 
 ----
 
@@ -62,8 +67,6 @@
 
   - `A Chanting Gude: Pali Passages with English Translations <http://www.dhammatalks.org/Archive/Writings/ChantingGuideWithIndex.pdf>`_
     (`mirror <{filename}/chanting/Thanissaro/ChantingGuideWithIndex.pdf>`__)
-
-  - `Pali Chants | dhammatalks.org <http://www.dhammatalks.org/chant_index.html>`_
 
   - `Pali chanting by the Wat Metta Sangha - Dhammatalks.org <http://www.dhammatalks.org/Archive/Chants/Chants.html>`_
 
@@ -197,8 +200,6 @@
   - `Buddhist Pali chanting book - A Fellow Design <http://fellowdesigns.com/main/images/stories/palichanting_urw_csx_short.pdf>`_
     (`mirror <{filename}/chanting/Dhammarato/palichanting_urw_csx_short.pdf>`__)
 
-  - `Pali Chants - Forest Meditation <http://forestmeditation.com/audio/audio.html>`_
-
   - `Traditional Pali Chants English <http://reading.buddhistdoor.com/en/item/d/1675>`_
     (`Download <http://reading.buddhistdoor.com/resources/get/0448aa69fe6c4cd6b574fd054a1b3972f5bacd8f>`__)
 
@@ -220,3 +221,53 @@
 
   - `Chanting – Blessings (english) - BuddhismInfo.se <http://www.buddhisminfo.se/pdf/tobias/Recitation_-_Blessings_(english).pdf>`_
     (`mirror <{filename}/chanting/TobiasHeed/Recitation_-_Blessings_(english).pdf>`__)
+
+
+影音
+++++
+
+- `護衛經唱誦mp3 <http://140.118.155.213/mbsc/public_html/wordpress/?p=179>`__
+
+  * `曲01 <https://dl.dropboxusercontent.com/u/86358946/%E8%AD%B7%E8%A1%9B%E7%B6%93mp3/01%20%E6%9B%B2%E7%9B%AE%201.mp3>`_
+
+  * `曲02 <https://dl.dropboxusercontent.com/u/86358946/%E8%AD%B7%E8%A1%9B%E7%B6%93mp3/02%20%E6%9B%B2%E7%9B%AE%202.mp3>`_
+
+  * `曲03 <https://dl.dropboxusercontent.com/u/86358946/%E8%AD%B7%E8%A1%9B%E7%B6%93mp3/03%20%E6%9B%B2%E7%9B%AE%203.mp3>`_
+
+  * `曲04 <https://dl.dropboxusercontent.com/u/86358946/%E8%AD%B7%E8%A1%9B%E7%B6%93mp3/04%20%E6%9B%B2%E7%9B%AE%204.mp3>`_
+
+  * `曲05 <https://dl.dropboxusercontent.com/u/86358946/%E8%AD%B7%E8%A1%9B%E7%B6%93mp3/05%20%E6%9B%B2%E7%9B%AE%205.mp3>`_
+
+  * `曲06 <https://dl.dropboxusercontent.com/u/86358946/%E8%AD%B7%E8%A1%9B%E7%B6%93mp3/06%20%E6%9B%B2%E7%9B%AE%206.mp3>`_
+
+  * `曲07 <https://dl.dropboxusercontent.com/u/86358946/%E8%AD%B7%E8%A1%9B%E7%B6%93mp3/07%20%E6%9B%B2%E7%9B%AE%207.mp3>`_
+
+  * `曲08 <https://dl.dropboxusercontent.com/u/86358946/%E8%AD%B7%E8%A1%9B%E7%B6%93mp3/08%20%E6%9B%B2%E7%9B%AE%208.mp3>`_
+
+  * `曲09 <https://dl.dropboxusercontent.com/u/86358946/%E8%AD%B7%E8%A1%9B%E7%B6%93mp3/09%20%E6%9B%B2%E7%9B%AE%209.mp3>`_
+
+  * `曲10 <https://dl.dropboxusercontent.com/u/86358946/%E8%AD%B7%E8%A1%9B%E7%B6%93mp3/10%20%E6%9B%B2%E7%9B%AE%2010.mp3>`_
+
+  * `曲11 <https://dl.dropboxusercontent.com/u/86358946/%E8%AD%B7%E8%A1%9B%E7%B6%93mp3/11%20%E6%9B%B2%E7%9B%AE%2011.mp3>`_
+
+  * `曲12 <https://dl.dropboxusercontent.com/u/86358946/%E8%AD%B7%E8%A1%9B%E7%B6%93mp3/12%20%E6%9B%B2%E7%9B%AE%2012.mp3>`_
+
+  * `曲13 <https://dl.dropboxusercontent.com/u/86358946/%E8%AD%B7%E8%A1%9B%E7%B6%93mp3/13%20%E6%9B%B2%E7%9B%AE%2013.mp3>`_
+
+  * `曲14 <https://dl.dropboxusercontent.com/u/86358946/%E8%AD%B7%E8%A1%9B%E7%B6%93mp3/14%20%E6%9B%B2%E7%9B%AE%2014.mp3>`_
+
+  * `曲15 <https://dl.dropboxusercontent.com/u/86358946/%E8%AD%B7%E8%A1%9B%E7%B6%93mp3/15%20%E6%9B%B2%E7%9B%AE%2015.mp3>`_
+
+- `Overnight Chanting 大護衛經念誦 <http://tw.streetvoice.com/Sadhu/songs/album/97257305/>`_
+
+- `Buddhist Chanting - Thai Traditional Way <http://www.mybuddha108.com/viideo_link.html>`_
+
+- `Pali Chants - Forest Meditation <http://forestmeditation.com/audio/audio.html>`_
+
+- `Rich Tran - YouTube <https://www.youtube.com/user/richtranpro>`_
+
+- `Margo Somboon - YouTube <https://www.youtube.com/user/Mook424>`_
+
+- `Pali Chants | dhammatalks.org <http://www.dhammatalks.org/chant_index.html>`_
+
+- `BuddhaNet Audio: Chanting <http://www.buddhanet.net/audio-chant.htm>`_
