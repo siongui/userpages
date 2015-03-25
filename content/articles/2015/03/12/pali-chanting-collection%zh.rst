@@ -98,6 +98,8 @@
   - `[PDF] 南傳佛教課誦本 <http://211.72.214.103/gkv/book/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E8%AA%B2%E8%AA%A6%E6%9C%AC-%E4%B8%AD%E7%B9%81.pdf>`_
     (`mirror <{filename}/chanting/Dhammavaro/buddhism-chanting-cht.pdf>`__)
 
+  - `法增法師- Buddhist eLibrary <http://www.buddhistelibrary.net/cpg1420/thumbnails.php?album=85&page=9>`_
+
 * `Samathidhammaram Centre <http://methika.com/>`_
 
   - `Chanting & Books Download <http://methika.com/chanting/>`__
@@ -199,6 +201,15 @@
 
   - `Chanting Book <http://www.bahaistudies.net/asma/samatha4.pdf>`__
     (`mirror <{filename}/chanting/SamathaTrust/samatha4.pdf>`__)
+
+* `タイ仏教 | mixiコミュニティ <http://mixi.jp/view_community.pl?id=568167>`_ (泰國佛教，Thai Buddhism)
+
+  - `朝のお経（僧侶編） <http://mixi.jp/view_bbs.pl?comm_id=568167&id=57820764>`_
+
+* `BUDDHIST LIBRARY FOR YOUTH (BLY) | Wat Kraya <https://krayayouth.wordpress.com/>`_
+
+  - `Catubhāṇavārapāḷi Paritta Chanting E Book <https://krayayouth.files.wordpress.com/2012/07/paritta-chanting-e-book.pdf>`_
+    (`mirror <{filename}/chanting/WatKraya/paritta-chanting-e-book.pdf>`__)
 
 * Misc
 
