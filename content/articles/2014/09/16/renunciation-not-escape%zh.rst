@@ -62,3 +62,5 @@
 .. raw:: html
 
   <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/517621718271813/photos/a.518636898170295.121968.517621718271813/823569341010381/?type=1" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/517621718271813/photos/a.518636898170295.121968.517621718271813/823569341010381/?type=1">Post</a> by <a href="https://www.facebook.com/pages/%E5%AF%A7%E9%9D%9C%E4%B9%8B%E8%81%B2/517621718271813">寧靜之聲</a>.</div></div>
+
+`达真堪布：出离心是勇敢的心 <http://www.fodizi.net/qt/dazhenkanbu/5153.html>`_
