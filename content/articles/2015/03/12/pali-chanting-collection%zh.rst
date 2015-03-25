@@ -88,6 +88,11 @@
 
   - `佛教朝暮课诵第七版 <https://skydrive.live.com/?cid=a88ae0574c8756ae#cid=A88AE0574C8756AE&id=A88AE0574C8756AE%21353>`_
 
+    + `南传上座部佛教 <http://theravadins.org/>`_
+
+      - `南传佛教朝暮课诵本(2013年第七版2015年1月修订) 184x260.pdf <http://theravadins.org/tipitaka/chanting-prittia/chanting-morning-evening/at_download/file>`_
+        (`mirror <{filename}/chanting/Dhammavaro/2013v7-2015JanRev.pdf>`__)
+
   - `南传护卫经偈第一版 <https://skydrive.live.com/?cid=a88ae0574c8756ae#cid=A88AE0574C8756AE&id=A88AE0574C8756AE%211493>`_
 
   - `[PDF] 南傳佛教課誦本 <http://211.72.214.103/gkv/book/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E8%AA%B2%E8%AA%A6%E6%9C%AC-%E4%B8%AD%E7%B9%81.pdf>`_
@@ -226,6 +231,19 @@
 影音
 ++++
 
+- `Pali Chants | dhammatalks.org <http://www.dhammatalks.org/chant_index.html>`_
+
+- `Pali Chants - Forest Meditation <http://forestmeditation.com/audio/audio.html>`_
+
+- `Buddhist Chanting - Thai Traditional Way <http://www.mybuddha108.com/viideo_link.html>`_
+
+- `motionclip88 - YouTube <https://www.youtube.com/user/motionclip88>`_
+  (`motionclip88 - Trending Videos <http://trendingvideos.net/user/UCdSQ5P0S4lX4vdiC2SKL9Yw>`_)
+
+- `Rich Tran - YouTube <https://www.youtube.com/user/richtranpro>`_
+
+- `Margo Somboon - YouTube <https://www.youtube.com/user/Mook424>`_
+
 - `護衛經唱誦mp3 <http://140.118.155.213/mbsc/public_html/wordpress/?p=179>`__
 
   * `曲01 <https://dl.dropboxusercontent.com/u/86358946/%E8%AD%B7%E8%A1%9B%E7%B6%93mp3/01%20%E6%9B%B2%E7%9B%AE%201.mp3>`_
@@ -259,15 +277,5 @@
   * `曲15 <https://dl.dropboxusercontent.com/u/86358946/%E8%AD%B7%E8%A1%9B%E7%B6%93mp3/15%20%E6%9B%B2%E7%9B%AE%2015.mp3>`_
 
 - `Overnight Chanting 大護衛經念誦 <http://tw.streetvoice.com/Sadhu/songs/album/97257305/>`_
-
-- `Buddhist Chanting - Thai Traditional Way <http://www.mybuddha108.com/viideo_link.html>`_
-
-- `Pali Chants - Forest Meditation <http://forestmeditation.com/audio/audio.html>`_
-
-- `Rich Tran - YouTube <https://www.youtube.com/user/richtranpro>`_
-
-- `Margo Somboon - YouTube <https://www.youtube.com/user/Mook424>`_
-
-- `Pali Chants | dhammatalks.org <http://www.dhammatalks.org/chant_index.html>`_
 
 - `BuddhaNet Audio: Chanting <http://www.buddhanet.net/audio-chant.htm>`_
