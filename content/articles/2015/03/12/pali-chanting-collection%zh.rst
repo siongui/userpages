@@ -46,6 +46,8 @@
 - `Karaṇīya Mettā Sutta (應作慈愛經) - 巴利唸誦 <{filename}../25/karaniiya-mettaa-pali-chanting%zh.rst>`_
   (護衛經 `Paritta <http://en.wikipedia.org/wiki/Paritta>`__)
 
+- `dhātupaṭikūla paccavekkhaṇa pāṭha (元素及厭逆的省思, ธาตุปฏิกูลปัจจเวกขณปาฐะ) - 巴利唸誦 <{filename}../26/dhaatu-patikuula-paccavekkhana-pali-chanting%zh.rst>`_
+
 ----
 
 課誦本
@@ -259,6 +261,8 @@
 - `Rich Tran - YouTube <https://www.youtube.com/user/richtranpro>`_
 
 - `Margo Somboon - YouTube <https://www.youtube.com/user/Mook424>`_
+
+- `Wullop Khin - YouTube <https://www.youtube.com/user/WullopPornruangwong>`_
 
 - `護衛經唱誦mp3 <http://140.118.155.213/mbsc/public_html/wordpress/?p=179>`__
 
