@@ -206,6 +206,8 @@
 
   - `朝のお経（僧侶編） <http://mixi.jp/view_bbs.pl?comm_id=568167&id=57820764>`_
 
+  - `朝のお経（僧侶編） - 仏教での瞑想と生き方に関して <http://mixi.jp/view_bbs.pl?comm_id=3165006&id=57820790>`_
+
 * `BUDDHIST LIBRARY FOR YOUTH (BLY) | Wat Kraya <https://krayayouth.wordpress.com/>`_
 
   - `Catubhāṇavārapāḷi Paritta Chanting E Book <https://krayayouth.files.wordpress.com/2012/07/paritta-chanting-e-book.pdf>`_
@@ -237,6 +239,9 @@
 
   - `Chanting – Blessings (english) - BuddhismInfo.se <http://www.buddhisminfo.se/pdf/tobias/Recitation_-_Blessings_(english).pdf>`_
     (`mirror <{filename}/chanting/TobiasHeed/Recitation_-_Blessings_(english).pdf>`__)
+
+  - `Chanting Book of Wat Phra Dhātu Srī Chomtong Voravihāra <http://vipassanasangha.free.fr/ChantingBook.pdf>`_
+    (`mirror <{filename}/chanting/Chomtong/ChantingBook.pdf>`__)
 
 
 影音
