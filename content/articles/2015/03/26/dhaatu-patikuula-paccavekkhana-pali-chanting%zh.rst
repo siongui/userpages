@@ -122,11 +122,13 @@ dhātupaṭikūla paccavekkhaṇa pāṭha (元素及厭逆的省思, ธาต�
 
 .. [12] `ธาตุปัจจเวกขณปาฐะ - YouTube <https://youtu.be/h_E82BVaB1s>`_
 
+.. [13] `Paritta Chanting Dhatupatikulapaccavekkhanpatha - YouTube <https://youtu.be/Pz4FRmifl8A>`_
+
 搜尋：
 
-.. [13] DuckDuckGo Search `dhātupaṭikūla <https://duckduckgo.com/?q=dh%C4%81tupa%E1%B9%ADik%C5%ABla>`_
+.. [14] DuckDuckGo Search `dhātupaṭikūla <https://duckduckgo.com/?q=dh%C4%81tupa%E1%B9%ADik%C5%ABla>`_
 
-.. [14] Google Search `Passages on Recollection of the Elements and Loathsomeness <https://www.google.com/search?q=Passages+on+Recollection+of+the+Elements+and+Loathsomeness>`_
+.. [15] Google Search `Passages on Recollection of the Elements and Loathsomeness <https://www.google.com/search?q=Passages+on+Recollection+of+the+Elements+and+Loathsomeness>`_
 
 
 

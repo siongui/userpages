@@ -173,7 +173,11 @@ Maṅgalasuttaṃ (吉祥經, มงฺคลสุตฺตํ, มงคลป
 
 .. [16] `Maṅgala sutta ［吉祥経］－パーリ語 常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺 <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/paritta/Mangala_sutta.htm>`_
 
+其他唸誦：
+
 .. [17] `Mangalasuttang - YouTube <https://youtu.be/KHGPsrjZiOg>`_
+
+.. [18] `02. Mangala Sutta - YouTube <https://www.youtube.com/watch?v=Pn5ZPpQA7UM>`_
 
 
 

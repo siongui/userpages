@@ -176,6 +176,8 @@ Karaṇīya Mettā Sutta (應作慈愛經) - 巴利唸誦
 
 .. [4] `Karaniya Metta Suttang - YouTube <https://youtu.be/l0pAFT9rXO8>`_
 
+.. [5] `Karaniya Metta Sutta in Pali - YouTube <https://www.youtube.com/watch?v=igHQVc1FP0o>`_
+
 
 
 .. _Pali Chants | dhammatalks.org: http://www.dhammatalks.org/chant_index.html

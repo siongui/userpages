@@ -2,7 +2,7 @@
 ####################
 
 :date: 2015-03-12 05:11
-:modified: 2015-03-25 04:56
+:modified: 2015-03-26 04:15
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: 整理網路上關於巴利-英文-中文唸誦書本。以及巴利唸誦集合。
@@ -47,6 +47,9 @@
   (護衛經 `Paritta <http://en.wikipedia.org/wiki/Paritta>`__)
 
 - `dhātupaṭikūla paccavekkhaṇa pāṭha (元素及厭逆的省思, ธาตุปฏิกูลปัจจเวกขณปาฐะ) - 巴利唸誦 <{filename}../26/dhaatu-patikuula-paccavekkhana-pali-chanting%zh.rst>`_
+
+- `Khandha Paritta (蘊護衛偈, The Group Protection, ขันธปริตร) - 巴利唸誦 <{filename}../26/khandha-paritta-pali-chanting%zh.rst>`_
+  (護衛經 `Paritta <http://en.wikipedia.org/wiki/Paritta>`__)
 
 ----
 
@@ -252,17 +255,27 @@
 - `Pali Chants | dhammatalks.org <http://www.dhammatalks.org/chant_index.html>`_
 
 - `Pali Chants - Forest Meditation <http://forestmeditation.com/audio/audio.html>`_
+  (Thai)
 
 - `Buddhist Chanting - Thai Traditional Way <http://www.mybuddha108.com/viideo_link.html>`_
 
 - `motionclip88 - YouTube <https://www.youtube.com/user/motionclip88>`_
   (`motionclip88 - Trending Videos <http://trendingvideos.net/user/UCdSQ5P0S4lX4vdiC2SKL9Yw>`_)
+  (Thai)
 
 - `Rich Tran - YouTube <https://www.youtube.com/user/richtranpro>`_
+  (Mirror of motionclip88)
 
 - `Margo Somboon - YouTube <https://www.youtube.com/user/Mook424>`_
+  (Thai)
 
 - `Wullop Khin - YouTube <https://www.youtube.com/user/WullopPornruangwong>`_
+  (Thai)
+
+- `Popular Paritta Videos - YouTube <https://www.youtube.com/playlist?list=PLDiR7UP2tjPKAwY6zqP564nn_OLgkVt4y>`_
+
+- `Ashin Sumana Nanda - YouTube <https://www.youtube.com/channel/UCEP5Ltu_NcY4cb3tKbow2aQ>`_
+  (Myanmar)
 
 - `護衛經唱誦mp3 <http://140.118.155.213/mbsc/public_html/wordpress/?p=179>`__
 
