@@ -51,6 +51,8 @@
 - `Khandha Paritta (蘊護衛偈, The Group Protection, ขันธปริตร) - 巴利唸誦 <{filename}../26/khandha-paritta-pali-chanting%zh.rst>`_
   (護衛經 `Paritta <http://en.wikipedia.org/wiki/Paritta>`__)
 
+- `abhiṇha paccavekkhaṇa pāṭha (經常省察文, อภิณหปัจจเวกขณปาฐะ) - 巴利唸誦 <{filename}../26/abhinha-paccavekkhana-pali-chanting%zh.rst>`_
+
 ----
 
 課誦本
@@ -233,6 +235,8 @@
   - `上座部パーリ語常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺－ <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/>`_
 
   - `MonPitee (Pali Chanting) | suvaco bhikkhu thailand <https://suvacobhikkhu.wordpress.com/pali-chanting/>`_
+
+  - `a compilation being a Book of Chants | suvaco bhikkhu thailand <https://suvacobhikkhu.wordpress.com/a-compilation-being-a-book-of-chants/>`_
 
   - `หนังสือสวดมนต์ภาษาอังกฤษ บทสวดมนต์ภาษาอังกฤษ หนังสือสวดมนภาษาอังกฤษ  บทสวดมนภาษาอังกฤษ chanting book <http://chanting-book-for-buddha.blogspot.com/>`_
 
