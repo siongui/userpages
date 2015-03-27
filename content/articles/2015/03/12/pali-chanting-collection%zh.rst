@@ -56,6 +56,8 @@ Pali Chanting Collection 巴利唸誦整理
 
 - `Taṅkhaṇika paccavekkhaṇa pāṭha ([受用四資具]當下的省思文, ตังขณิกปัจจเวกขณปาฐะ) - 巴利唸誦 <{filename}../27/tankhanika-paccavekkhana-pali-chanting%zh.rst>`_
 
+- `dvattiṃsākāra pāṭha (三十二身分, ท๎วัตติงสาการปาฐะ) - 巴利唸誦 <{filename}../28/dvattimsaakaara-pali-chanting%zh.rst>`_
+
 ----
 
 `Pāli`_ Chanting Books (`巴利`_ 課誦本)
@@ -214,6 +216,8 @@ Pali Chanting Collection 巴利唸誦整理
   - `Chanting Book <http://www.bahaistudies.net/asma/samatha4.pdf>`__
     (`mirror <{filename}/chanting/SamathaTrust/samatha4.pdf>`__)
 
+  - `Chanting Book on Scribd <http://www.scribd.com/doc/122173534/sambuddhe>`_
+
 * `タイ仏教 | mixiコミュニティ <http://mixi.jp/view_community.pl?id=568167>`_ (泰國佛教，Thai Buddhism)
 
   - `朝のお経（僧侶編） <http://mixi.jp/view_bbs.pl?comm_id=568167&id=57820764>`_
@@ -281,9 +285,11 @@ Pali Chanting Collection 巴利唸誦整理
 
   - `Pali Chanting <http://4palichant101.blogspot.com/>`__
 
+  - `สวดมนต์วัดญาณรังษี หน้า 1-20 <http://watpradhammajak.blogspot.com/2012/07/1-20.html>`_
 
-影音
-++++
+
+Video & Audio (影音)
+++++++++++++++++++++
 
 - `Pali Chants | dhammatalks.org <http://www.dhammatalks.org/chant_index.html>`_
 
@@ -325,6 +331,8 @@ Pali Chanting Collection 巴利唸誦整理
   * `ทำวัตรเช้า - YouTube <https://www.youtube.com/playlist?list=PLsDFbnUaWuK3-XC3ywWBWoar80072Ap9C>`_
 
   * `ปาฏิโมกข์มคธ - YouTube <https://www.youtube.com/playlist?list=PLsDFbnUaWuK2LsNhAPcycdKRddCvPUT0T>`_
+
+- `วิชชา ฟักคง - YouTube <https://www.youtube.com/user/MrGripenman>`_
 
 - `Popular Paritta Videos - YouTube <https://www.youtube.com/playlist?list=PLDiR7UP2tjPKAwY6zqP564nn_OLgkVt4y>`_
 
