@@ -91,5 +91,9 @@ saraṇagamanaṃ (三皈依, ไตรสรณคมน์) - 巴利唸誦
 
 .. [9] `Saraṇataya ［三帰依］－パーリ語 常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺 <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/paritta/Sarana_gamanam.htm>`_
 
+其他唸誦：
+
+.. [10] `Paritta Chanting Saranagamanapatha - YouTube <https://www.youtube.com/watch?v=kZmhrlkt9dU>`_
+
 
 .. _巴利: http://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%88%A9%E8%AF%AD

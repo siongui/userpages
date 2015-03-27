@@ -179,6 +179,8 @@ Maṅgalasuttaṃ (吉祥經, มงฺคลสุตฺตํ, มงคลป
 
 .. [18] `02. Mangala Sutta - YouTube <https://www.youtube.com/watch?v=Pn5ZPpQA7UM>`_
 
+.. [19] `Paritta Chanting Mangalasuttam - YouTube <https://www.youtube.com/watch?v=P7yq4PBUfds>`_
+
 
 
 .. _隆波Boonchu: {filename}../../../2012/05/15/wat-pah-bodhiyan-aka-wat-khuen%zh.rst

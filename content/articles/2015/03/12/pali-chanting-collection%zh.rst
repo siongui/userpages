@@ -1,25 +1,26 @@
-巴利唸誦及課誦本整理
-####################
+Pali Chanting Collection 巴利唸誦整理
+#####################################
 
 :date: 2015-03-12 05:11
-:modified: 2015-03-26 04:15
+:modified: 2015-03-28 00:00
 :tags: 巴利語
 :category: 巴利唸誦
-:summary: 整理網路上關於巴利-英文-中文唸誦書本。以及巴利唸誦集合。
+:summary: Collection of online Pāli chanting resources
+          (整理網路上關於巴利唸誦的相關資源)
 
 
-巴利唸誦
-++++++++
+`Pāli`_ Chanting (`巴利`_ 唸誦)
++++++++++++++++++++++++++++++++
 
 - `Maṅgalasuttaṃ (吉祥經, มงฺคลสุตฺตํ, มงคลปริตร) - 巴利唸誦 <{filename}../10/mangalasuttam-pali-chanting%zh.rst>`_
-  (護衛經 `Paritta <http://en.wikipedia.org/wiki/Paritta>`__)
+  (護衛經 Paritta_)
 
 - `saraṇagamanaṃ (三皈依, ไตรสรณคมน์) - 巴利唸誦 <{filename}../10/saranattayam-pali-chanting%zh.rst>`_
 
 - `Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈, โอวาทปาติโมกข์) - 巴利唸誦 <{filename}../11/ovada-patimokkha-pali-chanting%zh.rst>`_
 
 - `Jaya-maṅgala Gāthā (勝利吉祥偈) - 巴利唸誦 <{filename}jaya-mangala-attha-gatha-pali-chanting%zh.rst>`_
-  (護衛經 `Paritta <http://en.wikipedia.org/wiki/Paritta>`__)
+  (護衛經 Paritta_)
 
 - `Buddhānussati (佛隨念) - 巴利唸誦 <{filename}../13/buddhanussati-pali-chanting%zh.rst>`_
 
@@ -38,18 +39,18 @@
 - `Mettā Pharaṇaṃ (慈心遍滿 คำแผ่เมตตา) - 巴利唸誦 <{filename}../22/mettaa-phara-pali-chanting%zh.rst>`_
 
 - `Cha Ratana Paritta Gāthā (三寶護衛偈) - 巴利唸誦 <{filename}../24/cha-ratana-paritta-pali-chanting%zh.rst>`_
-  (護衛經 `Paritta <http://en.wikipedia.org/wiki/Paritta>`__)
+  (護衛經 Paritta_)
 
 - `Jaya Paritta Gāthā (勝利護衛偈) - 巴利唸誦 <{filename}../24/jaya-paritta-pali-chanting%zh.rst>`_
-  (護衛經 `Paritta <http://en.wikipedia.org/wiki/Paritta>`__)
+  (護衛經 Paritta_)
 
 - `Karaṇīya Mettā Sutta (應作慈愛經) - 巴利唸誦 <{filename}../25/karaniiya-mettaa-pali-chanting%zh.rst>`_
-  (護衛經 `Paritta <http://en.wikipedia.org/wiki/Paritta>`__)
+  (護衛經 Paritta_)
 
 - `dhātupaṭikūla paccavekkhaṇa pāṭha (元素及厭逆的省思, ธาตุปฏิกูลปัจจเวกขณปาฐะ) - 巴利唸誦 <{filename}../26/dhaatu-patikuula-paccavekkhana-pali-chanting%zh.rst>`_
 
 - `Khandha Paritta (蘊護衛偈, The Group Protection, ขันธปริตร) - 巴利唸誦 <{filename}../26/khandha-paritta-pali-chanting%zh.rst>`_
-  (護衛經 `Paritta <http://en.wikipedia.org/wiki/Paritta>`__)
+  (護衛經 Paritta_)
 
 - `abhiṇha paccavekkhaṇa pāṭha (經常省察文, อภิณหปัจจเวกขณปาฐะ) - 巴利唸誦 <{filename}../26/abhinha-paccavekkhana-pali-chanting%zh.rst>`_
 
@@ -57,8 +58,8 @@
 
 ----
 
-課誦本
-++++++
+`Pāli`_ Chanting Books (`巴利`_ 課誦本)
++++++++++++++++++++++++++++++++++++++++
 
 * 巴蓬寺(`Wat Nong Pah Pong <http://www.watnongpahpong.org/indexe.php>`_)系統
 
@@ -74,8 +75,10 @@
 
 * `DHAMMA TALKS & WRITINGS OF Ṭhānissaro BHIKKHU | dhammatalks.org <http://www.dhammatalks.org/>`_
 
-  - `A Chanting Gude: Pali Passages with English Translations <http://www.dhammatalks.org/Archive/Writings/ChantingGuideWithIndex.pdf>`_
+  - `A Chanting Guide: Pali Passages with English Translations <http://www.dhammatalks.org/Archive/Writings/ChantingGuideWithIndex.pdf>`_
     (`mirror <{filename}/chanting/Thanissaro/ChantingGuideWithIndex.pdf>`__)
+
+  - `A Chanting Guide: Pali Passages with English Translations (online HTML) <http://www.abuddhistlibrary.com/Buddhism/B%20-%20Theravada/Chanting%20Books/I%20-%20A%20Chanting%20Guide/index.html>`_
 
   - `Pali chanting by the Wat Metta Sangha - Dhammatalks.org <http://www.dhammatalks.org/Archive/Chants/Chants.html>`_
 
@@ -222,6 +225,28 @@
   - `Catubhāṇavārapāḷi Paritta Chanting E Book <https://krayayouth.files.wordpress.com/2012/07/paritta-chanting-e-book.pdf>`_
     (`mirror <{filename}/chanting/WatKraya/paritta-chanting-e-book.pdf>`__)
 
+* `Sirimangalo International <http://www.sirimangalo.org/>`_
+
+  - `Daily Chanting <http://static.sirimangalo.org/pdf/chanting_sirimangalo.pdf>`__
+    (`mirror <{filename}/chanting/sirimangalo/chanting_sirimangalo.pdf>`__)
+
+  - `巴利翻譯及學習資源 <http://static.sirimangalo.org/pdf/>`_
+
+* `Saranaloka Foundation <http://saranaloka.org/>`_
+
+  - `Chanting: Morning & Evening Chanting, Reflections, Formal Requests <http://saranaloka.org/wp-content/uploads/2012/10/Chanting-Book.pdf>`_
+    (`mirror <{filename}/chanting/saranaloka/Chanting-Book.pdf>`__)
+
+  - `Five Subjects for Frequent Recollection <http://saranaloka.org/wp-content/uploads/2012/09/chanting-book-31.pdf>`__
+    (`mirror <{filename}/chanting/saranaloka/chanting-book-31.pdf>`__)
+
+* `Dhammadharini <http://www.dhammadharini.net/>`_
+
+  - `Dhammadharini Chanting Book on Scribd <http://www.scribd.com/doc/96491559/Dhammadharini-Chanting-Book>`_
+
+  - `Dhammadharini Chanting Book on DocSlide <http://docslide.us/documents/dhammadharini-chanting-book.html>`_
+    (`mirror <{filename}/chanting/Dhammadharini/dhammadharini-chanting-book.pdf>`__)
+
 * Misc
 
   - `Buddhist Pali chanting book - A Fellow Design <http://fellowdesigns.com/main/images/stories/palichanting_urw_csx_short.pdf>`_
@@ -254,7 +279,7 @@
   - `Chanting Book of Wat Phra Dhātu Srī Chomtong Voravihāra <http://vipassanasangha.free.fr/ChantingBook.pdf>`_
     (`mirror <{filename}/chanting/Chomtong/ChantingBook.pdf>`__)
 
-  - `Chanting: Morning & Evening Chanting, Reflections, Formal Requests <http://saranaloka.org/wp-content/uploads/2012/10/Chanting-Book.pdf>`_
+  - `Pali Chanting <http://4palichant101.blogspot.com/>`__
 
 
 影音
@@ -320,3 +345,11 @@
 - `Overnight Chanting 大護衛經念誦 <http://tw.streetvoice.com/Sadhu/songs/album/97257305/>`_
 
 - `BuddhaNet Audio: Chanting <http://www.buddhanet.net/audio-chant.htm>`_
+
+
+
+.. _Pāli: http://en.wikipedia.org/wiki/Pali
+
+.. _巴利: http://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%88%A9%E8%AF%AD
+
+.. _Paritta: http://en.wikipedia.org/wiki/Paritta

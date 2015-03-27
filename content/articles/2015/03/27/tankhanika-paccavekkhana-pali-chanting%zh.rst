@@ -4,16 +4,16 @@ Taṅkhaṇika paccavekkhaṇa pāṭha ([受用四資具]當下的省思文, �
 :date: 2015-03-27 21:45
 :tags: 巴利語
 :category: 巴利唸誦
-:summary:  - 巴利語唸誦
+:summary: Taṅkhaṇika paccavekkhaṇa pāṭha ([受用四資具]當下的省思文, ตังขณิกปัจจเวกขณปาฐะ) - 巴利語唸誦
 
 
 .. list-table:: Taṅkhaṇika paccavekkhaṇa pāṭha ([受用四資具]當下的省思文, `ตังขณิกปัจจเวกขณปาฐะ`_)
    :header-rows: 1
    :class: table-syntax-diff
 
-   * - `巴利`_ (來源 [9]_)
+   * - `巴利`_ (來源 [10]_)
 
-     - 中譯 (來源 [9]_)
+     - 中譯 (來源 [10]_)
 
    * - Paṭisaṅkhā yoniso cīvaraṃ paṭisevāmi
 
@@ -132,55 +132,57 @@ Taṅkhaṇika paccavekkhaṇa pāṭha ([受用四資具]當下的省思文, �
 
 .. [4] `taṃkhaṇika′paccavekkhaṇa′vidhī - [PDF]Скачать <http://www.theravada.su/sites/default/files/book/2013/11/monpit-rus.pdf>`_
 
-.. [5] 四资具取用前的省思 - `Pali-Mandarin Chanting Book <http://methika.com/pali-mandarin-chanting-book/>`_
+.. [5] `taṅkhaṇikapaccavekkhaṇavidhī (MP6) | Буддизм Тхеравады в Москве <http://www.theravada.su/node/863>`_
 
-.. [6] 资具取用前的省思 -
+.. [6] 四资具取用前的省思 - `Pali-Mandarin Chanting Book <http://methika.com/pali-mandarin-chanting-book/>`_
+
+.. [7] 资具取用前的省思 -
        `4- Morning.pdf <https://onedrive.live.com/view.aspx?cid=A88AE0574C8756AE&resid=A88AE0574C8756AE%211476&qt=sharedby&app=WordPdf>`_ -
        `佛教朝暮课诵第七版 <https://skydrive.live.com/?cid=a88ae0574c8756ae#cid=A88AE0574C8756AE&id=A88AE0574C8756AE%21353>`_
 
-.. [7] TAṄKHAṆIKAPACCAVEKKHAṆAPĀṬHA |
+.. [8] TAṄKHAṆIKAPACCAVEKKHAṆAPĀṬHA |
        Reflection at the Moment of Using the Requisites |
        如理省思使用四資具 (p. 27) -
        `Chanting Book - Pali-Thai-English-Chinese [1.0] <http://www.nirotharam.com/book/English-ChineseChantingbook1.pdf>`_
 
-.. [8] Taṃkhaṇikapaccavekkhaṇavidhī
+.. [9] Taṃkhaṇikapaccavekkhaṇavidhī
        タンカニカパッチャウェッカナウィティー
        - `朝のお経（僧侶編） - タイ仏教 <http://mixi.jp/view_bbs.pl?comm_id=568167&id=57820764>`_
 
-.. [9] `晨省受用品 <http://www.dhammatalks.org/Dhamma/Chanting/Verses2.htm#MnRequ>`_ -
-       `巴英中對照-課誦 <http://www.dhammatalks.org/Dhamma/Chanting/Verses2.htm>`_
+.. [10] `晨省受用品 <http://www.dhammatalks.org/Dhamma/Chanting/Verses2.htm#MnRequ>`_ -
+        `巴英中對照-課誦 <http://www.dhammatalks.org/Dhamma/Chanting/Verses2.htm>`_
 
-.. [10] Taṅkhaṇikapaccavekkhaṇa pāṭha
+.. [11] Taṅkhaṇikapaccavekkhaṇa pāṭha
         - `上座部佛教唸誦集 - 瑪欣德尊者 編譯 <http://www.dhammatalks.net/Chinese/Bhikkhu_Mahinda-Puja.pdf>`_
 
-.. [11] Reflection at the Moment of Using the Requisites 四资具取用前的省思
+.. [12] Reflection at the Moment of Using the Requisites 四资具取用前的省思
         `BOOK 1 <http://methika.com/wp-content/uploads/2010/01/Book1.PDF>`_ -
         `Comprehensive English-Mandarin Pali Chanting Book <http://methika.com/comprehensive-english-mandarin-chanting-book/>`_
 
-.. [12] Reflections on the Four Requisites (p. 35) -
+.. [13] Reflections on the Four Requisites (p. 35) -
         `Chanting: Morning & Evening Chanting, Reflections, Formal Requests <http://saranaloka.org/wp-content/uploads/2012/10/Chanting-Book.pdf>`_
 
-.. [13] `ตังขณิกปัจจเวกขณปาฐะ | jomthong.org <http://www.jomthong.org/prayer-after-morning/%E0%B8%95%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B8%93%E0%B8%B4%E0%B8%81%E0%B8%9B%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B9%80%E0%B8%A7%E0%B8%81%E0%B8%82%E0%B8%93%E0%B8%9B%E0%B8%B2%E0%B8%90%E0%B8%B0.html>`_
+.. [14] `ตังขณิกปัจจเวกขณปาฐะ | jomthong.org <http://www.jomthong.org/prayer-after-morning/%E0%B8%95%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B8%93%E0%B8%B4%E0%B8%81%E0%B8%9B%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B9%80%E0%B8%A7%E0%B8%81%E0%B8%82%E0%B8%93%E0%B8%9B%E0%B8%B2%E0%B8%90%E0%B8%B0.html>`_
 
-.. [14] `ตังขะณิปัจจะเวกขะณะวิธี - ธรรมจักร :: เว็บธรรมะออนไลน์ <http://www.dhammajak.net/suadmon1/162.html>`_
+.. [15] `ตังขะณิปัจจะเวกขะณะวิธี - ธรรมจักร :: เว็บธรรมะออนไลน์ <http://www.dhammajak.net/suadmon1/162.html>`_
 
-.. [15] `แสดงกระทู้ - ตังขณิกปัจจเวกขณปาฐะ • ลานธรรมจักร <http://www.dhammajak.net/forums/viewtopic.php?f=28&t=26219>`_
+.. [16] `แสดงกระทู้ - ตังขณิกปัจจเวกขณปาฐะ • ลานธรรมจักร <http://www.dhammajak.net/forums/viewtopic.php?f=28&t=26219>`_
 
 其他唸誦：
 
-.. [16] `ตังคณิกปัจจเวกขณวิธี - YouTube <https://www.youtube.com/watch?v=AIv5VlGv_BQ>`_
+.. [Chant1] `ตังคณิกปัจจเวกขณวิธี - YouTube <https://www.youtube.com/watch?v=AIv5VlGv_BQ>`_
 
-.. [17] `ตังขณิกปัจจเวกขณปาฐะ - YouTube <https://www.youtube.com/watch?v=35k-rlJzSCM>`_
+.. [Chant2] `ตังขณิกปัจจเวกขณปาฐะ - YouTube <https://www.youtube.com/watch?v=35k-rlJzSCM>`_
 
 搜尋：
 
-.. [18] Google Search `taṅkhaṇika paccavekkhaṇa <https://www.google.com/search?q=ta%E1%B9%85kha%E1%B9%87ika+paccavekkha%E1%B9%87a>`__
+.. [Search1] Google Search `taṅkhaṇika paccavekkhaṇa <https://www.google.com/search?q=ta%E1%B9%85kha%E1%B9%87ika+paccavekkha%E1%B9%87a>`__
 
-.. [19] Google Search `Reflection at the Moment of Using the Requisites <https://www.google.com/search?q=Reflection+at+the+Moment+of+Using+the+Requisites>`__
+.. [Search2] Google Search `Reflection at the Moment of Using the Requisites <https://www.google.com/search?q=Reflection+at+the+Moment+of+Using+the+Requisites>`__
 
-.. [20] DuckDuckGo Search `taṅkhaṇika paccavekkhaṇa <https://duckduckgo.com/?q=ta%E1%B9%85kha%E1%B9%87ika+paccavekkha%E1%B9%87a>`__
+.. [Search3] DuckDuckGo Search `taṅkhaṇika paccavekkhaṇa <https://duckduckgo.com/?q=ta%E1%B9%85kha%E1%B9%87ika+paccavekkha%E1%B9%87a>`__
 
-.. [21] DuckDuckGo Search `Reflection at the Moment of Using the Requisites <https://duckduckgo.com/?q=Reflection+at+the+Moment+of+Using+the+Requisites>`__
+.. [Search4] DuckDuckGo Search `Reflection at the Moment of Using the Requisites <https://duckduckgo.com/?q=Reflection+at+the+Moment+of+Using+the+Requisites>`__
 
 
 

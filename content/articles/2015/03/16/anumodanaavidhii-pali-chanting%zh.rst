@@ -122,7 +122,12 @@ anumodanāvidhī (祝福) - 巴利唸誦
 .. [8] `Comprehensive English-Mandarin Chanting Book <http://methika.com/comprehensive-english-mandarin-chanting-book/>`_
        (`PDF part7 <http://methika.com/wp-content/uploads/2010/01/Book7.PDF>`__)
 
+其他唸誦：
+
 .. [9] `Yatha varivaha.FLV - YouTube <https://youtu.be/LBXYosMnp1s>`_
+
+.. [10] `Paritta Chanting Anumodanavidhi - YouTube <https://www.youtube.com/watch?v=F_yOSdsq7k4>`_
+
 
 
 .. _巴利: http://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%88%A9%E8%AF%AD
