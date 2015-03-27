@@ -53,6 +53,8 @@
 
 - `abhiṇha paccavekkhaṇa pāṭha (經常省察文, อภิณหปัจจเวกขณปาฐะ) - 巴利唸誦 <{filename}../26/abhinha-paccavekkhana-pali-chanting%zh.rst>`_
 
+- `Taṅkhaṇika paccavekkhaṇa pāṭha ([受用四資具]當下的省思文, ตังขณิกปัจจเวกขณปาฐะ) - 巴利唸誦 <{filename}../27/tankhanika-paccavekkhana-pali-chanting%zh.rst>`_
+
 ----
 
 課誦本
@@ -251,6 +253,8 @@
 
   - `Chanting Book of Wat Phra Dhātu Srī Chomtong Voravihāra <http://vipassanasangha.free.fr/ChantingBook.pdf>`_
     (`mirror <{filename}/chanting/Chomtong/ChantingBook.pdf>`__)
+
+  - `Chanting: Morning & Evening Chanting, Reflections, Formal Requests <http://saranaloka.org/wp-content/uploads/2012/10/Chanting-Book.pdf>`_
 
 
 影音

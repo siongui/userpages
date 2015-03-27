@@ -11,7 +11,7 @@ Mettā Pharaṇaṃ (慈心遍滿 คำแผ่เมตตา) - 巴利唸誦
    :header-rows: 1
    :class: table-syntax-diff
 
-   * - 巴利 (來源 [11]_)
+   * - `巴利`_ (來源 [11]_)
 
      - 中譯 (來源 [11]_)
 
@@ -149,3 +149,5 @@ Mettā Pharaṇaṃ (慈心遍滿 คำแผ่เมตตา) - 巴利唸誦
 .. _คำแผ่เมตตา: http://www.aia.or.th/prayer02.htm
 
 .. _Pali Chants | dhammatalks.org: http://www.dhammatalks.org/chant_index.html
+
+.. _巴利: http://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%88%A9%E8%AF%AD

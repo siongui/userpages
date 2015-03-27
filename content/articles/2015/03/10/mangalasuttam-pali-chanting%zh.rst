@@ -16,7 +16,7 @@ Maṅgalasuttaṃ (吉祥經, มงฺคลสุตฺตํ, มงคลป
    :header-rows: 1
    :class: table-syntax-diff
 
-   * - 巴利 (來源 [1]_, [2]_)
+   * - `巴利`_ (來源 [1]_, [2]_)
 
      - 中譯 (來源 [7]_)
 
@@ -182,3 +182,5 @@ Maṅgalasuttaṃ (吉祥經, มงฺคลสุตฺตํ, มงคลป
 
 
 .. _隆波Boonchu: {filename}../../../2012/05/15/wat-pah-bodhiyan-aka-wat-khuen%zh.rst
+
+.. _巴利: http://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%88%A9%E8%AF%AD

@@ -11,7 +11,7 @@ Buddhānussati (佛隨念) - 巴利唸誦
    :header-rows: 1
    :class: table-syntax-diff
 
-   * - 巴利 (來源 [1]_)
+   * - `巴利`_ (來源 [1]_)
 
      - 中譯 (來源 [1]_, [2]_, [3]_)
 
@@ -82,3 +82,6 @@ Buddhānussati (佛隨念) - 巴利唸誦
        (`PDF part1 <http://methika.com/wp-content/uploads/2010/01/Book1.PDF>`__)
 
 .. [5] `Buddha Guṇā ［帰依仏］－パーリ語 常用経典集－真言宗泉涌寺派大本山 法楽寺 <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/paritta/Buddha_guna.htm>`_
+
+
+.. _巴利: http://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%88%A9%E8%AF%AD

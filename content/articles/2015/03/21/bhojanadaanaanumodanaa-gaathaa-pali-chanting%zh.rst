@@ -11,7 +11,7 @@ bhojanadānānumodanāgāthā (供養食物感恩偈) - 巴利唸誦
    :header-rows: 1
    :class: table-syntax-diff
 
-   * - 巴利 (來源 [1]_)
+   * - `巴利`_ (來源 [1]_)
 
      - 中譯 (來源 [2]_ [3]_)
 
@@ -64,3 +64,6 @@ bhojanadānānumodanāgāthā (供養食物感恩偈) - 巴利唸誦
 .. [7] Google Search `供養食物感恩偈 <https://www.google.com/search?q=%E4%BE%9B%E9%A4%8A%E9%A3%9F%E7%89%A9%E6%84%9F%E6%81%A9%E5%81%88>`_
 
 .. [8] `Daily Contemplation - Pali-Thai-English-Chinese Chanting Book 2 <http://www.nirotharam.com/book/English-ChineseChantingbook2.pdf>`_
+
+
+.. _巴利: http://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%88%A9%E8%AF%AD

@@ -11,7 +11,7 @@ Pathamabuddhabhāsita Gāthā (佛陀的最初之言偈 ปฐมพุทธภ
    :header-rows: 1
    :class: table-syntax-diff
 
-   * - 巴利 (來源 [1]_)
+   * - `巴利`_ (來源 [1]_)
 
      - 中譯 (來源 [2]_)
 
@@ -82,3 +82,5 @@ Pathamabuddhabhāsita Gāthā (佛陀的最初之言偈 ปฐมพุทธภ
 
 
 .. _ปฐมพุทธภาสิตคาถา: http://www.aia.or.th/prayer39.htm
+
+.. _巴利: http://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%88%A9%E8%AF%AD

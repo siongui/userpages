@@ -11,7 +11,7 @@ Khandha Paritta (蘊護衛偈, The Group Protection, ขันธปริตร
    :header-rows: 1
    :class: table-syntax-diff
 
-   * - 巴利 (來源 [1]_)
+   * - `巴利`_ (來源 [1]_)
 
      - 中譯 (來源 [1]_)
 
@@ -210,3 +210,5 @@ Khandha Paritta (蘊護衛偈, The Group Protection, ขันธปริตร
 .. _Pali Chants | dhammatalks.org: http://www.dhammatalks.org/chant_index.html
 
 .. _Pali Chants - Forest Meditation: http://forestmeditation.com/audio/audio.html
+
+.. _巴利: http://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%88%A9%E8%AF%AD
