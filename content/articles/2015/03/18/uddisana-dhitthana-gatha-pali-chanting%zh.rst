@@ -118,5 +118,9 @@ uddisanādhiṭṭhāna gāthā (迴向許願文, อุททิสสนาธ
 
 .. [5] `บทสวดอุทิสสนาธิฏฐานคาถา - Watphuttabucha Chant บทสวดมนต์วัดพุทธบูชา <https://sites.google.com/site/bandxnswrrkh/bth-swd-xuthi-s-snathit-than-khatha>`_
 
+其他唸誦：
+
+.. [Chant1] `สวดมนต์วัดหนองป่าพง18 ทำวัตรเย็น อุททิสสนาธิฏฐานคาถา - YouTube <https://www.youtube.com/watch?v=Csoob3t9wPk>`_
+            (巴蓬寺課誦)
 
 .. _巴利: http://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%88%A9%E8%AF%AD

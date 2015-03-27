@@ -147,6 +147,11 @@ Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈, โอวาทปาต�
 
 .. [10] `Ovāda-pātimokkha Gāthā <http://kusala.online-dhamma.net/%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E5%9C%96%E6%9B%B8%E9%A4%A8%20Theravada%20Buddhism%20E-Library/041%20%E8%AA%B2%E8%AA%A6%20%20Chanting/Tusita%20Version%20Pdf/29%20Ovada%20Patimokkha%20Gatha.pdf>`_
 
+其他唸誦：
+
+.. [Chant1] `สวดมนต์วัดหนองป่าพง15 ทำวัตรเย็น โอวาทปาฏิโมกขคาถา - YouTube <https://www.youtube.com/watch?v=MTL2NAnbWTs>`_
+            (巴蓬寺課誦)
+
 
 .. _隆波Boonchu: {filename}../../../2012/05/15/wat-pah-bodhiyan-aka-wat-khuen%zh.rst
 

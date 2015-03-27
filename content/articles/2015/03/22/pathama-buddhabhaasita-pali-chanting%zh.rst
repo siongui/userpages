@@ -80,6 +80,11 @@ Pathamabuddhabhāsita Gāthā (佛陀的最初之言偈 ปฐมพุทธภ
 
 .. [5] `Anekajāti gāthā［生死流転偈］－パーリ語 常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺 <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/paritta/Anekajati_gatha.htm>`_
 
+其他唸誦：
+
+.. [Chant1] `สวดมนต์วัดหนองป่าพง16 ทำวัตรเย็น ปฐมพุทธภาสิตคาถา - YouTube <https://www.youtube.com/watch?v=hqDPK-f3o50>`_
+            (巴蓬寺課誦)
+
 
 .. _ปฐมพุทธภาสิตคาถา: http://www.aia.or.th/prayer39.htm
 

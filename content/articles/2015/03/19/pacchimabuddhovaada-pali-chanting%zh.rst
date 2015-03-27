@@ -63,6 +63,11 @@ Pacchimabuddhovāda pāṭhaṃ (佛陀的最後之言誦 ปัจฉิมพ�
 
 .. [7] `Ovāda［教誡］－パーリ語 常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺 <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/paritta/Bhagavato_Ovado.htm>`_
 
+其他唸誦：
+
+.. [Chant1] `สวดมนต์วัดหนองป่าพง17 ทำวัตรเย็น ปัจฉิมพุทโธวาทปาฐะ - YouTube <https://www.youtube.com/watch?v=rz9V1WCESzc>`_
+            (巴蓬寺課誦)
+
 
 .. _ปัจฉิมพุทโธวาทปาฐะ: http://www.aia.or.th/prayer40.htm
 

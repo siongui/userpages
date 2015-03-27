@@ -54,7 +54,7 @@ abhiṇha paccavekkhaṇa pāṭha (經常省察文, อภิณหปัจจ
 
 .. container:: align-center video-container-description
 
-  abhiṇha paccavekkhaṇa pāṭha (經常省察文, `อภิณหปัจจเวกขณปาฐะ`_)
+  abhiṇha paccavekkhaṇa pāṭha (經常省察文, `อภิณหปัจจเวกขณปาฐะ`_) 巴蓬寺課誦
 
 |
 |
@@ -115,17 +115,22 @@ abhiṇha paccavekkhaṇa pāṭha (經常省察文, อภิณหปัจจ
 
 其他唸誦：
 
-.. [10] `อภิณหะปัจจะเวกขณะ Test(3) - YouTube <https://www.youtube.com/watch?v=cQsMCr5R4Sc>`_
+.. [Chant1] `อภิณหะปัจจะเวกขณะ Test(3) - YouTube <https://www.youtube.com/watch?v=cQsMCr5R4Sc>`_
+
+.. [Chant2] `สวดมนต์วัดหนองป่าพง04 ทำวัตรเช้า อภิณหปัจจเวกขณปาฐะ - YouTube <https://www.youtube.com/watch?v=MujOMhPqNA0>`_
+            (巴蓬寺課誦)
+
+.. [Chant3] `08 อภิณหะปัจจะเวกขณะฯ ทำวัตรเช้า - YouTube <https://www.youtube.com/watch?v=Xo9gvNe9IqQ>`_
 
 搜尋：
 
-.. [11] Google Search `ABHIṆHAPACCAVEKKHAṆAPĀṬHA <https://www.google.com/search?q=ABHI%E1%B9%86HAPACCAVEKKHA%E1%B9%86AP%C4%80%E1%B9%ACHA>`__
+.. [Search1] Google Search `ABHIṆHAPACCAVEKKHAṆAPĀṬHA <https://www.google.com/search?q=ABHI%E1%B9%86HAPACCAVEKKHA%E1%B9%86AP%C4%80%E1%B9%ACHA>`__
 
-.. [12] Google Search `Five Subjects for Frequent Recollection <https://www.google.com/search?q=Five+Subjects+for+Frequent+Recollection>`__
+.. [Search2] Google Search `Five Subjects for Frequent Recollection <https://www.google.com/search?q=Five+Subjects+for+Frequent+Recollection>`__
 
-.. [13] DuckDuckGo Search `ABHIṆHAPACCAVEKKHAṆAPĀṬHA <https://duckduckgo.com/?q=ABHIṆHAPACCAVEKKHAṆAPĀṬHA>`__
+.. [Search3] DuckDuckGo Search `ABHIṆHAPACCAVEKKHAṆAPĀṬHA <https://duckduckgo.com/?q=ABHIṆHAPACCAVEKKHAṆAPĀṬHA>`__
 
-.. [14] DuckDuckGo Search `Five Subjects for Frequent Recollection <https://duckduckgo.com/?q=Five+Subjects+for+Frequent+Recollection>`__
+.. [Search4] DuckDuckGo Search `Five Subjects for Frequent Recollection <https://duckduckgo.com/?q=Five+Subjects+for+Frequent+Recollection>`__
 
 
 

@@ -114,6 +114,8 @@
 
 `巴蓬寺相簿 <https://picasaweb.google.com/105008812818042996376>`__ [英文]
 
+`一個人在 212公路上 -- 烏汶府‧巴蓬寺 Wat Nong Pa Phong วัดหนองป่าพง <http://www.thai.idv.tw/Ajahn_Chah.html>`_
+
 ----
 
 位置: `Wat Nong Pah Pong, Phong Sawang Soi 2, Non Phueng, Warin Chamrap, Ubon Ratchathani 34190, Thailand <http://maps.google.com/maps?q=Wat%20Nong%20Pah%20Pong%2C%20Phong%20Sawang%20Soi%202%2C%20Non%20Phueng%2C%20Warin%20Chamrap%2C%20Ubon%20Ratchathani%2034190%2C%20Thailand@15.158247449972816,104.83112454414368&z=10>`_

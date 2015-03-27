@@ -305,6 +305,27 @@ Pali Chanting Collection 巴利唸誦整理
 - `Wullop Khin - YouTube <https://www.youtube.com/user/WullopPornruangwong>`_
   (Thai)
 
+- `JchaiJane - YouTube <https://www.youtube.com/user/JchaiJane>`_
+  (Thai)
+
+- `เธอผู้ไม่แพ้ ตลอดกาล - YouTube <https://www.youtube.com/channel/UCxPtVsHpYhe0th_-MHPQM5g>`_
+  (Thai)
+
+- `สวดมนต์วัดหนองป่าพง <https://www.youtube.com/watch?v=bQroQaMfLxY&list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES>`_
+  (Chanting of `Wat Nong Pah Pong`_, `巴蓬寺`_ 課誦)
+
+- `ธรรมะ - YouTube <https://www.youtube.com/user/tumdedede>`_
+
+  * `บันทึกประวัติศาสตร์ (วัดอินทรวิหาร) - YouTube <https://www.youtube.com/playlist?list=PLsDFbnUaWuK2doPan587VpiHBN90HWKEQ>`_
+
+  * `นำสวดพระธรรม ณ วัดบวรนิเวศวิหาร - YouTube <https://www.youtube.com/playlist?list=PLsDFbnUaWuK2aby-pO5AX5F6wLvQw61oW>`_
+
+  * `ทำวัตรเย็น - YouTube <https://www.youtube.com/playlist?list=PLsDFbnUaWuK1sZ93wmso_H2YBipF3Jnc->`_
+
+  * `ทำวัตรเช้า - YouTube <https://www.youtube.com/playlist?list=PLsDFbnUaWuK3-XC3ywWBWoar80072Ap9C>`_
+
+  * `ปาฏิโมกข์มคธ - YouTube <https://www.youtube.com/playlist?list=PLsDFbnUaWuK2LsNhAPcycdKRddCvPUT0T>`_
+
 - `Popular Paritta Videos - YouTube <https://www.youtube.com/playlist?list=PLDiR7UP2tjPKAwY6zqP564nn_OLgkVt4y>`_
 
 - `Ashin Sumana Nanda - YouTube <https://www.youtube.com/channel/UCEP5Ltu_NcY4cb3tKbow2aQ>`_
@@ -353,3 +374,7 @@ Pali Chanting Collection 巴利唸誦整理
 .. _巴利: http://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%88%A9%E8%AF%AD
 
 .. _Paritta: http://en.wikipedia.org/wiki/Paritta
+
+.. _Wat Nong Pah Pong: http://www.watnongpahpong.org/indexe.php
+
+.. _巴蓬寺: http://www.wpp-branches.net/cn/index.php
