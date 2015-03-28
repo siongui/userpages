@@ -267,6 +267,8 @@ dvattiṃsākāra pāṭha (三十二身分, ท๎วัตติงสาก�
 
 .. [11] `สวดมนต์วัดญาณรังษี หน้า 1-20 <http://watpradhammajak.blogspot.com/2012/07/1-20.html>`_
 
+.. [12] `Asubha bhāvanā ［不浄観］－パーリ語 常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺 <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/paritta/Asubha_Bhavana.htm>`_
+
 唸誦集：
 
 .. [Chant1] `สวดมนต์วัดหนองป่าพง03 ทำวัตรเช้า ทวัตติงสาการปาฐะ - YouTube <https://www.youtube.com/watch?v=QC7xZ7W0Nm4>`_

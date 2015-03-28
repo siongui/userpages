@@ -170,13 +170,17 @@ Karaṇīya Mettā Sutta (應作慈愛經) - 巴利唸誦
 
 .. [2] 應作慈愛經 (p. 152) - `上座部佛教唸誦集 - 瑪欣德尊者 編譯 <http://www.dhammatalks.net/Chinese/Bhikkhu_Mahinda-Puja.pdf>`_
 
-其他唸誦：
+.. [3] `Metta sutta ［慈経 / メッタスッタ］－パーリ語 常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺 <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/paritta/Metta_sutta.htm>`_
 
-.. [3] `Paritta Chanting Karaniyammettasuttam - YouTube <https://youtu.be/YJXGy9xYDuE>`_
+唸誦集：
 
-.. [4] `Karaniya Metta Suttang - YouTube <https://youtu.be/l0pAFT9rXO8>`_
+.. [Chant1] `Paritta Chanting - Karaniyammettasuttam 慈悲经 - YouTube <https://www.youtube.com/watch?v=LXRaoE-3Xhs>`_
 
-.. [5] `Karaniya Metta Sutta in Pali - YouTube <https://www.youtube.com/watch?v=igHQVc1FP0o>`_
+.. [Chant2] `Paritta Chanting Karaniyammettasuttam - YouTube <https://www.youtube.com/watch?v=YJXGy9xYDuE>`_
+
+.. [Chant3] `Karaniya Metta Suttang - YouTube <https://www.youtube.com/watch?v=l0pAFT9rXO8>`_
+
+.. [Chant4] `Karaniya Metta Sutta in Pali - YouTube <https://www.youtube.com/watch?v=igHQVc1FP0o>`_
 
 
 

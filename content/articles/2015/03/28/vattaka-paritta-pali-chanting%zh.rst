@@ -152,6 +152,8 @@ Vaṭṭaka Paritta (鵪鶉護衛偈, วัฏฏกปริตร, The Baby Q
 
 .. [10] `Pali Chanting : Vaṭṭaka Paritta    The Baby Quail's Protection <http://4palichant101.blogspot.com/2013/01/vattaka-paritta-baby-quails-protection.html>`_
 
+.. [11] `Vaṭṭa sutta ［鶉経］－パーリ語 常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺 <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/paritta/Vatta_sutta.htm>`_
+
 唸誦集：
 
 .. [Chant1] `Paritta Chanting - Vattakaparittam 恐惧保护经 - YouTube <https://www.youtube.com/watch?v=mI_XjeHZay4>`_

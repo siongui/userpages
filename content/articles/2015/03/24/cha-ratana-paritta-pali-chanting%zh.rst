@@ -165,15 +165,19 @@ Cha Ratana Paritta Gāthā (三寶護衛偈) - 巴利唸誦
 .. [1] `三寶護衛偈 <http://www.dhammatalks.org/Dhamma/Chanting/Verses2.htm#Ratana>`_ -
        `巴英中對照-課誦 <http://www.dhammatalks.org/Dhamma/Chanting/Verses2.htm>`_
 
-其他唸誦：
+.. [2] `Ratana sutta ［宝経］－パーリ語 常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺 <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/paritta/Ratana_sutta.htm>`_
 
-.. [2] `Paritta Chanting Ratanasuttam - YouTube <https://youtu.be/zZXiQqOi6p0>`_
+唸誦集：
 
-.. [3] `Ratanasuttam.FLV - YouTube <https://youtu.be/flKKVxeXMp0>`_
+.. [Chant1] `Paritta Chanting - Ratanasuttam 宝石经 - YouTube <https://www.youtube.com/watch?v=d26JZxA1VBs>`_
 
-.. [4] `Rattanasuttang - YouTube <https://youtu.be/4gsJBHQ-6PM>`_
+.. [Chant2] `Paritta Chanting Ratanasuttam - YouTube <https://youtu.be/zZXiQqOi6p0>`_
 
-.. [5] `03. Ratana Sutta - YouTube <https://www.youtube.com/watch?v=z84fDvCzG-M>`_
+.. [Chant3] `Ratanasuttam.FLV - YouTube <https://youtu.be/flKKVxeXMp0>`_
+
+.. [Chant4] `Rattanasuttang - YouTube <https://youtu.be/4gsJBHQ-6PM>`_
+
+.. [Chant5] `03. Ratana Sutta - YouTube <https://www.youtube.com/watch?v=z84fDvCzG-M>`_
 
 
 .. _Pali Chants | dhammatalks.org: http://www.dhammatalks.org/chant_index.html

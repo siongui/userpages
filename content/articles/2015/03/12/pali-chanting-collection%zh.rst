@@ -259,7 +259,9 @@ Pali Chanting Collection 巴利唸誦整理
     (`mirror <{filename}/chanting/Dhammarato/palichanting_urw_csx_short.pdf>`__)
 
   - `Traditional Pali Chants English <http://reading.buddhistdoor.com/en/item/d/1675>`_
-    (`Download <http://reading.buddhistdoor.com/resources/get/0448aa69fe6c4cd6b574fd054a1b3972f5bacd8f>`__)
+    (`Download <http://reading.buddhistdoor.com/resources/get/0448aa69fe6c4cd6b574fd054a1b3972f5bacd8f>`__,
+    `on DocSlide <http://docslide.us/documents/pali-chants.html>`__,
+    `on Scribd <http://www.scribd.com/doc/139024105/Pali-Chants>`__)
 
   - `Pali in Thai Script <http://paliinthaiscript.blogspot.com/>`_
 

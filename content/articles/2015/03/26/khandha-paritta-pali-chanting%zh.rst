@@ -183,27 +183,33 @@ Khandha Paritta (蘊護衛偈, The Group Protection, ขันธปริตร
 
 .. [7] `ขันธปริตร - วิกิพีเดีย <http://th.wikipedia.org/wiki/%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%95%E0%B8%A3>`_
 
-其他唸誦：
+.. [8] `Khandha sutta ［蘊経］－パーリ語 常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺 <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/paritta/Khanda_sutta.htm>`_
 
-.. [8] `Khandha Parittam - YouTube <https://www.youtube.com/watch?v=TrBs1Onq6r0>`_
+唸誦集：
 
-.. [9] `Khanda Parittam.FLV - YouTube <https://www.youtube.com/watch?v=AwNFlHITg_U>`_
+.. [Chant1] `Khanda Paritta - YouTube <https://www.youtube.com/watch?v=lrcWrB6qW64>`_
 
-.. [10] `บทสวดขันธปริตร (ป้องกันอันตรายจากสัตว์มีพิษ) - YouTube <https://www.youtube.com/watch?v=oSbeHAO4XDQ>`_
+.. [Chant2] `06. Khanda Sutta - YouTube <https://www.youtube.com/watch?v=sUoHzTmftNM>`_
 
-.. [11] `ขันธปริตร ป้องกันงูและสัตว์ร้าย - YouTube <https://www.youtube.com/watch?v=Y9cpQJdccPg>`_
+.. [Chant3] `Khandha Parittam - YouTube <https://www.youtube.com/watch?v=TrBs1Onq6r0>`_
 
-.. [12] `0003ขันธปริตร - YouTube <https://www.youtube.com/watch?v=CtQh8PnjmFs>`_
+.. [Chant4] `Khanda Parittam.FLV - YouTube <https://www.youtube.com/watch?v=AwNFlHITg_U>`_
 
-.. [13] `07.ขันธะปะริตตะคาถา <https://www.youtube.com/watch?v=TyzudhpFrsE>`_
+.. [Chant5] `บทสวดขันธปริตร (ป้องกันอันตรายจากสัตว์มีพิษ) - YouTube <https://www.youtube.com/watch?v=oSbeHAO4XDQ>`_
 
-.. [14] `สวดขันธปริตร {คาถากันสัตว์มีพิษ} - YouTube <https://www.youtube.com/watch?v=wUTycC2A_Fc>`_
+.. [Chant6] `ขันธปริตร ป้องกันงูและสัตว์ร้าย - YouTube <https://www.youtube.com/watch?v=Y9cpQJdccPg>`_
+
+.. [Chant7] `0003ขันธปริตร - YouTube <https://www.youtube.com/watch?v=CtQh8PnjmFs>`_
+
+.. [Chant8] `07.ขันธะปะริตตะคาถา <https://www.youtube.com/watch?v=TyzudhpFrsE>`_
+
+.. [Chant9] `สวดขันธปริตร {คาถากันสัตว์มีพิษ} - YouTube <https://www.youtube.com/watch?v=wUTycC2A_Fc>`_
 
 搜尋：
 
-.. [15] DuckDuckGo Search `khandha paritta <https://duckduckgo.com/?q=khandha+paritta>`__
+.. [Search1] DuckDuckGo Search `khandha paritta <https://duckduckgo.com/?q=khandha+paritta>`__
 
-.. [16] Google Search `khandha paritta <https://www.google.com/search?q=khandha+paritta>`__
+.. [Search2] Google Search `khandha paritta <https://www.google.com/search?q=khandha+paritta>`__
 
 
 
