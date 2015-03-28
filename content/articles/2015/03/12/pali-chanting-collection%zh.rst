@@ -2,7 +2,7 @@ Pali Chanting Collection 巴利唸誦整理
 #####################################
 
 :date: 2015-03-12 05:11
-:modified: 2015-03-28 00:00
+:modified: 2015-03-28 23:43
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: Collection of online Pāli chanting resources
@@ -57,6 +57,8 @@ Pali Chanting Collection 巴利唸誦整理
 - `Taṅkhaṇika paccavekkhaṇa pāṭha ([受用四資具]當下的省思文, ตังขณิกปัจจเวกขณปาฐะ) - 巴利唸誦 <{filename}../27/tankhanika-paccavekkhana-pali-chanting%zh.rst>`_
 
 - `dvattiṃsākāra pāṭha (三十二身分, ท๎วัตติงสาการปาฐะ) - 巴利唸誦 <{filename}../28/dvattimsaakaara-pali-chanting%zh.rst>`_
+
+- `Vaṭṭaka Paritta (鵪鶉護衛偈, วัฏฏกปริตร, The Baby Quail’s Protection) - 巴利唸誦 <{filename}../28/vattaka-paritta-pali-chanting%zh.rst>`_
 
 ----
 
@@ -334,7 +336,14 @@ Video & Audio (影音)
 
 - `วิชชา ฟักคง - YouTube <https://www.youtube.com/user/MrGripenman>`_
 
+- `Martin Teo - YouTube <https://www.youtube.com/user/martinteo88>`_
+
 - `Popular Paritta Videos - YouTube <https://www.youtube.com/playlist?list=PLDiR7UP2tjPKAwY6zqP564nn_OLgkVt4y>`_
+
+- `rubymonastery jj - YouTube <https://www.youtube.com/user/rubymonasteryjj>`_
+  (Myanmar)
+
+  * `佛經 <https://www.youtube.com/playlist?list=PLZ8HReEITElTvltrkBFXlmyCqWdfYGNfj>`_
 
 - `Ashin Sumana Nanda - YouTube <https://www.youtube.com/channel/UCEP5Ltu_NcY4cb3tKbow2aQ>`_
   (Myanmar)
