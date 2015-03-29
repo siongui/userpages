@@ -3,7 +3,7 @@
 
 :date: 2015-03-30 03:38
 :author: 阿姜查
-:tags: 阿姜查, Ajahn Chah, 隆波查, Luang Por Chah, 轉錄
+:tags: 阿姜查, Ajahn Chah, 隆波查, Luang Por Chah, 森林裡的一棵樹, A Tree in a Forest, 轉錄
 :category: 阿姜查
 :summary: 盲人(Blind Man) - 森林裡的一棵樹(A Tree in a Forest)
 :og_image: http://www.ajahnchah.org/book/07bb.jpg
