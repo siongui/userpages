@@ -2,7 +2,7 @@ Pali Chanting Collection 巴利唸誦整理
 #####################################
 
 :date: 2015-03-12 05:11
-:modified: 2015-03-28 23:43
+:modified: 2015-03-29 23:22
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: Collection of online Pāli chanting resources
@@ -59,6 +59,8 @@ Pali Chanting Collection 巴利唸誦整理
 - `dvattiṃsākāra pāṭha (三十二身分, ท๎วัตติงสาการปาฐะ) - 巴利唸誦 <{filename}../28/dvattimsaakaara-pali-chanting%zh.rst>`_
 
 - `Vaṭṭaka Paritta (鵪鶉護衛偈, วัฏฏกปริตร, The Baby Quail’s Protection) - 巴利唸誦 <{filename}../28/vattaka-paritta-pali-chanting%zh.rst>`_
+
+- `Bojjhaṅga Paritta (覺支護衛偈, โพชฌังคปริตร, The Factor-of-Awakening Protection) - 巴利唸誦 <{filename}../29/bojjhanga-paritta-pali-chanting%zh.rst>`_
 
 ----
 
