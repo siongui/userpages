@@ -59,8 +59,13 @@ Pali Chanting Collection 巴利唸誦整理
 - `dvattiṃsākāra pāṭha (三十二身分, ท๎วัตติงสาการปาฐะ) - 巴利唸誦 <{filename}../28/dvattimsaakaara-pali-chanting%zh.rst>`_
 
 - `Vaṭṭaka Paritta (鵪鶉護衛偈, วัฏฏกปริตร, The Baby Quail’s Protection) - 巴利唸誦 <{filename}../28/vattaka-paritta-pali-chanting%zh.rst>`_
+  (護衛經 Paritta_)
 
 - `Bojjhaṅga Paritta (覺支護衛偈, โพชฌังคปริตร, The Factor-of-Awakening Protection) - 巴利唸誦 <{filename}../29/bojjhanga-paritta-pali-chanting%zh.rst>`_
+  (護衛經 Paritta_)
+
+- `Āṭānāṭiya Paritta (禮敬過去七佛護衛偈, อาฏานาฏิยปริตร, Homage to the Seven Past Buddhas) - 巴利唸誦 <{filename}../31/aataanaatiya-paritta-pali-chanting%zh.rst>`_
+  (護衛經 Paritta_)
 
 ----
 
