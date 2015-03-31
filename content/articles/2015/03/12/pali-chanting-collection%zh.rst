@@ -2,7 +2,7 @@ Pali Chanting Collection 巴利唸誦整理
 #####################################
 
 :date: 2015-03-12 05:11
-:modified: 2015-03-29 23:22
+:modified: 2015-03-31 23:57
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: Collection of online Pāli chanting resources
@@ -69,6 +69,8 @@ Pali Chanting Collection 巴利唸誦整理
 
 - `Sambuddhe (諸佛偈, สัมพุทเธฯ, The Buddhas) - 巴利唸誦 <{filename}../31/sambuddhe-pali-chanting%zh.rst>`_
   (護衛經 Paritta_)
+
+- `Atīta paccavekkhaṇa pāṭha (對過去[所受用的四資具]的省思文, อตีตปัจจเวกขณปาฐะ) - 巴利唸誦 <{filename}../31/atiita-paccavekkhana-pali-chanting%zh.rst>`_
 
 ----
 
