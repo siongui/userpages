@@ -72,6 +72,8 @@ Pali Chanting Collection 巴利唸誦整理
 
 - `Atīta paccavekkhaṇa pāṭha (對過去[所受用的四資具]的省思文, อตีตปัจจเวกขณปาฐะ) - 巴利唸誦 <{filename}../31/atiita-paccavekkhana-pali-chanting%zh.rst>`_
 
+- `Tiṃsa pāramī (三十波羅蜜, The Thirty Perfections) - 巴利唸誦 <{filename}../../04/01/tingsa-paaramii-pali-chanting%zh.rst>`_
+
 ----
 
 `Pāli`_ Chanting Books (`巴利`_ 課誦本)
@@ -335,6 +337,11 @@ Video & Audio (影音)
 
 - `suriyabhandu - YouTube <https://www.youtube.com/user/suriyabhandu>`_
   (Thai)
+
+- `keo keo - YouTube <https://www.youtube.com/user/oclaothug69>`_
+  (Thai)
+
+  * `Chant 2 - YouTube <https://www.youtube.com/playlist?list=PLC5suh8XonN89EZ3CqeCtAyDHwVl_p2e0>`__
 
 - `สวดมนต์วัดหนองป่าพง <https://www.youtube.com/watch?v=bQroQaMfLxY&list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES>`_
   (Chanting of `Wat Nong Pah Pong`_, `巴蓬寺`_ 課誦)
