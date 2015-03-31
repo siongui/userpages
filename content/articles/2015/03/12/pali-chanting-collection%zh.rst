@@ -67,6 +67,9 @@ Pali Chanting Collection 巴利唸誦整理
 - `Āṭānāṭiya Paritta (禮敬過去七佛護衛偈, อาฏานาฏิยปริตร, Homage to the Seven Past Buddhas) - 巴利唸誦 <{filename}../31/aataanaatiya-paritta-pali-chanting%zh.rst>`_
   (護衛經 Paritta_)
 
+- `Sambuddhe (諸佛偈, สัมพุทเธฯ, The Buddhas) - 巴利唸誦 <{filename}../31/sambuddhe-pali-chanting%zh.rst>`_
+  (護衛經 Paritta_)
+
 ----
 
 `Pāli`_ Chanting Books (`巴利`_ 課誦本)
@@ -326,6 +329,9 @@ Video & Audio (影音)
   (Thai)
 
 - `เธอผู้ไม่แพ้ ตลอดกาล - YouTube <https://www.youtube.com/channel/UCxPtVsHpYhe0th_-MHPQM5g>`_
+  (Thai)
+
+- `suriyabhandu - YouTube <https://www.youtube.com/user/suriyabhandu>`_
   (Thai)
 
 - `สวดมนต์วัดหนองป่าพง <https://www.youtube.com/watch?v=bQroQaMfLxY&list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES>`_
