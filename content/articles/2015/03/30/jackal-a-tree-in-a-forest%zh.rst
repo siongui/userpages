@@ -9,7 +9,7 @@
 :og_image: http://www.ajahnchah.org/book/07bb.jpg
 
 
-.. list-table:: 家庭主婦 Housewife
+.. list-table:: 狼狗 Jackal
    :header-rows: 1
 
    * - 【狼狗】

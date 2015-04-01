@@ -74,6 +74,9 @@ Pali Chanting Collection 巴利唸誦整理
 
 - `Tiṃsa pāramī (三十波羅蜜, The Thirty Perfections) - 巴利唸誦 <{filename}../../04/01/tingsa-paaramii-pali-chanting%zh.rst>`_
 
+- `Aṅgulimāla Paritta (央掘魔羅護衛偈, อังคุลิมาลปริตร, Ven. Angulimala's Protection) - 巴利唸誦 <{filename}../../04/02/angulimaala-paritta-pali-chanting%zh.rst>`_
+  (護衛經 Paritta_)
+
 ----
 
 `Pāli`_ Chanting Books (`巴利`_ 課誦本)
