@@ -77,6 +77,8 @@ Pali Chanting Collection 巴利唸誦整理
 - `Aṅgulimāla Paritta (央掘魔羅護衛偈, อังคุลิมาลปริตร, Ven. Angulimala's Protection) - 巴利唸誦 <{filename}../../04/02/angulimaala-paritta-pali-chanting%zh.rst>`_
   (護衛經 Paritta_)
 
+- `Khemākhema Saraṇa (安穩、非安穩皈依偈, เขมาเขมสรณทีปิกคาถา, Secure & Unsecure Refuge) - 巴利唸誦 <{filename}../../04/02/khemaakhema-sarana-pali-chanting%zh.rst>`_
+
 ----
 
 `Pāli`_ Chanting Books (`巴利`_ 課誦本)
