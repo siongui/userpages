@@ -2,7 +2,7 @@ Pali Chanting Collection 巴利唸誦整理
 #####################################
 
 :date: 2015-03-12 05:11
-:modified: 2015-04-03 23:03
+:modified: 2015-04-04 02:12
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: Collection of online Pāli chanting resources
@@ -80,6 +80,8 @@ Pali Chanting Collection 巴利唸誦整理
 - `Khemākhema Saraṇa (安穩、非安穩皈依偈, เขมาเขมสรณทีปิกคาถา, Secure & Unsecure Refuge) - 巴利唸誦 <{filename}../../04/02/khemaakhema-sarana-pali-chanting%zh.rst>`_
 
 - `Saṅkhāra paccavekkhaṇa (因緣和合法之審查, บทพิจารณาสังขาร) - 巴利唸誦 <{filename}../../04/03/sankhara-paccavekkhana-pali-chanting%zh.rst>`_
+
+- `Ariya dhana gāthā (聖財偈, อะริยะธะนะคาถา, Noble Wealth) - 巴利唸誦 <{filename}../../04/04/ariya-dhana-pali-chanting%zh.rst>`_
 
 ----
 
