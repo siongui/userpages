@@ -2,7 +2,7 @@ Pali Chanting Collection 巴利唸誦整理
 #####################################
 
 :date: 2015-03-12 05:11
-:modified: 2015-03-31 23:57
+:modified: 2015-04-03 23:03
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: Collection of online Pāli chanting resources
@@ -78,6 +78,8 @@ Pali Chanting Collection 巴利唸誦整理
   (護衛經 Paritta_)
 
 - `Khemākhema Saraṇa (安穩、非安穩皈依偈, เขมาเขมสรณทีปิกคาถา, Secure & Unsecure Refuge) - 巴利唸誦 <{filename}../../04/02/khemaakhema-sarana-pali-chanting%zh.rst>`_
+
+- `Saṅkhāra paccavekkhaṇa (因緣和合法之審查, บทพิจารณาสังขาร) - 巴利唸誦 <{filename}../../04/03/sankhara-paccavekkhana-pali-chanting%zh.rst>`_
 
 ----
 
@@ -366,6 +368,9 @@ Video & Audio (影音)
 - `วิชชา ฟักคง - YouTube <https://www.youtube.com/user/MrGripenman>`_
 
 - `Martin Teo - YouTube <https://www.youtube.com/user/martinteo88>`_
+
+- `Guṇasāra Monastery - YouTube <https://www.youtube.com/channel/UCBwidaPERHU1LZXfAVIVU4Q>`_
+  (Thai)
 
 - `Popular Paritta Videos - YouTube <https://www.youtube.com/playlist?list=PLDiR7UP2tjPKAwY6zqP564nn_OLgkVt4y>`_
 

@@ -122,6 +122,8 @@ abhiṇha paccavekkhaṇa pāṭha (經常省察文, อภิณหปัจจ
 
 .. [Chant3] `08 อภิณหะปัจจะเวกขณะฯ ทำวัตรเช้า - YouTube <https://www.youtube.com/watch?v=Xo9gvNe9IqQ>`_
 
+.. [Chant4] `Abhinha-paccavekkhana ~ อภิณหปัจจเวกขณ์ ~ - YouTube <https://www.youtube.com/watch?v=i21Tqx1O974>`_
+
 搜尋：
 
 .. [Search1] Google Search `ABHIṆHAPACCAVEKKHAṆAPĀṬHA <https://www.google.com/search?q=ABHI%E1%B9%86HAPACCAVEKKHA%E1%B9%86AP%C4%80%E1%B9%ACHA>`__
