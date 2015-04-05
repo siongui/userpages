@@ -2,7 +2,7 @@ Pali Chanting Collection 巴利唸誦整理
 #####################################
 
 :date: 2015-03-12 05:11
-:modified: 2015-04-05 22:03
+:modified: 2015-04-06 01:24
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: Collection of online Pāli chanting resources
@@ -88,6 +88,8 @@ Pali Chanting Collection 巴利唸誦整理
 - `Tilakkhaṇādi Gāthā (三相等偈, ติลักขณาทิคาถา, The Three Characteristics) - 巴利唸誦 <{filename}../../04/05/tilakkhanaadi-gaathaa-pali-chanting%zh.rst>`_
 
 - `Bhārasutta Gāthā (五蘊重擔, ภารสุตตคาถา, The Burdens) - 巴利唸誦 <{filename}../../04/05/bhaara-sutta-pali-chanting%zh.rst>`_
+
+- `Bhaddekaratta Gāthā (賢善一夜偈, ภัทเทกรัตตคาถา, An Auspicious Day) - 巴利唸誦 <{filename}../../04/06/bhaddekaratta-gaathaa-pali-chanting%zh.rst>`_
 
 ----
 
@@ -322,6 +324,9 @@ Pali Chanting Collection 巴利唸誦整理
   - `Pali Chanting <http://4palichant101.blogspot.com/>`__
 
   - `สวดมนต์วัดญาณรังษี หน้า 1-20 <http://watpradhammajak.blogspot.com/2012/07/1-20.html>`_
+
+  - `essential chants - DhammaTalks.net <http://www.dhammatalks.net/Articles/Bhikkhu_Manual-Essential_Chants.pdf>`_
+    (`mirror <{filename}/chanting/unknown/Bhikkhu_Manual-Essential_Chants.pdf>`__)
 
 
 Video & Audio (影音)
