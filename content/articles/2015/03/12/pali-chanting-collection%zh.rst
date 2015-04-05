@@ -104,6 +104,9 @@ Pali Chanting Collection 巴利唸誦整理
   - `Daily chanting used in Ajahn Chah's branch monasteries <http://forestsanghapublications.org/viewBook.php?id=26&ref=vec>`_
     (`PDF <http://forestsanghapublications.org/assets/book/ChantingBook_rev2010.pdf>`__)
 
+  - `Wat Pah Nanachat Chanting Book (2014) PDF <https://www.dropbox.com/s/e7k4vf4j8jeotso/Buddhist%20Chanting%20Pali%20English%20with%20cover.pdf?dl=0>`_
+    (`mirror <{filename}/chanting/nong-pah-pong/Wat-Pah-Nanachat-Chanting-2014.pdf>`__)
+
 * `DHAMMA TALKS & WRITINGS OF Ṭhānissaro BHIKKHU | dhammatalks.org <http://www.dhammatalks.org/>`_
 
   - `A Chanting Guide: Pali Passages with English Translations <http://www.dhammatalks.org/Archive/Writings/ChantingGuideWithIndex.pdf>`_
