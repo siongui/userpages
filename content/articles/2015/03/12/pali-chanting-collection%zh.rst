@@ -2,7 +2,7 @@ Pali Chanting Collection 巴利唸誦整理
 #####################################
 
 :date: 2015-03-12 05:11
-:modified: 2015-04-05 08:48
+:modified: 2015-04-05 22:03
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: Collection of online Pāli chanting resources
@@ -86,6 +86,8 @@ Pali Chanting Collection 巴利唸誦整理
 - `[Devatā] Pattidāna Gāthā (迴向功德, ปัตติทานะคาถา, Dedication of Merit) - 巴利唸誦 <{filename}../../04/04/devataa-pattidaana-gaathaa-pali-chanting%zh.rst>`_
 
 - `Tilakkhaṇādi Gāthā (三相等偈, ติลักขณาทิคาถา, The Three Characteristics) - 巴利唸誦 <{filename}../../04/05/tilakkhanaadi-gaathaa-pali-chanting%zh.rst>`_
+
+- `Bhārasutta Gāthā (五蘊重擔, ภารสุตตคาถา, The Burdens) - 巴利唸誦 <{filename}../../04/05/bhaara-sutta-pali-chanting%zh.rst>`_
 
 ----
 
