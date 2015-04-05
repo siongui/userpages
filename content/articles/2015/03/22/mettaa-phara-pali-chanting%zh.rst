@@ -142,9 +142,13 @@ Mettā Pharaṇaṃ (慈心遍滿 คำแผ่เมตตา) - 巴利唸誦
 
 .. [14] `Metta bhāvanā ［慈観］－パーリ語 常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺 <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/paritta/Metta_Bhavana.htm>`_
 
-其他唸誦：
+唸誦集：
 
-.. [Chant1] `สวดมนต์วัดหนองป่าพง02 ทำวัตรเช้า บทแผ่่เมตตา - YouTube <https://www.youtube.com/watch?v=fdqCR8Ha6Rw>`_
+.. [Chant1] `บทสวดแผ่เมตตา Test(1) - YouTube <https://www.youtube.com/watch?v=Y4om0t6fo4w>`_
+
+.. [Chant2] `สวดมนต์วัดหนองป่าพง02 ทำวัตรเช้า บทแผ่่เมตตา - YouTube <https://www.youtube.com/watch?v=fdqCR8Ha6Rw&list=PLkXhPQ5Akl5hfOv9HoyH_m6N-RE49t-td&index=6>`__
+
+.. [Chant3] `สวดมนต์วัดหนองป่าพง02 ทำวัตรเช้า บทแผ่่เมตตา - YouTube <https://www.youtube.com/watch?v=BZnQXc4m9oM&list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES&index=2>`__
 
 
 .. _เมตตาผะระณัง: http://www.aia.or.th/prayer02.htm

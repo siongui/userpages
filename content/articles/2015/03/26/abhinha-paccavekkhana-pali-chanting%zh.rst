@@ -117,12 +117,15 @@ abhiṇha paccavekkhaṇa pāṭha (經常省察文, อภิณหปัจจ
 
 .. [Chant1] `อภิณหะปัจจะเวกขณะ Test(3) - YouTube <https://www.youtube.com/watch?v=cQsMCr5R4Sc>`_
 
-.. [Chant2] `สวดมนต์วัดหนองป่าพง04 ทำวัตรเช้า อภิณหปัจจเวกขณปาฐะ - YouTube <https://www.youtube.com/watch?v=MujOMhPqNA0>`_
+.. [Chant2] `สวดมนต์วัดหนองป่าพง04 ทำวัตรเช้า อภิณหปัจจเวกขณปาฐะ - YouTube <https://www.youtube.com/watch?v=MujOMhPqNA0&index=4&list=PLkXhPQ5Akl5hfOv9HoyH_m6N-RE49t-td>`__
             (巴蓬寺課誦)
 
 .. [Chant3] `08 อภิณหะปัจจะเวกขณะฯ ทำวัตรเช้า - YouTube <https://www.youtube.com/watch?v=Xo9gvNe9IqQ>`_
 
 .. [Chant4] `Abhinha-paccavekkhana ~ อภิณหปัจจเวกขณ์ ~ - YouTube <https://www.youtube.com/watch?v=i21Tqx1O974>`_
+
+.. [Chant5] `สวดมนต์วัดหนองป่าพง04 ทำวัตรเช้า อภิณหปัจจเวกขณปาฐะ - YouTube <https://www.youtube.com/watch?v=exgjsitg4jA&index=4&list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES>`__
+            (巴蓬寺課誦)
 
 搜尋：
 

@@ -271,7 +271,7 @@ dvattiṃsākāra pāṭha (三十二身分, ท๎วัตติงสาก�
 
 唸誦集：
 
-.. [Chant1] `สวดมนต์วัดหนองป่าพง03 ทำวัตรเช้า ทวัตติงสาการปาฐะ - YouTube <https://www.youtube.com/watch?v=QC7xZ7W0Nm4>`_
+.. [Chant1] `สวดมนต์วัดหนองป่าพง03 ทำวัตรเช้า ทวัตติงสาการปาฐะ - YouTube <https://www.youtube.com/watch?v=QC7xZ7W0Nm4&list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES&index=3>`__
 
 .. [Chant2] `กายคตาสติ Dvattimsakara - YouTube <https://www.youtube.com/watch?v=5N9BUqIAE_A>`_
 
@@ -282,6 +282,8 @@ dvattiṃsākāra pāṭha (三十二身分, ท๎วัตติงสาก�
 .. [Chant5] `ตู้๐๒ เทศนา 04 สวดมนต์พิเศษ บางบท แปลไทย ทวัตติงสาการปาฐะ - YouTube <https://www.youtube.com/watch?v=nhd68SFHlYw>`_
 
 .. [Chant6] `หลวงพ่อเฉลิมโชค ฉันทชาโต ทวัตติงสาการะปาฐะ - YouTube <https://www.youtube.com/watch?v=nhZxIjj64og>`_
+
+.. [Chant7] `สวดมนต์วัดหนองป่าพง03 ทำวัตรเช้า ทวัตติงสาการปาฐะ - YouTube <https://www.youtube.com/watch?v=CnItvYoWhG0&list=PLkXhPQ5Akl5hfOv9HoyH_m6N-RE49t-td&index=5>`__
 
 搜尋：
 

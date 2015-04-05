@@ -2,7 +2,7 @@ Pali Chanting Collection 巴利唸誦整理
 #####################################
 
 :date: 2015-03-12 05:11
-:modified: 2015-04-04 23:32
+:modified: 2015-04-05 08:48
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: Collection of online Pāli chanting resources
@@ -84,6 +84,8 @@ Pali Chanting Collection 巴利唸誦整理
 - `Ariya dhana gāthā (聖財偈, อะริยะธะนะคาถา, Noble Wealth) - 巴利唸誦 <{filename}../../04/04/ariya-dhana-pali-chanting%zh.rst>`_
 
 - `[Devatā] Pattidāna Gāthā (迴向功德, ปัตติทานะคาถา, Dedication of Merit) - 巴利唸誦 <{filename}../../04/04/devataa-pattidaana-gaathaa-pali-chanting%zh.rst>`_
+
+- `Tilakkhaṇādi Gāthā (三相等偈, ติลักขณาทิคาถา, The Three Characteristics) - 巴利唸誦 <{filename}../../04/05/tilakkhanaadi-gaathaa-pali-chanting%zh.rst>`_
 
 ----
 
@@ -342,6 +344,9 @@ Video & Audio (影音)
 
 - `JchaiJane - YouTube <https://www.youtube.com/user/JchaiJane>`_
   (Thai)
+
+  * `สวดมนต์วัดหนองป่าพง - YouTube <https://www.youtube.com/playlist?list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES>`__
+    (Chanting of `Wat Nong Pah Pong`_, `巴蓬寺`_ 課誦)
 
 - `เธอผู้ไม่แพ้ ตลอดกาล - YouTube <https://www.youtube.com/channel/UCxPtVsHpYhe0th_-MHPQM5g>`_
   (Thai)

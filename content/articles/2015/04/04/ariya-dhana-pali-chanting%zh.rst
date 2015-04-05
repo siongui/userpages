@@ -151,9 +151,9 @@ Ariya dhana gāthā (聖財偈, อะริยะธะนะคาถา, Nobl
 
 唸誦集：
 
-.. [Chant1] `สวดมนต์วัดหนองป่าพง10 ทำวัตรเย็น อริยธนคาถา - YouTube <https://www.youtube.com/watch?v=WUk_udRNFC8>`_
+.. [Chant1] `สวดมนต์วัดหนองป่าพง10 ทำวัตรเย็น อริยธนคาถา - YouTube <https://www.youtube.com/watch?v=WUk_udRNFC8&list=PLkXhPQ5Akl5hfOv9HoyH_m6N-RE49t-td&index=16>`__
 
-.. [Chant2] `สวดมนต์วัดหนองป่าพง10 ทำวัตรเย็น อริยธนคาถา - YouTube <https://www.youtube.com/watch?v=BwRHUCVjNFE>`__
+.. [Chant2] `สวดมนต์วัดหนองป่าพง10 ทำวัตรเย็น อริยธนคาถา - YouTube <https://www.youtube.com/watch?v=BwRHUCVjNFE&index=10&list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES>`__
 
 搜尋：
 
