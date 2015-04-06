@@ -1,0 +1,166 @@
+Index: ui/equation/imagerenderer.js
+===================================================================
+--- ui/equation/imagerenderer.js (revision 2021)
++++ ui/equation/imagerenderer.js (working copy)
+@@ -104,7 +104,7 @@
+   if (!equation) {
+     return '';
+   }
+-
++/*
+   var url = goog.ui.equation.ImageRenderer.SERVER_NAME_ +
+       '/chart?cht=tx' +
+       '&chf=bg,s,' +
+@@ -113,6 +113,10 @@
+       goog.ui.equation.ImageRenderer.FOREGROUND_COLOR +
+       '&chl=' +
+       encodeURIComponent(equation);
++*/
++  var url = 'http://latex.codecogs.com/gif.latex?' +
++      encodeURIComponent(equation);
++
+   return url;
+ };
+ 
+@@ -123,7 +127,8 @@
+  * @return {string?} The equation string, null if imageUrl cannot be parsed.
+  */
+ goog.ui.equation.ImageRenderer.getEquationFromImageUrl = function(imageUrl) {
+-  return goog.uri.utils.getParamValue(imageUrl, 'chl');
++//  return goog.uri.utils.getParamValue(imageUrl, 'chl');
++  return decodeURIComponent(goog.uri.utils.getQueryData(imageUrl));
+ };
+ 
+ 
+Index: ui/editor/defaulttoolbar.js
+===================================================================
+--- ui/editor/defaulttoolbar.js (revision 2021)
++++ ui/editor/defaulttoolbar.js (working copy)
+@@ -797,6 +797,10 @@
+ goog.ui.editor.DefaultToolbar.MSG_IMAGE_TITLE = goog.getMsg('Insert image');
+ 
+ 
++/** @desc Insert image button tooltip. */
++goog.ui.editor.DefaultToolbar.MSG_EQUATION_TITLE = goog.getMsg('Insert equation');
++
++
+ /** @desc Strike through button tooltip. */
+ goog.ui.editor.DefaultToolbar.MSG_STRIKE_THROUGH_TITLE =
+     goog.getMsg('Strikethrough');
+@@ -1000,6 +1004,11 @@
+   classes: goog.getCssName('tr-icon') + ' ' + goog.getCssName('tr-image'),
+   factory: goog.ui.editor.ToolbarFactory.makeButton
+ }, {
++  command: goog.editor.Command.EQUATION,
++  tooltip: goog.ui.editor.DefaultToolbar.MSG_EQUATION_TITLE,
++  classes: goog.getCssName('tr-icon') + ' ' + goog.getCssName('tr-equation'),
++  factory: goog.ui.editor.ToolbarFactory.makeButton
++}, {
+   command: goog.editor.Command.STRIKE_THROUGH,
+   tooltip: goog.ui.editor.DefaultToolbar.MSG_STRIKE_THROUGH_TITLE,
+   classes: goog.getCssName('tr-icon') + ' ' +
+Index: demos/editor/editor.html
+===================================================================
+--- demos/editor/editor.html (revision 2021)
++++ demos/editor/editor.html (working copy)
+@@ -27,6 +27,8 @@
+     goog.require('goog.editor.plugins.UndoRedo');
+     goog.require('goog.ui.editor.DefaultToolbar');
+     goog.require('goog.ui.editor.ToolbarController');
++    goog.require('goog.editor.plugins.EquationEditorPlugin');
++    goog.require('goog.editor.plugins.equation.EquationBubble');
+   </script>
+ 
+   <link rel="stylesheet" href="../css/demo.css">
+@@ -49,6 +51,8 @@
+   <link rel="stylesheet" href="../../css/editor/linkdialog.css" />
+   <link rel="stylesheet" href="../../css/editortoolbar.css" />
+ 
++  <link rel="stylesheet" href="../../css/dialog.css" />
++  <link rel="stylesheet" href="../../css/editor/equationeditor.css" />
+   <style>
+     #editMe {
+       width: 600px;
+@@ -96,6 +100,10 @@
+   myField.registerPlugin(
+       new goog.editor.plugins.LinkDialogPlugin());
+   myField.registerPlugin(new goog.editor.plugins.LinkBubble());
++  myField.registerPlugin(
++      new goog.editor.plugins.EquationEditorPlugin());
++  myField.registerPlugin(
++      new goog.editor.plugins.equation.EquationBubble());
+ 
+   // Specify the buttons to add to the toolbar, using built in default buttons.
+   var buttons = [
+@@ -116,6 +124,7 @@
+     goog.editor.Command.JUSTIFY_LEFT,
+     goog.editor.Command.JUSTIFY_CENTER,
+     goog.editor.Command.JUSTIFY_RIGHT,
++    goog.editor.Command.EQUATION,
+     goog.editor.Command.SUBSCRIPT,
+     goog.editor.Command.SUPERSCRIPT,
+     goog.editor.Command.STRIKE_THROUGH,
+Index: editor/plugins/equationeditorbubble.js
+===================================================================
+--- editor/plugins/equationeditorbubble.js (revision 2021)
++++ editor/plugins/equationeditorbubble.js (working copy)
+@@ -94,14 +94,15 @@
+     function(bubbleContainer) {
+   goog.dom.appendChild(bubbleContainer,
+       bubbleContainer.ownerDocument.createTextNode(
+-      MSG_EE_BUBBLE_EQUATION + goog.string.Unicode.NBSP));
++      MSG_EE_BUBBLE_EQUATION + ' $' +
++      (this.getTargetElement().getAttribute('alt') || '') +
++      '$ ' + goog.string.Unicode.NBSP));
+ 
+   this.createLink(goog.editor.plugins.equation.EquationBubble.EDIT_ID_,
+       MSG_EE_BUBBLE_EDIT, this.editEquation_, bubbleContainer);
+ 
+   goog.dom.appendChild(bubbleContainer,
+       bubbleContainer.ownerDocument.createTextNode(
+-      MSG_EE_BUBBLE_EQUATION +
+       goog.editor.plugins.AbstractBubblePlugin.DASH_NBSP_STRING));
+ 
+   this.createLink(goog.editor.plugins.equation.EquationBubble.REMOVE_ID_,
+Index: editor/plugins/equationeditorplugin.js
+===================================================================
+--- editor/plugins/equationeditorplugin.js (revision 2021)
++++ editor/plugins/equationeditorplugin.js (working copy)
+@@ -137,11 +137,13 @@
+ goog.editor.plugins.EquationEditorPlugin.prototype.enable =
+     function(fieldObject) {
+   goog.base(this, 'enable', fieldObject);
++/*
+   if (this.isEnabled(fieldObject)) {
+     this.dblClickKey_ = goog.events.listen(fieldObject.getElement(),
+         goog.events.EventType.DBLCLICK,
+         goog.bind(this.handleDoubleClick_, this), false, this);
+   }
++*/
+ };
+ 
+ 
+@@ -149,9 +151,11 @@
+ goog.editor.plugins.EquationEditorPlugin.prototype.disable =
+     function(fieldObject) {
+   goog.base(this, 'disable', fieldObject);
++/*
+   if (!this.isEnabled(fieldObject)) {
+     goog.events.unlistenByKey(this.dblClickKey_);
+   }
++*/
+ };
+ 
+ 
+Index: editor/command.js
+===================================================================
+--- editor/command.js (revision 2021)
++++ editor/command.js (working copy)
+@@ -58,6 +58,7 @@
+   DIR_LTR: 'ltr', // should be exactly 'ltr' as it becomes dir attribute value
+   DIR_RTL: 'rtl', // same here
+   IMAGE: 'image',
++  EQUATION: 'equation',
+   EDIT_HTML: 'editHtml',
+   UPDATE_LINK_BUBBLE: 'updateLinkBubble',
+ 
