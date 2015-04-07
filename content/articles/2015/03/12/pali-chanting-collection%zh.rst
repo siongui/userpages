@@ -2,7 +2,7 @@ Pali Chanting Collection 巴利唸誦整理
 #####################################
 
 :date: 2015-03-12 05:11
-:modified: 2015-04-06 01:24
+:modified: 2015-04-07 08:41
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: Collection of online Pāli chanting resources
@@ -90,6 +90,8 @@ Pali Chanting Collection 巴利唸誦整理
 - `Bhārasutta Gāthā (五蘊重擔, ภารสุตตคาถา, The Burdens) - 巴利唸誦 <{filename}../../04/05/bhaara-sutta-pali-chanting%zh.rst>`_
 
 - `Bhaddekaratta Gāthā (賢善一夜偈, ภัทเทกรัตตคาถา, An Auspicious Day) - 巴利唸誦 <{filename}../../04/06/bhaddekaratta-gaathaa-pali-chanting%zh.rst>`_
+
+- `Dhammagāravādi Gāthā (崇敬佛法偈, ธัมมคารวาทิคาถา, Verses on Respect for the Dhamma) - 巴利唸誦 <{filename}../../04/07/dhamma-gaaravaadi-gaathaa-pali-chanting%zh.rst>`_
 
 ----
 
