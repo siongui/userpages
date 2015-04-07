@@ -11,7 +11,7 @@ Dhammagāravādi Gāthā (崇敬佛法偈, ธัมมคารวาทิค�
    :header-rows: 1
    :class: table-syntax-diff
 
-   * - `巴利`_ (來源 [2]_)
+   * - `巴利`_ (來源 [3]_)
 
      - 中譯 (來源 [3]_)
 
