@@ -49,7 +49,7 @@ else
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server
 endif
 
-publish: scss
+publish: scss clean
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 github_upload:
