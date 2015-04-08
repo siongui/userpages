@@ -2,7 +2,7 @@ Pali Chanting Collection 巴利唸誦整理
 #####################################
 
 :date: 2015-03-12 05:11
-:modified: 2015-04-07 08:41
+:modified: 2015-04-08 23:21
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: Collection of online Pāli chanting resources
@@ -92,6 +92,9 @@ Pali Chanting Collection 巴利唸誦整理
 - `Bhaddekaratta Gāthā (賢善一夜偈, ภัทเทกรัตตคาถา, An Auspicious Day) - 巴利唸誦 <{filename}../../04/06/bhaddekaratta-gaathaa-pali-chanting%zh.rst>`_
 
 - `Dhammagāravādi Gāthā (崇敬佛法偈, ธัมมคารวาทิคาถา, Verses on Respect for the Dhamma) - 巴利唸誦 <{filename}../../04/07/dhamma-gaaravaadi-gaathaa-pali-chanting%zh.rst>`_
+
+- `Mora Paritta (孔雀護衛偈, โมรปริตร, The Peacock’s Protection) - 巴利唸誦 <{filename}../../04/08/mora-paritta-pali-chanting%zh.rst>`_
+  (護衛經 Paritta_)
 
 ----
 
@@ -392,6 +395,8 @@ Video & Audio (影音)
 
 - `Guṇasāra Monastery - YouTube <https://www.youtube.com/channel/UCBwidaPERHU1LZXfAVIVU4Q>`_
   (Thai)
+
+- `Paritta Chanting - YouTube <https://www.youtube.com/playlist?list=PLj-tYYaCGY6xbpo7Yz68kcN1ZfwNUgiBf>`__
 
 - `Popular Paritta Videos - YouTube <https://www.youtube.com/playlist?list=PLDiR7UP2tjPKAwY6zqP564nn_OLgkVt4y>`_
 
