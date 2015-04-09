@@ -96,6 +96,8 @@ Pali Chanting Collection 巴利唸誦整理
 - `Mora Paritta (孔雀護衛偈, โมรปริตร, The Peacock’s Protection) - 巴利唸誦 <{filename}../../04/08/mora-paritta-pali-chanting%zh.rst>`_
   (護衛經 Paritta_)
 
+- `Aggappasāda sutta gāthā (至上淨信偈, อัคคัปปะสาทะสุตตะคาถา) - 巴利唸誦 <{filename}../../04/09/aggappasaada-sutta-gaathaa-pali-chanting%zh.rst>`_
+
 ----
 
 `Pāli`_ Chanting Books (`巴利`_ 課誦本)
@@ -332,6 +334,8 @@ Pali Chanting Collection 巴利唸誦整理
 
   - `essential chants - DhammaTalks.net <http://www.dhammatalks.net/Articles/Bhikkhu_Manual-Essential_Chants.pdf>`_
     (`mirror <{filename}/chanting/unknown/Bhikkhu_Manual-Essential_Chants.pdf>`__)
+
+  - `Pali Chanting - Wat Saket Ratchaworamahawihan <http://www.slideshare.net/tongsamut/ss-17203864>`_
 
 
 Video & Audio (影音)
