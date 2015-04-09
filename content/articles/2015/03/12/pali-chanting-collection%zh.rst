@@ -98,6 +98,8 @@ Pali Chanting Collection 巴利唸誦整理
 
 - `Aggappasāda sutta gāthā (至上淨信偈, อัคคัปปะสาทะสุตตะคาถา) - 巴利唸誦 <{filename}../../04/09/aggappasaada-sutta-gaathaa-pali-chanting%zh.rst>`_
 
+- `Dhammānussati (法隨念, ธัมมานุสสตินัย, Recollection on the Dhamma) - 巴利唸誦 <{filename}../../04/10/dhammaanussati-pali-chanting%zh.rst>`_
+
 ----
 
 `Pāli`_ Chanting Books (`巴利`_ 課誦本)

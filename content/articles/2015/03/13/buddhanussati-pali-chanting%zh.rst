@@ -83,5 +83,13 @@ Buddhānussati (佛隨念) - 巴利唸誦
 
 .. [5] `Buddha Guṇā ［帰依仏］－パーリ語 常用経典集－真言宗泉涌寺派大本山 法楽寺 <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/paritta/Buddha_guna.htm>`_
 
+唸誦集：
+
+.. [Chant1] `Chanting Itipiso Katha 108x times - YouTube <https://www.youtube.com/watch?v=ivSD7UQABr0>`_
+
+.. [Chant2] `Buddhanussati - YouTube <https://www.youtube.com/watch?v=3OPZqXbTJxY>`_
+
+.. [Chant3] `Buddhanussati 佛隨念 - YouTube <https://www.youtube.com/watch?v=HmpMdmBnwGU>`_
+
 
 .. _巴利: http://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%88%A9%E8%AF%AD
