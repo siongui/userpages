@@ -22,7 +22,7 @@ Pali Chanting Collection 巴利唸誦整理
 - `Jaya-maṅgala Gāthā (勝利吉祥偈) - 巴利唸誦 <{filename}jaya-mangala-attha-gatha-pali-chanting%zh.rst>`_
   (護衛經 Paritta_)
 
-- `Buddhānussati (佛隨念) - 巴利唸誦 <{filename}../13/buddhanussati-pali-chanting%zh.rst>`_
+- `Buddhānussati (佛隨念, พุทธานุสสตินัย, Recollection on the Buddha) - 巴利唸誦 <{filename}../13/buddhanussati-pali-chanting%zh.rst>`_
 
 - `anumodanāvidhī (祝福) - 巴利唸誦 <{filename}../16/anumodanaavidhii-pali-chanting%zh.rst>`_
 
@@ -99,6 +99,8 @@ Pali Chanting Collection 巴利唸誦整理
 - `Aggappasāda sutta gāthā (至上淨信偈, อัคคัปปะสาทะสุตตะคาถา) - 巴利唸誦 <{filename}../../04/09/aggappasaada-sutta-gaathaa-pali-chanting%zh.rst>`_
 
 - `Dhammānussati (法隨念, ธัมมานุสสตินัย, Recollection on the Dhamma) - 巴利唸誦 <{filename}../../04/10/dhammaanussati-pali-chanting%zh.rst>`_
+
+- `Saṅghānussati (僧隨念, สังฆานุสสตินัย, Recollection on the Saṅgha) - 巴利唸誦 <{filename}../../04/10/sanghaanussati-pali-chanting%zh.rst>`_
 
 ----
 

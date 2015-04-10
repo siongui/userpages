@@ -1,13 +1,13 @@
-Buddhānussati (佛隨念) - 巴利唸誦
-#################################
+Buddhānussati (佛隨念, พุทธานุสสตินัย, Recollection on the Buddha) - 巴利唸誦
+###########################################################################
 
 :date: 2015-03-13 05:56
 :tags: 巴利語
 :category: 巴利唸誦
-:summary: Buddhānussati (佛隨念) 巴利語唸誦
+:summary: Buddhānussati (佛隨念, พุทธานุสสตินัย, Recollection on the Buddha) 巴利語唸誦
 
 
-.. list-table:: Buddhānussati (佛隨念)
+.. list-table:: Buddhānussati (佛隨念, `พุทธานุสสตินัย`_, `Recollection on the Buddha`_)
    :header-rows: 1
    :class: table-syntax-diff
 
@@ -66,7 +66,7 @@ Buddhānussati (佛隨念) - 巴利唸誦
 
 .. container:: align-center video-container-description
 
-  Buddhānussati (佛隨念) 108遍
+  Buddhānussati (佛隨念, `พุทธานุสสตินัย`_, `Recollection on the Buddha`_) 108遍
 
 ----
 
@@ -83,6 +83,10 @@ Buddhānussati (佛隨念) - 巴利唸誦
 
 .. [5] `Buddha Guṇā ［帰依仏］－パーリ語 常用経典集－真言宗泉涌寺派大本山 法楽寺 <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/paritta/Buddha_guna.htm>`_
 
+.. [6] `Pali Chanting : A Guide to the Recollection of the Buddha <http://4palichant101.blogspot.com/2013/01/a-guide-to-recollection-of-buddha.html>`_
+
+.. [7] `Buddhānussati - RECOLLECTION OF THE BUDDHA <http://www.arrowriver.ca/dhamma/budhsati.html>`_
+
 唸誦集：
 
 .. [Chant1] `Chanting Itipiso Katha 108x times - YouTube <https://www.youtube.com/watch?v=ivSD7UQABr0>`_
@@ -91,5 +95,11 @@ Buddhānussati (佛隨念) - 巴利唸誦
 
 .. [Chant3] `Buddhanussati 佛隨念 - YouTube <https://www.youtube.com/watch?v=HmpMdmBnwGU>`_
 
+.. [Chant4] `Buddhānussati, Dhammānussati and Saṅghānussati (with English subtitles) - YouTube <https://www.youtube.com/watch?v=G-oh4_I2TkM>`_
+
+
+.. _พุทธานุสสตินัย: http://www.dharma-gateway.com/dhamma/misc-41.htm
+
+.. _Recollection on the Buddha: http://www.arrowriver.ca/dhamma/budhsati.html
 
 .. _巴利: http://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%88%A9%E8%AF%AD
