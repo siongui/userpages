@@ -2,7 +2,7 @@ Pali Chanting Collection 巴利唸誦整理
 #####################################
 
 :date: 2015-03-12 05:11
-:modified: 2015-04-08 23:21
+:modified: 2015-04-11 23:19
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: Collection of online Pāli chanting resources
@@ -101,6 +101,8 @@ Pali Chanting Collection 巴利唸誦整理
 - `Dhammānussati (法隨念, ธัมมานุสสตินัย, Recollection on the Dhamma) - 巴利唸誦 <{filename}../../04/10/dhammaanussati-pali-chanting%zh.rst>`_
 
 - `Saṅghānussati (僧隨念, สังฆานุสสตินัย, Recollection on the Saṅgha) - 巴利唸誦 <{filename}../../04/10/sanghaanussati-pali-chanting%zh.rst>`_
+
+- `Sumaṅgala Gāthā (善吉祥偈, Verses Of Excellent Blessing, ภะวะตุสัพ) - 巴利唸誦 <{filename}../../04/11/sumangala-gaathaa-pali-chanting%zh.rst>`_
 
 ----
 
@@ -340,6 +342,8 @@ Pali Chanting Collection 巴利唸誦整理
     (`mirror <{filename}/chanting/unknown/Bhikkhu_Manual-Essential_Chants.pdf>`__)
 
   - `Pali Chanting - Wat Saket Ratchaworamahawihan <http://www.slideshare.net/tongsamut/ss-17203864>`_
+
+  - `[PDF] evening chanting dedication of offerings - DhammaTalks.net <http://www.dhammatalks.net/Books13/Chanting_PALI-and-ENG.pdf.pdf>`_
 
 
 Video & Audio (影音)
