@@ -351,6 +351,9 @@ Pali Chanting Collection 巴利唸誦整理
     `Ancient Buddhist Texts <http://www.ancient-buddhist-texts.net/>`_
     (`mirror <http://www.dhammatalks.net/ancient_buddhist_texts/Texts-and-Translations/Daily-Chanting/04-Day-Four.htm>`__)
 
+  - `[PDF] 「日常課誦本」 by 釋性恩 <http://www.tt034.org.tw/newrain/books/reciting-f1.pdf>`_
+    (`on 百度文库 <http://wenku.baidu.com/view/a207d88602d276a200292e3e.html>`__)
+
 
 Video & Audio (影音)
 ++++++++++++++++++++
