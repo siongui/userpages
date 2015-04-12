@@ -2,7 +2,7 @@ Pali Chanting Collection 巴利唸誦整理
 #####################################
 
 :date: 2015-03-12 05:11
-:modified: 2015-04-11 23:19
+:modified: 2015-04-12 23:20
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: Collection of online Pāli chanting resources
@@ -103,6 +103,8 @@ Pali Chanting Collection 巴利唸誦整理
 - `Saṅghānussati (僧隨念, สังฆานุสสตินัย, Recollection on the Saṅgha) - 巴利唸誦 <{filename}../../04/10/sanghaanussati-pali-chanting%zh.rst>`_
 
 - `Sumaṅgala Gāthā (善吉祥偈, Verses Of Excellent Blessing, ภะวะตุสัพ) - 巴利唸誦 <{filename}../../04/11/sumangala-gaathaa-pali-chanting%zh.rst>`_
+
+- `Devatāuyyojana Gāthā (歡送諸天神偈, เทวตาอุยโยชนคาถา, Verses on Sending Off the Devatā) - 巴利唸誦 <{filename}../../04/12/devataauyyojana-gaathaa-pali-chanting%zh.rst>`_
 
 ----
 
@@ -344,6 +346,10 @@ Pali Chanting Collection 巴利唸誦整理
   - `Pali Chanting - Wat Saket Ratchaworamahawihan <http://www.slideshare.net/tongsamut/ss-17203864>`_
 
   - `[PDF] evening chanting dedication of offerings - DhammaTalks.net <http://www.dhammatalks.net/Books13/Chanting_PALI-and-ENG.pdf.pdf>`_
+
+  - `Daily Chanting <http://www.ancient-buddhist-texts.net/Texts-and-Translations/Daily-Chanting/index.htm>`_ -
+    `Ancient Buddhist Texts <http://www.ancient-buddhist-texts.net/>`_
+    (`mirror <http://www.dhammatalks.net/ancient_buddhist_texts/Texts-and-Translations/Daily-Chanting/04-Day-Four.htm>`__)
 
 
 Video & Audio (影音)
