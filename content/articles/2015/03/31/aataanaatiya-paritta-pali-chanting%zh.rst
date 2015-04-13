@@ -83,7 +83,7 @@
   .. raw:: html
 
     <audio controls>
-      <source src="http://forestmeditation.com/audio/files/11atanatiyaparitta.mp3" type="audio/mpeg">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/ForestMeditation/11atanatiyaparitta.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 

@@ -93,16 +93,6 @@ Tiṃsa pāramī (三十波羅蜜, The Thirty Perfections) - 巴利唸誦
 
   Tiṃsa pāramī (三十波羅蜜, The Thirty Perfections)
 
-..
-  .. container:: align-center video-container
-  .. raw:: html
-    <audio controls>
-      <source src="http://www.dhammatalks.org/Archive/Chants/05EveningReflectionOnTheRequisites(p21).mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  .. container:: align-center video-container-description
-  05 Evening Chant Part II: Reflection after Using the Requisites (p. 22) - `Pali Chants | dhammatalks.org`_
-
 ----
 
 參考：
@@ -111,52 +101,19 @@ Tiṃsa pāramī (三十波羅蜜, The Thirty Perfections) - 巴利唸誦
        `PART 1 <http://methika.com/wp-content/uploads/2009/09/palienglishthaichantingbook-1.pdf>`_ -
        `Thai-Pali-English Chanting Book <http://methika.com/chanting-book/>`_
 
-.. `Wat_Layton_Chanting_Book <http://www.watlayton.org/attachments/view/?attach_id=16856>`_
-
 .. [2] Pāramī The (Ten) Perfections (Of The Buddha) (p. 108) -
        `Chanting Book of Wat Phra Dhātu Srī Chomtong Voravihāra <http://vipassanasangha.free.fr/ChantingBook.pdf>`_
-
-.. `Wat Nong Pah Pong Chanting Book (Pali - Thai, romanized) <http://mahanyano.blogspot.com/2012/03/chanting-book.html>`_
-   (`PDF <https://docs.google.com/file/d/0B3rNKttyXDClQ1RDTDJnXzRUUjJweE5TcWRnZWdIUQ/edit>`__)
 
 .. [3] DASAPĀRAMĪ GĀTHĀ 十波罗蜜之偈 -
        `Part 3 <http://methika.com/wp-content/uploads/2009/09/pali-chinese-chantingbook-part3.pdf>`__ -
        `Pali-Mandarin Chanting Book <http://methika.com/pali-mandarin-chanting-book/>`_
 
-.. `BOOK 1 <http://methika.com/wp-content/uploads/2010/01/Book1.PDF>`_ -
-   `Comprehensive English-Mandarin Pali Chanting Book <http://methika.com/comprehensive-english-mandarin-chanting-book/>`_
-
-.. `5- Evening.pdf <https://onedrive.live.com/view.aspx?cid=A88AE0574C8756AE&resid=a88ae0574c8756ae%211479&qt=sharedby&app=WordPdf>`_ -
-   `佛教朝暮课诵第七版 <https://skydrive.live.com/?cid=a88ae0574c8756ae#cid=A88AE0574C8756AE&id=A88AE0574C8756AE%21353>`_
-
-.. `Chanting Book - Pali-Thai-English-Chinese [1.0] <http://www.nirotharam.com/book/English-ChineseChantingbook1.pdf>`_
-
 .. [4] TIṀSA PĀRAMĪ Thirty Perfections 三十波罗蜜
        `Daily Contemplation - Pali-Thai-English-Chinese Chanting Book 2 <http://www.nirotharam.com/book/English-ChineseChantingbook2.pdf>`_
-
-.. `朝のお経（僧侶編） - タイ仏教 <http://mixi.jp/view_bbs.pl?comm_id=568167&id=57820764>`_
-
-.. `巴英中對照-課誦 <http://www.dhammatalks.org/Dhamma/Chanting/Verses2.htm>`_
-
-.. `上座部佛教唸誦集 - 瑪欣德尊者 編譯 <http://www.dhammatalks.net/Chinese/Bhikkhu_Mahinda-Puja.pdf>`_
-
-.. `Chanting: Morning & Evening Chanting, Reflections, Formal Requests <http://saranaloka.org/wp-content/uploads/2012/10/Chanting-Book.pdf>`_
-
-.. `A Chanting Guide: Pali Passages with English Translations <http://www.dhammatalks.org/Archive/Writings/ChantingGuideWithIndex.pdf>`_
-
-.. `Pali Chants - Forest Meditation`_
 
 .. [5] THE TEN PERFECTIONS - Honouring the Buddha’s possession of the ten or thirty perfections (pāramī)
        `Samatha Chanting Book <http://www.bahaistudies.net/asma/samatha4.pdf>`_
        (`Chanting Book on Scribd <http://www.scribd.com/doc/122173534/sambuddhe>`_)
-
-.. `สวดมนต์วัดญาณรังษี หน้า 1-20 <http://watpradhammajak.blogspot.com/2012/07/1-20.html>`_
-
-.. `Pali Chanting : Reflection after Using the Requisites <http://4palichant101.blogspot.com/2013/01/reflection-after-using-requisites.html>`_
-
-.. `上座部パーリ語常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺－<http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/index.htm>`_
-
-.. `atītapaccavekkhaṇavidhī (MP26) | Буддизм Тхеравады в Москве <http://www.theravada.su/node/868>`_
 
 .. [6] `パーリ仏教における三十波羅蜜 - 勝本 華蓮 ( かつもと かれん, Karen Katsumoto ) 著 (叡山学院講師) <http://bauddha.dhii.jp/INBUDS/search.php?m=trdd&usid=10062&a=>`_
 

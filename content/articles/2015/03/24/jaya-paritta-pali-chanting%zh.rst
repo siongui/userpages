@@ -106,7 +106,7 @@ Jaya Paritta Gāthā (勝利護衛偈) - 巴利唸誦
   .. raw:: html
 
     <audio controls>
-      <source src="http://www.dhammatalks.org/Archive/Chants/18JayaParitta(p132).mp3" type="audio/mpeg">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/WatMetta/18JayaParitta(p132).mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 

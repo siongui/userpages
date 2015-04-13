@@ -113,7 +113,7 @@ Atīta paccavekkhaṇa pāṭha (對過去[所受用的四資具]的省思文, �
   .. raw:: html
 
     <audio controls>
-      <source src="http://www.dhammatalks.org/Archive/Chants/05EveningReflectionOnTheRequisites(p21).mp3" type="audio/mpeg">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/WatMetta/05EveningReflectionOnTheRequisites(p21).mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 

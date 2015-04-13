@@ -172,7 +172,7 @@ Bojjhaṅga Paritta (覺支護衛偈, โพชฌังคปริตร, The 
   .. raw:: html
 
     <audio controls>
-      <source src="http://forestmeditation.com/audio/files/13bhojjangaparitta.mp3" type="audio/mpeg">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/ForestMeditation/13bhojjangaparitta.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 

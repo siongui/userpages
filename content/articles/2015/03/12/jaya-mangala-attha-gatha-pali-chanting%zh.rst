@@ -163,7 +163,7 @@ Jaya-maṅgala Gāthā (勝利吉祥偈) - 巴利唸誦
   .. raw:: html
 
     <audio controls>
-      <source src="http://forestmeditation.com/audio/files/12jayamangalagatha.mp3" type="audio/mpeg">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/ForestMeditation/12jayamangalagatha.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 
@@ -179,7 +179,7 @@ Jaya-maṅgala Gāthā (勝利吉祥偈) - 巴利唸誦
   .. raw:: html
 
     <audio controls>
-      <source src="http://www.dhammatalks.org/Archive/Chants/17Buddha-jaya-mangalaGatha(p130).mp3">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/WatMetta/17Buddha-jaya-mangalaGatha(p130).mp3">
       Your browser does not support the audio element.
     </audio>
 

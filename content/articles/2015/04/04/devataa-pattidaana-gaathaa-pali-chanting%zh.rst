@@ -106,22 +106,9 @@
 
   [Devatā] Pattidāna Gāthā (迴向功德, `ปัตติทานะคาถา`_, Dedication of Merit)
 
-..
-  .. container:: align-center video-container
-  .. raw:: html
-    <audio controls>
-      <source src="http://www.dhammatalks.org/Archive/Chants/05EveningReflectionOnTheRequisites(p21).mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  .. container:: align-center video-container-description
-  05 Evening Chant Part II: Reflection after Using the Requisites (p. 22) - `Pali Chants | dhammatalks.org`_
-
 ----
 
 參考：
-
-.. `PART 1 <http://methika.com/wp-content/uploads/2009/09/palienglishthaichantingbook-1.pdf>`_ -
-   `Thai-Pali-English Chanting Book <http://methika.com/chanting-book/>`_
 
 .. [1]
  .. list-table:: (p. 9) -
@@ -139,9 +126,6 @@
 
    * - Devatā-pattidāna-gāthā
      - Offering Merit To The Devas
-
-.. `Wat Nong Pah Pong Chanting Book (Pali - Thai, romanized) <http://mahanyano.blogspot.com/2012/03/chanting-book.html>`_
-   (`PDF <https://docs.google.com/file/d/0B3rNKttyXDClQ1RDTDJnXzRUUjJweE5TcWRnZWdIUQ/edit>`__)
 
 .. [3]
  .. list-table:: (p. 36) -
@@ -161,9 +145,6 @@
    * - Pattidānagāthā
      - Verses on Dedication of Merit
 
-.. `4- Morning.pdf <https://onedrive.live.com/view.aspx?cid=A88AE0574C8756AE&resid=A88AE0574C8756AE%211476&qt=sharedby&app=WordPdf>`_ -
-   `佛教朝暮课诵第七版 <https://skydrive.live.com/?cid=a88ae0574c8756ae#cid=A88AE0574C8756AE&id=A88AE0574C8756AE%21353>`_
-
 .. [5]
  .. list-table:: (p. 65) -
    `Chanting Book - Pali-Thai-English-Chinese [1.0] <http://www.nirotharam.com/book/English-ChineseChantingbook1.pdf>`_
@@ -173,24 +154,8 @@
      - Offering Merit to the Devas
      - 回向功德
 
-.. `Daily Contemplation - Pali-Thai-English-Chinese Chanting Book 2 <http://www.nirotharam.com/book/English-ChineseChantingbook2.pdf>`_
-
 .. [6] Pattidānagāthāパッティターナカーター -
        `朝のお経（僧侶編） - タイ仏教 <http://mixi.jp/view_bbs.pl?comm_id=568167&id=57820764>`_
-
-.. `巴英中對照-課誦 <http://www.dhammatalks.org/Dhamma/Chanting/Verses2.htm>`_
-
-.. `上座部佛教唸誦集 - 瑪欣德尊者 編譯 <http://www.dhammatalks.net/Chinese/Bhikkhu_Mahinda-Puja.pdf>`_
-
-.. `Chanting: Morning & Evening Chanting, Reflections, Formal Requests <http://saranaloka.org/wp-content/uploads/2012/10/Chanting-Book.pdf>`_
-
-..
- .. list-table:: (p. 102) -
-   `A Chanting Guide: Pali Passages with English Translations <http://www.dhammatalks.org/Archive/Writings/ChantingGuideWithIndex.pdf>`_
-   :header-rows: 0
-   * - Noble Wealth
-
-.. `Pali Chants - Forest Meditation <http://forestmeditation.com/audio/audio.html>`__
 
 .. [7]
  .. list-table:: (p. 63) -
@@ -206,15 +171,7 @@
        Verses on Dedication of Merit to deities -
        `สวดมนต์วัดญาณรังษี หน้า 1-20 <http://watpradhammajak.blogspot.com/2012/07/1-20.html>`_
 
-.. `Pali Chanting : Noble Wealth <http://4palichant101.blogspot.com/2013/01/noble-wealth.html>`_
-
-.. `上座部パーリ語常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺－<http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/index.htm>`_
-
 .. [9] `pattidānagāthā (MP8) | Буддизм Тхеравады в Москве <http://www.theravada.su/node/865>`_
-
-.. `บทสวดอริยธนคาถา - ห้องสวดมนต์ออนไลน์ <https://sites.google.com/site/pradhatchedeenoy/bth-swd-xriy-thn-khatha>`_
-
-.. `อะริยะธะนะคาถา <http://www.wattongnai.com/602945/%E0%B8%AD%E0%B8%B0%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%98%E0%B8%B0%E0%B8%99%E0%B8%B0%E0%B8%84%E0%B8%B2%E0%B8%96%E0%B8%B2>`__
 
 唸誦集：
 

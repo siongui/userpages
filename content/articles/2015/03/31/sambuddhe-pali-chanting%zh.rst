@@ -76,16 +76,6 @@ Sambuddhe (諸佛偈, สัมพุทเธฯ, The Buddhas) - 巴利唸誦
 
   Sambuddhe (諸佛偈, `สัมพุทเธฯ`_, The Buddhas)
 
-..
-  .. container:: align-center video-container
-  .. raw:: html
-    <audio controls>
-      <source src="http://forestmeditation.com/audio/files/11atanatiyaparitta.mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  .. container:: align-center video-container-description
-  Homage to the Seven Past Buddhas - `Pali Chants - Forest Meditation`_
-
 ----
 
 參考：
@@ -97,9 +87,6 @@ Sambuddhe (諸佛偈, สัมพุทเธฯ, The Buddhas) - 巴利唸誦
 .. [2] [24] Sambuddhe The Buddhas (p. 47) -
        `Chanting Book of Wat Phra Dhātu Srī Chomtong Voravihāra <http://vipassanasangha.free.fr/ChantingBook.pdf>`_
 
-.. `Wat Nong Pah Pong Chanting Book (Pali - Thai, romanized) <http://mahanyano.blogspot.com/2012/03/chanting-book.html>`_
-   (`PDF <https://docs.google.com/file/d/0B3rNKttyXDClQ1RDTDJnXzRUUjJweE5TcWRnZWdIUQ/edit>`__)
-
 .. [3] SAMBUDDHE AṬṬHAVĪSAÑCĀDIGĀTHĀ 二十八佛偈 -
        `Part 2 <http://methika.com/wp-content/uploads/2009/09/pali-chinese-chantingbook-part2.pdf>`__ -
        `Pali-Mandarin Chanting Book <http://methika.com/pali-mandarin-chanting-book/>`_
@@ -110,23 +97,8 @@ Sambuddhe (諸佛偈, สัมพุทเธฯ, The Buddhas) - 巴利唸誦
        `BOOK 1 <http://methika.com/wp-content/uploads/2010/01/Book1.PDF>`_ -
        `Comprehensive English-Mandarin Pali Chanting Book <http://methika.com/comprehensive-english-mandarin-chanting-book/>`_
 
-.. `4- Morning.pdf <https://onedrive.live.com/view.aspx?cid=A88AE0574C8756AE&resid=A88AE0574C8756AE%211476&qt=sharedby&app=WordPdf>`_ -
-   `佛教朝暮课诵第七版 <https://skydrive.live.com/?cid=a88ae0574c8756ae#cid=A88AE0574C8756AE&id=A88AE0574C8756AE%21353>`_
-
-.. `Chanting Book - Pali-Thai-English-Chinese [1.0] <http://www.nirotharam.com/book/English-ChineseChantingbook1.pdf>`_
-
-.. `朝のお経（僧侶編） - タイ仏教 <http://mixi.jp/view_bbs.pl?comm_id=568167&id=57820764>`_
-
-.. `巴英中對照-課誦 <http://www.dhammatalks.org/Dhamma/Chanting/Verses2.htm>`_
-
-.. `上座部佛教唸誦集 - 瑪欣德尊者 編譯 <http://www.dhammatalks.net/Chinese/Bhikkhu_Mahinda-Puja.pdf>`_
-
-.. `Chanting: Morning & Evening Chanting, Reflections, Formal Requests <http://saranaloka.org/wp-content/uploads/2012/10/Chanting-Book.pdf>`_
-
 .. [5] Sambuddhe The Buddhas (p. 112) -
        `A Chanting Guide: Pali Passages with English Translations <http://www.dhammatalks.org/Archive/Writings/ChantingGuideWithIndex.pdf>`_
-
-.. `Pali Chants - Forest Meditation`_
 
 .. [6] SAMBUDDHE AṬṬHAVĪSAÑCĀDIGĀTHĀ (p. 20) -
        `Samatha Chanting Book <http://www.bahaistudies.net/asma/samatha4.pdf>`_
@@ -137,8 +109,6 @@ Sambuddhe (諸佛偈, สัมพุทเธฯ, The Buddhas) - 巴利唸誦
        `สวดมนต์วัดญาณรังษี หน้า 1-20 <http://watpradhammajak.blogspot.com/2012/07/1-20.html>`_
 
 .. [8] `Pali Chanting : Sambuddhe   The Buddhas <http://4palichant101.blogspot.com/2013/01/sambuddhe-buddhas.html>`_
-
-.. `上座部パーリ語常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺－<http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/index.htm>`_
 
 .. [9] `sambuddhe aṭṭhavīsañcādigāthā (MP54) | Буддизм Тхеравады в Москве <http://www.theravada.su/node/894>`_
 

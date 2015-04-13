@@ -75,7 +75,7 @@ Devatāuyyojana Gāthā (歡送諸天神偈, เทวตาอุยโยช�
   .. raw:: html
 
     <audio controls>
-      <source src="http://forestmeditation.com/audio/files/15dukkhappatta.mp3" type="audio/mpeg">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/ForestMeditation/15dukkhappatta.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 

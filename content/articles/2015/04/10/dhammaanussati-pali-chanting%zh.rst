@@ -64,7 +64,7 @@ Dhammānussati (法隨念, ธัมมานุสสตินัย, Recollect
   .. raw:: html
 
     <audio controls>
-      <source src="http://forestmeditation.com/audio/files/05dhammanussati.mp3" type="audio/mpeg">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/ForestMeditation/05dhammanussati.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 

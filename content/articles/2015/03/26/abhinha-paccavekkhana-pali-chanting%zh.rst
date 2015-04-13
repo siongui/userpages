@@ -64,7 +64,7 @@ abhiṇha paccavekkhaṇa pāṭha (經常省察文, อภิณหปัจจ
   .. raw:: html
 
     <audio controls>
-      <source src="http://forestmeditation.com/audio/files/09abhinhapaccavekkhana.mp3" type="audio/mpeg">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/ForestMeditation/09abhinhapaccavekkhana.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 
@@ -80,7 +80,7 @@ abhiṇha paccavekkhaṇa pāṭha (經常省察文, อภิณหปัจจ
   .. raw:: html
 
     <audio controls>
-      <source src="http://www.dhammatalks.org/Archive/Chants/07FiveRecollections(p25).mp3" type="audio/mpeg">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/WatMetta/07FiveRecollections(p25).mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 

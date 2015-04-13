@@ -208,7 +208,7 @@ dvattiṃsākāra pāṭha (三十二身分, ท๎วัตติงสาก�
   .. raw:: html
 
     <audio controls>
-      <source src="http://forestmeditation.com/audio/files/10kayagatasati.mp3" type="audio/mpeg">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/ForestMeditation/10kayagatasati.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 
@@ -224,7 +224,7 @@ dvattiṃsākāra pāṭha (三十二身分, ท๎วัตติงสาก�
   .. raw:: html
 
     <audio controls>
-      <source src="http://www.dhammatalks.org/Archive/Chants/06ContemplationOfTheBody(p23).mp3" type="audio/mpeg">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/WatMetta/06ContemplationOfTheBody(p23).mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 

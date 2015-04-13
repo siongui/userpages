@@ -117,22 +117,9 @@ Tilakkhaṇādi Gāthā (三相等偈, ติลักขณาทิคาถ�
 
   Tilakkhaṇādi Gāthā (三相等偈, `ติลักขณาทิคาถา`_, The Three Characteristics)
 
-..
-  .. container:: align-center video-container
-  .. raw:: html
-    <audio controls>
-      <source src="http://www.dhammatalks.org/Archive/Chants/05EveningReflectionOnTheRequisites(p21).mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  .. container:: align-center video-container-description
-  05 Evening Chant Part II: Reflection after Using the Requisites (p. 22) - `Pali Chants | dhammatalks.org`_
-
 ----
 
 參考：
-
-.. `PART 1 <http://methika.com/wp-content/uploads/2009/09/palienglishthaichantingbook-1.pdf>`_ -
-   `Thai-Pali-English Chanting Book <http://methika.com/chanting-book/>`_
 
 .. [1]
  .. list-table:: (p. 50) -
@@ -174,11 +161,6 @@ Tilakkhaṇādi Gāthā (三相等偈, ติลักขณาทิคาถ�
      - Verses on the Three Characteristics
      - 三法印
 
-.. `4- Morning.pdf <https://onedrive.live.com/view.aspx?cid=A88AE0574C8756AE&resid=A88AE0574C8756AE%211476&qt=sharedby&app=WordPdf>`_ -
-   `佛教朝暮课诵第七版 <https://skydrive.live.com/?cid=a88ae0574c8756ae#cid=A88AE0574C8756AE&id=A88AE0574C8756AE%21353>`_
-
-.. `Chanting Book - Pali-Thai-English-Chinese [1.0] <http://www.nirotharam.com/book/English-ChineseChantingbook1.pdf>`_
-
 .. [6]
  .. list-table:: (p. 53) -
    `Daily Contemplation - Pali-Thai-English-Chinese Chanting Book 2 <http://www.nirotharam.com/book/English-ChineseChantingbook2.pdf>`_
@@ -188,10 +170,6 @@ Tilakkhaṇādi Gāthā (三相等偈, ติลักขณาทิคาถ�
      - Verses on The Three Characteristics
      - 三相等偈
 
-.. `朝のお経（僧侶編） - タイ仏教 <http://mixi.jp/view_bbs.pl?comm_id=568167&id=57820764>`_
-
-.. `巴英中對照-課誦 <http://www.dhammatalks.org/Dhamma/Chanting/Verses2.htm>`_
-
 .. [7]
  .. list-table:: (p. 452) -
    `上座部佛教唸誦集 - 瑪欣德尊者 編譯 <http://www.dhammatalks.net/Chinese/Bhikkhu_Mahinda-Puja.pdf>`_
@@ -200,8 +178,6 @@ Tilakkhaṇādi Gāthā (三相等偈, ติลักขณาทิคาถ�
    * - Tilakkhaṇādi Gāthā
      - 三相等偈 (三相偈)
 
-.. `Chanting: Morning & Evening Chanting, Reflections, Formal Requests <http://saranaloka.org/wp-content/uploads/2012/10/Chanting-Book.pdf>`_
-
 .. [8]
  .. list-table:: (p. 104) -
    `A Chanting Guide: Pali Passages with English Translations <http://www.dhammatalks.org/Archive/Writings/ChantingGuideWithIndex.pdf>`_
@@ -209,23 +185,9 @@ Tilakkhaṇādi Gāthā (三相等偈, ติลักขณาทิคาถ�
 
    * - The Three Characteristics
 
-.. `Pali Chants - Forest Meditation <http://forestmeditation.com/audio/audio.html>`__
-
-..
- .. list-table:: (p. 63) -
-   `Samatha Chanting Book <http://www.bahaistudies.net/asma/samatha4.pdf>`_
-   (`Chanting Book on Scribd <http://www.scribd.com/doc/122173534/sambuddhe>`_)
-   :header-rows: 0
-   * - PATTIDĀNAGĀTHĀ
-     - Transference of what has been Gained
-
-.. `สวดมนต์วัดญาณรังษี หน้า 1-20 <http://watpradhammajak.blogspot.com/2012/07/1-20.html>`_
-
 .. [9] `Pali Chanting : The Three Characteristics <http://4palichant101.blogspot.com/2013/01/the-three-characteristics.html>`_
 
 .. [10] `Lakkhaṇattayaṃ ［法印］－パーリ語 常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺 <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/paritta/Lakkhanattayam.htm>`_ -
-
-.. `上座部パーリ語常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺－<http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/index.htm>`_
 
 .. [11] `tilakkhaṇādigāthā (MP42) | Буддизм Тхеравады в Москве <http://www.theravada.su/node/882>`_
 

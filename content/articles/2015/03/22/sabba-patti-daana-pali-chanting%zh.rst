@@ -93,7 +93,7 @@ Sabba Pattidāna Gāthā (迴向一切有情偈 สัพพปัตติท�
   .. raw:: html
 
     <audio controls>
-      <source src="http://forestmeditation.com/audio/files/11pattidanagatha.mp3" type="audio/mpeg">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/ForestMeditation/11pattidanagatha.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 

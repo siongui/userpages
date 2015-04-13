@@ -137,7 +137,7 @@ Khandha Paritta (蘊護衛偈, The Group Protection, ขันธปริตร
   .. raw:: html
 
     <audio controls>
-      <source src="http://www.dhammatalks.org/Archive/Chants/16KhandaParitta(p122).mp3" type="audio/mpeg">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/WatMetta/16KhandaParitta(p122).mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 
@@ -153,7 +153,7 @@ Khandha Paritta (蘊護衛偈, The Group Protection, ขันธปริตร
   .. raw:: html
 
     <audio controls>
-      <source src="http://forestmeditation.com/audio/files/08khandhaparitta.mp3" type="audio/mpeg">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/ForestMeditation/08khandhaparitta.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 

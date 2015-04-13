@@ -84,7 +84,7 @@ Maṅgalasuttaṃ (吉祥經, มงฺคลสุตฺตํ, มงคลป
   .. raw:: html
 
     <audio controls>
-      <source src="http://www.dhammatalks.org/Archive/Chants/13MangalaSuttam(p115).mp3" type="audio/mpeg">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/WatMetta/13MangalaSuttam(p115).mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 

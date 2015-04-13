@@ -72,7 +72,7 @@ Saṅghānussati (僧隨念, สังฆานุสสตินัย, Recolle
   .. raw:: html
 
     <audio controls>
-      <source src="http://forestmeditation.com/audio/files/07sanghanussati.mp3" type="audio/mpeg">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/ForestMeditation/07sanghanussati.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 

@@ -96,7 +96,7 @@ Mettā Pharaṇaṃ (慈心遍滿 คำแผ่เมตตา) - 巴利唸誦
   .. raw:: html
 
     <audio controls>
-      <source src="http://www.dhammatalks.org/Archive/Chants/12SublimeAttitudes(p34).mp3" type="audio/mpeg">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/WatMetta/12SublimeAttitudes(p34).mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 

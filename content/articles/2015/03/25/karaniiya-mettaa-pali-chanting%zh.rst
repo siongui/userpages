@@ -137,7 +137,7 @@ Karaṇīya Mettā Sutta (應作慈愛經) - 巴利唸誦
   .. raw:: html
 
     <audio controls>
-      <source src="http://www.dhammatalks.org/Archive/Chants/15KaraniyaMettaSutta(p120).mp3" type="audio/mpeg">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/WatMetta/15KaraniyaMettaSutta(p120).mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 
@@ -153,7 +153,7 @@ Karaṇīya Mettā Sutta (應作慈愛經) - 巴利唸誦
   .. raw:: html
 
     <audio controls>
-      <source src="http://forestmeditation.com/audio/files/07karaniyamettasutta.mp3" type="audio/mpeg">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/ForestMeditation/07karaniyamettasutta.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 

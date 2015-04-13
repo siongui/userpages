@@ -84,7 +84,7 @@ Sumaṅgala Gāthā (善吉祥偈, Verses Of Excellent Blessing, ภะวะต
   .. raw:: html
 
     <audio controls>
-      <source src="http://forestmeditation.com/audio/files/14bhavatusabbamangala.mp3" type="audio/mpeg">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/ForestMeditation/14bhavatusabbamangala.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 

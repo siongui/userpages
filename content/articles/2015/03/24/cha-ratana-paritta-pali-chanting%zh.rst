@@ -150,7 +150,7 @@ Cha Ratana Paritta Gāthā (三寶護衛偈) - 巴利唸誦
   .. raw:: html
 
     <audio controls>
-      <source src="http://www.dhammatalks.org/Archive/Chants/14ChaRatanaParittaGatha(p117).mp3" type="audio/mpeg">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/WatMetta/14ChaRatanaParittaGatha(p117).mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 

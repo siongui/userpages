@@ -108,7 +108,7 @@ Mora Paritta (孔雀護衛偈, โมรปริตร, The Peacock’s Protect
   .. raw:: html
 
     <audio controls>
-      <source src="http://forestmeditation.com/audio/files/09moraparitta.mp3" type="audio/mpeg">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/ForestMeditation/09moraparitta.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 

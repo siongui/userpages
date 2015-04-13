@@ -108,7 +108,7 @@ Taṅkhaṇika paccavekkhaṇa pāṭha ([受用四資具]當下的省思文, �
   .. raw:: html
 
     <audio controls>
-      <source src="http://www.dhammatalks.org/Archive/Chants/03MorningReflectionOnTheRequisites(p10).mp3" type="audio/mpeg">
+      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/WatMetta/03MorningReflectionOnTheRequisites(p10).mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 

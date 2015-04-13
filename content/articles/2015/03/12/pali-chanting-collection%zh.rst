@@ -359,9 +359,11 @@ Video & Audio (影音)
 ++++++++++++++++++++
 
 - `Pali Chants | dhammatalks.org <http://www.dhammatalks.org/chant_index.html>`_
+  (`chanting audio mirror </7rsk9vjkm4p8z5xrdtqc/audio/WatMetta/morn_eve_chant.zip>`__)
 
 - `Pali Chants - Forest Meditation <http://forestmeditation.com/audio/audio.html>`_
   (Thai)
+  (`chanting audio mirror </7rsk9vjkm4p8z5xrdtqc/audio/ForestMeditation/pali_chants.zip>`__)
 
 - `Buddhist Chanting - Thai Traditional Way <http://www.mybuddha108.com/viideo_link.html>`_
 
