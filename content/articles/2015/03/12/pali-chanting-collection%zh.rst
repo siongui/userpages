@@ -115,7 +115,7 @@ Pali Chanting Collection 巴利唸誦整理
 
   - `Wat Nong Pah Pong Chanting Book (Pali - Thai, romanized) <http://mahanyano.blogspot.com/2012/03/chanting-book.html>`_
     (`PDF <https://docs.google.com/file/d/0B3rNKttyXDClQ1RDTDJnXzRUUjJweE5TcWRnZWdIUQ/edit>`__)
-    (`mirror <{filename}/chanting/nong-pah-pong/Wat-Nong-Pah-Pong-Chanting-Book.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/nong-pah-pong/Wat-Nong-Pah-Pong-Chanting-Book.pdf>`__)
 
   - `Chanting Book » Amaravati Buddhist Monastery <http://www.amaravati.org/dhamma-books/chanting-book/>`_
     (`PDF <http://cdn.amaravati.org/wp-content/uploads/2014/09/Amaravati-Chanting-Book.pdf>`__)
@@ -124,12 +124,12 @@ Pali Chanting Collection 巴利唸誦整理
     (`PDF <http://forestsanghapublications.org/assets/book/ChantingBook_rev2010.pdf>`__)
 
   - `Wat Pah Nanachat Chanting Book (2014) PDF <https://www.dropbox.com/s/e7k4vf4j8jeotso/Buddhist%20Chanting%20Pali%20English%20with%20cover.pdf?dl=0>`_
-    (`mirror <{filename}/chanting/nong-pah-pong/Wat-Pah-Nanachat-Chanting-2014.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/nong-pah-pong/Wat-Pah-Nanachat-Chanting-2014.pdf>`__)
 
 * `DHAMMA TALKS & WRITINGS OF Ṭhānissaro BHIKKHU | dhammatalks.org <http://www.dhammatalks.org/>`_
 
   - `A Chanting Guide: Pali Passages with English Translations <http://www.dhammatalks.org/Archive/Writings/ChantingGuideWithIndex.pdf>`_
-    (`mirror <{filename}/chanting/Thanissaro/ChantingGuideWithIndex.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/Thanissaro/ChantingGuideWithIndex.pdf>`__)
 
   - `A Chanting Guide: Pali Passages with English Translations (online HTML) <http://www.abuddhistlibrary.com/Buddhism/B%20-%20Theravada/Chanting%20Books/I%20-%20A%20Chanting%20Guide/index.html>`_
 
@@ -140,12 +140,12 @@ Pali Chanting Collection 巴利唸誦整理
 * `瑪欣德尊者 <http://baike.baidu.com/view/3793719.htm>`_ 編譯
 
   - `大護衛經 斯里蘭卡上座部佛教傳統 瑪欣德尊者 編譯 <http://www.dhammatalks.net/Chinese/Bhikkhu_Mahinda-Maha_Paritta.pdf>`_
-    (`mirror <{filename}/chanting/Mahinda/Bhikkhu_Mahinda-Maha_Paritta.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/Mahinda/Bhikkhu_Mahinda-Maha_Paritta.pdf>`__)
     (`another PDF <http://www.asoka-vihara.com/ebook/eb_05_131119/eb005_pdf.pdf>`__,
-    `mirror <{filename}/chanting/Mahinda/eb005_pdf.pdf>`__)
+    `mirror </7rsk9vjkm4p8z5xrdtqc/chanting/Mahinda/eb005_pdf.pdf>`__)
 
   - `上座部佛教唸誦集 - 瑪欣德尊者 編譯 <http://www.dhammatalks.net/Chinese/Bhikkhu_Mahinda-Puja.pdf>`_
-    (`mirror <{filename}/chanting/Mahinda/Bhikkhu_Mahinda-Puja.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/Mahinda/Bhikkhu_Mahinda-Puja.pdf>`__)
 
 * `Dhammavaro 南传佛教(法增法师) <https://plus.google.com/105094144621281842697>`_
 
@@ -156,12 +156,12 @@ Pali Chanting Collection 巴利唸誦整理
     + `南传上座部佛教 <http://theravadins.org/>`_
 
       - `南传佛教朝暮课诵本(2013年第七版2015年1月修订) 184x260.pdf <http://theravadins.org/tipitaka/chanting-prittia/chanting-morning-evening/at_download/file>`_
-        (`mirror <{filename}/chanting/Dhammavaro/2013v7-2015JanRev.pdf>`__)
+        (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/Dhammavaro/2013v7-2015JanRev.pdf>`__)
 
   - `南传护卫经偈第一版 <https://skydrive.live.com/?cid=a88ae0574c8756ae#cid=A88AE0574C8756AE&id=A88AE0574C8756AE%211493>`_
 
   - `[PDF] 南傳佛教課誦本 <http://211.72.214.103/gkv/book/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E8%AA%B2%E8%AA%A6%E6%9C%AC-%E4%B8%AD%E7%B9%81.pdf>`_
-    (`mirror <{filename}/chanting/Dhammavaro/buddhism-chanting-cht.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/Dhammavaro/buddhism-chanting-cht.pdf>`__)
 
   - `法增法師- Buddhist eLibrary <http://www.buddhistelibrary.net/cpg1420/thumbnails.php?album=85&page=9>`_
 
@@ -170,102 +170,102 @@ Pali Chanting Collection 巴利唸誦整理
   - `Chanting & Books Download <http://methika.com/chanting/>`__
 
     + `Navakovāda- Instructions for Newly Ordained Bhikkhus and Samaneras <http://methika.com/books/navakovada/>`_
-      (PDF mirror `1 <{filename}/chanting/Methika/Navakovaada/Navakovada1.pdf>`__,
-      `2 <{filename}/chanting/Methika/Navakovaada/Navakovada2.pdf>`__,
-      `3 <{filename}/chanting/Methika/Navakovaada/Navakovada3.pdf>`__,
-      `4 <{filename}/chanting/Methika/Navakovaada/Navakovada4.pdf>`__)
+      (PDF mirror `1 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Navakovaada/Navakovada1.pdf>`__,
+      `2 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Navakovaada/Navakovada2.pdf>`__,
+      `3 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Navakovaada/Navakovada3.pdf>`__,
+      `4 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Navakovaada/Navakovada4.pdf>`__)
 
     + `75 Monastic Rules to be observed by Novices <http://methika.com/observance/the-novice-precepts/>`_
-      (`PDF mirror <{filename}/chanting/Methika/Novice-Precepts/Novice-75Precepts.pdf>`__)
+      (`PDF mirror </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Novice-Precepts/Novice-75Precepts.pdf>`__)
 
     + `Thai-Pali Chanting Book <http://methika.com/pali-chanting/thai-pali-chanting-book/>`__
-      (PDF mirror `1 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting1.pdf>`__,
-      `2 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting2.pdf>`__,
-      `3 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting3.pdf>`__,
-      `4 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting4.pdf>`__,
-      `5 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting5.pdf>`__,
-      `6 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting6.pdf>`__,
-      `7 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting7.pdf>`__,
-      `8 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting8.pdf>`__,
-      `9 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting9.pdf>`__,
-      `10 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting10.pdf>`__,
-      `11 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting11.pdf>`__,
-      `12 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting12.pdf>`__,
-      `13 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting13.pdf>`__,
-      `14 <{filename}/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting14.pdf>`__)
+      (PDF mirror `1 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting1.pdf>`__,
+      `2 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting2.pdf>`__,
+      `3 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting3.pdf>`__,
+      `4 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting4.pdf>`__,
+      `5 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting5.pdf>`__,
+      `6 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting6.pdf>`__,
+      `7 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting7.pdf>`__,
+      `8 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting8.pdf>`__,
+      `9 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting9.pdf>`__,
+      `10 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting10.pdf>`__,
+      `11 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting11.pdf>`__,
+      `12 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting12.pdf>`__,
+      `13 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting13.pdf>`__,
+      `14 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Thai-Pali-Chanting-Book/Thai-Pali-Chanting14.pdf>`__)
 
     + `Pali-Thai-English Chanting Book <http://methika.com/chanting-book/>`__
-      (PDF mirror `1 <{filename}/chanting/Methika/Thai-Pali-English-Chanting-Book/palienglishthaichantingbook-1.pdf>`__,
-      `2 <{filename}/chanting/Methika/Thai-Pali-English-Chanting-Book/palienglishthaichantingbook-2.pdf>`__)
+      (PDF mirror `1 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Thai-Pali-English-Chanting-Book/palienglishthaichantingbook-1.pdf>`__,
+      `2 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Thai-Pali-English-Chanting-Book/palienglishthaichantingbook-2.pdf>`__)
 
     + `Comprehensive English-Mandarin Pali Chanting Book <http://methika.com/comprehensive-english-mandarin-chanting-book/>`__
-      (PDF mirror `1 <{filename}/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book1.PDF>`__,
-      `2 <{filename}/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book2.PDF>`__,
-      `3 <{filename}/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book3.PDF>`__,
-      `4 <{filename}/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book4.PDF>`__,
-      `5 <{filename}/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book5.PDF>`__,
-      `6 <{filename}/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book6.PDF>`__,
-      `7 <{filename}/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book7.PDF>`__,
-      `8 <{filename}/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book8.PDF>`__)
+      (PDF mirror `1 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book1.PDF>`__,
+      `2 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book2.PDF>`__,
+      `3 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book3.PDF>`__,
+      `4 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book4.PDF>`__,
+      `5 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book5.PDF>`__,
+      `6 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book6.PDF>`__,
+      `7 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book7.PDF>`__,
+      `8 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Comprehensive-English-Mandarin-Chanting-Book/Book8.PDF>`__)
 
     + `Pali-Mandarin Chanting Book <http://methika.com/pali-mandarin-chanting-book/>`__
-      (PDF mirror `1 <{filename}/chanting/Methika/Pali-Mandarin-Chanting-Book/pali-chinese-chantingbook-part1.pdf>`__,
-      `2 <{filename}/chanting/Methika/Pali-Mandarin-Chanting-Book/pali-chinese-chantingbook-part2.pdf>`__,
-      `3 <{filename}/chanting/Methika/Pali-Mandarin-Chanting-Book/pali-chinese-chantingbook-part3.pdf>`__)
+      (PDF mirror `1 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Pali-Mandarin-Chanting-Book/pali-chinese-chantingbook-part1.pdf>`__,
+      `2 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Pali-Mandarin-Chanting-Book/pali-chinese-chantingbook-part2.pdf>`__,
+      `3 </7rsk9vjkm4p8z5xrdtqc/chanting/Methika/Pali-Mandarin-Chanting-Book/pali-chinese-chantingbook-part3.pdf>`__)
 
 * `Wat Dhammagunaram of Utah วัดธรรมคุณาราม รัฐยูท่าห์ (Wat Latyon or Layton Buddhist Temple) <http://www.watlayton.org/>`_
 
   - `BUDDHIST CHANTING ON SUNDAY SERVICE <http://www.watlayton.org/attachments/view/?attach_id=16855>`_
-    (`mirror <{filename}/chanting/watlayton/BUDDHIST_CHANTING_ON_SUNDAY_SERVICE.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/watlayton/BUDDHIST_CHANTING_ON_SUNDAY_SERVICE.pdf>`__)
 
   - `Wat_Layton_Chanting_Book <http://www.watlayton.org/attachments/view/?attach_id=16856>`_
-    (`mirror <{filename}/chanting/watlayton/Wat_Layton_Chanting_Book_.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/watlayton/Wat_Layton_Chanting_Book_.pdf>`__)
 
 * `Wat Buddhametta (Tucson Buddhist Meditation Center) <http://tucsonbuddhistcenter.org/>`_
 
   - `Morning Chanting: Pali with English translation <http://tucsonbuddhistcenter.org/chanting/MorningChanting.pdf>`_
-    (`mirror <{filename}/chanting/WatBuddhametta/MorningChanting.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/WatBuddhametta/MorningChanting.pdf>`__)
 
   - `Evening Chanting: Pali with English translation <http://tucsonbuddhistcenter.org/chanting/EveningChanting.pdf>`_
-    (`mirror <{filename}/chanting/WatBuddhametta/EveningChanting.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/WatBuddhametta/EveningChanting.pdf>`__)
 
 * `南傳佛教圖書館 Theravada Buddhism E-Library <http://kusala.online-dhamma.net/%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E5%9C%96%E6%9B%B8%E9%A4%A8%20Theravada%20Buddhism%20E-Library/>`_
 
   - `帕奧禪林清凈之旅 PDF <http://kusala.online-dhamma.net/%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E5%9C%96%E6%9B%B8%E9%A4%A8%20Theravada%20Buddhism%20E-Library/077%20%E8%B3%87%E8%A8%8A/%E7%B7%AC%E7%94%B8%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E7%A6%AA%E4%BF%AE%E8%B3%87%E8%A8%8A/%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E6%B8%85%E5%87%88%E4%B9%8B%E6%97%85/%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E6%B8%85%E5%87%88%E4%B9%8B%E6%97%85%20PDF/>`_
 
     + (比丘常用巴利作持文) `36 附錄三.pdf <http://kusala.online-dhamma.net/%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E5%9C%96%E6%9B%B8%E9%A4%A8%20Theravada%20Buddhism%20E-Library/077%20%E8%B3%87%E8%A8%8A/%E7%B7%AC%E7%94%B8%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E7%A6%AA%E4%BF%AE%E8%B3%87%E8%A8%8A/%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E6%B8%85%E5%87%88%E4%B9%8B%E6%97%85/%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E6%B8%85%E5%87%88%E4%B9%8B%E6%97%85%20PDF/36%20%E9%99%84%E9%8C%84%E4%B8%89.pdf>`_
-      (`mirror <{filename}/chanting/Pa-Auk/appendix3.pdf>`__)
+      (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/Pa-Auk/appendix3.pdf>`__)
 
     + (巴利唸誦) `37 附錄四.pdf <http://kusala.online-dhamma.net/%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E5%9C%96%E6%9B%B8%E9%A4%A8%20Theravada%20Buddhism%20E-Library/077%20%E8%B3%87%E8%A8%8A/%E7%B7%AC%E7%94%B8%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E7%A6%AA%E4%BF%AE%E8%B3%87%E8%A8%8A/%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E6%B8%85%E5%87%88%E4%B9%8B%E6%97%85/%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E6%B8%85%E5%87%88%E4%B9%8B%E6%97%85%20PDF/37%20%E9%99%84%E9%8C%84%E5%8C%97.pdf>`_
-      (`mirror <{filename}/chanting/Pa-Auk/appendix4.pdf>`__)
+      (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/Pa-Auk/appendix4.pdf>`__)
 
 * `Buddhist Publication Society <http://www.bps.lk/>`_
 
   - `A Manual of Buddhist Chanting and Devotional Texts <http://www.bps.lk/olib/wh/wh054.pdf>`_
-    (`mirror <{filename}/chanting/BPS/wh054.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/BPS/wh054.pdf>`__)
 
 * `BuddhaNet <http://www.buddhanet.net/>`_
 
   - `Chanting Book - BuddhaNet <http://www.buddhanet.net/pdf_file/bookchant.pdf>`_
-    (`mirror <{filename}/chanting/BuddhaNet/bookchant.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/BuddhaNet/bookchant.pdf>`__)
 
   - `Vandana: Album of Pali Devotional Chanting - BuddhaNet <http://www.buddhanet.net/pdf_file/vandana02.pdf>`_
-    (`mirror <{filename}/chanting/BuddhaNet/vandana02.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/BuddhaNet/vandana02.pdf>`__)
 
   - `Pali Chanting in Theravada Buddhist Tradition - BuddhaNet <http://www.buddhanet.net/pali_chant.htm>`_
 
 * `Nirotharam <http://www.nirotharam.com/>`_
 
   - `Chanting Book - Pali-Thai-English-Chinese [1.0] <http://www.nirotharam.com/book/English-ChineseChantingbook1.pdf>`_
-    (`mirror <{filename}/chanting/nirotharam/English-ChineseChantingbook1.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/nirotharam/English-ChineseChantingbook1.pdf>`__)
 
   - `Daily Contemplation - Pali-Thai-English-Chinese Chanting Book 2 <http://www.nirotharam.com/book/English-ChineseChantingbook2.pdf>`_
-    (`mirror <{filename}/chanting/nirotharam/English-ChineseChantingbook2.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/nirotharam/English-ChineseChantingbook2.pdf>`__)
 
 * `Samatha Buddhist Meditation <http://www.samatha.org/>`_
 
   - `Chanting Book <http://www.bahaistudies.net/asma/samatha4.pdf>`__
-    (`mirror <{filename}/chanting/SamathaTrust/samatha4.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/SamathaTrust/samatha4.pdf>`__)
 
   - `Chanting Book on Scribd <http://www.scribd.com/doc/122173534/sambuddhe>`_
 
@@ -278,34 +278,34 @@ Pali Chanting Collection 巴利唸誦整理
 * `BUDDHIST LIBRARY FOR YOUTH (BLY) | Wat Kraya <https://krayayouth.wordpress.com/>`_
 
   - `Catubhāṇavārapāḷi Paritta Chanting E Book <https://krayayouth.files.wordpress.com/2012/07/paritta-chanting-e-book.pdf>`_
-    (`mirror <{filename}/chanting/WatKraya/paritta-chanting-e-book.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/WatKraya/paritta-chanting-e-book.pdf>`__)
 
 * `Sirimangalo International <http://www.sirimangalo.org/>`_
 
   - `Daily Chanting <http://static.sirimangalo.org/pdf/chanting_sirimangalo.pdf>`__
-    (`mirror <{filename}/chanting/sirimangalo/chanting_sirimangalo.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/sirimangalo/chanting_sirimangalo.pdf>`__)
 
   - `巴利翻譯及學習資源 <http://static.sirimangalo.org/pdf/>`_
 
 * `Saranaloka Foundation <http://saranaloka.org/>`_
 
   - `Chanting: Morning & Evening Chanting, Reflections, Formal Requests <http://saranaloka.org/wp-content/uploads/2012/10/Chanting-Book.pdf>`_
-    (`mirror <{filename}/chanting/saranaloka/Chanting-Book.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/saranaloka/Chanting-Book.pdf>`__)
 
   - `Five Subjects for Frequent Recollection <http://saranaloka.org/wp-content/uploads/2012/09/chanting-book-31.pdf>`__
-    (`mirror <{filename}/chanting/saranaloka/chanting-book-31.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/saranaloka/chanting-book-31.pdf>`__)
 
 * `Dhammadharini <http://www.dhammadharini.net/>`_
 
   - `Dhammadharini Chanting Book on Scribd <http://www.scribd.com/doc/96491559/Dhammadharini-Chanting-Book>`_
 
   - `Dhammadharini Chanting Book on DocSlide <http://docslide.us/documents/dhammadharini-chanting-book.html>`_
-    (`mirror <{filename}/chanting/Dhammadharini/dhammadharini-chanting-book.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/Dhammadharini/dhammadharini-chanting-book.pdf>`__)
 
 * Misc
 
   - `Buddhist Pali chanting book - A Fellow Design <http://fellowdesigns.com/main/images/stories/palichanting_urw_csx_short.pdf>`_
-    (`mirror <{filename}/chanting/Dhammarato/palichanting_urw_csx_short.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/Dhammarato/palichanting_urw_csx_short.pdf>`__)
 
   - `Traditional Pali Chants English <http://reading.buddhistdoor.com/en/item/d/1675>`_
     (`Download <http://reading.buddhistdoor.com/resources/get/0448aa69fe6c4cd6b574fd054a1b3972f5bacd8f>`__,
@@ -331,17 +331,17 @@ Pali Chanting Collection 巴利唸誦整理
   - `Anāpānasati Sutta in Pali and English - Leigh Brasington <http://www.leighb.com/mn118.htm>`_
 
   - `Chanting – Blessings (english) - BuddhismInfo.se <http://www.buddhisminfo.se/pdf/tobias/Recitation_-_Blessings_(english).pdf>`_
-    (`mirror <{filename}/chanting/TobiasHeed/Recitation_-_Blessings_(english).pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/TobiasHeed/Recitation_-_Blessings_(english).pdf>`__)
 
   - `Chanting Book of Wat Phra Dhātu Srī Chomtong Voravihāra <http://vipassanasangha.free.fr/ChantingBook.pdf>`_
-    (`mirror <{filename}/chanting/Chomtong/ChantingBook.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/Chomtong/ChantingBook.pdf>`__)
 
   - `Pali Chanting <http://4palichant101.blogspot.com/>`__
 
   - `สวดมนต์วัดญาณรังษี หน้า 1-20 <http://watpradhammajak.blogspot.com/2012/07/1-20.html>`_
 
   - `essential chants - DhammaTalks.net <http://www.dhammatalks.net/Articles/Bhikkhu_Manual-Essential_Chants.pdf>`_
-    (`mirror <{filename}/chanting/unknown/Bhikkhu_Manual-Essential_Chants.pdf>`__)
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/unknown/Bhikkhu_Manual-Essential_Chants.pdf>`__)
 
   - `Pali Chanting - Wat Saket Ratchaworamahawihan <http://www.slideshare.net/tongsamut/ss-17203864>`_
 
