@@ -365,6 +365,38 @@ Video & Audio (影音)
   (Thai)
   (`chanting audio mirror </7rsk9vjkm4p8z5xrdtqc/audio/ForestMeditation/pali_chants.zip>`__)
 
+- `智行尊者 <http://www.taiwandipa.org.tw/index.php?url=30-301&prg_no=c&start=1>`_
+  (`Google+ <https://plus.google.com/114611962996628560276>`__,
+  `YouTube <https://www.youtube.com/watch?v=d4n_NoGXYXM>`__)
+
+  - `S-22+886-01_20080922PM：晚課誦經：釋道中錄音.mp3 <http://ttbc.ddns.net/index.php?dir=%A4U%B8%FC3%2F%BF%FD%AD%B5%2F%A4W%AEy%B3%A1%BE%C7%B0%7C%BC%D0%B7%C7MP3%A4j%C0%C9%2Fnaynacara%3B%B4%BC%A6%E6%B4L%AA%CC%2F2008%2FTTBC%3B%B1%DF%BD%D2>`__
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/S-22_886-01_20080922PM.mp3>`__)
+
+  - `新化佛顓寺;6月禪修營誦經 <http://ttbc.ddns.net/index.php?dir=%A4U%B8%FC3%2F%BF%FD%AD%B5%2F%A4W%AEy%B3%A1%BE%C7%B0%7C%BC%D0%B7%C7MP3%A4j%C0%C9%2Fnaynacara%3B%B4%BC%A6%E6%B4L%AA%CC%2F2009%2F%B7s%A4%C6%A6%F2%C3F%A6x%3B6%A4%EB%C1I%AD%D7%C0%E7%BBw%B8g>`_
+    (Mirror `1 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/DS650062.mp3>`__,
+    `2 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/DS650068.mp3>`__,
+    `3 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/DS650070.mp3>`__,
+    `4 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/DS650071.mp3>`__,
+    `5 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/DS650072.mp3>`__,
+    `6 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/DS650073.mp3>`__,
+    `7 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/DS650074.mp3>`__,
+    `8 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/DS650076.mp3>`__,
+    `9 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/DS650079.mp3>`__,
+    `10 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/DS650081.mp3>`__,
+    `11 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/DS650082.mp3>`__,
+    `12 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/DS650087.mp3>`__)
+
+  - (Mirror `1 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/00EveryMorning.mp3>`__,
+    `2 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/01Monday.mp3>`__,
+    `3 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/02Tuesday.mp3>`__,
+    `4 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/03Wednesday.mp3>`__,
+    `5 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/04Thursday.mp3>`__,
+    `6 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/05Friday.mp3>`__,
+    `7 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/06Saturday.mp3>`__,
+    `8 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/07Sunday.mp3>`__)
+
+  - `晚課 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/k991-0.mp3>`__
+
 - `Buddhist Chanting - Thai Traditional Way <http://www.mybuddha108.com/viideo_link.html>`_
 
 - `motionclip88 - YouTube <https://www.youtube.com/user/motionclip88>`_
