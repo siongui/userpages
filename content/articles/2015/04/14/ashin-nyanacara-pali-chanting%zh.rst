@@ -8,40 +8,48 @@
 :og_image: https://lh4.googleusercontent.com/-akVA9Hf15hA/UwqfDGmZlbI/AAAAAAAARGg/8fa608qz3SI/s1440/DSC00324.jpg
 
 
-`智行尊者 <http://www.buddha.sg/htm/people/nyanacara.htm>`_
-(Bhante U Nyanacara,
-`Google+ <https://plus.google.com/114611962996628560276>`__)
 
-1974年生，緬甸人
+.. list-table:: `智行尊者 <http://www.taiwandipa.org.tw/index.php?url=30-301&prg_no=c&start=1>`_
+   (`Bhante U Nyanacara <http://www.buddha.sg/htm/people/nyanacara.htm>`_,
+   `Google+ <https://plus.google.com/114611962996628560276>`__,
+   `吉祥經開示 <https://www.youtube.com/watch?v=d4n_NoGXYXM>`_)
+   :header-rows: 0
+   :class: table-syntax-diff
 
-1988年受沙彌戒 1993年受具足戒
+   * - 1974年生，緬甸人
 
-1998-2001年 在毛淡棉佛學教育中心教授巴利語及阿毗達摩
+       1988年受沙彌戒 1993年受具足戒
 
-2002--2005年 帕奧禪林禪修與教授佛法
+       1998-2001年 在毛淡棉佛學教育中心教授巴利語及阿毗達摩
 
-2006開始到國外弘法
+       2002--2005年 帕奧禪林禪修與教授佛法
 
-2007-2008年斯里蘭卡卡拉尼亞大學取得佛學文學碩士
+       2006開始到國外弘法
 
-2008年4月首次應學院之邀蒞台
+       2007-2008年斯里蘭卡卡拉尼亞大學取得佛學文學碩士
 
-在緬通過Dhammacariya考試，取得「法師」的榮譽
+       2008年4月首次應學院之邀蒞台
 
-Venerable U Nyanacara was born in 1974 and ordained as a Theravada novice at the
-age of 15 He studied Pali Texts under famous teachers in Myanmar and passed the
-3 levels of Pali language examinations (Lower, Intermediate & Advanced) by the
-age of 22, two years after his higher ordination.
+       在緬通過Dhammacariya考試，取得「法師」的榮譽
 
-Since 2001, he has received instructions on meditation from Pa-Auk Sayadaw and
-dwelled in a forest monastery.
+     - Venerable U Nyanacara was born in 1974 and ordained as a Theravada novice
+       at the age of 15 He studied Pali Texts under famous teachers in Myanmar
+       and passed the 3 levels of Pali language examinations (Lower,
+       Intermediate & Advanced) by the age of 22, two years after his higher
+       ordination.
 
-Ven U Nyanacara later passed the prestigious "Dhammacariya" examination which
-confers the title of Dhamrna Teacher in 2002 at the age of 27.
+       Since 2001, he has received instructions on meditation from Pa-Auk
+       Sayadaw and dwelled in a forest monastery.
 
-He now teaches Pali and Abhidhamma to novices and senior monks at the Pa-Auk
-Forest Monastery and has given several Dhamma talks. Ven U Nyanacara is fluent
-in English.
+       Ven U Nyanacara later passed the prestigious "Dhammacariya" examination
+       which confers the title of Dhamrna Teacher in 2002 at the age of 27.
+
+       He now teaches Pali and Abhidhamma to novices and senior monks at the
+       Pa-Auk Forest Monastery and has given several Dhamma talks. Ven U
+       Nyanacara is fluent in English.
+
+|
+|
 
 .. container:: align-center video-container
 

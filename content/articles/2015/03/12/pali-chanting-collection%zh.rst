@@ -10,47 +10,27 @@ Pali Chanting Collection 巴利唸誦整理
 
 
 `Pāli`_ Chanting (`巴利`_ 唸誦)
-+++++++++++++++++++++++++++++++
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- `Maṅgalasuttaṃ (吉祥經, มงฺคลสุตฺตํ, มงคลปริตร) - 巴利唸誦 <{filename}../10/mangalasuttam-pali-chanting%zh.rst>`_
-  (護衛經 Paritta_)
+Thai (泰國)
++++++++++++
 
-- `saraṇagamanaṃ (三皈依, ไตรสรณคมน์) - 巴利唸誦 <{filename}../10/saranattayam-pali-chanting%zh.rst>`_
-
-- `Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈, โอวาทปาติโมกข์) - 巴利唸誦 <{filename}../11/ovada-patimokkha-pali-chanting%zh.rst>`_
-
-- `Jaya-maṅgala Gāthā (勝利吉祥偈) - 巴利唸誦 <{filename}jaya-mangala-attha-gatha-pali-chanting%zh.rst>`_
-  (護衛經 Paritta_)
+Evening Chanting (晚課)
+```````````````````````
 
 - `Buddhānussati (佛隨念, พุทธานุสสตินัย, Recollection on the Buddha) - 巴利唸誦 <{filename}../13/buddhanussati-pali-chanting%zh.rst>`_
 
-- `anumodanāvidhī (祝福) - 巴利唸誦 <{filename}../16/anumodanaavidhii-pali-chanting%zh.rst>`_
+- `Dhammānussati (法隨念, ธัมมานุสสตินัย, Recollection on the Dhamma) - 巴利唸誦 <{filename}../../04/10/dhammaanussati-pali-chanting%zh.rst>`_
 
-- `uddisanādhiṭṭhāna gāthā (迴向許願文, อุททิสสนาธิฏฐาน คาถา) - 巴利唸誦 <{filename}../18/uddisana-dhitthana-gatha-pali-chanting%zh.rst>`_
+- `Saṅghānussati (僧隨念, สังฆานุสสตินัย, Recollection on the Saṅgha) - 巴利唸誦 <{filename}../../04/10/sanghaanussati-pali-chanting%zh.rst>`_
 
-- `Pacchimabuddhovāda pāṭhaṃ (佛陀的最後之言誦 ปัจฉิมพุทโธวาทปาฐะ) - 巴利唸誦 <{filename}../19/pacchimabuddhovaada-pali-chanting%zh.rst>`_
 
-- `bhojanadānānumodanāgāthā (供養食物感恩偈) - 巴利唸誦 <{filename}../21/bhojanadaanaanumodanaa-gaathaa-pali-chanting%zh.rst>`_
+Reflection (省思)
+`````````````````
 
-- `Pathamabuddhabhāsita Gāthā (佛陀的最初之言偈 ปฐมพุทธภาสิตคาถา) - 巴利唸誦 <{filename}../22/pathama-buddhabhaasita-pali-chanting%zh.rst>`_
-
-- `Sabba Pattidāna Gāthā (迴向一切有情偈 สัพพปัตติทานคาถา) - 巴利唸誦 <{filename}../22/sabba-patti-daana-pali-chanting%zh.rst>`_
-
-- `Mettā Pharaṇaṃ (慈心遍滿 คำแผ่เมตตา) - 巴利唸誦 <{filename}../22/mettaa-phara-pali-chanting%zh.rst>`_
-
-- `Cha Ratana Paritta Gāthā (三寶護衛偈) - 巴利唸誦 <{filename}../24/cha-ratana-paritta-pali-chanting%zh.rst>`_
-  (護衛經 Paritta_)
-
-- `Jaya Paritta Gāthā (勝利護衛偈) - 巴利唸誦 <{filename}../24/jaya-paritta-pali-chanting%zh.rst>`_
-  (護衛經 Paritta_)
-
-- `Karaṇīya Mettā Sutta (應作慈愛經) - 巴利唸誦 <{filename}../25/karaniiya-mettaa-pali-chanting%zh.rst>`_
-  (護衛經 Paritta_)
+- `Saṅkhāra paccavekkhaṇa (因緣和合法之審查, บทพิจารณาสังขาร) - 巴利唸誦 <{filename}../../04/03/sankhara-paccavekkhana-pali-chanting%zh.rst>`_
 
 - `dhātupaṭikūla paccavekkhaṇa pāṭha (元素及厭逆的省思, ธาตุปฏิกูลปัจจเวกขณปาฐะ) - 巴利唸誦 <{filename}../26/dhaatu-patikuula-paccavekkhana-pali-chanting%zh.rst>`_
-
-- `Khandha Paritta (蘊護衛偈, The Group Protection, ขันธปริตร) - 巴利唸誦 <{filename}../26/khandha-paritta-pali-chanting%zh.rst>`_
-  (護衛經 Paritta_)
 
 - `abhiṇha paccavekkhaṇa pāṭha (經常省察文, อภิณหปัจจเวกขณปาฐะ) - 巴利唸誦 <{filename}../26/abhinha-paccavekkhana-pali-chanting%zh.rst>`_
 
@@ -58,32 +38,37 @@ Pali Chanting Collection 巴利唸誦整理
 
 - `dvattiṃsākāra pāṭha (三十二身分, ท๎วัตติงสาการปาฐะ) - 巴利唸誦 <{filename}../28/dvattimsaakaara-pali-chanting%zh.rst>`_
 
-- `Vaṭṭaka Paritta (鵪鶉護衛偈, วัฏฏกปริตร, The Baby Quail’s Protection) - 巴利唸誦 <{filename}../28/vattaka-paritta-pali-chanting%zh.rst>`_
-  (護衛經 Paritta_)
-
-- `Bojjhaṅga Paritta (覺支護衛偈, โพชฌังคปริตร, The Factor-of-Awakening Protection) - 巴利唸誦 <{filename}../29/bojjhanga-paritta-pali-chanting%zh.rst>`_
-  (護衛經 Paritta_)
-
-- `Āṭānāṭiya Paritta (禮敬過去七佛護衛偈, อาฏานาฏิยปริตร, Homage to the Seven Past Buddhas) - 巴利唸誦 <{filename}../31/aataanaatiya-paritta-pali-chanting%zh.rst>`_
-  (護衛經 Paritta_)
-
-- `Sambuddhe (諸佛偈, สัมพุทเธฯ, The Buddhas) - 巴利唸誦 <{filename}../31/sambuddhe-pali-chanting%zh.rst>`_
-  (護衛經 Paritta_)
-
 - `Atīta paccavekkhaṇa pāṭha (對過去[所受用的四資具]的省思文, อตีตปัจจเวกขณปาฐะ) - 巴利唸誦 <{filename}../31/atiita-paccavekkhana-pali-chanting%zh.rst>`_
+
+
+Dedication_ (迴向)
+``````````````````
+
+- `uddisanādhiṭṭhāna gāthā (迴向許願文, อุททิสสนาธิฏฐาน คาถา) - 巴利唸誦 <{filename}../18/uddisana-dhitthana-gatha-pali-chanting%zh.rst>`_
+
+- `Sabba Pattidāna Gāthā (迴向一切有情偈 สัพพปัตติทานคาถา) - 巴利唸誦 <{filename}../22/sabba-patti-daana-pali-chanting%zh.rst>`_
+
+- `[Devatā] Pattidāna Gāthā (迴向功德, ปัตติทานะคาถา, Dedication of Merit) - 巴利唸誦 <{filename}../../04/04/devataa-pattidaana-gaathaa-pali-chanting%zh.rst>`_
+
+
+Gātha_ (偈頌)
+`````````````
+
+- `saraṇagamanaṃ (三皈依, ไตรสรณคมน์) - 巴利唸誦 <{filename}../10/saranattayam-pali-chanting%zh.rst>`_
+
+- `Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈, โอวาทปาติโมกข์) - 巴利唸誦 <{filename}../11/ovada-patimokkha-pali-chanting%zh.rst>`_
+
+- `Pacchimabuddhovāda pāṭhaṃ (佛陀的最後之言誦 ปัจฉิมพุทโธวาทปาฐะ) - 巴利唸誦 <{filename}../19/pacchimabuddhovaada-pali-chanting%zh.rst>`_
+
+- `Pathamabuddhabhāsita Gāthā (佛陀的最初之言偈 ปฐมพุทธภาสิตคาถา) - 巴利唸誦 <{filename}../22/pathama-buddhabhaasita-pali-chanting%zh.rst>`_
+
+- `Mettā Pharaṇaṃ (慈心遍滿 คำแผ่เมตตา) - 巴利唸誦 <{filename}../22/mettaa-phara-pali-chanting%zh.rst>`_
 
 - `Tiṃsa pāramī (三十波羅蜜, The Thirty Perfections) - 巴利唸誦 <{filename}../../04/01/tingsa-paaramii-pali-chanting%zh.rst>`_
 
-- `Aṅgulimāla Paritta (央掘魔羅護衛偈, อังคุลิมาลปริตร, Ven. Angulimala's Protection) - 巴利唸誦 <{filename}../../04/02/angulimaala-paritta-pali-chanting%zh.rst>`_
-  (護衛經 Paritta_)
-
 - `Khemākhema Saraṇa (安穩、非安穩皈依偈, เขมาเขมสรณทีปิกคาถา, Secure & Unsecure Refuge) - 巴利唸誦 <{filename}../../04/02/khemaakhema-sarana-pali-chanting%zh.rst>`_
 
-- `Saṅkhāra paccavekkhaṇa (因緣和合法之審查, บทพิจารณาสังขาร) - 巴利唸誦 <{filename}../../04/03/sankhara-paccavekkhana-pali-chanting%zh.rst>`_
-
 - `Ariya dhana gāthā (聖財偈, อะริยะธะนะคาถา, Noble Wealth) - 巴利唸誦 <{filename}../../04/04/ariya-dhana-pali-chanting%zh.rst>`_
-
-- `[Devatā] Pattidāna Gāthā (迴向功德, ปัตติทานะคาถา, Dedication of Merit) - 巴利唸誦 <{filename}../../04/04/devataa-pattidaana-gaathaa-pali-chanting%zh.rst>`_
 
 - `Tilakkhaṇādi Gāthā (三相等偈, ติลักขณาทิคาถา, The Three Characteristics) - 巴利唸誦 <{filename}../../04/05/tilakkhanaadi-gaathaa-pali-chanting%zh.rst>`_
 
@@ -93,18 +78,53 @@ Pali Chanting Collection 巴利唸誦整理
 
 - `Dhammagāravādi Gāthā (崇敬佛法偈, ธัมมคารวาทิคาถา, Verses on Respect for the Dhamma) - 巴利唸誦 <{filename}../../04/07/dhamma-gaaravaadi-gaathaa-pali-chanting%zh.rst>`_
 
-- `Mora Paritta (孔雀護衛偈, โมรปริตร, The Peacock’s Protection) - 巴利唸誦 <{filename}../../04/08/mora-paritta-pali-chanting%zh.rst>`_
-  (護衛經 Paritta_)
-
 - `Aggappasāda sutta gāthā (至上淨信偈, อัคคัปปะสาทะสุตตะคาถา) - 巴利唸誦 <{filename}../../04/09/aggappasaada-sutta-gaathaa-pali-chanting%zh.rst>`_
-
-- `Dhammānussati (法隨念, ธัมมานุสสตินัย, Recollection on the Dhamma) - 巴利唸誦 <{filename}../../04/10/dhammaanussati-pali-chanting%zh.rst>`_
-
-- `Saṅghānussati (僧隨念, สังฆานุสสตินัย, Recollection on the Saṅgha) - 巴利唸誦 <{filename}../../04/10/sanghaanussati-pali-chanting%zh.rst>`_
 
 - `Sumaṅgala Gāthā (善吉祥偈, Verses Of Excellent Blessing, ภะวะตุสัพ) - 巴利唸誦 <{filename}../../04/11/sumangala-gaathaa-pali-chanting%zh.rst>`_
 
 - `Devatāuyyojana Gāthā (歡送諸天神偈, เทวตาอุยโยชนคาถา, Verses on Sending Off the Devatā) - 巴利唸誦 <{filename}../../04/12/devataauyyojana-gaathaa-pali-chanting%zh.rst>`_
+
+
+Paritta_ (護衛經)
+`````````````````
+
+- `Maṅgalasuttaṃ (吉祥經, มงฺคลสุตฺตํ, มงคลปริตร) - 巴利唸誦 <{filename}../10/mangalasuttam-pali-chanting%zh.rst>`_
+
+- `Jaya-maṅgala Gāthā (勝利吉祥偈) - 巴利唸誦 <{filename}jaya-mangala-attha-gatha-pali-chanting%zh.rst>`_
+
+- `Cha Ratana Paritta Gāthā (三寶護衛偈) - 巴利唸誦 <{filename}../24/cha-ratana-paritta-pali-chanting%zh.rst>`_
+
+- `Jaya Paritta Gāthā (勝利護衛偈) - 巴利唸誦 <{filename}../24/jaya-paritta-pali-chanting%zh.rst>`_
+
+- `Karaṇīya Mettā Sutta (應作慈愛經) - 巴利唸誦 <{filename}../25/karaniiya-mettaa-pali-chanting%zh.rst>`_
+
+- `Khandha Paritta (蘊護衛偈, The Group Protection, ขันธปริตร) - 巴利唸誦 <{filename}../26/khandha-paritta-pali-chanting%zh.rst>`_
+
+- `Vaṭṭaka Paritta (鵪鶉護衛偈, วัฏฏกปริตร, The Baby Quail’s Protection) - 巴利唸誦 <{filename}../28/vattaka-paritta-pali-chanting%zh.rst>`_
+
+- `Bojjhaṅga Paritta (覺支護衛偈, โพชฌังคปริตร, The Factor-of-Awakening Protection) - 巴利唸誦 <{filename}../29/bojjhanga-paritta-pali-chanting%zh.rst>`_
+
+- `Āṭānāṭiya Paritta (禮敬過去七佛護衛偈, อาฏานาฏิยปริตร, Homage to the Seven Past Buddhas) - 巴利唸誦 <{filename}../31/aataanaatiya-paritta-pali-chanting%zh.rst>`_
+
+- `Sambuddhe (諸佛偈, สัมพุทเธฯ, The Buddhas) - 巴利唸誦 <{filename}../31/sambuddhe-pali-chanting%zh.rst>`_
+
+- `Aṅgulimāla Paritta (央掘魔羅護衛偈, อังคุลิมาลปริตร, Ven. Angulimala's Protection) - 巴利唸誦 <{filename}../../04/02/angulimaala-paritta-pali-chanting%zh.rst>`_
+
+- `Mora Paritta (孔雀護衛偈, โมรปริตร, The Peacock’s Protection) - 巴利唸誦 <{filename}../../04/08/mora-paritta-pali-chanting%zh.rst>`_
+
+Anumodana_ (隨喜)
+`````````````````
+
+- `anumodanāvidhī (祝福) - 巴利唸誦 <{filename}../16/anumodanaavidhii-pali-chanting%zh.rst>`_
+
+- `bhojanadānānumodanāgāthā (供養食物感恩偈) - 巴利唸誦 <{filename}../21/bhojanadaanaanumodanaa-gaathaa-pali-chanting%zh.rst>`_
+
+
+
+Myanmar (緬甸)
+++++++++++++++
+
+- `智行尊者(Ashin Ñāṇacara)巴利唸誦 <{filename}../../04/14/ashin-nyanacara-pali-chanting%zh.rst>`_
 
 ----
 
@@ -366,13 +386,24 @@ Video & Audio (影音)
   (`chanting audio mirror </7rsk9vjkm4p8z5xrdtqc/audio/ForestMeditation/pali_chants.zip>`__)
 
 - `智行尊者 <http://www.taiwandipa.org.tw/index.php?url=30-301&prg_no=c&start=1>`_
-  (`Google+ <https://plus.google.com/114611962996628560276>`__,
-  `YouTube <https://www.youtube.com/watch?v=d4n_NoGXYXM>`__)
+  (`Bhante U Nyanacara <http://www.buddha.sg/htm/people/nyanacara.htm>`_,
+  `Google+ <https://plus.google.com/114611962996628560276>`__,
+  `吉祥經開示 <https://www.youtube.com/watch?v=d4n_NoGXYXM>`_)
 
-  - `S-22+886-01_20080922PM：晚課誦經：釋道中錄音.mp3 <http://ttbc.ddns.net/index.php?dir=%A4U%B8%FC3%2F%BF%FD%AD%B5%2F%A4W%AEy%B3%A1%BE%C7%B0%7C%BC%D0%B7%C7MP3%A4j%C0%C9%2Fnaynacara%3B%B4%BC%A6%E6%B4L%AA%CC%2F2008%2FTTBC%3B%B1%DF%BD%D2>`__
-    (`mirror </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/S-22_886-01_20080922PM.mp3>`__)
+  - `TTBC Chanting (學院課誦) <http://www.taiwandipa.org.tw/images/k/k991-0.mp3>`__
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/k991-0.mp3>`__)
 
-  - `新化佛顓寺;6月禪修營誦經 <http://ttbc.ddns.net/index.php?dir=%A4U%B8%FC3%2F%BF%FD%AD%B5%2F%A4W%AEy%B3%A1%BE%C7%B0%7C%BC%D0%B7%C7MP3%A4j%C0%C9%2Fnaynacara%3B%B4%BC%A6%E6%B4L%AA%CC%2F2009%2F%B7s%A4%C6%A6%F2%C3F%A6x%3B6%A4%EB%C1I%AD%D7%C0%E7%BBw%B8g>`_
+  - `智行尊者早晚課巴利課誦(24k唱誦版) <http://1drv.ms/1NBocnM>`_
+    (Mirror `1 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/00EveryMorning.mp3>`__,
+    `2 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/01Monday.mp3>`__,
+    `3 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/02Tuesday.mp3>`__,
+    `4 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/03Wednesday.mp3>`__,
+    `5 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/04Thursday.mp3>`__,
+    `6 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/05Friday.mp3>`__,
+    `7 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/06Saturday.mp3>`__,
+    `8 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/07Sunday.mp3>`__)
+
+  - `2009年 新化佛顓寺;6月禪修營誦經 <http://ttbc.ddns.net/index.php?dir=%A4U%B8%FC3%2F%BF%FD%AD%B5%2F%A4W%AEy%B3%A1%BE%C7%B0%7C%BC%D0%B7%C7MP3%A4j%C0%C9%2Fnaynacara%3B%B4%BC%A6%E6%B4L%AA%CC%2F2009%2F%B7s%A4%C6%A6%F2%C3F%A6x%3B6%A4%EB%C1I%AD%D7%C0%E7%BBw%B8g>`_
     (Mirror `1 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/DS650062.mp3>`__,
     `2 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/DS650068.mp3>`__,
     `3 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/DS650070.mp3>`__,
@@ -386,16 +417,8 @@ Video & Audio (影音)
     `11 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/DS650082.mp3>`__,
     `12 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/DS650087.mp3>`__)
 
-  - (Mirror `1 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/00EveryMorning.mp3>`__,
-    `2 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/01Monday.mp3>`__,
-    `3 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/02Tuesday.mp3>`__,
-    `4 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/03Wednesday.mp3>`__,
-    `5 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/04Thursday.mp3>`__,
-    `6 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/05Friday.mp3>`__,
-    `7 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/06Saturday.mp3>`__,
-    `8 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/07Sunday.mp3>`__)
-
-  - `晚課 </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/k991-0.mp3>`__
+  - `2008年 S-22+886-01_20080922PM：晚課誦經：釋道中錄音.mp3 <http://ttbc.ddns.net/index.php?dir=%A4U%B8%FC3%2F%BF%FD%AD%B5%2F%A4W%AEy%B3%A1%BE%C7%B0%7C%BC%D0%B7%C7MP3%A4j%C0%C9%2Fnaynacara%3B%B4%BC%A6%E6%B4L%AA%CC%2F2008%2FTTBC%3B%B1%DF%BD%D2>`__
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/S-22_886-01_20080922PM.mp3>`__)
 
 - `Buddhist Chanting - Thai Traditional Way <http://www.mybuddha108.com/viideo_link.html>`_
 
@@ -510,3 +533,9 @@ Video & Audio (影音)
 .. _Wat Nong Pah Pong: http://www.watnongpahpong.org/indexe.php
 
 .. _巴蓬寺: http://www.wpp-branches.net/cn/index.php
+
+.. _Anumodana: http://www.abuddhistlibrary.com/Buddhism/B%20-%20Theravada/Chanting%20Books/I%20-%20A%20Chanting%20Guide/anumodana.html
+
+.. _Gātha: http://en.wikipedia.org/wiki/Gatha
+
+.. _Dedication: http://en.wikipedia.org/wiki/Pari%E1%B9%87%C4%81man%C4%81
