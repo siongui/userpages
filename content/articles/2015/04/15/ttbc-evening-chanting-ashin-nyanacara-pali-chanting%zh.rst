@@ -1,7 +1,7 @@
 TTBC晚課，智行尊者(Bhante Ñāṇacara)唸誦
 #######################################
 
-:date: 2015-04-15 13:19
+:date: 2015-04-15 13:34
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: TTBC晚課，智行尊者(Ashin Ñāṇacara)唸誦版
@@ -388,6 +388,86 @@ TTBC晚課，智行尊者(Bhante Ñāṇacara)唸誦
        他站立破魔軍,
 
        正如太陽照耀黑暗。
+
+.. list-table:: 《二十四緣》
+   :header-rows: 0
+   :class: table-syntax-diff
+
+   * - hetupaccayo
+     - 因緣
+
+   * - ārammaṇapaccayo
+     - 所緣緣
+
+   * - adhipatipaccayo
+     - 增上緣
+
+   * - anantarapaccayo
+     - 無間緣
+
+   * - samanantarapaccayo
+     - 相續緣
+
+   * - sahajātapaccayo
+     - 俱生緣
+
+   * - aññamaññapaccayo
+     - 相互緣
+
+   * - nissayapaccayo
+     - 依止緣
+
+   * - upanissayapaccayo
+     - 親依止緣
+
+   * - purejātapaccayo
+     - 前生緣
+
+   * - pacchājātapaccayo
+     - 後生緣
+
+   * - āsevanapaccayo
+     - 重複緣
+
+   * - kammapaccayo
+     - 業緣
+
+   * - vipākapaccayo
+     - 果報緣(異熟緣)
+
+   * - āhārapaccayo
+     - 食緣
+
+   * - indriyapaccayo
+     - 根緣
+
+   * - jhānapaccayo
+     - 禪那緣
+
+   * - maggapaccayo
+     - 道緣
+
+   * - sampayuttapaccayo
+     - 相應緣
+
+   * - vippayuttapaccayo
+     - 不相應緣
+
+   * - atthipaccayo
+     - 有緣
+
+   * - natthipaccayo
+     - 無有緣
+
+   * - vigatapaccayo
+     - 離去緣
+
+   * - avigatapaccayo hoti
+     - 不離去緣
+
+.. list-table:: Mettasuttaṃ 《慈經》
+   :header-rows: 0
+   :class: table-syntax-diff
 
    * - 
      - 
