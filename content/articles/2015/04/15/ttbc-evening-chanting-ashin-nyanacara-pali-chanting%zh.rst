@@ -578,6 +578,206 @@ TTBC晚課，智行尊者(Bhante Ñāṇacara)唸誦
      - 不墮入邪(我)見,持戒、具有見(身見),
 
        調伏對諸欲的貪求,確定不再投胎。
+
+.. list-table:: Mettā-bhāvanā 《修慈:慈心禪》
+   :header-rows: 0
+   :class: table-syntax-diff
+
+   * - sabbe sattā
+       sabbe pāṇā
+     - 一切有情、一切有息者、
+
+   * - sabbe bhūtā
+       sabbe puggalā
+     - 一切受生者、一切個體、
+
+   * - sabbe attabhāva-pariyāpannā
+     - 一切已得自身的(眾生);
+
+   * - sabbā itthiyo
+       sabbe purisā
+     - 一切陰性、一切陽性、
+
+   * - sabbe ariyā
+       sabbe anariyā
+     - 一切聖者、一切非聖者、
+
+   * - sabbe devā
+       sabbe manussā
+     - 一切天神、一切人類、
+
+   * - sabbe vinipātikā
+     - 一切墮入惡趣者。
+
+   * - averā hontu
+     - 願他們 沒有怨敵 無危難,
+
+   * - abyāpajjhā hontu
+     - 願他們 沒有內心的瞋惱,
+
+   * - anīghā hontu
+     - 願他們 沒有身體的痛苦。
+
+   * - sukhī-attānaṃ pariharantu.(慈)
+     - 願他們 自己隨時保持快樂,
+
+   * - dukkhā muccantu (悲)
+     - 願他們 解脫痛苦,
+
+   * - yathā laddha-sampattito
+       mā vigacchantu (喜)
+     - 願他們 不失去任何已得的,
+
+   * - kammassakā.(捨)
+     - 願他們 是業的主人
+
+   * - puratthimāya disāya,
+     - 在東方,
+
+   * - pacchimāya disāya,
+     - 在西方,
+
+   * - uttarāya disāya,
+     - 在北方,
+
+   * - dakkhināya disāya,
+     - 在南方,
+
+   * - puratthimāya anudisāya,
+     - 在東南方,
+
+   * - pacchimāya anudisāya,
+     - 在西北方,
+
+   * - uttarāya anudisāya,
+     - 在東北方,
+
+   * - dakkhināya anudisāya,
+     - 在西南方,
+
+   * - heṭṭhimāya disāya,
+     - 在下方,
+
+   * - uparimāya disāya,
+     - 在上方。
+
+   * - sabbe sattā
+       sabbe pāṇā
+     - 一切有情、一切有息者、
+
+   * - sabbe bhūtā
+       sabbe puggalā
+     - 一切受生者、一切個體、
+
+   * - sabbe attabhāva-pariyāpannā
+     - 一切已得自身的(眾生);
+
+   * - sabbā itthiyo
+       sabbe purisā
+     - 一切陰性、一切陽性、
+
+   * - sabbe ariyā
+       sabbe anariyā
+     - 一切聖者、一切非聖者、
+
+   * - sabbe devā
+       sabbe manussā
+     - 一切天神、一切人類、
+
+   * - sabbe vinipātikā
+     - 一切墮入惡趣者。
+
+   * - averā hontu
+     - 願他們 沒有怨敵 無危難,
+
+   * - abyāpajjhā hontu
+     - 願他們 沒有內心的瞋惱,
+
+   * - anīghā hontu
+     - 願他們 沒有身體的痛苦。
+
+   * - sukhī-attānaṃ pariharantu.(慈)
+     - 願他們 自己隨時保持快樂,
+
+   * - dukkhā muccantu (悲)
+     - 願他們 解脫痛苦,
+
+   * - yathā laddha-sampattito
+       mā vigacchantu (喜)
+     - 願他們 不失去任何已得的,
+
+   * - kammassakā.(捨)
+     - 願他們 是業的主人
+
+   * - uddhaṃ yāva bhavaggā ca
+
+       adho yāva avicito
+
+       samantā cakkavālesu
+
+       ye sattā pathavī carā
+
+       abyāpajjhā niverā ca
+
+       nidukkhā cānupaddavā
+     - 上至有頂天,
+
+       下至無間地獄,
+
+       在整個輪圍山中,
+
+       所有在地面上走的有情,
+
+       (願他們)沒有內心的苦惱,沒有怨敵,
+
+       沒有身體的痛苦,沒有危難。
+
+   * - uddhaṃ yāva bhavaggā ca
+
+       adho yāva avicito
+
+       samantā cakkavālesu
+
+       ye sattā udake carā
+
+       abyāpajjhā niverā ca
+
+       nidukkhā cānupaddavā
+     - 上至有頂天,
+
+       下至無間地獄,
+
+       在整個輪圍山中,
+
+       所有在水中游的有情,
+
+       (願他們)沒有內心的苦惱,沒有怨敵,
+
+       沒有身體的痛苦,沒有危難。
+
+   * - uddhaṃ yāva bhavaggā ca
+
+       adho yāva avicito
+
+       samantā cakkavālesu
+
+       ye sattā ākāse carā
+
+       abyāpajjhā niverā ca
+
+       nidukkhā cānupaddavā
+     - 上至有頂天,
+
+       下至無間地獄,
+
+       在整個輪圍山中,
+
+       所有在空中飛的有情,
+
+       (願他們)沒有內心的苦惱,沒有怨敵,
+
+       沒有身體的痛苦,沒有危難。
+
    * - 
      - 
 
