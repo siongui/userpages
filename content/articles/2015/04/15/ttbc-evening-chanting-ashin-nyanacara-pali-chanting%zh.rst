@@ -1,7 +1,7 @@
 TTBC晚課，智行尊者(Bhante Ñāṇacara)唸誦
 #######################################
 
-:date: 2015-04-15 13:34
+:date: 2015-04-15 21:31
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: TTBC晚課，智行尊者(Ashin Ñāṇacara)唸誦版
@@ -778,8 +778,111 @@ TTBC晚課，智行尊者(Bhante Ñāṇacara)唸誦
 
        沒有身體的痛苦,沒有危難。
 
-   * - 
-     - 
+.. list-table:: 《四 資 具 省 察 文》
+   :header-rows: 0
+   :class: table-syntax-diff
+
+   * - paṭisaṅkhā yoniso cīvaraṃ paṭisevāmi,
+     - (衣:)我如理省思使用衣服(的目的) ,
+
+   * - yāvad eva sītassa paṭighātāya
+       unhassa paṭighātāya
+     - 僅僅只是為了防禦冷熱,
+
+   * - daṃsamakasavātātapasiriṃsapasamphassānaṃ
+       paṭighātāya,
+     - 為了防禦虻、蚊、風、太陽、爬蟲類的接觸,
+
+   * - yāvad eva hirikopīnapaṭicchādanatthaṃ.
+     - 僅僅只是為了遮蔽羞處。
+
+   * - paṭisaṅkhā yoniso piṇḍapātaṃ paṭisevāmi
+     - (食:)我如理省思使用缽食(的目的),
+
+   * - neva davāya na madāya na maṇḍanāya na vibhūsanāya,
+     - 既不是為了好玩也不是為了驕逸、打扮、莊飾,
+
+   * - yāvad eva imassa kāyassa ṭhitiyā yāpanāya,
+     - 僅僅只是為了這個身體的住續維持,
+
+   * - vihiṃsūparatiyā brahmacariyānuggahāya,
+     - 為了停止(飢餓的)傷害,為了支持(清淨的)梵行。
+
+   * - iti purāṇañ ca vedanaṃ paṭihaṅkhāmi navañ ca
+       vedanaṃ na uppādessāmi,
+     - 如此,我將滅除舊的(飢餓的苦)受,
+       又不令新的(太飽的苦)受產生,
+
+   * - yātrā ca me bhavissati anavajjatā ca phāsuvihāro ca
+     - 我將維持生命、不(因不適量的飲用而引生)過失而且生活安樂。
+
+   * - paṭisaṅkhā yoniso senāsanaṃ paṭisevāmi,
+     - (住:)我如理省思使用住處(的目的) ,
+
+   * - yāvad eva sītassa paṭighātāya
+       unhassa paṭighātāya
+     - 僅僅只是為了防禦冷熱,
+
+   * - daṃsamakasavātātapasiriṃsapasamphassānaṃ
+       paṭighātāya,
+     - 為了防禦虻、蚊、風、太陽、爬蟲類的接觸,
+
+   * - yāvad eva utuparissayavinodanaṃ
+       paṭisallāṇārāmatthaṃ.
+     - 僅僅只是為了去除氣候(引起)的危險和好樂獨處禪修。
+
+   * - paṭisaṅkhā yoniso gilānapaccayabhesajjaparikkhāraṃ paṭisevāmi,
+     - (藥:)我如理省思使用必需的藥品(來治療)疾病(的目的),
+
+   * - yāvad eva uppannānaṃ veyyābādhikānaṃ
+       vedanānaṃ paṭighātāya
+     - 僅僅只是為了解決已生的病苦受,
+
+   * - abyābajjhaparamatāya.
+     - 為了儘量沒有身苦。
+
+.. list-table:: Sumaṅgalagāthā 《善吉祥偈》( 祝 福 )
+   :header-rows: 0
+   :class: table-syntax-diff
+
+   * - bhavatu sabbamaṅgalaṃ,
+     - 願您一切吉祥
+
+   * - rakkhantu sabbadevatā,
+     - 願諸神保護您
+
+   * - sabba-buddhānubhavena,
+     - 依諸佛威神力
+
+   * - sadā sotthi bhavantu te.
+     - 願您永遠平安
+
+   * - bhavatu sabbamaṅgalaṃ,
+     - 願您一切吉祥
+
+   * - rakkhantu sabbadevatā,
+     - 願諸神保護您
+
+   * - sabba-dhammānubhavena,
+     - 依諸法威神力
+
+   * - sadā sotthi bhavantu te.
+     - 願您永遠平安
+
+   * - bhavatu sabbamaṅgalaṃ,
+     - 願您一切吉祥
+
+   * - rakkhantu sabbadevatā,
+     - 願諸神保護您
+
+   * - sabba-saṅghānubhavena,
+     - 依僧團威神力
+
+   * - sadā sotthi bhavantu te.
+     - 願您永遠平安
+
+   * - sādhu！sādhu！sādhu！
+     - 善哉！善哉！善哉！
 
 .. %s/A/ā/gc
 .. %s/M/ṃ/gc
@@ -790,6 +893,7 @@ TTBC晚課，智行尊者(Bhante Ñāṇacara)唸誦
 .. %s/L/ḷ/gc
 .. %s/I/ī/gc
 .. %s/U/ū/gc
+.. %s/D/ḍ/gc
 
 ----
 
