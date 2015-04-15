@@ -42,11 +42,12 @@ TTBC晚課，智行尊者(Bhante Ñāṇacara)唸誦
    :header-rows: 0
    :class: table-syntax-diff
 
-   * - 《佛陀開悟後的省察》
-     -
-
    * - Namo tassa bhagavato arahato sammāsambuddhassa (x3)
      - 皈依 彼 世尊 阿羅漢 正等正覺者 (三次)
+
+.. list-table:: 《佛陀開悟後的省察》
+   :header-rows: 0
+   :class: table-syntax-diff
 
    * - anekajātisaṃsāraṃ
 
@@ -86,8 +87,9 @@ TTBC晚課，智行尊者(Bhante Ñāṇacara)唸誦
 
        達到滅盡渴愛。 (三次)
 
-   * - 緣起次第(前夜)
-     -
+.. list-table:: 緣起次第(前夜)
+   :header-rows: 0
+   :class: table-syntax-diff
 
    * - Iti imasmiṃ sati idaṃ hoti,
      - 此有故彼有,
@@ -117,6 +119,67 @@ TTBC晚課，智行尊者(Bhante Ñāṇacara)唸誦
    * - saḷāyatanapaccayā
        phasso,
      - 緣於六處,觸生起;
+
+   * - phassapaccayā
+       vedanā,
+     - 緣於觸,受生起;
+
+   * - vedanāpaccayā
+       taṇhā,
+     - 緣於受,愛生起;
+
+   * - taṇhāpaccayā
+       upādānaṃ,
+     - 緣於愛,取生起;
+
+   * - upādānapaccayā
+       bhavo,
+     - 緣於取,有生起;
+
+   * - bhavapaccayā
+       jāti,
+     - 緣於有,生生起;
+
+   * - jātipaccayā
+       jarāmaraṇaṃ
+     - 緣於生,老、死、
+
+   * - soka-parideva-dukkha-domanassupāyāsā
+
+       sambhavanti – evametassa kevalassa
+
+       dukkhakkhandhassa samudayo hoti.
+     - 愁、悲、苦、憂、惱生起。
+
+       如是,集起這整堆苦。
+
+   * - yadā have pātubhavanti dhammā,
+
+       ātāpino jhāyato brāhmaṇassa;
+
+       athassa kaṅkhā vapayanti sabbā;
+
+       yato pajānāti sahetudhammaṃ.
+     - 正當諸法顯現於精進
+
+       禪修的清淨梵行者,
+
+       他的疑惑全消失。
+
+       因為,他慧知有因法。
+
+.. list-table:: 緣滅次第(中夜)
+   :header-rows: 0
+   :class: table-syntax-diff
+
+   * - Iti imasmiṃ asati idaṃ na hoti,
+     - 此無故彼無,
+
+   * - imassa nirodhā idaṃ nirujjhati,
+     - 此滅故彼滅,
+
+   * - ─yadidaṃ─
+     - ―亦即―
 
    * - 
      - 
