@@ -2,7 +2,7 @@ Pali Chanting Collection 巴利唸誦整理
 #####################################
 
 :date: 2015-03-12 05:11
-:modified: 2015-04-12 23:20
+:modified: 2015-04-15 21:56
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: Collection of online Pāli chanting resources
@@ -125,6 +125,8 @@ Myanmar (緬甸)
 ++++++++++++++
 
 - `智行尊者(Ashin Ñāṇacara)巴利唸誦 <{filename}../../04/14/ashin-nyanacara-pali-chanting%zh.rst>`_
+
+  * `TTBC晚課，智行尊者(Bhante Ñāṇacara)唸誦 <{filename}../../04/15/ttbc-evening-chanting-ashin-nyanacara-pali-chanting%zh.rst>`_
 
 ----
 
