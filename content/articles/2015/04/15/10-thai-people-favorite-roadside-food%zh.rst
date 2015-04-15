@@ -3,7 +3,7 @@
 
 :date: 2015-04-15 22:52
 :author: 沪江泰语
-:tags: 泰國, 轉錄
+:tags: 泰國, 轉錄, 美食
 :category: 轉錄
 :summary: 10種泰國人最愛的路邊美味
 :og_image: http://i2.w.yun.hjfile.cn/doc/201308/bb3970ad09a344f991aadfc56ded7d96.jpg

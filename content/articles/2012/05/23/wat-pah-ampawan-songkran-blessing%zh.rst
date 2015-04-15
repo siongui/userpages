@@ -2,7 +2,7 @@
 ################################################################
 
 :modified: 2015-03-18 23:52
-:tags: Ajahn Chah, Ajahn Jundee, Luang Por Chah, Luang Por Jundee, Wat Nong Pah Pong Branch, Wat Pah Ampawan, 巴蓬寺分院, 芒果樹叢林道場, 阿姜查, 阿姜查道場, 隆波查
+:tags: Ajahn Chah, Ajahn Jundee, Luang Por Chah, Luang Por Jundee, Wat Nong Pah Pong Branch, Wat Pah Ampawan, 巴蓬寺分院, 芒果樹叢林道場, 阿姜查, 阿姜查道場, 隆波查, 宋干節
 :category: 泰國道場見聞
 :summary: 巴蓬寺分院芒果樹叢林道場(Wat Pah Ampawan)於泰國新年宋干節舉行隆波Jundee的倒水祝福儀式。
 :og_image: https://lh4.googleusercontent.com/-sItvzjceaXo/T6SGLJsPrJI/AAAAAAAAW7g/wJzK5YD_TEk/s640/IMG_20120414_091042.jpg

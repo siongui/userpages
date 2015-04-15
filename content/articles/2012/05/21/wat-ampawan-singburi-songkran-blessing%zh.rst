@@ -2,7 +2,7 @@
 ################################################################
 
 :modified: 2015-03-18 23:52
-:tags: Ajahn Jarun, Luang Por Jarun, Sing Buri, Wat Ampawan, 芒果樹道場
+:tags: Ajahn Jarun, Luang Por Jarun, Sing Buri, Wat Ampawan, 芒果樹道場, 宋干節
 :category: 泰國道場見聞
 :summary: 芒果樹道場(Wat Ampawan)於泰國新年宋干節的倒水祝福儀式。
 :og_image: https://lh3.googleusercontent.com/-AZugzWftqvw/T6KhKTAP5dI/AAAAAAAAWzk/dtyejiCrQKU/s640/IMG_20120418_132740.jpg
