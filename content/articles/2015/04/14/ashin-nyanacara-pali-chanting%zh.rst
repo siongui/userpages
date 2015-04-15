@@ -2,6 +2,7 @@
 ################################
 
 :date: 2015-04-14 09:19
+:modified: 2015-04-15 11:21
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: 智行尊者(Ashin Ñāṇacara)巴利唸誦
@@ -48,21 +49,10 @@
        Pa-Auk Forest Monastery and has given several Dhamma talks. Ven U
        Nyanacara is fluent in English.
 
-|
-|
 
-.. container:: align-center video-container
+`TTBC晚課`_
++++++++++++
 
-  .. raw:: html
-
-    <audio controls>
-      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/k991-0.mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-
-.. container:: align-center video-container-description
-
-  晚課
 
 |
 |
@@ -307,24 +297,13 @@
 
   新化佛顓寺;6月禪修營誦經
 
-|
-|
-
-.. container:: align-center video-container
-
-  .. raw:: html
-
-    <audio controls>
-      <source src="/7rsk9vjkm4p8z5xrdtqc/audio/nyanacara/S-22_886-01_20080922PM.mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-
-.. container:: align-center video-container-description
-
-  不清晰版晚課
-
 ----
 
 參考：
 
 .. [1] `上座部佛教唸誦集 - 瑪欣德尊者 編譯 <http://www.dhammatalks.net/Chinese/Bhikkhu_Mahinda-Puja.pdf>`_
+
+
+.. _TTBC: http://www.taiwandipa.org.tw/
+
+.. _TTBC晚課: {filename}../15/ttbc-evening-chanting-ashin-nyanacara-pali-chanting%zh.rst
