@@ -469,6 +469,115 @@ TTBC晚課，智行尊者(Bhante Ñāṇacara)唸誦
    :header-rows: 0
    :class: table-syntax-diff
 
+   * - Yassānu bhāvato yakkhā,
+
+       neva dassenti bhīsanaṃ.
+
+       yamhi cevānuyuñjanto,
+
+       rattindivamatandito.
+     - 嘿!由於那(慈經)的威神力,夜叉未顯恐怖相。
+
+       日夜不倦,勤習那(慈經)者。
+
+   * - sukhaṃ supati sutto ca,
+
+       pāpaṃ kiñci na passati;
+
+       evamādiguṇūpetaṃ,
+
+       parittaṃ taṃ bhaṇāma he.
+     - 安樂睡;睡著不見任何壞事;
+       (慈經)具備如是等功德,
+       讓我們來誦讀這(慈)保護經。
+
+   * - karaṇīyam atthakusalena,
+       yanta santaṃ padaṃ
+       abhisamecca;
+
+       sakko ujū ca suhujū ca,
+       suvaco c’assa mudu anatimānī.
+     - 證得寂靜 (涅槃) ,善巧於利益者會習做這些:
+
+       能幹、正直、坦誠、易受教、柔軟、不驕傲;
+
+   * - santussako ca subharo ca,
+       appakicco ca sallahukavutti;
+       santindriyo ca nipako ca,
+       appagabbho kulesvananugiddho.
+     - 知足、易扶養、少俗務、生活簡樸、
+       寂靜諸根、聰明、不粗魯、不耽溺俗家;
+
+   * - na ca khuddamācare kiñci,
+       yena viññū pare upavadeyyuṃ;
+
+       sukhinova khemino hontu,
+       sabbasattā bhavantu sukhitattā.
+     - 不應犯其他智者會指責的任何小過失;
+
+       (他會發願:) 願一切有情快樂與安穩!願他們自得其樂!
+
+   * - ye keci pāṇabhūtatthi,
+       tasā vā thāvarā vānavasesā;
+
+       dīghā vā yeva mahantā,
+       majjhimā rassakā aṇukathūlā.
+     - 任何 有生命的眾生,毫無遺漏,會驚慌的或穩固的、
+
+       長的、大的或中等的或短的、細的或者粗的、
+
+   * - diṭṭhā vā yeva adiṭṭhā,
+       ye va dūre vasanti avidūre;
+
+       bhūtā va sambhavesī va,
+       sabbasattā bhavantu sukhitattā.
+     - 任何曾見的或未曾見的、住在遠的或近的、
+
+       已生的(阿羅漢)或尋求出生的,願一切有情自得其樂!
+
+   * - na paro paraṃ nikubbetha,
+       nātimaññetha katthaci na kañci;
+
+       byārosanā paṭighasaññā,
+       nāññamaññassa dukkhamiccheyya.
+     - 不要有人欺瞞他人,不要輕視任何地方的任何他人,
+
+       不要以忿怒行或瞋恚想而要彼此受苦。
+
+   * - mātā yathā niyaṃ puttamāyusā
+       ekaputtamanurakkhe;
+
+       evampi sabbabhūtesu,
+       mānasaṃ bhāvaye aparimāṇaṃ.
+     - 正如母親對自己的兒子會用 生命隨護唯一的兒子,
+
+       同樣地,他要對一切生類修習無量(的慈)心。
+
+   * - mettañca sabbalokasmiṃ,
+       mānasaṃ bhāvaye aparimāṇaṃ;
+
+       uddhaṃ adho ca tiriyañca,
+       asambādhaṃ averamasapattaṃ.
+     - 修習無量的慈心於一切世界:
+
+       上方、下方與橫方,無障礙、無仇恨和無敵對。
+
+   * - tiṭṭhaṃ caraṃ nisinno vā
+       sayāno yāvatāssa vitamiddho;
+
+       etaṃ satiṃ adhiṭṭheyya,
+       brahmametaṃ vihāramidhamāhu.
+     - 站著、走著、坐著或躺著,只要他沒昏睡;
+
+       應當守住那(慈)念,佛陀說:這是此(教法的)「梵住」。
+   * - diṭṭhiñ ca anupaggamma,
+       sīlavā dassanena sampanno;
+
+       kāmesu vineyya gedhaṃ,
+       na hi jātuggabbhaseyyaṃ punareti.
+     - 不墮入邪(我)見,持戒、具有見(身見),
+
+       調伏對諸欲的貪求,確定不再投胎。
    * - 
      - 
 
@@ -479,6 +588,8 @@ TTBC晚課，智行尊者(Bhante Ñāṇacara)唸誦
 .. %s/J/ñ/gc
 .. %s/N/ṇ/gc
 .. %s/L/ḷ/gc
+.. %s/I/ī/gc
+.. %s/U/ū/gc
 
 ----
 
