@@ -2,7 +2,7 @@
 ######
 
 :author: 郭良鋆(譯者)
-:tags: 巴利三藏, 經集
+:tags: 巴利三藏, 經藏, 小部(Khuddaka-nikāya), 經集(Sutta-nipāta), 轉錄
 :category: 巴利三藏
 :summary: 《巴利經藏‧小部‧經集‧第四品　八頌經》第六章 衰老經
 
@@ -37,6 +37,8 @@
 
 相關連結：
 
-`府城佛教網 <http://nanda.online-dhamma.net/>`_
-`經集 <http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Sutta-nipata/Sutta-nipaata.html>`_
-`第四品　八頌經 <http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Sutta-nipata/Snp-Vaggo4.html>`_
+.. [1] `府城佛教網 <http://nanda.online-dhamma.net/>`_
+       `經集 <http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Sutta-nipata/Sutta-nipaata.html>`_
+       `第四品　八頌經 <http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Sutta-nipata/Snp-Vaggo4.html>`_
+
+.. [2] `tipitaka.org <http://tipitaka.org/>`__ `羅馬字體版 <http://tipitaka.org/romn/>`__

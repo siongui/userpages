@@ -2,7 +2,7 @@
 ########
 
 :author: 郭良鋆(譯者)
-:tags: 巴利三藏, 經集
+:tags: 巴利三藏, 經藏, 小部(Khuddaka-nikāya), 經集(Sutta-nipāta), 轉錄
 :category: 巴利三藏
 :summary: 《巴利經藏‧小部‧經集‧第五品　彼岸道品》第五章 彌德古問
 
@@ -41,6 +41,8 @@
 
 相關連結：
 
-`府城佛教網 <http://nanda.online-dhamma.net/>`_
-`經集 <http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Sutta-nipata/Sutta-nipaata.html>`_
-`第五品　彼岸道品 <http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Sutta-nipata/Snp-Vaggo5.html>`_
+.. [1] `府城佛教網 <http://nanda.online-dhamma.net/>`_
+       `經集 <http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Sutta-nipata/Sutta-nipaata.html>`_
+       `第五品　彼岸道品 <http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Sutta-nipata/Snp-Vaggo5.html>`_
+
+.. [2] `tipitaka.org <http://tipitaka.org/>`__ `羅馬字體版 <http://tipitaka.org/romn/>`__

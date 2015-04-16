@@ -151,9 +151,8 @@ Myanmar (緬甸)
 * `DHAMMA TALKS & WRITINGS OF Ṭhānissaro BHIKKHU | dhammatalks.org <http://www.dhammatalks.org/>`_
 
   - `A Chanting Guide: Pali Passages with English Translations <http://www.dhammatalks.org/Archive/Writings/ChantingGuideWithIndex.pdf>`_
-    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/Thanissaro/ChantingGuideWithIndex.pdf>`__)
-
-  - `A Chanting Guide: Pali Passages with English Translations (online HTML) <http://www.abuddhistlibrary.com/Buddhism/B%20-%20Theravada/Chanting%20Books/I%20-%20A%20Chanting%20Guide/index.html>`_
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/chanting/Thanissaro/ChantingGuideWithIndex.pdf>`__,
+    `online HTML <http://www.abuddhistlibrary.com/Buddhism/B%20-%20Theravada/Chanting%20Books/I%20-%20A%20Chanting%20Guide/index.html>`__)
 
   - `Pali chanting by the Wat Metta Sangha - Dhammatalks.org <http://www.dhammatalks.org/Archive/Chants/Chants.html>`_
 
