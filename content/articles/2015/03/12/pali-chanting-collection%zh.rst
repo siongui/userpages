@@ -2,7 +2,7 @@ Pali Chanting Collection 巴利唸誦整理
 #####################################
 
 :date: 2015-03-12 05:11
-:modified: 2015-04-15 21:56
+:modified: 2015-04-19 22:32
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: Collection of online Pāli chanting resources
@@ -111,6 +111,8 @@ Paritta_ (護衛經)
 - `Aṅgulimāla Paritta (央掘魔羅護衛偈, อังคุลิมาลปริตร, Ven. Angulimala's Protection) - 巴利唸誦 <{filename}../../04/02/angulimaala-paritta-pali-chanting%zh.rst>`_
 
 - `Mora Paritta (孔雀護衛偈, โมรปริตร, The Peacock’s Protection) - 巴利唸誦 <{filename}../../04/08/mora-paritta-pali-chanting%zh.rst>`_
+
+- `Namakāra-siddhi Gāthā (禮敬成就偈, นมการสิทธิคาถา, The Verses on Success through Homage) - 巴利唸誦 <{filename}../../04/19/namakaara-siddhi-gaathaa-pali-chanting%zh.rst>`_
 
 Anumodana_ (隨喜)
 `````````````````
