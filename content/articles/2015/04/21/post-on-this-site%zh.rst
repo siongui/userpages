@@ -41,6 +41,7 @@
   ##########################
 
   :date: 2015-04-21 19:17
+  :author: 某某某
   :tags: Web開發
   :category: Web開發
   :summary: 透過GitHub平台協同撰寫網站
@@ -51,6 +52,16 @@
 不加的話則是用目錄裡的日期當成此文章日期
 
 rst_ 格式怎樣寫可參考 [1]_ ，至於用latex寫數學，可看 [2]_
+
+
+預覽寫好的文章
+++++++++++++++
+
+本站目前只能在 Ubuntu Linux 上compile出來並預覽，詳情請看：
+
+`README <https://github.com/siongui/userpages/blob/master/README.rst>`_
+
+Windows上理論上應該可以compile出來並預覽，但從沒試過。
 
 ----
 
