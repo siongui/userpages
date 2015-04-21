@@ -1,7 +1,7 @@
 Evaluation of Multivariate Gaussian with NumPy
 ##############################################
 
-:tags: Hidden_Markov_model, multivariate gaussian, multivariate normal, NumPy, Python
+:tags: Hidden_Markov_model, multivariate gaussian, multivariate normal, NumPy, Python, Math
 :category: Math
 :summary: Evaluate Multivariate Normal Distribution with NumPy in Python.
 

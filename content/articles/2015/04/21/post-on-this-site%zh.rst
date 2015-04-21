@@ -51,16 +51,24 @@
 *category* 只可以有一個， tag可以有好幾個， date可加可不加，
 不加的話則是用目錄裡的日期當成此文章日期
 
-rst_ 格式怎樣寫可參考 [1]_ ，至於用latex寫數學，可看 [2]_
+rst_ 格式怎樣寫可參考 [1]_ ，至於用LaTeX寫數學，可看 [2]_
+
+
+注意事項：
+
+- 每行建議不超過80個字母，一個中文算兩個字母。（非硬性規定）
+
+- 若不確定LaTex顯示出來如何，可先在 [3]_ 輸入看結果。
+  (參考 [4]_ 輸入數學符號)
+
+- 可參考 [5]_ 來寫 rst_
 
 
 預覽寫好的文章
 ++++++++++++++
 
 本站目前只能在 Ubuntu Linux 上compile出來並預覽，詳情請看：
-
-`README <https://github.com/siongui/userpages/blob/master/README.rst>`_
-
+`README <https://github.com/siongui/userpages/blob/master/README.rst>`_ 。
 Windows上理論上應該可以compile出來並預覽，但從沒試過。
 
 ----
@@ -70,6 +78,13 @@ Windows上理論上應該可以compile出來並預覽，但從沒試過。
 .. [1] `reStructuredText <http://docutils.sourceforge.net/rst.html>`_
 
 .. [2] `reStructuredText Directives - math <http://docutils.sourceforge.net/docs/ref/rst/directives.html#math>`_
+
+.. [3] `Online LaTeX Equation Editor - create, integrate and download <http://www.codecogs.com/latex/eqneditor.php>`_
+
+.. [4] `LaTeX/Mathematics - Wikibooks, open books for an open world <http://en.wikibooks.org/wiki/LaTeX/Mathematics>`_
+
+.. [5] `7. 附录：轻量级标记语言 — GotGitHub <http://www.worldhello.net/gotgithub/appendix/markups.html>`_
+
 
 .. _GitHub: https://github.com/
 .. _fork: https://help.github.com/articles/fork-a-repo/
