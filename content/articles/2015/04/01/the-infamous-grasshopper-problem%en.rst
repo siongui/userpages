@@ -22,13 +22,13 @@ chosen in such a way that the grasshopper never lands on any point in :math:`M`.
 Proof
 +++++
 
-First note that if the statement is still equivalent if :math:`|M| < n`.
+First note that the statement is still equivalent if :math:`|M| < n`.
 
 Let the set :math:`M = \{ b_1, b_2, ... , b_{n-1} \}`, where
 :math:`0 < b_1 < b_2 < ... < b_{n-1} < s`. We will prove by induction on
 :math:`n`. :math:`n = 1` and :math:`n = 2` are trivial. Suppose the statement
-holds for all :math:`n <= m`. We want to prove that it holds for
-:math:`n = m + 1 >= 3`.
+holds for all :math:`n \leq m`. We want to prove that it holds for
+:math:`n = m + 1 \geq 3`.
 
 Lemma
 +++++
@@ -62,7 +62,7 @@ we will stop at some point because in :math:`A` there can be at most
   (i) :math:`a_{n-k} > b_1`. We're done because of the lemma.
 
   (ii) :math:`a_{n-k} < b_1`. So :math:`|A \cap M| = k > 0`, i.e.
-       :math:`A \cap M = \{a_n, a_{n-1}, ... , a_{n-k+1}\}` This is the most
+       :math:`A \cap M = \{a_n, a_{n-1}, ... , a_{n-k+1}\}`. This is the most
        interesting case to me.
 
 How many points in :math:`M` are larger than :math:`a_n`? At most
@@ -74,7 +74,7 @@ and :math:`a_n` at :math:`[a_i, a_i + a_n]`, we're sure these two segments have
 no end points in :math:`M` because :math:`a_i < b_1` and :math:`a_i + a_n` is
 not in :math:`M`, yet they cover at least 2 points in :math:`M`, i.e.
 :math:`b_1` and :math:`a_n = b_j`. By induction, the remaining
-:math:`n - 2 >= 1` segments can be arranged such that no end points fall into
+:math:`n - 2 \geq 1` segments can be arranged such that no end points fall into
 :math:`M`.
 
 :math:`a_n = b_1`
