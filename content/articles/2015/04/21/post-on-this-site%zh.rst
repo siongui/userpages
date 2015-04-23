@@ -2,7 +2,7 @@
 ##########################
 
 :date: 2015-04-21 19:17
-:modified: 2015-04-23 20:01
+:modified: 2015-04-23 23:58
 :tags: Web開發
 :category: Web開發
 :summary: 透過GitHub平台協同撰寫網站
@@ -84,8 +84,8 @@ Pelican_ 編譯成整個網站，再上傳到 `siongui.github.io`_ 。
 可連回到原始檔案，然後在點選 ``raw`` 看原始 rst_ 格式。
 
 舉例來說，2015年4月21日的文章，就在
-**content/2015/04/21/** 目錄(若該目錄不存在則自己創建)下新增一個該文章的檔案
-，檔名取為
+**content/articles/2015/04/21/**
+目錄(若該目錄不存在則自己創建)下新增一個該文章的檔案，檔名取為
 
 **SLUG%LANG.rst** ，其中 *SLUG* 是網址上的顯示名稱， *LANG* 是語言
 
@@ -115,7 +115,7 @@ Pelican_ 編譯成整個網站，再上傳到 `siongui.github.io`_ 。
 
 * **category** ：只可以有一個。
 
-* **tag** ：可以有好幾個。
+* **tags** ：可以有好幾個。
 
 * **date** ：文章創建日期，可加可不加，不加的話則是用目錄裡的日期當成此文章日期
 
@@ -124,6 +124,8 @@ Pelican_ 編譯成整個網站，再上傳到 `siongui.github.io`_ 。
 * **og_image** ：是此文被分享或貼到Facebook或Google+之類的社交網站上時，顯示的圖片網址。
 
 * **license** ：此文章 and/or 程式碼的授權，可以是 CC_, MIT, BSD, Apache 2.0, ...
+
+**tags**, **category**, **author**, **summary** 為建議必填，其他欄位可視情形填或不填。
 
 rst_ 格式怎樣寫可參考 [1]_ ，至於用LaTeX寫數學，可看 [2]_
 
