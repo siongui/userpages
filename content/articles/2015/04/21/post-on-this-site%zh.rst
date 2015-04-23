@@ -2,18 +2,80 @@
 ##########################
 
 :date: 2015-04-21 19:17
+:modified: 2015-04-23 20:01
 :tags: Web開發
 :category: Web開發
 :summary: 透過GitHub平台協同撰寫網站
 
 
-流程
+背景
 ++++
+
+先看Git背景：
+`Git 10 周年访谈：Linus 讲述背后故事 <http://blog.jobbole.com/85772/>`_
+
+後來 GitHub_ 推出 `GitHub Pages`_ ，結合近年興起的 `static site generator`_ ，
+讓懂技術的部落客有非常powerful的工具來撰寫以前很難做到的部落格功能。
+
+本站利用 `Pelican`_ 來製作部落格，有以下的優點：
+
+  - 可用 reStructuredText_, Markdown_, 或 AsciiDoc_ 等等 `簡易標記語言`_ 撰寫
+
+  - 因為用標記語言寫，可以自由搬移內容到各處/各服務。
+
+  - 因為用標記語言寫，容易轉成其他格式，比方說HTML, PDF, 或是電子書等等。
+    (可利用 Pandoc_ 之類的程式進行格式互轉)
+
+  - 支援用LaTeX打數學式
+
+  - 支援插入片斷的程式碼（包含程式碼上色）
+
+  - 支援插入整個檔案的程式碼（包含程式碼上色）
+
+  - 很容易就可以 HTML/JavaScript/CSS 程式demo
+
+  - 容易在網頁嵌入影片以及聲音檔
+
+  - 減少JavaScript，增進瀏覽網頁的速度
+
+  - 可自由控制廣告位置，以及如何呈現，或是不放廣告
+
+  - 可自由插入網頁評論系統： `Google+ comments`_, `Facebook comments`_,
+    Disqus_, ...
+
+  - 網站會根據螢幕大小做不同呈現(responsive web design)
+
+  - 容易做SEO,以及可以指定Facebook分享時顯示的圖片及參數。
+
+  - 支援多語系，同篇文章不同語言版本互相連結。
+
+  - 幾乎可以這樣說：只有想不到，沒有做不到。
+
+本網頁主要的repo是 userpages_, 含網站template以及網站內容都在此。然後透過
+Pelican_ 編譯成整個網站，再上傳到 `siongui.github.io`_ 。
+
+撰寫流程
+++++++++
+
+有兩種方式，一種是pull request方式，一種是collaborator方式。
+
+(1) pull request方式
+````````````````````
 
 1. 首先註冊 GitHub_ 帳號
 
 2. fork_ 本站 repo_, 利用 rst_ 格式寫文章，然後 `pull request`_ 提交。
 
+(2) collaborator方式
+````````````````````
+
+1. 首先註冊 GitHub_ 帳號
+
+2. 聯絡站主，站主將該帳號加為 userpages_ 的 collaborator，直接clone該repo，
+   直接對 userpages_ 新增/修改/commit/push。
+
+3. 此方式在commit前最好先git pull更新一下本機端clone的repo，若沒更新，
+   若有兩人以上同時修改並push，則需要做一個merge的動作。
 
 如何寫文章
 ++++++++++
@@ -41,15 +103,24 @@
   ##########################
 
   :date: 2015-04-21 19:17
+  :modified: 2015-04-23 20:01
   :author: 某某某
-  :tags: Web開發
+  :tags: Web開發, CSS, HTML
   :category: Web開發
   :summary: 透過GitHub平台協同撰寫網站
+  :og_image: http://....
 
-  ...(your main content here)
+  (your main content here)
 
-*category* 只可以有一個， tag可以有好幾個， date可加可不加，
-不加的話則是用目錄裡的日期當成此文章日期
+* **category** ：只可以有一個。
+
+* **tag** ：可以有好幾個。
+
+* **date** ：文章創建日期，可加可不加，不加的話則是用目錄裡的日期當成此文章日期
+
+* **modified** ：文章修改日期
+
+* **og_image** ：是此文被分享或貼到Facebook上時，顯示的圖片網址。
 
 rst_ 格式怎樣寫可參考 [1]_ ，至於用LaTeX寫數學，可看 [2]_
 
@@ -64,12 +135,30 @@ rst_ 格式怎樣寫可參考 [1]_ ，至於用LaTeX寫數學，可看 [2]_
 - 可參考 [5]_ 來寫 rst_
 
 
-預覽寫好的文章
-++++++++++++++
+SEO以及Facebook分享
+```````````````````
 
-本站目前只能在 Ubuntu Linux 上compile出來並預覽，詳情請看：
+網站SEO(意指容易在搜尋引擎被找到)有三個重點：
+
+  - HTML title： 該網頁的title，必須配合搜尋關鍵字
+
+  - URL：舉例來說，若網頁是談有關random number的文章，網址裡最好是：
+    */2015/04/21/random-number/* ，將random number這兩個關鍵字包含在網址裡。
+    若是用 */2015/04/21/blog-post_21.html* 之類的網址，將不利於SEO。
+
+  - 日期：網誌日期越新越好。
+
+文章被分享或貼到Facebook或Google+之類的社交網站上時，
+文章的顯示圖片網址是metadata裡的 *og_image*,
+文章描述則是 *summary* 裡填寫的描述。
+詳情請參考 `Facebook官方指南`_ 。
+
+預覽整個網站
+++++++++++++
+
+本站目前只能在 Ubuntu Linux 上將整個網站編譯出來並預覽，詳情請看：
 `README <https://github.com/siongui/userpages/blob/master/README.rst>`_ 。
-Windows上理論上應該可以compile出來並預覽，但從沒試過。
+Windows上理論上應該也可以將整個網站編譯出來並預覽，但從沒試過。
 
 ----
 
@@ -85,9 +174,28 @@ Windows上理論上應該可以compile出來並預覽，但從沒試過。
 
 .. [5] `7. 附录：轻量级标记语言 — GotGitHub <http://www.worldhello.net/gotgithub/appendix/markups.html>`_
 
+----
+
+附錄：
+
+`travis ci + pelican <https://www.google.com/search?q=travis+ci+%2B+pelican>`_
 
 .. _GitHub: https://github.com/
 .. _fork: https://help.github.com/articles/fork-a-repo/
 .. _repo: https://github.com/siongui/userpages
 .. _rst: http://docutils.sourceforge.net/rst.html
 .. _pull request: https://help.github.com/articles/using-pull-requests/
+.. _GitHub Pages: https://pages.github.com/
+.. _static site generator: https://www.google.com/search?q=static+site+generator
+.. _Pelican: http://blog.getpelican.com/
+.. _Google+ comments: http://browsingthenet.blogspot.com/2013/04/google-plus-comments-on-any-website.html
+.. _Facebook comments: https://developers.facebook.com/docs/plugins/comments
+.. _Disqus: https://disqus.com/
+.. _reStructuredText: http://docutils.sourceforge.net/rst.html
+.. _Markdown: http://daringfireball.net/projects/markdown/
+.. _AsciiDoc: http://www.methods.co.nz/asciidoc/
+.. _簡易標記語言: http://www.worldhello.net/gotgithub/appendix/markups.html
+.. _Pandoc: http://pandoc.org/
+.. _userpages: https://github.com/siongui/userpages
+.. _siongui.github.io: https://github.com/siongui/siongui.github.io
+.. _Facebook官方指南: https://developers.facebook.com/docs/sharing/best-practices
