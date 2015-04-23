@@ -2,7 +2,7 @@
 ##########################
 
 :date: 2015-04-21 19:17
-:modified: 2015-04-23 23:58
+:modified: 2015-04-24T05:13+08:00
 :tags: Web開發
 :category: Web開發
 :summary: 透過GitHub平台協同撰寫網站
@@ -83,6 +83,10 @@ Pelican_ 編譯成整個網站，再上傳到 `siongui.github.io`_ 。
 透過範例學習最快，本站每篇文章都有一個 ``在GitHub上編輯`` 的連結，
 可連回到原始檔案，然後在點選 ``raw`` 看原始 rst_ 格式。
 
+
+文章的放置位置以及語言
+``````````````````````
+
 舉例來說，2015年4月21日的文章，就在
 **content/articles/2015/04/21/**
 目錄(若該目錄不存在則自己創建)下新增一個該文章的檔案，檔名取為
@@ -95,7 +99,9 @@ Pelican_ 編譯成整個網站，再上傳到 `siongui.github.io`_ 。
 若新增一個檔案名為 **content/articles/2015/04/21/post-on-this-site%en.rst**
 則該文章的網址是 **/2015/04/21/post-on-this-site/** ，該文章的語言是英文
 
-文章內容長得像:
+
+文章內容大致格式
+````````````````
 
 .. code-block:: txt
 
@@ -113,24 +119,32 @@ Pelican_ 編譯成整個網站，再上傳到 `siongui.github.io`_ 。
 
   (your main content here)
 
-* **category** ：只可以有一個。
-
-* **tags** ：可以有好幾個。
-
 * **date** ：文章創建日期，可加可不加，不加的話則是用目錄裡的日期當成此文章日期
 
 * **modified** ：文章修改日期
 
+* **author** ：作者名
+
+* **tags** ：可以有好幾個。
+
+* **category** ：只可以有一個。
+
+* **summary** ：文章摘要，此摘要即為 `HTML meta description`_ 以及 `og:description`_
+
 * **og_image** ：是此文被分享或貼到Facebook或Google+之類的社交網站上時，顯示的圖片網址。
+  (參考 [7]_)
 
 * **license** ：此文章 and/or 程式碼的授權，可以是 CC_, MIT, BSD, Apache 2.0, ...
 
 **tags**, **category**, **author**, **summary** 為建議必填，其他欄位可視情形填或不填。
 
-rst_ 格式怎樣寫可參考 [1]_ ，至於用LaTeX寫數學，可看 [2]_
+rst_ 格式怎樣寫可參考 [1]_ ，至於用LaTeX寫數學，可看 [2]_ 。
+
+如何撰寫文章的更多細節，請閱讀 `Pelican官方文件`_
 
 
-注意事項：
+注意事項
+````````
 
 - 每行建議不超過80個字母，一個中文算兩個字母。（非硬性規定）
 
@@ -139,6 +153,11 @@ rst_ 格式怎樣寫可參考 [1]_ ，至於用LaTeX寫數學，可看 [2]_
 
 - 可參考 [5]_ 來寫 rst_
 
+- 可利用 `線上reStructuredText編輯器`_
+  （可線上預覽，但因為CSS不同，預覽與實際網站呈現會有些差異）
+
+- 亦可利用 `Sublime Text`_ + `OmniMarkupPreviewer`_ plugin
+  來撰寫文章並預覽，但同樣因為CSS不同的關係，預覽與實際網站呈現會有些差異
 
 SEO以及Facebook分享
 ```````````````````
@@ -156,7 +175,7 @@ SEO以及Facebook分享
 文章被分享或貼到Facebook或Google+之類的社交網站上時，
 文章的顯示圖片網址是metadata裡的 *og_image*,
 文章描述則是 *summary* 裡填寫的描述。
-詳情請參考 `Facebook官方指南`_ 。
+詳情請參考 [7]_ 或是 `Facebook官方指南`_ 。
 
 預覽整個網站
 ++++++++++++
@@ -178,6 +197,10 @@ Windows平台理論上應該也可以將整個網站編譯出來並預覽，但�
 .. [4] `LaTeX/Mathematics - Wikibooks, open books for an open world <http://en.wikibooks.org/wiki/LaTeX/Mathematics>`_
 
 .. [5] `7. 附录：轻量级标记语言 — GotGitHub <http://www.worldhello.net/gotgithub/appendix/markups.html>`_
+
+.. [6] `Online reStructuredText editor <http://rst.ninjs.org/>`_
+
+.. [7] `Facebook Open Graph META Tags <http://davidwalsh.name/facebook-meta-tags>`_
 
 ----
 
@@ -205,3 +228,9 @@ Windows平台理論上應該也可以將整個網站編譯出來並預覽，但�
 .. _siongui.github.io: https://github.com/siongui/siongui.github.io
 .. _Facebook官方指南: https://developers.facebook.com/docs/sharing/best-practices
 .. _CC: http://creativecommons.org.tw/
+.. _Pelican官方文件: http://docs.getpelican.com/en/3.5.0/content.html
+.. _線上reStructuredText編輯器: http://rst.ninjs.org/
+.. _og\:description: http://davidwalsh.name/facebook-meta-tags
+.. _HTML meta description: http://www.w3schools.com/tags/tag_meta.asp
+.. _Sublime Text: http://www.sublimetext.com/
+.. _OmniMarkupPreviewer: https://github.com/timonwong/OmniMarkupPreviewer

@@ -62,20 +62,22 @@ Daily Development
 
 .. code-block:: bash
 
+    # enter virtual Python environment
     $ cd ~/dev/
     $ source bin/activate
     $ cd userpages/
     # start edit and develope
-    # If something changes
+    # If something changes, re-generate the website:
     $ make html
-    # start dev server at http://localhost:8000/
+    # start dev server
     $ make serve
+    # open your browser and preview the website at http://localhost:8000/
 
 
 UNLICENSE
 ---------
 
-All contents, including posts and code, from Siong-Ui Te are released in public domain.
+All works, including posts and code, of Siong-Ui Te are released in public domain.
 Please see `UNLICENSE <http://unlicense.org/>`_.
 
 
