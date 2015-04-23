@@ -95,7 +95,7 @@ Pelican_ 編譯成整個網站，再上傳到 `siongui.github.io`_ 。
 若新增一個檔案名為 **content/articles/2015/04/21/post-on-this-site%en.rst**
 則該文章的網址是 **/2015/04/21/post-on-this-site/** ，該文章的語言是英文
 
-文章內容則長得像:
+文章內容長得像:
 
 .. code-block:: txt
 
@@ -109,6 +109,7 @@ Pelican_ 編譯成整個網站，再上傳到 `siongui.github.io`_ 。
   :category: Web開發
   :summary: 透過GitHub平台協同撰寫網站
   :og_image: http://....
+  :license: CC|MIT|BSD|Apache2.0 ...
 
   (your main content here)
 
@@ -120,7 +121,9 @@ Pelican_ 編譯成整個網站，再上傳到 `siongui.github.io`_ 。
 
 * **modified** ：文章修改日期
 
-* **og_image** ：是此文被分享或貼到Facebook上時，顯示的圖片網址。
+* **og_image** ：是此文被分享或貼到Facebook或Google+之類的社交網站上時，顯示的圖片網址。
+
+* **license** ：此文章 and/or 程式碼的授權，可以是 CC_, MIT, BSD, Apache 2.0, ...
 
 rst_ 格式怎樣寫可參考 [1]_ ，至於用LaTeX寫數學，可看 [2]_
 
@@ -146,7 +149,7 @@ SEO以及Facebook分享
     */2015/04/21/random-number/* ，將random number這兩個關鍵字包含在網址裡。
     若是用 */2015/04/21/blog-post_21.html* 之類的網址，將不利於SEO。
 
-  - 日期：網誌日期越新越好。
+  - 日期：文章日期越新越好。
 
 文章被分享或貼到Facebook或Google+之類的社交網站上時，
 文章的顯示圖片網址是metadata裡的 *og_image*,
@@ -158,7 +161,7 @@ SEO以及Facebook分享
 
 本站目前只能在 Ubuntu Linux 上將整個網站編譯出來並預覽，詳情請看：
 `README <https://github.com/siongui/userpages/blob/master/README.rst>`_ 。
-Windows上理論上應該也可以將整個網站編譯出來並預覽，但從沒試過。
+Windows平台理論上應該也可以將整個網站編譯出來並預覽，但從沒試過。
 
 ----
 
@@ -199,3 +202,4 @@ Windows上理論上應該也可以將整個網站編譯出來並預覽，但從�
 .. _userpages: https://github.com/siongui/userpages
 .. _siongui.github.io: https://github.com/siongui/siongui.github.io
 .. _Facebook官方指南: https://developers.facebook.com/docs/sharing/best-practices
+.. _CC: http://creativecommons.org.tw/

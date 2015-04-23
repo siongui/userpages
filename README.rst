@@ -75,7 +75,8 @@ Daily Development
 UNLICENSE
 ---------
 
-Released in public domain. Please see `UNLICENSE <http://unlicense.org/>`_.
+All contents, including posts and code, from Siong-Ui Te are released in public domain.
+Please see `UNLICENSE <http://unlicense.org/>`_.
 
 
 References
