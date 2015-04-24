@@ -2,7 +2,7 @@ Pali Chanting Collection 巴利唸誦整理
 #####################################
 
 :date: 2015-03-12 05:11
-:modified: 2015-04-23T23:02+08:00
+:modified: 2015-04-24T23:24+08:00
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: Collection of online Pāli chanting resources
@@ -117,6 +117,8 @@ Paritta_ (護衛經)
 - `Namo-kāra-aṭṭhaka Gāthā (八禮敬偈, นโมการอัฏฐกคาถา, The Homage Octet) - 巴利唸誦 <{filename}../../04/22/namokaara-atthaka-gaathaa-pali-chanting%zh.rst>`_
 
 - `Mahā-maṅgala-cakkavāḷa (大吉祥宇宙, มงคลจักรวาฬใหญ่, The Great Universe of Blessings) - 巴利唸誦 <{filename}../../04/23/mahaa-mangala-cakkavaala-pali-chanting%zh.rst>`_
+
+- `Abhaya Paritta (無畏護衛偈, อภยปริตร, The Danger-free Protection) - 巴利唸誦 <{filename}../../04/24/abhaya-paritta-pali-chanting%zh.rst>`_
 
 Anumodana_ (隨喜)
 `````````````````

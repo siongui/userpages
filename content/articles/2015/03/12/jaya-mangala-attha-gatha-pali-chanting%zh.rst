@@ -209,9 +209,14 @@ Jaya-maṅgala Gāthā (勝利吉祥偈) - 巴利唸誦
 .. [7] `上座部佛教唸誦集 - 瑪欣德尊者 編譯 <http://www.dhammatalks.net/Chinese/Bhikkhu_Mahinda-Puja.pdf>`_
 
 
-其他唸誦：
+唸誦集：
 
-.. [8] `Bahung - YouTube <https://youtu.be/NxKCp4G_-ac>`_
+.. [Chant1] `Paritta Chanting - Jayamangala Atthagatha 征服一切事情成功 - YouTube <https://www.youtube.com/watch?v=j0CRIIlnQEo>`_
+
+.. [Chant2] `ชัยมงคลคาถา คาถาพาหุง Chaiya Mongkol Katha Test(3) - YouTube <https://www.youtube.com/watch?v=-MSwSttKSio>`_
+
+.. [Chant3] `Bahung - YouTube <https://youtu.be/NxKCp4G_-ac>`_
+
 
 
 .. _巴利: http://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%88%A9%E8%AF%AD
