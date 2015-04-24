@@ -7,6 +7,9 @@
 :category: Math
 :summary: The infamous Grasshopper problem
 
+This is one of the hardest problems in IMO history. As usual, it permites
+solutions involving only elementary techniques. My solution is very
+similar to the official one.
 
 The infamous Grasshopper problem
 ++++++++++++++++++++++++++++++++
