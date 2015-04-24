@@ -2,7 +2,7 @@
 ##########################
 
 :date: 2015-04-21 19:17
-:modified: 2015-04-24T11:50+08:00
+:modified: 2015-04-24T16:05+08:00
 :tags: Web開發
 :category: Web開發
 :summary: 透過GitHub平台協同撰寫網站
@@ -195,12 +195,46 @@ SEO以及Facebook分享
 文章描述則是 *summary* 裡填寫的描述。
 詳情請參考 [7]_ 或是 `Facebook官方指南`_ 。
 
+
 預覽整個網站
 ++++++++++++
 
-本站目前只能在 Ubuntu Linux 上將整個網站編譯出來並預覽，詳情請看：
-`README <https://github.com/siongui/userpages/blob/master/README.rst>`_ 。
+本站目前只能在 Ubuntu Linux 上將整個網站編譯出來並預覽，詳情請看： README_ 。
 Windows平台理論上應該也可以將整個網站編譯出來並預覽，但從沒試過。
+
+
+更新網站( http://siongui.github.io/ )
++++++++++++++++++++++++++++++++++++++
+
+假設 userpages_ 跟 `siongui.github.io`_ 都被 git clone 到同一個目錄
+( *~/dev/* )下，接著照著 README_ 裡的 First-time Setup，將環境架起來。
+
+聯絡站主，站主將該帳號加為 `siongui.github.io`_ 的 collaborator。
+
+當修改好後，預覽OK後，將內容publish到網站上：
+
+.. code-block:: bash
+
+  # generate website to be published
+  $ cd ~/dev/userpages/
+  $ make publish
+  # after make publish, the website to be published is located at
+  # ~/dev/userpages/output/ by default.
+  # enter website repo
+  $ cd ~/dev/siongui.github.io/
+  # remove all content
+  $ git rm -rf *
+  # copy new website here
+  $ cp -r ~/dev/userpages/output/* .
+  # git add the whole website
+  $ git add .
+  # (optional) see what has been changed
+  $ git status
+  # if everything looks fine, commit
+  $ git commit -m "YOUR_COMMIT_MESSAGE"
+  # push to GitHub repo
+  $ git push
+  # enter your username and password. Done.
 
 ----
 
@@ -252,3 +286,4 @@ Windows平台理論上應該也可以將整個網站編譯出來並預覽，但�
 .. _HTML meta description: http://www.w3schools.com/tags/tag_meta.asp
 .. _Sublime Text: http://www.sublimetext.com/
 .. _OmniMarkupPreviewer: https://github.com/timonwong/OmniMarkupPreviewer
+.. _README: https://github.com/siongui/userpages/blob/master/README.rst
