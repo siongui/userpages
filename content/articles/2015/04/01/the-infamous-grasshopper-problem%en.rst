@@ -1,5 +1,5 @@
 [Math] The infamous Grasshopper problem
-################################
+#######################################
 
 :date: 2015-04-01T18:09-08:00
 :author: Shen-Fu Tsai
