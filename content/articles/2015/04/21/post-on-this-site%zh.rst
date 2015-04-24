@@ -2,7 +2,7 @@
 ##########################
 
 :date: 2015-04-21 19:17
-:modified: 2015-04-24T05:13+08:00
+:modified: 2015-04-24T11:50+08:00
 :tags: Web開發
 :category: Web開發
 :summary: 透過GitHub平台協同撰寫網站
@@ -158,6 +158,24 @@ rst_ 格式怎樣寫可參考 [1]_ ，至於用LaTeX寫數學，可看 [2]_ 。
 
 - 亦可利用 `Sublime Text`_ + `OmniMarkupPreviewer`_ plugin
   來撰寫文章並預覽，但同樣因為CSS不同的關係，預覽與實際網站呈現會有些差異
+
+- 標題下的 ``#`` 長度至少要比標題長度一樣長，或更長，例如以下是錯誤寫法：
+
+  .. code-block:: rst
+
+    [Math] The infamous Grasshopper problem
+    ################################
+
+  正確寫法是：
+
+  .. code-block:: rst
+
+    [Math] The infamous Grasshopper problem
+    #######################################
+
+- userpages_ 更改後，網站並不會更改，必須要 Pelican_ 把 userpages
+  編譯成網站 HTML，然後更新對應的 `siongui.github.io`_ 內容。
+
 
 SEO以及Facebook分享
 ```````````````````
