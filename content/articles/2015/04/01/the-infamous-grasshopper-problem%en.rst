@@ -116,4 +116,4 @@ Q.E.D.
 
 `post <http://oathbystyx.blogspot.com/2015/04/the-infamous-grasshopper-problem.html>`_
 by
-`Shen-Fu Tsai <https://plus.google.com/102515651050568228591>`_
+`Shen-Fu Tsai <{filename}/pages/sftsai.rst>`_
