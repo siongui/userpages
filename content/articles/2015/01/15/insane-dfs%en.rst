@@ -1,5 +1,5 @@
-Insane DFS
-##########
+[Algorithm] Insane DFS
+######################
 
 :date: 2015-01-15T11:07-08:00
 :author: Shen-Fu Tsai
