@@ -41,6 +41,13 @@ Reflection (省思)
 - `Atīta paccavekkhaṇa pāṭha (對過去[所受用的四資具]的省思文, อตีตปัจจเวกขณปาฐะ) - 巴利唸誦 <{filename}../31/atiita-paccavekkhana-pali-chanting%zh.rst>`_
 
 
+Sutta (經文)
+````````````
+
+- `ānāpānassati pāṭha (安般念[入出息念], อานาปานสติปาฐะ, Mindfulness of Breathing) - 巴利唸誦 <{filename}../../04/25/aanaapaanassati-pali-chanting%zh.rst>`_
+  (MN 118 excerpt, 中部118經節錄)
+
+
 Dedication_ (迴向)
 ``````````````````
 
@@ -481,6 +488,9 @@ Video & Audio (影音)
 - `Martin Teo - YouTube <https://www.youtube.com/user/martinteo88>`_
 
 - `Guṇasāra Monastery - YouTube <https://www.youtube.com/channel/UCBwidaPERHU1LZXfAVIVU4Q>`_
+  (Thai)
+
+- `Buddhadharm - YouTube <https://www.youtube.com/channel/UCBOC9pRgDaEFr3owKu6G8kA>`_
   (Thai)
 
 - `Paritta Chanting - YouTube <https://www.youtube.com/playlist?list=PLj-tYYaCGY6xbpo7Yz68kcN1ZfwNUgiBf>`__
