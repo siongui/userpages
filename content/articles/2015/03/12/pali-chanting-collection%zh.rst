@@ -47,8 +47,8 @@ Reflection (省思)
 - `Atīta paccavekkhaṇa pāṭha (對過去[所受用的四資具]的省思文, อตีตปัจจเวกขณปาฐะ) - 巴利唸誦 <{filename}../31/atiita-paccavekkhana-pali-chanting%zh.rst>`_
 
 
-Sutta (經文)
-````````````
+Sutta_ (經文)
+`````````````
 
 - `ānāpānassati pāṭha (安般念[入出息念], อานาปานสติปาฐะ, Mindfulness of Breathing) - 巴利唸誦 <{filename}../../04/25/aanaapaanassati-pali-chanting%zh.rst>`_
   (`MN 118`_ excerpt, `中部118經`_ 節錄)
@@ -564,6 +564,8 @@ Video & Audio (影音)
 .. _Gātha: http://en.wikipedia.org/wiki/Gatha
 
 .. _Dedication: http://en.wikipedia.org/wiki/Pari%E1%B9%87%C4%81man%C4%81
+
+.. _Sutta: http://www.accesstoinsight.org/tipitaka/sutta.html
 
 .. _MN 118: http://suttacentral.net/pi/mn118
 
