@@ -3,7 +3,7 @@
 
 :date: 2015-04-08 05:30
 :author: Gary Zukav, Linda Francis
-:tags: 轉錄, 心靈小品, 健康
+:tags: 轉錄, 心靈小品, 健康, 心探索
 :category: 轉錄
 :summary: 我們常常不由自主地批評別人，有時候這些批評雖然沒有說出口，但它已經在內心滋生了；我們也常常自責，不喜歡這樣的自己或者那樣做事，自責讓我們內心失去寧靜與祥和。這些對別人和自己的評判為什麼會不斷地強迫性地發生？又有什麼方法讓我們不去評判，找回內心的和平呢？本期主題：不評判，回到寧靜。
 :og_image: http://www.xintansuo.com/uploads/portal/201504/07/174431b1gg7e0kauveok1n.jpg

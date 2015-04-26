@@ -3,7 +3,7 @@
 
 :date: 2015-04-08 05:29
 :author: 武志红
-:tags: 轉錄, 心靈小品, 健康
+:tags: 轉錄, 心靈小品, 健康, 心探索
 :category: 轉錄
 :summary: 我們常常很不好意思向別人提要求，同時，當我們面對別人提出的要求時，往往又是難以拒絕，而其實自己內心的感受是想要拒絕的。那麼，是什麼心理因素阻礙了我們向別人提要求，又是什麼原因讓我們說不出「不」呢？
 :og_image: http://www.xintansuo.com/uploads/portal/201504/07/173639j6tpz6hwdtpirxro.jpg
