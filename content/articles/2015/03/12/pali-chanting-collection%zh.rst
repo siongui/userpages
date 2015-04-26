@@ -2,7 +2,7 @@ Pali Chanting Collection 巴利唸誦整理
 #####################################
 
 :date: 2015-03-12 05:11
-:modified: 2015-04-24T23:24+08:00
+:modified: 2015-04-26T23:14+08:00
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: Collection of online Pāli chanting resources
@@ -14,6 +14,12 @@ Pali Chanting Collection 巴利唸誦整理
 
 Thai (泰國)
 +++++++++++
+
+Morning Chanting (早課)
+```````````````````````
+
+- `Tisaraṇa Vandanā (禮敬三寶, คำบูชาพระรัตนตรัย, Homage to the Triple Gem) - 巴利唸誦 <{filename}../../04/26/tisarana-vandanaa-pali-chanting%zh.rst>`_
+
 
 Evening Chanting (晚課)
 ```````````````````````
@@ -45,7 +51,7 @@ Sutta (經文)
 ````````````
 
 - `ānāpānassati pāṭha (安般念[入出息念], อานาปานสติปาฐะ, Mindfulness of Breathing) - 巴利唸誦 <{filename}../../04/25/aanaapaanassati-pali-chanting%zh.rst>`_
-  (MN 118 excerpt, 中部118經節錄)
+  (`MN 118`_ excerpt, `中部118經`_ 節錄)
 
 
 Dedication_ (迴向)
@@ -558,3 +564,7 @@ Video & Audio (影音)
 .. _Gātha: http://en.wikipedia.org/wiki/Gatha
 
 .. _Dedication: http://en.wikipedia.org/wiki/Pari%E1%B9%87%C4%81man%C4%81
+
+.. _MN 118: http://suttacentral.net/pi/mn118
+
+.. _中部118經: http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=391
