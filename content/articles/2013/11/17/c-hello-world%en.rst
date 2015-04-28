@@ -1,5 +1,5 @@
-Hello Word in C
-###############
+Hello World in C
+################
 
 :tags: C, Makefile
 :category: C
