@@ -14,7 +14,7 @@ tell that the "suitable array" defined by DFS traversal throughout a rooted tree
 is equivalent to all and only arrays a[] satisfying these constraints:
 
 1. a[0] = 0, a[1] = 1 if N > 1
-2. For n > 0, a[n] <= a[n - 1] + 1
+2. For n > 0, a[n] :math:`\leq` a[n - 1] + 1
 
 Let's start with DP. Let D[x][y] be the number of arrays a[0 ... x] with a[x]
 :math:`\geq` y. Then, the number of arrays a[0 ... x] such that a[x] == y is

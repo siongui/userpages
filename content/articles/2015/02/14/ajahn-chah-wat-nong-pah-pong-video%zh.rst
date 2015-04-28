@@ -42,6 +42,7 @@
 - `Forest Sangha Publications <http://forestsanghapublications.org/>`_
 
   * `The Collected Teachings of Ajahn Chah - Single Volume | Ajahn Chah <http://forestsanghapublications.org/viewBook.php?id=50>`_
+    (`mirror </7rsk9vjkm4p8z5xrdtqc/books/AjahnChah/The-Collected-Teachings-of-Ajahn-Chah-Single-Volume.pdf>`__)
 
   * `The Collected Teachings of Ajahn Chah Vol 1 - Daily Life Practice | Ajahn Chah <http://forestsanghapublications.org/viewBook.php?id=51>`_
 
@@ -62,19 +63,24 @@
   * `In Simple Terms | Ajahn Chah <http://forestsanghapublications.org/viewBook.php?id=5>`_
 
   * `A Gift of Dhamma (Chinese) | Ajahn Chah <http://forestsanghapublications.org/viewBook.php?id=43>`_
-    (以法為贈禮)
+    (以法為贈禮,
+    `mirror </7rsk9vjkm4p8z5xrdtqc/books/AjahnChah/A_Gift_of_Dhamma_-_Ajahn_Chah_ZH.pdf>`__)
 
   * `Food for the Heart (Chinese) | Ajahn Chah <http://forestsanghapublications.org/viewBook.php?id=46>`_
-    (心靈的資糧)
+    (心靈的資糧,
+    `mirror </7rsk9vjkm4p8z5xrdtqc/books/AjahnChah/Food_for_the_Heart_-_Ajahn_Chah_ZH.pdf>`__)
 
   * `Our Real Home (Chinese) | Ajahn Chah <http://forestsanghapublications.org/viewBook.php?id=47>`_
-    (我們真正的歸宿)
+    (我們真正的歸宿,
+    `mirror </7rsk9vjkm4p8z5xrdtqc/books/AjahnChah/Our_Real_Home_-_Ajahn_Chah_ZH.pdf>`__)
 
   * `Still, Flowing Water (Chinese) | Ajahn Chah <http://forestsanghapublications.org/viewBook.php?id=48>`_
-    (靜止的流水)
+    (靜止的流水,
+    `mirror </7rsk9vjkm4p8z5xrdtqc/books/AjahnChah/Still_Flowing_Water_-_Ajahn_Chah_ZH.pdf>`__)
 
   * `Why We Are Here (Chinese) | Ajahn Chah <http://forestsanghapublications.org/viewBook.php?id=49>`_
-    (為何我們生於此)
+    (為何我們生於此,
+    `mirror </7rsk9vjkm4p8z5xrdtqc/books/AjahnChah/Why_We_Are_Here_-_Ajahn_Chah_ZH.pdf>`__)
 
   * `On Meditation | Ajahn Chah <http://forestsanghapublications.org/viewBook.php?id=6>`_
 
@@ -87,6 +93,7 @@
   * `內觀與南傳佛法 <http://www.buddhist.idv.tw//index.php?cat=c110&>`_
 
     + `寧靜的森林水池 <http://www.buddhist.idv.tw/FTP/%E6%B3%95%E5%AF%B6%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BC%89/%E5%85%A7%E8%A7%80%E8%88%87%E5%8D%97%E5%82%B3%E4%BD%9B%E6%B3%95/%E5%AF%A7%E9%9D%9C%E7%9A%84%E6%A3%AE%E6%9E%97%E6%B0%B4%E6%B1%A0%28%E9%98%BF%E5%A7%9C%E6%9F%A5%29.pdf>`_
+      (`mirror </7rsk9vjkm4p8z5xrdtqc/books/AjahnChah/A-Still-Forest-Pool_-_Ajahn_Chah_ZH_TW.pdf>`__)
 
 - `阿姜查的禪修世界 <http://www.fosss.org/book/AJiangCha/Index.html>`_
 
