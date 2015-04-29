@@ -58,17 +58,17 @@ First-time Setup
     $ cd ~/dev/userpages/
     $ make scss
 
-.. note::
+If you get error messages like ``No module named scss`` when you run
+``make scss``, DO NOT use virtualenv.
 
-  If you get error messages like ``No module named scss`` when you run
-  ``make scss``, DO NOT use virtualenv.
 
 Daily Development
 -----------------
 
 .. code-block:: bash
 
-    # enter virtual Python environment (optional). Ignore this step if you get error with make command.
+    # enter virtual Python environment (optional).
+    # Ignore this step if you get error with make command.
     $ cd ~/dev/
     $ source bin/activate
     # start edit and develope

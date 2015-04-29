@@ -97,7 +97,21 @@
 
 - `阿姜查的禪修世界 <http://www.fosss.org/book/AJiangCha/Index.html>`_
 
-- `阿姜查尊者：倾听弦外之音（阅读）-佛教导航 <http://www.fjdh.cn/wumin/2014/04/120119327623.html>`_
+- `南传佛教文集-佛教导航 <http://www.fjdh.cn/fjwh/ncjwj/>`_
+
+  * `阿姜查尊者：倾听弦外之音（阅读）-佛教导航 <http://www.fjdh.cn/wumin/2014/04/120119327623.html>`_
+
+  * `阿姜查的禅修世界（阅读）-佛教导航 <http://www.fjdh.cn/wumin/2013/02/103100210418.html>`_
+
+  * `阿姜查尊者：关于这颗心（阅读）-佛教导航 <http://www.fjdh.cn/wumin/2013/12/130908313127.html>`_
+
+  * `阿姜查尊者：心灵的资粮（阅读）-佛教导航 <http://www.fjdh.cn/wumin/2013/12/103909313108.html>`_
+
+  * `阿姜查尊者：以法为赠礼（阅读）-佛教导航 <http://www.fjdh.cn/wumin/2013/03/080958214496.html>`_
+
+  * `阿姜查尊者：宁静的森林水池（阅读）-佛教导航 <http://www.fjdh.cn/wumin/2013/03/074341214485.html>`_
+
+  * `莲花中的珍宝-阿姜查·须跋多传（阅读）-佛教导航 <http://www.fjdh.cn/wumin/2013/02/152032210457.html>`_
 
 ----
 
