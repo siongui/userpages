@@ -18,7 +18,9 @@ First-time Setup
     $ sudo apt-get install python-pip
     $ sudo pip install virtualenv
 
-2. Create and enter Python virtual environment:
+2. Create and enter Python virtual environment: This step is optional, if you
+   get error messages like ``No module named scss`` when you run ``make``
+   command, DO NOT use virtual Python environment and ignore this step.
 
 .. code-block:: bash
 
@@ -56,17 +58,21 @@ First-time Setup
     $ cd ~/dev/userpages/
     $ make scss
 
+.. note::
+
+  If you get error messages like ``No module named scss`` when you run
+  ``make scss``, DO NOT use virtualenv.
 
 Daily Development
 -----------------
 
 .. code-block:: bash
 
-    # enter virtual Python environment
+    # enter virtual Python environment (optional). Ignore this step if you get error with make command.
     $ cd ~/dev/
     $ source bin/activate
-    $ cd userpages/
     # start edit and develope
+    $ cd ~/dev/userpages/
     # If something changes, re-generate the website:
     $ make html
     # start dev server

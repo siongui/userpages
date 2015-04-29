@@ -7,7 +7,7 @@
 :category: Math
 :summary: The infamous Grasshopper problem
 
-This is one of the hardest problems in IMO history. As regulated by IMO rules,
+This is one of the hardest problems in IMO_ history. As regulated by IMO rules,
 it permits solutions involving only elementary techniques. My solution is very
 similar to the official one.
 
@@ -117,3 +117,6 @@ Q.E.D.
 `post <http://oathbystyx.blogspot.com/2015/04/the-infamous-grasshopper-problem.html>`_
 by
 `Shen-Fu Tsai <{filename}/pages/sftsai.rst>`_
+
+
+.. _IMO: http://www.imo-official.org/
