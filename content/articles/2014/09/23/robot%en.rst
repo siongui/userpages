@@ -25,7 +25,8 @@ gathered. :math:`1 \leq N \leq 500000`, :math:`0 \leq V_i \leq 10^9`,
 :math:`0 \leq P_i \leq 100000`. It is guaranteed there's a way that energy is
 always non-negative.
 
-A standard DP with state (station, energy) takes O[N * max_energy]. Let D(i, e)
+A standard DP with state (station, energy) takes O[N :math:`\times` max_energy].
+Let D(i, e)
 be the maximum amount of money to be gained when entering station i with energy
 e. Clearly
 
@@ -117,7 +118,7 @@ the segment. Once found, updating the stack takes amortized cost of
 :math:`O(1)`.
 
 In brief, with these two coordinate transformations this problem is solved in
-:math:`O(N*log(N))` time and :math:`O(N)` memory without tree structure. The
+:math:`O(N\times log(N))` time and :math:`O(N)` memory without tree structure. The
 code is available at
 https://github.com/paritystsai8/coding_problem/blob/master/robot.cpp
 
