@@ -3,8 +3,8 @@
 
 :date: 2014-09-23T18:34-08:00
 :author: Shen-Fu Tsai
-:tags: Math
-:category: Math
+:tags: Algorithm
+:category: Algorithm
 :summary: Robot
 
 

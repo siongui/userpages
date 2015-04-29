@@ -3,8 +3,8 @@
 
 :date: 2015-01-15T11:07-08:00
 :author: Shen-Fu Tsai
-:tags: Math
-:category: Math
+:tags: Algorithm
+:category: Algorithm
 :summary: Insane DFS
 
 
