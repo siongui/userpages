@@ -68,3 +68,9 @@ Photo cr. to: http://www.nanatham.com/mara.html
 
 
 .. _目的達泰語教室: https://www.facebook.com/pages/%E7%9B%AE%E7%9A%84%E9%81%94%E6%B3%B0%E8%AA%9E%E6%95%99%E5%AE%A4-Mudita-Thai-Center/117121364981473
+
+其他參考：
+
+`AK HOUSE曼谷自由行：到泰國玩要有禮貌！（泰國旅遊注意事項）上 <http://akhousebkk.pixnet.net/blog/post/60623041>`_
+
+`AK HOUSE曼谷自由行：到泰國玩要有禮貌！（泰國旅遊注意事項）下 <http://akhousebkk.pixnet.net/blog/post/60623170>`_

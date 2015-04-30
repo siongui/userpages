@@ -61,3 +61,9 @@
   .. raw:: html
 
     <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/RichnessThai/photos/a.1398449817037965.1073741828.1395957037287243/1600450033504608/?type=1" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/RichnessThai/photos/a.1398449817037965.1073741828.1395957037287243/1600450033504608/?type=1">Post</a> by <a href="https://www.facebook.com/RichnessThai">富貴泰國邦</a>.</div></div>
+
+其他參考：
+
+`AK HOUSE曼谷自由行：到泰國玩要有禮貌！（泰國旅遊注意事項）上 <http://akhousebkk.pixnet.net/blog/post/60623041>`_
+
+`AK HOUSE曼谷自由行：到泰國玩要有禮貌！（泰國旅遊注意事項）下 <http://akhousebkk.pixnet.net/blog/post/60623170>`_

@@ -63,3 +63,9 @@
 `轉錄來源 <http://shareba.com/?do=/blog/162180/>`_
 
 Google搜尋: `很多遊客都不知道！8個在泰國常犯的小禁忌 <https://www.google.com.tw/search?q=%E5%BE%88%E5%A4%9A%E9%81%8A%E5%AE%A2%E9%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%EF%BC%818%E5%80%8B%E5%9C%A8%E6%B3%B0%E5%9C%8B%E5%B8%B8%E7%8A%AF%E7%9A%84%E5%B0%8F%E7%A6%81%E5%BF%8C>`_
+
+其他參考：
+
+`AK HOUSE曼谷自由行：到泰國玩要有禮貌！（泰國旅遊注意事項）上 <http://akhousebkk.pixnet.net/blog/post/60623041>`_
+
+`AK HOUSE曼谷自由行：到泰國玩要有禮貌！（泰國旅遊注意事項）下 <http://akhousebkk.pixnet.net/blog/post/60623170>`_

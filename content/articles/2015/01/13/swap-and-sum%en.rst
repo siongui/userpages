@@ -1,7 +1,7 @@
 [Algorithm] Swap and Sum
 ########################
 
-:date: 2015-01-15T13:04-08:00
+:date: 2015-01-13T13:04-08:00
 :author: Shen-Fu Tsai
 :tags: Algorithm
 :category: Algorithm
