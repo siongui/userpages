@@ -88,6 +88,17 @@
 
   * `Still Flowing Water | Ajahn Chah <http://forestsanghapublications.org/viewBook.php?id=99>`_
 
+
+- `The Teachings of Ajahn Chah <https://www.ajahnchah.org/>`_
+
+  * `[PDF] No Ajahn Chah <https://www.ajahnchah.org/pdf/no_ajahn_chah.pdf>`_
+
+
+- `Dhamma Talks (((((0))))) Attaining PEACE with KNOWING & SEEING a Handful of Leaves <http://www.dhammatalks.net/>`_
+
+  * `Ajahn Chah - A Still Forest Pool (((O))) <http://www.dhammatalks.net/Books2/Ajahn_Chah_A_Still_Forest_Pool.htm>`_
+
+
 - `法寶影音網 <http://www.buddhist.idv.tw/>`_
 
   * `內觀與南傳佛法 <http://www.buddhist.idv.tw//index.php?cat=c110&>`_
@@ -95,7 +106,9 @@
     + `寧靜的森林水池 <http://www.buddhist.idv.tw/FTP/%E6%B3%95%E5%AF%B6%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BC%89/%E5%85%A7%E8%A7%80%E8%88%87%E5%8D%97%E5%82%B3%E4%BD%9B%E6%B3%95/%E5%AF%A7%E9%9D%9C%E7%9A%84%E6%A3%AE%E6%9E%97%E6%B0%B4%E6%B1%A0%28%E9%98%BF%E5%A7%9C%E6%9F%A5%29.pdf>`_
       (`mirror </7rsk9vjkm4p8z5xrdtqc/books/AjahnChah/A-Still-Forest-Pool_-_Ajahn_Chah_ZH_TW.pdf>`__)
 
+
 - `阿姜查的禪修世界 <http://www.fosss.org/book/AJiangCha/Index.html>`_
+
 
 - `南传佛教文集-佛教导航 <http://www.fjdh.cn/fjwh/ncjwj/>`_
 
