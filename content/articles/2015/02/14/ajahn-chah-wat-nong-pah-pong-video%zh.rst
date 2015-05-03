@@ -41,6 +41,8 @@
 
 - `Forest Sangha Publications <http://forestsanghapublications.org/>`_
 
+  * `Ajahn Chah - Forest Sangha Publications <http://forestsanghapublications.org/viewAuthor.php?id=1>`_
+
   * `The Collected Teachings of Ajahn Chah - Single Volume | Ajahn Chah <http://forestsanghapublications.org/viewBook.php?id=50>`_
     (`mirror </7rsk9vjkm4p8z5xrdtqc/books/AjahnChah/The-Collected-Teachings-of-Ajahn-Chah-Single-Volume.pdf>`__)
 
@@ -98,6 +100,12 @@
 
   * `Ajahn Chah - A Still Forest Pool (((O))) <http://www.dhammatalks.net/Books2/Ajahn_Chah_A_Still_Forest_Pool.htm>`_
 
+  * `阿姜查 (Ajahn Chah) - 宁静的森林水池 <http://www.dhammatalks.net/Chinese/Ajahn_Chah_A_Still_Forest_Pool.htm>`_
+
+  * `[PDF] 阿姜查的禅修世界--戒 <http://www.dhammatalks.net/Chinese/The_Teachings_of_Ajahn_Chah_Sila.pdf>`_
+
+  * `Index of /Chinese <http://www.dhammatalks.net/Chinese/>`_
+
 
 - `法寶影音網 <http://www.buddhist.idv.tw/>`_
 
@@ -125,6 +133,20 @@
   * `阿姜查尊者：宁静的森林水池（阅读）-佛教导航 <http://www.fjdh.cn/wumin/2013/03/074341214485.html>`_
 
   * `莲花中的珍宝-阿姜查·须跋多传（阅读）-佛教导航 <http://www.fjdh.cn/wumin/2013/02/152032210457.html>`_
+
+
+- `阿姜查的禪修世界_燃燈之旅_274_新浪博客 <http://blog.sina.com.cn/s/articlelist_1571258821_16_1.html>`_
+
+
+- `阿姜查禅师_显密文库 <http://xmwk.zgfj.cn/e/action/ListInfo/?classid=1631>`_
+
+
+- `阿姜查禅师 - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_more.asp?lm2=131>`_
+
+  * `倾听弦外之音·阿姜查 - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_more.asp?lm2=2440&open=_blank&tj=0&hot=0>`_
+
+
+- `森林裡的一棵樹(4) @ 阿蘭若外一俱盧舍 :: 痞客邦 PIXNET :: <http://chakwos.pixnet.net/blog/post/14481911>`_
 
 ----
 

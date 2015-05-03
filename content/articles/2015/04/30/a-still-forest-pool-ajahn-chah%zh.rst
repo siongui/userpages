@@ -1224,3 +1224,5 @@ Makkha Puja 是個重要的佛教節日，慶祝一千兩百五十位悟道的�
 
 .. [4] `阿姜查尊者：宁静的森林水池（阅读）-佛教导航 <http://www.fjdh.cn/wumin/2013/03/074341214485.html>`_ -
        `南传佛教文集-佛教导航 <http://www.fjdh.cn/fjwh/ncjwj/>`_
+
+.. [5] `阿姜查 (Ajahn Chah) - 宁静的森林水池 <http://www.dhammatalks.net/Chinese/Ajahn_Chah_A_Still_Forest_Pool.htm>`_
