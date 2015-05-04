@@ -6,37 +6,8 @@ Dhammacakkappavattana Sutta (轉法輪經, ธัมมจักกัปปว�
 :category: 巴利唸誦
 :summary: Dhammacakkappavattana Sutta (轉法輪經, ธัมมจักกัปปวัตตนสูตร, Setting the Wheel of Dhamma in Motion)
 :og_image: http://i.ytimg.com/vi/XdNajWABt_A/maxresdefault.jpg
+:status: draft
 
-
-.. list-table:: Dhammacakkappavattana Sutta (轉法輪經, `ธัมมจักกัปปวัตตนสูตร`_, Setting the Wheel of Dhamma in Motion)
-   :header-rows: 1
-   :class: table-syntax-diff
-
-   * - `巴利`_ (來源 [1]_)
-
-     - 中譯 (來源 [1]_)
-
-   * - 
-
-     - 
-
-|
-|
-
-.. container:: align-center video-container
-
-  .. raw:: html
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/xqXwfFd4VeY?list=PLEB58EFD6D2724832" frameborder="0" allowfullscreen></iframe>
-
-.. container:: align-center video-container-description
-
-  (`巴利`_ & 泰語)
-  Dhammacakkappavattana Sutta (轉法輪經, `ธัมมจักกัปปวัตตนสูตร`_, Setting the Wheel of Dhamma in Motion)
-  [17]_
-
-|
-|
 
 .. container:: align-center video-container
 
@@ -80,6 +51,68 @@ Dhammacakkappavattana Sutta (轉法輪經, ธัมมจักกัปปว�
 .. container:: align-center video-container-description
 
   Dhamma-cakkappavattana Sutta (The Discourse on Setting the Wheel of Dhamma in Motion) - `Pali Chants | dhammatalks.org`_
+
+----
+
+|
+|
+
+.. :%s/µ/ṃ/gc
+   :%s/æ/ā/gc
+   :%s/¥/ṭ/gc
+   :%s/¼/ṇ/gc
+   :%s/ø/ī/gc
+
+.. list-table:: Dhamma-cakkappavattana-sutta-pāṭho (轉法輪經文, `ธัมมจักกัปปวัตตนสุตตปาฐะ`_, Teachings from the Discourse on Setting in Motion the Wheel of Dhamma)
+   :header-rows: 1
+   :class: table-syntax-diff
+
+   * - `巴利`_ (來源 [4]_)
+
+     - 英譯 (來源 [4]_)
+
+   * - Handa mayaṃ dhamma-cakkappavattana sutta-pāṭhaṃ bhaṇāmase
+
+     - 
+
+   * - Dve me bhikkhave antā
+
+     - Bhikkhus there are these two extremes
+
+   * - Pabbajitena na sevitabbā
+
+     - That should not be pursued by one who has gone forth
+
+   * - Yo cāyaṃ kāmesu kāma-sukh’allikānuyogo
+
+     - That is whatever is tied up to sense pleasures
+       Within the realm of sensuality
+
+   * - Hīno
+
+     - Which is low
+
+   * - Gammo
+
+     - Common
+
+   * - 
+
+     - 
+
+|
+|
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/xqXwfFd4VeY?list=PLEB58EFD6D2724832" frameborder="0" allowfullscreen></iframe>
+
+.. container:: align-center video-container-description
+
+  (`巴利`_ & 泰語)
+  Dhamma-cakkappavattana-sutta-pāṭho (轉法輪經文, `ธัมมจักกัปปวัตตนสุตตปาฐะ`_, Teachings from the Discourse on Setting in Motion the Wheel of Dhamma)
 
 ----
 
@@ -236,9 +269,13 @@ Dhammacakkappavattana Sutta (轉法輪經, ธัมมจักกัปปว�
 
 .. [Search3] Google Search `หันทะ มะยัง ธัมมะจักกัปปะวัตตะนะสุตตะปาฐัง ภะณามะ เส <https://www.google.com/search?q=%E0%B8%AB%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B0+%E0%B8%A1%E0%B8%B0%E0%B8%A2%E0%B8%B1%E0%B8%87+%E0%B8%98%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%B0%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B1%E0%B8%9B%E0%B8%9B%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B8%B0%E0%B8%99%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%95%E0%B8%95%E0%B8%B0%E0%B8%9B%E0%B8%B2%E0%B8%90%E0%B8%B1%E0%B8%87+%E0%B8%A0%E0%B8%B0%E0%B8%93%E0%B8%B2%E0%B8%A1%E0%B8%B0+%E0%B9%80%E0%B8%AA>`__
 
+.. [Search4] Google Search `ธัมมจักกัปปวัตตนสุตตปาฐะ <https://www.google.com/search?q=%E0%B8%98%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B1%E0%B8%9B%E0%B8%9B%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%95%E0%B8%95%E0%B8%9B%E0%B8%B2%E0%B8%90%E0%B8%B0>`__
+
 
 
 .. _ธัมมจักกัปปวัตตนสูตร: http://www.fungdham.com/pray/pray27.html
+
+.. _ธัมมจักกัปปวัตตนสุตตปาฐะ: http://www.dhammajak.net/forums/viewtopic.php?f=28&t=20815
 
 .. _Pali Chants - Forest Meditation: http://forestmeditation.com/audio/audio.html
 

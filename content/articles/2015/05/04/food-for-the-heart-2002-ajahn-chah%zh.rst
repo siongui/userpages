@@ -8,19 +8,7 @@
 :og_image: http://www.ajahnchah.org/book/07bb.jpg
 :status: draft
 
-
-
-目錄
-~~~~
-
-- `推薦序 這本書將改變你的生命`_
-  (`英文原文 <http://www.wisdompubs.org/book/food-heart/foreword>`__)
-
-- `推薦序 與證悟者的生命相遇`_
-
-- `導論 滅苦之道`_
-  (`英文原文 <http://www.wisdompubs.org/book/food-heart/introduction>`__)
-
+.. contents:: 目錄
 
 ----
 
@@ -46,6 +34,8 @@
   於心靈磐石中心
 
   加州‧伍德克，2002年
+
+  (`英文原文 <http://www.wisdompubs.org/book/food-heart/foreword>`__)
 
 
 ----
@@ -498,6 +488,8 @@
   2002年1月16日
 
   (本文作者於一九五六年出生於英國，一九七九年由阿姜查剃度出家。他目前是加州無畏山寺的共同住持，屬於阿姜查傳統的一支。)
+
+  (`英文原文 <http://www.wisdompubs.org/book/food-heart/introduction>`__)
 
 
 **註釋**
