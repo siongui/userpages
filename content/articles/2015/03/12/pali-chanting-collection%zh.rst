@@ -499,6 +499,8 @@ Video & Audio (影音)
 - `Buddhadharm - YouTube <https://www.youtube.com/channel/UCBOC9pRgDaEFr3owKu6G8kA>`_
   (Thai)
 
+  * `สวดมนต์แปลสวนโมกข์ Suanmokkh Chanting - YouTube <https://www.youtube.com/playlist?list=PLEB58EFD6D2724832>`_
+
 - `Paritta Chanting - YouTube <https://www.youtube.com/playlist?list=PLj-tYYaCGY6xbpo7Yz68kcN1ZfwNUgiBf>`__
 
 - `Popular Paritta Videos - YouTube <https://www.youtube.com/playlist?list=PLDiR7UP2tjPKAwY6zqP564nn_OLgkVt4y>`_

@@ -193,7 +193,9 @@ SEO以及Facebook分享
 文章被分享或貼到Facebook或Google+之類的社交網站上時，
 文章的顯示圖片網址是metadata裡的 *og_image*,
 文章描述則是 *summary* 裡填寫的描述。
-詳情請參考 [7]_ 或是 `Facebook官方指南`_ 。
+Facebook分享之詳情請參考 [7]_ 或是 `Facebook官方指南`_ 。
+
+網站SEO更多詳情請看 [9]_, [10]_, [11]_ 。
 
 
 預覽整個網站
@@ -253,6 +255,26 @@ Windows平台理論上應該也可以將整個網站編譯出來並預覽，但�
 .. [6] `Online reStructuredText editor <http://rst.ninjs.org/>`_
 
 .. [7] `Facebook Open Graph META Tags <http://davidwalsh.name/facebook-meta-tags>`_
+
+.. [8] `feedfree <http://feedfree.me/>`_
+
+網站SEO：
+
+.. [9] `网站结构优化策略-月光博客 <http://www.williamlong.info/archives/4212.html>`_
+
+.. [10] `网站页面优化策略-月光博客 <http://www.williamlong.info/archives/4213.html>`_
+
+.. [11] `网站内链优化策略-月光博客 <http://www.williamlong.info/archives/4214.html>`_
+
+Vim開發環境：
+
+.. [12] `Vim as Golang IDE · Issue #5 · rainyear/lolita · GitHub <https://github.com/rainyear/lolita/issues/5>`_
+
+.. [13] `Golang开发环境搭建-Vim篇 <http://studygolang.com/articles/1785>`_
+
+.. [14] `Dr. Bunsen / The Text Triumvirate <http://www.drbunsen.org/the-text-triumvirate/>`_
+
+.. [15] `Vim入门教程 - 博客 - 伯乐在线 <http://blog.jobbole.com/86132/>`_
 
 ----
 
