@@ -6,7 +6,6 @@ Dhammacakkappavattana Sutta (轉法輪經, ธัมมจักกัปปว�
 :category: 巴利唸誦
 :summary: Dhammacakkappavattana Sutta (轉法輪經, ธัมมจักกัปปวัตตนสูตร, Setting the Wheel of Dhamma in Motion)
 :og_image: http://i.ytimg.com/vi/XdNajWABt_A/maxresdefault.jpg
-:status: draft
 
 
 .. container:: align-center video-container
@@ -57,11 +56,27 @@ Dhammacakkappavattana Sutta (轉法輪經, ธัมมจักกัปปว�
 |
 |
 
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/xqXwfFd4VeY?list=PLEB58EFD6D2724832" frameborder="0" allowfullscreen></iframe>
+
+.. container:: align-center video-container-description
+
+  (`巴利`_ & 泰語)
+  Dhamma-cakkappavattana-sutta-pāṭho (轉法輪經文, `ธัมมจักกัปปวัตตนสุตตปาฐะ`_, Teachings from the Discourse on Setting in Motion the Wheel of Dhamma)
+
+|
+|
+
 .. :%s/µ/ṃ/gc
    :%s/æ/ā/gc
    :%s/¥/ṭ/gc
    :%s/¼/ṇ/gc
    :%s/ø/ī/gc
+   :%s/³/ṅ/gc
+   :%s/Æ/Ā/gc
 
 .. list-table:: Dhamma-cakkappavattana-sutta-pāṭho (轉法輪經文, `ธัมมจักกัปปวัตตนสุตตปาฐะ`_, Teachings from the Discourse on Setting in Motion the Wheel of Dhamma)
    :header-rows: 1
@@ -86,6 +101,7 @@ Dhammacakkappavattana Sutta (轉法輪經, ธัมมจักกัปปว�
    * - Yo cāyaṃ kāmesu kāma-sukh’allikānuyogo
 
      - That is whatever is tied up to sense pleasures
+
        Within the realm of sensuality
 
    * - Hīno
@@ -96,23 +112,332 @@ Dhammacakkappavattana Sutta (轉法輪經, ธัมมจักกัปปว�
 
      - Common
 
+   * - Pothujjaniko
+
+     - The way of the common folks
+
+   * - Anariyo
+
+     - Not the way of the Noble Ones
+
+   * - Anattha-sañhito
+
+     - And pointless
+
+   * - Yo cāyaṃ atta-kilamathānuyogo
+
+     - Then there is whatever is tied up
+
+       With self-deprivation
+
+   * - Dukkho
+
+     - Which is painful
+
+   * - Anariyo
+
+     - Not the way of the Noble Ones
+
+   * - Anattha-sañhito
+
+     - And pointless
+
+   * - Ete te bhikkhave ubho ante anupagamma majjhimā paṭipadā
+       tathāgatena abhisambuddhā
+
+     - Bhikkhus without going to either of these extremes
+
+       The Tathāgata has ultimately awakened
+
+       To a middle way of practice
+
+   * - Cakkhu-karaṇī
+
+     - Giving rise to vision
+
+   * - Ñāṇa-karaṇī
+
+     - Making for insight
+
+   * - Upasamāya
+
+     - Leading to calm
+
+   * - Abhiññāya
+
+     - To heightened knowing
+
+   * - Sambodhāya
+
+     - Awakening
+
+   * - Nibbānāya saṃvattati
+
+     - And to Nibbāna
+
+   * - Katamā ca sā bhikkhave majjhimā paṭipadā
+
+     - And what bhikkhus is that middle way of practice?
+
+   * - Ayam-eva ariyo aṭṭhaṅgiko maggo
+
+     - It is this Noble Eightfold Path
+
+   * - Seyyathīdaṃ
+
+     - Which is as follows
+
+   * - Sammā-diṭṭhi
+
+     - Right View
+
+   * - Sammā-saṅkappo
+
+     - Right Intention
+
+   * - Sammā-vācā
+
+     - Right Speech
+
+   * - Sammā-kammanto
+
+     - Right Action
+
+   * - Sammā-ājīvo
+
+     - Right Livelihood
+
+   * - Sammā-vāyāmo
+
+     - Right Effort
+
+   * - Sammā-sati
+
+     - Right Mindfulness
+
+   * - Sammā-samādhi
+
+     - Right Concentration
+
+   * - Ayaṃ kho sā bhikkhave majjhimā paṭipadā tathāgatena
+       abhisambuddhā
+
+     - This bhikkhus is the middle way of practice
+
+       That the Tathāgata has ultimately awakened to
+
+   * - Cakkhu-karaṇī
+
+     - Giving rise to vision
+
+   * - Ñāṇa-karaṇī
+
+     - Making for insight
+
+   * - Upasamāya
+
+     - Leading to calm
+
+   * - Abhiññāya
+
+     - To heightened knowing
+
+   * - Sambodhāya
+
+     - Awakening
+
+   * - Nibbānāya saṃvattati
+
+     - And to Nibbāna
+
+   * - Idaṃ kho pana bhikkhave dukkhaṃ ariya-saccaṃ
+
+     - This bhikkhus is the Noble Truth of dukkha
+
+   * - Jātipi dukkhā
+
+     - Birth is dukkha
+
+   * - Jarāpi dukkhā
+
+     - Ageing is dukkha
+
+   * - Maraṇampi dukkhaṃ
+
+     - And death is dukkha
+
+   * - Soka-parideva-dukkha-domanassupāyāsāpi dukkhā
+
+     - Sorrow lamentation pain grief and despair are dukkha
+
+   * - Appiyehi sampayogo dukkho
+
+     - Association with the disliked is dukkha
+
+   * - Piyehi vippayogo dukkho
+
+     - Separation from the liked is dukkha
+
+   * - Yampicchaṃ na labhati tampi dukkhaṃ
+
+     - Not attaining one’s wishes is dukkha
+
+   * - Saṅkhittena pañcupādānakkhandhā dukkhā
+
+     - In brief the five focuses of identity are dukkha
+
+   * - Idaṃ kho pana bhikkhave dukkha-samudayo ariya-saccaṃ
+
+     - This bhikkhus is the Noble Truth of the cause of dukkha
+
+   * - Yā’yaṃ taṇhā
+
+     - It is this craving
+
+   * - Ponobbhavikā
+
+     - Which leads to rebirth
+
+   * - Nandi-rāga-sahagatā
+
+     - Accompanied by delight and lust
+
+   * - Tatra-tatrābhinandinī
+
+     - Delighting now here now there
+
+   * - Seyyathīdaṃ
+
+     - Namely
+
+   * - Kāma-taṇhā
+
+     - Craving for sensuality
+
+   * - Bhava-taṇhā
+
+     - Craving to become
+
+   * - Vibhava-taṇhā
+
+     - Craving not to become
+
+   * - Idaṃ kho pana bhikkhave dukkha-nirodho ariya-saccaṃ
+
+     - This bhikkhus is the Noble Truth of the cessation of dukkha
+
+   * - Yo tassāy’eva taṇhāya asesa-virāga-nirodho
+
+     - It is the remainderless fading away and cessation
+
+       Of that very craving
+
+   * - Cāgo
+
+     - Its relinquishment
+
+   * - Paṭinissaggo
+
+     - Letting go
+
+   * - Mutti
+
+     - Release
+
+   * - Anālayo
+
+     - Without any attachment
+
+   * - Idaṃ kho pana bhikkhave dukkha-nirodha-gāminī-paṭipadā
+       ariya-saccaṃ
+
+     - This bhikkhus is the Noble Truth of the way of practice
+
+       Leading to the cessation of dukkha
+
+   * - Ayam-eva ariyo aṭṭh’aṅgiko maggo
+
+     - It is just this Noble Eightfold Path
+
+   * - Seyyathīdaṃ
+
+     - Which is as follows
+
+   * - Sammā-diṭṭhi
+
+     - Right View
+
+   * - Sammā-saṅkappo
+
+     - Right Intention
+
+   * - Sammā-vācā
+
+     - Right Speech
+
+   * - Sammā-kammanto
+
+     - Right Action
+
+   * - Sammā-ājīvo
+
+     - Right Livelihood
+
+   * - Sammā-vāyāmo
+
+     - Right Effort
+
+   * - Sammā-sati
+
+     - Right Mindfulness
+
+   * - Sammā-samādhi
+
+     - Right Concentration
+
+   * - Idaṃ dukkhaṃ ariya-saccan-ti me bhikkhave
+
+       Pubbe ananussutesu dhammesu
+
+       Cakkhuṃ udapādi
+
+       Ñāṇaṃ udapādi
+
+       Paññā udapādi
+
+       Vijjā udapādi
+
+       Āloko udapādi
+
+     - Bhikkhus in regard to things unheard of before
+
+       Vision arose
+
+       Insight arose
+
+       Discernment arose
+
+       Knowledge arose
+
+       Light arose
+
+       This is the Noble Truth of dukkha
+
+   * - Taṃ kho pan’idaṃ dukkhaṃ ariya-saccaṃ pariññeyyan-ti
+
+     - Now this Noble Truth of dukkha
+
+       Should be completely understood
+
+   * - Taṃ kho pan’idaṃ dukkhaṃ ariya-saccaṃ pariññātan-ti
+
+     - Now this Noble Truth of dukkha
+
+       Has been completely understood
+
    * - 
 
      - 
-
-|
-|
-
-.. container:: align-center video-container
-
-  .. raw:: html
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/xqXwfFd4VeY?list=PLEB58EFD6D2724832" frameborder="0" allowfullscreen></iframe>
-
-.. container:: align-center video-container-description
-
-  (`巴利`_ & 泰語)
-  Dhamma-cakkappavattana-sutta-pāṭho (轉法輪經文, `ธัมมจักกัปปวัตตนสุตตปาฐะ`_, Teachings from the Discourse on Setting in Motion the Wheel of Dhamma)
 
 ----
 
