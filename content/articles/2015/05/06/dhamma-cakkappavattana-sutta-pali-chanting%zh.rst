@@ -1,7 +1,7 @@
 Dhammacakkappavattana Sutta (轉法輪經, ธัมมจักกัปปวัตตนสูตร, Setting the Wheel of Dhamma in Motion) - 巴利唸誦
 #############################################################################################################
 
-:date: 2015-05-05T00:49+08:00
+:date: 2015-05-06T21:21+08:00
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: Dhammacakkappavattana Sutta (轉法輪經, ธัมมจักกัปปวัตตนสูตร, Setting the Wheel of Dhamma in Motion)
@@ -77,6 +77,7 @@ Dhammacakkappavattana Sutta (轉法輪經, ธัมมจักกัปปว�
    :%s/ø/ī/gc
    :%s/³/ṅ/gc
    :%s/Æ/Ā/gc
+   :%s/þ/ū/gc
 
 .. list-table:: Dhamma-cakkappavattana-sutta-pāṭho (轉法輪經文, `ธัมมจักกัปปวัตตนสุตตปาฐะ`_, Teachings from the Discourse on Setting in Motion the Wheel of Dhamma)
    :header-rows: 1
@@ -435,9 +436,207 @@ Dhammacakkappavattana Sutta (轉法輪經, ธัมมจักกัปปว�
 
        Has been completely understood
 
-   * - 
+   * - Idaṃ dukkha-samudayo ariya-saccan-ti me bhikkhave
 
-     - 
+       Pubbe ananussutesu dhammesu
+
+       Cakkhuṃ udapādi
+
+       Ñāṇaṃ udapādi
+
+       Paññā udapādi
+
+       Vijjā udapādi
+
+       Āloko udapādi
+
+     - Bhikkhus in regard to things unheard of before
+
+       Vision arose
+
+       Insight arose
+
+       Discernment arose
+
+       Knowledge arose
+
+       Light arose
+
+       This is the Noble Truth of the cause of dukkha
+
+   * - Taṃ kho pan’idaṃ dukkha-samudayo ariya-saccaṃ pahātabban-ti
+
+     - Now this cause of dukkha
+
+       Should be abandoned
+
+   * - Taṃ kho pan’idaṃ dukkha-samudayo ariya-saccaṃ pahīnan-ti
+
+     - Now this cause of dukkha
+
+       Has been abandoned
+
+   * - Idaṃ dukkha-nirodho ariya-saccan-ti me bhikkhave
+
+       Pubbe ananussutesu dhammesu
+
+       Cakkhuṃ udapādi
+
+       Ñāṇaṃ udapādi
+
+       Paññā udapādi
+
+       Vijjā udapādi
+
+       Āloko udapādi
+
+     - Bhikkhus in regard to things unheard of before
+
+       Vision arose
+
+       Insight arose
+
+       Discernment arose
+
+       Knowledge arose
+
+       Light arose
+
+       This is the Noble Truth of the cessation of dukkha
+
+   * - Taṃ kho pan’idaṃ dukkha-nirodho ariya-saccaṃ sacchi-kātabban-ti
+
+     - Now the cessation of dukkha
+
+       Should be experienced directly
+
+   * - Taṃ kho pan’idaṃ dukkha-nirodho ariya-saccaṃ sacchikatan-ti
+
+     - Now the cessation of dukkha
+
+       Has been experienced directly
+
+   * - Idaṃ dukkha-nirodha-gāminī-paṭipadā ariya-saccan-ti me bhikkhave
+
+       Pubbe ananussutesu dhammesu
+
+       Cakkhuṃ udapādi
+
+       Ñāṇaṃ udapādi
+
+       Paññā udapādi
+
+       Vijjā udapādi
+
+       Āloko udapādi
+
+     - Bhikkhus in regard to things unheard of before
+
+       Vision arose
+
+       Insight arose
+
+       Discernment arose
+
+       Knowledge arose
+
+       Light arose
+
+       This is the Noble Truth of the way of practice
+
+       Leading to the cessation of dukkha
+
+   * - Taṃ kho pan’idaṃ dukkha-nirodha-gāminī-paṭipadā ariya-saccaṃ bhāvetabban-ti
+
+     - Now this way of practice leading to the cessation of dukkha
+
+       Should be developed
+
+   * - Taṃ kho pan’idaṃ dukkha-nirodha-gāminī-paṭipadā ariya-saccaṃ bhāvitan-ti
+
+     - Now this way of practice leading to the cessation of dukkha
+
+       Has been developed
+
+   * - Yāva-kīvañ-ca me bhikkhave imesu catūsu ariya-saccesu
+
+       Evan-ti-parivaṭṭaṃ dvādas’ākāraṃ yathā-bhūtaṃ ñāṇa-dassanaṃ na suvisuddhaṃ ahosi
+
+     - As long bhikkhus as my knowledge and understanding
+
+       As it actually is
+
+       Of these Four Noble Truths
+
+       With their three phases and twelve aspects
+
+       Was not entirely pure
+
+   * - N’eva tāvāhaṃ bhikkhave sadevake loke samārake sabrahmake
+
+       Sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya
+
+       Anuttaraṃ sammā-sambodhiṃ abhisambuddho paccaññāsiṃ
+
+     - Did I not claim bhikkhus
+
+       In this world of devas Māra and Brahmā
+
+       Amongst mankind with its priests and renunciants
+
+       Kings and commoners
+
+       An ultimate awakening
+
+       To unsurpassed perfect enlightenment
+
+   * - Yato ca kho me bhikkhave imesu catūsu ariya-saccesu
+
+       Evan-ti-parivaṭṭaṃ dvādas’ākāraṃ yathā-bhūtaṃ ñāṇa-dassanaṃ suvisuddhaṃ ahosi
+
+     - But when bhikkhus my knowledge and understanding
+
+       As it actually is
+
+       Of these Four Noble Truths
+
+       With their three phases and twelve aspects
+
+       Was indeed entirely pure
+
+   * - Athāhaṃ bhikkhave sadevake loke samārake sabrahmake
+
+       Sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya
+
+       Anuttaraṃ sammā-sambodhiṃ abhisambuddho paccaññāsiṃ
+
+     - Then indeed did I claim bhikkhus
+
+       In this world of devas Māra and Brahmā
+
+       Amongst mankind with its priests and renunciants
+
+       Kings and commoners
+
+       An ultimate awakening
+
+       To unsurpassed perfect enlightenment
+
+   * - Ñāṇañ-ca pana me dassanaṃ udapādi
+
+     - Now knowledge and understanding arose in me
+
+   * - Akuppā me vimutti
+
+     - My release is unshakeable
+
+   * - Ayam-antimā jāti
+
+     - This is my last birth
+
+   * - N’atthidāni punabbhavo-ti
+
+     - There won’t be any further becoming
 
 ----
 
