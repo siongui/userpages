@@ -273,6 +273,7 @@ Vim開發環境：
 .. [13] `Golang开发环境搭建-Vim篇 <http://studygolang.com/articles/1785>`_
 
 .. [14] `Dr. Bunsen / The Text Triumvirate <http://www.drbunsen.org/the-text-triumvirate/>`_
+        (`文本三巨头：zsh、tmux 和 vim <http://blog.jobbole.com/86571/>`_)
 
 .. [15] `Vim入门教程 - 博客 - 伯乐在线 <http://blog.jobbole.com/86132/>`_
 
