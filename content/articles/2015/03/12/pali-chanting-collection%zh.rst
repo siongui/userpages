@@ -2,7 +2,7 @@ Pali Chanting Collection 巴利唸誦整理
 #####################################
 
 :date: 2015-03-12 05:11
-:modified: 2015-05-06T21:55+08:00
+:modified: 2015-05-21T02:56+08:00
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: Collection of online Pāli chanting resources
@@ -55,6 +55,9 @@ Sutta_ (經文)
 
 - `Dhammacakkappavattana Sutta (轉法輪經, ธัมมจักกัปปวัตตนสูตร, Setting the Wheel of Dhamma in Motion) - 巴利唸誦 <{filename}../../05/06/dhamma-cakkappavattana-sutta-pali-chanting%zh.rst>`_
   (`SN 56.11`_, `相應部 56 諦相應 十一`_)
+
+- `ariyaṭṭhaṅgika-magga-pāṭha (八正道經文, อริยอัฏฐังคิกมัคคปาฐะ, Noble Eightfold Path) - 巴利唸誦 <{filename}../../05/21/ariyatthangika-magga-pali-chanting%zh.rst>`_
+  (`SN 45.8`_, `相應部 45 道相應 八．分析`_)
 
 
 Dedication_ (迴向)
@@ -576,3 +579,5 @@ Video & Audio (影音)
 .. _中部118經: http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=391
 .. _SN 56.11: http://suttacentral.net/pi/sn56.11
 .. _相應部 56 諦相應 十一: http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=48:121
+.. _SN 45.8: http://suttacentral.net/pi/sn45.8
+.. _相應部 45 道相應 八．分析: http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=80:146
