@@ -7,6 +7,7 @@ Pali Chanting Collection 巴利唸誦整理
 :category: 巴利唸誦
 :summary: Collection of online Pāli chanting resources
           (整理網路上關於巴利唸誦的相關資源)
+:og_image: http://i.ytimg.com/vi/XdNajWABt_A/maxresdefault.jpg
 
 
 `Pāli`_ Chanting (`巴利`_ 唸誦)

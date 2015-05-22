@@ -107,6 +107,25 @@
   * `Index of /Chinese <http://www.dhammatalks.net/Chinese/>`_
 
 
+- `南传佛教 - 溯源佛教网 - 辽宁海城大悲寺 <http://www.suyuan.org/fbyd/list-75.html>`_
+
+  * `宁静的森林水池 - 溯源佛教网 - 辽宁海城大悲寺 <http://www.suyuan.org/fbyd/545.html>`_
+
+  * `以法为赠礼 - 溯源佛教网 - 辽宁海城大悲寺 <http://www.suyuan.org/fbyd/552.html>`_
+
+  * `为何我们生于此 - 溯源佛教网 - 辽宁海城大悲寺 <http://www.suyuan.org/fbyd/612.html>`_
+
+  * `森林中的法语 - 溯源佛教网 - 辽宁海城大悲寺 <http://www.suyuan.org/fbyd/805.html>`_
+
+  * `阿姜查的禅修世界——戒 - 溯源佛教网 - 辽宁海城大悲寺 <http://www.suyuan.org/fbyd/828.html>`_
+
+  * `阿姜查的禅修世界——定 - 溯源佛教网 - 辽宁海城大悲寺 <http://www.suyuan.org/fbyd/1661.html>`_
+
+  * `莲花中的珍宝——阿姜查·须跋多传 - 溯源佛教网 - 辽宁海城大悲寺 <http://www.suyuan.org/fbyd/1839.html>`_
+
+  * `阿姜查的禅修世界——慧 - 溯源佛教网 - 辽宁海城大悲寺 <http://www.suyuan.org/fbyd/1878.html>`_
+
+
 - `法寶影音網 <http://www.buddhist.idv.tw/>`_
 
   * `內觀與南傳佛法 <http://www.buddhist.idv.tw//index.php?cat=c110&>`_
