@@ -3,7 +3,7 @@
 
 :date: 2015-06-01T20:34+08:00
 :author: 目的達泰語教室
-:tags: 泰國, 轉錄
+:tags: 泰國, 印度, 轉錄, 衛塞節
 :category: 轉錄
 :summary: 今年6月1日是泰國重要的節日之一：衛塞節，是釋迦牟尼佛陀誕生、成道、涅槃的節日。
 :og_image: https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xat1/v/t15.0-10/11331516_1158059490887650_810387651_n.jpg?oh=93c3177000d0de1e4442e0e4631d27a1&oe=560AF779&__gda__=1438680684_7bab3aef60c1a27175451602da595232

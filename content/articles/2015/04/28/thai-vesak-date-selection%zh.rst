@@ -3,7 +3,7 @@
 
 :date: 2015-04-28T08:27+08:00
 :author: Saddha Yongjun
-:tags: 泰國, 印度, 轉錄
+:tags: 泰國, 印度, 轉錄, 衛塞節
 :category: 轉錄
 :summary: 泰國衛塞節日期選定
 :og_image: http://www.artibet.com/wp-content/uploads/2012/04/vesak1.png
