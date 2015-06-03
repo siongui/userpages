@@ -6,7 +6,7 @@
 :tags: 泰國, 轉錄, 美食
 :category: 轉錄
 :summary: 泰國不僅是美食國度，也是水果天堂哦！各式水果的好滋味享譽東南亞，重點是價格還很便宜呢。
-:og_image: https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xat1/v/t15.0-10/11331516_1158059490887650_810387651_n.jpg?oh=93c3177000d0de1e4442e0e4631d27a1&oe=560AF779&__gda__=1438680684_7bab3aef60c1a27175451602da595232
+:og_image: https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xta1/v/t15.0-10/11331606_1159546777405588_1032457399_n.jpg?oh=637c2e070a4eb574f350ff8b03b2c6a8&oe=55F84E57&__gda__=1442591801_c27ef96328a1ed3c37c5bcfd344357fa
 
 .. container:: align-center video-container
 
