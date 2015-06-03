@@ -124,6 +124,10 @@ TrueMoveH_ 數據套餐
 
 .. [6] Google Search `thailand sim card internet <https://www.google.com/search?q=thailand+sim+card+internet>`_
 
+.. [7] `AK HOUSE曼谷自由行推薦：泰國手機3G上網吃到飽~如何在機場購買電話卡 <http://akhousebkk.pixnet.net/blog/post/60880906>`_
+
+.. [8] `AK HOUSE曼谷自由行推薦：泰國手機3G上網吃到飽~7天59銖起！比299銖更便宜~TRUE MOVE、DTAC、AIS還有199銖方案 <http://akhousebkk.pixnet.net/blog/post/60869947>`_
+
 
 
 .. _AIS: http://www.ais.co.th/en/
