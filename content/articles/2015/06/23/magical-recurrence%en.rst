@@ -43,7 +43,7 @@ How will :math:`D[v][b]` get updated? By (2) in the recurrence it is at least :m
 
 If :math:`b<size[u]`, (1) couldn't carry out, so all nodes in :math:`t(u)` has no :math:`D` value except :math:`v` which has :math:`D[v][b]=D[u-1][b]`. This is expected, because the whole :math:`t(u)` couldn't be taken since :math:`size[u]` exceeds capacity :math:`b`.
 
-If :math:`b\geqsize[u]`, we set :math:`D[u][b]=D[u-1][b-size[u]]+value[u]` directly. Then the DP algorithm computes :math:`D` in the subproblem of :math:`t(u)` as usual except an added term of :math:`D[u-1][b-size[u]]` on :math:`D[u][b]`. All other nodes in :math:`t(u)` are updated as usual except with the blessing of :math:`D[u-1][b-size[u]]`, so we know that before the aformentioned (2) update on :math:`D[v][b]`, this value is the optimal value we can get if the entire tree :math:`T` is considered and node :math:`u` is taken.  After the (2) update, :math:`D[v][b]` also considers not taking :math:`u(t)`. Therefore :math:`D[v][b]` is optimal.
+If :math:`b\geq size[u]`, we set :math:`D[u][b]=D[u-1][b-size[u]]+value[u]` directly. Then the DP algorithm computes :math:`D` in the subproblem of :math:`t(u)` as usual except an added term of :math:`D[u-1][b-size[u]]` on :math:`D[u][b]`. All other nodes in :math:`t(u)` are updated as usual except with the blessing of :math:`D[u-1][b-size[u]]`, so we know that before the aformentioned (2) update on :math:`D[v][b]`, this value is the optimal value we can get if the entire tree :math:`T` is considered and node :math:`u` is taken.  After the (2) update, :math:`D[v][b]` also considers not taking :math:`u(t)`. Therefore :math:`D[v][b]` is optimal.
 
 Q.E.D.
 
