@@ -1,4 +1,4 @@
-Algorithm] Magical Recurrence
+[Algorithm] Magical Recurrence
 ##############################
 
 :date: 2015-06-23
