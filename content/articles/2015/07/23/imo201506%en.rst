@@ -1,0 +1,89 @@
+[Math] IMO 2015 Problem 6
+###########################
+
+:date: 2015-07-23T19:00-08:00
+:author: Shen-Fu Tsai
+:tags: Math
+:category: Math
+:summary: IMO 2015 Problem 6
+
+Working on Problem 6 of IMO 2015 was like playing a game. It is interesting in the sense that not too much advanced skill is required, but the involved visual thinking and the pursuit of the nature of seemingly simple yet complicated things made the experience enjoyable.
+
+
+The problem is:
+
+The sequence :math:`a_1, a_2, \ldots` of integers satisfies the following conditions:
+
+(i) :math:`1 \leq a_j \leq 2015` for :math:`j \geq 1`
+(ii) :math:`k+a_k \neq l+a_l` for all :math:`1 \leq k < l`
+
+Prove that there exist two positive integers :math:`b` and :math:`N` such that
+
+:math:`|\sum_{j=m+1}^n {(a_j-b)}| \leq 1007^2`
+
+for all integers :math:`m` and :math:`n` satisfying :math:`n > m \geq N`
+
+===============================================================================
+
+Imagine an infinite number of columns numbered :math:`1, 2,\ldots` from the left, each divided into :math:`d=2015` cells numbered :math:`1, 2, 3,\ldots d` from bottom to top. By (1) and (2), starting from column 1 we are to sequentially select and mark one cell in each column with 'o', and then cross out its diagonal cells with 'x' in the columns to the right. For an example with :math:`d=5` where the first 4 columns are finished:
+
+__o___
+
+o__x__
+
+_x__x_
+
+_oxo_x
+
+__xxx_
+
+Intuitively, the statement to be proved essentially says that the sequence, i.e. the heights of "o" marks, will always stabilizes at some point :math:`N`, meaning that after column :math:`N` the average height within any window of consecutive columns will not differ too much from a constant :math:`b`.
+
+Proof
++++++
+
+I first played with the columns consisting of cells above for some time trying to find useful patterns of selected cells but found nothing. However after a while I was led to something unexpected.  Consider sequence :math:`c_i`, the number of cells not crossed out at column :math:`i` when column :math:`i` - 1 is finished. Clearly :math:`c_i \geq 1` because cell :math:`d` is never crossed out. Note that sequence :math:`c_i` never increases, and it decreases if and only if cell 1 is not selected when it's available!
+
+Because :math:`c_i` can only decrease and yet lower bounded, it stays at some constant :math:`d-k` after some point :math:`N`, i.e.
+
+:math:`c_i=d-k` for all :math:`i \geq N+1`
+
+:math:`1 \leq k \leq d - 1`
+
+Here :math:`k` is the number of crossed out cells in each column when it is being considered. :math:`k = 0` is the trivial case where all :math:`a_i = 1` from the beginning of the sequence.
+
+From now on we only consider columns after :math:`N`. Since sequence :math:`c_i` stays constant, if cell 1 is available when we want to select a cell from a column, it must be selected.  Now think about diagonals. A diagonal :math:`D` is defined as the set of cells such that :math:`i + a_i = D`. From (2), there can only be at most one cell marked per diagonal. We say a diagonal is marked if one of its cells is. Now, when we are forced to select cell 1 in column :math:`i`, this is the last chance that any cell in diagonal :math:`i + 1` gets marked. This means that no diagonals starting from diagonal :math:`N + 2` will be left unmarked permanently, because if there's any permanently unmarked diagonal :math:`y \geq N + 2`, it should've been marked as we see column :math:`y - 1 \geq N + 1`.
+
+Consider any consecutive columns from :math:`m + 1` to :math:`n` where :math:`m + 1 \geq N + 1`. At column :math:`m + 1`, there are already :math:`k` cells crossed out. Let's say they're in diagonals :math:`y_1, y_2, \ldots , y_k` where all :math:`y_i` are between :math:`m + 2` and :math:`m + d` (:math:`m + 1 + d` can never be marked when column :math:`m` is finished).  As we finish column :math:`n`, diagonal :math:`n + 1` is already marked, and so is diagonal :math:`n, n - 1 \ldots` etc. Therefore, all diagonals in :math:`[m + 2, n + 1]` are marked at this point, plus :math:`k` more in :math:`[n + 2, n + d]`, which we denote by :math:`z_1, z_2, \ldots, z_k`. 
+
+Finally, since :math:`a_i =D_i-i` where :math:`D_i` is the diagonal index of the
+selected cell in column :math:`i`, we can do substitution:
+
+:math:`\sum_{j=m+1}^n {(a_j - b)}\\
+=\sum_{j = m + 1}^n {(D_j - j - b)}\\
+=\sum_{j = m + 2}^{n + 1} {j}-\sum_{j = m + 1}^n {(j + b)} + z_1 - y_1 + z_2 - y_2+ \ldots + z_k - y_k\\
+=(n - m)(1 - b) + z_1 - y_1 + z_2 - y_2+ \ldots + z_k - y_k`
+
+Note that
+
+:math:`(m+2)+\ldots+(m+1+k)\leq\sum_{i=1}^k y_i\leq (m+d-k+1)+\ldots+(m+d)\\
+\\
+(n + 2) + \ldots + (n + 1 + k)\leq\sum_{i=1}^k z_i\leq(n + d - k + 1) + \ldots + (n + d)`
+
+So the quantity of interest lies in :math:`[(n - m)(1 - b) + (n - m - d + k + 1)k, (n - m)(1 - b) + (n - m + d - k - 1)k]`
+
+
+
+Let :math:`b = k + 1`, these bounds become :math:`(k - (d - 1))k` and :math:`(d - 1 - k)k`, whose absolute values are bounded by :math:`(d-1)^2/4` for an odd :math:`d`.
+
+Q.E.D.
+
+The result :math:`b = k + 1` also aligns well with intuition. For large :math:`k`, many lower cells tend to be crossed out and we inevitably have to select a high one. With a small :math:`k`, we could not pick too many high cells because cell 1 has to be marked whenever it's available. 
+
+----
+
+`post <http://oathbystyx.blogspot.com/2015/07/2015-imo-6.html>`_
+by
+`Shen-Fu Tsai <{filename}/pages/sftsai.rst>`_
+
+
