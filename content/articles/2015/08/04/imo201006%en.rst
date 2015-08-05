@@ -24,7 +24,7 @@ Proof
 
 We first show recurrence (1) is equivalent to 
 
-:math:`a_n=\max\{a_k+a_{n-k}\ |\ 1\leq k\leq s}`		(2)
+:math:`a_n=\max\{a_k+a_{n-k}\ |\ 1\leq k\leq s\}`		(2)
 
 , i.e. the given :math:`a_1, \ldots ,a_s` form the basic building block as we construct the unique infinite sequence :math:`a_n` down the road. Note (2) clearly holds for :math:`n\leq 2s+1`.
 
