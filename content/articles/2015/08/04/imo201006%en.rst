@@ -1,0 +1,56 @@
+[Math] IMO 2010 Problem 6
+###########################
+
+:date: 2015-08-04T19:00-08:00
+:author: Shen-Fu Tsai
+:tags: Math
+:category: Math
+:summary: IMO 2010 Problem 6
+
+This is a problem that I've made a couple of attempts to solve in the past few years. Eventually, perhaps encouraged by recent success of nailing IMO 3/6 problems, it is now solved.
+
+===============================================================================
+
+Let :math:`a_1, a_2, \ldots` be a sequence of positive real numbers. Suppose that for some positive integers :math:`s`, we have 
+
+:math:`a_n=\max\{a_k+a_{n-k}\ |\ 1\leq k\leq n-1\}`	(1)
+
+for all :math:`n>s`. Prove that there exist positive integers :math:`p` and :math:`N`, with :math:`p\leq s`, such that :math:`a_n=a_{n-p}+a_p` for all :math:`n\geq N`.
+
+===============================================================================
+
+Proof
++++++
+
+We first show recurrence (1) is equivalent to 
+
+:math:`a_n=\max\{a_k+a_{n-k}\ |\ 1\leq k\leq s}`		(2)
+
+, i.e. the given :math:`a_1, \ldots ,a_s` form the basic building block as we construct the unique infinite sequence :math:`a_n` down the road. Note (2) clearly holds for :math:`n\leq 2s+1`.
+
+Suppose on the contrary, that there is a minimum :math:`m>2s+1` such that :math:`a_m>a_k+a_{m-k}` for all :math:`k` in :math:`[1,s]`. Assume :math:`a_m=a_n+a_{m-n}` for some :math:`n` in :math:`[s+1,m-s-1]`, and because :math:`m` is the smallest index violating (2) :math:`n` doesn't violate it. So further assume :math:`a_n=a_k+a_{n-k}` for some :math:`k` in :math:`[1,s]`. Then :math:`a_k+a_{m-k}<a_{m-n}+a_k+a_{n-k}`, i.e.  :math:`a_{m-k}<a_{m-n}+a_{n-k}`, contradicting (1).
+
+This is a significant step, because now that for each :math:`n>s` we can express :math:`a_n` as :math:`a_k+a_{n-k}` for some :math:`k\leq s`, we can keep rewriting :math:`a_n` to end up with
+
+:math:`a_n=a_{b_1}+a_{b_2}+\dots+a_{b_m}`
+
+where 
+
+:math:`b_1+b_2+\ldots+b_m=n`, and no :math:`b_i` exceeds :math:`s`.
+
+(A more intuitive way is to write :math:`a_n=a_k+a_m` with :math:`k+m=n`, and rewrite :math:`a_k` and/or :math:`a_m` if :math:`k` and/or :math:`m` is larger than :math:`s`, respectively. Keep doing it until all indexes are within :math:`[1,s]`)
+
+
+So, :math:`a_1,\ldots,a_s` are like slopes and we are trying to achieve as high as possible within width :math:`n`. The optimal height achieved, with the boundary constraint that only one slope is used within :math:`[0,s]` because the values of sequence :math:`\{a_k\}` in :math:`[0,s]` are already fixed, is :math:`a_n`. Intuitively, we should use as much steep slopes as possible. Let :math:`p` be in :math:`[1,s]` that maximizes :math:`a_p/p`, i.e. the steepest slope, with arbitrary tie resolution. We will show that :math:`a_n=a_{n-p}+a_p` for any sufficiently large :math:`n`.
+
+We call any above sequence :math:`\{b_k\}` a generating sequence of :math:`a_n`, which could have multiple generating sequences. One obvious property is that :math:`a_{b_1}+a_{b_2}+\ldots+a_{b_{m-1}}=a_{b_1+b_2+\ldots+b_{m-1}}`, or more generally, every intermediate step has to be optimal too. The last step is to show that any generating sequence of :math:`a_n` with a sufficiently large :math:`n` contains at least an instance of :math:`p` outside :math:`[0,s]`. If this holds, we can always rearrange the sequence :math:`\{b_k\}` outside :math:`[0,s]` to make it ends with :math:`p`, which leads to :math:`a_{n-p}+a_p=a_n`.
+
+Consider the sequence of slope end points when building up :math:`a_n`, i.e.  :math:`0, b_1, b_1+b_2, b_1+b_2+b_3,\ldots,n`. Starting from the smallest end point outside :math:`[0,s]`, before hitting :math:`n` there are always two end points with the same remainder when divided by :math:`p`, as long as we see :math:`p` slopes. These two end points span a horizontal distance divisible by :math:`p`, so the slopes within them could all be replaced by possibly multiple :math:`a_p` without loss of optimality. The new sequence is thus a valid generating sequence with the desired slope :math:`a_p`, so we're done.
+
+Q.E.D.
+
+----
+
+`post <http://oathbystyx.blogspot.com/2015/08/imo-2010-problem-6.html>`_
+by
+`Shen-Fu Tsai <{filename}/pages/sftsai.rst>`_
