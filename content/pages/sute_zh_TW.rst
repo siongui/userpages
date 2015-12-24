@@ -13,7 +13,6 @@
 
 社交:
 `Google+ <https://plus.google.com/+SiongUiTe>`_ /
-`臉書 <https://www.facebook.com/siongui.te>`__ /
 `Github <https://github.com/siongui>`_ /
 `Gist <https://gist.github.com/siongui>`_ /
 `Stack Overflow <http://stackoverflow.com/users/2350927/siongui>`_
@@ -55,13 +54,11 @@
 
   `森林僧團刊物 <http://forestsanghapublications.org/>`_
 
+  `芒果樹叢林道場 (วัดป่าอัมพวัน, 泰文) <http://www.watpahampawan.com/>`_
+
 統計:
 `GitHub 履歷表 <http://resume.github.io/?siongui>`_ /
 `開放原始碼報告卡 <http://osrc.dfm.io/siongui>`_ /
 `Github 視覺化 <http://artzub.com/ghv/#user=siongui>`_ /
 `GitHub 獎 <http://github-awards.com/users/siongui>`_
 
-
-過時:
-`pali - Google Code <https://code.google.com/p/pali/>`_ /
-`poosip - Google Code <https://code.google.com/p/poosip/>`_

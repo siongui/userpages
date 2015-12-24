@@ -13,7 +13,6 @@ Location: `Kaohsiung <http://en.wikipedia.org/wiki/Kaohsiung>`_,
 
 Profiles:
 `Google+ <https://plus.google.com/+SiongUiTe>`_ /
-`Facebook <https://www.facebook.com/siongui.te>`__ /
 `Github <https://github.com/siongui>`_ /
 `Gist <https://gist.github.com/siongui>`_ /
 `Stack Overflow <http://stackoverflow.com/users/2350927/siongui>`_
@@ -55,13 +54,11 @@ Recommended:
 
   `Forest Sangha Publications <http://forestsanghapublications.org/>`_
 
+  `Wat Pah Ampawan (วัดป่าอัมพวัน, Thai) <http://www.watpahampawan.com/>`_
+
 Statistics:
 `GitHub Résumé <http://resume.github.io/?siongui>`_ /
 `Open Source Report Card <http://osrc.dfm.io/siongui>`_ /
 `Github Visualizer <http://artzub.com/ghv/#user=siongui>`_ /
 `GitHub Awards <http://github-awards.com/users/siongui>`_
 
-
-Obsoleted:
-`pali - Google Code <https://code.google.com/p/pali/>`_ /
-`poosip - Google Code <https://code.google.com/p/poosip/>`_

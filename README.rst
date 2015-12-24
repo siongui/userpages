@@ -4,7 +4,7 @@ How to Develope
 
 Development Tool: `pelican <http://blog.getpelican.com/>`_ (static site generator written in Python)
 
-Development Environment: `Ubuntu 14.10 <http://releases.ubuntu.com/14.10/>`_
+Development Environment: `Ubuntu 15.10 <http://releases.ubuntu.com/15.10/>`_
 
 
 First-time Setup
@@ -18,48 +18,35 @@ First-time Setup
     $ sudo apt-get install python-pip
     $ sudo pip install virtualenv
 
-2. Create and enter Python virtual environment: This step is optional, if you
-   get error messages like ``No module named scss`` when you run ``make``
-   command, DO NOT use virtual Python environment and ignore this step.
+2. git clone source code:
 
 .. code-block:: bash
 
     $ cd
     $ mkdir dev
-    $ virtualenv ~/dev/
-    $ cd ~/dev/
-    $ source bin/activate
-
-3. git clone source code:
-
-.. code-block:: bash
-
     $ cd ~/dev/
     $ git clone https://github.com/siongui/userpages.git
 
-4. Install Python tools:
+3. Install Python tools:
 
 .. code-block:: bash
 
     $ cd ~/dev/userpages/
     $ sudo pip install -r requirements.txt
 
-5. Install pelican `i18n_subsites <https://github.com/getpelican/pelican-plugins/tree/master/i18n_subsites>`_ plugin and download `normalize.css <http://necolas.github.io/normalize.css/>`_:
+4. Install pelican `i18n_subsites <https://github.com/getpelican/pelican-plugins/tree/master/i18n_subsites>`_ plugin and download `normalize.css <http://necolas.github.io/normalize.css/>`_:
 
 .. code-block:: bash
 
     $ cd ~/dev/userpages/
     $ make download
 
-6. Generate CSS file:
+5. Generate CSS file:
 
 .. code-block:: bash
 
     $ cd ~/dev/userpages/
     $ make scss
-
-If you get error messages like ``No module named scss`` when you run
-``make scss``, DO NOT use virtualenv.
 
 
 Daily Development
@@ -67,10 +54,6 @@ Daily Development
 
 .. code-block:: bash
 
-    # enter virtual Python environment (optional).
-    # Ignore this step if you get error with make command.
-    $ cd ~/dev/
-    $ source bin/activate
     # start edit and develope
     $ cd ~/dev/userpages/
     # If something changes, re-generate the website:
@@ -89,6 +72,8 @@ Please see `UNLICENSE <http://unlicense.org/>`_.
 
 References
 ----------
+
+`python - Upgrading all packages with pip - Stack Overflow <http://stackoverflow.com/questions/2720014/upgrading-all-packages-with-pip>`_
 
 `Online reStructuredText editor <http://rst.ninjs.org/>`_
 
