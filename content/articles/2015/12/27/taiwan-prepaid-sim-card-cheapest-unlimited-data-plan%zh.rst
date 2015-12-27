@@ -4,7 +4,7 @@
 :date: 2015-12-27 19:28
 :tags: 行動上網
 :category: 行動上網
-:summary: 網路上台灣手機預付卡行動上網吃到飽最便宜方案(2015/12/17)
+:summary: 網路上台灣手機預付卡行動上網吃到飽最便宜方案(截至2015/12/27)
 :og_image: http://www.idealcard.com.tw/images/header_ideal_logo.jpg
 
 
