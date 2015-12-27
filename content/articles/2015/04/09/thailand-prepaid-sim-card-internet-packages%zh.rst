@@ -2,7 +2,7 @@
 ######################
 
 :date: 2015-04-09 01:27
-:tags: 轉錄, 泰國
+:tags: 轉錄, 泰國, 行動上網
 :category: 轉錄
 :summary: 整理網路上有關泰國手機預付卡的上網套餐資訊
 :og_image: http://www.ais.co.th/roaming/images/visiting/visiting_thailand/share-teaveller.png
