@@ -205,8 +205,8 @@ Facebook分享之詳情請參考 [7]_ 或是 `Facebook官方指南`_ 。
 Windows平台理論上應該也可以將整個網站編譯出來並預覽，但從沒試過。
 
 
-更新網站( http://siongui.github.io/ )
-+++++++++++++++++++++++++++++++++++++
+更新網站( https://siongui.github.io/ )
+++++++++++++++++++++++++++++++++++++++
 
 假設 userpages_ 跟 `siongui.github.io`_ 都被 git clone 到同一個目錄
 ( *~/dev/* )下，接著照著 README_ 裡的 First-time Setup，將環境架起來。

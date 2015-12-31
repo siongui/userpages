@@ -59,7 +59,7 @@ following rule.
 |  .l  |  ḷ  |
 +------+-----+
 
-.. rubric:: `Demo <http://siongui.github.io/dart-online-input-method-pali/>`_ (`Fork me on Github <https://github.com/siongui/dart-online-input-method-pali>`_)
+.. rubric:: `Demo <https://siongui.github.io/dart-online-input-method-pali/>`_ (`Fork me on Github <https://github.com/siongui/dart-online-input-method-pali>`_)
       :class: align-center
 
 Source Code for Demo (*HTML*):

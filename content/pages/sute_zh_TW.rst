@@ -33,7 +33,7 @@
 
 部落格:
 
-  `理論與實作 <http://siongui.github.io/>`__
+  `理論與實作 <https://siongui.github.io/>`__
   (託管於 `GitHub Pages <https://pages.github.com/>`_,
   `原始碼 <https://github.com/siongui/userpages>`_)
 

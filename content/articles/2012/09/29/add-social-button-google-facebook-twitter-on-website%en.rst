@@ -18,10 +18,10 @@ social buttons of this blog:
 .. raw:: html
 
   <div class="floating-buttons">
-    <div class="g-plusone" data-href="http://siongui.github.io/" data-size="tall"></div>
-    <div class="fb-like" data-href="http://siongui.github.io/" data-layout="box_count" data-send="true" data-show-faces="true"></div>
+    <div class="g-plusone" data-href="https://siongui.github.io/" data-size="tall"></div>
+    <div class="fb-like" data-href="https://siongui.github.io/" data-layout="box_count" data-send="true" data-show-faces="true"></div>
     <div>
-      <a class="twitter-share-button" data-count="vertical" data-url="http://siongui.github.io/" href="https://twitter.com/share">Tweet</a>
+      <a class="twitter-share-button" data-count="vertical" data-url="https://siongui.github.io/" href="https://twitter.com/share">Tweet</a>
     </div>
   </div>
   <script type="text/javascript">
@@ -64,10 +64,10 @@ The source code of the above demo:
   :linenos: table
 
   <div class="floating-buttons">
-    <div class="g-plusone" data-href="http://siongui.github.io/" data-size="tall"></div>
-    <div class="fb-like" data-href="http://siongui.github.io/" data-layout="box_count" data-send="true" data-show-faces="true"></div>
+    <div class="g-plusone" data-href="https://siongui.github.io/" data-size="tall"></div>
+    <div class="fb-like" data-href="https://siongui.github.io/" data-layout="box_count" data-send="true" data-show-faces="true"></div>
     <div>
-      <a class="twitter-share-button" data-count="vertical" data-url="http://siongui.github.io/" href="https://twitter.com/share">Tweet</a>
+      <a class="twitter-share-button" data-count="vertical" data-url="https://siongui.github.io/" href="https://twitter.com/share">Tweet</a>
     </div>
   </div>
 

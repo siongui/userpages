@@ -33,7 +33,7 @@ Contact:
 
 Blog:
 
-  `Theory and Practice <http://siongui.github.io/>`__
+  `Theory and Practice <https://siongui.github.io/>`__
   (hosted on `GitHub Pages <https://pages.github.com/>`_,
   `source code <https://github.com/siongui/userpages>`_)
 
