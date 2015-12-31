@@ -684,6 +684,102 @@
 
 ----
 
+手 Hand
++++++++
+
+.. list-table:: 手 Hand [32]_
+   :header-rows: 1
+
+   * - 【手】
+
+     - Hand
+
+   * - 那些研究理論的人和禪修的人，彼此誤解。強調研究的人，通常會這樣說：「修禪定的僧人只憑靠自己的看法，他們的教導是沒有依據的。」
+
+     - Those who study theory and those who practice meditation misunderstand each other. Usually those who emphasize study say things like, "Monks who only practice meditation just follow their own opinions, they have no basis in their teaching."
+
+   * - 事實上，從某方面來說，學習與修行這兩種方式，其實是同一件事。我們把它想作是手心和手背，可能會比較容易瞭解。如果我們把手伸出來，手背好像不見了，其實它並沒有消失，只是藏在下面而已。當我們再把手翻過來時，會有相同的情形發生，手心哪裡都沒去，只是藏在下而罷了。
+
+     - Actually, in one sense, these two ways of study and practice are exactly the same thing. We can understand this better if we consider the front and back of our hand. If we hold our hand out, it seems like the back of our hand has disappeared. Actually the back of our hand hasn't gone anywhere. It's merely hidden underneath.
+
+   * - 談到修行時，這點我們必須牢牢記住，假使我們認為它「消失」，就會改變心意而去做研究，希望能在研究中得到結果。不過，無論你下多少功夫研究佛法，你將永遠無法瞭解佛法，因為依據真理，你並不真的瞭解它。假若我們懂得佛法的如實本性，就會開始放下。放下就是——除去執著，不再有執著，就算仍有，也會逐漸減少。研究與修行之間，就有這種差異。
+
+     - We should keep this in mind when we consider practice. If we think that it has "disappeared," we'll go off to study, hoping to get results. But it doesn't matter how much we study the Dhamma, we'll never understand it if we don't know it in accordance with Truth. If we do understand the real nature of Dhamma, then we begin to let go. This is surrendering, removing attachment, not clinging anymore, or if there is still clinging, it diminishes as time goes by. So study and practice are really just two sides of the same hand.
+
+----
+
+坑洞 Hole
++++++++++
+
+.. list-table:: 坑洞 Hole [33]_
+   :header-rows: 1
+
+   * - 【坑洞】
+
+     - Hole
+
+   * - 有時，面對不同的你們，我在教導時可能會有不一致、甚至矛盾的地方，但我的教導方法其實很簡單。就好像我看到有人從他不熟悉，而我卻曾來回行走過許多次的路上走下來，我往上看到他快要掉入右邊的坑洞，於是我參了喊道：「往左！往左！」同樣地，當我看到有人將要掉入左邊的坑洞時，我會喊：「往右！往右！」導引的方法雖然不同，但我教他們走向同一條路上的方向前進。我教他們要放下二邊而回到能夠抵達真實佛法的中道。
+
+     - At times it may seem to some of you that I contradict myself when I teach, but the way I teach is very simple. It is as if I see someone coming down a road he isn't familiar with but which I have traveled on many times before. I look up and see him about to fall into a hole on the right-hand side of the road, so I call out to him to go left. Likewise, if I see someone else about to fall into a hole on the left, I call out to him to go right. The instructions are different, but I teach them to travel in the same direction on the same road. I teach them to let go of both extremes and come back to the center where they will arrive at the true Dhamma.
+
+----
+
+房子 House
+++++++++++
+
+.. list-table:: 房子 House [34]_
+   :header-rows: 1
+
+   * - 【房子】
+
+     - House
+
+   * - 所有我的弟子就像我的小孩，對你們，我的心中只有慈悲與關懷。如果我似乎讓你們受苦，這是為了你們好。我知道你們之中有些人受過良好的教育，且具有廣博的知識，但教育程度不高、世俗知識知道不多的人較易於修行。常識廣博的人就好像擁有一棟大房子，需要費力去清掃，但當房子清理乾淨時，就可以擁有寬闊舒適的生活空間。忍耐！耐心和毅力對於我們的修行來說是非常重要的。
+
+     - All my disciples are like my children. I have only loving-kindness for them and care for their welfare. If I appear to make you suffer, it is for your own good. I know some of you are well educated and very knowledgeable. People with little education and world knowledge can practice easily. But people with a lot of knowledge are like someone who has a very large house to clean. They have a lot to do. But when the house has been cleaned, they will have a big, comfortable living space. In the meantime, be patient. Patience and endurance are essential to our practice.
+
+----
+
+家庭主婦 Housewife
+++++++++++++++++++
+
+.. list-table:: 家庭主婦 Housewife [35]_
+   :header-rows: 1
+
+   * - 【家庭主婦】
+
+     - Housewife
+
+   * - 不要像家庭主婦一樣，洗碗筷時總帶著一副愁容。她一心一意地想把碗筷洗乾淨，然而，卻沒有覺察到自己的心竟是污穢的！你見過這種事嗎？她僅看到眼前的碗筷，其實，她看得離自己太遠了，不是嗎？我說呀，你們有些人大概都會有過這種經驗，而這也就是你們必須觀察的地方。一般人祗專心洗碗筷，卻讓自己的心染污了，這樣子不太好。他們遺忘了他們自己。
+
+     - Don't be like a housewife washing the dishes with a scowl on her face. She's so intent on cleaning the dishes that she doesn't realize her own mind is dirty! Have you ever seen this? She only sees the dirty dishes. She's looking too far away from herself, isn't she? Some of you have probably experienced this, I'd say. This is where you have to look. People concentrate on cleaning the dishes, but they let their minds go dirty. This is not good. They're forgetting themselves.
+
+----
+
+狼狗 Jackal
++++++++++++
+
+.. list-table:: 狼狗 Jackal [36]_
+   :header-rows: 1
+
+   * - 【狼狗】
+
+     - Jackal
+
+   * - 有一次，佛陀在他停留的森林中看見一隻狼狗跑出來，它站了一侍兒，然後跑進草叢，又跑了出來，隨後衝進一個樹洞裡，又再衝了出來。一下子跑進穴裡又再跑出來。站了一分鐘，又開始跑了起來，接著又躺、又跳，原來那隻狼狗生了疥癬。當它站著的時候，疥癬會侵入它的皮膚，所以痛得拚命跑。跑時仍覺得不舒服，所以停了下來。站著也不舒服，所以躺了下來，一會兒跳起來，衝進草叢裡，樹洞中，就是無法安定下來。
+
+     - The Buddha and his disciples once saw a jackal run out of the forest they were staying in. It stood still for a while, then it ran into the underbrush, and then out again. Then it ran into a tree hollow, then out again. One minute it stood, the next it ran, then it lay down, then it jumped up. The jackal had the mange. When it stood, the mange would eat into its skin, so it would run. Running, it was still uncomfortable, so it would stop. Standing, it was still uncomfortable, so it would lie down. Then it would jump up again, running to the underbrush, the tree hollow, never staying still.
+
+   * - 佛陀說：「比丘們，今天下午你們有沒有看見那隻狼狗？站著苦，跑也苦；坐下來苦，躺下來也苦；它怪是站著使它不舒服，又說坐不好，跑不好，躺也不好。它怪樹、樹叢、洞穴都不好。事實上問題跟這都無關，，而是在它身上的疥癬。」
+
+     - The Buddha said, "Monks, did you see that jackal this afternoon? Standing, it suffered. Lying down, it suffered. It blamed standing for its discomfort. It blamed sitting. It blamed running and lying down. It blamed the tree, the underbrush, and the cave. In fact, the problem was with none of those things. The problem was with his mange."
+
+   * - 我們就跟那隻狼狗一樣。我們的不快樂由於錯誤的知見。因為我們不自我約制感官，因此責怪外界帶給我們苦痛。無論我們住在泰國、美國或英國，我們都不滿足。為什麼呢？因為我們的知見還不正確，只是如此罷了！所以無論我們走到哪兒，都會不快樂。如同那隻狼狗，無論它走到哪裡，只要疥癬治好後，才會感到輕鬆愉快。因此，當我們除去我們的不正見時，不管走到哪兒，都會很快樂。
+
+     - We are just the same as the jackal. Our discontent is due to wrong view. Because we don't exercise sense restraint, we blame our suffering on externals. Whether we live in Thailand, America or England, we aren't satisfied. Why not? Because we still have wrong view. Just that! So wherever we go, we aren't content. But just as that jackal would be content wherever it went as soon as its mange was cured, so would we be content wherever we went once we cured ourselves of wrong view.
+
+----
+
 轉錄來源：
 
 .. [1] `森林里的一棵树 序言 A Tree in a Forest - Introduction - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104825>`_
@@ -747,3 +843,13 @@
 .. [30] `礼物 Gift - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104796>`_
 
 .. [31] `小草 Grass - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104795>`_
+
+.. [32] `手 Hand - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104794>`_
+
+.. [33] `坑洞 Hole - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104793>`_
+
+.. [34] `房子 House - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104792>`_
+
+.. [35] `家庭主妇 Housewife - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104791>`_
+
+.. [36] `狼狗 Jackal - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104790>`_
