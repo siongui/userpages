@@ -1,9 +1,10 @@
 [Bash] List All Files in Directory Recursively and Rename
 #########################################################
 
-:tags: list all files recursively in directory, rename files, sed, find, variable increment
+:tags: sed, find, Bash, Commandline, String Manipulation
 :category: Bash
-:summary: List all files in a directory recursively (i.e., including subdirectories of the directory), and use sed to rename the files.
+:summary: List all files in a directory recursively (i.e., including
+          subdirectories of the directory), and use sed to rename the files.
 
 
 Question:
@@ -22,8 +23,8 @@ Answer:
 
 References:
 
-  `List all files in a directory recursively but exclude directories themselves <http://unix.stackexchange.com/questions/76855/list-all-files-in-a-directory-recursively-but-exclude-directories-themselves>`_
+.. [1] `List all files in a directory recursively but exclude directories themselves <http://unix.stackexchange.com/questions/76855/list-all-files-in-a-directory-recursively-but-exclude-directories-themselves>`_
 
-  `Using sed to mass rename files <http://stackoverflow.com/questions/2372719/using-sed-to-mass-rename-files>`_
+.. [2] `Using sed to mass rename files <http://stackoverflow.com/questions/2372719/using-sed-to-mass-rename-files>`_
 
-  `How to increment a variable in bash? <http://askubuntu.com/questions/385528/how-to-increment-a-variable-in-bash>`_
+.. [3] `How to increment a variable in bash? <http://askubuntu.com/questions/385528/how-to-increment-a-variable-in-bash>`_
