@@ -780,6 +780,162 @@
 
 ----
 
+刀子 Knife
+++++++++++
+
+.. list-table:: 刀子 Knife [37]_
+   :header-rows: 1
+
+   * - 【刀子】
+
+     - Knife
+
+   * - 每一把刀子都有刀鋒、刀背和刀柄，在你拿刀子的時候，可以只提起刀鋒嗎？或只有提起刀背或刀柄？刀柄、刀背和刀鋒這幾個部位都在同一把刀子上。當你拿起刀子時，這三個部位都會同時地被拿起。
+
+     - A knife has a blade, a spine and a handle. Can you lift up only the blade? Can you lift up only the handle? The handle, the spine and the blade are all parts of the same knife. When you pick up the knife, all three parts come up at the same time.
+
+   * - 同樣的道理，假如你拿起了善，惡也必然隨至。人們一味地尋求善，試圖拋棄惡，但是，他們卻沒有學習非善和非惡。如果你沒有學習非善和非惡，那麼，你將得不到真實的知見。如果只取善，惡一樣會跟著來；如果只取樂，苦同樣隨至。訓練你的心，直到它超越善、惡，而那就是修行完成的時候。
+
+     - In the same way, if you pick up that which is good, the bad must follow. People search for goodness and try to throw away evil, but they don't study that which is neither good nor evil. If you don't study this, then you won't have real understanding. If you pick up goodness, badness follows. If you pick up happiness, suffering follows. Train the mind until it is above good and evil. That's when the practice is finished.
+
+----
+
+結 Knot
++++++++
+
+.. list-table:: 結 Knot [38]_
+   :header-rows: 1
+
+   * - 【結】
+
+     - Knot
+
+   * - 我們必須觀照快樂和不快樂都是不穩固而無常的，也必須瞭解所有的感覺都是不長久、不能執著的。我們這樣來瞭解事物，因為我們有智慧。我們應瞭解事物會如此都是順其本然的。
+
+     - We contemplate happiness and unhappiness as uncertain and impermanent and understand that all the various feelings we experience are not lasting and not to be clung to. We see things in this way, because we have wisdom. We understand that things are impermanent according to their own nature.
+
+   * - 假使我們有這種見解，就猶如手執繩結的一端，只要能把這一端向正確方向拉，結自然會鬆弛而解開來，於是就不會再那麼緊了。
+
+     - If we have this kind of understanding, it's like taking hold of one strand of a rope that makes a knot and pulling it in the right direction. The knot will then loosen and begin to untangle. It'll no longer be so tight and tense.
+
+   * - 這跟明白萬事萬物並不是一成不變的道理很相近。在這之前，我們認為一切事物都必須如何，就因為如此，繩結只有被愈拉愈緊。這種緊，便是痛苦。這樣的生活是非常緊張的，所以，我們要把結鬆掉一些，而且放輕鬆。為甚麼要放鬆呢？就是因為太緊了。如果我們不執著就可以放鬆了，它並不是一個永遠一成不變的狀態。
+
+     - This is similar to understanding that things don't always have to be the way they've always been. Before, we felt that things had to be a certain way, and in so doing, we pulled the knot tighter and tighter. This tightness is suffering. Living that way is very tense. So we loosen the knot a little and relax. Why do we loosen it? Because it's tight! If we don't cling to it, then we can loosen it. It's not a condition that must always be that way.
+
+   * - 我們以無常的教導為基礎，明白快樂與不快樂均非恆常，兩者都不能依靠，也絕無恆常的事物。有了這種認識，我們逐漸會不再信賴錯誤的知見，錯誤的知見就會相對地減少，這便是解結的含義，這樣做，結就會愈來愈松，執著也會隨之逐漸根除。
+
+     - We use the teaching of impermanence as our basis. We see that both happiness and unhappiness are not permanent. We see them as not dependable. There's absolutely nothing that is permanent. With this kind of understanding, we gradually stop believing in the various moods and feelings that come up in our mind. Wrong understanding will decrease in the same degree that we stop believing in them. This is what is meant by undoing the knot. It continues to become looser. Attachment will be gradually uprooted.
+
+----
+
+湯杓子 Ladle
+++++++++++++
+
+.. list-table:: 湯杓子 Ladle [39]_
+   :header-rows: 1
+
+   * - 【湯杓子】
+
+     - Ladle
+
+   * - 假若只有聽聞佛法而沒有付予行動，便如同在湯鍋裡的湯杓子，成天泡在裡頭卻不知湯的味道。你必須思惟和禪坐。
+
+     - If you listen to the Dhamma teachings but don't practice, you're like a ladle in a soup pot. The ladle is in the soup pot every day, but it doesn't know the taste of the soup. You must reflect and meditate.
+
+----
+
+破漏的屋頂 Leaking Roof
++++++++++++++++++++++++
+
+.. list-table:: 破漏的屋頂 Leaking Roof [40]_
+   :header-rows: 1
+
+   * - 【破漏的屋頂】
+
+     - Leaking Roof
+
+   * - 我們大多數都祇是空談修行，根本就沒有付予行動。我們的修行就好像有人的屋頂漏了水一樣，這邊漏水所以他跑到房子的另一邊去睡覺。當陽光從那邊照射過來時，於是他又捲回這邊，心裡一直想著：「何時我才能和其他人一樣有棟完好的房子？」一旦整個屋頂破裂毀損時，他便立即搬離這間屋子。這並不是做事的方法，不過，大多數人卻都如此。
+
+     - Most of us just talk about practice without having really done it. This is like the man whose roof is leaking on one side so that he sleeps on the other side of the house. When the sunshine comes in on that side, he rolls over to the other side, all the time thinking, "When will I ever get a decent house like everyone else?" If the whole roof leaks, then he just gets up and leaves. This is not the way to do things, but that's how most people are.
+
+----
+
+樹葉 Leaves
++++++++++++
+
+.. list-table:: 樹葉 Leaves [41]_
+   :header-rows: 1
+
+   * - 【樹葉】
+
+     - Leaves
+
+   * - 現在我們正坐在一個寧靜的森林裡，如果沒有風，樹葉會保持靜止不動。然而，當一陣風吹來時，樹葉便會拍打舞動起來。
+
+     - Right now we are sitting in a peaceful forest. Here, if there's no wind, the leaves remain still. When a wind blows, they flap and flutter.
+
+   * - 心，猶如那樹葉，當它與法塵接觸時，便會隨著法塵的性質而「拍打舞動」起來。只要我們對佛法的瞭解越少，心越會不斷地追逐法塵。感到快樂時，就屈服於快樂；感到痛苦時，就屈服於痛苦，它總是在混亂之中。
+
+     - The mind is the same. When it contacts a mental impression, it, too, flaps and flutters. According to the nature of that mental impression. And the less we know of Dhamma, the more the mind will continually pursue mental impressions. Feeling happy, it succumbs to happiness. Feeling suffering, it succumbs to suffering. It's in a constant flap.
+
+----
+
+信 Letter
++++++++++
+
+.. list-table:: 信 Letter [42]_
+   :header-rows: 1
+
+   * - 【信】
+
+     - Letter
+
+   * - 只要知道你的心的狀況，別因它們而感到高興或悲傷，不要執著！如果痛苦，看見它、知道它、空掉它。猶如一封信——在你可以詳盡內容之前，必須先拆開它。
+
+     - Just know what is happening in your mind - not happy or sad about it, not attached. If you suffer, see it, know it, and be empty. It's like a letter - you have to open it before you can know what's in it.
+
+----
+
+木頭 Log
+++++++++
+
+.. list-table:: 木頭 Log [43]_
+   :header-rows: 1
+
+   * - 【木頭】
+
+     - Log
+
+   * - 如果我們砍下一塊木頭將它扔進河水裡，木頭便會漂向下流。假使這塊木頭不腐朽或停滯在一旁的河岸，終究會漂流入大海。同樣的道理，修習中道的心，如果不去執於感官耽溺或自我苦行的任何一端，必然會達到真正的寧靜。
+
+     - If we cut a log of wood and throw it into a river, it floats downstream. If that log doesn't rot or get stuck on one of the banks of the river, it will finally reach the ocean. Likewise, the mind that practices the Middle Way and doesn't attach to either extreme of sensual indulgence or self-mortification will inevitably attain true peace.
+
+   * - 在我們譬喻裡的那塊木頭，代表心，河岸的一邊代表愛，另一邊代表恨；或說岸的一邊是快樂，另一邊是不快樂。所謂遵循中道，是瞭解愛、恨和快樂、不快樂的真實面目——祇是感覺而已。一旦獲得這樣的領悟，心就不會那麼輕易地漂向它們而被束縛。這就是領悟的心的修行，不去滋養任何感覺的升起，乃至不會去執著它們。接著，心便自由無礙地漂向下游，最後流入「涅槃海」。
+
+     - The log in our analogy represents the mind. The banks of the river represent, on one side, love, and on the other, hate. Or you can say that one bank is happiness and the other unhappiness. To follow the Middle Way is to see love, hate, happiness and unhappiness for what they really are - only feelings. Once this understanding has been achieved, the mind will not easily drift toward them and get caught. It is the practice of the understanding mind not to nurture any feelings that rise or to cling to them. The mind then freely flows down the river unhampered and eventually flows into the "ocean" of Nibbana.
+
+----
+
+木材 Lumber
++++++++++++
+
+.. list-table:: 木材 Lumber [44]_
+   :header-rows: 1
+
+   * - 【木材】
+
+     - Lumber
+
+   * - 假如你不花點心思去訓練你的心，它就會隨著它的本性，依然粗俗野蠻。心的本性是可以訓練的，所以它才能有利地被應用。就拿樹來說吧！如果我們將樹原封不動地擱在那兒，我們永遠也無法利用它們來蓋房子，更不能將它製造成建築房子所需的木板或其他材料。總而言之，若有木匠想要蓋房子，他會先去尋找樹木，在取得原木材料後，再加以有利地應用。那麼，在很短的時間裡，他就可以蓋起一棟房子了。
+
+     - If you don't bother to train your heart, then it remains wild, following the ways of nature. It's possible to train that nature, however, so that it can be used to advantage. This is comparable to trees. If we just left trees in their natural state, then we would never be able to build houses with them. We couldn't make planks or anything of use to build houses with. However, if a carpenter came along wanting to build a house, he would go looking for trees in their natural state. He would take raw material and use it to advantage. In a short time he could have a house built.
+
+   * - 禪坐與心的增長也是如此。你必須對這顆未經訓練的心——如同你會去森林裡取自然狀態下的樹，加以訓練，這樣，心才會對自己更細膩、更清明，而且更為敏銳。
+
+     - Meditation and developing the heart are similar to this. You must take this natural, untrained heart as you would take a tree in its natural state in the forest, and train it so that it is more refined, more aware of itself, and more sensitive.
+
+----
+
 轉錄來源：
 
 .. [1] `森林里的一棵树 序言 A Tree in a Forest - Introduction - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104825>`_
@@ -853,3 +1009,19 @@
 .. [35] `家庭主妇 Housewife - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104791>`_
 
 .. [36] `狼狗 Jackal - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104790>`_
+
+.. [37] `刀子 Knife - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104789>`_
+
+.. [38] `结 Knot - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104788>`_
+
+.. [39] `汤杓子 Ladle - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104787>`_
+
+.. [40] `破漏的屋顶 Leaking Roof - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104785>`_
+
+.. [41] `树叶 Leaves - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104786>`_
+
+.. [42] `信 Letter - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104784>`_
+
+.. [43] `木头 Log - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104783>`_
+
+.. [44] `木材 Lumber - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104782>`_
