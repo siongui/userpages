@@ -2,7 +2,7 @@ Internationalization and Localization of Google App Engine Python Webapp Using w
 #################################################################################################
 
 :date: 2015-04-12 05:30
-:tags: Python, Web application, web, Google App Engine, Locale, Jinja2
+:tags: Python, Web application, web, Google App Engine, Locale, Jinja2, i18n
 :category: Python
 :summary: i18n and L10n of Google App Engine Python web application, with
           webapp2, Jinja2, Babel, and pytz.
