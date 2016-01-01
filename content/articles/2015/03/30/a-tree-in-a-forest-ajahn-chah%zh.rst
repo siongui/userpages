@@ -936,6 +936,166 @@
 
 ----
 
+芒果 Mango
+++++++++++
+
+.. list-table:: 芒果 Mango [45]_
+   :header-rows: 1
+
+   * - 【芒果】
+
+     - Mango
+
+   * - 我們說戒、定、慧是所有聖者走向覺悟的必經之道。它們是一體的。戒即定，定即戒；定即慧，慧即定。就像一個芒果，當它還是花的時候，我們稱它作花；當它結果時，就改稱它為芒果；當它熟透時，我們稱它作熟透的芒果。同是一顆芒果，卻不停地變化，大芒果從小芒果而來，小芒果會長成大芒果。要說它們是同一顆或不是同一顆都可以。戒、定和慧也是如此相系相連，到頭來都同樣導向覺悟的大道。
+
+     - We say that morality, concentration and wisdom are the path on which all the Noble Ones have walked to enlightenment. They are all one. Morality is concentration, concentration is morality. Concentration is wisdom, wisdom is concentration. It's like a mango. When it's a flower, we call it a flower. When it becomes a fruit, we call it a mango. When it ripens, we call it a ripe mango. It's a lone mango, but it continually changes. The big mango grows from the small mango, the small mango grows from the small mango, and the small mango becomes a big one. You can call them different fruit or all one. Morality, concentration and wisdom are related like this. In the end it's the entire path that leads to enlightenment.
+
+   * - 我們必須瞭解：芒果，它最初出現時是一朵花，然後逐漸長成熟，不管別人怎麼叫它，都沒關係。一旦芒果出生，便步向老熟，然後它會往哪裡去呢？我們要好好思惟這個問題。
+
+     - The mango, from the moment it first appears as a flower, simply grows to ripeness. We should see it like this. Whatever others call it, it doesn't matter. Once it's born, it grows to old age and then where? We should contemplate this.
+
+   * - 有些人不想要老，當他們老了之後，顯得很不甘心。像這些人實在不應吃已熟的芒果！我們為什麼希望芒果成熟呢？如果時候到了它們還未成熟，我們就會以人工的方法促使它成熟，不是嗎？但是當我們年老時，我們卻滿懷不願。有些人為此掉淚，他們懼怕老死。若是這樣的話，那麼他們最好祇吃花，而不應吃成熟的芒果。如果我們能明白這個道理，我們就能見到佛法。一切都能清楚明白之後，我們就平靜了。
+
+     - Some people don't want to be old. When they get old, they become regretful. These people shouldn't eat ripe mangoes. Why do we want the mangoes to be ripe? If they're not ripe in time, we ripen them artificially, don't we? But when we become old we're filled with regret. Some people cry. They're afraid to get old and die. If it's like this, they shouldn't eat ripe mangoes. They'd better eat just the flowers! If we can see this then we can see the Dhamma. Everything clears up and we are at peace.
+
+----
+
+藥和水果 Medicines and Fruit
+++++++++++++++++++++++++++++
+
+.. list-table:: 藥和水果 Medicines and Fruit [46]_
+   :header-rows: 1
+
+   * - 【藥和水果】
+
+     - Medicines and Fruit
+
+   * - 別跟那些不修行的人生氣，不要評論他們的過錯。只要時時勸導他們，當他們的心靈增長時，自然會來求法。好像賣藥一樣，我們宣傳我們的藥，那些有頭痛，胃痛的人自然會來服藥。不要我們藥的那些人，別去強迫他們，他們如同仍未成熟的青澀果實，我們不能強迫他們成熟、甜美——就順其自然吧！讓他們自己長大、甜美、成熟。如果我們這樣想，心就會釋然。因此，我們不必去強迫任何人，只要宣傳我們的藥就夠了。當有人生病，他們自然就會來買的。
+
+     - Don't be angry with those who don't practice. Don't speak against them. Just continually advise them. They will come to the Dhamma when their spiritual factors are developed. It's like selling medicines. We advertise our medicines and those with a headache or stomachache will come and take some. Those who don't want our medicines let them be. They're like fruit that are still green. We can't force them to be ripe and sweet — just let them be. Let them grow up, sweeten and ripen all by themselves. If we think like this, our minds will be at ease. So we don't need to force anybody. Simply advertise our medicines and leave it at that. When someone is ill, he'll come around and buy some.
+
+----
+
+商人 Merchants
+++++++++++++++
+
+.. list-table:: 商人 Merchants [47]_
+   :header-rows: 1
+
+   * - 【商人】
+
+     - Merchants
+
+   * - 你做每一件事情，你都必須很清楚、很明白。當你看清楚時，就不再需要忍耐或勉強你自己了。你有障礙與負擔，是因為你沒有認清這點。平和是來自一心一意地投入於工作中，沒有完成的工作，會帶給你不滿足的感覺，無論你走到哪兒，都會羈絆著你，使你擔憂牽掛。但你想要完成每一件事，那是不可能的。
+
+     - Everything that you do you must do with clarity and awareness. When you see clearly, you'll no longer feel the need to force yourself to do and complete everything. Now you are burdened with difficulties because you miss the point: whatever you do, you should just do with your body and mind completely. This will bring you peace. If you think you have to do and complete everything, then whenever you leave something undone or incomplete, you'll feel discontented and never stop worrying about it. You want to complete everything, but it's really impossible to do so.
+
+   * - 就拿時常來看我的那些生意人為例，他們說：「當我的債務通通還清，財產也理清時，我就來出家。」話雖這麼說，但他們何時才會結束而準備就緒？永無止期啊！他們用另一個借款來償還債務，還清了一個又借一個。每位生意人都會想，如果能讓他從債務中脫身，他就快樂了，然而還清債務是遙遙無期的。這就是世間愚弄我們的方法。我們就這樣反覆地周旋著，永遠不知道自己的可悲。
+
+     - Take the case of the merchants who regularly come here to see me. They say, "Oh, when my debts are all paid and property in order, I'll come to get ordained." They talk like that, but will they ever finish and get it all in order? There's no end to it. They pay off their debts with another loan; they pay off that one, and do it again. A merchant thinks that when he gets rid of all of his debts, he will be happy, but there's no end to paying things off. That's the way worldliness fools us. We go around and around like that never realizing our predicament.
+
+----
+
+Maggot
+++++++
+
+.. list-table:: 蛆 Maggot [48]_
+   :header-rows: 1
+
+   * - 【蛆】
+
+     - Maggot
+
+   * - 快樂不是憑靠和我們相處的人有多少，而是來自於「正見」。如果我們擁有正見，那麼無論我們行居何處，我們仍將是快樂的。
+
+     - Contentment doesn't depend on how many people we are with. It comes only from right view. If we have right view, then wherever we stay, we are content.
+
+   * - 但我們大部份的見解都不正確，就如同一隻住在糞堆裡的蛆。蛆住在骯髒的地方，吃的也是骯髒的，不過，這一切對蛆來說卻是無比舒適。假若你拿一枝筷子將牠從那堆糞便裡剔出來，它會奮力掙扎地爬回牠的家。
+
+     - But most of us have wrong view. It's just like a maggot living in a pile of dung. It lives in filth, its food is filth, but it suits the maggot. If you take a stick and dislodge it from its lump of dung, it'll squirm and wiggle back to its home.
+
+   * - 我們也不例外。老師教導我們要有正見，但我們覺得很不舒服，一下子就溜回我們的惡習與妄見，因為只有這樣做，我們才會覺得舒服。如果我們沒有見到一切妄見的有害後果，那麼，我們便無法遠離他們。修行是件不容易的事，因此，你必須聽從你的老師，這就是修行了。
+
+     - We are the same. The teacher advises us to see rightly but we squirm about and are uncomfortable. We quickly run back to our old habits and views because that's where we feel at home. If we don't see the harmful consequences of all our wrong views, then we can't leave them. The practice is difficult, so we should listen to the teacher.
+
+----
+
+油和水 Oil and Water
+++++++++++++++++++++
+
+.. list-table:: 油和水 Oil and Water [49]_
+   :header-rows: 1
+
+   * - 【油和水】
+
+     - Oil and Water
+
+   * - 油和水是不同的，同樣的道理，一位有智慧的人和一位愚痴無明的人是不相同的。佛陀生活在色、聲、香、味、觸、法的世界裡，但因為他是一位阿羅漢，所以他能遺物而不逐物。自從他瞭解了心就是心，想就是想後，便漸漸地捨離而不執著它們。他沒有將它們混淆在一塊兒。
+
+     - Oil and water are different in the same way that a wise man and an ignorant man are different. The Buddha lived with form, sound, odor, taste, touch and thought, but he was an arahant so he was able to turn away from them rather than toward them. He turned away and let go little by little, since he understood that the heart is just the heart and thought is just thought. He didn't confuse them and mix them together like an ignorant man does.
+
+   * - 心只是心，想和感覺也只是想和感覺；讓事物就只是事物吧！讓色只是色，讓聲只是聲，讓想只是想，我們又何須費事地執著它們呢？如果我們以這種方式去思考和感覺，那麼，這就是出離和不執著了。我們的想和感覺將在一邊，而我們的心會在另外一邊，就好像油和水——它們同在一個瓶子裡，然而，卻是分開的。
+
+     - The heart is just the heart. Thoughts and feelings are just thoughts and feelings. Let things be as they are. Let form be just form, let sound be just sound, let thought be just thought. Why should we bother to attach to them? If we feel and think in this way, then there is detachment and separateness. Our thoughts and feelings will be on one side and our heart will be on the other. Just like oil and water - they are in the same bottle but they are separate.
+
+----
+
+孤兒 Orphan
++++++++++++
+
+.. list-table:: 孤兒 Orphan [50]_
+   :header-rows: 1
+
+   * - 【孤兒】
+
+     - Orphan
+
+   * - 最後，人們會變得神經質。為什麼呢？因為他們不瞭解這個道理！他們只是隨著情緒起伏不定，而不知如何去照顧自己的心。當心沒人關照時，就像一個沒有父母照料的小孩。孤兒是無所依靠的，而無依無靠的孩子是非常不安全的。
+
+     - In the end, people become neurotic. Why? Because they don't know. They just follow their moods and don't know how to look after their own minds. When the mind has no one to look after it, it's like a child without a mother or a father. An orphan has no refuge, and without a refuge, he is very insecure.
+
+   * - 同樣的，如果這顆心沒有受到照顧，如果沒有用正見來訓練或培育品格，就相當麻煩了！
+
+     - Likewise, if the mind is not looked after, if there is no training or maturation of character with right understanding, it's really troublesome.
+
+----
+
+牛車 Ox Cart
+++++++++++++
+
+.. list-table:: 牛車 Ox Cart [51]_
+   :header-rows: 1
+
+   * - 【牛車】
+
+     - Ox Cart
+
+   * - 假設我們有一輛牛車和一隻牛來拉它，車的輪子並不是長的，但輪跡卻是長的。只要這隻牛拉動車子，輪跡就會隨著車輪的拉動而延伸；輪子是圓的，輪跡卻是長的，若光看靜止的牛車，是看不到車輪有任何長度的，不過，一旦牛開始拉動車子，我們就可以看到輪跡也在我們後面一直伸長，只要牛不停歇地拉，車輪便會不停地轉動。然而，終有那麼一天的來臨——當牛疲睏脫牛軛時，牠走開了，只留下牛車在那兒，輪子也不再轉動了！時間一到，這牛車自然會分崩離析，構成車子的所有部份也將歸回四種元素：地、水、火、風。
+
+     - Suppose we had a cart, and an ox to pull it. The wheels of the cart aren't long, but the tracks are. As long as the ox pulls the cart, the tracks will follow. The wheels are round, yet the tracks are long. Just looking at the stationary cart, one couldn't see anything long about the wheels, but once the ox starts pulling the cart, we see the tracks stretching out behind. As long as the ox keeps pulling, the wheels keep turning. But there comes a day when the ox gets tired and throws off its yoke. The ox walks off and the cart is left there. The wheels no longer turn. In time the cart falls apart. Its constituent parts go back into the four elements of earth, water, wind and fire.
+
+   * - 跟隨世間法的人們也是一樣！如果有人想在世間法裡尋找寧靜，他將無停歇地像車輪所輾出的輪跡一樣，繼續下去。如果我們不斷追隨世間法，我們就沒得停止、沒得歇息。只要我們很單純地停止追隨世間法，車輪便會停止不再轉動。不停地追隨世間法，輪跡就會繼續不斷延伸，製造惡業也是一樣。只要我們再次地重蹈覆轍，一切將永無止期。如果我們停止，一切也將停止。這就是佛法的修習。
+
+     - People who follow the world are the same. If one were to look for peace within the world, one would go on and on without end, just like the wheels of a cart. As long as we follow the world, there is no stopping, no rest. If we simply stop following it, the wheels of the cart no longer turn. There is stopping right there. Following the world ceaselessly, the tracks go on. Creating bad kamma is like this. As long as we continue to follow the old ways, there is no stopping. If we stop, then there is stopping. This is the practice of Dhamma.
+
+----
+
+水池 Pool
++++++++++
+
+.. list-table:: 水池 Pool [52]_
+   :header-rows: 1
+
+   * - 【水池】
+
+     - Pool
+
+   * - 保持正念而且讓事物順其自然，那麼，你的心將在任何地方都安詳寧靜。好像森林中清澈水池般的平靜，所有美好罕見的動物都會來取水飲用，你將清楚地看見世界上一切事物的本然，你將見到許許多多美好、奇妙的事物的來去，但你仍卻是平靜的。這就是佛陀的喜悅。
+
+     - Be mindful and let things take their natural course, then your mind will become quiet in any surroundings. It will become still like a clear forest pool and all kinds of wonderful and rare animals will come to drink from it. Then you will clearly see the nature of all things in the world. You will see many wonderful and strange things come and go. But you will be still. This is the happiness of the Buddha.
+
+----
+
 轉錄來源：
 
 .. [1] `森林里的一棵树 序言 A Tree in a Forest - Introduction - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104825>`_
@@ -1025,3 +1185,19 @@
 .. [43] `木头 Log - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104783>`_
 
 .. [44] `木材 Lumber - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104782>`_
+
+.. [45] `芒果 Mango - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104780>`_
+
+.. [46] `药和水果 Medicines and Fruit - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104779>`_
+
+.. [47] `商人 Merchants - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104778>`_
+
+.. [48] `蛆 Maggot - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104781>`_
+
+.. [49] `油和水 Oil and Water - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104777>`_
+
+.. [50] `孤儿 Orphan - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104776>`_
+
+.. [51] `牛车 Ox Cart - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104775>`_
+
+.. [52] `水池 Pool - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104774>`_
