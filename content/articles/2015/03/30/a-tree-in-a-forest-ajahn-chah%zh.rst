@@ -996,8 +996,8 @@
 
 ----
 
-Maggot
-++++++
+蛆 Maggot
++++++++++
 
 .. list-table:: 蛆 Maggot [48]_
    :header-rows: 1
@@ -1093,6 +1093,178 @@ Maggot
    * - 保持正念而且讓事物順其自然，那麼，你的心將在任何地方都安詳寧靜。好像森林中清澈水池般的平靜，所有美好罕見的動物都會來取水飲用，你將清楚地看見世界上一切事物的本然，你將見到許許多多美好、奇妙的事物的來去，但你仍卻是平靜的。這就是佛陀的喜悅。
 
      - Be mindful and let things take their natural course, then your mind will become quiet in any surroundings. It will become still like a clear forest pool and all kinds of wonderful and rare animals will come to drink from it. Then you will clearly see the nature of all things in the world. You will see many wonderful and strange things come and go. But you will be still. This is the happiness of the Buddha.
+
+----
+
+雨水 Rainwater
+++++++++++++++
+
+.. list-table:: 雨水 Rainwater [53]_
+   :header-rows: 1
+
+   * - 【雨水】
+
+     - Rainwater
+
+   * - 事實上，心在它自然狀態下是純淨的，如同雨水一樣。假如我們把綠色滴入清澈的雨水中，它就會變綠；如果滴進黃色，它就會變黃。
+
+     - Actually the mind, like rain water, is pure in its natural state. If we were to drop green dye into clear rainwater, however, it would turn green. If yellow dye were added, it would turn yellow.
+
+   * - 心的反應也是如此，當愉快的法塵「滴」入心中，心會感到愉快；如果法塵是不愉快的，心也就跟著不愉快了，就像染了色的水一樣，變得「混濁不清」。
+
+     - The mind reacts similarly. When a comfortable mental impression drops into the mind, the mind is comfortable. When the mental impression is uncomfortable, the mind is uncomfortable. The mind becomes cloudy, like the colored water.
+
+   * - 清澈的水遇到黃色會變黃，遇到綠色就會變綠，隨著每一次顏料的滴入，它都會隨之改變。但實際上，轉為綠色或黃色的水，原本是潔淨而清澈的。心本來的境地也是如此清澈、純淨而不混濁，它之所以混濁，只因追逐法塵而迷失在情緒中。
+
+     - When clear water contacts yellow, it turns yellow. When it contacts green, it turns green. It will change color every time. Actually the water that turned green or yellow is naturally clean and clear. This is also the natural state of the mind - clean and pure and unconfused. It becomes confused only because it pursues mental impressions. It gets lost in its moods.
+
+----
+
+水流 River Flow
++++++++++++++++
+
+.. list-table:: 水流 River Flow [54]_
+   :header-rows: 1
+
+   * - 【水流】
+
+     - River Flow
+
+   * - 肉身的老化和病痛並沒有錯，它只是順著它的本性。因此，導致我們受苦的不是身體，而是自己錯誤的知見。當我們誤解時，一定會煩惱不已。
+
+     - There's nothing wrong with the way the body grows old and gets sick. It just follows its nature. So it's not the body that causes us suffering, but our own wrong thinking. When we see the right wrongly, there's bound to be confusion.
+
+   * - 如同河裡的水，它很自然地會往下流，這是水的本性。如果我們站在河邊看著水急速流下，卻異想天開地想讓它逆流而上，我們會因此而痛苦。我們會因為我們錯誤的思想和想「逆水而上」而受苦。如果我們有正確知見，就會知道水必定是往下流的，除非我們覺悟和接受這事實，否則心將永遠動盪不安，永遠找不到平靜的心。
+
+     - It's like the water of a river. It naturally flows downhill. It never flows uphill. That's its nature. If we were to go and stand on the bank of a river, and seeing the water flowing swiftly down its course, foolishly want it to flow back uphill, we would suffer. We would suffer because of our wrong view, our thinking "against the stream." If we had right view, we would see that the water must flow downhill. Until we realize and accept this fact, we will always be agitated and never find peace of mind.
+
+   * - 水必然往下流的道理，就如同我們身體的現象，它一度年輕，然後趨向老化，最後死亡。不要期望有其他奇蹟出現，這不是我們所能挽救的。不要異想天開地想讓水逆流而上。
+
+     - Our body is like the river that must flow downhill. It passes through youth, old age and finally dies. Don't let us go wishing it were otherwise. It's not something we have the power to remedy. Don't go against the stream!
+
+----
+
+路 Road
++++++++
+
+.. list-table:: 路 Road [55]_
+   :header-rows: 1
+
+   * - 【路】
+
+     - Road
+
+   * - 不論你身在何處，都要以觀照和很自然的方式來認識你自己。如果疑惑升起，讓它們自然地來、去。這很簡單——只要不執著。
+
+     - Wherever you are, know yourself by being natural and watchful. If doubts arise let them come and go. When you meet defilements, just see them and overcome them by letting go of them. It's very simple - hold on to nothing.
+
+   * - 如同你沿著一條路行去，時而會碰到一些障礙物。當你碰上雜染升起時，只要看透它們，然後用放下的方法來克服它們。不要掛念已消失的障礙，也別憂慮未來臨的障礙，只要把握當下。不要掛念路程的長短或你的目的地，因為一切都在變動當中。不論經歷了什麼事，都不要執著，最後，心就會達到平衡。那麼，無論是闔眼靜坐，或行走於繁鬧的都市，心都會是寧靜安詳的。
+
+     - It's as though you are walking down a road. Periodically you will run into obstacles. When you meet defilements, just see them and overcome them by letting go of them. Don't think about the obstacles you have already passed. Don't worry about the obstacles you have not yet met. Stick to the present. Don't be concerned about the length of the road or about your destination. Everything is changing. Whatever you pass, do not cling to it. Eventually the mind will reach its natural balance. Then it will be still whether you sit with your eyes closed or walk around in a big city.
+
+----
+
+石頭 Rock
++++++++++
+
+.. list-table:: 石頭 Rock [56]_
+   :header-rows: 1
+
+   * - 【石頭】
+
+     - Rock
+
+   * - 放下和「以空心修行」的教導是最令人不解，也是最和自己的觀念衝突的教法。當我們以世俗的語言來理解這兩種教法時，我們會迷糊地認為我們可以為所欲為，然而它真正的涵意是：如果我們背負著一顆沉重的石頭，不久以後，我們開始感到石頭的沉重，但是我們卻不知道如何去放下它，所以我們一直都在承受這個沉重的負擔。如果有人叫我們把石頭拋開，我們會說：「如果我把它給扔掉，我將一無所有！」如果有人告訴我們，放下石頭後將能獲得的一切利益時，我們不但不會相信他們，反而會固執地認為：「如果我丟了它，我將一無所有！」因此，我們繼續背負這顆重石，直到石頭重得難以忍受，我們也虛弱不堪且筋疲力竭時，只好放下它。
+
+     - The teaching that people least understand and which conflicts most with their own opinions is the teaching of letting go or working with the empty mind. When we conceive this in worldly terms, we become confused and think that we can do anything we want. It can be interpreted in this way, but its real meaning is closer to this: It's as if we were carrying a heavy rock. After a while we begin to feel its weight, but we don't know how to let go. So we endure this heavy burden all the time. If someone tells us to throw it away, we say, "If I throw it away, I won't have anything left!" If told of all the benefits to be gained by throwing it away, we would not believe it, but would keep on thinking, "If I throw my rock away, I will have nothing." So we keep on carrying this heavy rock until it becomes so unbearably heavy, and we become so weak and exhausted, that we just have to drop it.
+
+   * - 放下它之後，才突然間體會到放下的益處，我們立即覺得較舒適，也較輕鬆，並且明白背負著一顆石頭是個多麼沉重的負擔啊！而在我們放下這顆石頭之前，我們不可能瞭解放下的益處。我們也許又會再度扛起這個包袱，但現在我們已經知道這樣做將會有什麼後果，因此我們能更輕易的放下它。「背負著沉重包袱是沒用的，相反地，放下，將帶來舒適與輕安」這樣的理解，是一個能夠逐漸瞭解我們自己的好例子。
+
+     - Having dropped it, we suddenly experience the benefits of letting go. We immediately feel better and lighter and we know for ourselves how much of a burden carrying a rock can be. Before we let go of the rock, we couldn't possibly know the benefits of letting go. Later on we may start carrying burdens again, but now we know what the results will be, so we can now let go more easily. This understanding - that it's useless carrying burdens around and that letting go brings ease and lightness - is an example of knowing ourselves.
+
+   * - 我們的自尊，我們所仰賴的自我意識，就如同一顆沉重的石頭。如果我們考慮要放下自我時，我們會懼怕沒有了它之後，將會一無所有。然而，當我們終於放下它時，我們將覺悟到不執著自我的輕安和自在。
+
+     - Our pride, our sense of self that we depend on, is the same as that heavy rock. Like that rock, if we think about letting go of self, we are afraid that without it there would be nothing left. But when we can finally let it go we realize for ourselves the ease and comfort of not clinging.
+
+----
+
+螺絲釘 Screw
+++++++++++++
+
+.. list-table:: 螺絲釘 Screw [57]_
+   :header-rows: 1
+
+   * - 【螺絲釘】
+
+     - Screw
+
+   * - 假使你經由禪坐清楚地見到真理，那麼，痛苦將猶如一顆螺絲釘般地「轉鬆」開來。當你轉鬆一顆螺絲釘，它退出來，不會像栓進去時那麼緊。心也是由放下和捨離鬆開來的，而不被善惡、權貴、毀譽、苦樂緊緊地束縛。如果我們不知道真理，就好像不停地在栓緊螺絲釘，直到它弄碎你時，每件事都會使你痛苦。當你「鬆開」這一切時，你就自由了，而且平靜安詳。
+
+     - If you clearly see the truth through meditation, then suffering will become unwound, just like a screw. When you unwind a screw, it withdraws. It's not tightly fixed as when you screw it, clockwise. The mind withdraws like this. It lets go, it relinquishes. It's not tightly bound within good and evil, within possessions, praise and blame, happiness or suffering. If we don't know the truth, it's like tightening the screw all the time. You screw it down until it crushes you and you suffer over everything. When you unwind out of all that, you become free and at peace.
+
+----
+
+樹苗 Seedling
++++++++++++++
+
+.. list-table:: 樹苗 Seedling [58]_
+   :header-rows: 1
+
+   * - 【樹苗】
+
+     - Seedling
+
+   * - 禪坐中，你們必須一直維持正念，如同種植一棵樹苗。如果我們將樹苗種在一個地方，三天後將它移植到另外一個地方，過了三天又將它再移植一次，最後，它將在毫無成長和結果的情況下死去。
+
+     - In meditation, you must continuously be attentive, just like when planting a seedling. If you plant a seedling in one place, then after three days you pull it up and plant it in another place, and after three more days, pull it up again and plant it somewhere else, it will just die and not grow up and bear any fruit.
+
+   * - 禪坐也是如此，假使你只做了七天的禪坐就走了，後來的七個月你一直在任意染污自己的心，事後再回來做禁語和獨處的七天禪坐，這就跟那棵樹苗沒有兩樣了。你的禪坐功夫終將無法成長，最後，將在沒有產生任何真實的果實之情況下死去。
+
+     - Meditation is the same. If you do a seven-day meditation retreat and after leaving it, for seven months you go around "soiling" the mind, and then come back and do another seven-day retreat where you don't speak and you keep to yourself, it's like the tree. Your meditation practice won't be able to grow and it will die with out producing any real results.
+
+----
+
+銳利的刀 Sharp Knife
+++++++++++++++++++++
+
+.. list-table:: 銳利的刀 Sharp Knife [59]_
+   :header-rows: 1
+
+   * - 【銳利的刀】
+
+     - Sharp Knife
+
+   * - 當我們說心停止時，是指好像已靜止一樣，不會到處波動攀緣。譬如我們有一把銳利的刀，如果我們毫無選擇地隨意亂砍石頭、磚塊、玻璃之類的東西，刀子很快就會鈍掉。我們必須只砍有用的東西。
+
+     - When we say that the mind stops, we mean that it feels as if it's stopped, that it does not go running about here and there. It's as if we have a sharp knife. If we go and cut away at things randomly, like stones, bricks and glass, without choosing carefully, our knife will quickly become blunt. We must cut only those things which are useful to cut.
+
+   * - 心也是一樣，如果我們放任我們的心，讓它亂跑，追隨無用的妄念或情緒，心很快就會因為不得休息而疲憊。如果心沒有力量，智慧就不能升起，因為沒有力量的心等於一顆沒有定力的心。
+
+     - Our mind is the same. If we let our mind wander after thoughts or feelings which have no use or value, the mind will become weak because it has no chance to rest. If the mind has no energy, wisdom will not arise, because the mind without energy is a mind without concentration.
+
+----
+
+蛇 Snake
+++++++++
+
+.. list-table:: 蛇 Snake [60]_
+   :header-rows: 1
+
+   * - 【蛇】
+
+     - Snake
+
+   * - 人們厭惡痛苦而希求快樂，但事實上快樂正是痛苦的微細形態，而痛苦本身是一種較粗糙的形態。我們可以將他們比喻為一條蛇，蛇的頭部表示「苦」，蛇的尾部表示「樂」。蛇的頭部是很危險的，因為牠有毒牙，如果你觸碰牠，牠會立刻咬你一口，但是不消說，即使你去抓蛇尾，同樣地，牠會立刻轉身咬你，因為蛇頭和蛇尾同在一條蛇身上。
+
+     - People want happiness, not suffering. But in fact happiness is just a refined form of suffering. Suffering itself is the coarse form. We can compare them to a snake. The snake's head is unhappiness. The snake's tail is happiness. The snake's head is really dangerous. It has the poisonous fangs. If we touch it, it'll bite right away. But never mind the head? Even if we go and hold onto the tail, it will turn around and bite us just the same, because both the head and tail belong to the one snake.
+
+   * - 同樣的道理，快樂和不快樂，或愉快和悲傷，是從同一條「蛇」——慾望，所生起的。所以當你快樂時，心並不是平靜的。
+
+     - Likewise happiness and unhappiness, pleasure and sadness, arise from the same snake: wanting. So when we're happy, the mind isn't really peaceful.
+
+   * - 例如當我們得到我們所喜歡的，像財富、威望、讚美或幸福時，所得的結果便是快樂的。但是心中卻仍舊隱藏著不安，因為我們害怕會失去它。極為憂慮並非平靜，往後我們可能真的失去這些，緊接而來的便是痛苦。因此，如果我們不清醒的話，即使是快樂，繼之而來的便是痛苦。正如同抓住蛇尾一樣——如果你不放手，牠就會轉身咬你。所以，無論是蛇頭或蛇尾，也就是說，健全或不健全的狀況，他們都是輪迴的特徵，與無限的變遷。
+
+     - For example, when we get the things we like, such as wealth, prestige, praise or happiness, we become pleased, but the mind remains uneasy for fear of losing them. That very fear isn't a peaceful state. Later we may really lose those things, then we truly suffer. So if we're not aware, even when happy, suffering is imminent. It's just like grabbing the snake's tail - if we don't let go, it'll bit. So be it the snake's conditions they're all just characteristics of the Wheel of Existence, of endless change.
 
 ----
 
@@ -1201,3 +1373,19 @@ Maggot
 .. [51] `牛车 Ox Cart - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104775>`_
 
 .. [52] `水池 Pool - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104774>`_
+
+.. [53] `雨水 Rainwater - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104773>`_
+
+.. [54] `水流 River Flow - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104772>`_
+
+.. [55] `路 Road - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104771>`_
+
+.. [56] `石头 Rock - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104770>`_
+
+.. [57] `螺丝钉 Screw - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104769>`_
+
+.. [58] `树苗 Seedling - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104768>`_
+
+.. [59] `锐利的刀 Sharp Knife - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104767>`_
+
+.. [60] `蛇 Snake - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104766>`_

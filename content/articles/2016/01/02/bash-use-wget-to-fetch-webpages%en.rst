@@ -1,6 +1,7 @@
 [Bash] Use wget to Fetch Webpages
 #################################
 
+:date: 2016-01-02T03:41+08:00
 :tags: Bash, Commandline, String Manipulation
 :category: Bash
 :summary: Write a bash script to use wget to fetch webpages.
