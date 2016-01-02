@@ -1424,6 +1424,170 @@
 
 ----
 
+樹 Trees
+++++++++
+
+.. list-table:: 樹 Trees [69]_
+   :header-rows: 1
+
+   * - 【樹】
+
+     - Trees
+
+   * - 我們可以從樹學習到佛法。一棵樹的誕生是有原因的，它順著自然界的原則成長，直到它成長、含苞、開花然後結果。當下樹正對我們演說著真理，可是我們卻不能瞭解。我們所見的都只是花和果實的呈現，卻不會將它帶入心中然後加以思惟。因此，我們並不知道樹在對我們說法。我們只會吃結出的果實，卻沒有思惟：甜、酸和鹹，都只是果實的本質，這就是佛法。接下來，樹葉老了、萎了，從樹上謝落下來，我們見到的只是樹葉的散落；我們只會踩過它們、掃除它們，從不會徹底的觀照它們，所以都不知道自然正教導著我們。過些時候，新的葉芽又長出來了，我們也見著了，但並沒有進一步地思惟。這不是透過內在反觀所知的真理。
+
+     - We can learn Dhamma from trees. A tree is born due to a cause and it, grows following the course of nature until it buds, flowers and bears fruit. Right here the tree is discoursing Dhamma to us, but we don't understand this. We're unable to bring it within and contemplate, so we don't know that the tree is teaching us without investigating: sweet, sour or bitter, it's the nature of the fruit. And this is Dhamma, the teaching of the fruit. Then the leaves grow old. They wither, die and fall from the tree. All we see is that the leaves have fallen down. We don't know that nature is teaching us. Later on, the new leaves sprout, and we merely see that, without taking it further. This is not the truth that is known through internal reflection.
+
+   * - 如果我們可以將它們引領到內心來觀照，我們會忽然瞭解，樹的誕生與我們自己誕生的道理其實沒有什麼差別。我們身體的出生與存在是依靠某些條件，它們是地、水、火、風。身體每一個部份都會依循它的本性而改變，這和樹沒有什麼差別——頭髮、指甲、牙齒和皮膚都在改變。如果我們瞭解事物的本然，那麼我們也將瞭解自己。
+
+     - If we can bring all this inward and investigate it, we will see that the birth of a tree and our own birth are no different. This body of ours is born and exists, dependent on conditions, on the elements of earth, water, wind and fire. Every part of the body changes according to its nature. It's no different from the tree. Hair, nails, teeth and skin, all change. If we know the things of nature, then we will know ourselves.
+
+----
+
+烏龜 Turtle
++++++++++++
+
+.. list-table:: 烏龜 Turtle [70]_
+   :header-rows: 1
+
+   * - 【烏龜】
+
+     - Turtle
+
+   * - 尋求平靜就如同尋求一隻有毛的烏龜，永遠也找不著。但是，當你的心成熟時，平靜自然會來找你。
+
+     - Looking for peace is like looking for a turtle with a mustache. You won't be able to find it. But when your heart is ready, it will come and look for you.
+
+----
+
+枝與根 Twigs and Root
++++++++++++++++++++++
+
+.. list-table:: 枝與根 Twigs and Root [71]_
+   :header-rows: 1
+
+   * - 【枝與根】
+
+     - Twigs and Root
+
+   * - 我們出生的那一刻就已是死亡。我們的生與死是一體的。好像一棵樹，有枝就一定有根，有根也必然會有枝，不可能有此而無彼。
+
+     - As soon as we're born we're dead. Our birth and our death are just on thing. It like a tree. When there are twigs, there must be a root. When there's a root, there must be twigs. You can't have one without the other.
+
+   * - 可笑的是，面對死亡，人們是那麼的傷心悲痛，對於出生卻是那麼歡欣快樂。我想，如果你真的要哭，最好為出生而哭吧！事實上，生就是死，死就是生；根就是枝，枝就是根。如果你要哭，就為根而哭，為生而哭吧！仔細想想，看清楚：如果沒有生，就不會有死。
+
+     - It's a little funny to see how at a death people are so grief-stricken, and at a birth so delighted. I think if you really want to cry, then it would be better to do so when someone's born, for actually firth is death, death is birth; the root is the twig, the twig is the root. If you've got to cry, cry at the root, cry at the birth. Look closely and see that if there were no birth, there would be no death.
+
+----
+
+未去殼的米 Unthreshed Rice
+++++++++++++++++++++++++++
+
+.. list-table:: 未去殼的米 Unthreshed Rice [72]_
+   :header-rows: 1
+
+   * - 【未去殼的米】
+
+     - Unthreshed Rice
+
+   * - 學習佛法的人若沒有深入瞭解其真實的涵義，就有如一條睡在一堆尚未去殼的稻米上的狗。當牠飢餓的時候，牠會從那堆稻米上跳下來，尋找散落於四處的事物。雖然牠就睡在食物的上面，但自己卻毫不知情，這是為什麼呢？因為牠見不著米。狗不能吃未去殼的米，食物就在牠腳下，但牠卻不能吃，因為牠不知道那就是米。牠可能很久都找不到可以吃的東西，甚至致死……在那堆稻米上。眾生便是如此。不論我們學了多少佛法，如果沒有實踐，我們就見不到法；如果我們見不到法，便不知法是什麼。
+
+     - People who study the Dhamma without penetrating to its true meaning are just like a dog sleeping on a pile of unthreshed rice. When it's hungry, it bounds off the pile of rice grain and runs off looking for scraps of food. Even though it's sleeping right on top of a pile of food, it doesn't know that. Why? Because it can't see the rice. Dogs can't eat unthreshed rice. The food is there but the dog can't eat it. It doesn't know the rice. It might not be able to find anything to eat for a long time, and it may even die . . . right on top of that pile of rice! People are like this. No matter how much we study the Dhamma, we won't see it if we don't practice. If we don't see it, then we won't know it.
+
+----
+
+水牛 Water Buffalo
+++++++++++++++++++
+
+.. list-table:: 水牛 Water Buffalo [73]_
+   :header-rows: 1
+
+   * - 【水牛】
+
+     - Water Buffalo
+
+   * - 佛陀確實教導真理，如果你仔細思惟，其實是無法與佛陀爭辯的。然而眾生卻如水牛一般，四肢若非緊緊地被綁住，牠不會乖乖服藥。一旦被綁住無法行動時，哈！現在，如果你願意，就可以無後顧之憂地畏牠吃藥，而牠卻無法反抗。至此，牠便會投降了。我們眾生也是如此，唯有當我們全然地被束縛於痛苦，以至無法掙脫時，我們才會放下我們的無明。如果我們仍有餘力掙脫時，就會不肯輕易放棄。
+
+     - The Buddha really taught the truth. If you contemplate it, there is nowhere you can argue with him. But we people are like a buffalo. If it's not tied down by all four legs, it'll not let itself be given any medicine. If tied down and it can do anything --aha! - now if you want to, you can go ahead and give it medicine and it can't struggle away. At this extent it will give up. We people are similar. Only when we are completely bound up in suffering will we let go of our delusions. If we can still struggle away, we will not give up very easily.
+
+----
+
+野雞 Wild Chickens
+++++++++++++++++++
+
+.. list-table:: 野雞 Wild Chickens [74]_
+   :header-rows: 1
+
+   * - 【野雞】
+
+     - Wild Chickens
+
+   * - 只要真實的智慧還沒顯發出來，我們會一直把感官和它們所接觸的外境視為敵人；一旦真實的智慧現起，無論如何，我們就不再視它們為敵人了，反而成為引領我們進入內觀和清明知見的門戶。
+
+     - As long as true wisdom hasn't yet arisen, we still see the senses and their objects as our enemies. But once true wisdom arises we no longer see them as such. They become the doorway to insight and clear understanding.
+
+   * - 最好的例子就是住在森林裡的野雞。我們都知道，牠們非常懼怕人類。自從我在森林裡居住以來，我在教導牠們的同時，也從牠們身上學習到很多東西。剛開始我撒一些米給牠們吃，起初牠們很害怕，所以不敢接近米，但不久之後，牠們漸漸習慣了，而且也開始期待。牠們原先以為米是危險的敵人。事實上，米並沒有危險性，因為牠們並不瞭解米是食物，所以會害怕。當牠們最後知道沒有什麼好懼怕之後，便毫無顧慮的吃起來了。野雞是在這種方式下很自然地學習。
+
+     - A good example is the wild chickens in the forest. We all know how much they fear humans. Yet since I've lived in the forest, I've been able to teach them and learn from them too. I began by throwing them rice to eat. At first they were afraid and wouldn't go near the rice. But after a while they got used to it and even began to expect it. They first thought the rice was a dangerous enemy. But there was no danger in the rice. They just didn't know the rice was food, so they were afraid. When they finally saw there was nothing to fear, they could come and eat peacefully. Wild chickens learn naturally like this.
+
+   * - 住在森林裡，我們也要以同樣的方式來學習。以前我們認為我們的感官是問題所在，因為我們還無知於如何正確地利用它們，於是給我們造成許多麻煩。但是藉由修行的經驗，我們學習如實地了知它們。我們學習如何利用感官，正如野雞吃米一樣。那麼，感官就不會再與我們作對，問題自然也就沒有了。
+
+     - Living here in the forest, we learn in the same way. Before, we thought our senses were a problem, and because we thought our senses were a problem, and because we didn't know how to use them properly, they were troublesome. Through experience in practice, however, we learn to se them according to the Truth. We learn to use them, just as the chickens did with the rice. Then they're no longer against us and problems disappear.
+
+----
+
+滿園子的動物 Yard Full of Animals
++++++++++++++++++++++++++++++++++
+
+.. list-table:: 滿園子的動物 Yard Full of Animals [75]_
+   :header-rows: 1
+
+   * - 【滿園子的動物】
+
+     - Yard Full of Animals
+
+   * - 人們總會認為西方人住在阿姜查的寺院裡，語言上一定是個問題，但事實卻不然。有一次有人來問阿姜查：「您是如何教導那些外國弟子的呢？您會說英語、法語嗎？還是會說日語或德語呢？」
+
+     - People often presume there would be a problem with language for the Westerners who wanted to stay at Ajahn Chah's monastery, but this was not the case. Someone once asked Ajahn Chah, "How do you teach all your Western disciples? Do you speak English or French? Do you speak Japanese or German?"
+
+   * - 「不會！」阿姜 查回答。
+
+     - "No," replied Ajahn Chah.
+
+   * - 「那他們怎麼辦？」這個人問。
+
+     - "Then how do they manage?" he asked.
+
+   * - 「這位居士啊！」阿姜 查問：「你的家園子裡有水牛嗎？」
+
+     - "Do you have water-buffalos in your yard at home?"
+
+   * - 「有的。」他回答。
+
+     - "Yes, I do."
+
+   * - 「你有沒有牛，或狗、雞等……？」
+
+     - "Do you have any cows, or dogs, or chickens?"
+
+   * - 「有啊！」他回答。
+
+     - "Yes, I have them, too," was the reply.
+
+   * - 「那請你告訴我，」阿姜 查問道：「你會說水牛的話嗎？你會說牛的話嗎？」
+
+     - "Tell me," Ajahn Chah asked, "do you speak Water-buffalo or Cow?"
+
+   * - 「我不會啊！」
+
+     - "No, of course not."
+
+   * - 「很好，那牠們怎麼辦呢？」
+
+     - "Well, how do you manage then?"
+
+----
+
 轉錄來源：
 
 .. [1] `森林里的一棵树 序言 A Tree in a Forest - Introduction - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104825>`_
@@ -1561,3 +1725,17 @@
 .. [67] `陷阱 Trap - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104759>`_
 
 .. [68] `旅行家 Traveler - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104758>`_
+
+.. [69] `树 Trees - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104757>`_
+
+.. [70] `乌龟 Turtle - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104756>`_
+
+.. [71] `枝与根 Twigs and Root - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104755>`_
+
+.. [72] `未去壳的米 Unthreshed Rice - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104754>`_
+
+.. [73] `水牛 Water Buffalo - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104753>`_
+
+.. [74] `野鸡 Wild Chickens - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104752>`_
+
+.. [75] `满园子的动物 Yard Full of Animals - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104751>`_
