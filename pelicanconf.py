@@ -62,7 +62,13 @@ I18N_SUBSITES = {
     'LOCALE': 'zh_TW.UTF-8',
     'META_KEYWORDS': 'Web開發, Python, SCSS, 部落格',
     'META_DESCRIPTION': '我的部落格及分享',
-  }
+  },
+  'th': {
+    'SITENAME': 'ทฤษฎีและการปฏิบัติ',
+    'AUTHOR': 'ฉ่ง-หวี',
+    'LOCALE': 'th_TH.UTF-8',
+    'META_KEYWORDS': 'ภาษาบาลีสวดมนต์',
+  },
 }
 I18N_UNTRANSLATED_ARTICLES = 'remove'
 

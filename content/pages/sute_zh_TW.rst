@@ -6,7 +6,7 @@
 :status: hidden
 
 
-**戴上為** (**Siong-Ui Te**)
+**戴上為** (**Siong-Ui Te**, **ฉ่ง-หวี**)
 
 出身: `高雄 <http://zh.wikipedia.org/zh-tw/%E9%AB%98%E9%9B%84>`_,
 `臺灣 <http://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3>`_

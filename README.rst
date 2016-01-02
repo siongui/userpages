@@ -48,6 +48,14 @@ First-time Setup
     $ cd ~/dev/userpages/
     $ make scss
 
+6. Install language packages to add locale:
+
+.. code-block:: bash
+
+    $ sudo apt-get install language-pack-en
+    $ sudo apt-get install language-pack-zh-hant
+    $ sudo apt-get install language-pack-th
+
 
 Daily Development
 -----------------
@@ -74,6 +82,8 @@ References
 ----------
 
 `python - Upgrading all packages with pip - Stack Overflow <http://stackoverflow.com/questions/2720014/upgrading-all-packages-with-pip>`_
+
+`How do I add locale to ubuntu server? - Ask Ubuntu <http://askubuntu.com/questions/76013/how-do-i-add-locale-to-ubuntu-server>`_
 
 `Online reStructuredText editor <http://rst.ninjs.org/>`_
 

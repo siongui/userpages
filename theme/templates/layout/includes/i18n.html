@@ -13,6 +13,18 @@
     {%- else -%}
       {{ string }}
     {%- endif -%}
+  {%- elif lang == 'th' -%}
+    {%- if string == 'Archives' -%} สารบรรณ
+    {%- elif string == 'Categories' -%} ประเภท
+    {%- elif string == 'Category' -%} ประเภท
+    {%- elif string == 'Authors' -%} ผู้เขียน
+    {%- elif string == 'Author' -%} ผู้เขียน
+    {%- elif string == 'Tags' -%} แท็ก
+    {%- elif string == 'Translation(s)' -%} การแปล
+    {%- elif string == 'Edit on Github' -%} แก้ไขที่ Github
+    {%- else -%}
+      {{ string }}
+    {%- endif -%}
   {%- else -%}
     {{ string }}
   {%- endif -%}
@@ -21,6 +33,7 @@
 {% macro lang_code2name(code)  %}
   {%- if   code == 'en'    -%}   English
   {%- elif code == 'zh'    -%}   中文
+  {%- elif code == 'th'    -%}   ไทย
   {%- elif code == 'zh_TW' -%}   中文 (繁體)
   {%- elif code == 'zh_CN' -%}   中文 (简体)
   {%- else -%}{{ code }}{%- endif -%}

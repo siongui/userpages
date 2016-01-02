@@ -6,7 +6,7 @@
 :status: hidden
 
 
-**Siong-Ui Te** (**戴上為**)
+**Siong-Ui Te** (**戴上為**, **ฉ่ง-หวี**)
 
 Location: `Kaohsiung <http://en.wikipedia.org/wiki/Kaohsiung>`_,
 `Taiwan <http://en.wikipedia.org/wiki/Taiwan>`_

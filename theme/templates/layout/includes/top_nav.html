@@ -15,6 +15,7 @@
         <a href="{{ SITEURL }}/{{ AUTHORS_URL | default('authors.html') }}">{{ gettext('Authors', DEFAULT_LANG) }}</a>
         <span><a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/">English</a></span>
         <span><a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/zh/">傳統中文</a></span>
+        <span><a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/th/">ไทย</a></span>
       </div>
     </div>
     <header><h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1></header>
@@ -36,5 +37,6 @@
 --><div class="nav-lang-select hidden-xs">
     <a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/">[English]</a>&nbsp;
     <a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/zh/">[傳統中文]</a>
+    <a href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/th/">[ไทย]</a>
   </div>
 </nav>
