@@ -1268,6 +1268,162 @@
 
 ----
 
+蜘蛛 Spider
++++++++++++
+
+.. list-table:: 蜘蛛 Spider [61]_
+   :header-rows: 1
+
+   * - 【蜘蛛】
+
+     - Spider
+
+   * - 像這樣觀察一隻蜘蛛，可以令人生起智慧。蜘蛛會在任何一個適當的角落結網，然後守在中央，靜靜地不動聲色。不久，一隻蒼蠅飛到牠的網上，當他一觸動了網，「碰！」一聲，蜘蛛迅速地撲過去，用絲把牠綁住，牠會把昆蟲貯藏起來，然後再回來，不動聲色的守候在它的網中央。
+
+     - Watching a spider can give rise to wisdom. A spider spins its webs in any convenient niche and then sits in the center, staying still. Later a fly comes along and lands on its web. As soon as the fly touches and shakes the web - boop! ' the spider pounces on it and winds it up in thread. It stores the insect away and then returns again to collect itself silently in the center of its web.
+
+   * - 這與我們的心是一樣的。我們的心可喻為蜘蛛，我們的情緒和法塵可以觀察各種昆蟲。心常被各種環繞的感官所刺激，當根、塵接觸時，迅速地傳達給心識，經由心識徹底的審視和檢查之後，又回到中央來。「回到中央」，意思是住於正念和正知，經常地保持警覺，並正確、精密地做每一件事——這就是我們的中心。事實上，我們不須大費周章，只要照著這個方法小心地生活就夠了。但並不是要我們漫不經心地生活，認為「沒有必要禪坐或行禪！」因而忘記了所有的修行。我們不能掉以輕心，我們必須保持警覺，就像蜘蛛守候獵物一般。這就是我們要安住的方法——保持警覺，謹慎的行止，時時以智慧覺知。
+
+     - This is not at all different from our own minds. Our mind is comparable to the spider, and our moods and mental impressions to the various insects. The senses constantly stimulate the mind. When any of them contacts something, it immediately reaches the mind. The mind then investigates and examines it thoroughly, after which it returns to the center. "Coming to the center" means living mindfully with clear comprehension, being always alert and doing everything with precision - this is our center. There's really not a lot for us to do. We just carefully live in this way. But that doesn't mean that we live heedlessly thinking, "No need to do sitting or walking meditation!" and so forget all about our practice. We can't be careless. We must remain alert like the spider waiting to snatch up insects for its food. This is how we abide - alert, acting with precision and always mindfully comprehending with wisdom.
+
+----
+
+靜止的流水 Still, Flowing Water
++++++++++++++++++++++++++++++++
+
+.. list-table:: 靜止的流水 Still, Flowing Water [62]_
+   :header-rows: 1
+
+   * - 【靜止的流水】
+
+     - Still, Flowing Water
+
+   * - 你曾經看過流動的水嗎？你曾經看過靜止的水嗎？如果你的心是平靜的，就會像靜止的流水一般。你看過靜止的流水嗎？你看！你祗看過流動的水或靜止的水，是不是？當你的心平靜時，就可以開啟智慧。你的心將如流動的水，但卻是靜止的。心幾乎完全靜止，不過，卻依然在流動。所以，我稱它做「靜止的流水」。
+
+     - Have you ever seen flowing water? Have you ever seen still water? If your mind is peaceful, it will be just like still, flowing water. Have you ever seen still, flowing water? There! You've only seen flowing water or still water haven't you? When your mind is peaceful, you can develop wisdom. Your mind will be like flowing water, and yet still, It's almost as if it were still, and yet it's flowing. So I call it "still, flowing water." Wisdom can arise here.
+
+----
+
+香甜的水果 Sweet Fruit
+++++++++++++++++++++++
+
+.. list-table:: 香甜的水果 Sweet Fruit [63]_
+   :header-rows: 1
+
+   * - 【香甜的水果】
+
+     - Sweet Fruit
+
+   * - 即使是一顆香甜可口的水果，在我們要知道它的味道如何之前，必須先嘗試它，即使不曾有人嘗過那顆水果，它還是依然香甜可口，只是沒人知曉而已。佛陀的法也是如此。縱然是真理，對那些全然不知的人而言，卻非真實。不論佛法有多完美、多優越，對他們而言，都是無用。
+
+     - Even though a fruit is sweet, we must first taste it before we know what its taste is like. Yet, that fruit, even though no one tastes it, is still sweet. But nobody knows it. The Dhamma of the Buddha is like this. Even though it's the truth, it isn't true for those who don't really know it. No matter how excellent or fine it may be, it is worthless to them.
+
+----
+
+熱水瓶 Thermos Bottle
++++++++++++++++++++++
+
+.. list-table:: 熱水瓶 Thermos Bottle [64]_
+   :header-rows: 1
+
+   * - 【熱水瓶】
+
+     - Thermos Bottle
+
+   * - 讀讀你自己，而不是書。真理並不在外。那不過是記憶，而非智慧。沒有智慧的智識(記憶)，如同空的熱水瓶——假若你不倒水進去，也等於無用。
+
+     - Read yourself, not books. Truth isn't outside. That's only memory, not wisdom. Memory without wisdom is like an empty thermos bottle - if you don't fill it, it's useless.
+
+----
+
+口渴的人 Thirsty Man
+++++++++++++++++++++
+
+.. list-table:: 口渴的人 Thirsty Man [65]_
+   :header-rows: 1
+
+   * - 【口渴的人】
+
+     - Thirsty Man
+
+   * - 有一個人走在路上，漫長的旅程使他口渴得想要喝水。他在路邊停下來求水喝，供水者對他說：「如果你喜歡的話，就喝吧！這水色、香、味俱佳，不過，如果你喝下它，就會生病，甚至病重而死或瀕臨死亡。」這位乾渴的人並沒有聽從勸告，他喝得像一個開過刀被禁水一段時間的病人一樣，為水苦苦地哀求著：「給我水，不管結果會如何痛苦，請讓我喝了再說吧！」於是他舀出一些水來喝，發現味道很不錯，便拚命的喝個夠，不過也病得幾乎要了命。這都緣於他強烈的慾望而無法聽從任何的忠告。
+
+     - A man comes walking along a road. He is very thirsty from his journey and is craving for a drink of water. He stops at a place beside the road and asks for a drink. The owner of the water says, "You can drink this water if you like. The color is good, the smell is good, the taste is good, too, but if you drink it, you will become ill. It'll make you sick enough to die or nearly die." The thirsty man does not listen. He's as thirsty as a person after an operation who has been denied a good drink of water for a while. He's crying for water! So he dips out a bit of water and swallows it down, finding it very tasty. He drinks his fill and gets so sick that he almost dies. He didn't listen to the warning that was given to him because of his overpowering desire.
+
+   * - 這就是為什麼人會被感官快樂所繫縛一樣。佛陀說它們都是毒，但因為他太「渴」了，所以聽不進去。他啜飲色、聲、香、味、觸、法，更何況它們都非常甘美，所以他喝個不停，結果很快地喝上癮了，一直到死為止。
+
+     - This is how it is for a person caught in the pleasures of the senses. The Buddha taught that they are poisonous but he is thirsty and so he doesn't listen. He drinks in sights, sounds, smells, tastes, tactile sensations and mind-objects and they are all delicious. So he drinks without stopping, and there he remains stuck fast until the day he dies.
+
+----
+
+刺 Thorn
+++++++++
+
+.. list-table:: 刺 Thorn [66]_
+   :header-rows: 1
+
+   * - 【刺】
+
+     - Thorn
+
+   * - 一切的事物都只是事物，它們不會給任何人帶來痛苦。例如一根非常銳利的刺，它會給你帶來痛苦嗎？不，它只是一根刺，它不會主動去遭惹任何人，但是，如果你去站在它上面，你就痛苦了。為什麼會痛苦呢？因為你的腳踩上了刺。刺只管它自己的事，它不會傷害任何人，會痛，是我們自己一手造成的。色、受、想、行、識……，世上的一切事物都只是事物，是我們自己去遭惹它們。如果我們攻擊它們，它們會反擊回來；如果不去幹擾它們，它們也不會來干擾任何人。只有醉漢才會去找它們的麻煩。
+
+     - All things are just as they are. They don't cause suffering to anybody. It's just like a thorn, a really sharp thorn. Does it make you suffer? No, it's just a thorn. It doesn't bother anybody. But if you go and stand on it, you'll suffer. Why is there suffering? Because you stepped on the thorn. The thorn is just minding its own business. It doesn't harm anybody. It's because of we ourselves that there's pain. Form, feeling, perception, volition, consciousness . . . all the things in this world are simply as they are. It's we who pick fights with them. And if we hit them, they hit us back. IF they're left alone, they won't bother anybody. Only the drunkard gives them trouble.
+
+----
+
+陷阱 Trap
++++++++++
+
+.. list-table:: 陷阱 Trap [67]_
+   :header-rows: 1
+
+   * - 【陷阱】
+
+     - Trap
+
+   * - 佛陀說，我們的感官對像(外塵)是陷阱——魔王的陷阱。它是一個獵人的圈套，而獵人就是魔王。
+
+     - The Buddha taught that the objects of the senses are a trap, a trap of Mara's. It is a hunter's trap and the hunter is Mara.
+
+   * - 如果動物掉進獵人的陷阱裡，那種情形是很悲殘的。他們深陷其中動彈不得，無助地等待設陷者的處置。你捕過小鳥嗎？當陷阱一觸發，「碰！」馬上被捕獲！強韌的陷阱很快地抓住了牠。這時，不管鳥兒怎麼飛，也無法逃脫出網。牠慌亂地到處亂飛，但是卻緊緊地被綁著。最後，只有等待設網的人前來。當獵人來時，鳥兒惶恐地就擒，無處可逃！
+
+     - If animals are caught in a hunter's trap, it's a sorrowful predicament. They are caught fast and are held waiting for the owner of the trap. Have you ever snared birds? The snare springs and - boop! - caught by the neck! A good strong string holds it fast. Wherever the bird flies, it cannot escape. It flies here and flies there, but it's held tight, waiting for the owner of the snare to come. When the hunter comes along, that's it! The bird is struck with fear and there is no escape.
+
+   * - 色、聲、香、味、觸、法的陷阱也是一樣。它們逮到我們。而且緊緊地綁住我們。
+
+     - The trap of sights, sounds, smells, tastes, touch and mind-objects is the same. They catch us and bind us fast.
+
+----
+
+旅行家 Traveler
++++++++++++++++
+
+.. list-table:: 旅行家 Traveler [68]_
+   :header-rows: 1
+
+   * - 【旅行家】
+
+     - Traveler
+
+   * - 理所當然地，想返回家鄉的人，絕不會是那些光坐著空想旅途的人，他們必須實際地一步一步歷經整個過程，而且要依循正確的方向，最後才能抵返家門。如果一不小心誤入歧途，可能會碰到像沼澤或其他難以克服的困境或險境，因而永遠也回不了家。
+
+     - Naturally people who wish to reach their home are not those who merely sit and think about traveling. They must actually undertake the process of traveling step by step, and in the right direction as well, in order to finally reach home. If they take the wrong path, they may eventually run into difficulties, such as swamps or other obstacles, which are hard to get around. Or they may run into dangerous situations and thereby possibly never reach home.
+
+   * - 回到家的人便可以放輕鬆，然後舒舒服服的睡一覺。家，是能予身心舒適的地方。而今，他們真正回到家了，然而，假使這旅者只是路過家門，或僅在家周圍環繞，那麼，他這一路的返家旅途，等於白費。
+
+     - Those who reach home can relax and sleep comfortably. Home is a place of comfort. But if the traveler only passed by the front of his home or only walked around it, he would not receive any benefit from having traveled all the way home.
+
+   * - 同樣的道理，走往契達佛法的路上，必須靠我們每一個人親自實踐才行，因為，除了你自己以外，沒有人能夠替代你。此外，我們必須沿著戒、定、慧行去，直到我們發現心中的清淨、光明、寧靜的福澤，這便是行旅在道上的果實。
+
+     - In the same way, walking the path to reach the Buddha-Dhamma is something each one of us must do individually ourselves, for no one can do it for us. And we must travel along the proper path of morality, concentration and wisdom until we find the blessings of purity, radiance and peacefulness of mind that are the fruits of traveling the path.
+
+   * - 但是，假使一個人僅僅擁有書本及經典上的知識，那也只是旅遊上對地圖或計畫的知識罷了！縱使幾百年過後，永遠也不知曉心的清淨、光明和寧靜，這都只在浪費時間而已。永遠得不到修行帶來的真實利益。老師，是指出道路的人，聽取老師的教誨之後，無論我們是否要修行走這條路，以及而後所得的修行成果，完全取決於我們自己。
+
+     - However if one only has knowledge of books, sermons, and sutras, that is, only knowledge of the map or plans for the journey, even in hundreds of lifetimes one will never know purity, radiance and peacefulness of mind. Instead one will just waste time and never get to the real benefits of practice. Teachers are those who point out the direction of the Path. After listening to the teachers, whether or not we walk the Path by practicing ourselves, and thereby reap the fruits of practice, is strictly up to each one of us.
+
+----
+
 轉錄來源：
 
 .. [1] `森林里的一棵树 序言 A Tree in a Forest - Introduction - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104825>`_
@@ -1389,3 +1545,19 @@
 .. [59] `锐利的刀 Sharp Knife - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104767>`_
 
 .. [60] `蛇 Snake - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104766>`_
+
+.. [61] `蜘蛛 Spider - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104765>`_
+
+.. [62] `静止的流水 Still, Flowing Water - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104764>`_
+
+.. [63] `香甜的水果 Sweet Fruit - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104763>`_
+
+.. [64] `热水瓶 Thermos Bottle - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104762>`_
+
+.. [65] `口渴的人 Thirsty Man - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104761>`_
+
+.. [66] `刺 Thorn - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104760>`_
+
+.. [67] `陷阱 Trap - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104759>`_
+
+.. [68] `旅行家 Traveler - 森林里的一棵树 A Tree in a Forest - 显密文库 佛教文集 <http://read.goodweb.cn/news/news_view.asp?newsid=104758>`_
