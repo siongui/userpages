@@ -1,10 +1,11 @@
-[JavaScript] Coversion of Traditional and Simplified Chinese
-############################################################
+[JavaScript] Conversion of Traditional and Simplified Chinese
+#############################################################
 
 :date: 2012-10-03 20:37
-:tags: JavaScript
+:tags: JavaScript, String Manipulation, Conversion of Traditional and Simplified Chinese
 :category: JavaScript
-:summary: JavaScript library `New Tong Wen Tang` for conversion of Traditional and Simplified Chinese.
+:summary: JavaScript library `New Tong Wen Tang` for conversion of Traditional
+          and Simplified Chinese.
 
 
 There is a easy-to-use library for conversion of Traditional and Simplified
@@ -57,3 +58,5 @@ To convert a string *str* from Simplified to Traditional Chinese:
 References:
 
 .. [1] `新同文堂 for Web <http://tongwen.openfoundry.org/web.htm>`_
+
+.. [2] `[Golang] Conversion of Traditional and Simplified Chinese <{filename}../../../2016/01/03/go-conversion-of-traditional-and-simplified-chinese%en.rst>`_
