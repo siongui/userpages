@@ -151,6 +151,8 @@ References:
 
 .. [5] `[JavaScript] Conversion of Traditional and Simplified Chinese <{filename}../../../2012/10/03/javascript-conversion-of-traditional-and-simplified-chinese%en.rst>`_
 
+.. [6] `[Python] Conversion of Traditional and Simplified Chinese <{filename}../../../2016/01/04/python-conversion-of-traditional-and-simplified-chinese%en.rst>`_
+
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

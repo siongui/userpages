@@ -60,3 +60,5 @@ References:
 .. [1] `新同文堂 for Web <http://tongwen.openfoundry.org/web.htm>`_
 
 .. [2] `[Golang] Conversion of Traditional and Simplified Chinese <{filename}../../../2016/01/03/go-conversion-of-traditional-and-simplified-chinese%en.rst>`_
+
+.. [3] `[Python] Conversion of Traditional and Simplified Chinese <{filename}../../../2016/01/04/python-conversion-of-traditional-and-simplified-chinese%en.rst>`_
