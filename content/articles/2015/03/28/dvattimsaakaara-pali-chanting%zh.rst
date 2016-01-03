@@ -1,13 +1,13 @@
-dvattiṃsākāra pāṭha (三十二身分, ท๎วัตติงสาการปาฐะ) - 巴利唸誦
+dvattiṃsākāra pāṭha (三十二身分, ทวัตติงสาการปาฐะ) - 巴利唸誦
 ##############################################################
 
 :date: 2015-03-28 05:58
 :tags: 巴利語
 :category: 巴利唸誦
-:summary: dvattiṃsākāra pāṭha (三十二身分, ท๎วัตติงสาการปาฐะ) - 巴利語唸誦
+:summary: dvattiṃsākāra pāṭha (三十二身分, ทวัตติงสาการปาฐะ) - 巴利語唸誦
 
 
-.. list-table:: dvattiṃsākāra pāṭha (三十二身分, `ท๎วัตติงสาการปาฐะ`_)
+.. list-table:: dvattiṃsākāra pāṭha (三十二身分, `ทวัตติงสาการปาฐะ`_)
    :header-rows: 1
    :class: table-syntax-diff
 
@@ -194,11 +194,11 @@ dvattiṃsākāra pāṭha (三十二身分, ท๎วัตติงสาก�
 
   .. raw:: html
 
-    <iframe width="420" height="315" src="https://www.youtube.com/embed/QC7xZ7W0Nm4" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/QC7xZ7W0Nm4?list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES" frameborder="0" allowfullscreen></iframe>
 
 .. container:: align-center video-container-description
 
-  dvattiṃsākāra pāṭha (三十二身分, `ท๎วัตติงสาการปาฐะ`_)
+  dvattiṃsākāra pāṭha (三十二身分, `ทวัตติงสาการปาฐะ`_)
 
 |
 |
@@ -269,6 +269,8 @@ dvattiṃsākāra pāṭha (三十二身分, ท๎วัตติงสาก�
 
 .. [12] `Asubha bhāvanā ［不浄観］－パーリ語 常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺 <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/paritta/Asubha_Bhavana.htm>`_
 
+.. [13] `อาการ ๓๒ ในร่างกาย ชมรมพุทธ เอไอเอ <http://www.aia.or.th/prayer11.htm>`_
+
 唸誦集：
 
 .. [Chant1] `สวดมนต์วัดหนองป่าพง03 ทำวัตรเช้า ทวัตติงสาการปาฐะ - YouTube <https://www.youtube.com/watch?v=QC7xZ7W0Nm4&list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES&index=3>`__
@@ -305,7 +307,7 @@ dvattiṃsākāra pāṭha (三十二身分, ท๎วัตติงสาก�
 
 
 
-.. _ท๎วัตติงสาการปาฐะ: http://www.aia.or.th/prayer11.htm
+.. _ทวัตติงสาการปาฐะ: http://www.aia.or.th/prayer11.htm
 
 .. _Pali Chants - Forest Meditation: http://forestmeditation.com/audio/audio.html
 
