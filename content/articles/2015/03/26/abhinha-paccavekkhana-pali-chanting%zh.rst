@@ -50,7 +50,7 @@ abhiṇha paccavekkhaṇa pāṭha (經常省察文, อภิณหปัจจ
 
   .. raw:: html
 
-    <iframe width="420" height="315" src="https://www.youtube.com/embed/exgjsitg4jA" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/exgjsitg4jA?list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES" frameborder="0" allowfullscreen></iframe>
 
 .. container:: align-center video-container-description
 
