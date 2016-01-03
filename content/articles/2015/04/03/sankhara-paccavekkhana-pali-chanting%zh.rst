@@ -4,7 +4,7 @@ Saṅkhāra paccavekkhaṇa (因緣和合法之審查, บทพิจารณ�
 :date: 2015-04-03 23:00
 :tags: 巴利語
 :category: 巴利唸誦
-:summary: Saṅkhāra paccavekkhaṇa (因緣和合法之審查, บทพิจารณาสังขาร, Contemplation the Nature of Life) - 巴利語唸誦
+:summary: Saṅkhāra paccavekkhaṇa (因緣和合法之審查, `บทพิจารณาสังขาร`_, Contemplation the Nature of Life) - 巴利語唸誦
 
 
 .. list-table:: Saṅkhāra paccavekkhaṇa (因緣和合法之審查, `บทพิจารณาสังขาร`_, Contemplation the Nature of Life)
@@ -70,7 +70,7 @@ Saṅkhāra paccavekkhaṇa (因緣和合法之審查, บทพิจารณ�
 
   .. raw:: html
 
-    <iframe width="420" height="315" src="https://www.youtube.com/embed/f5cqeW4TKnQ" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/f5cqeW4TKnQ?list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES" frameborder="0" allowfullscreen></iframe>
 
 .. container:: align-center video-container-description
 
@@ -101,13 +101,17 @@ Saṅkhāra paccavekkhaṇa (因緣和合法之審查, บทพิจารณ�
 
 .. [6] `บทพิจารณาสังขาร <http://www.wattongnai.com/600579/%E0%B8%9A%E0%B8%97%E0%B8%9E%E0%B8%B4%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B8%B2%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B8%B2%E0%B8%A3>`__
 
+.. [7] `บทพิจารณาสังขาร ชมรมพุทธ เอไอเอ <http://www.aia.or.th/prayer13.htm>`_
+
 唸誦集：
 
-.. [Chant1] `สวดมนต์วัดหนองป่าพง05 ทำวัตรเช้า บทพิจารณาสังขาร - YouTube <https://www.youtube.com/watch?v=f5cqeW4TKnQ>`_
+.. [Chant1] `สวดมนต์วัดหนองป่าพง05 ทำวัตรเช้า บทพิจารณาสังขาร - YouTube <https://www.youtube.com/watch?v=f5cqeW4TKnQ&index=5&list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES>`__
 
-.. [Chant2] `Sangkhāra-pacca-vekkhana ~ บทพิจารณาสังขาร ~ - YouTube <https://www.youtube.com/watch?v=rqtkxFzr7Tw>`_
+.. [Chant2] `สวดมนต์วัดหนองป่าพง05 ทำวัตรเช้า บทพิจารณาสังขาร - YouTube <https://www.youtube.com/watch?v=TaTDGgZrK80&list=PLkXhPQ5Akl5hfOv9HoyH_m6N-RE49t-td&index=3>`__
 
-.. [Chant3] `บทพิจารณาสังขาร (๒.) - YouTube <https://www.youtube.com/watch?v=T1hEpUDFB2g>`_
+.. [Chant3] `Sangkhāra-pacca-vekkhana ~ บทพิจารณาสังขาร ~ - YouTube <https://www.youtube.com/watch?v=rqtkxFzr7Tw&index=2&list=UUBwidaPERHU1LZXfAVIVU4Q>`_
+
+.. [Chant4] `บทพิจารณาสังขาร (๒.) - YouTube <https://www.youtube.com/watch?v=T1hEpUDFB2g>`_
 
 搜尋：
 
@@ -117,7 +121,7 @@ Saṅkhāra paccavekkhaṇa (因緣和合法之審查, บทพิจารณ�
 
 
 
-.. _บทพิจารณาสังขาร: https://sites.google.com/site/pradhatchedeenoy/bth-swd-phicarna-sangkhar
+.. _บทพิจารณาสังขาร: http://www.aia.or.th/prayer13.htm
 
 .. _Pali Chants - Forest Meditation: http://forestmeditation.com/audio/audio.html
 

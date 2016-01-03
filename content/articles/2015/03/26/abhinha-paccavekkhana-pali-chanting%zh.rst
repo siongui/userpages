@@ -4,7 +4,7 @@ abhiṇha paccavekkhaṇa pāṭha (經常省察文, อภิณหปัจจ
 :date: 2015-03-26 23:12
 :tags: 巴利語
 :category: 巴利唸誦
-:summary: abhiṇha paccavekkhaṇa pāṭha (經常省察文, อภิณหปัจจเวกขณปาฐะ) - 巴利語唸誦
+:summary: abhiṇha paccavekkhaṇa pāṭha (經常省察文, `อภิณหปัจจเวกขณปาฐะ`_) - 巴利語唸誦
 
 
 .. list-table:: abhiṇha paccavekkhaṇa pāṭha (經常省察文, `อภิณหปัจจเวกขณปาฐะ`_)

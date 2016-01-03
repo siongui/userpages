@@ -4,7 +4,7 @@ dvattiṃsākāra pāṭha (三十二身分, ทวัตติงสากา�
 :date: 2015-03-28 05:58
 :tags: 巴利語
 :category: 巴利唸誦
-:summary: dvattiṃsākāra pāṭha (三十二身分, ทวัตติงสาการปาฐะ) - 巴利語唸誦
+:summary: dvattiṃsākāra pāṭha (三十二身分, `ทวัตติงสาการปาฐะ`_) - 巴利語唸誦
 
 
 .. list-table:: dvattiṃsākāra pāṭha (三十二身分, `ทวัตติงสาการปาฐะ`_)
