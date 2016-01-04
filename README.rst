@@ -10,13 +10,12 @@ Development Environment: `Ubuntu 15.10 <http://releases.ubuntu.com/15.10/>`_
 First-time Setup
 ----------------
 
-1. Install `git <http://git-scm.com/>`_, `pip <https://pypi.python.org/pypi/pip>`_, and `virtualenv <http://docs.python-guide.org/en/latest/dev/virtualenvs/>`_:
+1. Install `git <http://git-scm.com/>`_ and `pip <https://pypi.python.org/pypi/pip>`_:
 
 .. code-block:: bash
 
     $ sudo apt-get install git
     $ sudo apt-get install python-pip
-    $ sudo pip install virtualenv
 
 2. git clone source code:
 
@@ -48,7 +47,7 @@ First-time Setup
     $ cd ~/dev/userpages/
     $ make scss
 
-6. Install language packages to add locale:
+6. Install language packages to add locale (English, Traditional Chinese, and Thai):
 
 .. code-block:: bash
 
