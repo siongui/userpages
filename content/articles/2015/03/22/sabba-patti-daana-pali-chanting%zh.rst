@@ -2,9 +2,10 @@ Sabba Pattidāna Gāthā (迴向一切有情偈 สัพพปัตติท�
 ##################################################################
 
 :date: 2015-03-22 04:42
+:modified: 2016-01-05T06:13+08:00
 :tags: 巴利語
 :category: 巴利唸誦
-:summary: Sabba Pattidāna Gāthā (迴向一切有情偈 สัพพปัตติทานคาถา) 巴利語唸誦
+:summary: Sabba Pattidāna Gāthā (迴向一切有情偈 `สัพพปัตติทานคาถา`_) 巴利語唸誦
 
 
 .. list-table:: Sabba Pattidāna Gāthā (迴向一切有情偈 `สัพพปัตติทานคาถา`_)
@@ -66,20 +67,7 @@ Sabba Pattidāna Gāthā (迴向一切有情偈 สัพพปัตติท�
 
   .. raw:: html
 
-    <iframe width="420" height="315" src="https://www.youtube.com/embed/EYQOt-W02U0" frameborder="0" allowfullscreen></iframe>
-
-.. container:: align-center video-container-description
-
-  Sabba Pattidāna Gāthā (迴向一切有情偈 `สัพพปัตติทานคาถา`_)
-
-|
-|
-
-.. container:: align-center video-container
-
-  .. raw:: html
-
-    <iframe width="420" height="315" src="https://www.youtube.com/embed/v7eilMzDohA" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Qh687wHhAyI?list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES" frameborder="0" allowfullscreen></iframe>
 
 .. container:: align-center video-container-description
 
@@ -122,6 +110,25 @@ Sabba Pattidāna Gāthā (迴向一切有情偈 สัพพปัตติท�
 .. [7] `Paritta/Sutta: Dedication of Merit <http://chantingguide.blogspot.com/2014/02/dedicaiton-of-merit.html>`_
 
 .. [8] (巴利唸誦) `37 附錄四.pdf <http://kusala.online-dhamma.net/%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E5%9C%96%E6%9B%B8%E9%A4%A8%20Theravada%20Buddhism%20E-Library/077%20%E8%B3%87%E8%A8%8A/%E7%B7%AC%E7%94%B8%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E7%A6%AA%E4%BF%AE%E8%B3%87%E8%A8%8A/%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E6%B8%85%E5%87%88%E4%B9%8B%E6%97%85/%E5%B8%95%E5%A5%A7%E7%A6%AA%E6%9E%97%E6%B8%85%E5%87%88%E4%B9%8B%E6%97%85%20PDF/37%20%E9%99%84%E9%8C%84%E5%8C%97.pdf>`_
+
+
+唸誦集：
+
+.. [Chant1] `สวดมนต์วัดหนองป่าพง06 ทำวัตรเช้า  สัพพปัตติทานคาถา - YouTube <https://www.youtube.com/watch?v=Qh687wHhAyI&list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES&index=6>`__
+
+.. [Chant2] `สวดมนต์วัดหนองป่าพง06 ทำวัตรเช้า สัพพปัตติทานคาถา - YouTube <https://www.youtube.com/watch?v=efcJO2J99R4&list=PLkXhPQ5Akl5hfOv9HoyH_m6N-RE49t-td&index=2>`__
+
+.. [Chant3] `08 สัพพปัตติทานคาถา - YouTube <https://www.youtube.com/watch?v=EYQOt-W02U0>`_
+
+.. [Chant4] `สัพพปัตติทานคาถา.mp4 - YouTube <https://www.youtube.com/watch?v=v7eilMzDohA>`_
+
+
+搜尋：
+
+.. [Search1] Google Search `สัพพปัตติทานคาถา <https://www.google.com/search?q=%E0%B8%AA%E0%B8%B1%E0%B8%9E%E0%B8%9E%E0%B8%9B%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%96%E0%B8%B2>`__
+
+.. [Search2] DuckDuckGo Search `สัพพปัตติทานคาถา <https://duckduckgo.com/?q=%E0%B8%AA%E0%B8%B1%E0%B8%9E%E0%B8%9E%E0%B8%9B%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%96%E0%B8%B2>`__
+
 
 
 .. _สัพพปัตติทานคาถา: http://www.aia.or.th/prayer14.htm
