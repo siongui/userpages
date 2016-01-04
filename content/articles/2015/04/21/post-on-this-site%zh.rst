@@ -2,7 +2,7 @@
 ##########################
 
 :date: 2015-04-21 19:17
-:modified: 2015-04-24T16:05+08:00
+:modified: 2016-01-05T04:17+08:00
 :tags: Web開發
 :category: Web開發
 :summary: 透過GitHub平台協同撰寫網站
@@ -52,7 +52,7 @@
   - 幾乎可以這樣說：只有想不到，沒有做不到。
 
 本網頁主要的repo是 userpages_, 含網站template以及網站內容都在此。然後透過
-Pelican_ 編譯成整個網站，再上傳到 `siongui.github.io`_ 。
+`Travis CI`_ 自動編譯並上傳到 `siongui.github.io`_ 。
 
 撰寫流程
 ++++++++
@@ -108,8 +108,8 @@ Pelican_ 編譯成整個網站，再上傳到 `siongui.github.io`_ 。
   如何透過GitHub在本站寫文章
   ##########################
 
-  :date: 2015-04-21 19:17
-  :modified: 2015-04-23 20:01
+  :date: 2015-04-21T03:53+08:00
+  :modified: 2016-01-05T04:06+08:00
   :author: 某某某
   :tags: Web開發, CSS, HTML
   :category: Web開發
@@ -173,8 +173,8 @@ rst_ 格式怎樣寫可參考 [1]_ ，至於用LaTeX寫數學，可看 [2]_ 。
     [Math] The infamous Grasshopper problem
     #######################################
 
-- userpages_ 更改後，網站並不會更改，必須要 Pelican_ 把 userpages
-  編譯成網站 HTML，然後更新對應的 `siongui.github.io`_ 內容。
+- userpages_ 更改(commit並push到GitHub上)後， `Travis CI`_ 會自動編譯
+  並更新 `siongui.github.io`_ 內容。
 
 
 SEO以及Facebook分享
@@ -208,35 +208,8 @@ Windows平台理論上應該也可以將整個網站編譯出來並預覽，但�
 更新網站( https://siongui.github.io/ )
 ++++++++++++++++++++++++++++++++++++++
 
-假設 userpages_ 跟 `siongui.github.io`_ 都被 git clone 到同一個目錄
-( *~/dev/* )下，接著照著 README_ 裡的 First-time Setup，將環境架起來。
-
-聯絡站主，站主將該帳號加為 `siongui.github.io`_ 的 collaborator。
-
-當修改好後，預覽OK後，將內容publish到網站上：
-
-.. code-block:: bash
-
-  # generate website to be published
-  $ cd ~/dev/userpages/
-  $ make publish
-  # after make publish, the website to be published is located at
-  # ~/dev/userpages/output/ by default.
-  # enter website repo
-  $ cd ~/dev/siongui.github.io/
-  # remove all content
-  $ git rm -rf *
-  # copy new website here
-  $ cp -r ~/dev/userpages/output/* .
-  # git add the whole website
-  $ git add .
-  # (optional) see what has been changed
-  $ git status
-  # if everything looks fine, commit
-  $ git commit -m "YOUR_COMMIT_MESSAGE"
-  # push to GitHub repo
-  $ git push
-  # enter your username and password. Done.
+只要將 userpages_ 的新commit從本機push到GitHub上， `Travis CI`_ 會
+自動編譯並更新 `siongui.github.io`_ 內容，不需要手動操作。
 
 ----
 
@@ -310,3 +283,4 @@ Vim開發環境：
 .. _Sublime Text: http://www.sublimetext.com/
 .. _OmniMarkupPreviewer: https://github.com/timonwong/OmniMarkupPreviewer
 .. _README: https://github.com/siongui/userpages/blob/master/README.rst
+.. _Travis CI: https://travis-ci.org/
