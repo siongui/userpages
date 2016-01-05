@@ -4,7 +4,7 @@ Khemākhema Saraṇa (安穩、非安穩皈依偈, เขมาเขมสร�
 :date: 2015-04-02 23:23
 :tags: 巴利語
 :category: 巴利唸誦
-:summary: Khemākhema Saraṇa (安穩、非安穩皈依偈, เขมาเขมสรณทีปิกคาถา, Secure & Unsecure Refuge) - 巴利語唸誦
+:summary: Khemākhema Saraṇa (安穩、非安穩皈依偈, `เขมาเขมสรณทีปิกคาถา`_, Secure & Unsecure Refuge) - 巴利語唸誦
 
 
 .. list-table:: Khemākhema Saraṇa (安穩、非安穩皈依偈, `เขมาเขมสรณทีปิกคาถา`_, Secure & Unsecure Refuge)
@@ -102,7 +102,7 @@ Khemākhema Saraṇa (安穩、非安穩皈依偈, เขมาเขมสร�
 
   .. raw:: html
 
-    <iframe width="420" height="315" src="https://www.youtube.com/embed/601Tu3fBl4s" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/601Tu3fBl4s?list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES" frameborder="0" allowfullscreen></iframe>
 
 .. container:: align-center video-container-description
 
@@ -142,6 +142,9 @@ Khemākhema Saraṇa (安穩、非安穩皈依偈, เขมาเขมสร�
 .. [8] `Pali Chanting : Bahuṃ ve saraṇaṃ yanti <http://4palichant101.blogspot.com/2013/01/bahum-ve-saranam-yanti.html>`_
 
 .. [9] `khemākhemasaraṇagamanaparidīpikāgāthā (MP50) | Буддизм Тхеравады в Москве <http://www.theravada.su/node/890>`_
+
+.. [10] `เขมาเขมสรณทีปิกคาถา <http://www.aia.or.th/prayer32.htm>`__
+
 
 唸誦集：
 
