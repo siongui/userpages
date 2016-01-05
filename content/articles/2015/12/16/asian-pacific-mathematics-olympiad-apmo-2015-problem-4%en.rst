@@ -5,13 +5,13 @@
 :author: Shen-Fu Tsai
 :tags: Math
 :category: Math
-:summary: `Asian Pacific Mathematics Olympiad`_ (APMO) 2015_ Problem 6
+:summary: `Asian Pacific Mathematics Olympiad`_ (APMO) 2015_ Problem 4
 
 
-Given `n` blue lines and `n` red lines in the plane such that no two lines are
-parallel to each other, show that there is a circle that intersects with the set
-of blue lines in exactly `2n-1` points, and intersects with the set of red lines
-in exactly `2n-1` points.
+Given :math:`n` blue lines and :math:`n` red lines in the plane such that no two
+lines are parallel to each other, show that there is a circle that intersects
+with the set of blue lines in exactly :math:`2n-1` points, and intersects with
+the set of red lines in exactly :math:`2n-1` points.
 
 
 Proof:
@@ -20,8 +20,9 @@ Proof:
 We will prove a more specific condition, that there exists a circle such that
 for each color, is tangential to one line and intersects with the rest at two
 points each. The intuition is to find a red and blue line that "bundle" the rest
-of `2n-2` lines, then a circle big enough and tangential to both this red and
-blue line indeed intersects the rest of `2n-2` lines at two points each.
+of :math:`2n-2` lines, then a circle big enough and tangential to both this red
+and blue line indeed intersects the rest of :math:`2n-2` lines at two points
+each.
 
 To find such two lines, it suffices to take the blue and red lines that span the
 largest angle between them. Even these two lines may not be unique, it is not
