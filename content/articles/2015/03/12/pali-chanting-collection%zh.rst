@@ -2,7 +2,7 @@ Pali Chanting Collection 巴利唸誦整理
 #####################################
 
 :date: 2015-03-12 05:11
-:modified: 2015-05-21T02:56+08:00
+:modified: 2016-01-06T03:37+08:00
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: Collection of online Pāli chanting resources
@@ -103,6 +103,8 @@ Gātha_ (偈頌)
 - `Sumaṅgala Gāthā (善吉祥偈, Verses Of Excellent Blessing, ภะวะตุสัพ) - 巴利唸誦 <{filename}../../04/11/sumangala-gaathaa-pali-chanting%zh.rst>`_
 
 - `Devatāuyyojana Gāthā (歡送諸天神偈, เทวตาอุยโยชนคาถา, Verses on Sending Off the Devatā) - 巴利唸誦 <{filename}../../04/12/devataauyyojana-gaathaa-pali-chanting%zh.rst>`_
+
+- `cūla-jaya-maṅgala-gāthā (小勝利吉祥偈 จุลชัยยะมงคลคาถา) - 巴利唸誦 <{filename}../../../2016/01/06/cuula-jaya-mangala-gaathaa-pali-chanting%zh.rst>`_
 
 
 Paritta_ (護衛經)
