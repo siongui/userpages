@@ -5,7 +5,7 @@
 :author: Shen-Fu Tsai
 :tags: Math
 :category: Math
-:summary: `Asian Pacific Mathematics Olympiad`_ (APMO) 2015_ Problem 4
+:summary: `Asian Pacific Mathematics Olympiad`_ (APMO_) 2015_ Problem 4
 
 
 Given :math:`n` blue lines and :math:`n` red lines in the plane such that no two
@@ -45,4 +45,5 @@ References:
 
 
 .. _Asian Pacific Mathematics Olympiad: https://cms.math.ca/Competitions/APMO/
+.. _APMO: https://cms.math.ca/Competitions/APMO/
 .. _2015: https://cms.math.ca/Competitions/APMO/exam/apmo2015.pdf

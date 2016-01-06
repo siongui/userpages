@@ -1,13 +1,13 @@
-[Math] IMO 2015 Problem 6
-###########################
+[Math] International Mathematical Olympiad (IMO) 2015 Problem 6
+###############################################################
 
 :date: 2015-07-23T19:00-08:00
 :author: Shen-Fu Tsai
 :tags: Math
 :category: Math
-:summary: IMO 2015 Problem 6
+:summary: `International Mathematical Olympiad`_ (IMO_) 2015 Problem 6
 
-Working on Problem 6 of IMO 2015 was like playing a game. It is interesting in the sense that not too much advanced skill is required, but the involved visual thinking and the pursuit of the nature of seemingly simple yet complicated things made the experience enjoyable.
+Working on Problem 6 of IMO_ 2015 was like playing a game. It is interesting in the sense that not too much advanced skill is required, but the involved visual thinking and the pursuit of the nature of seemingly simple yet complicated things made the experience enjoyable.
 
 
 The problem is:
@@ -86,4 +86,12 @@ The result :math:`b = k + 1` also aligns well with intuition. For large :math:`k
 by
 `Shen-Fu Tsai <{filename}/pages/sftsai.rst>`_
 
+----
 
+References:
+
+.. [1] `International Mathematical Olympiad <https://www.imo-official.org/>`__
+
+
+.. _International Mathematical Olympiad: https://www.imo-official.org/
+.. _IMO: https://www.imo-official.org/

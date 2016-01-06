@@ -1,15 +1,15 @@
-[Math] USAMO 2015 Problem 3
-###########################
+[Math] United States of America Mathematical Olympiad (USAMO) 2015 Problem 3
+############################################################################
 
 :date: 2015-05-11T19:00-08:00
 :author: Shen-Fu Tsai
 :tags: Math
 :category: Math
-:summary: USAMO 2015 Problem 3
+:summary: United States of America Mathematical Olympiad (USAMO_) 2015 Problem 3
 
-As high school math competition gets harder and harder, it becomes notable for me to independently
-solve solve a 3/6 problem at IMO. Given USAMO appears, in my opinion, to be at least as hard as IMO,
-I should write this down.
+As high school math competition gets harder and harder, it becomes notable for
+me to independently solve solve a 3/6 problem at IMO_. Given USAMO_ appears, in
+my opinion, to be at least as hard as IMO_, I should write this down.
 
 Problem: Let :math:`n` be a positive integer. We color each subset of :math:`N=\{1,2,...,n\}` with
 blue or red, including empty set. Given a subset :math:`A` of :math:`N`, let :math:`f(A)` be the
@@ -139,4 +139,15 @@ An example of coloring with :math:`f(\emptyset)=1` when :math:`n=4`. Notation: c
 by
 `Shen-Fu Tsai <{filename}/pages/sftsai.rst>`_
 
+----
 
+References:
+
+.. [1] `USAMO Problems and Solutions <http://www.artofproblemsolving.com/wiki/index.php/USAMO_Problems_and_Solutions>`_
+
+.. [2] `International Mathematical Olympiad <https://www.imo-official.org/>`__
+
+
+.. _International Mathematical Olympiad: https://www.imo-official.org/
+.. _IMO: https://www.imo-official.org/
+.. _USAMO: http://www.maa.org/math-competitions

@@ -1,13 +1,13 @@
-[Math] IMO 2010 Problem 6
-###########################
+[Math] International Mathematical Olympiad (IMO) 2010 Problem 6
+###############################################################
 
 :date: 2015-08-04T19:00-08:00
 :author: Shen-Fu Tsai
 :tags: Math
 :category: Math
-:summary: IMO 2010 Problem 6
+:summary: `International Mathematical Olympiad`_ (IMO_) 2010 Problem 6
 
-This is a problem that I've made a couple of attempts to solve in the past few years. Eventually, perhaps encouraged by recent success of nailing IMO 3/6 problems, it is now solved.
+This is a problem that I've made a couple of attempts to solve in the past few years. Eventually, perhaps encouraged by recent success of nailing IMO_ 3/6 problems, it is now solved.
 
 ===============================================================================
 
@@ -54,3 +54,13 @@ Q.E.D.
 `post <http://oathbystyx.blogspot.com/2015/08/imo-2010-problem-6.html>`_
 by
 `Shen-Fu Tsai <{filename}/pages/sftsai.rst>`_
+
+----
+
+References:
+
+.. [1] `International Mathematical Olympiad <https://www.imo-official.org/>`__
+
+
+.. _International Mathematical Olympiad: https://www.imo-official.org/
+.. _IMO: https://www.imo-official.org/
