@@ -4,7 +4,7 @@ Ariya dhana gāthā (聖財偈, อะริยะธะนะคาถา, Nobl
 :date: 2015-04-04 02:12
 :tags: 巴利語
 :category: 巴利唸誦
-:summary: Ariyadhanagāthā (聖財偈, อะริยะธะนะคาถา, Noble Wealth) - 巴利語唸誦
+:summary: Ariyadhanagāthā (聖財偈, `อะริยะธะนะคาถา`_, Noble Wealth) - 巴利語唸誦
 
 
 .. list-table:: Ariya dhana gāthā (聖財偈, `อะริยะธะนะคาถา`_, Noble Wealth)
@@ -45,7 +45,7 @@ Ariya dhana gāthā (聖財偈, อะริยะธะนะคาถา, Nobl
 
   .. raw:: html
 
-    <iframe width="420" height="315" src="https://www.youtube.com/embed/WUk_udRNFC8" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/BwRHUCVjNFE?list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES" frameborder="0" allowfullscreen></iframe>
 
 .. container:: align-center video-container-description
 
@@ -113,6 +113,9 @@ Ariya dhana gāthā (聖財偈, อะริยะธะนะคาถา, Nobl
 .. [10] `บทสวดอริยธนคาถา - ห้องสวดมนต์ออนไลน์ <https://sites.google.com/site/pradhatchedeenoy/bth-swd-xriy-thn-khatha>`_
 
 .. [11] `อะริยะธะนะคาถา <http://www.wattongnai.com/602945/%E0%B8%AD%E0%B8%B0%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%98%E0%B8%B0%E0%B8%99%E0%B8%B0%E0%B8%84%E0%B8%B2%E0%B8%96%E0%B8%B2>`__
+
+.. [12] `อริยธนคาถา <http://www.aia.or.th/prayer33.htm>`_
+
 
 唸誦集：
 
