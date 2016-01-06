@@ -4,7 +4,7 @@ Tilakkhaṇādi Gāthā (三相等偈, ติลักขณาทิคาถ�
 :date: 2015-04-05 08:46
 :tags: 巴利語
 :category: 巴利唸誦
-:summary: Tilakkhaṇādi Gāthā (三相等偈, ติลักขณาทิคาถา, The Three Characteristics) - 巴利語唸誦
+:summary: Tilakkhaṇādi Gāthā (三相等偈, `ติลักขณาทิคาถา`_, The Three Characteristics) - 巴利語唸誦
 
 
 .. list-table:: Tilakkhaṇādi Gāthā (三相等偈, `ติลักขณาทิคาถา`_, The Three Characteristics)
@@ -195,6 +195,11 @@ Tilakkhaṇādi Gāthā (三相等偈, ติลักขณาทิคาถ�
 
 .. [13] `ติลักขะณาทิคาถา <http://www.wattongnai.com/602965/%E0%B8%95%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B8%B0%E0%B8%93%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%84%E0%B8%B2%E0%B8%96%E0%B8%B2>`_
 
+.. [14] `ติลักขณาทิคาถา <http://www.aia.or.th/prayer34.htm>`_
+
+.. [15] `บทสวดมนต์: ติลักขณาทิคาถา <http://namthan01.blogspot.com/2013/06/blog-post_24.html>`_
+
+
 唸誦集：
 
 .. [Chant1] `สวดมนต์วัดหนองป่าพง11 ทำวัตรเย็น ติลักขณาทิคาถา - YouTube <https://www.youtube.com/watch?v=oDlPgjz5W4k&list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES&index=11>`__
@@ -209,7 +214,7 @@ Tilakkhaṇādi Gāthā (三相等偈, ติลักขณาทิคาถ�
 
 
 
-.. _ติลักขณาทิคาถา: http://namthan01.blogspot.com/2013/06/blog-post_24.html
+.. _ติลักขณาทิคาถา: http://www.aia.or.th/prayer34.htm
 
 .. _Pali Chants - Forest Meditation: http://forestmeditation.com/audio/audio.html
 
