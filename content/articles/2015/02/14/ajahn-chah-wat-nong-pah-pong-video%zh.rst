@@ -39,6 +39,14 @@
 書籍
 ++++
 
+- 本站收錄
+
+  * `森林裡的一棵樹 - A Tree in a Forest - 阿姜查(Ajahn Chah) <{filename}../../03/30/a-tree-in-a-forest-ajahn-chah%zh.rst>`_
+
+  * `寧靜的森林水池(A Still Forest Pool) - 阿姜查(Ajahn Chah) <{filename}../../04/30/a-still-forest-pool-ajahn-chah%zh.rst>`_
+
+  * `阿姜查的禪修世界(Food for the Heart, 2002 Abhayagiri) - 阿姜查(Ajahn Chah) <{filename}../../../2016/01/07/food-for-the-heart-2002-abhayagiri-ajahn-chah%zh.rst>`_
+
 - `Forest Sangha Publications <http://forestsanghapublications.org/>`_
 
   * `Ajahn Chah - Forest Sangha Publications <http://forestsanghapublications.org/viewAuthor.php?id=1>`_
