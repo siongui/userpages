@@ -4,7 +4,7 @@ Bhārasutta Gāthā (五蘊重擔, ภารสุตตคาถา, The Burden
 :date: 2015-04-05 22:01
 :tags: 巴利語
 :category: 巴利唸誦
-:summary: Bhārasutta Gāthā (五蘊重擔, ภารสุตตคาถา, The Burdens) - 巴利語唸誦
+:summary: Bhārasutta Gāthā (五蘊重擔, `ภารสุตตคาถา`_, The Burdens) - 巴利語唸誦
 
 
 .. list-table:: Bhārasutta Gāthā (五蘊重擔, `ภารสุตตคาถา`_, The Burdens)
@@ -120,6 +120,9 @@ Bhārasutta Gāthā (五蘊重擔, ภารสุตตคาถา, The Burden
 
 .. [11] `บทสวดภารสุตตคาถา - oatkrunteen <https://sites.google.com/site/oatkrunteencom/bth-swd-pha-rsutt-khatha>`_
 
+.. [12] `ภารสุตตคาถา <http://www.aia.or.th/prayer35.htm>`__
+
+
 唸誦集：
 
 .. [Chant1] `ภารสุตตคาถา Bharasutta gatha - YouTube <https://www.youtube.com/watch?v=62Q-TFDrZXI>`_
@@ -136,7 +139,7 @@ Bhārasutta Gāthā (五蘊重擔, ภารสุตตคาถา, The Burden
 
 
 
-.. _ภารสุตตคาถา: http://namthan01.blogspot.com/2013/06/blog-post_21.html
+.. _ภารสุตตคาถา: http://www.aia.or.th/prayer35.htm
 
 .. _Pali Chants - Forest Meditation: http://forestmeditation.com/audio/audio.html
 
