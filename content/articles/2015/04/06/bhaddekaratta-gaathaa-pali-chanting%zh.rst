@@ -4,7 +4,7 @@ Bhaddekaratta Gāthā (賢善一夜偈, ภัทเทกรัตตคาถ�
 :date: 2015-04-06 01:12
 :tags: 巴利語
 :category: 巴利唸誦
-:summary: Bhaddekaratta Gāthā (賢善一夜偈, ภัทเทกรัตตคาถา, An Auspicious Day) - 巴利語唸誦
+:summary: Bhaddekaratta Gāthā (賢善一夜偈, `ภัทเทกรัตตคาถา`_, An Auspicious Day) - 巴利語唸誦
 
 
 .. list-table:: Bhaddekaratta Gāthā (賢善一夜偈, `ภัทเทกรัตตคาถา`_, An Auspicious Day)
@@ -175,7 +175,7 @@ Bhaddekaratta Gāthā (賢善一夜偈, ภัทเทกรัตตคาถ�
 
 
 
-.. _ภัทเทกรัตตคาถา: https://sites.google.com/site/nangmarbella/bth-swd-phath-the-kratt-khatha
+.. _ภัทเทกรัตตคาถา: http://aia.or.th/prayer36.htm
 
 .. _Pali Chants - Forest Meditation: http://forestmeditation.com/audio/audio.html
 
