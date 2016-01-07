@@ -99,6 +99,8 @@ Output of Above Code
   PASS
 
 
+Tested on: ``Ubuntu Linux 15.10``, ``Go 1.5.2``.
+
 ----
 
 References:

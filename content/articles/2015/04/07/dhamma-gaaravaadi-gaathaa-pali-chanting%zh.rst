@@ -4,7 +4,7 @@ Dhammagāravādi Gāthā (崇敬佛法偈, ธัมมคารวาทิค�
 :date: 2015-04-07 09:15
 :tags: 巴利語
 :category: 巴利唸誦
-:summary: Dhammagāravādi Gāthā (崇敬佛法偈, ธัมมคารวาทิคาถา, Verses on Respect for the Dhamma) - 巴利語唸誦
+:summary: Dhammagāravādi Gāthā (崇敬佛法偈, `ธัมมคารวาทิคาถา`_, Verses on Respect for the Dhamma) - 巴利語唸誦
 
 
 .. list-table:: Dhammagāravādi Gāthā (崇敬佛法偈, `ธัมมคารวาทิคาถา`_, Verses on Respect for the Dhamma)
@@ -101,6 +101,9 @@ Dhammagāravādi Gāthā (崇敬佛法偈, ธัมมคารวาทิค�
 
 .. [4] `บทสวดธัมมคารวาทิคาถา - วัดพุทธบูชา บางมด ทุ่งครุ่ กรุงเทพมหานคร 10140 <https://sites.google.com/site/watphutfm10025mhz/bth-swd-thamm-khar-wathi-khatha>`_
 
+.. [5] `ธัมมคารวาทิคาถา <http://aia.or.th/prayer37.htm>`_
+
+
 唸誦集：
 
 .. [Chant1] `สวดมนต์วัดหนองป่าพง14 ทำวัตรเย็น ธัมมคารวาทิคาถา - YouTube <https://www.youtube.com/watch?v=ucFYTH91CNM&index=14&list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES>`__
@@ -115,7 +118,7 @@ Dhammagāravādi Gāthā (崇敬佛法偈, ธัมมคารวาทิค�
 
 
 
-.. _ธัมมคารวาทิคาถา: https://sites.google.com/site/watphutfm10025mhz/bth-swd-thamm-khar-wathi-khatha
+.. _ธัมมคารวาทิคาถา: http://aia.or.th/prayer37.htm
 
 .. _Pali Chants - Forest Meditation: http://forestmeditation.com/audio/audio.html
 
