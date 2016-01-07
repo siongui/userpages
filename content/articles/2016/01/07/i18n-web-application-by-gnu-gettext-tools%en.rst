@@ -2,7 +2,7 @@ Internationalization (i18n) of Web Application by GNU gettext Tools
 ###################################################################
 
 :date: 2016-01-07T02:28+08:00
-:tags: Python, JavaScript, Go, Golang, Web application, web, i18n, Google App Engine, web.py, Locale, sed
+:tags: Python, JavaScript, Go, Golang, Web application, web, i18n, Google App Engine, web.py, Locale, sed, gettext
 :category: Web Development
 :summary: Support multiple languages in your (web) applications, by GNU gettext_
           tools, which include *xgettext*, *msginit*, *msgmerge*, and *msgfmt*.
@@ -68,8 +68,8 @@ generate translation file for each supported language:
   $ msginit --no-wrap --no-translator --input=locale/messages.pot --locale=zh_TW -o locale/zh_TW/LC_MESSAGES/messages.po
   $ msginit --no-wrap --no-translator --input=locale/messages.pot --locale=vi_VN -o locale/vi_VN/LC_MESSAGES/messages.po
 
-the input is the *messages.pot* in previous step, and three **po** files are
-generated and put in respective directories. Then edit these **po** files to
+the input is the *messages.pot* in previous step, and three **PO** files are
+generated and put in respective directories. Then edit these **PO** files to
 translate the strings in the files.
 
 
@@ -77,7 +77,7 @@ Update translation file for each supported language
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Everytime you add or delete translatable strings in original *html* files,
-msgmerge_ is used to help you update the **po** files for each locale.
+msgmerge_ is used to help you update the **PO** files for each locale.
 Re-generate **messages.pot** again by xgettext_ and then run msgmerge_:
 
 .. code-block:: bash
@@ -86,17 +86,17 @@ Re-generate **messages.pot** again by xgettext_ and then run msgmerge_:
   $ msgmerge --no-wrap --backup=none --update locale/zh_TW/LC_MESSAGES/messages.po locale/messages.pot
   $ msgmerge --no-wrap --backup=none --update locale/vi_VN/LC_MESSAGES/messages.po locale/messages.pot
 
-After the update, you maybe need to edit the **po** files to translate the newly
+After the update, you maybe need to edit the **PO** files to translate the newly
 added strings.
 
 
-Generate mo file for run-time use of web application
-++++++++++++++++++++++++++++++++++++++++++++++++++++
+Generate MO_ file for run-time use of web application
++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-During the run-time of i18n application, the **pot** or **po** files are not
-used. Instead we will generate **mo** files from **po** files in previous step
-for run-time application use. **mo** files are binary message catalog. We can
-generate **mo** files by msgfmt_:
+During the run-time of i18n application, the **POT** or **PO** files are not
+used. Instead we will generate **MO** files from **PO** files in previous step
+for run-time application use. **MO** files are binary message catalog. We can
+generate **MO** files by msgfmt_:
 
 .. code-block:: bash
 
@@ -104,16 +104,22 @@ generate **mo** files by msgfmt_:
   msgfmt locale/zh_TW/LC_MESSAGES/messages.po -o locale/zh_TW/LC_MESSAGES/messages.mo
   msgfmt locale/vi_VN/LC_MESSAGES/messages.po -o locale/vi_VN/LC_MESSAGES/messages.mo
 
-These **mo** files are the files we really need in our applications during
+These **MO** files are the files we really need in our applications during
 run-time.
 
 
-Use mo file in your application
-+++++++++++++++++++++++++++++++
+Use MO_ file in your application
+++++++++++++++++++++++++++++++++
 
-The use of **mo** files are supported in different programming languages, such
-as Python_ or Go_. I will write another posts to show how to use **mo** files
+The use of **MO** files are supported in different programming languages, such
+as Python_ or Go_. I will write another posts to show how to use **MO** files
 during run-time.
+
+For Go_ to use gettext_
+```````````````````````
+
+Please read [7]_ to see how to use the **PO** and **MO** file in your Go_
+application.
 
 
 ----
@@ -134,6 +140,8 @@ References:
        (default locale dir of webapp2 i18n is $PROJECT_DIR/locale,
        and default domain of webapp2 i18n is 'messages')
 
+.. [7] `[Golang] Internationalization (i18n) of Go Application by GNU gettext Tools <{filename}../08/golang-i18n-go-application-by-gnu-gettext%en.rst>`_
+
 
 .. _Pāḷi Dictionary: https://palidictionary.appspot.com/
 .. _gettext: https://www.gnu.org/software/gettext/
@@ -146,3 +154,4 @@ References:
 .. _msgfmt: https://www.gnu.org/software/gettext/manual/html_node/msgfmt-Invocation.html
 .. _Python: https://www.python.org/
 .. _Go: https://golang.org/
+.. _MO: https://www.gnu.org/software/gettext/manual/html_node/MO-Files.html

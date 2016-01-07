@@ -2,7 +2,7 @@
 ################################################################################
 
 :date: 2016-01-08T00:22+08:00
-:tags: Python, String Manipulation, Conversion of Traditional and Simplified Chinese, i18n, Locale
+:tags: Python, String Manipulation, Conversion of Traditional and Simplified Chinese, i18n, Locale, gettext
 :category: Python
 :summary: Automatically convert `Traditional Chinese`_ (`zh_TW`_) PO_ file to
           `Simplified Chinese`_ (`zh_CN`_) by OpenCC_ and Python_ programming

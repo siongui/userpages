@@ -2,7 +2,7 @@
 ######################################################################################
 
 :date: 2016-01-01T19:12+08:00
-:tags: Python, Regular Expression, String Manipulation, Locale, i18n, find
+:tags: Python, Regular Expression, String Manipulation, Locale, i18n, find, gettext
 :category: Python
 :summary: Use regular expression in Python to search and find strings marked for
           i18n (Internationalization)
