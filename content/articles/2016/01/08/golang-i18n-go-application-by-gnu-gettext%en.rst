@@ -110,6 +110,7 @@ References:
 .. [2] Google Search `go gettext <https://www.google.com/search?q=go+gettext>`__
 
 .. [3] `chai2010/gettext-go · GitHub <https://github.com/chai2010/gettext-go>`_
+       |godoc1-png|
 
 .. [4] `Go语言的国际化支持(资源文件翻译) - CHAI2010 <http://chai2010.github.io/blog/2014/01/27/gettext-go-intro-02/>`_
 
@@ -118,6 +119,7 @@ References:
 .. [6] `localization - I18n strategies for Go with App Engine - Stack Overflow <http://stackoverflow.com/questions/14124630/i18n-strategies-for-go-with-app-engine>`_
 
 .. [7] `samuel/go-gettext · GitHub <https://github.com/samuel/go-gettext>`_
+       |godoc2-png|
 
 .. [8] Google Search `go i18n <https://www.google.com/search?q=go+i18n>`__
 
@@ -133,3 +135,19 @@ References:
 .. _msgfmt: https://www.gnu.org/software/gettext/manual/html_node/msgfmt-Invocation.html
 .. _gettext-go: https://github.com/chai2010/gettext-go
 .. _issue #1: https://github.com/chai2010/gettext-go/issues/1
+
+.. |godoc1-svg| image:: https://godoc.org/github.com/chai2010/gettext-go/gettext?status.svg
+   :target: https://godoc.org/github.com/chai2010/gettext-go/gettext
+
+.. |godoc1-png| image:: https://godoc.org/github.com/chai2010/gettext-go/gettext?status.png
+   :target: https://godoc.org/github.com/chai2010/gettext-go/gettext
+
+.. |godoc2-svg| image:: https://godoc.org/github.com/samuel/go-gettext/gettext?status.svg
+   :target: https://godoc.org/github.com/samuel/go-gettext/gettext
+
+.. |godoc2-png| image:: https://godoc.org/github.com/samuel/go-gettext/gettext?status.png
+   :target: https://godoc.org/github.com/samuel/go-gettext/gettext
+
+.. python - Image grid in reStructuredText / Sphinx - Stack Overflow
+   http://stackoverflow.com/questions/10219634/image-grid-in-restructuredtext-sphinx
+   Google Search: rst image in table

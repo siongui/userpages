@@ -144,10 +144,10 @@ References:
 .. [2] Google Search: `golang opencc <https://www.google.com/search?q=golang+opencc>`_
 
 .. [3] `stevenyao/go-opencc · GitHub <https://github.com/stevenyao/go-opencc>`_
-       (OpenCC wrapper for Golang)
+       (OpenCC wrapper for Golang, |godoc1|)
 
 .. [4] `siongui/go-opencc · GitHub <https://github.com/siongui/go-opencc>`_
-       (my modified OpenCC wrapper for Golang)
+       (my modified OpenCC wrapper for Golang, |godoc2|)
 
 .. [5] `[JavaScript] Conversion of Traditional and Simplified Chinese <{filename}../../../2012/10/03/javascript-conversion-of-traditional-and-simplified-chinese%en.rst>`_
 
@@ -158,3 +158,9 @@ References:
 .. _Golang: https://golang.org/
 .. _OpenCC: http://opencc.byvoid.com/
 .. _OpenCC repository on GitHub: https://github.com/BYVoid/OpenCC
+
+.. |godoc1| image:: https://godoc.org/github.com/stevenyao/go-opencc?status.png
+   :target: https://godoc.org/github.com/stevenyao/go-opencc
+
+.. |godoc2| image:: https://godoc.org/github.com/siongui/go-opencc?status.png
+   :target: https://godoc.org/github.com/siongui/go-opencc

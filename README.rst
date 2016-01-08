@@ -2,6 +2,12 @@
 How to Develope
 ===============
 
+.. image:: https://travis-ci.org/siongui/userpages.png?branch=master
+    :target: https://travis-ci.org/siongui/userpages
+
+.. See how to add travis ci image from https://raw.githubusercontent.com/demizer/go-rst/master/README.rst
+   https://github.com/demizer/go-rst/commit/9651ab7b5acc997ea2751845af9f2d6efee825df
+
 Development Tool: `pelican <http://blog.getpelican.com/>`_ (static site generator written in Python)
 
 Development Environment: `Ubuntu 15.10 <http://releases.ubuntu.com/15.10/>`_
