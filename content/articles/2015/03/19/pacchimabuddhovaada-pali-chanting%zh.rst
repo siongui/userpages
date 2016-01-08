@@ -4,7 +4,7 @@ Pacchimabuddhovāda pāṭhaṃ (佛陀的最後之言誦 ปัจฉิมพ�
 :date: 2015-03-19 02:22
 :tags: 巴利語
 :category: 巴利唸誦
-:summary: Pacchimabuddhovāda pāṭhaṃ (佛陀的最後之言誦 ปัจฉิมพุทโธวาทปาฐะ) 巴利語唸誦
+:summary: Pacchimabuddhovāda pāṭhaṃ (佛陀的最後之言誦 `ปัจฉิมพุทโธวาทปาฐะ`_) 巴利語唸誦
 
 
 .. list-table:: Pacchimabuddhovāda pāṭhaṃ (佛陀的最後之言誦 `ปัจฉิมพุทโธวาทปาฐะ`_)
@@ -38,7 +38,7 @@ Pacchimabuddhovāda pāṭhaṃ (佛陀的最後之言誦 ปัจฉิมพ�
 
   .. raw:: html
 
-    <iframe width="420" height="315" src="https://www.youtube.com/embed/GiRvA73aOfc" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/rz9V1WCESzc?list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES" frameborder="0" allowfullscreen></iframe>
 
 .. container:: align-center video-container-description
 
@@ -52,7 +52,7 @@ Pacchimabuddhovāda pāṭhaṃ (佛陀的最後之言誦 ปัจฉิมพ�
 
 .. [2] `上座部佛教唸誦集 - 瑪欣德尊者 編譯 <http://www.dhammatalks.net/Chinese/Bhikkhu_Mahinda-Puja.pdf>`_
 
-.. [3] `ปัจฉิมพุทโธวาทปาฐะ <http://www.aia.or.th/prayer40.htm>`_
+.. [3] `ปัจฉิมพุทโธวาทปาฐะ <http://aia.or.th/prayer40.htm>`_
 
 .. [4] `The Last Words of the Buddha - vayadhammā sankhārā appamādena saṃpadethā - with calligraphy in the Siddham Script <http://www.visiblemantra.org/buddha-last-words.html>`_
 
@@ -63,12 +63,17 @@ Pacchimabuddhovāda pāṭhaṃ (佛陀的最後之言誦 ปัจฉิมพ�
 
 .. [7] `Ovāda［教誡］－パーリ語 常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺 <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/paritta/Bhagavato_Ovado.htm>`_
 
-其他唸誦：
+唸誦集：
 
-.. [Chant1] `สวดมนต์วัดหนองป่าพง17 ทำวัตรเย็น ปัจฉิมพุทโธวาทปาฐะ - YouTube <https://www.youtube.com/watch?v=rz9V1WCESzc>`_
+.. [Chant1] `สวดมนต์วัดหนองป่าพง17 ทำวัตรเย็น  ปัจฉิมพุทโธวาทปาฐะ - YouTube <https://www.youtube.com/watch?v=rz9V1WCESzc&list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES&index=17>`__
             (巴蓬寺課誦)
 
+.. [Chant2] `สวดมนต์วัดหนองป่าพง17 ทำวัตรเย็น ปัจฉิมพุทโธวาทปาฐะ - YouTube <https://www.youtube.com/watch?v=CIzCUjCbeVA&list=PLkXhPQ5Akl5hfOv9HoyH_m6N-RE49t-td&index=9>`__
+            (巴蓬寺課誦)
 
-.. _ปัจฉิมพุทโธวาทปาฐะ: http://www.aia.or.th/prayer40.htm
+.. [Chant3] `บทสวดปัจฉิม พุทโธวาทปาฐะ.wmv - YouTube <https://www.youtube.com/watch?v=GiRvA73aOfc>`_
+
+
+.. _ปัจฉิมพุทโธวาทปาฐะ: http://aia.or.th/prayer40.htm
 
 .. _巴利: http://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%88%A9%E8%AF%AD
