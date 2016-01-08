@@ -35,6 +35,11 @@ References:
 
 .. [1] `[Python] Conversion of Traditional and Simplified Chinese <{filename}../04/python-conversion-of-traditional-and-simplified-chinese%en.rst>`_
 
+.. [2] `Python Regular Expressions  |  Google for Education  |  Google Developers <https://developers.google.com/edu/python/regular-expressions>`_
+
+.. [3] `Regex replace (in Python) - a simpler way? - Stack Overflow <http://stackoverflow.com/questions/490597/regex-replace-in-python-a-simpler-way>`_
+
+.. [4] `python - Import a module from a relative path - Stack Overflow <http://stackoverflow.com/questions/279237/import-a-module-from-a-relative-path>`_
 
 
 .. _Python: https://www.python.org/

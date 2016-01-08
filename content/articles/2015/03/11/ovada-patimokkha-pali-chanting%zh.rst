@@ -2,11 +2,12 @@ Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈, โอวาทปาต�
 ####################################################################
 
 :date: 2015-03-11 23:31
-:modified: 2015-03-12 22:10
+:modified: 2016-01-08T16:16+08:00
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: 「諸惡莫作，眾善奉行；自淨其意，是諸佛教。」
-          Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈) 巴利語唸誦
+          Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈 `โอวาทปาฏิโมกขคาถา`_)
+          巴利語唸誦
 
 
 這也是常在泰國早晚課會唸誦的偈，著名的「諸惡莫作，眾善奉行；自淨其意，是諸佛教。
@@ -14,7 +15,7 @@ Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈, โอวาทปาต�
 ",這也常在 `隆波Boonchu`_ 開示中會聽到，跟"`Mātāpitu upaṭṭhānaṃ`_"（善能事父母）
 那句巴利語並列我最常聽到 `隆波Boonchu`_ 開示中講出的巴利偈。
 
-.. list-table:: Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈)
+.. list-table:: Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈 `โอวาทปาฏิโมกขคาถา`_)
    :header-rows: 1
    :class: table-syntax-diff
 
@@ -90,7 +91,7 @@ Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈, โอวาทปาต�
 
 .. container:: align-center video-container-description
 
-  Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈)
+  Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈 `โอวาทปาฏิโมกขคาถา`_)
 
   純巴利唸誦
 
@@ -100,11 +101,11 @@ Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈, โอวาทปาต�
 
   .. raw:: html
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/RgKSy6MeQnI" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/RgKSy6MeQnI?list=UUBwidaPERHU1LZXfAVIVU4Q" frameborder="0" allowfullscreen></iframe>
 
 .. container:: align-center video-container-description
 
-  Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈)
+  Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈 `โอวาทปาฏิโมกขคาถา`_)
 
   唸誦為巴利+泰語。字幕為巴利+英文
 
@@ -118,7 +119,7 @@ Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈, โอวาทปาต�
 
 .. container:: align-center video-container-description
 
-  Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈)
+  Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈 `โอวาทปาฏิโมกขคาถา`_)
 
   唸誦為巴利+泰語。字幕為巴利+英文
 
@@ -150,16 +151,29 @@ Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈, โอวาทปาต�
 .. [11] Ovādapāṭimokkhaオーワータパーティモッカ -
         `朝のお経（僧侶編） - タイ仏教 <http://mixi.jp/view_bbs.pl?comm_id=568167&id=57820764>`_
 
+.. [12] `โอวาทปาฏิโมกขคาถา <http://www.aia.or.th/prayer38.htm>`_
+
+
 唸誦集：
 
-.. [Chant1] `สวดมนต์วัดหนองป่าพง15 ทำวัตรเย็น โอวาทปาฏิโมกขคาถา - YouTube <https://www.youtube.com/watch?v=MTL2NAnbWTs>`_
+.. [Chant1] `สวดมนต์วัดหนองป่าพง15 ทำวัตรเย็น  โอวาทปาฏิโมกขคาถา - YouTube <https://www.youtube.com/watch?v=0iAy3jfkhsg&index=15&list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES>`__
             (巴蓬寺課誦)
 
-.. [Chant2] `โอวาทปาฏิโมกขคาถา. - YouTube <https://www.youtube.com/watch?v=KVIS8Z6Bp-g>`_
+.. [Chant2] `สวดมนต์วัดหนองป่าพง15 ทำวัตรเย็น โอวาทปาฏิโมกขคาถา - YouTube <https://www.youtube.com/watch?v=MTL2NAnbWTs&index=11&list=PLkXhPQ5Akl5hfOv9HoyH_m6N-RE49t-td>`__
+            (巴蓬寺課誦)
 
-.. [Chant3] `Ovada Patimokkha Gatha ~ โอวาทปาฏิโมกข์ ~ - YouTube <https://www.youtube.com/watch?v=RgKSy6MeQnI>`_
+.. [Chant3] `โอวาทปาฏิโมกขคาถา. - YouTube <https://www.youtube.com/watch?v=KVIS8Z6Bp-g>`_
 
-.. [Chant4] `โอวาทปาติโมกข์ Ovada patimokkha - YouTube <https://www.youtube.com/watch?v=F8gOPkeeFJk>`_
+.. [Chant4] `Ovada Patimokkha Gatha ~ โอวาทปาฏิโมกข์ ~ - YouTube <https://www.youtube.com/watch?v=RgKSy6MeQnI&list=UUBwidaPERHU1LZXfAVIVU4Q&index=1>`_
+
+.. [Chant5] `โอวาทปาติโมกข์ Ovada patimokkha - YouTube <https://www.youtube.com/watch?v=F8gOPkeeFJk>`_
+
+
+搜尋：
+
+.. [Search1] Google Search `โอวาทปาฏิโมกขคาถา <https://www.google.com/search?q=%E0%B9%82%E0%B8%AD%E0%B8%A7%E0%B8%B2%E0%B8%97%E0%B8%9B%E0%B8%B2%E0%B8%8F%E0%B8%B4%E0%B9%82%E0%B8%A1%E0%B8%81%E0%B8%82%E0%B8%84%E0%B8%B2%E0%B8%96%E0%B8%B2>`__
+
+.. [Search2] DuckDuckGo Search `โอวาทปาฏิโมกขคาถา <https://duckduckgo.com/?q=%E0%B9%82%E0%B8%AD%E0%B8%A7%E0%B8%B2%E0%B8%97%E0%B8%9B%E0%B8%B2%E0%B8%8F%E0%B8%B4%E0%B9%82%E0%B8%A1%E0%B8%81%E0%B8%82%E0%B8%84%E0%B8%B2%E0%B8%96%E0%B8%B2>`__
 
 
 
@@ -168,3 +182,5 @@ Ovāda-pātimokkha Gāthā (教誡波羅提木叉偈, โอวาทปาต�
 .. _Mātāpitu upaṭṭhānaṃ: {filename}../10/mangalasuttam-pali-chanting%zh.rst
 
 .. _巴利: http://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%88%A9%E8%AF%AD
+
+.. _โอวาทปาฏิโมกขคาถา: http://www.aia.or.th/prayer38.htm
