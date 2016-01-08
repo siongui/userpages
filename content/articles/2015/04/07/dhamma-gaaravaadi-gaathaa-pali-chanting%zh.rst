@@ -110,6 +110,9 @@ Dhammagāravādi Gāthā (崇敬佛法偈, ธัมมคารวาทิค�
 
 .. [Chant2] `สวดมนต์วัดหนองป่าพง14 ทำวัตรเย็น ธัมมคารวาทิคาถา - YouTube <https://www.youtube.com/watch?v=xUwodvgy4Ok&list=PLkXhPQ5Akl5hfOv9HoyH_m6N-RE49t-td&index=12>`_
 
+.. [Chant3] `ธัมมคาราวาทิคาถา - YouTube <https://www.youtube.com/watch?v=H-sM-vRHqhU>`_
+
+
 搜尋：
 
 .. [Search1] Google Search `ธัมมคารวาทิคาถา <https://www.google.com/search?q=%E0%B8%98%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%84%E0%B8%B2%E0%B8%96%E0%B8%B2>`__

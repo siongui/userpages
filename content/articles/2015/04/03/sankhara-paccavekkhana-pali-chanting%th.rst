@@ -145,6 +145,8 @@
 
 .. [Chant4] `บทพิจารณาสังขาร (๒.) - YouTube <https://www.youtube.com/watch?v=T1hEpUDFB2g>`_
 
+.. [Chant5] `มรณสติ   วัดเขาช้าง - YouTube <https://www.youtube.com/watch?v=PkoPL4mMXX0>`_
+
 
 
 ค้นหา:

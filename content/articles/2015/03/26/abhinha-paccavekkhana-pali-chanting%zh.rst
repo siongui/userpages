@@ -127,6 +127,9 @@ abhiṇha paccavekkhaṇa pāṭha (經常省察文, อภิณหปัจจ
 .. [Chant5] `สวดมนต์วัดหนองป่าพง04 ทำวัตรเช้า อภิณหปัจจเวกขณปาฐะ - YouTube <https://www.youtube.com/watch?v=exgjsitg4jA&index=4&list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES>`__
             (巴蓬寺課誦)
 
+.. [Chant6] `อภิณหปัจจเวกขณ์ Abhinhapaccavekkhana - YouTube <https://www.youtube.com/watch?v=vMusib09z7k>`_
+
+
 搜尋：
 
 .. [Search1] Google Search `ABHIṆHAPACCAVEKKHAṆAPĀṬHA <https://www.google.com/search?q=ABHI%E1%B9%86HAPACCAVEKKHA%E1%B9%86AP%C4%80%E1%B9%ACHA>`__

@@ -113,6 +113,9 @@ Saṅkhāra paccavekkhaṇa (因緣和合法之審查, บทพิจารณ�
 
 .. [Chant4] `บทพิจารณาสังขาร (๒.) - YouTube <https://www.youtube.com/watch?v=T1hEpUDFB2g>`_
 
+.. [Chant5] `มรณสติ   วัดเขาช้าง - YouTube <https://www.youtube.com/watch?v=PkoPL4mMXX0>`_
+
+
 搜尋：
 
 .. [Search1] Google Search `พิจารณาสังขาร <https://www.google.com/search?q=%E0%B8%9E%E0%B8%B4%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B8%B2%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B8%B2%E0%B8%A3>`__

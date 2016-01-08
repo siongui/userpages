@@ -4,7 +4,7 @@ Pathamabuddhabhāsita Gāthā (佛陀的最初之言偈 ปฐมพุทธภ
 :date: 2015-03-22 01:31
 :tags: 巴利語
 :category: 巴利唸誦
-:summary: Pathamabuddhabhāsita Gāthā (佛陀的最初之言偈 ปฐมพุทธภาสิตคาถา) 巴利語唸誦
+:summary: Pathamabuddhabhāsita Gāthā (佛陀的最初之言偈 `ปฐมพุทธภาสิตคาถา`_) 巴利語唸誦
 
 
 .. list-table:: Pathamabuddhabhāsita Gāthā (佛陀的最初之言偈 `ปฐมพุทธภาสิตคาถา`_)
@@ -76,16 +76,24 @@ Pathamabuddhabhāsita Gāthā (佛陀的最初之言偈 ปฐมพุทธภ
 
 .. [3] `上座部佛教唸誦集 - 瑪欣德尊者 編譯 <http://www.dhammatalks.net/Chinese/Bhikkhu_Mahinda-Puja.pdf>`_
 
-.. [4] `ปฐมพุทธภาสิตคาถา <http://www.aia.or.th/prayer39.htm>`_
+.. [4] `ปฐมพุทธภาสิตคาถา <http://aia.or.th/prayer39.htm>`_
 
 .. [5] `Anekajāti gāthā［生死流転偈］－パーリ語 常用経典集（パリッタ）－真言宗泉涌寺派大本山 法楽寺 <http://www.horakuji.hello-net.info/BuddhaSasana/Theravada/paritta/Anekajati_gatha.htm>`_
 
-其他唸誦：
 
-.. [Chant1] `สวดมนต์วัดหนองป่าพง16 ทำวัตรเย็น ปฐมพุทธภาสิตคาถา - YouTube <https://www.youtube.com/watch?v=hqDPK-f3o50>`_
+唸誦集：
+
+.. [Chant1] `สวดมนต์วัดหนองป่าพง16 ทำวัตรเย็น  ปฐมพุทธภาสิตคาถา - YouTube <https://www.youtube.com/watch?v=lNe6eoQ1HZA&list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES&index=16>`__
             (巴蓬寺課誦)
 
+.. [Chant2] `สวดมนต์วัดหนองป่าพง16 ทำวัตรเย็น ปฐมพุทธภาสิตคาถา - YouTube <https://www.youtube.com/watch?v=hqDPK-f3o50&index=10&list=PLkXhPQ5Akl5hfOv9HoyH_m6N-RE49t-td>`__
+            (巴蓬寺課誦)
 
-.. _ปฐมพุทธภาสิตคาถา: http://www.aia.or.th/prayer39.htm
+.. [Chant3] `สวดปฐมพุทธภาสิตคาถา. - YouTube <https://www.youtube.com/watch?v=H4qwWhIIHkg>`_
+
+.. [Chant4] `ปฐมพุทธภาสิต Pathama Buddha bhasita - YouTube <https://www.youtube.com/watch?v=W0le0G833U8>`_
+
+
+.. _ปฐมพุทธภาสิตคาถา: http://aia.or.th/prayer39.htm
 
 .. _巴利: http://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%88%A9%E8%AF%AD

@@ -86,6 +86,8 @@
 
 .. [Chant5] `08 อภิณหะปัจจะเวกขณะฯ ทำวัตรเช้า - YouTube <https://www.youtube.com/watch?v=Xo9gvNe9IqQ>`_
 
+.. [Chant6] `อภิณหปัจจเวกขณ์ Abhinhapaccavekkhana - YouTube <https://www.youtube.com/watch?v=vMusib09z7k>`_
+
 
 ค้นหา:
 

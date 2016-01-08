@@ -89,6 +89,8 @@
 
 .. [Chant2] `สวดมนต์วัดหนองป่าพง14 ทำวัตรเย็น ธัมมคารวาทิคาถา - YouTube <https://www.youtube.com/watch?v=xUwodvgy4Ok&list=PLkXhPQ5Akl5hfOv9HoyH_m6N-RE49t-td&index=12>`_
 
+.. [Chant3] `ธัมมคาราวาทิคาถา - YouTube <https://www.youtube.com/watch?v=H-sM-vRHqhU>`_
+
 
 ค้นหา:
 
