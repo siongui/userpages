@@ -1,13 +1,13 @@
-uddisanādhiṭṭhāna gāthā (迴向許願文, อุททิสสนาธิฏฐาน คาถา) - 巴利唸誦
-####################################################################
+uddisanādhiṭṭhāna gāthā (迴向許願文, อุททิสสนาธิฏฐานคาถา) - 巴利唸誦
+###################################################################
 
 :date: 2015-03-18 06:26
 :tags: 巴利語
 :category: 巴利唸誦
-:summary: uddisanādhiṭṭhāna gāthā (迴向許願文) 巴利語唸誦
+:summary: uddisanādhiṭṭhāna gāthā (迴向許願文 `อุททิสสนาธิฏฐานคาถา`_) 巴利語唸誦
 
 
-.. list-table:: uddisanādhiṭṭhāna gāthā (迴向許願文)
+.. list-table:: uddisanādhiṭṭhāna gāthā (迴向許願文 `อุททิสสนาธิฏฐานคาถา`_)
    :header-rows: 1
    :class: table-syntax-diff
 
@@ -88,7 +88,7 @@ uddisanādhiṭṭhāna gāthā (迴向許願文, อุททิสสนาธ
 
 .. container:: align-center video-container-description
 
-  uddisanādhiṭṭhāna gāthā (迴向許願文)
+  uddisanādhiṭṭhāna gāthā (迴向許願文 `อุททิสสนาธิฏฐานคาถา`_)
 
 |
 |
@@ -101,7 +101,7 @@ uddisanādhiṭṭhāna gāthā (迴向許願文, อุททิสสนาธ
 
 .. container:: align-center video-container-description
 
-  16 อุททิสสนาธิฏฐานคาถา (巴利+泰語)
+  16 `อุททิสสนาธิฏฐานคาถา`_ (巴利+泰語)
 
 ----
 
@@ -118,9 +118,21 @@ uddisanādhiṭṭhāna gāthā (迴向許願文, อุททิสสนาธ
 
 .. [5] `บทสวดอุทิสสนาธิฏฐานคาถา - Watphuttabucha Chant บทสวดมนต์วัดพุทธบูชา <https://sites.google.com/site/bandxnswrrkh/bth-swd-xuthi-s-snathit-than-khatha>`_
 
-其他唸誦：
+.. [6] `อุททิสสนาธิฏฐานคาถา <http://www.aia.or.th/prayer41.htm>`__
 
-.. [Chant1] `สวดมนต์วัดหนองป่าพง18 ทำวัตรเย็น อุททิสสนาธิฏฐานคาถา - YouTube <https://www.youtube.com/watch?v=Csoob3t9wPk>`_
+
+唸誦集：
+
+.. [Chant1] `สวดมนต์วัดหนองป่าพง18 ทำวัตรเย็น  อุททิสสนาธิฏฐานคาถา - YouTube <https://www.youtube.com/watch?v=ny-FHogsPEk&list=PLuVwelYmWVCct5qxla2yuR83ORODMZeES&index=18>`__
             (巴蓬寺課誦)
 
+.. [Chant2] `สวดมนต์วัดหนองป่าพง18 ทำวัตรเย็น อุททิสสนาธิฏฐานคาถา - YouTube <https://www.youtube.com/watch?v=Csoob3t9wPk&list=PLkXhPQ5Akl5hfOv9HoyH_m6N-RE49t-td&index=8>`__
+            (巴蓬寺課誦)
+
+.. [Chant3] `16 อุททิสสนาธิฏฐานคาถา - YouTube <https://www.youtube.com/watch?v=U1WqYEWwYic>`_
+
+.. [Chant4] `Paritta Chanting - Uddisanadhitthanagatha - YouTube <https://www.youtube.com/watch?v=fO4VF--xmow>`_
+
+
 .. _巴利: http://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%88%A9%E8%AF%AD
+.. _อุททิสสนาธิฏฐานคาถา: http://aia.or.th/prayer41.htm
