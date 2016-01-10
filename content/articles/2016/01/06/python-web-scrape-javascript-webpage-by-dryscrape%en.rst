@@ -73,6 +73,10 @@ References:
         (`doc <https://splinter.readthedocs.org/>`__,
         `用Python开发自动化测试脚本 - Python - 伯乐在线 <http://python.jobbole.com/84012/>`_)
 
+.. [17] `如何用 Python 爬取需要登录的网站？ - Python - 伯乐在线 <http://python.jobbole.com/83588/>`_
+
+.. [18] `用python爬虫抓站的一些技巧总结 - Python - 伯乐在线 <http://python.jobbole.com/81997/>`_
+
 
 .. _Web scrape: https://en.wikipedia.org/wiki/Web_scraping
 .. _Python: https://www.python.org/

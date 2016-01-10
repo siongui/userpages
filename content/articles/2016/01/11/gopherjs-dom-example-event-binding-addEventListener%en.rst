@@ -1,12 +1,12 @@
-[Golang] GopherJS DOM Example - getElementById and Set innerHTML
+[Golang] GopherJS DOM Example - Event Binding (addEventListener)
 ################################################################
 
-:date: 2016-01-10T01:23+08:00
+:date: 2016-01-11T01:52+08:00
 :tags: Go, Golang, GopherJS, DOM, Go to JavaScript
 :category: Go
 :summary: Run Golang_ program in your browser by GopherJS_. Show how to write a
-          Go_ program to do DOM_ manipulation by example. Use getElementById_ to
-          access DOM_ element and set innerHTML_ of the element.
+          Go_ program to do DOM_ manipulation by example. Use addEventListener_
+          to attach event handler to specific DOM_ element.
 
 Introduction
 ++++++++++++
@@ -14,7 +14,7 @@ Introduction
 It is really cool to run Go_ code in the browser. GopherJS_ is a compiler from
 Go_ to JavaScript_, which makes this possible. In this post, we will give a very
 simple example of DOM_ manipulation in Go_ program. This example uses
-getElementById_ to access DOM_ element and set innerHTML_ of the element.
+addEventListener_ to attach an event handler to specific DOM_ element.
 
 Install GopherJS_ and DOM_ bindings
 +++++++++++++++++++++++++++++++++++
@@ -32,22 +32,27 @@ Source Code
 
 First we write a simple HTML for our demo:
 
-.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/demo/index.html
+.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/event/index.html
 
-We will access the *div* element whose *id* is *foo*. Then add *Hello World*
-text to the *div*. Now write a Go_ program to manipulate DOM_:
+We will attach an `onclick event`_ handler to the *div* element whose *id* is
+*foo*. When users click the *div* element, the content of the *div* element will
+be changed, and print a message on the browser console.
 
-.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/demo/dom.go
+.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/event/bind.go
 
-It is very easy and intuitive. Compile the Go_ code to JavaScript_:
+As the above code show, the event registration is almost the same as JavaScript
+counterpart. The *println* will print messages on browser console, which is the
+same as *console.log* in JavaScript. Now compile the Go_ code to JavaScript_ by:
 
 .. code-block:: bash
 
-  $ gopherjs build dom.go -o dom.js
+  $ gopherjs build bind.go -o demo.js
 
-Put *dom.js* together with the *index.html* in the same directory and open the
-*index.html* with your browser. You will see *Hello World* in the browser
-window.
+Put *demo.js* together with the *index.html* in the same directory and open the
+*index.html* with your browser. You will see the text ``Click Me`` in the
+browser window. Open your browser console, click the text, you will see the text
+becomes ``I am Clicked`` and the message
+``This message is printed in browser console``. is printed on the console.
 
 .. .. show_github_file:: siongui userpages content/code/gopherjs-dom/Makefile
 
@@ -60,7 +65,7 @@ Tested on: ``Ubuntu Linux 15.10``, ``Go 1.5.2``.
 
 GopherJS_ DOM_ Example series:
 
-  - `[Golang] GopherJS DOM Example - Event Binding (addEventListener) <{filename}../11/gopherjs-dom-example-event-binding-addEventListener%en.rst>`_
+  - `[Golang] GopherJS DOM Example - getElementById and Set innerHTML <{filename}../10/gopherjs-dom-example-getElementById-innerHTML%en.rst>`_
 
 ----
 
@@ -78,29 +83,16 @@ References:
 
 .. [4] `Getting Started with GopherJS <https://www.hakkalabs.co/articles/getting-started-gopherjs>`_
 
-.. [5] `GopherJSの紹介 - GolangRdyJp <http://golang.rdy.jp/2015/10/15/gopherjs/>`_
-
-.. [6] `albrow/gopherjs-live · GitHub <https://github.com/albrow/gopherjs-live>`_
-       (Automatic watching and recompiling for gopherjs)
-
-.. [7] `ajhager/srvi · GitHub <https://github.com/ajhager/srvi>`_
-       (Quickly build, serve, run, and refresh your GopherJS programs)
-
-.. [8] `cmd/gopherjs_serve_html at master · shurcooL/cmd · GitHub <https://github.com/shurcooL/cmd/tree/master/gopherjs_serve_html>`_
-
-.. [9] `Add "gopherjs serve" command · Issue #121 · gopherjs/gopherjs · GitHub <https://github.com/gopherjs/gopherjs/issues/121>`_
-
-.. [10] `It's easy to get an infinite loop with the watch flag · Issue #212 · gopherjs/gopherjs · GitHub <https://github.com/gopherjs/gopherjs/issues/212>`_
 
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
 .. _GopherJS: http://www.gopherjs.org/
 .. _DOM: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
-.. _getElementById: http://www.w3schools.com/jsref/met_doc_getelementbyid.asp
-.. _innerHTML: http://www.w3schools.com/jsref/prop_html_innerhtml.asp
+.. _addEventListener: http://www.w3schools.com/jsref/met_element_addeventlistener.asp
 .. _JavaScript: https://en.wikipedia.org/wiki/JavaScript
 .. _GopherJS bindings for the JavaScript DOM APIs: https://godoc.org/honnef.co/go/js/dom
+.. _onclick event: http://www.w3schools.com/jsref/event_onclick.asp
 
 .. |godoc| image:: https://godoc.org/github.com/gopherjs/gopherjs/js?status.png
    :target: https://godoc.org/github.com/gopherjs/gopherjs/js

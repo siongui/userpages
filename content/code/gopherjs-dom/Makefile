@@ -5,10 +5,12 @@ export GOROOT=$(realpath ../../../../go)
 export GOPATH=$(realpath .)
 export PATH := $(GOROOT)/bin:$(GOPATH)/bin:$(PATH)
 
+GO_PKG_DIR=event
+
 
 default: kill
 	gopherjs serve -w --http ":8000" &
-	gopherjs build demo -w -o src/demo/dom.js
+	gopherjs build $(GO_PKG_DIR) -w -o src/$(GO_PKG_DIR)/demo.js &
 
 kill:
 	ps aux | grep gopherjs
