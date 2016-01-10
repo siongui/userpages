@@ -109,5 +109,7 @@ References:
 
 .. [c] `Reading XML Documents in Go <http://www.goinggo.net/2013/06/reading-xml-documents-in-go.html>`_
 
+.. [d] `Goで任意のXMLを処理する - GolangRdyJp <http://golang.rdy.jp/2015/11/08/anyxml/>`_
+
 
 .. _Go: https://golang.org/

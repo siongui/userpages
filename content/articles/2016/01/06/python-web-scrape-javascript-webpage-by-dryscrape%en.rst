@@ -69,6 +69,9 @@ References:
 .. [15] `ghost.py: webkit web client written in python <http://jeanphix.me/Ghost.py/>`_
         (`GitHub repo <https://github.com/jeanphix/Ghost.py>`__)
 
+.. [16] `Splinter - a tool for test web applications with a simple for find elements, form actions, and others browser actions <https://github.com/cobrateam/splinter>`_
+        (`doc <https://splinter.readthedocs.org/>`__,
+        `用Python开发自动化测试脚本 - Python - 伯乐在线 <http://python.jobbole.com/84012/>`_)
 
 
 .. _Web scrape: https://en.wikipedia.org/wiki/Web_scraping
