@@ -60,7 +60,9 @@ Tested on: ``Ubuntu Linux 15.10``, ``Go 1.5.2``.
 
 GopherJS_ DOM_ Example series:
 
-  - `[Golang] GopherJS DOM Example - Event Binding (addEventListener) <{filename}../11/gopherjs-dom-example-event-binding-addEventListener%en.rst>`_
+- `[Golang] GopherJS DOM Example - Event Binding (addEventListener) <{filename}../11/gopherjs-dom-example-event-binding-addEventListener%en.rst>`_
+
+- `[Golang] GopherJS DOM Example - Detect Keypress (Keyboard Event) <{filename}../11/gopherjs-dom-example-detect-keypress-keyboard-event%en.rst>`_
 
 ----
 

@@ -5,7 +5,7 @@ export GOROOT=$(realpath ../../../../go)
 export GOPATH=$(realpath .)
 export PATH := $(GOROOT)/bin:$(GOPATH)/bin:$(PATH)
 
-GO_PKG_DIR=event
+GO_PKG_DIR=keyevent
 
 
 default: kill
