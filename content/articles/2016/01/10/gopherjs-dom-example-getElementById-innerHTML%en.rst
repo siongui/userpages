@@ -67,6 +67,8 @@ GopherJS_ DOM_ Example series
 
 - `[Golang] GopherJS DOM Example - Access Input Element Value <{filename}../11/gopherjs-dom-example-access-input-element-value%en.rst>`_
 
+- `[Golang] GopherJS DOM Example - Access HTML Data Attribute <{filename}../12/gopherjs-dom-example-access-html-data-attribute%en.rst>`_
+
 ----
 
 References:

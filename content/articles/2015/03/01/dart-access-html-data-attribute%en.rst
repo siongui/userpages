@@ -30,3 +30,5 @@ References:
 .. [3] `dataset - dart:html.Element API Docs <https://api.dartlang.org/apidocs/channels/stable/dartdoc-viewer/dart:html.Element#id_dataset>`_
 
 .. [4] Google search : `HTML Data Attribute <https://www.google.com/search?q=HTML+Data+Attribute>`_
+
+.. [5] `[Golang] GopherJS DOM Example - Access HTML Data Attribute <{filename}../../../2016/01/12/gopherjs-dom-example-access-html-data-attribute%en.rst>`_
