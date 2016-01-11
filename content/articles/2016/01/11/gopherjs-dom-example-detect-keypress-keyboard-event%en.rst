@@ -63,11 +63,14 @@ Tested on: ``Ubuntu Linux 15.10``, ``Go 1.5.2``.
 
 ----
 
-GopherJS_ DOM_ Example series:
+GopherJS_ DOM_ Example series
++++++++++++++++++++++++++++++
 
 - `[Golang] GopherJS DOM Example - getElementById and Set innerHTML <{filename}../10/gopherjs-dom-example-getElementById-innerHTML%en.rst>`_
 
 - `[Golang] GopherJS DOM Example - Event Binding (addEventListener) <{filename}gopherjs-dom-example-event-binding-addEventListener%en.rst>`_
+
+- `[Golang] GopherJS DOM Example - Access Input Element Value <{filename}gopherjs-dom-example-access-input-element-value%en.rst>`_
 
 ----
 
