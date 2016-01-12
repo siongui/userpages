@@ -86,6 +86,8 @@ GopherJS_ DOM_ Example series
 
 - `[Golang] GopherJS DOM Example - Access Input Element Value <{filename}../11/gopherjs-dom-example-access-input-element-value%en.rst>`_
 
+- `[Golang] Online Input Method (Pāli) by GopherJS <{filename}go-online-input-method-pali-by-gopherjs%en.rst>`_
+
 ----
 
 References:

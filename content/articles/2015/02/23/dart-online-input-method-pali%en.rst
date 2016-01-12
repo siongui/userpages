@@ -90,6 +90,8 @@ References:
 
 .. [8] `Pāli Input Method on Ubuntu Linux <{filename}../../../2012/05/23/pali-input-method-on-ubuntu-linux%en.rst>`_
 
+.. [9] `[Golang] Online Input Method (Pāli) by GopherJS <{filename}../../../2016/01/12/go-online-input-method-pali-by-gopherjs%en.rst>`_
+
 .. _Dart: https://www.dartlang.org/
 
 .. _Pāli: http://en.wikipedia.org/wiki/Pali
