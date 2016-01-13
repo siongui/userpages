@@ -1,20 +1,23 @@
-[Golang] GopherJS DOM Example - Event Binding (addEventListener)
-################################################################
+[Golang] GopherJS DOM Example - Hide Element by display:none
+############################################################
 
-:date: 2016-01-11T01:52+08:00
+:date: 2016-01-13T21:08+08:00
 :tags: Go, Golang, GopherJS, DOM, Go to JavaScript
 :category: Go
 :summary: Run Golang_ program in your browser by GopherJS_. Show how to write a
-          Go_ program to do DOM_ manipulation by example. Use addEventListener_
-          to attach event handler to specific DOM_ element.
+          Go_ program to do DOM_ manipulation by example. This example show how
+          to hide HTML elements by setting its CSS property display_:none.
 
 Introduction
 ++++++++++++
 
 It is really cool to run Go_ code in the browser. GopherJS_ is a compiler from
-Go_ to JavaScript_, which makes this possible. In this post, we will give a very
-simple example of DOM_ manipulation in Go_ program. This example uses
-addEventListener_ to attach an event handler to specific DOM_ element.
+Go_ to JavaScript_, which makes this possible.
+In this post, we will give a simple example of DOM_ manipulation in Go_ program.
+This example shows how to hide HTML_ elements by setting CSS property
+display_:none.
+If you are not familiar with basic DOM_ manipulation in Go_, read the
+posts in `GopherJS DOM Example series`_ first.
 
 Install GopherJS_ and DOM_ bindings
 +++++++++++++++++++++++++++++++++++
@@ -32,30 +35,24 @@ Source Code
 
 First we write a simple HTML for our demo:
 
-.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/event/index.html
+.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/hide/index.html
 
-We will attach an `onclick event`_ handler to the *div* element whose *id* is
-*foo*. When users click the *div* element, the content of the *div* element will
-be changed, and print a message on the browser console.
+We will bind a onclick_ event handler to the *div* element whose *id* is *foo*.
+When users click the *div* element, the display_ property of the *div* element
+is set to *none*, which hides the *div* element.
 
-.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/event/bind.go
+.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/hide/hide.go
 
-As the above code show, the event registration is almost the same as JavaScript
-counterpart. The *println* will print messages on browser console, which is the
-same as *console.log* in JavaScript. Now compile the Go_ code to JavaScript_ by:
+Note that to call *Style()*, we must `assert the type`_ of *foo* to
+*HTMLDivElement*.
+Compile the Go_ code to JavaScript_ by:
 
 .. code-block:: bash
 
-  $ gopherjs build bind.go -o demo.js
+  $ gopherjs build hide.go -o demo.js
 
 Put *demo.js* together with the *index.html* in the same directory and open the
-*index.html* with your browser. You will see the text ``Click Me`` in the
-browser window. Open your browser console, click the text, you will see the text
-becomes ``I am Clicked`` and the message
-``This message is printed in browser console``. is printed on the console.
-
-.. .. show_github_file:: siongui userpages content/code/gopherjs-dom/Makefile
-
+*index.html* with your browser. Click the text and it will disappear!
 
 ----
 
@@ -68,17 +65,17 @@ GopherJS_ DOM_ Example series
 
 - `[Golang] GopherJS DOM Example - getElementById and Set innerHTML <{filename}../10/gopherjs-dom-example-getElementById-innerHTML%en.rst>`_
 
-- `[Golang] GopherJS DOM Example - Detect Keypress (Keyboard Event) <{filename}gopherjs-dom-example-detect-keypress-keyboard-event%en.rst>`_
+- `[Golang] GopherJS DOM Example - Event Binding (addEventListener) <{filename}../11/gopherjs-dom-example-event-binding-addEventListener%en.rst>`_
 
-- `[Golang] GopherJS DOM Example - Access Input Element Value <{filename}gopherjs-dom-example-access-input-element-value%en.rst>`_
+- `[Golang] GopherJS DOM Example - Detect Keypress (Keyboard Event) <{filename}../11/gopherjs-dom-example-detect-keypress-keyboard-event%en.rst>`_
+
+- `[Golang] GopherJS DOM Example - Access Input Element Value <{filename}../11/gopherjs-dom-example-access-input-element-value%en.rst>`_
 
 - `[Golang] GopherJS DOM Example - Access HTML Data Attribute <{filename}../12/gopherjs-dom-example-access-html-data-attribute%en.rst>`_
 
 - `[Golang] Online Input Method (Pāli) by GopherJS <{filename}../12/go-online-input-method-pali-by-gopherjs%en.rst>`_
 
 - `[Golang] Online Snake Game by GopherJS <{filename}../13/go-online-snake-game-by-gopherjs%en.rst>`_
-
-- `[Golang] GopherJS DOM Example - Hide Element by display:none <{filename}../13/gopherjs-dom-example-hide-element-by-display-none%en.rst>`_
 
 ----
 
@@ -96,16 +93,21 @@ References:
 
 .. [4] `Getting Started with GopherJS <https://www.hakkalabs.co/articles/getting-started-gopherjs>`_
 
+.. [5] Google Search: `css display none <https://www.google.com/search?q=css+display+none>`_
+
+.. [6] `CSS Layout - The display Property <http://www.w3schools.com/css/css_display_visibility.asp>`_
 
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
 .. _GopherJS: http://www.gopherjs.org/
 .. _DOM: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
-.. _addEventListener: http://www.w3schools.com/jsref/met_element_addeventlistener.asp
+.. _HTML: http://www.w3schools.com/html/
 .. _JavaScript: https://en.wikipedia.org/wiki/JavaScript
 .. _GopherJS bindings for the JavaScript DOM APIs: https://godoc.org/honnef.co/go/js/dom
-.. _onclick event: http://www.w3schools.com/jsref/event_onclick.asp
+.. _display: http://www.w3schools.com/css/css_display_visibility.asp
+.. _onclick: http://www.w3schools.com/jsref/event_onclick.asp
+.. _assert the type: https://golang.org/ref/spec#Type_assertions
 
 .. |godoc| image:: https://godoc.org/github.com/gopherjs/gopherjs/js?status.png
    :target: https://godoc.org/github.com/gopherjs/gopherjs/js

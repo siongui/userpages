@@ -78,6 +78,8 @@ GopherJS_ DOM_ Example series
 
 - `[Golang] Online Snake Game by GopherJS <{filename}../13/go-online-snake-game-by-gopherjs%en.rst>`_
 
+- `[Golang] GopherJS DOM Example - Hide Element by display:none <{filename}../13/gopherjs-dom-example-hide-element-by-display-none%en.rst>`_
+
 ----
 
 References:

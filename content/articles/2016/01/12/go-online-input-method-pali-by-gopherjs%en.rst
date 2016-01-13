@@ -2,7 +2,7 @@
 ###############################################
 
 :date: 2016-01-12T20:14+08:00
-:tags: Go, Golang, GopherJS, DOM, Go to JavaScript, html, Pāli Input Method , IME, Keyboard Event
+:tags: Go, Golang, GopherJS, DOM, Go to JavaScript, html, Pāli Input Method , IME, Keyboard Event, Web application, web
 :category: Go
 :summary: Online Pali_ (Pāli, Pāḷi) Input Method using Go_ programming language,
           compiled to JavaScript_ by GopherJS_. (GopherJS DOM_ example)
@@ -92,6 +92,8 @@ GopherJS_ DOM_ Example series
 - `[Golang] GopherJS DOM Example - Access HTML Data Attribute <{filename}../12/gopherjs-dom-example-access-html-data-attribute%en.rst>`_
 
 - `[Golang] Online Snake Game by GopherJS <{filename}../13/go-online-snake-game-by-gopherjs%en.rst>`_
+
+- `[Golang] GopherJS DOM Example - Hide Element by display:none <{filename}../13/gopherjs-dom-example-hide-element-by-display-none%en.rst>`_
 
 ----
 

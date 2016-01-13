@@ -54,6 +54,8 @@ GopherJS_ DOM_ Example series
 
 - `[Golang] Online Input Method (Pāli) by GopherJS <{filename}../12/go-online-input-method-pali-by-gopherjs%en.rst>`_
 
+- `[Golang] GopherJS DOM Example - Hide Element by display:none <{filename}gopherjs-dom-example-hide-element-by-display-none%en.rst>`_
+
 ----
 
 References:
