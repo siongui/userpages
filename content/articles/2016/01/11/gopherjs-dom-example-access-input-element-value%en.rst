@@ -74,6 +74,8 @@ GopherJS_ DOM_ Example series
 
 - `[Golang] Online Input Method (Pāli) by GopherJS <{filename}../12/go-online-input-method-pali-by-gopherjs%en.rst>`_
 
+- `[Golang] Online Snake Game by GopherJS <{filename}../13/go-online-snake-game-by-gopherjs%en.rst>`_
+
 ----
 
 References:
