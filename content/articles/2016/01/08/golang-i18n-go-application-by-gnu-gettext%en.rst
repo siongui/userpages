@@ -123,6 +123,8 @@ References:
 
 .. [8] Google Search `go i18n <https://www.google.com/search?q=go+i18n>`__
 
+.. [9] `[Python] Internationalization (i18n) of Python Application by GNU gettext Tools <{filename}../14/python-i18n-py-application-by-gnu-gettext%en.rst>`_
+
 
 .. _gettext: https://www.gnu.org/software/gettext/
 .. _i18n: https://en.wikipedia.org/wiki/Internationalization_and_localization

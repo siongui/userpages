@@ -113,13 +113,19 @@ Use MO_ file in your application
 ++++++++++++++++++++++++++++++++
 
 The use of **MO** files are supported in different programming languages, such
-as Python_ or Go_. I will write another posts to show how to use **MO** files
-during run-time.
+as Python_ or Go_. The following posts show how to use **MO** files during
+run-time.
 
 For Go_ to use gettext_
 ```````````````````````
 
 Please read [7]_ to see how to use the **PO** and **MO** file in your Go_
+application.
+
+For Python_ to use gettext_
+```````````````````````````
+
+Please read [8]_ to see how to use the **PO** and **MO** file in your Python_
 application.
 
 
@@ -142,6 +148,8 @@ References:
        and default domain of webapp2 i18n is 'messages')
 
 .. [7] `[Golang] Internationalization (i18n) of Go Application by GNU gettext Tools <{filename}../08/golang-i18n-go-application-by-gnu-gettext%en.rst>`_
+
+.. [8] `[Python] Internationalization (i18n) of Python Application by GNU gettext Tools <{filename}../14/python-i18n-py-application-by-gnu-gettext%en.rst>`_
 
 
 .. _Pāḷi Dictionary: https://palidictionary.appspot.com/
