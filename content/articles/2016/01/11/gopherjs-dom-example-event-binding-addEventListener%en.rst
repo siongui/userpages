@@ -80,6 +80,8 @@ GopherJS_ DOM_ Example series
 
 - `[Golang] GopherJS DOM Example - Hide Element by display:none <{filename}../13/gopherjs-dom-example-hide-element-by-display-none%en.rst>`_
 
+- `[Golang] GopherJS DOM Example - Create and Append Element <{filename}../14/gopherjs-dom-example-create-and-append-element%en.rst>`_
+
 ----
 
 References:
