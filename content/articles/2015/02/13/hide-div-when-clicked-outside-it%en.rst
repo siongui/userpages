@@ -46,6 +46,9 @@ References:
 
 .. [2] `Javascript Drop Down Menu <{filename}javascript-dropdown-menu%en.rst>`_
 
+.. [3] `[Golang] GopherJS DOM Example - Dropdown Menu <{filename}../../../2016/01/16/gopherjs-dom-example-dropdown-menu%en.rst>`_
+
+
 .. _search result: https://www.google.com/search?aq=f&gcx=w&sourceid=chrome&ie=UTF-8&q=Hide+Div+When+Clicking+Outside+the+Div
 
 .. _jQuery: http://jquery.com/

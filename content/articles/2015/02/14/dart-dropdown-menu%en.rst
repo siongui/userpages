@@ -44,6 +44,8 @@ References:
 
 .. [5] `Load Dart Script if Dartium, Otherwise Load JavaScript in Browser <{filename}load-dart-script-if-dartium-otherwise-javascript%en.rst>`_
 
+.. [6] `[Golang] GopherJS DOM Example - Dropdown Menu <{filename}../../../2016/01/16/gopherjs-dom-example-dropdown-menu%en.rst>`_
+
 
 .. _Dart: https://www.dartlang.org/
 

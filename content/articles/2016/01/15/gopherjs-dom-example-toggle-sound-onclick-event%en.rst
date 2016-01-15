@@ -84,6 +84,8 @@ GopherJS_ DOM_ Example series
 
 - `[Golang] GopherJS DOM Example - Play Sound on Click Event <{filename}gopherjs-dom-example-play-sound-onclick-event%en.rst>`_
 
+- `[Golang] GopherJS DOM Example - Dropdown Menu <{filename}../16/gopherjs-dom-example-dropdown-menu%en.rst>`_
+
 ----
 
 References:

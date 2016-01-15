@@ -45,4 +45,7 @@ References:
 
 .. [3] `hide popup div when clicking outside the div <http://www.webdeveloper.com/forum/showthread.php?t=98973>`_
 
+.. [4] `[Golang] GopherJS DOM Example - Dropdown Menu <{filename}../../../2016/01/16/gopherjs-dom-example-dropdown-menu%en.rst>`_
+
+
 .. _inline css: http://www.w3schools.com/css/css_howto.asp
