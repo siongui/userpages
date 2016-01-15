@@ -39,6 +39,8 @@ References:
 
 .. [4] `[JavaScript] Play Sound on Click Event of DOM Element <{filename}../08/javascript-play-sound-onclick%en.rst>`_
 
+.. [5] `[Golang] GopherJS DOM Example - Play Sound on Click Event <{filename}../../../2016/01/15/gopherjs-dom-example-play-sound-onclick-event%en.rst>`_
+
 
 .. _audio: http://www.w3schools.com/tags/tag_audio.asp
 

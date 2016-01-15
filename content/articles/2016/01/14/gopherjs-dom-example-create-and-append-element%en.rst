@@ -77,6 +77,8 @@ GopherJS_ DOM_ Example series
 
 - `[Golang] GopherJS DOM Example - Hide Element by display:none <{filename}../13/gopherjs-dom-example-hide-element-by-display-none%en.rst>`_
 
+- `[Golang] GopherJS DOM Example - Play Sound on Click Event <{filename}../15/gopherjs-dom-example-play-sound-onclick-event%en.rst>`_
+
 ----
 
 References:
@@ -93,10 +95,6 @@ References:
 
 .. [4] `Getting Started with GopherJS <https://www.hakkalabs.co/articles/getting-started-gopherjs>`_
 
-.. [5] Google Search: `css display none <https://www.google.com/search?q=css+display+none>`_
-
-.. [6] `CSS Layout - The display Property <http://www.w3schools.com/css/css_display_visibility.asp>`_
-
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
@@ -107,7 +105,6 @@ References:
 .. _appendChild: http://www.w3schools.com/jsref/met_node_appendchild.asp
 .. _JavaScript: https://en.wikipedia.org/wiki/JavaScript
 .. _GopherJS bindings for the JavaScript DOM APIs: https://godoc.org/honnef.co/go/js/dom
-.. _display: http://www.w3schools.com/css/css_display_visibility.asp
 .. _onclick: http://www.w3schools.com/jsref/event_onclick.asp
 .. _assert the type: https://golang.org/ref/spec#Type_assertions
 

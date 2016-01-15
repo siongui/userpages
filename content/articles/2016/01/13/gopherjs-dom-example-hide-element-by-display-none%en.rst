@@ -79,6 +79,8 @@ GopherJS_ DOM_ Example series
 
 - `[Golang] GopherJS DOM Example - Create and Append Element <{filename}../14/gopherjs-dom-example-create-and-append-element%en.rst>`_
 
+- `[Golang] GopherJS DOM Example - Play Sound on Click Event <{filename}../15/gopherjs-dom-example-play-sound-onclick-event%en.rst>`_
+
 ----
 
 References:

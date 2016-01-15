@@ -32,6 +32,9 @@ References:
 
 .. [3] `[JavaScript] Toggle (Play/Pause) Sound on Click Event of DOM Element <{filename}../12/javascript-toggle-sound-onclick%en.rst>`_
 
+.. [4] `[Golang] GopherJS DOM Example - Play Sound on Click Event <{filename}../../../2016/01/15/gopherjs-dom-example-play-sound-onclick-event%en.rst>`_
+
+
 .. _audio: http://www.w3schools.com/html/html5_audio.asp
 
 .. _browser compatibility: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio#Browser_compatibility
