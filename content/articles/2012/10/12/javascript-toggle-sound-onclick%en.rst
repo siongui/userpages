@@ -41,6 +41,8 @@ References:
 
 .. [5] `[Golang] GopherJS DOM Example - Play Sound on Click Event <{filename}../../../2016/01/15/gopherjs-dom-example-play-sound-onclick-event%en.rst>`_
 
+.. [6] `[Golang] GopherJS DOM Example - Toggle (Play/Pause) Sound on Click Event <{filename}../../../2016/01/15/gopherjs-dom-example-toggle-sound-onclick-event%en.rst>`_
+
 
 .. _audio: http://www.w3schools.com/tags/tag_audio.asp
 
