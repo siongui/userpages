@@ -125,8 +125,8 @@ application.
 For Python_ to use gettext_
 ```````````````````````````
 
-Please read [8]_ to see how to use the **PO** and **MO** file in your Python_
-application.
+Please read [8]_ and [9]_ to see how to use the **PO** and **MO** file in your
+Python_ (web) application.
 
 
 ----
@@ -150,6 +150,8 @@ References:
 .. [7] `[Golang] Internationalization (i18n) of Go Application by GNU gettext Tools <{filename}../08/golang-i18n-go-application-by-gnu-gettext%en.rst>`_
 
 .. [8] `[Python] Internationalization (i18n) of Python Application by GNU gettext Tools <{filename}../14/python-i18n-py-application-by-gnu-gettext%en.rst>`_
+
+.. [9] `i18n Python Web Application by gettext and Jinja2 <{filename}../17/i18n-python-web-application-by-gettext-jinja2%en.rst>`_
 
 
 .. _Pāḷi Dictionary: https://palidictionary.appspot.com/

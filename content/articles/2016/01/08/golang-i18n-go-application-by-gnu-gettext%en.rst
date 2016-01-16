@@ -125,6 +125,8 @@ References:
 
 .. [9] `[Python] Internationalization (i18n) of Python Application by GNU gettext Tools <{filename}../14/python-i18n-py-application-by-gnu-gettext%en.rst>`_
 
+.. [10] `i18n Python Web Application by gettext and Jinja2 <{filename}../17/i18n-python-web-application-by-gettext-jinja2%en.rst>`_
+
 
 .. _gettext: https://www.gnu.org/software/gettext/
 .. _i18n: https://en.wikipedia.org/wiki/Internationalization_and_localization
