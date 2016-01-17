@@ -47,6 +47,8 @@ References:
 
 .. [3] `[Dart] MouseEvent ClientX and ClientY Deprecated <{filename}../16/dart-MouseEvent-clientX-clientY-deprecated%en.rst>`_
 
+.. [4] `[Golang] Draggable (Movable) Element by GopherJS <{filename}../../../2016/01/17/go-draggable-movable-element-by-gopherjs%en.rst>`_
+
 
 .. _AngularJS: https://angularjs.org/
 

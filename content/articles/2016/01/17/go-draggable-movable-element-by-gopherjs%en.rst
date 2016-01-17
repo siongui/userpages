@@ -1,21 +1,22 @@
-[Golang] GopherJS DOM Example - Dropdown Menu
-#############################################
+[Golang] Draggable (Movable) Element by GopherJS
+################################################
 
-:date: 2016-01-16T03:30+08:00
-:tags: Go, Golang, GopherJS, DOM, Go to JavaScript, html, dropdown menu
+:date: 2016-01-17T23:35+08:00
+:tags: Go, Golang, GopherJS, DOM, Go to JavaScript, draggable
 :category: Go
 :summary: Run Golang_ program in your browser by GopherJS_. Show how to write a
           Go_ program to do DOM_ manipulation by example. This example show how
-          to write a dropdown menu by GopherJS_ and its `DOM binding`_.
+          to write a draggable/movable element by GopherJS_ and its
+          `DOM binding`_.
 
 Introduction
 ++++++++++++
 
 It is really cool to run Go_ code in the browser. GopherJS_ is a compiler from
 Go_ to JavaScript_, which makes this possible.
-In this post, we will give a simple example of DOM_ manipulation in Go_ program.
-This example shows how to write a dropdown menu. This example is ported from the
-Dart_ dropdown menu [5]_ and JavaScript_ dropdown menu [6]_.
+In this post, we will give an example of DOM_ manipulation in Go_ program.
+This example shows how to write a draggable/movable HTML element. This example
+is ported from Dart_ draggable/movable element [5]_.
 If you are not familiar with basic DOM_ manipulation in Go_, read the
 posts in `GopherJS DOM Example series`_ first.
 
@@ -33,29 +34,27 @@ Run the following command to install GopherJS_ and
 Source Code
 +++++++++++
 
-First we write a simple HTML and CSS for our demo:
+First we write a simple HTML for our demo:
 
-.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/dropdown-menu/index.html
+.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/draggable/index.html
 
-.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/dropdown-menu/style.css
+The basic idea is that we bind onmousedown_ event handler to the draggable
+element. In the onmousedown_ event handler, we bind onmousemove_ and onmouseup_
+event handler to document_ object. In the onmousemove_ event handler, we
+calculate the movement and change the *CSS* property of the draggable element to
+make it move. In the onmouseup_ event handler, we remove the onmousemove_ and
+onmouseup_ event handler from document_ object.
 
-We will bind a onclick_ event handler to the HTML DOM document_ object.
-When users click inside the browser, we will check which DOM element is clicked.
-According to the clicked element and visibility of the dropdown menu, the
-dropdown menu will show up or disappear.
-
-.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/dropdown-menu/dropdown.go
+.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/draggable/draggable.go
 
 Compile the Go_ code to JavaScript_ by:
 
 .. code-block:: bash
 
-  $ gopherjs build dropdown.go -o demo.js
+  $ gopherjs build draggable.go -o demo.js
 
-Put *demo.js* together with the *index.html* and *style.css* in the same
-directory. Open the *index.html* with your browser. Click on the *Menu* text to
-toggle the visibility of the menu. Also try to click outside the dropdown menu,
-the dropdown menu will disappear.
+Put *demo.js* together with the *index.html* in the same directory. Open the
+*index.html* with your browser, and start to drag the element in the browser!
 
 ----
 
@@ -88,7 +87,7 @@ GopherJS_ DOM_ Example series
 
 - `[Golang] GopherJS DOM Example - Toggle (Play/Pause) Sound on Click Event <{filename}../15/gopherjs-dom-example-toggle-sound-onclick-event%en.rst>`_
 
-- `[Golang] Draggable (Movable) Element by GopherJS <{filename}../17/go-draggable-movable-element-by-gopherjs%en.rst>`_
+- `[Golang] GopherJS DOM Example - Dropdown Menu <{filename}../16/gopherjs-dom-example-dropdown-menu%en.rst>`_
 
 ----
 
@@ -106,13 +105,13 @@ References:
 
 .. [4] `Getting Started with GopherJS <https://www.hakkalabs.co/articles/getting-started-gopherjs>`_
 
-.. [5] `Dart Dropdown Menu <{filename}../../../2015/02/14/dart-dropdown-menu%en.rst>`_
+.. [5] `[Dart] Draggable (Movable) Element <{filename}../../../2015/02/17/dart-draggable-movable-element%en.rst>`_
 
-.. [6] `Javascript Drop Down Menu <{filename}../../../2015/02/13/javascript-dropdown-menu%en.rst>`_
+.. [6] `[AngularJS] Draggable (Movable) Element <{filename}../../../2013/04/04/angularjs-draggable-movable-element%en.rst>`_
 
-.. [7] `[Dart] Hide Div When Clicked Outside It <{filename}../../../2015/02/14/dart-hide-div-when-clicked-outside-it%en.rst>`_
+.. [7] `JavaScript Drag and Drop (Draggable, Movable) Element without External Library <{filename}../../../2012/07/13/javascript-drag-and-drop-draggable-movable-element%en.rst>`_
 
-.. [8] `Hide Div When Clicked Outside It <{filename}../../../2015/02/13/hide-div-when-clicked-outside-it%en.rst>`_
+.. [8] `golang function inside function <https://www.google.com/search?q=golang+function+inside+function>`_
 
 
 .. _Go: https://golang.org/
@@ -123,9 +122,11 @@ References:
 .. _JavaScript: https://en.wikipedia.org/wiki/JavaScript
 .. _GopherJS bindings for the JavaScript DOM APIs: https://godoc.org/honnef.co/go/js/dom
 .. _DOM binding: https://godoc.org/honnef.co/go/js/dom
-.. _onclick: http://www.w3schools.com/jsref/event_onclick.asp
 .. _document: http://www.w3schools.com/jsref/dom_obj_document.asp
 .. _Dart: https://www.dartlang.org/
+.. _onmousedown: http://www.w3schools.com/jsref/event_onmousedown.asp
+.. _onmouseup: http://www.w3schools.com/jsref/event_onmouseup.asp
+.. _onmousemove: http://www.w3schools.com/jsref/event_onmousemove.asp
 
 .. |godoc| image:: https://godoc.org/github.com/gopherjs/gopherjs/js?status.png
    :target: https://godoc.org/github.com/gopherjs/gopherjs/js

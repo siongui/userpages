@@ -35,6 +35,9 @@ References:
 
 .. [4] `[Dart] Draggable (Movable) Element <{filename}../../../2015/02/17/dart-draggable-movable-element%en.rst>`_
 
+.. [5] `[Golang] Draggable (Movable) Element by GopherJS <{filename}../../../2016/01/17/go-draggable-movable-element-by-gopherjs%en.rst>`_
+
+
 .. _AngularJS: https://angularjs.org/
 
 .. _Dart: https://www.dartlang.org/

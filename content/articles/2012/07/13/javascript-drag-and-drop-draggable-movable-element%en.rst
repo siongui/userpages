@@ -55,6 +55,9 @@ References:
 
 .. [5] `[Dart] Draggable (Movable) Element <{filename}../../../2015/02/17/dart-draggable-movable-element%en.rst>`_
 
+.. [6] `[Golang] Draggable (Movable) Element by GopherJS <{filename}../../../2016/01/17/go-draggable-movable-element-by-gopherjs%en.rst>`_
+
+
 .. _jQuery: http://jquery.com/
 
 .. _plugins: http://jqueryui.com/draggable/

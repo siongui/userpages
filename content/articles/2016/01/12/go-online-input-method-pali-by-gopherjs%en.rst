@@ -103,6 +103,8 @@ GopherJS_ DOM_ Example series
 
 - `[Golang] GopherJS DOM Example - Dropdown Menu <{filename}../16/gopherjs-dom-example-dropdown-menu%en.rst>`_
 
+- `[Golang] Draggable (Movable) Element by GopherJS <{filename}../17/go-draggable-movable-element-by-gopherjs%en.rst>`_
+
 ----
 
 References:
