@@ -1,21 +1,21 @@
-[Golang] GopherJS DOM Example - Dropdown Menu
-#############################################
+[Golang] Toggle (Show/Hide) HTML Element by GopherJS
+####################################################
 
-:date: 2016-01-16T03:30+08:00
-:tags: Go, Golang, GopherJS, DOM, Go to JavaScript, html, dropdown menu
+:date: 2016-01-18T21:06+08:00
+:tags: Go, Golang, GopherJS, DOM, Go to JavaScript, toggle, toggleable
 :category: Go
 :summary: Run Golang_ program in your browser by GopherJS_. Show how to write a
           Go_ program to do DOM_ manipulation by example. This example show how
-          to write a dropdown menu by GopherJS_ and its `DOM binding`_.
+          to toggle (show/hide) a HTML_ element by GopherJS_ and its
+          `DOM binding`_.
 
 Introduction
 ++++++++++++
 
 It is really cool to run Go_ code in the browser. GopherJS_ is a compiler from
 Go_ to JavaScript_, which makes this possible.
-In this post, we will give a simple example of DOM_ manipulation in Go_ program.
-This example shows how to write a dropdown menu. This example is ported from the
-Dart_ dropdown menu [5]_ and JavaScript_ dropdown menu [6]_.
+In this post, we will give an example of DOM_ manipulation in Go_ program.
+This example shows how to toggle (show/hide) a HTML element.
 If you are not familiar with basic DOM_ manipulation in Go_, read the
 posts in `GopherJS DOM Example series`_ first.
 
@@ -33,29 +33,26 @@ Run the following command to install GopherJS_ and
 Source Code
 +++++++++++
 
-First we write a simple HTML and CSS for our demo:
+First we write a simple HTML for our demo (CSS are put in the HTML file for
+demo, you should put CSS in a separate file in production):
 
-.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/dropdown-menu/index.html
+.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/toggle-element/index.html
 
-.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/dropdown-menu/style.css
+We bind onclick_ event handler to the *div* element whose *id* is *foo*. If
+users click the element, *Toggle()* method of *Class()* are called to toggle the
+CSS classes to make elements visible or invisible.
 
-We will bind a onclick_ event handler to the HTML DOM document_ object.
-When users click inside the browser, we will check which DOM element is clicked.
-According to the clicked element and visibility of the dropdown menu, the
-dropdown menu will show up or disappear.
-
-.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/dropdown-menu/dropdown.go
+.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/toggle-element/toggle.go
 
 Compile the Go_ code to JavaScript_ by:
 
 .. code-block:: bash
 
-  $ gopherjs build dropdown.go -o demo.js
+  $ gopherjs build toggle.go -o demo.js
 
-Put *demo.js* together with the *index.html* and *style.css* in the same
-directory. Open the *index.html* with your browser. Click on the *Menu* text to
-toggle the visibility of the menu. Also try to click outside the dropdown menu,
-the dropdown menu will disappear.
+Put *demo.js* together with the *index.html* in the same directory. Open the
+*index.html* with your browser. Click the yello *Heading* to toggle (show/hide)
+the HTML element.
 
 ----
 
@@ -88,9 +85,9 @@ GopherJS_ DOM_ Example series
 
 - `[Golang] GopherJS DOM Example - Toggle (Play/Pause) Sound on Click Event <{filename}../15/gopherjs-dom-example-toggle-sound-onclick-event%en.rst>`_
 
-- `[Golang] Draggable (Movable) Element by GopherJS <{filename}../17/go-draggable-movable-element-by-gopherjs%en.rst>`_
+- `[Golang] GopherJS DOM Example - Dropdown Menu <{filename}../16/gopherjs-dom-example-dropdown-menu%en.rst>`_
 
-- `[Golang] Toggle (Show/Hide) HTML Element by GopherJS <{filename}../18/go-toggle-show-hide-element-by-gopherjs%en.rst>`_
+- `[Golang] Draggable (Movable) Element by GopherJS <{filename}../17/go-draggable-movable-element-by-gopherjs%en.rst>`_
 
 ----
 
@@ -108,14 +105,6 @@ References:
 
 .. [4] `Getting Started with GopherJS <https://www.hakkalabs.co/articles/getting-started-gopherjs>`_
 
-.. [5] `Dart Dropdown Menu <{filename}../../../2015/02/14/dart-dropdown-menu%en.rst>`_
-
-.. [6] `Javascript Drop Down Menu <{filename}../../../2015/02/13/javascript-dropdown-menu%en.rst>`_
-
-.. [7] `[Dart] Hide Div When Clicked Outside It <{filename}../../../2015/02/14/dart-hide-div-when-clicked-outside-it%en.rst>`_
-
-.. [8] `Hide Div When Clicked Outside It <{filename}../../../2015/02/13/hide-div-when-clicked-outside-it%en.rst>`_
-
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
@@ -126,8 +115,6 @@ References:
 .. _GopherJS bindings for the JavaScript DOM APIs: https://godoc.org/honnef.co/go/js/dom
 .. _DOM binding: https://godoc.org/honnef.co/go/js/dom
 .. _onclick: http://www.w3schools.com/jsref/event_onclick.asp
-.. _document: http://www.w3schools.com/jsref/dom_obj_document.asp
-.. _Dart: https://www.dartlang.org/
 
 .. |godoc| image:: https://godoc.org/github.com/gopherjs/gopherjs/js?status.png
    :target: https://godoc.org/github.com/gopherjs/gopherjs/js
