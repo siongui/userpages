@@ -12,7 +12,9 @@ GNU gettext_ tools are great for creating i18n (web) applications. In this post,
 assume that PO_ and MO_ files are ready and we will use the PO_ and MO_ files to
 let Go_ applications speak local languages. If you do not know what PO_ or MO_
 files are, or you do not know how to create them by gettext_ tools, please read
-my previous post [1]_ first.
+my previous post [1]_ first. If you want to know how to render HTML by
+`html/template`_ with the translated texts in PO_ and MO_ files in your Go_ web
+application, please refer to [12]_.
 
 
 PO_ and MO_ files
@@ -127,6 +129,10 @@ References:
 
 .. [10] `i18n Python Web Application by gettext and Jinja2 <{filename}../17/i18n-python-web-application-by-gettext-jinja2%en.rst>`_
 
+.. [11] `gosexy/gettext · GitHub <https://github.com/gosexy/gettext>`_
+
+.. [12] `i18n Golang Web Application by gettext and html/template <{filename}../19/i18n-go-web-application-by-gettext-html-template%en.rst>`_
+
 
 .. _gettext: https://www.gnu.org/software/gettext/
 .. _i18n: https://en.wikipedia.org/wiki/Internationalization_and_localization
@@ -139,6 +145,7 @@ References:
 .. _msgfmt: https://www.gnu.org/software/gettext/manual/html_node/msgfmt-Invocation.html
 .. _gettext-go: https://github.com/chai2010/gettext-go
 .. _issue #1: https://github.com/chai2010/gettext-go/issues/1
+.. _html/template: https://golang.org/pkg/html/template/
 
 .. |godoc1-svg| image:: https://godoc.org/github.com/chai2010/gettext-go/gettext?status.svg
    :target: https://godoc.org/github.com/chai2010/gettext-go/gettext

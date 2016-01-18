@@ -119,8 +119,8 @@ run-time.
 For Go_ to use gettext_
 ```````````````````````
 
-Please read [7]_ to see how to use the **PO** and **MO** file in your Go_
-application.
+Please read [7]_ and [10]_ to see how to use the **PO** and **MO** file in your
+Go_ (web) application.
 
 For Python_ to use gettext_
 ```````````````````````````
@@ -152,6 +152,8 @@ References:
 .. [8] `[Python] Internationalization (i18n) of Python Application by GNU gettext Tools <{filename}../14/python-i18n-py-application-by-gnu-gettext%en.rst>`_
 
 .. [9] `i18n Python Web Application by gettext and Jinja2 <{filename}../17/i18n-python-web-application-by-gettext-jinja2%en.rst>`_
+
+.. [10] `i18n Golang Web Application by gettext and html/template <{filename}../19/i18n-go-web-application-by-gettext-html-template%en.rst>`_
 
 
 .. _Pāḷi Dictionary: https://palidictionary.appspot.com/
