@@ -3,7 +3,7 @@ JavaScript Cross-Browser Cross-Domain XMLHttpRequest (XDomainRequest in IE)
 
 :date: 2012-09-25 22:40
 :modified: 2015-02-24 16:20
-:tags: html, JavaScript, CORS, DOM
+:tags: html, JavaScript, CORS, DOM, HTTP GET, HTTP POST, XMLHttpRequest
 :category: JavaScript
 :summary: Cross-domain AJAX requests
 
