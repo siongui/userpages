@@ -62,7 +62,7 @@ Now we can let Go_ application speak local language:
 Note that xgettext_ cannot extract translatable strings directly from
 ``{{gettext "Home"}}``. We can use the method similar to [4]_ by using sed_ to
 handle input files first and then feed the output to xgettext_ to extract
-translatable strings:
+translatable strings (read [7]_ for further details):
 
 .. code-block:: bash
 
@@ -104,6 +104,8 @@ References:
 .. [5] `gmarty/xgettext · GitHub <https://github.com/gmarty/xgettext>`_ (Extract translatable strings from Handlebars templates.)
 
 .. [6] `arendjr/grunt-xgettext: Grunt xgettext plugin for JavaScript and Handlebars <https://github.com/arendjr/grunt-xgettext>`_
+
+.. [7] `xgettext Extract Translatable Strings From Golang html/template <{filename}xgettext-extract-translatable-string-from-go-html-template%en.rst>`_
 
 
 .. _gettext: https://www.gnu.org/software/gettext/
