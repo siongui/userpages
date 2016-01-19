@@ -90,6 +90,8 @@ References
 
 `How do I add locale to ubuntu server? - Ask Ubuntu <http://askubuntu.com/questions/76013/how-do-i-add-locale-to-ubuntu-server>`_
 
+`Web Fundamentals | Web Fundamentals - Google Developers <https://developers.google.com/web/fundamentals/>`_
+
 `Online reStructuredText editor <http://rst.ninjs.org/>`_
 
 edit on Github link:
@@ -133,12 +135,6 @@ reStructuredText:
   restructuredtext center text:
 
     `Best way to align center a paragraph with RestructuredText? <http://stackoverflow.com/questions/14819093/best-way-to-align-center-a-paragraph-with-restructuredtext>`_
-
-Bootstrap image trigger modal:
-
-  `Can I use an image to trigger a modal window in Bootstrap? <http://stackoverflow.com/questions/15423532/can-i-use-an-image-to-trigger-a-modal-window-in-bootstrap>`_
-
-  `Bootstrap Image trigger modal example code <http://www.bootply.com/7wOLkC9AVX>`_
 
 Image Hover:
 

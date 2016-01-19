@@ -239,6 +239,8 @@ Windows平台理論上應該也可以將整個網站編譯出來並預覽，但�
 
 .. [11] `网站内链优化策略-月光博客 <http://www.williamlong.info/archives/4214.html>`_
 
+.. [a] `Meta 标签与搜索引擎优化 - WEB前端 - 伯乐在线 <http://web.jobbole.com/84805/>`_
+
 Vim開發環境：
 
 .. [12] `Vim as Golang IDE · Issue #5 · rainyear/lolita · GitHub <https://github.com/rainyear/lolita/issues/5>`_
