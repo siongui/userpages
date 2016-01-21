@@ -1,7 +1,7 @@
 [Webapp] Dart HTTP POST JSON Data to Go Server
 ##############################################
 
-:tags: Dart, Go, Golang, HTTP POST, Web application, JSON, Makefile
+:tags: Dart, Go, Golang, HTTP POST, Web application, JSON, Makefile, XMLHttpRequest
 :category: Go
 :summary: Show how to pass JSON-format data using HTTP POST between browser (implemented with Dart) and web server (implemented with Go).
 

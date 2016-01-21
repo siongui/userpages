@@ -2,7 +2,7 @@
 ############################################################
 
 :date: 2016-01-20T03:30+08:00
-:tags: Go, Golang, GopherJS, Go to JavaScript, HTTP GET, XMLHttpRequest
+:tags: Go, Golang, GopherJS, Go to JavaScript, HTTP GET, XMLHttpRequest, JSON
 :category: Go
 :summary: Run Golang_ program in your browser by GopherJS_. Use XMLHttpRequest_
           (XHR) to send `HTTP GET`_ requests to retrieve JSON_ data from remote
@@ -38,7 +38,7 @@ The following is the JSON_ data to be retrieved by `HTTP GET`_ request:
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/xhrget/sukhada.json
 
 It is surprising easy to send `HTTP GET`_ XHR_ request: Use Golang_ built-in
-`net/http`_ package! You just use *GET* method as usual, and GopherJS will take
+`net/http`_ package! You just use *Get* method as usual, and GopherJS will take
 care of all the rests for you!
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/xhrget/xhrget.go
