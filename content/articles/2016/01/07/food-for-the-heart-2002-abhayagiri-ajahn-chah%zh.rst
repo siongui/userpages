@@ -4,7 +4,7 @@
 :author: 阿姜查
 :tags: 阿姜查, Ajahn Chah, 隆波查, Luang Por Chah, 阿姜查的禪修世界, Food for the Heart, 轉錄
 :category: 阿姜查
-:summary: 阿姜查的禪修世界(Food for the Heart) - 阿姜查(Ajahn Chah)
+:summary: `阿姜查的禪修世界`_ (`Food for the Heart`_) - 阿姜查(Ajahn Chah)
 :og_image: http://www.ajahnchah.org/book/07bb.jpg
 
 .. contents:: 目錄
@@ -6472,3 +6472,7 @@
 .. [5] `阿姜查的禅修世界——定 - 溯源佛教网 - 辽宁海城大悲寺 <http://www.suyuan.org/fbyd/1661.html>`_
 
 .. [6] `阿姜查的禅修世界——慧 - 溯源佛教网 - 辽宁海城大悲寺 <http://www.suyuan.org/fbyd/1878.html>`_
+
+
+.. _阿姜查的禪修世界: http://www.fosss.org/book/AJiangCha/Index.html
+.. _Food for the Heart: http://www.wisdompubs.org/book/food-heart
