@@ -3,7 +3,7 @@ JSONP on Google App Engine Python
 
 :date: 2015-02-20 15:11
 :modified: 2015-02-20 21:49
-:tags: JavaScript, CORS, JSONP, Google App Engine, Python
+:tags: JavaScript, CORS, JSONP, Google App Engine, Python, JSON
 :category: JavaScript
 :summary: Cross-domain requests by JSONP on Google App Engine for Python.
 

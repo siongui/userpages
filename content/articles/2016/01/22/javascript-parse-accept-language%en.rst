@@ -13,6 +13,12 @@ and output (languageTag, quality) pairs:
 
 .. code-block:: javascript
 
+    /**
+     * Parse HTTP accept-language header of the user browser.
+     *
+     * @param {string} hdr The string of accpet-language header
+     * @return {Array} Array of language-quality pairs
+     */
     function getParsedAcceptLangs(hdr) {
       var pairs = hdr.split(',');
       var result = [];
