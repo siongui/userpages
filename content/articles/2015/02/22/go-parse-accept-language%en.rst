@@ -9,7 +9,7 @@
 
 This post is the Go_ version of my previous post
 "*[Python] Parse Accept-Language in HTTP Request Header*" [1]_.
-This Go_ example parses Accept-Language_ string in HTTP requeset header and
+This Go_ example parses Accept-Language_ string in HTTP request header and
 output (languageTag, quality) pairs:
 
 .. show_github_file:: siongui userpages content/code/go-accept-language/parse.go
