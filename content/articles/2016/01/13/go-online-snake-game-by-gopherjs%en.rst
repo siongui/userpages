@@ -3,7 +3,7 @@
 
 :date: 2016-01-13T19:22+08:00
 :tags: Go, Golang, GopherJS, DOM, Go to JavaScript, html, Web application, web, Goroutine, Keyboard Event
-:category: Go
+:category: GopherJS
 :summary: Online `snake game`_ using Go_ programming language, compiled to
           JavaScript_ by GopherJS_. (GopherJS DOM_ example)
 

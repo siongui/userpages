@@ -3,7 +3,7 @@
 
 :date: 2016-01-12T20:14+08:00
 :tags: Go, Golang, GopherJS, DOM, Go to JavaScript, html, Pāli Input Method , IME, Keyboard Event, Web application, web
-:category: Go
+:category: GopherJS
 :summary: Online Pali_ (Pāli, Pāḷi) Input Method using Go_ programming language,
           compiled to JavaScript_ by GopherJS_. (GopherJS DOM_ example)
 

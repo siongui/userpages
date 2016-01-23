@@ -3,7 +3,7 @@
 
 :date: 2016-01-11T01:52+08:00
 :tags: Go, Golang, GopherJS, DOM, Go to JavaScript
-:category: Go
+:category: GopherJS
 :summary: Run Golang_ program in your browser by GopherJS_. Show how to write a
           Go_ program to do DOM_ manipulation by example. Use addEventListener_
           to attach event handler to specific DOM_ element.

@@ -3,7 +3,7 @@
 
 :date: 2016-01-13T21:08+08:00
 :tags: Go, Golang, GopherJS, DOM, Go to JavaScript
-:category: Go
+:category: GopherJS
 :summary: Run Golang_ program in your browser by GopherJS_. Show how to write a
           Go_ program to do DOM_ manipulation by example. This example show how
           to hide HTML elements by setting its CSS property display_:none.

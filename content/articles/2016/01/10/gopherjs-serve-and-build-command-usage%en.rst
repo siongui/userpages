@@ -3,7 +3,7 @@
 
 :date: 2016-01-10T19:14+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Commandline, Continuous Integration
-:category: Go
+:category: GopherJS
 :summary: Example of how to use *serve* and *build* command of GopherJS_.
 
 

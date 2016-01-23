@@ -3,7 +3,7 @@
 
 :date: 2016-01-15T18:33+08:00
 :tags: Go, Golang, GopherJS, DOM, Go to JavaScript, HTML5 audio, html
-:category: Go
+:category: GopherJS
 :summary: Run Golang_ program in your browser by GopherJS_. Show how to write a
           Go_ program to do DOM_ manipulation by example. This example show how
           to play sound `on click event`_ of a HTML_ DOM element.
