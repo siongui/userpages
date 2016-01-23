@@ -41,7 +41,7 @@ It is surprising easy to send `HTTP GET`_ XHR_ request: Use Golang_ built-in
 `net/http`_ package! You just use *Get* method as usual, and GopherJS will take
 care of all the rests for you!
 
-.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/xhrget/xhrget.go
+.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/xhrget/xhrget2.go
 
 Compile the Go_ code to JavaScript_ by:
 
