@@ -38,14 +38,14 @@ Run the following command to install GopherJS_ and
 Source Code
 +++++++++++
 
-HTML file for demo:
+HTML file for demo: (*index.html*)
 
 .. code-block:: html
 
   <!doctype html>
   <html>
   <head>
-    <title>Golang access HTTP Request Header (Accept-Language) by JSONP
+    <title>Golang - access HTTP Request Header (Accept-Language) by JSONP
            to detect browser language preference</title>
   </head>
   <body>

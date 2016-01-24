@@ -33,9 +33,19 @@ Run the following command to install GopherJS_:
 Source Code
 +++++++++++
 
-First we write a simple HTML for our demo:
+First we write a simple HTML for our demo: (*index.html*)
 
-.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/xhrpost/index.html
+.. code-block:: html
+
+  <!doctype html>
+  <html>
+  <head>
+    <title>XHR HTTP Post by GopherJS</title>
+  </head>
+  <body>
+  <script src="demo.js"></script>
+  </body>
+  </html>
 
 It is surprising easy to send `HTTP POST`_ XHR_ request: Use Golang_ built-in
 `net/http`_ package! You just use *Post* method as usual, and GopherJS will take

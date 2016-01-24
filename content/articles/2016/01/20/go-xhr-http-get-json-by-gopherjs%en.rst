@@ -29,9 +29,19 @@ Run the following command to install GopherJS_:
 Source Code
 +++++++++++
 
-First we write a simple HTML for our demo:
+First we write a simple HTML for our demo: (*index.html*)
 
-.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/xhrget/index.html
+.. code-block:: html
+
+  <!doctype html>
+  <html>
+  <head>
+    <title>XHR HTTP Get by GopherJS</title>
+  </head>
+  <body>
+  <script src="demo.js"></script>
+  </body>
+  </html>
 
 The following is the JSON_ data to be retrieved by `HTTP GET`_ request:
 

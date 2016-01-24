@@ -38,9 +38,19 @@ Run the following command to install GopherJS_ and
 Source Code
 +++++++++++
 
-First we write a simple HTML for our demo:
+First we write a simple HTML for our demo: (*index.html*)
 
-.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/jsonp/index.html
+.. code-block:: html
+
+  <!doctype html>
+  <html>
+  <head>
+    <title>JSONP example of Full-Stack Golang</title>
+  </head>
+  <body>
+  <script src="demo.js"></script>
+  </body>
+  </html>
 
 A callback function whose name is *mycallback* are declared by *js.Global.Set*
 method. The *mycallback* function will receive JSON_ data from the server.
