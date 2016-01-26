@@ -2,7 +2,7 @@ xgettext Extract Translatable Strings From Golang html/template
 ###############################################################
 
 :date: 2016-01-19T21:09+08:00
-:tags: Go, Golang, i18n, Locale, gettext, html, Web application, web, sed
+:tags: Go, Golang, i18n, Locale, gettext, html, Web application, web, sed, Regular Expression
 :category: Go
 :summary: Use xgettext_ (one of GNU gettext_ utilities) to extract translatable
           strings from HTML_ templates of Go_ `html/template`_.
