@@ -6,18 +6,19 @@ export GOPATH=$(realpath .)
 export PATH := $(GOROOT)/bin:$(PATH)
 
 
-run:
-	go run html.go
-
 test:
 	@# -v means verbose, can see logs of t.Log
-	@go test -v
+	@go test -v po2json.go po2json_test.go
+
+run:
+	go run html.go
 
 help:
 	go help
 
 fmt:
-	go fmt gettext.go gettext_test.go html.go
+	@#go fmt gettext.go gettext_test.go html.go
+	go fmt po2json.go po2json_test.go
 
 install:
 	go get github.com/chai2010/gettext-go/gettext

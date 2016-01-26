@@ -77,6 +77,8 @@ References:
 
 .. [18] `用python爬虫抓站的一些技巧总结 - Python - 伯乐在线 <http://python.jobbole.com/81997/>`_
 
+.. [19] `Scrapy 示例 —— Web 爬虫框架 - Python - 伯乐在线 <http://python.jobbole.com/84237/>`_
+
 
 .. _Web scrape: https://en.wikipedia.org/wiki/Web_scraping
 .. _Python: https://www.python.org/

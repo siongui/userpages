@@ -13,7 +13,7 @@ def extractFromPOFile(poPath):
   return tuples
 
 def PO2JSON(locales, domain, localeDir):
-  # create PO-like js file for i18n
+  # create PO-like json data for i18n
   obj = {}
   for locale in locales:
     # English is default language
