@@ -62,6 +62,20 @@ References:
 
 .. [4] `demizer/go-rst · GitHub <https://github.com/demizer/go-rst>`_ (Parse reStructuredText with Go.)
 
+.. [5] `Docutils text processing framework <https://www.google.com/search?q=Docutils+text+processing+framework>`_
+
+.. [6] `reStructuredText tool support - Stack Overflow <http://stackoverflow.com/questions/2746692/restructuredtext-tool-support>`_
+
+.. [7] `The Docutils Subversion Repository <http://docutils.sourceforge.net/docs/dev/repository.html>`_
+
+.. [8] `Docutils: Documentation Utilities / Code /trunk/docutils/tools/rst2html5.py <http://sourceforge.net/p/docutils/code/HEAD/tree/trunk/docutils/tools/rst2html5.py>`_
+
+.. [9] `Docutils: Documentation Utilities / Code /trunk/docutils/docutils/core.py <http://sourceforge.net/p/docutils/code/HEAD/tree/trunk/docutils/docutils/core.py#l328>`_
+
+.. [10] `The Docutils Publisher <http://docutils.sourceforge.net/docs/api/publisher.html>`_
+
+.. [11] `PEP 258 -- Docutils Design Specification <http://docutils.sourceforge.net/docs/peps/pep-0258.html>`_
+
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
