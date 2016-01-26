@@ -57,6 +57,10 @@ Tested on: ``Ubuntu Linux 15.10``, ``Python 2.7.10``.
 
 References:
 
+.. [1] `Python Regular Expressions  |  Google for Education  |  Google Developers <https://developers.google.com/edu/python/regular-expressions>`_
+
+.. [2] `Regex replace (in Python) - a simpler way? - Stack Overflow <http://stackoverflow.com/questions/490597/regex-replace-in-python-a-simpler-way>`_
+
 
 .. _gettext: https://www.gnu.org/software/gettext/
 .. _locale: https://en.wikipedia.org/wiki/Locale
