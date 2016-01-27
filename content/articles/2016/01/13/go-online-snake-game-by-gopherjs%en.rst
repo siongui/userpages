@@ -87,6 +87,8 @@ References:
 .. [5] `siongui/dart-snake-game · GitHub <https://github.com/siongui/dart-snake-game>`_
        (`demo <https://siongui.github.io/dart-snake-game/>`__)
 
+.. [6] `Canvas Particles Using Gopherjs <http://archs.github.io/gopherjs/canvasparticls/>`_
+
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
