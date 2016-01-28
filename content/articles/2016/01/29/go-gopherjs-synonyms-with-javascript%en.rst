@@ -114,14 +114,32 @@ Inspired by [4]_, Golang_/GopherJS_ (with / without
 
        .. code-block:: go
 
-         js.Global.Get("navigator").Get("language")
-         js.Global.Get("navigator").Get("languages")
+         js.Global.Get("navigator").Get("language").String()
+         js.Global.Get("navigator").Get("languages").String()
 
      - |
 
        .. code-block:: go
 
          // not implemented
+
+   * - `getElementById()`_
+
+       .. code-block:: javascript
+
+         element = document.getElementById("foo");
+
+     - |
+
+       .. code-block:: go
+
+         element := js.Global.Get("document").Call("getElementById", "foo")
+
+     - |
+
+       .. code-block:: go
+
+         element := dom.GetWindow().Document().GetElementByID("foo")
 
 
 ----
@@ -159,6 +177,7 @@ References:
 .. _alert(): http://www.w3schools.com/jsref/met_win_alert.asp
 .. _navigator: https://developer.mozilla.org/en-US/docs/Web/API/Navigator
 .. _NavigatorLanguage: https://developer.mozilla.org/en-US/docs/Web/API/NavigatorLanguage
+.. _getElementById(): https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
 
 .. |godoc| image:: https://godoc.org/github.com/gopherjs/gopherjs/js?status.png
    :target: https://godoc.org/github.com/gopherjs/gopherjs/js
