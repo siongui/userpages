@@ -1,7 +1,7 @@
 [Golang] gettext Function on Frontend (Browser) by GopherJS
 ###########################################################
 
-:date: 2016-01-28T03:05+08:00
+:date: 2016-01-28T08:46+08:00
 :tags: Go, Golang, i18n, Locale, JSON, gettext, GopherJS, Go to JavaScript,
        DOM, html, Web application, web
 :category: GopherJS
@@ -20,16 +20,14 @@ prepare PO_ files (see [4]_, [5]_, [6]_) and convert the PO files to JSON_
 format (see [7]_). The translations in JSON_ format will be used by our
 *gettext* function.
 
-Install GopherJS_ and DOM_ bindings
-+++++++++++++++++++++++++++++++++++
+Install GopherJS_
++++++++++++++++++
 
-Run the following command to install GopherJS_ and
-`GopherJS bindings for the JavaScript DOM APIs`_:
+Run the following command to install GopherJS_:
 
 .. code-block:: bash
 
   $ go get -u github.com/gopherjs/gopherjs
-  $ go get -u honnef.co/go/js/dom
 
 Source Code
 +++++++++++
@@ -47,9 +45,9 @@ example, **Home** is a text string to be translated, it will be wrapped as:
   <div data-default-string="Home">Home</div>
 
 You can also wrap a text string in *span* element or other elements instead of
-*div*. Rememeber to modify the Go_ code below accordingly.
+*div*.
 
-.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/jsgettext/jsgettext.go
+.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/jsgettext/jsgettext-raw.go
 
 We put translations converted from PO files in the source code. The translations
 are used by *gettext* function to translate a text string.
@@ -58,17 +56,33 @@ When a user clicks the language button, we will select the *div* elements with
 *data-default-string* attribute. The string in the attribute will be translated
 by *gettext* function and replace the original string in the *div*.
 
-If you wrap strings in *span* other than *div*, remember to modify the code
-accordingly.
-
 Compile the Go_ code to JavaScript_ by:
 
 .. code-block:: bash
 
-  $ gopherjs build jsgettext.go -o demo.js
+  $ gopherjs build jsgettext-raw.go -o demo.js
 
 Put *demo.js* together with the *index.html* in the same directory. Open the
 *index.html* with your browser. Click language buttons to translate strings.
+
+----
+
+Appendix
+++++++++
+
+If you want to use `GopherJS bindings for the JavaScript DOM APIs`_ to write
+idiomatic Go_ code, install DOM_ binding by:
+
+.. code-block:: bash
+
+  $ go get -u honnef.co/go/js/dom
+
+And compile the following code to JavaScript instead of above:
+
+.. show_github_file:: siongui userpages content/code/gopherjs-dom/src/jsgettext/jsgettext.go
+
+Note that if you wrap strings in *span* or other elements instead of *div*,
+remember to modify the above code accordingly.
 
 ----
 

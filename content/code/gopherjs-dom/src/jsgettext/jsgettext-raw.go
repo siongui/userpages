@@ -1,6 +1,6 @@
 package main
 
-import "honnef.co/go/js/dom"
+import "github.com/gopherjs/gopherjs/js"
 import "encoding/json"
 import "strings"
 
@@ -30,25 +30,27 @@ func gettext(locale, str string) string {
 	}
 }
 
-func translate(value string) {
-	d := dom.GetWindow().Document()
-	elements := d.QuerySelectorAll("[data-default-string]")
-	for _, element := range elements {
-		elm := element.(*dom.HTMLDivElement)
-		elm.SetTextContent(gettext(value, elm.Dataset()["defaultString"]))
+func translate(locale string) {
+	d := js.Global.Get("document")
+	nodeList := d.Call("querySelectorAll", "[data-default-string]")
+	length := nodeList.Get("length").Int()
+	for i := 0; i < length; i++ {
+		element := nodeList.Call("item", i)
+		str := element.Get("dataset").Get("defaultString").String()
+		element.Set("textContent", gettext(locale, str))
 	}
 }
 
 func main() {
 	setupJSON()
 
-	d := dom.GetWindow().Document()
-	buttons := d.QuerySelectorAll("button")
-
-	for _, btn := range buttons {
-		elm := btn.(*dom.HTMLButtonElement)
-		elm.AddEventListener("click", false, func(event dom.Event) {
-			translate(elm.Value)
+	d := js.Global.Get("document")
+	nodeList := d.Call("querySelectorAll", "button")
+	length := nodeList.Get("length").Int()
+	for i := 0; i < length; i++ {
+		btn := nodeList.Call("item", i)
+		btn.Call("addEventListener", "click", func() {
+			translate(btn.Get("value").String())
 		})
 	}
 }
