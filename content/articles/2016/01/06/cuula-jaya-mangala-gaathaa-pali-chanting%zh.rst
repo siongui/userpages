@@ -5,7 +5,7 @@ cūla-jaya-maṅgala-gāthā (小勝利吉祥偈 จุลชัยยะมง�
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: cūla-jaya-maṅgala-gāthā (小勝利吉祥偈 `จุลชัยยะมงคลคาถา`_)
-:og_image: http://i.ytimg.com/vi/6r1CKnr2HnY/hqdefault.jpg
+:og_image: https://i.ytimg.com/vi/6r1CKnr2HnY/maxresdefault.jpg
 
 
 .. container:: align-center video-container
