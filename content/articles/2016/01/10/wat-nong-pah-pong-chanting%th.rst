@@ -5,6 +5,7 @@
 :tags: ภาษาบาลี, การสวดมนต์
 :category: ภาษาบาลีสวดมนต์
 :summary: สวดมนต์วัดหนองป่าพง (ทำวัตร)
+:og_image: https://i.ytimg.com/vi/ny-FHogsPEk/maxresdefault.jpg
 
 
 สวดมนต์ `วัดหนองป่าพง`_

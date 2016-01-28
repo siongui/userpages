@@ -5,6 +5,7 @@
 :tags: ภาษาบาลี, การสวดมนต์
 :category: ภาษาบาลีสวดมนต์
 :summary: `โอวาทปาฏิโมกขคาถา`_ - ภาษาบาลีสวดมนต์
+:og_image: https://i.ytimg.com/vi/ny-FHogsPEk/maxresdefault.jpg
 
 
 .. list-table:: `โอวาทปาฏิโมกขคาถา`_ (มาจาก [1]_)

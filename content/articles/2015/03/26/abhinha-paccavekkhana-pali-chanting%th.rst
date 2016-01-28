@@ -5,6 +5,7 @@
 :tags: ภาษาบาลี, การสวดมนต์
 :category: ภาษาบาลีสวดมนต์
 :summary: `อภิณหปัจจเวกขณปาฐะ`_ - ภาษาบาลีสวดมนต์
+:og_image: https://i.ytimg.com/vi/ny-FHogsPEk/maxresdefault.jpg
 
 
 .. list-table:: `อภิณหปัจจเวกขณปาฐะ`_ (มาจาก [1]_)
