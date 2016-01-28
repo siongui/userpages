@@ -1,7 +1,7 @@
 [Golang] GopherJS Synonyms with JavaScript
 ##########################################
 
-:date: 2016-01-29T03:25+08:00
+:date: 2016-01-29T04:26+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM, JavaScript
 :category: GopherJS
 :summary: Synonyms - Go_/GopherJS_ idioms and snippets translated to JavaScript_
@@ -49,6 +49,80 @@ Inspired by [4]_, Golang_/GopherJS_ (with / without
 
          dom.GetWindow()
 
+   * - `alert()`_
+
+       .. code-block:: javascript
+
+         alert("Hello World")
+
+     - |
+
+       .. code-block:: go
+
+         js.Global.Call("alert", "Hello World")
+
+     - |
+
+       .. code-block:: go
+
+         dom.GetWindow().Alert("Hello World")
+
+   * - The HTML DOM_ document_ Object
+
+       .. code-block:: javascript
+
+         document
+
+     - |
+
+       .. code-block:: go
+
+         js.Global.Get("document")
+
+     - |
+
+       .. code-block:: go
+
+         dom.GetWindow().Document()
+
+   * - navigator_ Object
+
+       .. code-block:: javascript
+
+         window.navigator
+
+     - |
+
+       .. code-block:: go
+
+         js.Global.Get("navigator")
+
+     - |
+
+       .. code-block:: go
+
+         dom.GetWindow().Navigator()
+
+   * - NavigatorLanguage_ API
+
+       .. code-block:: javascript
+
+         window.navigator.language
+         window.navigator.languages
+
+     - |
+
+       .. code-block:: go
+
+         js.Global.Get("navigator").Get("language")
+         js.Global.Get("navigator").Get("languages")
+
+     - |
+
+       .. code-block:: go
+
+         // not implemented
+
 
 ----
 
@@ -79,9 +153,12 @@ References:
 .. _window: http://www.w3schools.com/jsref/obj_window.asp
 .. _Object: https://godoc.org/github.com/gopherjs/gopherjs/js#Object
 .. _GetWindow(): https://godoc.org/honnef.co/go/js/dom#GetWindow
-
+.. _document: http://www.w3schools.com/jsref/dom_obj_document.asp
 .. _GopherJS bindings for the JavaScript DOM APIs: https://godoc.org/honnef.co/go/js/dom
 .. _DOM: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+.. _alert(): http://www.w3schools.com/jsref/met_win_alert.asp
+.. _navigator: https://developer.mozilla.org/en-US/docs/Web/API/Navigator
+.. _NavigatorLanguage: https://developer.mozilla.org/en-US/docs/Web/API/NavigatorLanguage
 
 .. |godoc| image:: https://godoc.org/github.com/gopherjs/gopherjs/js?status.png
    :target: https://godoc.org/github.com/gopherjs/gopherjs/js
