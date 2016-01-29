@@ -2,6 +2,7 @@
 ##########################################
 
 :date: 2016-01-29T04:26+08:00
+:modified: 2016-01-30T05:57+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM, JavaScript
 :category: GopherJS
 :summary: Synonyms - Go_/GopherJS_ idioms and snippets translated to JavaScript_
@@ -141,6 +142,97 @@ Inspired by [4]_, Golang_/GopherJS_ (with / without
 
          element := dom.GetWindow().Document().GetElementByID("foo")
 
+   * - HTML DOM innerHTML_ property
+
+       .. code-block:: javascript
+
+         // read
+         var value = document.getElementById("foo").innerHTML;
+         // set
+         document.getElementById("foo").innerHTML = "new value";
+
+     - |
+
+       .. code-block:: go
+
+         element := js.Global.Get("document").Call("getElementById", "foo")
+         // read
+         value := element.Get("innerHTML").String()
+         // set
+         element.Set("innerHTML", "new value")
+
+     - |
+
+       .. code-block:: go
+
+         element := dom.GetWindow().Document().GetElementByID("foo")
+         // read
+         value := element.InnerHTML()
+         // set
+         element.SetInnerHTML("new value")
+
+   * - HTML DOM textContent_ property
+
+       .. code-block:: javascript
+
+         // read
+         var value = document.getElementById("foo").textContent;
+         // set
+         document.getElementById("foo").textContent = "new value";
+
+     - |
+
+       .. code-block:: go
+
+         element := js.Global.Get("document").Call("getElementById", "foo")
+         // read
+         value := element.Get("textContent").String()
+         // set
+         element.Set("textContent", "new value")
+
+     - |
+
+       .. code-block:: go
+
+         element := dom.GetWindow().Document().GetElementByID("foo")
+         // read
+         value := element.TextContent()
+         // set
+         element.SetTextContent("new value")
+
+   * - Event binding - `addEventListener()`_
+
+       .. code-block:: javascript
+
+         var foo = document.getElementById("foo");
+         // register onclick event
+         foo.addEventListener("click", function(event) {
+           // do something
+           event.preventDefault()
+         }, false);
+
+     - |
+
+       .. code-block:: go
+
+         foo := js.Global.Get("document").Call("getElementById", "foo")
+         // register onclick event
+         foo.Call("addEventListener", "click", func(event *js.Object) {
+           // do something
+           event.Call("preventDefault")
+         }, false)
+
+     - |
+
+       .. code-block:: go
+
+         foo := dom.GetWindow().Document().GetElementByID("foo")
+         // register onclick event
+         foo.AddEventListener("click", false, func(event dom.Event) {
+           // do something
+           event.PreventDefault()
+         })
+
 
 ----
 
@@ -178,6 +270,9 @@ References:
 .. _navigator: https://developer.mozilla.org/en-US/docs/Web/API/Navigator
 .. _NavigatorLanguage: https://developer.mozilla.org/en-US/docs/Web/API/NavigatorLanguage
 .. _getElementById(): https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
+.. _innerHTML: http://www.w3schools.com/jsref/prop_html_innerhtml.asp
+.. _textContent: http://www.w3schools.com/jsref/prop_node_textcontent.asp
+.. _addEventListener(): https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
 
 .. |godoc| image:: https://godoc.org/github.com/gopherjs/gopherjs/js?status.png
    :target: https://godoc.org/github.com/gopherjs/gopherjs/js
