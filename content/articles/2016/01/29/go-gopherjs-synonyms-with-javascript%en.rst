@@ -2,7 +2,7 @@
 ##########################################
 
 :date: 2016-01-29T04:26+08:00
-:modified: 2016-01-30T05:57+08:00
+:modified: 2016-01-31T21:41+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM, JavaScript
 :category: GopherJS
 :summary: Synonyms - Go_/GopherJS_ idioms and snippets translated to JavaScript_
@@ -233,6 +233,37 @@ Inspired by [4]_, Golang_/GopherJS_ (with / without
            event.PreventDefault()
          })
 
+   * - `Remove all child nodes`_ of a DOM element
+
+       .. code-block:: javascript
+
+         var foo = document.getElementById("foo");
+
+         while (foo.hasChildNodes()) {
+           foo.removeChild(foo.lastChild);
+         }
+
+     - |
+
+       .. code-block:: go
+
+         foo := js.Global.Get("document").Call("getElementById", "foo")
+
+         for foo.Call("hasChildNodes").Bool() {
+           foo.Call("removeChild", foo.Get("lastChild"))
+         }
+
+     - |
+
+       .. code-block:: go
+
+         foo := dom.GetWindow().Document().GetElementByID("foo")
+         // assume foo is a div element, type assertion.
+         f := foo.(*dom.HTMLDivElement)
+         for f.HasChildNodes() {
+           f.RemoveChild(f.LastChild())
+         }
+
 
 ----
 
@@ -273,6 +304,7 @@ References:
 .. _innerHTML: http://www.w3schools.com/jsref/prop_html_innerhtml.asp
 .. _textContent: http://www.w3schools.com/jsref/prop_node_textcontent.asp
 .. _addEventListener(): https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
+.. _Remove all child nodes: https://www.google.com/search?q=javascript+remove+all+child+nodes
 
 .. |godoc| image:: https://godoc.org/github.com/gopherjs/gopherjs/js?status.png
    :target: https://godoc.org/github.com/gopherjs/gopherjs/js
