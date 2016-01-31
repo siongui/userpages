@@ -179,7 +179,7 @@ a {
 }
 
 .page { @extend .content; }
-.article { @extend .content; 
+.article { @extend .content;
   aside { time {@extend .common-datetime;} }
 }
 
