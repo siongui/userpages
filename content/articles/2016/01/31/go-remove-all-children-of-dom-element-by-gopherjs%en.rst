@@ -4,7 +4,7 @@
 :date: 2016-01-31T21:21+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM, JavaScript
 :category: GopherJS
-:summary: Go_ programming language - Remove_ all children of a DOM_ element by
+:summary: Go_ programming language - Remove all children of a DOM_ element by
           GopherJS_.
 
 
