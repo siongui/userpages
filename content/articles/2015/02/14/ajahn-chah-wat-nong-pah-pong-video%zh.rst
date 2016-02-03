@@ -47,6 +47,8 @@
 
   * `阿姜查的禪修世界(Food for the Heart, 2002 Abhayagiri) - 阿姜查(Ajahn Chah) <{filename}../../../2016/01/07/food-for-the-heart-2002-abhayagiri-ajahn-chah%zh.rst>`_
 
+  * `傾聽弦外之音(Everything Is Teaching Us) - 阿姜查(Ajahn Chah) <{filename}../../../2016/01/21/everything-is-teaching-us-ajahn-chah%zh.rst>`_
+
 - `Forest Sangha Publications <http://forestsanghapublications.org/>`_
 
   * `Ajahn Chah - Forest Sangha Publications <http://forestsanghapublications.org/viewAuthor.php?id=1>`_
