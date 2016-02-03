@@ -13,6 +13,7 @@
 
 สังคม:
 `Google+ <https://plus.google.com/+SiongUiTe>`_ /
+`Facebook <https://www.facebook.com/profile.php?id=100011192288460>`_ /
 `Github <https://github.com/siongui>`_ /
 `Gist <https://gist.github.com/siongui>`_ /
 `Stack Overflow <http://stackoverflow.com/users/2350927/siongui>`_
@@ -20,7 +21,7 @@
 เว็บไซต์:
 `พระไตรปิฎกภาษาบาลี <http://epalitipitaka.appspot.com/>`_
 (`ฟอรั่ม <https://groups.google.com/d/forum/palidictpk>`_) /
-`พจนานุกรมภาษาบาลี <http://palidictionary.appspot.com/>`_
+`พจนานุกรมภาษาบาลี <https://siongui.github.io/pali-dictionary/>`_
 (`ฟอรั่ม <https://groups.google.com/d/forum/palidictpk>`_)
 
 ติดต่อ:

@@ -13,6 +13,7 @@
 
 社交:
 `Google+ <https://plus.google.com/+SiongUiTe>`_ /
+`Facebook <https://www.facebook.com/profile.php?id=100011192288460>`_ /
 `Github <https://github.com/siongui>`_ /
 `Gist <https://gist.github.com/siongui>`_ /
 `Stack Overflow <http://stackoverflow.com/users/2350927/siongui>`_
@@ -20,7 +21,7 @@
 網站:
 `巴利三藏 <http://epalitipitaka.appspot.com/>`_
 (`論壇 <https://groups.google.com/d/forum/palidictpk>`_) /
-`巴利字典 <http://palidictionary.appspot.com/>`_
+`巴利字典 <https://siongui.github.io/pali-dictionary/>`_
 (`論壇 <https://groups.google.com/d/forum/palidictpk>`_)
 
 聯絡:

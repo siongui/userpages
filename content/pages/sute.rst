@@ -13,6 +13,7 @@ Location: `Kaohsiung <http://en.wikipedia.org/wiki/Kaohsiung>`_,
 
 Profiles:
 `Google+ <https://plus.google.com/+SiongUiTe>`_ /
+`Facebook <https://www.facebook.com/profile.php?id=100011192288460>`_ /
 `Github <https://github.com/siongui>`_ /
 `Gist <https://gist.github.com/siongui>`_ /
 `Stack Overflow <http://stackoverflow.com/users/2350927/siongui>`_
@@ -20,7 +21,7 @@ Profiles:
 Websites:
 `Pāḷi Tipiṭaka <http://epalitipitaka.appspot.com/>`_
 (`forum <https://groups.google.com/d/forum/palidictpk>`_) /
-`Pāḷi Dictionary <http://palidictionary.appspot.com/>`_
+`Pāḷi Dictionary <https://siongui.github.io/pali-dictionary/>`_
 (`forum <https://groups.google.com/d/forum/palidictpk>`_)
 
 Contact:
@@ -55,6 +56,8 @@ Recommended:
   `Forest Sangha Publications <http://forestsanghapublications.org/>`_
 
   `Wat Pah Ampawan (วัดป่าอัมพวัน, Thai) <http://www.watpahampawan.com/>`_
+
+  `The Teachings of Ajahn Chah <https://www.ajahnchah.org/>`_
 
 Statistics:
 `GitHub Résumé <http://resume.github.io/?siongui>`_ /
