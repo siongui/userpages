@@ -78,6 +78,8 @@ References
 
 .. [9] `How do you keep parents of floated elements from collapsing? <http://stackoverflow.com/questions/218760/how-do-you-keep-parents-of-floated-elements-from-collapsing>`_
 
+.. [18] `Website Layout Tools Compared: Flexbox Vs. Susy – Smashing Magazine <https://www.smashingmagazine.com/2015/12/website-layout-tools-compared-flexbox-vs-susy/>`_
+
 `scss media query`_
 ~~~~~~~~~~~~~~~~~~~
 

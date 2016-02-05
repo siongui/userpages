@@ -141,3 +141,7 @@ Image Hover:
   `iHover <http://gudh.github.io/ihover/dist/>`_ (`src <https://github.com/gudh/ihover>`_)
 
   `bootstrap image hover overlay with icon <http://stackoverflow.com/questions/26823237/bootstrap-image-hover-overlay-with-icon>`_
+
+`Javascript 操作 DOM 常用 API 总结 <http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=401146290&idx=1&sn=0725c11a35bdedf7a8bf9059028e18b2&scene=21#wechat_redirect>`_
+
+`Chorme 35个开发者工具的小技巧 - WEB前端 - 伯乐在线 <http://web.jobbole.com/84913/>`_
