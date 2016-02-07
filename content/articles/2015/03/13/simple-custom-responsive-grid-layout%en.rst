@@ -80,6 +80,10 @@ References
 
 .. [18] `Website Layout Tools Compared: Flexbox Vs. Susy – Smashing Magazine <https://www.smashingmagazine.com/2015/12/website-layout-tools-compared-flexbox-vs-susy/>`_
 
+.. [19] `等高分栏布局小结 - WEB前端 - 伯乐在线 <http://web.jobbole.com/85031/>`_
+
+.. [20] `圣杯布局小结 - WEB前端 - 伯乐在线 <http://web.jobbole.com/84993/>`
+
 `scss media query`_
 ~~~~~~~~~~~~~~~~~~~
 
