@@ -2,7 +2,7 @@
 ########################################
 
 :date: 2016-02-07T11:32+08:00
-:tags: Go, Golang, GopherJS, DOM, Go to JavaScript, XMLHttpRequest, html
+:tags: Go, Golang, GopherJS, DOM, Go to JavaScript, XMLHttpRequest, html, Goroutine
 :category: GopherJS
 :summary: Fix runtime error via goroutine_ in Go_ code compiled to JavaScript_
           by GopherJS_.
