@@ -59,6 +59,8 @@ We can remove the **head** and **body** *struct* and keep meaningful content by:
 
 Complete source code for concisely parsing the OPML in [5]_:
 
+`Run code on Go Playground <https://play.golang.org/p/ha-LIDyrOn>`_
+
 .. show_github_file:: siongui userpages content/code/go-xml/parse-5_2.go
 
 

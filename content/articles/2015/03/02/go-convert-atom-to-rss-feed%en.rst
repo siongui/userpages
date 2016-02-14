@@ -15,6 +15,8 @@ fields in RSS feed are copied to corresponding Atom equivalent.
 Souce Code
 ++++++++++
 
+`Run code on Go Playground <https://play.golang.org/p/fMzOUkeVzV>`_
+
 .. show_github_file:: siongui userpages content/code/go-xml/atom2rss.go
 
 

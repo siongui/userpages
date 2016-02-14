@@ -17,6 +17,8 @@ This post shows how to parse XML of `RSS 2.0`_ format. The
 Souce Code
 ++++++++++
 
+`Run code on Go Playground <https://play.golang.org/p/a5mvLw_h8X>`_
+
 .. show_github_file:: siongui userpages content/code/go-xml/parse-6.go
 
 .. note::

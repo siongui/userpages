@@ -15,6 +15,8 @@ Assume we have a XML file as follows:
 We would like to parse the XML file and extract the useful content. Here is how
 we do in Go_ programming language:
 
+`Run Code on Go Playground <https://play.golang.org/p/XiukTqZYv2>`_
+
 .. show_github_file:: siongui userpages content/code/go-xml/parse-1.go
 
 Put the above two files on the same directory and run the code. The ouput will

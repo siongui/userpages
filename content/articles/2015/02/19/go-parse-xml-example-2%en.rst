@@ -23,6 +23,8 @@ original struct:
 
 ``"class,attr"`` means to read the attribute whose name is *class*.
 
+`Run code on Go Playground <https://play.golang.org/p/xqp5Yb0YTS>`_
+
 .. show_github_file:: siongui userpages content/code/go-xml/parse-2.go
 
 The output result:

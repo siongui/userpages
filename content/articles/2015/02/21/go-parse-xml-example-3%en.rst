@@ -17,6 +17,8 @@ Just as we declare a *struct* for parent *div* element, we also declare a
 *struct* for the child *span* element, and add a struct field of the *span
 struct* to the *div* struct.
 
+`Run code on Go Playground <https://play.golang.org/p/4DoYAG_A6F>`_
+
 .. show_github_file:: siongui userpages content/code/go-xml/parse-3.go
 
 

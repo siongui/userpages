@@ -17,6 +17,8 @@ This post shows how to parse XML of `Atom 1.0`_ format. The
 Souce Code
 ++++++++++
 
+`Run code on Go Playground <https://play.golang.org/p/kP7E2QKM7d>`_
+
 .. show_github_file:: siongui userpages content/code/go-xml/parse-7.go
 
 

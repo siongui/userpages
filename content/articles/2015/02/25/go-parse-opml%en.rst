@@ -15,6 +15,8 @@ following OPML example comes from my `web feeds`_:
 
 Source code for parsing above OPML:
 
+`Run code on Go Playground <https://play.golang.org/p/2qcWvwpnnD>`_
+
 .. show_github_file:: siongui userpages content/code/go-xml/parse-5.go
 
 
