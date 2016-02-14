@@ -30,14 +30,14 @@
   {%- endif -%}
 {%- endmacro %}
 
-{% macro lang_code2name(code)  %}
+{% macro lang_code2name(code)  -%}
   {%- if   code == 'en'    -%}   English
   {%- elif code == 'zh'    -%}   中文
   {%- elif code == 'th'    -%}   ไทย
   {%- elif code == 'zh_TW' -%}   中文 (繁體)
   {%- elif code == 'zh_CN' -%}   中文 (简体)
   {%- else -%}{{ code }}{%- endif -%}
-{% endmacro %}
+{%- endmacro %}
 
 {% macro translations_for(writing, SITEURL)  %}
   {%- if writing.translations -%}
