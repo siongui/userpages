@@ -98,6 +98,8 @@ References:
 
 .. [3] `GitHub - siongui/pelican-template <https://github.com/siongui/pelican-template>`_
 
+.. [4] `python - Querying for specific articles (via tag/category) in Pelican themes - Stack Overflow <http://stackoverflow.com/questions/19283880/querying-for-specific-articles-via-tag-category-in-pelican-themes>`_
+
 
 .. _Python: https://www.python.org/
 .. _reStructuredText: https://www.google.com/search?q=reStructuredText
