@@ -81,6 +81,84 @@ Output of above code:
   slug everything-is-teaching-us-ajahn-chah
   lang zh
 
+
+----
+
+Appendix
+++++++++
+
+Another example:
+
+`Run Code on Go Playground <https://play.golang.org/p/z-QhEafEfZ>`__
+
+.. code-block:: go
+
+  package main
+
+  import (
+          "fmt"
+          "regexp"
+  )
+
+  var path = "articles/anya/visuddhimagga/visuddhimagga-chap01%zh.rst"
+
+  func main() {
+          pattern := `articles/(?P<urlpath>[-a-zA-Z0-9/]*)/(?P<slug>[-a-zA-Z0-9]*)%(?P<lang>[_a-zA-Z]{2,5})\.rst`
+          pathMetadata := regexp.MustCompile(pattern)
+
+          matches := pathMetadata.FindStringSubmatch(path)
+          names := pathMetadata.SubexpNames()
+          for i, match := range matches {
+                  if i != 0 {
+                          fmt.Println(names[i], match)
+                  }
+          }
+  }
+
+output:
+
+.. code-block:: txt
+
+  urlpath anya/visuddhimagga
+  slug visuddhimagga-chap01
+  lang zh
+
+
+Yet another example:
+
+`Run Code on Go Playground <https://play.golang.org/p/IM0jJ9nUBA>`__
+
+.. code-block:: go
+
+  package main
+
+  import (
+          "fmt"
+          "regexp"
+  )
+
+  var path = "articles/anya/visuddhimagga/visuddhimagga-chap01%zh.rst"
+
+  func main() {
+          pattern := `articles[-a-zA-Z0-9/]*/(?P<slug>[-a-zA-Z0-9]*)%(?P<lang>[_a-zA-Z]{2,5})\.rst`
+          pathMetadata := regexp.MustCompile(pattern)
+
+          matches := pathMetadata.FindStringSubmatch(path)
+          names := pathMetadata.SubexpNames()
+          for i, match := range matches {
+                  if i != 0 {
+                          fmt.Println(names[i], match)
+                  }
+          }
+  }
+
+output:
+
+.. code-block:: txt
+
+  slug visuddhimagga-chap01
+  lang zh
+
 ----
 
 References:
