@@ -11,7 +11,7 @@ CSS for reStructuredText_ (rst) footnote_ and citation_:
 
 .. code-block:: css
 
-  a.citation-reference {
+  a.footnote-reference, a.citation-reference {
     vertical-align: super;
     font-size: smaller;
   }
