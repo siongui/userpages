@@ -49,6 +49,8 @@ HTML file for demo: (*index.html*)
 *js.Global* object is equivalent to window_ object in browsers. The *Get* method
 is used to access the property of the object.
 
+`Run Code on Gopherjs Playground <http://www.gopherjs.org/playground/#/V3KXikbvPD>`__
+
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/navigator/language.go
 
 Compile Go_ code to JavaScript_ by:
