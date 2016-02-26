@@ -145,3 +145,5 @@ Image Hover:
 `Javascript 操作 DOM 常用 API 总结 <http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=401146290&idx=1&sn=0725c11a35bdedf7a8bf9059028e18b2&scene=21#wechat_redirect>`_
 
 `Chorme 35个开发者工具的小技巧 - WEB前端 - 伯乐在线 <http://web.jobbole.com/84913/>`_
+
+`HTML head 头标签 - WEB前端 - 伯乐在线 <http://web.jobbole.com/85173/>`_

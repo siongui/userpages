@@ -2,7 +2,7 @@
 #####################################
 
 :date: 2016-02-25T13:46+08:00
-:tags: Python, , JavaScript, Commandline
+:tags: Python, JavaScript, Commandline
 :category: Python
 :summary: Concatenate JavaScript_ files via Python_ script.
 
@@ -29,6 +29,9 @@ Concatenate JavaScript_ files via Python_ script.
   if __name__ == "__main__":
       print(concatJS("."))
 
+----
+
+Tested on: ``Ubuntu Linux 15.10``, ``Python 2.7.10``.
 
 ----
 

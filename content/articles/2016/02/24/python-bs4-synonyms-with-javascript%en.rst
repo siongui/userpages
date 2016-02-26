@@ -92,10 +92,13 @@ Synonyms - Python_ `Beautiful Soup 4`_ translated to JavaScript_.
 
 ----
 
+Tested on: ``Ubuntu Linux 15.10``, ``Python 2.7.10``.
+
+----
+
 References:
 
 .. [1] `[Python] Export PIXNET Blog to reStructuredText Files <{filename}../17/python-export-pixnet-blog-to-rst%en.rst>`_
-
 
 
 .. _Python: https://www.python.org/
