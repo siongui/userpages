@@ -37,6 +37,8 @@ References:
 
 .. [3] `bash - Escape a string for a sed replace pattern - Stack Overflow <http://stackoverflow.com/questions/407523/escape-a-string-for-a-sed-replace-pattern>`_
 
+.. [4] `三分钟教你轻松掌握 grep 命令中的正则表达式 - 博客 - 伯乐在线 <http://blog.jobbole.com/98134/>`_
+
 
 .. _find: http://content.hccfl.edu/pollock/Unix/FindCmd.htm
 
