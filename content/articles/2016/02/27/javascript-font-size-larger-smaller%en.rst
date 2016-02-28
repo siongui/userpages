@@ -39,6 +39,8 @@ First we implement button-like element by HTML and SCSS_:
 When users click on ``A+``/``A-``, make larger/smaller font size of div element
 whose class is *.main-content*:
 
+*JavaScript*
+
 .. code-block:: javascript
 
   var fl = document.getElementById("font-larger");
