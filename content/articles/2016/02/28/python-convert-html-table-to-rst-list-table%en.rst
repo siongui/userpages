@@ -53,16 +53,34 @@ Python_ script to convert `HTML table`_ to reStructuredText_ `list-table`_ via
     fo.write("\n")
 
 
-  def htmlTable2Rst(filepath):
+  def htmlTable2Rst(filepath, url):
+    num = url[-6:-4]
+    dstpath = "../content/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-chap{}%zh.rst".format(num)
+    tmppath = "/tmp/tmp.rst"
+    print(dstpath)
     with open(filepath, 'r') as f:
       document = BeautifulSoup(f)
       table = document.find("table")
       title = document.find("h1")
-      with open("tmp.rst", 'w') as fo:
+
+      with open(tmppath, 'w') as fo:
         table_title = ""
-        for string in title.stripped_strings:
+        rst_title = ""
+        for index, string in enumerate(title.stripped_strings):
           table_title += string
-          fo.write(string.encode("utf-8") + "\n")
+          if index == 0:
+            rst_title = "Dhammapada 法句經({})".format(string.encode("utf-8"))
+
+        fo.write(rst_title)
+        fo.write("\n")
+        fo.write("=" * len(rst_title))
+        fo.write("\n\n")
+        fo.write(":date: 2004-04-03\n")
+        fo.write(":modified: 2004-04-03\n")
+        fo.write(":tags: 法句經, Dhammapada, The Buddha's Path of Wisdom, The Path of Dhamma, The Word of the Doctrine, 法集要頌經, 法句譬喻經, 出曜經, DHP, Dhp\n")
+        fo.write(":category: 巴利三藏小部\n")
+        fo.write(":summary: 法句經, Dhammapada, The Buddha's Path of Wisdom, The Path of Dhamma, The Word of the Doctrine\n")
+        fo.write("\n")
         fo.write("\n")
         fo.write(".. list-table:: " + table_title.encode("utf-8") + "\n")
         fo.write("   :header-rows: 1\n")
@@ -82,15 +100,27 @@ Python_ script to convert `HTML table`_ to reStructuredText_ `list-table`_ via
             processTd(td, fo, count)
             count += 1
 
+        fo.write('備註：英譯可參考 "佛學數位圖書館暨博物館"中 巴利語教學 `經文選讀 (英) <http://buddhism.lib.ntu.edu.tw/DLMBS/lesson/pali/lesson_pali3.jsp>`_\n')
+        fo.write("\n----\n\n參考：\n\n.. [a] ")
+        fo.write("`舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Chap{}.htm>`_".format(num))
+
+    with open(tmppath, "r") as f:
+      with open(dstpath, 'w') as fo:
+        fo.write(f.read().replace("偈\n\n       頌\n\n       次", "偈\n       頌\n       次").replace("(\n\n       典故\n\n       )", "(\n       典故\n       )"))
+
 
   if __name__ == '__main__':
-    url = "http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Chap01.htm"
-    filename = os.path.basename(url)
-    if os.path.exists(filename):
-      htmlTable2Rst(filename)
+    for i in range(5, 27):
+      url = "http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Chap{0:02d}.htm".format(i)
+      filepath = os.path.join("/tmp", os.path.basename(url))
+      urllib.urlretrieve(url, filepath)
+      htmlTable2Rst(filepath, url)
+    """
+    if os.path.exists(filepath):
+      htmlTable2Rst(filepath, url)
     else:
-      urllib.urlretrieve(url, filename)
-
+      urllib.urlretrieve(url, filepath)
+    """
 
 ----
 
@@ -103,6 +133,8 @@ References:
 .. [1] `舊文移植：Dhammapada 法句經(第一：雙品) · twnanda/twnanda@65e4d01 · GitHub <https://github.com/twnanda/twnanda/commit/65e4d017b682a17db79fed60d734b391aeaeb1f1>`_
 
 .. [2] `BeautifulSoup 4 Documentation <http://www.crummy.com/software/BeautifulSoup/bs4/doc/>`__
+
+.. [3] `twnanda/olddhp.py at master · twnanda/twnanda · GitHub <https://github.com/twnanda/twnanda/blob/master/tool/olddhp.py>`_
 
 .. _Python: https://www.python.org/
 .. _reStructuredText: https://www.google.com/search?q=reStructuredText
