@@ -3,7 +3,7 @@ Golang html/template versus Python Jinja2 (1)
 
 :date: 2015-02-21 02:51
 :modified: 2015-03-06 19:54
-:tags: Go, Golang, html, Google App Engine, Jinja2, Python
+:tags: Go, Golang, html, Google App Engine, Jinja2, Python, Golang template
 :category: Go
 :summary: Comparison of Python Jinja2 and Go html/template, side by side for
           easy reference - Load and Serve Templates

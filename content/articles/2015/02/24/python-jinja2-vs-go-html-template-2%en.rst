@@ -2,7 +2,7 @@ Golang html/template versus Python Jinja2 (2)
 #############################################
 
 :date: 2015-02-24 22:56
-:tags: Go, Golang, html, Jinja2, Python
+:tags: Go, Golang, html, Jinja2, Python, Golang template
 :category: Go
 :summary: Comparison of Python Jinja2 and Go html/template, side by side for
           easy reference - print Hello World! on screen

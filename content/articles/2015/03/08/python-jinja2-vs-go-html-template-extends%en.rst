@@ -2,7 +2,7 @@ Golang html/template versus Python Jinja2 (6) - Template Inheritance (Extends)
 ##############################################################################
 
 :date: 2015-03-08 22:03
-:tags: Go, Golang, html, Jinja2, Python
+:tags: Go, Golang, html, Jinja2, Python, Golang template
 :category: Go
 :summary: Comparison of Python Jinja2 and Go html/template, side by side for
           easy reference - Mimic Jinja2 template inheritance in Go html/template

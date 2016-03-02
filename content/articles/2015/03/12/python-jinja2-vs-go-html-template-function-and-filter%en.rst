@@ -2,7 +2,7 @@ Golang html/template versus Python Jinja2 (7) - Custom Functions and Filters
 ############################################################################
 
 :date: 2015-03-12 20:15
-:tags: Go, Golang, html, Jinja2, Python
+:tags: Go, Golang, html, Jinja2, Python, Golang template
 :category: Go
 :summary: Comparison of Python Jinja2 and Go html/template, side by side for
           easy reference - Go template custom function vs Jinja2 custom filter

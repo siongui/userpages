@@ -2,7 +2,7 @@ Golang html/template versus Python Jinja2 (5) - Maps and Dictionaries
 #####################################################################
 
 :date: 2015-03-07 20:51
-:tags: Go, Golang, html, Jinja2, Python
+:tags: Go, Golang, html, Jinja2, Python, Golang template
 :category: Go
 :summary: Comparison of Python Jinja2 and Go html/template, side by side for
           easy reference - Loop through Python Dictionaries vs Go Maps
