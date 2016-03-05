@@ -14,8 +14,8 @@ by OpenCC_ (Open Chinese Convert) and pyOpenCC_ (OpenCC Python binding). Please
 read my previous post [1]_ to install OpenCC_ and pyOpenCC_ first.
 
 
-Souce Code
-++++++++++
+Source Code
++++++++++++
 
 The `zh_TW`_ PO_ file for test:
 
