@@ -10,6 +10,9 @@ test:
 	@# -v means verbose, can see logs of t.Log
 	@go test -v
 
+fmt:
+	go fmt *.go
+
 help:
 	go help
 
