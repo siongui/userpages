@@ -2,8 +2,8 @@
 ####################################
 
 :date: 2016-02-26 16:02
-:tags: 行動上網
-:category: 行動上網
+:tags: 3C
+:category: 3C
 :summary: 網路上台灣最佳CP值無作業系統(OS)筆記型電腦(截至2016/02/26)
 :og_image: http://www.pd4pic.com/images/laptop-notebook-sony-computer-mobile.png
 
