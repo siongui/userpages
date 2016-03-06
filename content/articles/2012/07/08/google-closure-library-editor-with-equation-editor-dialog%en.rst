@@ -3,9 +3,11 @@ Google Closure Library Editor with Equation Editor Dialog
 
 :date: 2012-07-08 20:57
 :modified: 2015-04-06 21:16
-:tags: JavaScript, Web application, web, html, math symbol, online latex editor, LaTeX
+:tags: JavaScript, Web application, web, html, math symbol, online latex editor,
+       LaTeX, Google Closure
 :category: JavaScript
-:summary: Rich text editor with math equation dialog using Google Closure Library
+:summary: Rich text editor with math equation dialog using
+          `Google Closure Library`_.
 
 
 Recently I have an application which needs a HTML editor with LaTex_ equation
@@ -81,3 +83,5 @@ References:
 .. _2021: https://code.google.com/p/closure-library/source/detail?r=2021
 
 .. _editor demo: https://github.com/google/closure-library/blob/master/closure/goog/demos/editor/editor.html
+
+.. _Google Closure Library: https://developers.google.com/closure/library/
