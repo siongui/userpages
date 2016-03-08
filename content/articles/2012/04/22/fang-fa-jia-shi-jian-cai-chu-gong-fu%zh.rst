@@ -6,7 +6,7 @@
 :tags: 轉錄, 萬行法師
 :category: 轉錄
 :summary: 方法加實踐才出功夫 - `萬行法師`_ - `東華禪寺`_
-:og_image: http://www.fayansi.org/fojiaoxinwen/UploadFiles_4381/201601/2016010510323260.jpg
+:og_image: http://www.donghuasi.org/ueditor/php/upload/image/20150910/1441851142920756.jpg
 
 
 問：請問師父，怎麼在良好的狀態中修行？
