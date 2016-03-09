@@ -2,7 +2,8 @@
 #########################################################
 
 :date: 2016-02-26T15:05+08:00
-:tags: Python, JavaScript, Commandline, HTTP POST, Google Closure
+:tags: Python, JavaScript, Commandline, HTTP POST, Google Closure,
+       Minify HTML/CSS/JavaScript
 :category: Python
 :summary: Online concatenate and compress JavaScript_ files via Python_ script.
 

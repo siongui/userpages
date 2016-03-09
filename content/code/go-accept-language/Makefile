@@ -3,7 +3,7 @@
 # it is also not allowed to use relative path in GOPATH
 export GOROOT=$(realpath ../../../../go)
 export GOPATH=$(realpath .)
-export PATH := $(GOROOT)/bin:$(PATH)
+export PATH := $(GOROOT)/bin:$(GOPATH)/bin:$(PATH)
 
 
 test:

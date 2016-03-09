@@ -2,7 +2,8 @@
 #########################################################
 
 :date: 2016-03-07T01:07+08:00
-:tags: Go, Golang, JavaScript, Commandline, HTTP POST, Google Closure
+:tags: Go, Golang, JavaScript, Commandline, HTTP POST, Google Closure,
+       Minify HTML/CSS/JavaScript
 :category: Go
 :summary: Concatenate and compress JavaScript_ files via Go_ programming
           language and online `Google Closure Compiler`_.

@@ -3,7 +3,8 @@
 
 :date: 2016-03-09T03:53+08:00
 :tags: Go, Golang, String Manipulation, Regular Expression, CSS,
-       remove trailing newline, remove carriage return
+       remove trailing newline, remove carriage return,
+       Minify HTML/CSS/JavaScript
 :category: Go
 :summary: `Minify CSS`_ via Go_ programming language.
 
