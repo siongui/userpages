@@ -9,7 +9,9 @@
 
 Append text at the beginning of each line via sed_ stream editor.
 
-Append ``| `` to the beginning of each line.
+::
+
+  Append ``| `` to the beginning of each line.
 
 .. code-block:: bash
 

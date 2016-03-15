@@ -56,6 +56,18 @@
 
   * `彈開式蚊帳 <https://www.google.com/search?q=%E5%BD%88%E9%96%8B%E5%BC%8F%E8%9A%8A%E5%B8%B3>`_
 
+- 手電筒，照明：
+
+  * `全防水抗壓led充電行動燈管|露營燈|手電筒 <https://crazymike.tw/product/appliances/lighting-appliances/item-46352>`_
+
+  * `團購 - 36折！全防水抗壓led充電行動燈管|露營燈|手電筒 的好康優惠 <http://www.digwow.com/s/1040091/>`_
+
+- 枕頭
+
+  * `充氣枕頭 <https://www.google.com/search?q=%E5%85%85%E6%B0%A3%E6%9E%95%E9%A0%AD>`_
+
+- `工作手套 <https://www.google.com/search?q=%E5%B7%A5%E4%BD%9C%E6%89%8B%E5%A5%97>`_
+
 - `大容量多功能防水折疊旅行備用收納包 <https://crazymike.tw/product/fashion/bag/item-28916>`_
 
   * `旅行袋 - Yahoo奇摩超級商城 <https://tw.mall.yahoo.com/979249047-category.html>`_
@@ -81,5 +93,9 @@
 - `Panasonic充電器組合包 <https://www.google.com/search?q=Panasonic%E5%85%85%E9%9B%BB%E5%99%A8%E7%B5%84%E5%90%88%E5%8C%85>`_
 
 - `拿坡里披薩‧炸雞 - 門市優惠 <http://www.0800076666.com.tw/sale.aspx>`_
+
+- `可掛式強力除濕袋(6入/組) <https://crazymike.tw/product/necessities-essentials/insecticide/item-46722>`_
+
+- `【Casemaks】大功率乾濕兩用吸塵器 <https://www.google.com/search?q=%E3%80%90Casemaks%E3%80%91%E5%A4%A7%E5%8A%9F%E7%8E%87%E4%B9%BE%E6%BF%95%E5%85%A9%E7%94%A8%E5%90%B8%E5%A1%B5%E5%99%A8>`_
 
 .. http://mybid.ruten.com.tw/credit/point?siongui
