@@ -96,6 +96,8 @@
 
 - `【Casemaks】大功率乾濕兩用吸塵器 <https://www.google.com/search?q=%E3%80%90Casemaks%E3%80%91%E5%A4%A7%E5%8A%9F%E7%8E%87%E4%B9%BE%E6%BF%95%E5%85%A9%E7%94%A8%E5%90%B8%E5%A1%B5%E5%99%A8>`_
 
+- `收納整理│123購物 <https://123.com.tw/r/Lf8>`_
+
 - 行動電源：
 
   * `20000+型日韓電芯男爵超薄行動電源 <https://crazymike.tw/product/Mobile/PowerBank/item-38479>`_

@@ -136,6 +136,8 @@ References:
 
 .. [3] `twnanda/olddhp.py at master · twnanda/twnanda · GitHub <https://github.com/twnanda/twnanda/blob/master/tool/olddhp.py>`_
 
+.. [4] `小信' Blog <http://playbear.github.io/>`_
+
 .. _Python: https://www.python.org/
 .. _reStructuredText: https://www.google.com/search?q=reStructuredText
 .. _list-table: http://docutils.sourceforge.net/docs/ref/rst/directives.html#list-table

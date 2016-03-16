@@ -79,6 +79,8 @@ References:
 
 .. [19] `Scrapy 示例 —— Web 爬虫框架 - Python - 伯乐在线 <http://python.jobbole.com/84237/>`_
 
+.. [20] `小信' Blog <http://playbear.github.io/>`_
+
 
 .. _Web scrape: https://en.wikipedia.org/wiki/Web_scraping
 .. _Python: https://www.python.org/

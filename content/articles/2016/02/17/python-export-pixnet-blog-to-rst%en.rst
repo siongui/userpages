@@ -41,6 +41,8 @@ References:
 
 .. [2] `BeautifulSoup 4 Documentation <http://www.crummy.com/software/BeautifulSoup/bs4/doc/>`__
 
+.. [3] `小信' Blog <http://playbear.github.io/>`_
+
 .. _Python: https://www.python.org/
 .. _reStructuredText: https://www.google.com/search?q=reStructuredText
 .. _PIXNET: https://www.pixnet.net/
