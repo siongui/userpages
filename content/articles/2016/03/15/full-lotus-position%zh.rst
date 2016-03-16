@@ -11,6 +11,8 @@
 
 - `雙盤 <https://www.google.com/search?q=%E9%9B%99%E7%9B%A4>`_
 
+- `全蓮花坐 <https://www.google.com/search?q=%E5%85%A8%E8%93%AE%E8%8A%B1%E5%9D%90>`_
+
 - `吉祥坐 降魔坐 <https://www.google.com/search?q=%E5%90%89%E7%A5%A5%E5%9D%90+%E9%99%8D%E9%AD%94%E5%9D%90>`_
 
 - `ขัดสมาธิเพชร <https://www.google.com/search?q=%E0%B8%82%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3>`_

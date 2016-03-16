@@ -78,8 +78,6 @@
 
 - `iNO-CP20 <http://24h.pchome.com.tw/store/DGASHI>`_
 
-- `20000+型日韓電芯男爵超薄行動電源 <https://crazymike.tw/product/Mobile/PowerBank/item-38479>`_
-
 - `【篁城】台灣竹：適合種菜、農用竹竿、架菜棚番茄用竹竿《農業用竹材、竹竿》一把30支240元(需預購) <http://goods.ruten.com.tw/item/show?21511601987203>`_
 
 - `高雄 樹苗 <https://www.google.com/search?q=%E9%AB%98%E9%9B%84+%E6%A8%B9%E8%8B%97>`_
@@ -97,5 +95,27 @@
 - `可掛式強力除濕袋(6入/組) <https://crazymike.tw/product/necessities-essentials/insecticide/item-46722>`_
 
 - `【Casemaks】大功率乾濕兩用吸塵器 <https://www.google.com/search?q=%E3%80%90Casemaks%E3%80%91%E5%A4%A7%E5%8A%9F%E7%8E%87%E4%B9%BE%E6%BF%95%E5%85%A9%E7%94%A8%E5%90%B8%E5%A1%B5%E5%99%A8>`_
+
+- 行動電源：
+
+  * `20000+型日韓電芯男爵超薄行動電源 <https://crazymike.tw/product/Mobile/PowerBank/item-38479>`_
+
+  * `Line Friends 10000mAh USB雙輸出行動電源 <https://crazymike.tw/mobi-product/power-bank/battery-capacity/10000-15000mAh/item-49452>`_
+
+- 太陽能：
+
+  * `租屋頂 <https://www.google.com/search?q=%E7%A7%9F%E5%B1%8B%E9%A0%82>`_
+
+  * `投資與理財 - 太陽能屋頂/台電回購~目前可行嗎? - 生活討論區 - Mobile01 <http://www.mobile01.com/topicdetail.php?f=291&t=4541973>`_
+
+  * `太陽能發電推廣網-投資試算-投資太陽能發電賣電給台電，低風險高獲利，屋頂種電輕鬆賺大錢。 <http://www.solargold.tw/calc.aspx>`_
+
+  * `陽光屋頂百萬座 - 自己的電自己發 <http://mrpv.org.tw/>`_
+
+  * `高雄市日光屋頂專案推動辦公室 <http://96kuas.kcg.gov.tw/khsolar/index.php>`_
+
+  * `東城科技有限公司TOP TOWER TECHNOLOGY CO.,LTD. <http://www.toptower.com.tw/tw/qna.asp>`_
+
+  * `旭通光電 <https://www.google.com/search?q=%E6%97%AD%E9%80%9A%E5%85%89%E9%9B%BB>`_
 
 .. http://mybid.ruten.com.tw/credit/point?siongui
