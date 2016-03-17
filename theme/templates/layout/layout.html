@@ -25,6 +25,7 @@
 
 <div>
   {% include 'layout/includes/top_nav.html' %}
+  {% if GOOGLE_CSE %}<gcse:search></gcse:search>{% endif %}
   {%- block content -%}{%- endblock -%}
 </div>
 <div class="layout-footer">Powered by
@@ -32,17 +33,7 @@
   <a href="http://blog.getpelican.com/">Pelican</a>,
   <a href="https://github.com/Kronuz/pyScss">pyScss</a>.
 </div>
-{%- if GOOGLE_ANALYTICS -%}
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', '{{ GOOGLE_ANALYTICS }}', 'auto');
-  ga('send', 'pageview');
-
-</script>
-{%- endif -%}
+  {% include 'layout/includes/cse.html' %}
+  {% include 'layout/includes/analytics.html' %}
 </body>
 </html>
