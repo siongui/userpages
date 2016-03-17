@@ -2,7 +2,7 @@
 #####################################
 
 :date: 2016-02-25T13:46+08:00
-:tags: Python, JavaScript, Commandline
+:tags: Python, JavaScript, Commandline, List Files in Directory
 :category: Python
 :summary: Concatenate JavaScript_ files via Python_ script.
 

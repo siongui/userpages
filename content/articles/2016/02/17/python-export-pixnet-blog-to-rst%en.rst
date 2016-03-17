@@ -3,7 +3,7 @@
 
 :date: 2016-02-17T07:30+08:00
 :tags: Python, Web Scrape, reStructuredText, remove trailing newline, html, DOM,
-       String Manipulation, Beautiful Soup
+       String Manipulation, Beautiful Soup, List Files in Directory
 :category: Python
 :summary: Python_ scripts to export PIXNET_ blog posts to files of
           reStructuredText_ format.

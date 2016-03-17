@@ -2,7 +2,7 @@
 ###############################################################################
 
 :date: 2016-01-14T20:28+08:00
-:tags: Python, i18n, Locale, gettext
+:tags: Python, i18n, Locale, gettext, List Files in Directory
 :category: Python
 :summary: Internationalization (i18n_) of Python_ applications by GNU gettext_
           tools. This post shows how to use PO_ and MO_ files in Python_.

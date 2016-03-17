@@ -2,7 +2,7 @@
 #####################################
 
 :date: 2016-03-06T02:35+08:00
-:tags: Go, Golang, JavaScript, Commandline
+:tags: Go, Golang, JavaScript, Commandline, List Files in Directory
 :category: Go
 :summary: Concatenate JavaScript_ files via Go_ programming language.
 
