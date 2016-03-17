@@ -1,7 +1,7 @@
 [Bash] List All Files in Directory Recursively and Rename
 #########################################################
 
-:tags: sed, find, Bash, Commandline, String Manipulation,
+:tags: sed, find command, Bash, Commandline, String Manipulation,
        List Files in Directory
 :category: Bash
 :summary: List all files in a directory recursively (i.e., including

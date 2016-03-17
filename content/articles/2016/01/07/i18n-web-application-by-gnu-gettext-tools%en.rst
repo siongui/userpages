@@ -3,7 +3,7 @@ Internationalization (i18n) of Web Application by GNU gettext Tools
 
 :date: 2016-01-07T02:28+08:00
 :tags: Python, JavaScript, Go, Golang, Web application, web, i18n,
-       find, Google App Engine, web.py, Locale, sed, gettext
+       find command, Google App Engine, web.py, Locale, sed, gettext
 :category: Web Development
 :summary: Support multiple languages in your (web) applications, by GNU gettext_
           tools, which include *xgettext*, *msginit*, *msgmerge*, and *msgfmt*.
