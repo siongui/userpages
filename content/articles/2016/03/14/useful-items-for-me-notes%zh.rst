@@ -105,13 +105,35 @@
 
 * `(雨傘)防護罩防風自動雨傘 <https://crazymike.tw/product/living-goods/umbrella-raincoat/item-33888>`_
 
+
+防蚊
+++++
+
+* `【妙管家】懸掛/攜帶式蚊香器K-136 <https://crazymike.tw/product/necessities-essentials/insecticide/item-49195>`_
+
 ----
 
-- `光照5秒-萬能修補黏合液10g <https://crazymike.tw/product/hardware-tools/glue-tape/item-49210>`_
+收納：
 
-- `可立可掛式二用收納鞋架(2入/組) <https://crazymike.tw/product/living-goods/furniture/item-48098>`_
+  * `可立可掛式二用收納鞋架(2入/組) <https://crazymike.tw/product/living-goods/furniture/item-48098>`_
 
-- 手機 `iNO-CP20 <http://24h.pchome.com.tw/store/DGASHI>`_
+  * `新式多功能廚房置物架 <https://crazymike.tw/product/living-goods/furniture/item-45739>`_
+
+  * `收納整理│123購物 <https://123.com.tw/r/Lf8>`_
+
+3C：
+
+  * `軍人園區備用機 3G版 iNO-CP20 <http://24h.pchome.com.tw/store/DGASHI>`_
+
+  * `【Casemaks】大功率乾濕兩用吸塵器 <https://www.google.com/search?q=%E3%80%90Casemaks%E3%80%91%E5%A4%A7%E5%8A%9F%E7%8E%87%E4%B9%BE%E6%BF%95%E5%85%A9%E7%94%A8%E5%90%B8%E5%A1%B5%E5%99%A8>`_
+
+  * `二合一高質感伸縮收納傳輸線(贈專屬收納盒) <https://crazymike.tw/product/Mobile/charging-cables/item-48741>`_
+
+  * 行動電源：
+
+    - `20000+型日韓電芯男爵超薄行動電源 <https://crazymike.tw/product/Mobile/PowerBank/item-38479>`_
+
+    - `Line Friends 10000mAh USB雙輸出行動電源 <https://crazymike.tw/mobi-product/power-bank/battery-capacity/10000-15000mAh/item-49452>`_
 
 - `【篁城】台灣竹：適合種菜、農用竹竿、架菜棚番茄用竹竿《農業用竹材、竹竿》一把30支240元(需預購) <http://goods.ruten.com.tw/item/show?21511601987203>`_
 
@@ -119,15 +141,7 @@
 
 - `可掛式強力除濕袋(6入/組) <https://crazymike.tw/product/necessities-essentials/insecticide/item-46722>`_
 
-- `【Casemaks】大功率乾濕兩用吸塵器 <https://www.google.com/search?q=%E3%80%90Casemaks%E3%80%91%E5%A4%A7%E5%8A%9F%E7%8E%87%E4%B9%BE%E6%BF%95%E5%85%A9%E7%94%A8%E5%90%B8%E5%A1%B5%E5%99%A8>`_
-
-- `收納整理│123購物 <https://123.com.tw/r/Lf8>`_
-
-- 行動電源：
-
-  * `20000+型日韓電芯男爵超薄行動電源 <https://crazymike.tw/product/Mobile/PowerBank/item-38479>`_
-
-  * `Line Friends 10000mAh USB雙輸出行動電源 <https://crazymike.tw/mobi-product/power-bank/battery-capacity/10000-15000mAh/item-49452>`_
+- `光照5秒-萬能修補黏合液10g <https://crazymike.tw/product/hardware-tools/glue-tape/item-49210>`_
 
 ----
 
