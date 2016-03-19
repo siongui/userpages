@@ -2,7 +2,8 @@
 ###############################################
 
 :date: 2016-03-15T19:42+08:00
-:tags: Bash, Commandline, sed, String Manipulation
+:tags: Bash, Commandline, sed, String Manipulation, Regular Expression,
+       reStructuredText
 :category: Bash
 :summary: Append text at the beginning of each line via sed_ stream editor.
 
