@@ -111,6 +111,11 @@
 
   - `GREEN HERMIT 超細快乾毛巾-M TB5102 <http://24h.pchome.com.tw/prod/DEARG6-A90055XCA>`_
 
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/TYWP4FL.png
+   :alt: 加大升級背包防雨遮雨套
+   :target: https://www.buy123.com.tw/site/item/63577/%E5%8A%A0%E5%A4%A7%E5%8D%87%E7%B4%9A%E8%83%8C%E5%8C%85%E9%98%B2%E9%9B%A8%E9%81%AE%E9%9B%A8%E5%A5%97
+   :align: center
+
 |
 
 .. image:: https://s3-buy123.cdn.hinet.net/images/item/9F98G9A.png
@@ -144,7 +149,17 @@
 防蚊
 ++++
 
-* `【妙管家】懸掛/攜帶式蚊香器K-136 <https://crazymike.tw/product/necessities-essentials/insecticide/item-49195>`_
+.. image:: https://img.crazymike.tw/upload/product/43/192/49195_1_1457668182.jpg
+   :alt: 【妙管家】懸掛/攜帶式蚊香器K-136
+   :target: https://crazymike.tw/product/necessities-essentials/insecticide/item-49195
+   :align: center
+
+|
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/FCYT8H9.png
+   :alt: 植物精油驅蚊貼
+   :target: https://www.buy123.com.tw/site/item/37193/%E6%A4%8D%E7%89%A9%E7%B2%BE%E6%B2%B9%E9%A9%85%E8%9A%8A%E8%B2%BC
+   :align: center
 
 ----
 
@@ -202,6 +217,13 @@
 
 |
 
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/JHAYTP3.png
+   :alt: 多功能磁吸式手機架
+   :target: https://www.buy123.com.tw/site/item/62535/%E5%A4%9A%E5%8A%9F%E8%83%BD%E7%A3%81%E5%90%B8%E5%BC%8F%E6%89%8B%E6%A9%9F%E6%9E%B6
+   :align: center
+
+|
+
   * `【Casemaks】大功率乾濕兩用吸塵器 <https://www.google.com/search?q=%E3%80%90Casemaks%E3%80%91%E5%A4%A7%E5%8A%9F%E7%8E%87%E4%B9%BE%E6%BF%95%E5%85%A9%E7%94%A8%E5%90%B8%E5%A1%B5%E5%99%A8>`_
 
   * `二合一高質感伸縮收納傳輸線(贈專屬收納盒) <https://crazymike.tw/product/Mobile/charging-cables/item-48741>`_
@@ -228,11 +250,24 @@
 
 |
 
-- `拿坡里披薩‧炸雞 - 門市優惠 <http://www.0800076666.com.tw/sale.aspx>`_
+.. image:: http://www.0800076666.com.tw/mng/premium_retail_pic/201603163A10E0CC153E4D9981CB2.jpg
+   :alt: 拿坡里披薩‧炸雞 - 門市優惠
+   :target: http://www.0800076666.com.tw/sale.aspx
+   :align: center
 
-- `可掛式強力除濕袋(6入/組) <https://crazymike.tw/product/necessities-essentials/insecticide/item-46722>`_
+|
 
-- `光照5秒-萬能修補黏合液10g <https://crazymike.tw/product/hardware-tools/glue-tape/item-49210>`_
+.. image:: https://img.crazymike.tw/upload/product/130/182/46722_1_1454644203.jpg
+   :alt: 可掛式強力除濕袋(6入/組)
+   :target: https://crazymike.tw/product/necessities-essentials/insecticide/item-46722
+   :align: center
+
+|
+
+.. image:: https://img.crazymike.tw/upload/product/58/192/49210_1_1458021747.jpg
+   :alt: 光照5秒-萬能修補黏合液10g
+   :target: https://crazymike.tw/product/hardware-tools/glue-tape/item-49210
+   :align: center
 
 |
 
@@ -253,6 +288,20 @@
 .. image:: https://s3-buy123.cdn.hinet.net/images/item/49844FG.png
    :alt: 100%天然除味防霉樟木棒
    :target: https://www.buy123.com.tw/site/item/53517/100%EF%BC%85%E5%A4%A9%E7%84%B6%E9%99%A4%E5%91%B3%E9%98%B2%E9%9C%89%E6%A8%9F%E6%9C%A8%E6%A3%92
+   :align: center
+
+|
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/CKRGLCT.png
+   :alt: 超黏萬用強力無痕矽膠貼
+   :target: https://www.buy123.com.tw/site/item/60612/%E8%B6%85%E9%BB%8F%E8%90%AC%E7%94%A8%E5%BC%B7%E5%8A%9B%E7%84%A1%E7%97%95%E7%9F%BD%E8%86%A0%E8%B2%BC
+   :align: center
+
+|
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/H5F7769.png
+   :alt: 小麥環保便攜餐具組
+   :target: https://www.buy123.com.tw/site/item/52530/%E5%B0%8F%E9%BA%A5%E7%92%B0%E4%BF%9D%E4%BE%BF%E6%94%9C%E9%A4%90%E5%85%B7%E7%B5%84
    :align: center
 
 ----
