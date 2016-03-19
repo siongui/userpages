@@ -2,7 +2,7 @@
 ######################################
 
 :date: 2016-03-19T03:22+08:00
-:tags: Linux
+:tags: Linux, git
 :category: Linux
 :summary: 重設GitHub repository並移除所有commits
 
