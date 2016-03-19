@@ -103,7 +103,17 @@
 雨傘
 ++++
 
-* `(雨傘)防護罩防風自動雨傘 <https://crazymike.tw/product/living-goods/umbrella-raincoat/item-33888>`_
+.. image:: https://img.crazymike.tw/upload/product/96/132/33888_1_1437117908.jpg
+   :alt: (雨傘)防護罩防風自動雨傘
+   :target: https://crazymike.tw/product/living-goods/umbrella-raincoat/item-33888
+   :align: center
+
+|
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/YGRWF8T.png
+   :alt: 超大自動開收四人雨傘
+   :target: https://www.buy123.com.tw/site/item/63164/%E8%B6%85%E5%A4%A7%E8%87%AA%E5%8B%95%E9%96%8B%E6%94%B6%E5%9B%9B%E4%BA%BA%E9%9B%A8%E5%82%98
+   :align: center
 
 
 防蚊
@@ -113,17 +123,59 @@
 
 ----
 
+..
+ .. image:: 
+   :alt: 
+   :target: 
+   :align: center
+
+.. image:: https://img.crazymike.tw/upload/product/177/191/49073_1_1457580518.jpg
+   :alt: 珪藻土超吸水方型肥皂盒/杯墊
+   :target: https://crazymike.tw/product/living-goods/bathroom/item-49073
+   :align: center
+
+|
+
 收納：
 
-  * `可立可掛式二用收納鞋架(2入/組) <https://crazymike.tw/product/living-goods/furniture/item-48098>`_
+.. image:: https://img.crazymike.tw/upload/product/226/187/48098_1_1456884223.jpg
+   :alt: 可立可掛式二用收納鞋架(2入/組)
+   :target: https://crazymike.tw/product/living-goods/furniture/item-48098
+   :align: center
 
-  * `新式多功能廚房置物架 <https://crazymike.tw/product/living-goods/furniture/item-45739>`_
+|
 
-  * `收納整理│123購物 <https://123.com.tw/r/Lf8>`_
+.. image:: https://img.crazymike.tw/upload/product/171/178/45739_1_1453780254.jpg
+   :alt: 新式多功能廚房置物架
+   :target: https://crazymike.tw/product/living-goods/furniture/item-45739
+   :align: center
+
+|
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/PCTACJW.png
+   :alt: 加寬加強伸縮功能隔層架
+   :target: https://www.buy123.com.tw/site/item/54428/%E5%8A%A0%E5%AF%AC%E5%8A%A0%E5%BC%B7%E4%BC%B8%E7%B8%AE%E5%8A%9F%E8%83%BD%E9%9A%94%E5%B1%A4%E6%9E%B6
+   :align: center
+
+* `收納整理│123購物 <https://123.com.tw/r/Lf8>`_
+
 
 3C：
 
-  * `軍人園區備用機 3G版 iNO-CP20 <http://24h.pchome.com.tw/store/DGASHI>`_
+  * 手機：
+
+    - `軍人園區備用機 3G版 iNO-CP20 <http://24h.pchome.com.tw/store/DGASHI>`_
+
+    - `限量狂殺手機最低價 - 行動賣客：手機.週邊專賣店 <https://crazymike.tw/mobi-cata/promotion/promotion/tag-2431>`_
+
+|
+
+.. image:: https://img.crazymike.tw/upload/product/upload/editor/provider/pr181/editor_20160313142813_001.jpg
+   :alt: TalKase 超薄智慧卡片機 橘色限定款 (可插sim卡單機版)
+   :target: https://crazymike.tw/mobi-product/cell-phones-tablets/display-size/4Inches/item-49146
+   :align: center
+
+|
 
   * `【Casemaks】大功率乾濕兩用吸塵器 <https://www.google.com/search?q=%E3%80%90Casemaks%E3%80%91%E5%A4%A7%E5%8A%9F%E7%8E%87%E4%B9%BE%E6%BF%95%E5%85%A9%E7%94%A8%E5%90%B8%E5%A1%B5%E5%99%A8>`_
 
@@ -135,13 +187,41 @@
 
     - `Line Friends 10000mAh USB雙輸出行動電源 <https://crazymike.tw/mobi-product/power-bank/battery-capacity/10000-15000mAh/item-49452>`_
 
-- `【篁城】台灣竹：適合種菜、農用竹竿、架菜棚番茄用竹竿《農業用竹材、竹竿》一把30支240元(需預購) <http://goods.ruten.com.tw/item/show?21511601987203>`_
+|
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/PYPAHG9.png
+   :alt: 鋁合金高速傳輸充電線
+   :target: https://www.buy123.com.tw/site/item/61713/%E9%8B%81%E5%90%88%E9%87%91%E9%AB%98%E9%80%9F%E5%82%B3%E8%BC%B8%E5%85%85%E9%9B%BB%E7%B7%9A
+   :align: center
+
+|
+
+.. image:: http://img.ruten.com.tw/s1/c/62/83/21511601987203_751.jpg
+   :alt: 【篁城】台灣竹：適合種菜、農用竹竿、架菜棚番茄用竹竿《農業用竹材、竹竿》一把30支240元(需預購)
+   :target: http://goods.ruten.com.tw/item/show?21511601987203
+   :align: center
+
+|
 
 - `拿坡里披薩‧炸雞 - 門市優惠 <http://www.0800076666.com.tw/sale.aspx>`_
 
 - `可掛式強力除濕袋(6入/組) <https://crazymike.tw/product/necessities-essentials/insecticide/item-46722>`_
 
 - `光照5秒-萬能修補黏合液10g <https://crazymike.tw/product/hardware-tools/glue-tape/item-49210>`_
+
+|
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/7JCP66P.png
+   :alt: 防風防水輕量超保暖外套
+   :target: https://www.buy123.com.tw/site/item/53771/%E9%98%B2%E9%A2%A8%E9%98%B2%E6%B0%B4%E8%BC%95%E9%87%8F%E8%B6%85%E4%BF%9D%E6%9A%96%E5%A4%96%E5%A5%97
+   :align: center
+
+|
+
+.. image:: https://img2.crazymike.tw/upload/activity/30/act56e7df9c726a1.jpg
+   :alt: 梅雨季-乾衣策略
+   :target: https://crazymike.tw/house-activity/act-30
+   :align: center
 
 ----
 
