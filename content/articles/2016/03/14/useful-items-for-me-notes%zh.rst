@@ -67,6 +67,24 @@
 
 * `【台製精品】睡袋內套保暖毯 <http://24h.pchome.com.tw/prod/DEAR0N-A50941702>`_
 
+|
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/J66HQWW.png
+   :alt: 【旅行輕量便攜安心睡袋】特價$280，限時2.8折起 (原價$1,000)
+   :target: https://www.buy123.com.tw/site/item/63073
+   :align: center
+
+`pinkmoon 睡袋 tw <https://www.google.com/search?q=pinkmoon+%E7%9D%A1%E8%A2%8B+tw>`_
+
+.. `旅行輕量便攜安心睡袋 <https://www.google.com/search?q=%E6%97%85%E8%A1%8C%E8%BC%95%E9%87%8F%E4%BE%BF%E6%94%9C%E5%AE%89%E5%BF%83%E7%9D%A1%E8%A2%8B>`_
+
+|
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/K83QYF4.png
+   :alt: 超輕舒適攜帶式保潔睡袋
+   :target: https://www.buy123.com.tw/site/item/61108/%E8%B6%85%E8%BC%95%E8%88%92%E9%81%A9%E6%94%9C%E5%B8%B6%E5%BC%8F%E4%BF%9D%E6%BD%94%E7%9D%A1%E8%A2%8B
+   :align: center
+
 
 防水袋，防水地布
 ++++++++++++++++
@@ -92,6 +110,13 @@
 * `GreenHermit 防水 <http://24h.pchome.com.tw/store/DXAI3O>`_
 
   - `GREEN HERMIT 超細快乾毛巾-M TB5102 <http://24h.pchome.com.tw/prod/DEARG6-A90055XCA>`_
+
+|
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/9F98G9A.png
+   :alt: 插桿手提旅行收納袋
+   :target: https://www.buy123.com.tw/site/item/45754/%E6%8F%92%E6%A1%BF%E6%89%8B%E6%8F%90%E6%97%85%E8%A1%8C%E6%94%B6%E7%B4%8D%E8%A2%8B
+   :align: center
 
 
 電池
@@ -221,6 +246,13 @@
 .. image:: https://img2.crazymike.tw/upload/activity/30/act56e7df9c726a1.jpg
    :alt: 梅雨季-乾衣策略
    :target: https://crazymike.tw/house-activity/act-30
+   :align: center
+
+|
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/49844FG.png
+   :alt: 100%天然除味防霉樟木棒
+   :target: https://www.buy123.com.tw/site/item/53517/100%EF%BC%85%E5%A4%A9%E7%84%B6%E9%99%A4%E5%91%B3%E9%98%B2%E9%9C%89%E6%A8%9F%E6%9C%A8%E6%A3%92
    :align: center
 
 ----
