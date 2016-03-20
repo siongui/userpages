@@ -309,6 +309,13 @@
    :target: https://tw.mall.yahoo.com/item/%E2%9C%AD%E7%B1%B3%E8%8F%88%E7%94%9F%E6%B4%BB%E9%A4%A8%E2%9C%AD%E3%80%90N01%E3%80%91%E6%97%85%E8%A1%8C%E4%BA%94%E4%BB%B6%E7%B5%84-%E6%97%85%E8%A1%8C%E6%94%B6%E7%B4%8D%E8%A2%8B-%E8%A1%8C%E6%9D%8E%E7%AE%B1%E5%A3%93-p047386846339
    :align: center
 
+|
+
+.. image:: https://img.crazymike.tw/upload/product/58/181/46394_1_1454487222.jpg
+   :alt: 帆布戶外休閒戰術腰包
+   :target: https://crazymike.tw/product/fashion/bag/item-46394
+   :align: center
+
 * `RHINO 犀牛 <http://24h.pchome.com.tw/store/DEBQ92>`_
 
   - `【RHINO 犀牛】二人防潮地布(野炊蓋布) <http://24h.pchome.com.tw/prod/DEAR0O-A90053SXZ>`_
@@ -399,6 +406,13 @@
 .. image:: https://s3-buy123.cdn.hinet.net/images/item/FCYT8H9.png
    :alt: 植物精油驅蚊貼
    :target: https://www.buy123.com.tw/site/item/37193/%E6%A4%8D%E7%89%A9%E7%B2%BE%E6%B2%B9%E9%A9%85%E8%9A%8A%E8%B2%BC
+   :align: center
+
+|
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/3JJJTGT.png
+   :alt: 驅蚊認證強力磁扣門簾
+   :target: https://www.buy123.com.tw/site/item/63299/%E9%A9%85%E8%9A%8A%E8%AA%8D%E8%AD%89%E5%BC%B7%E5%8A%9B%E7%A3%81%E6%89%A3%E9%96%80%E7%B0%BE
    :align: center
 
 ----
