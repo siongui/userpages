@@ -8,6 +8,12 @@
 :og_image: https://lh3.googleusercontent.com/-YEf8r0ISxY4/VNNbsFBXZoI/AAAAAAAAlzQ/ltLd0ILj_do/s640/IMG_20120429_053534.jpg
 
 
+..
+ .. image:: 
+   :alt: 
+   :target: 
+   :align: center
+
 帳篷，蚊帳
 ++++++++++
 
@@ -39,6 +45,13 @@
 
 |
 
+.. image:: https://img.crazymike.tw/upload/product/253/170/43773_1_1457074384.jpg
+   :alt: 綠惡魔防身劍齒強光L2 LED手電筒套組
+   :target: https://crazymike.tw/product/appliances/lighting-appliances/item-43773
+   :align: center
+
+|
+
 .. image:: https://s.yimg.com/wb/images/D8DE06EB9109A848C283C634BE3C71123B58F1D2
    :alt: 迷你Q5 LED變焦隨身攜帶手電筒(CP-SK68)
    :target: https://tw.buy.yahoo.com/gdsale/%E8%BF%B7%E4%BD%A0Q5-LED%E8%AE%8A%E7%84%A6%E9%9A%A8%E8%BA%AB%E6%94%9C%E5%B8%B6%E6%89%8B%E9%9B%BB%E7%AD%92-CP-SK68-6420256.html
@@ -49,6 +62,13 @@
 .. image:: https://s.yimg.com/wb/images/36D6683C1FBC1FE61302E2AB3CED60C8B0F77764
    :alt: 德國 LED LENSER A41 強光頭燈
    :target: https://tw.buy.yahoo.com/gdsale/%E5%BE%B7%E5%9C%8B-LED-LENSER-A41-%E5%BC%B7%E5%85%89%E9%A0%AD%E7%87%88-5974690.html
+   :align: center
+
+|
+
+.. image:: https://img.crazymike.tw/upload/product/206/128/32974_1_1438138726.jpg
+   :alt: 【HANLIN-S6】爆強光變焦L2手提探照燈(防水等級IPX6)
+   :target: https://crazymike.tw/product/appliances/lighting-appliances/item-32974
    :align: center
 
 
@@ -199,6 +219,20 @@
 雨傘
 ++++
 
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/6W74TC9.png
+   :alt: 超大自動開折四人雨傘
+   :target: https://www.buy123.com.tw/site/item/61801/%E8%B6%85%E5%A4%A7%E8%87%AA%E5%8B%95%E9%96%8B%E6%8A%98%E5%9B%9B%E4%BA%BA%E9%9B%A8%E5%82%98
+   :align: center
+
+|
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/YPC7849.png
+   :alt: 超大防護防風晴雨自動傘
+   :target: https://www.buy123.com.tw/site/item/46081/%E8%B6%85%E5%A4%A7%E9%98%B2%E8%AD%B7%E9%98%B2%E9%A2%A8%E6%99%B4%E9%9B%A8%E8%87%AA%E5%8B%95%E5%82%98
+   :align: center
+
+|
+
 .. image:: https://img.crazymike.tw/upload/product/96/132/33888_1_1437117908.jpg
    :alt: (雨傘)防護罩防風自動雨傘
    :target: https://crazymike.tw/product/living-goods/umbrella-raincoat/item-33888
@@ -216,6 +250,13 @@
 .. image:: https://s.yimg.com/wb/images/EB3D690BDEB3507CDD88CFAD1E28F2F6503C43CC
    :alt: 【韓國熱銷】 三用多功能戶外登山雨衣/野餐墊/天幕
    :target: https://tw.buy.yahoo.com/gdsale/%E9%9F%93%E5%9C%8B%E7%86%B1%E9%8A%B7-%E4%B8%89%E7%94%A8%E5%A4%9A%E5%8A%9F%E8%83%BD%E6%88%B6%E5%A4%96%E7%99%BB%E5%B1%B1%E9%9B%A8%E8%A1%A3-%E9%87%8E%E9%A4%90%E5%A2%8A-%E5%A4%A9%E5%B9%95-%E7%B6%A0-6322017.html
+   :align: center
+
+|
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/38A49G9.png
+   :alt: 輕量抗UV自動開收傘
+   :target: https://www.buy123.com.tw/site/item/53208/%E8%BC%95%E9%87%8F%E6%8A%97UV%E8%87%AA%E5%8B%95%E9%96%8B%E6%94%B6%E5%82%98
    :align: center
 
 
@@ -236,180 +277,6 @@
 
 ----
 
-..
- .. image:: 
-   :alt: 
-   :target: 
-   :align: center
-
-.. image:: https://img.crazymike.tw/upload/product/177/191/49073_1_1457580518.jpg
-   :alt: 珪藻土超吸水方型肥皂盒/杯墊
-   :target: https://crazymike.tw/product/living-goods/bathroom/item-49073
-   :align: center
-
-|
-
-收納：
-
-.. image:: https://img.crazymike.tw/upload/product/226/187/48098_1_1456884223.jpg
-   :alt: 可立可掛式二用收納鞋架(2入/組)
-   :target: https://crazymike.tw/product/living-goods/furniture/item-48098
-   :align: center
-
-|
-
-.. image:: https://img.crazymike.tw/upload/product/171/178/45739_1_1453780254.jpg
-   :alt: 新式多功能廚房置物架
-   :target: https://crazymike.tw/product/living-goods/furniture/item-45739
-   :align: center
-
-|
-
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/PCTACJW.png
-   :alt: 加寬加強伸縮功能隔層架
-   :target: https://www.buy123.com.tw/site/item/54428/%E5%8A%A0%E5%AF%AC%E5%8A%A0%E5%BC%B7%E4%BC%B8%E7%B8%AE%E5%8A%9F%E8%83%BD%E9%9A%94%E5%B1%A4%E6%9E%B6
-   :align: center
-
-* `收納整理│123購物 <https://123.com.tw/r/Lf8>`_
-
-
-3C：
-
-  * 手機：
-
-    - `軍人園區備用機 3G版 iNO-CP20 <http://24h.pchome.com.tw/store/DGASHI>`_
-
-    - `限量狂殺手機最低價 - 行動賣客：手機.週邊專賣店 <https://crazymike.tw/mobi-cata/promotion/promotion/tag-2431>`_
-
-|
-
-.. image:: https://img.crazymike.tw/upload/product/upload/editor/provider/pr181/editor_20160313142813_001.jpg
-   :alt: TalKase 超薄智慧卡片機 橘色限定款 (可插sim卡單機版)
-   :target: https://crazymike.tw/mobi-product/cell-phones-tablets/display-size/4Inches/item-49146
-   :align: center
-
-|
-
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/JHAYTP3.png
-   :alt: 多功能磁吸式手機架
-   :target: https://www.buy123.com.tw/site/item/62535/%E5%A4%9A%E5%8A%9F%E8%83%BD%E7%A3%81%E5%90%B8%E5%BC%8F%E6%89%8B%E6%A9%9F%E6%9E%B6
-   :align: center
-
-|
-
-  * `【Casemaks】大功率乾濕兩用吸塵器 <https://www.google.com/search?q=%E3%80%90Casemaks%E3%80%91%E5%A4%A7%E5%8A%9F%E7%8E%87%E4%B9%BE%E6%BF%95%E5%85%A9%E7%94%A8%E5%90%B8%E5%A1%B5%E5%99%A8>`_
-
-  * `二合一高質感伸縮收納傳輸線(贈專屬收納盒) <https://crazymike.tw/product/Mobile/charging-cables/item-48741>`_
-
-  * 行動電源：
-
-    - `20000+型日韓電芯男爵超薄行動電源 <https://crazymike.tw/product/Mobile/PowerBank/item-38479>`_
-
-    - `Line Friends 10000mAh USB雙輸出行動電源 <https://crazymike.tw/mobi-product/power-bank/battery-capacity/10000-15000mAh/item-49452>`_
-
-|
-
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/PYPAHG9.png
-   :alt: 鋁合金高速傳輸充電線
-   :target: https://www.buy123.com.tw/site/item/61713/%E9%8B%81%E5%90%88%E9%87%91%E9%AB%98%E9%80%9F%E5%82%B3%E8%BC%B8%E5%85%85%E9%9B%BB%E7%B7%9A
-   :align: center
-
-|
-
-.. image:: http://img.ruten.com.tw/s1/c/62/83/21511601987203_751.jpg
-   :alt: 【篁城】台灣竹：適合種菜、農用竹竿、架菜棚番茄用竹竿《農業用竹材、竹竿》一把30支240元(需預購)
-   :target: http://goods.ruten.com.tw/item/show?21511601987203
-   :align: center
-
-|
-
-.. image:: http://www.0800076666.com.tw/mng/premium_retail_pic/201603163A10E0CC153E4D9981CB2.jpg
-   :alt: 拿坡里披薩‧炸雞 - 門市優惠
-   :target: http://www.0800076666.com.tw/sale.aspx
-   :align: center
-
-|
-
-.. image:: https://img.crazymike.tw/upload/product/130/182/46722_1_1454644203.jpg
-   :alt: 可掛式強力除濕袋(6入/組)
-   :target: https://crazymike.tw/product/necessities-essentials/insecticide/item-46722
-   :align: center
-
-|
-
-.. image:: https://img.crazymike.tw/upload/product/58/192/49210_1_1458021747.jpg
-   :alt: 光照5秒-萬能修補黏合液10g
-   :target: https://crazymike.tw/product/hardware-tools/glue-tape/item-49210
-   :align: center
-
-|
-
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/7JCP66P.png
-   :alt: 防風防水輕量超保暖外套
-   :target: https://www.buy123.com.tw/site/item/53771/%E9%98%B2%E9%A2%A8%E9%98%B2%E6%B0%B4%E8%BC%95%E9%87%8F%E8%B6%85%E4%BF%9D%E6%9A%96%E5%A4%96%E5%A5%97
-   :align: center
-
-|
-
-.. image:: https://img2.crazymike.tw/upload/activity/30/act56e7df9c726a1.jpg
-   :alt: 梅雨季-乾衣策略
-   :target: https://crazymike.tw/house-activity/act-30
-   :align: center
-
-|
-
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/49844FG.png
-   :alt: 100%天然除味防霉樟木棒
-   :target: https://www.buy123.com.tw/site/item/53517/100%EF%BC%85%E5%A4%A9%E7%84%B6%E9%99%A4%E5%91%B3%E9%98%B2%E9%9C%89%E6%A8%9F%E6%9C%A8%E6%A3%92
-   :align: center
-
-|
-
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/CKRGLCT.png
-   :alt: 超黏萬用強力無痕矽膠貼
-   :target: https://www.buy123.com.tw/site/item/60612/%E8%B6%85%E9%BB%8F%E8%90%AC%E7%94%A8%E5%BC%B7%E5%8A%9B%E7%84%A1%E7%97%95%E7%9F%BD%E8%86%A0%E8%B2%BC
-   :align: center
-
-|
-
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/H5F7769.png
-   :alt: 小麥環保便攜餐具組
-   :target: https://www.buy123.com.tw/site/item/52530/%E5%B0%8F%E9%BA%A5%E7%92%B0%E4%BF%9D%E4%BE%BF%E6%94%9C%E9%A4%90%E5%85%B7%E7%B5%84
-   :align: center
-
-|
-
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/HQ9JPK5.png
-   :alt: 超環保頂級不鏽鋼吸管
-   :target: https://www.buy123.com.tw/site/item/57715/%E8%B6%85%E7%92%B0%E4%BF%9D%E9%A0%82%E7%B4%9A%E4%B8%8D%E9%8F%BD%E9%8B%BC%E5%90%B8%E7%AE%A1
-   :align: center
-
-----
-
-- `高雄 樹苗 <https://www.google.com/search?q=%E9%AB%98%E9%9B%84+%E6%A8%B9%E8%8B%97>`_
-
-  * `田尾玫瑰園-專業植物購物網站 <http://www.twr.com.tw/>`_
-
-    @ `優良造林樹種【肖楠】黃肉仔.2.5吋高20-25cm25元/株 <http://www.twr.com.tw/product_one.asp?guid=0D7467C9-5144-B746-A0F7-933A72F3CFBA>`_
-
-  * `高雄市區監理所綠海漂書香 好書換苗慶植樹 <http://www.thb.gov.tw/sites/ch/modules/news/news_details?node=eeb33aa6-58a1-4d5d-b6aa-28dd4d5270b0&id=2d7f8d56-d2e3-4c03-8698-eeeabc3f8e94>`_
-
-----
-
-- 太陽能：
-
-  * `租屋頂 <https://www.google.com/search?q=%E7%A7%9F%E5%B1%8B%E9%A0%82>`_
-
-  * `投資與理財 - 太陽能屋頂/台電回購~目前可行嗎? - 生活討論區 - Mobile01 <http://www.mobile01.com/topicdetail.php?f=291&t=4541973>`_
-
-  * `太陽能發電推廣網-投資試算-投資太陽能發電賣電給台電，低風險高獲利，屋頂種電輕鬆賺大錢。 <http://www.solargold.tw/calc.aspx>`_
-
-  * `陽光屋頂百萬座 - 自己的電自己發 <http://mrpv.org.tw/>`_
-
-  * `高雄市日光屋頂專案推動辦公室 <http://96kuas.kcg.gov.tw/khsolar/index.php>`_
-
-  * `東城科技有限公司TOP TOWER TECHNOLOGY CO.,LTD. <http://www.toptower.com.tw/tw/qna.asp>`_
-
-  * `旭通光電 <https://www.google.com/search?q=%E6%97%AD%E9%80%9A%E5%85%89%E9%9B%BB>`_
+`其他 <{filename}misc-useful-items-for-me-notes%zh.rst>`_
 
 .. http://mybid.ruten.com.tw/credit/point?siongui

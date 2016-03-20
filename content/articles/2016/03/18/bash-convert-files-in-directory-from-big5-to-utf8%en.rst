@@ -1,6 +1,7 @@
 [Bash] Convert Files in Directory From Big5 to UTF-8
 ####################################################
 
+:date: 2016-03-18T05:41+08:00
 :tags: find command, Commandline, String Manipulation, List Files in Directory,
        Bash, iconv command
 :category: Bash
