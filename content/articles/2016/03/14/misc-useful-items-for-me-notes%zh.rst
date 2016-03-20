@@ -14,30 +14,11 @@
    :target: 
    :align: center
 
-珪藻土超吸水：
+.. contents:: 目錄
 
-.. image:: https://img.crazymike.tw/upload/product/177/191/49073_1_1457580518.jpg
-   :alt: 珪藻土超吸水方型肥皂盒/杯墊
-   :target: https://crazymike.tw/product/living-goods/bathroom/item-49073
-   :align: center
 
-|
-
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/4AFLWH9.png
-   :alt: 高質感珪藻土超吸水地墊
-   :target: https://www.buy123.com.tw/site/item/61778/%E9%AB%98%E8%B3%AA%E6%84%9F%E7%8F%AA%E8%97%BB%E5%9C%9F%E8%B6%85%E5%90%B8%E6%B0%B4%E5%9C%B0%E5%A2%8A
-   :align: center
-
-|
-
-.. image:: http://img.ruten.com.tw/s1/1/a3/2b/21611127326507_504.jpg
-   :alt: 宜家百貨 惜福價399【日系速乾吸水珪藻土地墊】腳墊 浴墊 硅藻 腳踏墊 記憶地墊
-   :target: http://goods.ruten.com.tw/item/show?21611127326507
-   :align: center
-
-|
-
-收納：
+收納
+++++
 
 .. image:: https://s3-buy123.cdn.hinet.net/images/item/R9YL94Q.png
    :alt: 超實用手卷式真空壓縮袋
@@ -68,13 +49,16 @@
 * `收納整理│123購物 <https://123.com.tw/r/Lf8>`_
 
 
-3C：
+3C
+++
 
-  * 手機：
+* `【Casemaks】大功率乾濕兩用吸塵器 <https://www.google.com/search?q=%E3%80%90Casemaks%E3%80%91%E5%A4%A7%E5%8A%9F%E7%8E%87%E4%B9%BE%E6%BF%95%E5%85%A9%E7%94%A8%E5%90%B8%E5%A1%B5%E5%99%A8>`_
 
-    - `軍人園區備用機 3G版 iNO-CP20 <http://24h.pchome.com.tw/store/DGASHI>`_
+* 手機：
 
-    - `限量狂殺手機最低價 - 行動賣客：手機.週邊專賣店 <https://crazymike.tw/mobi-cata/promotion/promotion/tag-2431>`_
+  - `軍人園區備用機 3G版 iNO-CP20 <http://24h.pchome.com.tw/store/DGASHI>`_
+
+  - `限量狂殺手機最低價 - 行動賣客：手機.週邊專賣店 <https://crazymike.tw/mobi-cata/promotion/promotion/tag-2431>`_
 
 |
 
@@ -92,46 +76,6 @@
 
 |
 
-  * `【Casemaks】大功率乾濕兩用吸塵器 <https://www.google.com/search?q=%E3%80%90Casemaks%E3%80%91%E5%A4%A7%E5%8A%9F%E7%8E%87%E4%B9%BE%E6%BF%95%E5%85%A9%E7%94%A8%E5%90%B8%E5%A1%B5%E5%99%A8>`_
-
-  * `二合一高質感伸縮收納傳輸線(贈專屬收納盒) <https://crazymike.tw/product/Mobile/charging-cables/item-48741>`_
-
-  * 行動電源：
-
-    - `20000+型日韓電芯男爵超薄行動電源 <https://crazymike.tw/product/Mobile/PowerBank/item-38479>`_
-
-    - `Line Friends 10000mAh USB雙輸出行動電源 <https://crazymike.tw/mobi-product/power-bank/battery-capacity/10000-15000mAh/item-49452>`_
-
-|
-
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/PYPAHG9.png
-   :alt: 鋁合金高速傳輸充電線
-   :target: https://www.buy123.com.tw/site/item/61713/%E9%8B%81%E5%90%88%E9%87%91%E9%AB%98%E9%80%9F%E5%82%B3%E8%BC%B8%E5%85%85%E9%9B%BB%E7%B7%9A
-   :align: center
-
-|
-
-.. image:: http://img.ruten.com.tw/s1/c/62/83/21511601987203_751.jpg
-   :alt: 【篁城】台灣竹：適合種菜、農用竹竿、架菜棚番茄用竹竿《農業用竹材、竹竿》一把30支240元(需預購)
-   :target: http://goods.ruten.com.tw/item/show?21511601987203
-   :align: center
-
-|
-
-.. image:: http://www.0800076666.com.tw/mng/premium_retail_pic/201603163A10E0CC153E4D9981CB2.jpg
-   :alt: 拿坡里披薩‧炸雞 - 門市優惠
-   :target: http://www.0800076666.com.tw/sale.aspx
-   :align: center
-
-|
-
-.. image:: https://img.crazymike.tw/upload/product/130/182/46722_1_1454644203.jpg
-   :alt: 可掛式強力除濕袋(6入/組)
-   :target: https://crazymike.tw/product/necessities-essentials/insecticide/item-46722
-   :align: center
-
-|
-
 .. image:: https://img.crazymike.tw/upload/product/58/192/49210_1_1458021747.jpg
    :alt: 光照5秒-萬能修補黏合液10g
    :target: https://crazymike.tw/product/hardware-tools/glue-tape/item-49210
@@ -142,20 +86,6 @@
 .. image:: https://s3-buy123.cdn.hinet.net/images/item/7JCP66P.png
    :alt: 防風防水輕量超保暖外套
    :target: https://www.buy123.com.tw/site/item/53771/%E9%98%B2%E9%A2%A8%E9%98%B2%E6%B0%B4%E8%BC%95%E9%87%8F%E8%B6%85%E4%BF%9D%E6%9A%96%E5%A4%96%E5%A5%97
-   :align: center
-
-|
-
-.. image:: https://img2.crazymike.tw/upload/activity/30/act56e7df9c726a1.jpg
-   :alt: 梅雨季-乾衣策略
-   :target: https://crazymike.tw/house-activity/act-30
-   :align: center
-
-|
-
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/49844FG.png
-   :alt: 100%天然除味防霉樟木棒
-   :target: https://www.buy123.com.tw/site/item/53517/100%EF%BC%85%E5%A4%A9%E7%84%B6%E9%99%A4%E5%91%B3%E9%98%B2%E9%9C%89%E6%A8%9F%E6%9C%A8%E6%A3%92
    :align: center
 
 |
@@ -198,6 +128,100 @@
 .. image:: http://img.ocerp.com/product_image/25914/tabs/37313/010417%E3%80%90%E5%95%86%E5%9F%8E%E3%80%91%E6%8E%8C%E4%B8%8A%E5%9E%8B%E5%B0%81%E5%8F%A3%E6%A9%9F_%E5%85%A7%E9%A0%81-01.jpg
    :alt: 摩肯彩蝶_保鮮_收納_掌上型_封口機_線上訂購系統
    :target: http://www.ubeauty.tw/prod_cpa/%E6%91%A9%E8%82%AF%E5%BD%A9%E8%9D%B6_%E4%BF%9D%E9%AE%AE_%E6%94%B6%E7%B4%8D_%E6%8E%8C%E4%B8%8A%E5%9E%8B_%E5%B0%81%E5%8F%A3%E6%A9%9F/25914
+   :align: center
+
+
+行動電源
+++++++++
+
+.. image:: https://img.crazymike.tw/upload/product/upload/editor/provider/pr1186/editor_20160320103520_0258.png
+   :alt: Line Friends 10000mAh USB雙輸出行動電源
+   :target: https://crazymike.tw/mobi-product/power-bank/battery-capacity/10000-15000mAh/item-49452
+   :align: center
+
+|
+
+.. image:: https://img.crazymike.tw/upload/product/79/150/38479_1_1444786809.jpg
+   :alt: 20000+型日韓電芯男爵超薄行動電源
+   :target: https://crazymike.tw/product/Mobile/PowerBank/item-38479
+   :align: center
+
+
+手機充電傳輸線
+++++++++++++++
+
+.. image:: https://img.crazymike.tw/upload/product/101/190/48741_1_1458007603.jpg
+   :alt: 二合一高質感伸縮收納傳輸線(贈專屬收納盒)
+   :target: https://crazymike.tw/product/Mobile/charging-cables/item-48741
+   :align: center
+
+|
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/PYPAHG9.png
+   :alt: 鋁合金高速傳輸充電線
+   :target: https://www.buy123.com.tw/site/item/61713/%E9%8B%81%E5%90%88%E9%87%91%E9%AB%98%E9%80%9F%E5%82%B3%E8%BC%B8%E5%85%85%E9%9B%BB%E7%B7%9A
+   :align: center
+
+
+珪藻土超吸水
+++++++++++++
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/4AFLWH9.png
+   :alt: 高質感珪藻土超吸水地墊
+   :target: https://www.buy123.com.tw/site/item/61778/%E9%AB%98%E8%B3%AA%E6%84%9F%E7%8F%AA%E8%97%BB%E5%9C%9F%E8%B6%85%E5%90%B8%E6%B0%B4%E5%9C%B0%E5%A2%8A
+   :align: center
+
+|
+
+.. image:: http://img.ruten.com.tw/s1/1/a3/2b/21611127326507_504.jpg
+   :alt: 宜家百貨 惜福價399【日系速乾吸水珪藻土地墊】腳墊 浴墊 硅藻 腳踏墊 記憶地墊
+   :target: http://goods.ruten.com.tw/item/show?21611127326507
+   :align: center
+
+|
+
+.. image:: https://img.crazymike.tw/upload/product/177/191/49073_1_1457580518.jpg
+   :alt: 珪藻土超吸水方型肥皂盒/杯墊
+   :target: https://crazymike.tw/product/living-goods/bathroom/item-49073
+   :align: center
+
+
+除濕防黴
+++++++++
+
+.. image:: https://img2.crazymike.tw/upload/activity/30/act56e7df9c726a1.jpg
+   :alt: 梅雨季-乾衣策略
+   :target: https://crazymike.tw/house-activity/act-30
+   :align: center
+
+|
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/49844FG.png
+   :alt: 100%天然除味防霉樟木棒
+   :target: https://www.buy123.com.tw/site/item/53517/100%EF%BC%85%E5%A4%A9%E7%84%B6%E9%99%A4%E5%91%B3%E9%98%B2%E9%9C%89%E6%A8%9F%E6%9C%A8%E6%A3%92
+   :align: center
+
+|
+
+.. image:: https://img.crazymike.tw/upload/product/130/182/46722_1_1454644203.jpg
+   :alt: 可掛式強力除濕袋(6入/組)
+   :target: https://crazymike.tw/product/necessities-essentials/insecticide/item-46722
+   :align: center
+
+
+食物
+++++
+
+.. image:: http://www.0800076666.com.tw/mng/premium_retail_pic/201603163A10E0CC153E4D9981CB2.jpg
+   :alt: 拿坡里披薩‧炸雞 - 門市優惠
+   :target: http://www.0800076666.com.tw/sale.aspx
+   :align: center
+
+----
+
+.. image:: http://img.ruten.com.tw/s1/c/62/83/21511601987203_751.jpg
+   :alt: 【篁城】台灣竹：適合種菜、農用竹竿、架菜棚番茄用竹竿《農業用竹材、竹竿》一把30支240元(需預購)
+   :target: http://goods.ruten.com.tw/item/show?21511601987203
    :align: center
 
 ----
