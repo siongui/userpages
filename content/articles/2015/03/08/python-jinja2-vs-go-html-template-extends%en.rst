@@ -120,6 +120,12 @@ References:
 
 .. [c] `go语言：优雅的模板切割技术 <http://studygolang.com/articles/2315>`_
 
+.. [d] `Template inheritance ? : golang <https://www.reddit.com/r/golang/comments/4b5wx5/template_inheritance/>`_
+
+       `How to Use Template Blocks in Go 1.6 - Improving Efficiency with Technology | Joseph Spurrier <http://www.josephspurrier.com/how-to-use-template-blocks-in-go-1-6/>`_
+
+       `Including html/template snippets: is there a better way? : golang <https://www.reddit.com/r/golang/comments/27ls5a/including_htmltemplate_snippets_is_there_a_better/>`_
+
 
 .. _html/template: http://golang.org/pkg/html/template/
 
