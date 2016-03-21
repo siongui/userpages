@@ -69,6 +69,13 @@
    :target: https://www.buy123.com.tw/site/item/54428/%E5%8A%A0%E5%AF%AC%E5%8A%A0%E5%BC%B7%E4%BC%B8%E7%B8%AE%E5%8A%9F%E8%83%BD%E9%9A%94%E5%B1%A4%E6%9E%B6
    :align: center
 
+|
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/97QPLL9.png
+   :alt: 上頂下立鋼骨收納掛衣架
+   :target: https://www.buy123.com.tw/site/item/58828/%E4%B8%8A%E9%A0%82%E4%B8%8B%E7%AB%8B%E9%8B%BC%E9%AA%A8%E6%94%B6%E7%B4%8D%E6%8E%9B%E8%A1%A3%E6%9E%B6
+   :align: center
+
 * `收納整理│123購物 <https://123.com.tw/r/Lf8>`_
 
 
