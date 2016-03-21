@@ -81,6 +81,13 @@ References:
 
 .. [20] `小信' Blog <http://playbear.github.io/>`_
 
+.. [21] `小趴趴--知乎精华回答的非专业大数据统计 <http://www.jianshu.com/p/6d53b34165d2>`_
+        (`伯樂在線轉錄 <http://python.jobbole.com/84524/>`__,
+        `GitHub - SmileXie/zhihu_crawler <https://github.com/SmileXie/zhihu_crawler>`__)
+
+.. [22] `使用python进行web抓取 -  磁针石的个人空间 - 开源中国社区 <http://my.oschina.net/u/1433482/blog/620858>`_
+        (`伯樂在線轉錄 <http://python.jobbole.com/84523/>`__)
+
 
 .. _Web scrape: https://en.wikipedia.org/wiki/Web_scraping
 .. _Python: https://www.python.org/
