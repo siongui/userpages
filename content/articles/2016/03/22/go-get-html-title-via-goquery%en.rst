@@ -37,6 +37,8 @@ References:
 
        `Tips and tricks · PuerkitoBio/goquery Wiki · GitHub <https://github.com/PuerkitoBio/goquery/wiki/Tips-and-tricks>`_
 
+.. [3] `read html title · twnanda/twnanda@5d81787 · GitHub <https://github.com/twnanda/twnanda/commit/5d81787c957ae9273f78ce5f073dca47849b5ddd>`_
+
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
 .. _goquery: https://github.com/PuerkitoBio/goquery
