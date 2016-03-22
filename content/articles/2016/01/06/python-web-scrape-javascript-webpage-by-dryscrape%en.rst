@@ -88,6 +88,10 @@ References:
 .. [22] `使用python进行web抓取 -  磁针石的个人空间 - 开源中国社区 <http://my.oschina.net/u/1433482/blog/620858>`_
         (`伯樂在線轉錄 <http://python.jobbole.com/84523/>`__)
 
+.. [23] `关于背单词软件,你不知道的惊人真相 <http://www.jianshu.com/p/b57e55cb5941>`_
+        (`伯樂在線轉錄 <http://python.jobbole.com/84526/>`__,
+        `GitHub <https://github.com/twocucao/DataScience/>`__)
+
 
 .. _Web scrape: https://en.wikipedia.org/wiki/Web_scraping
 .. _Python: https://www.python.org/

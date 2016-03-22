@@ -349,49 +349,8 @@
 * `Panasonic充電器組合包 <https://www.google.com/search?q=Panasonic%E5%85%85%E9%9B%BB%E5%99%A8%E7%B5%84%E5%90%88%E5%8C%85>`_
 
 
-雨傘
-++++
-
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/6W74TC9.png
-   :alt: 超大自動開折四人雨傘
-   :target: https://www.buy123.com.tw/site/item/61801/%E8%B6%85%E5%A4%A7%E8%87%AA%E5%8B%95%E9%96%8B%E6%8A%98%E5%9B%9B%E4%BA%BA%E9%9B%A8%E5%82%98
-   :align: center
-
-|
-
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/YPC7849.png
-   :alt: 超大防護防風晴雨自動傘
-   :target: https://www.buy123.com.tw/site/item/46081/%E8%B6%85%E5%A4%A7%E9%98%B2%E8%AD%B7%E9%98%B2%E9%A2%A8%E6%99%B4%E9%9B%A8%E8%87%AA%E5%8B%95%E5%82%98
-   :align: center
-
-|
-
-.. image:: https://img.crazymike.tw/upload/product/96/132/33888_1_1437117908.jpg
-   :alt: (雨傘)防護罩防風自動雨傘
-   :target: https://crazymike.tw/product/living-goods/umbrella-raincoat/item-33888
-   :align: center
-
-|
-
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/YGRWF8T.png
-   :alt: 超大自動開收四人雨傘
-   :target: https://www.buy123.com.tw/site/item/63164/%E8%B6%85%E5%A4%A7%E8%87%AA%E5%8B%95%E9%96%8B%E6%94%B6%E5%9B%9B%E4%BA%BA%E9%9B%A8%E5%82%98
-   :align: center
-
-|
-
-.. image:: https://s.yimg.com/wb/images/EB3D690BDEB3507CDD88CFAD1E28F2F6503C43CC
-   :alt: 【韓國熱銷】 三用多功能戶外登山雨衣/野餐墊/天幕
-   :target: https://tw.buy.yahoo.com/gdsale/%E9%9F%93%E5%9C%8B%E7%86%B1%E9%8A%B7-%E4%B8%89%E7%94%A8%E5%A4%9A%E5%8A%9F%E8%83%BD%E6%88%B6%E5%A4%96%E7%99%BB%E5%B1%B1%E9%9B%A8%E8%A1%A3-%E9%87%8E%E9%A4%90%E5%A2%8A-%E5%A4%A9%E5%B9%95-%E7%B6%A0-6322017.html
-   :align: center
-
-|
-
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/38A49G9.png
-   :alt: 輕量抗UV自動開收傘
-   :target: https://www.buy123.com.tw/site/item/53208/%E8%BC%95%E9%87%8F%E6%8A%97UV%E8%87%AA%E5%8B%95%E9%96%8B%E6%94%B6%E5%82%98
-   :align: center
-
+`雨傘 <{filename}umbrella-useful-items-for-me-notes%zh.rst>`_
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 防蚊
 ++++

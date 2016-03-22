@@ -74,6 +74,8 @@ References:
 
 .. [8] `The Laws of Reflection - The Go Blog <http://blog.golang.org/laws-of-reflection>`_
 
+.. [9] `谈一谈Go的interface和reflect | legendtkl <http://legendtkl.com/2015/11/28/go-interface-reflect/>`_
+
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
