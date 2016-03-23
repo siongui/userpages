@@ -58,3 +58,10 @@
    :target: https://www.buy123.com.tw/site/item/53208/%E8%BC%95%E9%87%8F%E6%8A%97UV%E8%87%AA%E5%8B%95%E9%96%8B%E6%94%B6%E5%82%98
    :align: center
 
+|
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/TY49WY9.png
+   :alt: 皮爾卡登高質自動開收傘
+   :target: https://www.buy123.com.tw/site/item/53478/%E7%9A%AE%E7%88%BE%E5%8D%A1%E7%99%BB%E9%AB%98%E8%B3%AA%E8%87%AA%E5%8B%95%E9%96%8B%E6%94%B6%E5%82%98
+   :align: center
+

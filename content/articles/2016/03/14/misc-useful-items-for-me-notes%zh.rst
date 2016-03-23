@@ -17,31 +17,19 @@
 .. contents:: 目錄
 
 
-真空壓縮袋
-++++++++++
-
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/R9YL94Q.png
-   :alt: 超實用手卷式真空壓縮袋
-   :target: https://www.buy123.com.tw/site/item/57848/%E8%B6%85%E5%AF%A6%E7%94%A8%E6%89%8B%E5%8D%B7%E5%BC%8F%E7%9C%9F%E7%A9%BA%E5%A3%93%E7%B8%AE%E8%A2%8B
-   :align: center
-
-|
-
-.. image:: https://img.crazymike.tw/upload/product/184/191/49080_1_1458288581.jpg
-   :alt: 手卷式真空壓縮袋(6入/組)
-   :target: https://crazymike.tw/product/living-goods/furniture/item-49080
-   :align: center
-
-|
-
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/R3AH7R4.png
-   :alt: 加厚型萬用真空壓縮袋
-   :target: https://www.buy123.com.tw/site/item/62247/%E5%8A%A0%E5%8E%9A%E5%9E%8B%E8%90%AC%E7%94%A8%E7%9C%9F%E7%A9%BA%E5%A3%93%E7%B8%AE%E8%A2%8B
-   :align: center
+`真空壓縮袋 <{filename}vacuum-seal-storage-bag-useful-items-for-me-notes%zh.rst>`_
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 收納
 ++++
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/JAGGJ7A.png
+   :alt: 升級款不鏽鋼伸縮置物架
+   :target: https://www.buy123.com.tw/site/item/64284/%E5%8D%87%E7%B4%9A%E6%AC%BE%E4%B8%8D%E9%8F%BD%E9%8B%BC%E4%BC%B8%E7%B8%AE%E7%BD%AE%E7%89%A9%E6%9E%B6
+   :align: center
+
+|
 
 .. image:: https://s3-buy123.cdn.hinet.net/images/item/FRCYJ6K.png
    :alt: 加長版可折疊衣物收納架
@@ -118,6 +106,13 @@
    :target: https://www.buy123.com.tw/site/item/51982/%E4%B8%8D%E9%8A%B9%E9%8B%BC%E8%A6%86%E8%86%9C%E9%98%B2%E6%BB%91%E8%A1%A3%E6%9E%B6
    :align: center
 
+|
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/K6Q6LCT.png
+   :alt: 升級款不鏽鋼百變曬衣架
+   :target: https://www.buy123.com.tw/site/item/63378/%E5%8D%87%E7%B4%9A%E6%AC%BE%E4%B8%8D%E9%8F%BD%E9%8B%BC%E7%99%BE%E8%AE%8A%E6%9B%AC%E8%A1%A3%E6%9E%B6
+   :align: center
+
 * `收納整理│123購物 <https://123.com.tw/r/Lf8>`_
 
 
@@ -131,6 +126,13 @@
   - `軍人園區備用機 3G版 iNO-CP20 <http://24h.pchome.com.tw/store/DGASHI>`_
 
   - `限量狂殺手機最低價 - 行動賣客：手機.週邊專賣店 <https://crazymike.tw/mobi-cata/promotion/promotion/tag-2431>`_
+
+|
+
+.. image:: https://img.crazymike.tw/upload/product/122/171/43898_1_1451462268.jpg
+   :alt: LG Zero C100 四核心5吋智慧型手機，加贈保護套+16G記憶卡+保護貼
+   :target: https://crazymike.tw/mobi-product/cell-phones-tablets/display-size/47-54Inches/item-43898
+   :align: center
 
 |
 
@@ -237,6 +239,13 @@
    :target: https://www.buy123.com.tw/site/item/42644/%E8%B1%A1%E5%8D%B0%E8%B6%85%E8%BC%95%E9%87%8F%E4%BF%9D%E6%BA%AB%E7%93%B6
    :align: center
 
+|
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/8C3CPQA.png
+   :alt: GO DRY強力防水噴霧劑
+   :target: https://www.buy123.com.tw/site/item/59915/GODRY%E5%BC%B7%E5%8A%9B%E9%98%B2%E6%B0%B4%E5%99%B4%E9%9C%A7%E5%8A%91
+   :align: center
+
 
 行動電源
 ++++++++
@@ -334,6 +343,13 @@
 .. image:: http://twhere.1111.com.tw/include/CouponbkImage.ashx?sp=1&cNo=21196
    :alt: 新一代可掛式強力除濕袋
    :target: http://twhere.1111.com.tw/ShopCouponInfo.aspx?cNo=21196
+   :align: center
+
+|
+
+.. image:: https://img.crazymike.tw/upload/product/135/195/50055_1_1458299247.jpg
+   :alt: 【Whirlpool惠而浦】1級效能10L智慧型除濕機(ADT21B)
+   :target: https://crazymike.tw/product/appliances/home-appliance/item-50055
    :align: center
 
 
