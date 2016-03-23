@@ -65,6 +65,9 @@ References:
 
 .. [2] `Golang concepts from an OOP point of view - GitHub <https://github.com/luciotato/golang-notes/blob/master/OOP.md>`_
 
+.. [3] `Go Object Oriented Design <https://nathany.com/good/>`_
+       (`reddit <https://www.reddit.com/r/golang/comments/4bn34e/go_object_oriented_design/>`__)
+
 
 .. _Python: https://www.python.org/
 .. _Go: https://golang.org/

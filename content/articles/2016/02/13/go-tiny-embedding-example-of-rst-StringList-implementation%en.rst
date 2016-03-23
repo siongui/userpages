@@ -90,6 +90,10 @@ References:
 
 .. [11] `another tiny (bad) example on Go Playground <https://play.golang.org/p/Z4rbNGff_d>`_
 
+.. [12] `Go Object Oriented Design <https://nathany.com/good/>`_
+        (`reddit <https://www.reddit.com/r/golang/comments/4bn34e/go_object_oriented_design/>`__)
+
+
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
 .. _embedding: https://www.google.com/search?q=golang+embedding

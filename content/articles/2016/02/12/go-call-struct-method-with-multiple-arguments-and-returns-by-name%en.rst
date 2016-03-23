@@ -76,6 +76,8 @@ References:
 
 .. [9] `谈一谈Go的interface和reflect | legendtkl <http://legendtkl.com/2015/11/28/go-interface-reflect/>`_
 
+.. [10] `为什么golang不能通过字符串来创建对象实例？ - Go 语言 - 知乎 <https://www.zhihu.com/question/25580049>`_
+
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
