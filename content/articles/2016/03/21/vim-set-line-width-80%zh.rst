@@ -2,7 +2,7 @@ Vim編輯器設定寬度80的分隔線
 ###########################
 
 :date: 2016-03-21T03:46+08:00
-:tags: Linux
+:tags: Linux, Vim
 :category: Linux
 :summary: Vim_ 編輯器設定寬度80的分隔線
 
