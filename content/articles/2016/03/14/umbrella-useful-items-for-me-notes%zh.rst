@@ -65,3 +65,10 @@
    :target: https://www.buy123.com.tw/site/item/53478/%E7%9A%AE%E7%88%BE%E5%8D%A1%E7%99%BB%E9%AB%98%E8%B3%AA%E8%87%AA%E5%8B%95%E9%96%8B%E6%94%B6%E5%82%98
    :align: center
 
+|
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/4JPT653.png
+   :alt: 超大無敵日系自動開收傘
+   :target: https://www.buy123.com.tw/site/item/61656/%E8%B6%85%E5%A4%A7%E7%84%A1%E6%95%B5%E6%97%A5%E7%B3%BB%E8%87%AA%E5%8B%95%E9%96%8B%E6%94%B6%E5%82%98
+   :align: center
+

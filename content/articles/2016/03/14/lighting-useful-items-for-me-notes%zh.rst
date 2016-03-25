@@ -86,3 +86,10 @@
    :target: https://crazymike.tw/product/appliances/lighting-appliances/item-49177
    :align: center
 
+|
+
+.. image:: https://img.crazymike.tw/upload/product/223/183/47071_1_1458640436.jpg
+   :alt: 五段式磁控開關潛水攻擊L2強光手電筒
+   :target: https://crazymike.tw/product/appliances/lighting-appliances/item-47071
+   :align: center
+

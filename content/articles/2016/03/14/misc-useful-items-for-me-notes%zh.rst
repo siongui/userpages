@@ -136,6 +136,13 @@
 
 |
 
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/KT5TCCC.png
+   :alt: 鴻海四核心LTE智慧機皇
+   :target: https://www.buy123.com.tw/site/item/61215/%E9%B4%BB%E6%B5%B7%E5%9B%9B%E6%A0%B8%E5%BF%83LTE%E6%99%BA%E6%85%A7%E6%A9%9F%E7%9A%87
+   :align: center
+
+|
+
 .. image:: https://img.crazymike.tw/upload/product/27/194/49691_1_1458269770.jpg
    :alt: TOPPOP 旅行電源轉接組 USB 1A1P 5W
    :target: https://1.crazymike.tw/?to_channel=2&partner=facebook&utm_medium=post&utm_source=fb&utm_campaign=shop1_20160322
@@ -143,9 +150,23 @@
 
 |
 
+.. image:: http://a.ecimg.tw/pic/v1/data/item/201603/D/S/A/O/3/6/DSAO36-19006WSEO000_56f345b49ea1f.jpg
+   :alt: 太星電工旅行組(旅行轉接頭+變壓器)
+   :target: http://24h.pchome.com.tw/prod/DSAO36-19006WSEO
+   :align: center
+
+|
+
 .. image:: https://img.crazymike.tw/upload/product/upload/editor/provider/pr181/editor_20160313142813_001.jpg
    :alt: TalKase 超薄智慧卡片機 橘色限定款 (可插sim卡單機版)
    :target: https://crazymike.tw/mobi-product/cell-phones-tablets/display-size/4Inches/item-49146
+   :align: center
+
+|
+
+.. image:: https://img.crazymike.tw/upload/product/219/183/47067_1_1456195580.jpg
+   :alt: Gigastone 16G MicroSD U1 三合一組
+   :target: https://crazymike.tw/mobi-product/accessories/MicroSD-Cards-Reader/Memory-Capacity/16g/item-47067
    :align: center
 
 |
@@ -237,6 +258,13 @@
 .. image:: https://s3-buy123.cdn.hinet.net/images/item/K5W437L.png
    :alt: 象印超輕量保溫瓶
    :target: https://www.buy123.com.tw/site/item/42644/%E8%B1%A1%E5%8D%B0%E8%B6%85%E8%BC%95%E9%87%8F%E4%BF%9D%E6%BA%AB%E7%93%B6
+   :align: center
+
+|
+
+.. image:: https://s3-buy123.cdn.hinet.net/images/item/48AYTCL.png
+   :alt: 不鏽鋼可提式保溫燜燒罐
+   :target: https://www.buy123.com.tw/site/item/62251/%E4%B8%8D%E9%8F%BD%E9%8B%BC%E5%8F%AF%E6%8F%90%E5%BC%8F%E4%BF%9D%E6%BA%AB%E7%87%9C%E7%87%92%E7%BD%90
    :align: center
 
 |
@@ -359,6 +387,13 @@
 .. image:: http://www.0800076666.com.tw/mng/premium_retail_pic/201603163A10E0CC153E4D9981CB2.jpg
    :alt: 拿坡里披薩‧炸雞 - 門市優惠
    :target: http://www.0800076666.com.tw/sale.aspx
+   :align: center
+
+|
+
+.. image:: https://food123s3-buy123.cdn.hinet.net/images/item/CGA984Q.png
+   :alt: 日本熱銷濾掛式咖啡
+   :target: https://www.food123.com.tw/site/item/56058/%E6%97%A5%E6%9C%AC%E7%86%B1%E9%8A%B7%E6%BF%BE%E6%8E%9B%E5%BC%8F%E5%92%96%E5%95%A1
    :align: center
 
 ----
