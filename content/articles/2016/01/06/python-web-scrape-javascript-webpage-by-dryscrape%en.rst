@@ -92,6 +92,8 @@ References:
         (`伯樂在線轉錄 <http://python.jobbole.com/84526/>`__,
         `GitHub <https://github.com/twocucao/DataScience/>`__)
 
+.. [24] `Python爬虫：一些常用的爬虫技巧总结 -  j_hao104的个人页面 - 开源中国社区 <http://my.oschina.net/jhao104/blog/647308>`_
+
 
 .. _Web scrape: https://en.wikipedia.org/wiki/Web_scraping
 .. _Python: https://www.python.org/

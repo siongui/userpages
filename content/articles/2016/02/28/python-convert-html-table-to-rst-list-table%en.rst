@@ -149,6 +149,9 @@ References:
        (`伯樂在線轉錄 <http://python.jobbole.com/84526/>`__,
        `GitHub <https://github.com/twocucao/DataScience/>`__)
 
+.. [8] `Python爬虫：一些常用的爬虫技巧总结 -  j_hao104的个人页面 - 开源中国社区 <http://my.oschina.net/jhao104/blog/647308>`_
+
+
 .. _Python: https://www.python.org/
 .. _reStructuredText: https://www.google.com/search?q=reStructuredText
 .. _list-table: http://docutils.sourceforge.net/docs/ref/rst/directives.html#list-table
