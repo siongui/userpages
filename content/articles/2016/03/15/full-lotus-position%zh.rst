@@ -2,8 +2,8 @@
 #################################################
 
 :date: 2016-03-15T20:55+08:00
-:tags: 靜坐
-:category: 靜坐
+:tags: 轉錄, 靜坐
+:category: 轉錄
 :summary: 結跏趺坐(雙盤), ขัดสมาธิเพชร, Full Lotus Position
 :og_image: http://www.bloggang.com/data/travelaround/picture/1207629373.jpg
 
