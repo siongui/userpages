@@ -45,6 +45,8 @@ References:
 .. [4] `How to submit a javascript-form using Python requests library? - Stack Overflow <http://stackoverflow.com/questions/20802108/how-to-submit-a-javascript-form-using-python-requests-library>`_
 
 .. [5] `Ultimate guide for scraping  JavaScript rendered web pages | IMPYTHONIST <https://impythonist.wordpress.com/2015/01/06/ultimate-guide-for-scraping-javascript-rendered-web-pages/>`_
+       (`【Python】爬虫技术:(JavaScript渲染)动态页面抓取超级指南 - 简书 <http://www.jianshu.com/p/5ee1edd6f84b>`_,
+       `伯樂在線轉錄 <http://python.jobbole.com/84600/>`__)
 
 .. [6] `niklasb/dryscrape · GitHub <https://github.com/niklasb/dryscrape>`_
        (A lightweight Python library that uses Webkit to enable easy scraping of dynamic, Javascript-heavy web pages)
