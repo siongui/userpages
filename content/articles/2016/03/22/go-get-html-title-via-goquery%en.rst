@@ -2,7 +2,7 @@
 ###################################
 
 :date: 2016-03-22T07:25+08:00
-:tags: Go, Golang, Commandline, html
+:tags: Go, Golang, Commandline, html, goquery, Web Scrape
 :category: Go
 :summary: A simple example to read HTML title via goquery_ in Go_.
 
