@@ -23,7 +23,9 @@ to recognise when you are starting to lie to yourself. Only when you understand
 the way that desire and attachment arise in the mind, can you protect the mind
 and make it truly trustworthy.
 
-                                                               `Ajahn Jayasāro`_
+.. container:: align-right
+
+  `Ajahn Jayasāro`_
 
 ----
 

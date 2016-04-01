@@ -24,7 +24,9 @@ inside us that we would rather not see. For this reason we can say thank you to
 all the difficult people in our life for reminding us how much work on our
 defilements we still have to do. And get down to work
 
-                                                               `Ajahn Jayasāro`_
+.. container:: align-right
+
+  `Ajahn Jayasāro`_
 
 ----
 
