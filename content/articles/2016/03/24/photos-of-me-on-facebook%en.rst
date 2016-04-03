@@ -9,7 +9,10 @@ Photos of Me on Facebook
 
 1. log into Facebook_.
 
-2. `Find my Facebook ID`_.
+2. .. raw:: html
+
+     <a class="reference external" href="http://findmyfbid.com/" target="_blank">Find my Facebook ID</a>.
+     <br>
 
 3. .. raw:: html
 
