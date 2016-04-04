@@ -2,10 +2,10 @@ Search Links of Major Search Engines
 ####################################
 
 :date: 2016-04-03T21:51+08:00
-:tags: JavaScript, reStructuredText
+:tags: JavaScript, reStructuredText, Copy to Clipboard
 :category: JavaScript
 :summary: Search links of major search engines - Google_, DuckDuckGo_, Bing_,
-          Yahoo_.
+          Yahoo_, Baidu_, Yandex_.
 
 
 .. raw:: html
@@ -15,7 +15,7 @@ Search Links of Major Search Engines
    <hr>
    <div id="searchlinks"></div>
    <hr>
-   <textarea id="links" rows="5" cols="80"></textarea><br>
+   <textarea id="links" rows="8" cols="80"></textarea><br>
    <button type="button" id="copy" tabindex="2">Copy textarea to clipboard</button>
 
 
@@ -47,9 +47,9 @@ Search Links of Major Search Engines
       var search_string = inputElm.value.trim().replace(/\s+/g, " ");
       var qstring = encodeURI(inputElm.value.trim().replace(/\s+/g, "+"));
 
-      textareaElm.value = ".. [1] `TERM - Google search <GOOG>`_\n       `TERM - DuckDuckGo search <DUCK>`_\n       `TERM - Bing search <BING>`_\n       `TERM - Yahoo search <YAHOO>`_\n".replace("GOOG", GoogleURL(qstring)).replace("DUCK", DuckDuckGoURL(qstring)).replace("BING", BingURL(qstring)).replace("YAHOO", YahooURL(qstring)).replace(/TERM/g, search_string);
+      textareaElm.value = ".. [1] `TERM - Google search <GOOG>`_\n\n       `TERM - DuckDuckGo search <DUCK>`_\n\n       `TERM - Bing search <BING>`_\n\n       `TERM - Yahoo search <YAHOO>`_\n\n       `TERM - Baidu search <BAIDU>`_\n\n       `TERM - Yandex search <YANDEX>`_\n".replace("GOOG", GoogleURL(qstring)).replace("DUCK", DuckDuckGoURL(qstring)).replace("BING", BingURL(qstring)).replace("YAHOO", YahooURL(qstring)).replace("BAIDU", BaiduURL(qstring)).replace("YANDEX", YandexURL(qstring)).replace(/TERM/g, search_string);
 
-      divElm.innerHTML = '<a target="_blank" href="GOOG">TERM - Google Search</a><br><a target="_blank" href="DUCK">TERM - DuckDuckGo Search</a><br><a target="_blank" href="BING">TERM - Bing Search</a><br><a target="_blank" href="YAHOO">TERM - Yahoo Search</a><br>'.replace("GOOG", GoogleURL(qstring)).replace("DUCK", DuckDuckGoURL(qstring)).replace("BING", BingURL(qstring)).replace("YAHOO", YahooURL(qstring)).replace(/TERM/g, search_string);
+      divElm.innerHTML = '<a target="_blank" href="GOOG">TERM - Google Search</a><br><a target="_blank" href="DUCK">TERM - DuckDuckGo Search</a><br><a target="_blank" href="BING">TERM - Bing Search</a><br><a target="_blank" href="YAHOO">TERM - Yahoo Search</a><br><a target="_blank" href="BAIDU">TERM - Baidu Search</a><br><a target="_blank" href="YANDEX">TERM - Yandex Search</a><br>'.replace("GOOG", GoogleURL(qstring)).replace("DUCK", DuckDuckGoURL(qstring)).replace("BING", BingURL(qstring)).replace("YAHOO", YahooURL(qstring)).replace("BAIDU", BaiduURL(qstring)).replace("YANDEX", YandexURL(qstring)).replace(/TERM/g, search_string);
     }
 
     function GoogleURL(qstring) {
@@ -63,6 +63,12 @@ Search Links of Major Search Engines
     }
     function DuckDuckGoURL(qstring) {
       return "https://duckduckgo.com/?q=" + qstring;
+    }
+    function BaiduURL(qstring) {
+      return "https://www.baidu.com/s?wd=" + qstring;
+    }
+    function YandexURL(qstring) {
+      return "https://www.yandex.com/search/?text=" + qstring;
     }
   </script>
 
@@ -92,3 +98,5 @@ References:
 .. _DuckDuckGo: https://duckduckgo.com/
 .. _Bing: https://www.bing.com/
 .. _Yahoo: https://search.yahoo.com/
+.. _Baidu: https://www.baidu.com/
+.. _Yandex: https://www.yandex.com/

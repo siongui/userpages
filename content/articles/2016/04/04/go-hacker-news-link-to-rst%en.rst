@@ -2,7 +2,8 @@
 #############################################
 
 :date: 2016-04-04T22:04+08:00
-:tags: Go, Golang, Golang template, goquery, Web Scrape, reStructuredText
+:tags: Go, Golang, Golang template, goquery, Web Scrape, reStructuredText,
+       Copy to Clipboard
 :category: Go
 :summary: Extract title and URL from `Hacker News comment`_ via goquery_, and
           then output the info to `reStructuredText footnote`_.
@@ -113,23 +114,27 @@ Tested on: ``Ubuntu Linux 15.10``, ``Go 1.6``.
 
 References:
 
-.. [1] `jquery find direct child <https://www.google.com/search?q=jquery+find+direct+child>`__
+.. [1] `jquery find direct child - Google search <https://www.google.com/search?q=jquery+find+direct+child>`_
 
-       `jquery find direct child <https://duckduckgo.com/?q=jquery+find+direct+child>`__
+       `jquery find direct child - DuckDuckGo search <https://duckduckgo.com/?q=jquery+find+direct+child>`_
 
-       `jquery find direct child <https://www.bing.com/search?q=jquery+find+direct+child>`__
+       `jquery find direct child - Bing search <https://www.bing.com/search?q=jquery+find+direct+child>`_
 
-       `jquery find direct child <https://search.yahoo.com/search?p=jquery+find+direct+child>`__
+       `jquery find direct child - Yahoo search <https://search.yahoo.com/search?p=jquery+find+direct+child>`_
+
+       `jquery find direct child - Baidu search <https://www.baidu.com/s?wd=jquery+find+direct+child>`_
+
+       `jquery find direct child - Yandex search <https://www.yandex.com/search/?text=jquery+find+direct+child>`_
 
        `How to get only direct child elements by jQuery function - Stack Overflow <http://stackoverflow.com/questions/3687637/how-to-get-only-direct-child-elements-by-jquery-function>`_
 
-.. [2] `golang backtick <https://www.google.com/search?q=golang+backtick>`__
+.. [2] `golang backtick - Google search <https://www.google.com/search?q=golang+backtick>`_
 
-       `golang backtick <https://duckduckgo.com/?q=golang+backtick>`__
+       `golang backtick - DuckDuckGo search <https://duckduckgo.com/?q=golang+backtick>`_
 
-       `golang backtick <https://www.bing.com/search?q=golang+backtick>`__
+       `golang backtick - Bing search <https://www.bing.com/search?q=golang+backtick>`_
 
-       `golang backtick <https://search.yahoo.com/search?p=golang+backtick>`__
+       `golang backtick - Yahoo search <https://search.yahoo.com/search?p=golang+backtick>`_
 
        `go - Golang how to escape back ticks - Stack Overflow <http://stackoverflow.com/questions/21198980/golang-how-to-escape-back-ticks>`_
 
