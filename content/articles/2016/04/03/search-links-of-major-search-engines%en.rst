@@ -47,7 +47,7 @@ Search Links of Major Search Engines
       var search_string = inputElm.value.trim().replace(/\s+/g, " ");
       var qstring = encodeURI(inputElm.value.trim().replace(/\s+/g, "+"));
 
-      textareaElm.value = ".. [1] `TERM <GOOG>`_\n       `TERM <DUCK>`_\n       `TERM <BING>`_\n       `TERM <YAHOO>`_\n".replace("GOOG", GoogleURL(qstring)).replace("DUCK", DuckDuckGoURL(qstring)).replace("BING", BingURL(qstring)).replace("YAHOO", YahooURL(qstring)).replace(/TERM/g, search_string);
+      textareaElm.value = ".. [1] `TERM - Google search <GOOG>`_\n       `TERM - DuckDuckGo search <DUCK>`_\n       `TERM - Bing search <BING>`_\n       `TERM - Yahoo search <YAHOO>`_\n".replace("GOOG", GoogleURL(qstring)).replace("DUCK", DuckDuckGoURL(qstring)).replace("BING", BingURL(qstring)).replace("YAHOO", YahooURL(qstring)).replace(/TERM/g, search_string);
 
       divElm.innerHTML = '<a target="_blank" href="GOOG">TERM - Google Search</a><br><a target="_blank" href="DUCK">TERM - DuckDuckGo Search</a><br><a target="_blank" href="BING">TERM - Bing Search</a><br><a target="_blank" href="YAHOO">TERM - Yahoo Search</a><br>'.replace("GOOG", GoogleURL(qstring)).replace("DUCK", DuckDuckGoURL(qstring)).replace("BING", BingURL(qstring)).replace("YAHOO", YahooURL(qstring)).replace(/TERM/g, search_string);
     }

@@ -15,6 +15,10 @@ Use PostFormValue_ method in `net/http`_ package.
 
 ----
 
+Tested on: ``Ubuntu Linux 15.10``, ``Go 1.6``.
+
+----
+
 References:
 
 .. [1] `http - The Go Programming Language <https://golang.org/pkg/net/http/>`_

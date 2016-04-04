@@ -24,6 +24,10 @@ Remove `query string`_ from URL_ in Golang_.
 
 ----
 
+Tested on: ``Ubuntu Linux 15.10``, ``Go 1.6``.
+
+----
+
 References:
 
 .. [1] `go url remove query <https://www.google.com/search?q=go+url+remove+query>`_

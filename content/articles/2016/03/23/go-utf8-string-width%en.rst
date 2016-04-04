@@ -25,6 +25,10 @@ Source code:
 
 ----
 
+Tested on: ``Ubuntu Linux 15.10``, ``Go 1.6``.
+
+----
+
 References:
 
 .. [1] `[Golang] Iterate Over UTF-8 Strings (non-ASCII strings) <{filename}../../02/03/go-iterate-over-utf8-non-ascii-string%en.rst>`_

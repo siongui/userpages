@@ -11,8 +11,7 @@ Photos of Me on Facebook
 
 2. .. raw:: html
 
-     <a class="reference external" href="http://findmyfbid.com/" target="_blank">Find my Facebook ID</a>.
-     <br>
+     <p><a class="reference external" href="http://findmyfbid.com/" target="_blank">Find my Facebook ID</a>.</p>
 
 3. .. raw:: html
 

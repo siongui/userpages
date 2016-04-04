@@ -76,6 +76,10 @@ Command line usage:
 
 ----
 
+Tested on: ``Ubuntu Linux 15.10``, ``Go 1.6``.
+
+----
+
 References:
 
 .. [1] `big5 to utf-8 · twnanda/twnanda@5681c8b · GitHub <https://github.com/twnanda/twnanda/commit/5681c8b94c68da8cf15cc4fc91ac4401f80d6eb7>`_

@@ -78,6 +78,9 @@ Output:
     :target: https://direct.buy123.com.tw/site/item/64493/6LED%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%A4%AA%E9%99%BD%E8%83%BD%E9%9C%B2%E7%87%9F%E7%87%88
     :align: center
 
+----
+
+Tested on: ``Ubuntu Linux 15.10``, ``Go 1.6``.
 
 ----
 

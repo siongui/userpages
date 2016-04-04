@@ -27,6 +27,10 @@ Command line usage:
 
 ----
 
+Tested on: ``Ubuntu Linux 15.10``, ``Go 1.6``.
+
+----
+
 References:
 
 .. [1] `golang beautifulsoup <https://www.google.com/search?q=golang+beautifulsoup>`_
