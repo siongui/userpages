@@ -2,7 +2,7 @@
 ###############################################
 
 :date: 2016-03-16T20:29+08:00
-:tags: Go, Golang
+:tags: Go, Golang, File Input/Output
 :category: Go
 :summary: Read JPEG_ image date from Exif_ metadata in Go_ programming language.
 
