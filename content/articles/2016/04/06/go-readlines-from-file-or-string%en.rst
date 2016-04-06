@@ -1,7 +1,7 @@
 [Golang] Read Lines From File or String
 #######################################
 
-:date: 2016-04-05T22:51+08:00
+:date: 2016-04-06T22:51+08:00
 :tags: Go, Golang, String Manipulation, File Input/Output
 :category: Go
 :summary: Readlines from string or file in Go_ programming language.

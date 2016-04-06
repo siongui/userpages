@@ -1,15 +1,15 @@
-Search Links of Major Search Engines
-####################################
+Search PTT BBS
+##############
 
-:date: 2016-04-03T21:51+08:00
-:tags: JavaScript, reStructuredText, Copy to Clipboard
+:date: 2016-04-07T06:33+08:00
+:tags: JavaScript, Copy to Clipboard
 :category: JavaScript
-:summary: Search links of major search engines - Google_, DuckDuckGo_, Bing_,
-          Yahoo_, Baidu_, Yandex_.
+:summary: Search PTT_ BBS_.
 
 
 .. raw:: html
 
+   Search <a href="https://www.ptt.cc/" target="_blank">PTT</a>:
    <input type="text" id="search" tabindex="1" placeholder="Input Search String">
    <button type="button" id="getlinks">Get Links</button><br>
    <hr>
@@ -53,22 +53,22 @@ Search Links of Major Search Engines
     }
 
     function GoogleURL(qstring) {
-      return "https://www.google.com/search?q=" + qstring;
+      return "https://www.google.com/search?q=" + qstring + "+site%3Aptt.cc";
     }
     function BingURL(qstring) {
-      return "https://www.bing.com/search?q=" + qstring;
+      return "https://www.bing.com/search?q=" + qstring + "+site%3Aptt.cc";
     }
     function YahooURL(qstring) {
-      return "https://search.yahoo.com/search?p=" + qstring;
+      return "https://search.yahoo.com/search?p=" + qstring + "+site%3Aptt.cc";
     }
     function DuckDuckGoURL(qstring) {
-      return "https://duckduckgo.com/?q=" + qstring;
+      return "https://duckduckgo.com/?q=" + qstring + "+site%3Aptt.cc";
     }
     function BaiduURL(qstring) {
-      return "https://www.baidu.com/s?wd=" + qstring;
+      return "https://www.baidu.com/s?wd=" + qstring + "+site%3Aptt.cc";
     }
     function YandexURL(qstring) {
-      return "https://www.yandex.com/search/?text=" + qstring;
+      return "https://www.yandex.com/search/?text=" + qstring + "+site%3Aptt.cc";
     }
   </script>
 
@@ -76,30 +76,22 @@ Search Links of Major Search Engines
 
 References:
 
-.. [1] `HTML textarea tag - W3Schools <http://www.w3schools.com/tags/tag_textarea.asp>`_
+.. [1] `javascript open link in new tab - Google search <https://www.google.com/search?q=javascript+open+link+in+new+tab>`_
 
-.. [2] `JavaScript String trim() Method - W3Schools <http://www.w3schools.com/jsref/jsref_trim_string.asp>`_
+       `javascript open link in new tab - DuckDuckGo search <https://duckduckgo.com/?q=javascript+open+link+in+new+tab>`_
 
-.. [3] `JavaScript String replace() Method - W3Schools <http://www.w3schools.com/jsref/jsref_replace.asp>`_
+       `javascript open link in new tab - Bing search <https://www.bing.com/search?q=javascript+open+link+in+new+tab>`_
 
-.. [4] `Trigger a button click with JavaScript on the Enter key in a text box - Stack Overflow <http://stackoverflow.com/questions/155188/trigger-a-button-click-with-javascript-on-the-enter-key-in-a-text-box>`_
+       `javascript open link in new tab - Yahoo search <https://search.yahoo.com/search?p=javascript+open+link+in+new+tab>`_
 
-.. [5] `JavaScript encodeURIComponent() Function - W3Schools <http://www.w3schools.com/jsref/jsref_encodeuricomponent.asp>`_
+       `javascript open link in new tab - Baidu search <https://www.baidu.com/s?wd=javascript+open+link+in+new+tab>`_
 
-       `JavaScript encodeURI() Function - W3Schools <http://www.w3schools.com/jsref/jsref_encodeuri.asp>`_
+       `javascript open link in new tab - Yandex search <https://www.yandex.com/search/?text=javascript+open+link+in+new+tab>`_
 
-       `javascript - When are you supposed to use escape instead of encodeURI / encodeURIComponent? - Stack Overflow <http://stackoverflow.com/questions/75980/when-are-you-supposed-to-use-escape-instead-of-encodeuri-encodeuricomponent>`_
+       `Open a URL in a new tab (and not a new window) using JavaScript - Stack Overflow <http://stackoverflow.com/questions/4907843/open-a-url-in-a-new-tab-and-not-a-new-window-using-javascript>`_
 
-.. [6] `javascript copy to clipboard <https://www.google.com/search?q=javascript+copy+to+clipboard>`_
-
-       `How do I copy to the clipboard in JavaScript? - Stack Overflow <http://stackoverflow.com/questions/400212/how-do-i-copy-to-the-clipboard-in-javascript>`_
-
-.. [7] `Search PTT BBS <{filename}../07/search-ptt-bbs%en.rst>`_
+.. [2] `Search Links of Major Search Engines <{filename}../03/search-links-of-major-search-engines%en.rst>`_
 
 
-.. _Google: https://www.google.com/
-.. _DuckDuckGo: https://duckduckgo.com/
-.. _Bing: https://www.bing.com/
-.. _Yahoo: https://search.yahoo.com/
-.. _Baidu: https://www.baidu.com/
-.. _Yandex: https://www.yandex.com/
+.. _PTT: https://www.ptt.cc/
+.. _BBS: https://en.wikipedia.org/wiki/Bulletin_board_system
