@@ -2,7 +2,7 @@
 ####################################################
 
 :date: 2016-02-15T07:30+08:00
-:tags: Python, Regular Expression, reStructuredText
+:tags: Python, Regular Expression, reStructuredText, File Input/Output
 :category: Python
 :summary: Python_ `Regular Expression`_ to convert footnotes in file to
           reStructuredText_ format.

@@ -2,7 +2,7 @@
 ############################################
 
 :date: 2015-02-18 02:29
-:tags: Go, Golang, Commandline
+:tags: Go, Golang, Commandline, Go flag Package
 :category: Go
 :summary: How to parse command-line arguments (flags) in Go programming language.
 

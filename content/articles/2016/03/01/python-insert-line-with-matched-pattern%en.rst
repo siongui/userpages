@@ -2,7 +2,8 @@
 #########################################
 
 :date: 2016-03-01T20:42+08:00
-:tags: Python, reStructuredText, Regular Expression, String Manipulation
+:tags: Python, reStructuredText, Regular Expression, String Manipulation,
+       File Input/Output
 :category: Python
 :summary: Extract URL from reStructuredText_ link and insert the URL in the file
           as metadata via Python_.

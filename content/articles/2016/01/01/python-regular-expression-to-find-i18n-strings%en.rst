@@ -3,7 +3,7 @@
 
 :date: 2016-01-01T19:12+08:00
 :tags: Python, Regular Expression, String Manipulation, Locale, i18n, gettext,
-       find command
+       find command, File Input/Output
 :category: Python
 :summary: Use regular expression in Python to search and find strings marked for
           i18n (Internationalization)

@@ -3,7 +3,7 @@
 
 :date: 2016-02-28T20:42+08:00
 :tags: Python, Web Scrape, reStructuredText, remove trailing newline, html, DOM,
-       String Manipulation, Beautiful Soup
+       String Manipulation, Beautiful Soup, File Input/Output
 :category: Python
 :summary: Python_ script to convert `HTML table`_ to reStructuredText_
           `list-table`_ via `Beautiful Soup 4`_.

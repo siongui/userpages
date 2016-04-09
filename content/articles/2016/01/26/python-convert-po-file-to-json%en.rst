@@ -2,7 +2,8 @@
 #######################################
 
 :date: 2016-01-26T20:12+08:00
-:tags: Python, i18n, Locale, JSON, Regular Expression, gettext
+:tags: Python, i18n, Locale, JSON, Regular Expression, gettext,
+       File Input/Output
 :category: Python
 :summary: Convert PO_ files to JSON_ format via Python_. The data of JSON format
           can be passed to front-end by web servers to translate a text string

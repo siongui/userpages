@@ -3,7 +3,7 @@
 
 :date: 2016-03-21T01:23+08:00
 :tags: Go, Golang, Commandline, String Manipulation, iconv command,
-       File Input/Output
+       File Input/Output, Go flag Package
 :category: Go
 :summary: Convert file encoding from Big5_ to UTF-8_ via Go_ programming
           language.
