@@ -17,7 +17,7 @@ func isTextNode(n *html.Node) bool {
 }
 
 func isHasOnlyOneChild(n *html.Node) bool {
-	return n.FirstChild == n.LastChild
+	return n.FirstChild != nil && n.FirstChild == n.LastChild
 }
 
 func getAttribute(n *html.Node, key string) (string, error) {
