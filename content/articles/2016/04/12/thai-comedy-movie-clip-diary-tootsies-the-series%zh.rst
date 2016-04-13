@@ -33,6 +33,8 @@
 
        `窈窕淑男的日記 - Yandex search <https://www.yandex.com/search/?text=%E7%AA%88%E7%AA%95%E6%B7%91%E7%94%B7%E7%9A%84%E6%97%A5%E8%A8%98>`_
 
+       `【BTS字幕组】窈窕淑男的日记 第一集 1080P <http://www.bilibili.com/video/av3674194/>`_
+
        `娘娘腔的日記 窈窕淑男的日記 ไดอารี่ตุ๊ดซี่ส์ Diary Tootsies The Series －東南亞劇集－來一發電影 <http://www.18jh.com/51952/index.htm>`_
 
        `ไดอารี่ตุ๊ดซี่ส์ - Facebook <https://www.facebook.com/DiaryTootsies>`_
@@ -41,5 +43,5 @@
 
        `GDH 559 - Facebook <https://www.facebook.com/gdh559/>`_
 
-.. _窈窕淑男的日記: http://www.18jh.com/51952/index.htm
+.. _窈窕淑男的日記: http://www.bilibili.com/video/av3674194/
 .. _ไดอารี่ตุ๊ดซี่ส์: https://www.facebook.com/DiaryTootsies
