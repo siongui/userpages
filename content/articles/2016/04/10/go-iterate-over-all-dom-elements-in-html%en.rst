@@ -2,8 +2,8 @@
 ##############################################
 
 :date: 2016-04-10T20:35+08:00
-:tags: Go, Golang, Commandline, DOM, goquery, Web Scrape, Go flag Package, html,
-       reStructuredText, File Input/Output
+:tags: Go, Golang, Commandline, DOM, Go net/html, Web Scrape, Go flag Package,
+       html, reStructuredText, File Input/Output
 :category: Go
 :summary: Iterate over all DOM_ elements in HTML_ via Go_ programming language.
           Use `net/html`_ package to parse and iterate all elements in HTML.
