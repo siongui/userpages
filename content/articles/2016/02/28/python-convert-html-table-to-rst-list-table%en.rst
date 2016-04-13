@@ -151,6 +151,10 @@ References:
 
 .. [8] `Python爬虫：一些常用的爬虫技巧总结 -  j_hao104的个人页面 - 开源中国社区 <http://my.oschina.net/jhao104/blog/647308>`_
 
+.. [9] `[Golang] HTML Table to reStructuredText list-table via goquery <{filename}../../04/14/go-html-table-to-rst-list-table-via-goquery%en.rst>`_
+
+.. [10] `[Golang] Unrobust HTML Table to reStructuredText list-table <{filename}../../04/13/go-unrobust-html-table-to-rst-list-table%en.rst>`_
+
 
 .. _Python: https://www.python.org/
 .. _reStructuredText: https://www.google.com/search?q=reStructuredText

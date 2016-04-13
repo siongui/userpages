@@ -1,35 +1,36 @@
-[Golang] Unrobust HTML Table to reStructuredText list-table
-###########################################################
+[Golang] HTML Table to reStructuredText list-table via goquery
+##############################################################
 
-:date: 2016-04-13T07:59+08:00
-:tags: Go, Golang, DOM, Go net/html, Web Scrape, html, reStructuredText
+:date: 2016-04-14T07:33+08:00
+:tags: Go, Golang, DOM, goquery, Web Scrape, html, reStructuredText
 :category: Go
-:summary: Convert `HTML table`_ to reStructuredText_ `list-table`_ via Go_
-          `net/html`_ package. This is experimental and not robust
-          implementation.
+:summary: Convert `HTML table`_ to reStructuredText_ `list-table`_ via goquery_
+          in Go_ programming language.
 
 
 Introduction
 ++++++++++++
 
-Convert `HTML table`_ to reStructuredText_ `list-table`_ via `net/html`_
-package in Golang_ (Go_ programming language). This is experimental and not
-robust implementation. For more robust converter, see Python_
-`Beautiful Soup 4`_ (bs4_) implementation [4]_.
+Convert `HTML table`_ to reStructuredText_ `list-table`_ via goquery_ in Golang_
+(Go_ programming language). For unrobust implementation via Go_ `net/html`_
+package, see [5]_. For Python_ `Beautiful Soup 4`_ (bs4_) implementation, see
+[4]_.
 
-Install `net/html`_ package
-+++++++++++++++++++++++++++
+Install goquery_
+++++++++++++++++
 
 .. code-block:: bash
 
-  $ go get -u golang.org/x/net/html
+  $ go get -u github.com/PuerkitoBio/goquery
 
 `HTML table`_ to reStructuredText_ `list-table`_
 ++++++++++++++++++++++++++++++++++++++++++++++++
 
-.. show_github_file:: siongui userpages content/code/go-html-table-to-rst/table2rst.go
+.. show_github_file:: siongui userpages content/code/go-html-table-to-rst/goquery.go
 
-.. show_github_file:: siongui userpages content/code/go-html-table-to-rst/table2rst_test.go
+Usage:
+
+.. show_github_file:: siongui userpages content/code/go-html-table-to-rst/goquery_test.go
 
 ----
 
@@ -51,13 +52,14 @@ References:
 
 .. [4] `[Python] Convert HTML Table to reStructuredText list-table <{filename}../../02/28/python-convert-html-table-to-rst-list-table%en.rst>`_
 
-.. [5] `html table to rst list-table · twnanda/twnanda@e022835 · GitHub <https://github.com/twnanda/twnanda/commit/e022835fdddd3282588f38304c649ad71d73476b>`_
+.. [5] `[Golang] Unrobust HTML Table to reStructuredText list-table <{filename}../13/go-unrobust-html-table-to-rst-list-table%en.rst>`_
 
-.. [6] `[Golang] HTML Table to reStructuredText list-table via goquery <{filename}../14/go-html-table-to-rst-list-table-via-goquery%en.rst>`_
+.. [6] `html table to rst list-table · twnanda/twnanda@e022835 · GitHub <https://github.com/twnanda/twnanda/commit/e022835fdddd3282588f38304c649ad71d73476b>`_
 
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
+.. _goquery: https://github.com/PuerkitoBio/goquery
 .. _net/html: https://godoc.org/golang.org/x/net/html
 .. _golang.org/x/net/html: https://godoc.org/golang.org/x/net/html
 .. _DOM: https://www.google.com/search?q=DOM
