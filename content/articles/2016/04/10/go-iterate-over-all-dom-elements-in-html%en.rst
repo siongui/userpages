@@ -2,6 +2,7 @@
 ##############################################
 
 :date: 2016-04-10T20:35+08:00
+:modified: 2016-04-15T21:27+08:00
 :tags: Go, Golang, Commandline, DOM, Go net/html, Web Scrape, Go flag Package,
        html, reStructuredText, File Input/Output
 :category: Go
@@ -16,6 +17,8 @@ Introduction
 Iterate over all DOM_ elements in HTML_ via Golang_. Use `net/html`_ package to
 parse and iterate all elements in HTML. Search for `HTML links`_ and output them
 in reStructuredText_ format.
+
+Another example of iterating over all DOM_ elements can be found in [4]_.
 
 Install `net/html`_ package
 +++++++++++++++++++++++++++
@@ -63,6 +66,8 @@ References:
        `golang.org/x/net/html GoDoc <https://godoc.org/golang.org/x/net/html>`_
 
 .. [3] `github.com/PuerkitoBio/goquery - GoDoc <https://godoc.org/github.com/PuerkitoBio/goquery>`_
+
+.. [4] `[Golang] getElementById via net/html Package <{filename}../15/go-getElementById-via-net-html-package%en.rst>`_
 
 
 .. _Go: https://golang.org/
