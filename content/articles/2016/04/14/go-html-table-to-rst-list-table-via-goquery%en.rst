@@ -56,6 +56,8 @@ References:
 
 .. [6] `html table to rst list-table · twnanda/twnanda@e022835 · GitHub <https://github.com/twnanda/twnanda/commit/e022835fdddd3282588f38304c649ad71d73476b>`_
 
+.. [7] `go - How to convert HTML table to array with golang - Stack Overflow <http://stackoverflow.com/questions/35961491/how-to-convert-html-table-to-array-with-golang>`_
+
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

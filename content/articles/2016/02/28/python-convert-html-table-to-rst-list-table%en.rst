@@ -155,6 +155,8 @@ References:
 
 .. [10] `[Golang] Unrobust HTML Table to reStructuredText list-table <{filename}../../04/13/go-unrobust-html-table-to-rst-list-table%en.rst>`_
 
+.. [11] `go - How to convert HTML table to array with golang - Stack Overflow <http://stackoverflow.com/questions/35961491/how-to-convert-html-table-to-array-with-golang>`_
+
 
 .. _Python: https://www.python.org/
 .. _reStructuredText: https://www.google.com/search?q=reStructuredText

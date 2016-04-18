@@ -55,6 +55,8 @@ References:
 
 .. [6] `[Golang] HTML Table to reStructuredText list-table via goquery <{filename}../14/go-html-table-to-rst-list-table-via-goquery%en.rst>`_
 
+.. [7] `go - How to convert HTML table to array with golang - Stack Overflow <http://stackoverflow.com/questions/35961491/how-to-convert-html-table-to-array-with-golang>`_
+
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
