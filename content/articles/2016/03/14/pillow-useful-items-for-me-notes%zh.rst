@@ -1,0 +1,23 @@
+充氣枕頭
+########
+
+:date: 2016-03-14T19:50+08:00
+:tags: 3C
+:category: 3C
+:summary: 充氣枕頭 - 有用物品
+:og_image: ``https://gd4.alicdn.com/bao/uploaded/i4/42973365/TB2ki4xlFXXXXb_XpXXXXXXXXXX_!!42973365.jpg``
+
+
+..
+ .. image:: 
+   :alt: 
+   :target: 
+   :align: center
+
+
+.. image:: https://gd4.alicdn.com/bao/uploaded/i4/42973365/TB2ki4xlFXXXXb_XpXXXXXXXXXX_!!42973365.jpg
+   :alt: 自动充气枕头 旅行枕 便携枕头户外方便枕头吹气枕头新品
+   :target: https://item.taobao.com/item.htm?id=528686833772
+   :align: center
+
+* `充氣枕頭 <https://www.google.com/search?q=%E5%85%85%E6%B0%A3%E6%9E%95%E9%A0%AD>`_

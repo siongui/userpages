@@ -23,17 +23,8 @@
 `手電筒，照明 <{filename}lighting-useful-items-for-me-notes%zh.rst>`_
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-
-枕頭
-++++
-
-* `充氣枕頭 <https://www.google.com/search?q=%E5%85%85%E6%B0%A3%E6%9E%95%E9%A0%AD>`_
-
-.. image:: http://img.ruten.com.tw/s1/2/69/85/21405164394885_345.jpg
-   :alt: ^^n0900^^-【2014台灣健立最便宜】猛龍MENGLUNG-充氣四角枕頭-B-018
-   :target: http://goods.ruten.com.tw/item/show?21405164394885
-   :align: center
-
+`枕頭 <{filename}pillow-useful-items-for-me-notes%zh.rst>`_
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 手套
 ++++

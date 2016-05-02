@@ -310,6 +310,13 @@
    :target: http://goods.ruten.com.tw/item/show?21511601987203
    :align: center
 
+|
+
+.. image:: http://c.rimg.com.tw/s2/7/e3/82/11090503833474_230.jpg
+   :alt: *~＊台灣農業園藝*~*竹子.園藝支柱用竹.竹材竹竿
+   :target: http://goods.ruten.com.tw/item/show?11090503833474
+   :align: center
+
 ----
 
 - `高雄 樹苗 <https://www.google.com/search?q=%E9%AB%98%E9%9B%84+%E6%A8%B9%E8%8B%97>`_
