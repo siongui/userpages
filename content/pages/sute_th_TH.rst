@@ -52,6 +52,8 @@
 
   `วัดป่าอัมพวัน <http://www.watpahampawan.com/>`_
 
+  `Watmarpjan - วัดมาบจันทร์ (วัดสุภัททะบรรพต) จ.ระยอง <http://www.watmarpjan.org/index.php>`_
+
 สถิติ:
 `GitHub Résumé <http://resume.github.io/?siongui>`_ /
 `Open Source Report Card <http://osrc.dfm.io/siongui>`_ /

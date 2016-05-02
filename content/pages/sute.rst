@@ -59,6 +59,8 @@ Recommended:
 
   `The Teachings of Ajahn Chah <https://www.ajahnchah.org/>`_
 
+  `Wat Marp Jan Forest Monastery, Rayong, Thailand. <http://www.watmarpjan.org/en/>`_
+
 Statistics:
 `GitHub Résumé <http://resume.github.io/?siongui>`_ /
 `Open Source Report Card <http://osrc.dfm.io/siongui>`_ /

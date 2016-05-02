@@ -57,6 +57,8 @@
 
   `芒果樹叢林道場 (วัดป่าอัมพวัน, 泰文) <http://www.watpahampawan.com/>`_
 
+  `Wat Marp Jan Forest Monastery, Rayong, Thailand. <http://www.watmarpjan.org/en/>`_
+
 統計:
 `GitHub 履歷表 <http://resume.github.io/?siongui>`_ /
 `開放原始碼報告卡 <http://osrc.dfm.io/siongui>`_ /
