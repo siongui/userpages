@@ -96,6 +96,8 @@ References:
 
 .. [7] `Search PTT BBS <{filename}../07/search-ptt-bbs%en.rst>`_
 
+.. [8] `Search Taobao.com <{filename}../../05/06/search-taobao-com%en.rst>`_
+
 
 .. _Google: https://www.google.com/
 .. _DuckDuckGo: https://duckduckgo.com/

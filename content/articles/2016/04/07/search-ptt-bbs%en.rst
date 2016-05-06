@@ -92,6 +92,8 @@ References:
 
 .. [2] `Search Links of Major Search Engines <{filename}../03/search-links-of-major-search-engines%en.rst>`_
 
+.. [3] `Search Taobao.com <{filename}../../05/06/search-taobao-com%en.rst>`_
+
 
 .. _PTT: https://www.ptt.cc/
 .. _BBS: https://en.wikipedia.org/wiki/Bulletin_board_system
