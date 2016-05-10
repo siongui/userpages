@@ -26,3 +26,6 @@
    :alt: 18650手电头灯带小直灯带
    :target: https://item.taobao.com/item.htm?id=39104252945
    :align: center
+
+
+- `GD49 头灯_淘宝搜索 <https://s.taobao.com/search?q=GD49+%E5%A4%B4%E7%81%AF&sort=price-asc>`_

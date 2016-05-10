@@ -1,0 +1,42 @@
+行動電源(充電寶,移動電源)
+#########################
+
+:date: 2016-03-14T19:50+08:00
+:tags: 3C
+:category: 3C
+:summary: 有用物品 - 行動電源(充電寶,移動電源)
+:og_image: ``http://i01.appmifile.com/webfile/globalimg/en/goods/pb10000/intro-bg_tw.jpg``
+
+
+..
+ .. image:: 
+   :alt: 
+   :target: 
+   :align: center
+
+.. image:: http://i01.appmifile.com/webfile/globalimg/en/goods/pb10000/intro-bg_tw.jpg
+   :alt: 小米行動電源10000 - 小米台灣官網
+   :target: http://www.mi.com/tw/pb10000/
+   :align: center
+
+----
+
+- `行動電源 - Google search <https://www.google.com/search?q=%E8%A1%8C%E5%8B%95%E9%9B%BB%E6%BA%90+site%3Aptt.cc>`_
+
+  `[問題] 行動電源的選擇 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1455411697.A.C6E.html>`_
+
+  `[心得] 小米10000/20000行動電源小開箱 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1462806212.A.C05.html>`_
+
+- `【有片】帶行動電源上飛機　這些你必須知道 | 即時新聞 | 20160507 | 蘋果日報 <http://www.appledaily.com.tw/realtimenews/article/new/20160507/855486/>`_
+
+  `行動電源自燃　標檢局：勿與鑰匙等金屬物同放 | 即時新聞 | 20160507 | 蘋果日報 <http://www.appledaily.com.tw/realtimenews/article/new/20160507/855487/>`_
+
+  `外籍貨機因鋰電池爆炸墜毀　專家建議機上禁充電 | 即時新聞 | 20160507 | 蘋果日報 <http://www.appledaily.com.tw/realtimenews/article/new/20160507/855480/>`_
+
+  `自燃意外頻傳　行動電源、鋰電池只能手提禁託運 | 生活 | 三立新聞網  SETN.COM <http://www.setn.com/News.aspx?NewsID=144543>`_
+
+  `出國必看！行動電源機上自燃　相關規範看這裡 | 生活 | 三立新聞網  SETN.COM <http://www.setn.com/News.aspx?NewsID=144571>`_
+
+  `鋰電池自燃危機！民航立新規定　「禁帶電動滑板車上飛機」 | 生活 | 三立新聞網  SETN.COM <http://www.setn.com/News.aspx?NewsID=116706>`_
+
+  `[問題] 帶電池的設備能不能拖運？ - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1462765442.A.69B.html>`_

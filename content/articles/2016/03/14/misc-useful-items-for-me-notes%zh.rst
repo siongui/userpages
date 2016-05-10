@@ -182,20 +182,8 @@
    :align: center
 
 
-行動電源
-++++++++
-
-.. image:: https://img.crazymike.tw/upload/product/upload/editor/provider/pr1186/editor_20160320103520_0258.png
-   :alt: Line Friends 10000mAh USB雙輸出行動電源
-   :target: https://crazymike.tw/mobi-product/power-bank/battery-capacity/10000-15000mAh/item-49452
-   :align: center
-
-|
-
-.. image:: https://img.crazymike.tw/upload/product/79/150/38479_1_1444786809.jpg
-   :alt: 20000+型日韓電芯男爵超薄行動電源
-   :target: https://crazymike.tw/product/Mobile/PowerBank/item-38479
-   :align: center
+`行動電源 <{filename}power-bank-useful-items-for-me-notes%zh.rst>`_
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 手機充電傳輸線
