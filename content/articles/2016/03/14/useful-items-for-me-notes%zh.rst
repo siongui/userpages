@@ -23,6 +23,12 @@
 `手電筒，照明 <{filename}lighting-useful-items-for-me-notes%zh.rst>`_
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+`電池 <{filename}battery-useful-items-for-me-notes%zh.rst>`_
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+`AA/AAA電池充電器 <{filename}rechargeable-charger-aa-aaa-batteries-useful-items-for-me-notes%zh.rst>`_
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 `枕頭 <{filename}pillow-useful-items-for-me-notes%zh.rst>`_
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -147,12 +153,6 @@
    :alt: 露營防潮自動充氣床墊(軍綠)二個
    :target: https://tw.buy.yahoo.com/gdsale/%E9%9C%B2%E7%87%9F%E9%98%B2%E6%BD%AE%E8%87%AA%E5%8B%95%E5%85%85%E6%B0%A3%E5%BA%8A%E5%A2%8A-%E8%BB%8D%E7%B6%A0-%E4%BA%8C%E5%80%8B-5976370.html
    :align: center
-
-
-電池
-++++
-
-* `Panasonic充電器組合包 <https://www.google.com/search?q=Panasonic%E5%85%85%E9%9B%BB%E5%99%A8%E7%B5%84%E5%90%88%E5%8C%85>`_
 
 
 `雨傘 <{filename}umbrella-useful-items-for-me-notes%zh.rst>`_
