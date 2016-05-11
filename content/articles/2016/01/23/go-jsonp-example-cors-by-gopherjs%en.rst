@@ -3,7 +3,7 @@
 
 :date: 2016-01-23T02:45+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, JSON, JSONP, CORS, HTTP GET, DOM,
-       Web application, web, Full-Stack Go, Full-Stack Golang
+       Web application, web, Full-Stack Go, Full-Stack Golang, Go net/http
 :category: GopherJS
 :summary: Run Golang_ program in your browser by GopherJS_.
           Show how to make cross-domain requests (CORS_) by JSONP_ (JSON with

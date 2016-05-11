@@ -3,7 +3,7 @@
 
 :date: 2016-01-21T11:52+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, HTTP POST, XMLHttpRequest, JSON,
-       Web application, web, Full-Stack Go, Full-Stack Golang
+       Web application, web, Full-Stack Go, Full-Stack Golang, Go net/http
 :category: GopherJS
 :summary: Run Golang_ program in your browser by GopherJS_. Use XMLHttpRequest_
           (XHR) to send `HTTP POST`_ requests to send JSON_ data to remote

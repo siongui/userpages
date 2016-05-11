@@ -3,7 +3,7 @@
 
 :date: 2016-04-04T22:04+08:00
 :tags: Go, Golang, Golang template, goquery, Web Scrape, reStructuredText,
-       Copy to Clipboard
+       Copy to Clipboard, Go net/http
 :category: Go
 :summary: Extract title and URL from `Hacker News comment`_ via goquery_, and
           then output the info to `reStructuredText footnote`_.

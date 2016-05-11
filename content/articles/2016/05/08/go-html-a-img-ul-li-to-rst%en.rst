@@ -2,7 +2,8 @@
 ########################################################
 
 :date: 2016-05-08T22:11+08:00
-:tags: Go, Golang, DOM, Web Scrape, reStructuredText, Go net/html, html
+:tags: Go, Golang, DOM, Web Scrape, reStructuredText, Go net/html, html,
+       Go net/http
 :category: Go
 :summary: Convert `HTML unordered (bulleted) list`_, `HTML link`_, and
           `HTML image`_ to restructuredtext_ format via `net/html`_ package

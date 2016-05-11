@@ -2,7 +2,7 @@
 ###################################
 
 :date: 2016-03-27T06:33+08:00
-:tags: Go, Golang, HTTP POST, Web application, web, html
+:tags: Go, Golang, HTTP POST, Web application, web, html, Go net/http
 :category: Go
 :summary: Server get `HTML form`_ value from `HTTP POST`_ in Go_ programming
           language.

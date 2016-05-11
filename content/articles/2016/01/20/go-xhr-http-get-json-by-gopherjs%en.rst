@@ -2,7 +2,8 @@
 ############################################################
 
 :date: 2016-01-20T03:30+08:00
-:tags: Go, Golang, GopherJS, Go to JavaScript, HTTP GET, XMLHttpRequest, JSON
+:tags: Go, Golang, GopherJS, Go to JavaScript, HTTP GET, XMLHttpRequest, JSON,
+       Go net/http
 :category: GopherJS
 :summary: Run Golang_ program in your browser by GopherJS_. Use XMLHttpRequest_
           (XHR) to send `HTTP GET`_ requests to retrieve JSON_ data from remote
