@@ -22,61 +22,15 @@
 `收納 <{filename}storage-useful-items-for-me-notes%zh.rst>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+`Sony Xperia Z C6602 L36h <{filename}sony-xperia-z-c6602-l36h%zh.rst>`_
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+`行動電源 <{filename}power-bank-useful-items-for-me-notes%zh.rst>`_
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 3C
 ++
-
-* `【Casemaks】大功率乾濕兩用吸塵器 <https://www.google.com/search?q=%E3%80%90Casemaks%E3%80%91%E5%A4%A7%E5%8A%9F%E7%8E%87%E4%B9%BE%E6%BF%95%E5%85%A9%E7%94%A8%E5%90%B8%E5%A1%B5%E5%99%A8>`_
-
-* 手機：
-
-  - `軍人園區備用機 3G版 iNO-CP20 <http://24h.pchome.com.tw/store/DGASHI>`_
-
-  - `限量狂殺手機最低價 - 行動賣客：手機.週邊專賣店 <https://crazymike.tw/mobi-cata/promotion/promotion/tag-2431>`_
-
-|
-
-.. image:: https://img.crazymike.tw/upload/product/122/171/43898_1_1451462268.jpg
-   :alt: LG Zero C100 四核心5吋智慧型手機，加贈保護套+16G記憶卡+保護貼
-   :target: https://crazymike.tw/mobi-product/cell-phones-tablets/display-size/47-54Inches/item-43898
-   :align: center
-
-|
-
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/KT5TCCC.png
-   :alt: 鴻海四核心LTE智慧機皇
-   :target: https://www.buy123.com.tw/site/item/61215/%E9%B4%BB%E6%B5%B7%E5%9B%9B%E6%A0%B8%E5%BF%83LTE%E6%99%BA%E6%85%A7%E6%A9%9F%E7%9A%87
-   :align: center
-
-|
-
-.. image:: https://img.crazymike.tw/upload/product/27/194/49691_1_1458269770.jpg
-   :alt: TOPPOP 旅行電源轉接組 USB 1A1P 5W
-   :target: https://1.crazymike.tw/?to_channel=2&partner=facebook&utm_medium=post&utm_source=fb&utm_campaign=shop1_20160322
-   :align: center
-
-|
-
-.. image:: http://a.ecimg.tw/pic/v1/data/item/201603/D/S/A/O/3/6/DSAO36-19006WSEO000_56f345b49ea1f.jpg
-   :alt: 太星電工旅行組(旅行轉接頭+變壓器)
-   :target: http://24h.pchome.com.tw/prod/DSAO36-19006WSEO
-   :align: center
-
-|
-
-.. image:: https://img.crazymike.tw/upload/product/upload/editor/provider/pr181/editor_20160313142813_001.jpg
-   :alt: TalKase 超薄智慧卡片機 橘色限定款 (可插sim卡單機版)
-   :target: https://crazymike.tw/mobi-product/cell-phones-tablets/display-size/4Inches/item-49146
-   :align: center
-
-|
-
-.. image:: https://img.crazymike.tw/upload/product/219/183/47067_1_1456195580.jpg
-   :alt: Gigastone 16G MicroSD U1 三合一組
-   :target: https://crazymike.tw/mobi-product/accessories/MicroSD-Cards-Reader/Memory-Capacity/16g/item-47067
-   :align: center
-
-|
 
 .. image:: https://s3-buy123.cdn.hinet.net/images/item/JHAYTP3.png
    :alt: 多功能磁吸式手機架
@@ -99,30 +53,9 @@
 
 |
 
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/7JCP66P.png
-   :alt: 防風防水輕量超保暖外套
-   :target: https://www.buy123.com.tw/site/item/53771/%E9%98%B2%E9%A2%A8%E9%98%B2%E6%B0%B4%E8%BC%95%E9%87%8F%E8%B6%85%E4%BF%9D%E6%9A%96%E5%A4%96%E5%A5%97
-   :align: center
-
-|
-
 .. image:: https://s3-buy123.cdn.hinet.net/images/item/CKRGLCT.png
    :alt: 超黏萬用強力無痕矽膠貼
    :target: https://www.buy123.com.tw/site/item/60612/%E8%B6%85%E9%BB%8F%E8%90%AC%E7%94%A8%E5%BC%B7%E5%8A%9B%E7%84%A1%E7%97%95%E7%9F%BD%E8%86%A0%E8%B2%BC
-   :align: center
-
-|
-
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/H5F7769.png
-   :alt: 小麥環保便攜餐具組
-   :target: https://www.buy123.com.tw/site/item/52530/%E5%B0%8F%E9%BA%A5%E7%92%B0%E4%BF%9D%E4%BE%BF%E6%94%9C%E9%A4%90%E5%85%B7%E7%B5%84
-   :align: center
-
-|
-
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/HQ9JPK5.png
-   :alt: 超環保頂級不鏽鋼吸管
-   :target: https://www.buy123.com.tw/site/item/57715/%E8%B6%85%E7%92%B0%E4%BF%9D%E9%A0%82%E7%B4%9A%E4%B8%8D%E9%8F%BD%E9%8B%BC%E5%90%B8%E7%AE%A1
    :align: center
 
 |
@@ -162,43 +95,9 @@
 
 |
 
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/K5W437L.png
-   :alt: 象印超輕量保溫瓶
-   :target: https://www.buy123.com.tw/site/item/42644/%E8%B1%A1%E5%8D%B0%E8%B6%85%E8%BC%95%E9%87%8F%E4%BF%9D%E6%BA%AB%E7%93%B6
-   :align: center
-
-|
-
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/48AYTCL.png
-   :alt: 不鏽鋼可提式保溫燜燒罐
-   :target: https://www.buy123.com.tw/site/item/62251/%E4%B8%8D%E9%8F%BD%E9%8B%BC%E5%8F%AF%E6%8F%90%E5%BC%8F%E4%BF%9D%E6%BA%AB%E7%87%9C%E7%87%92%E7%BD%90
-   :align: center
-
-|
-
 .. image:: https://s3-buy123.cdn.hinet.net/images/item/8C3CPQA.png
    :alt: GO DRY強力防水噴霧劑
    :target: https://www.buy123.com.tw/site/item/59915/GODRY%E5%BC%B7%E5%8A%9B%E9%98%B2%E6%B0%B4%E5%99%B4%E9%9C%A7%E5%8A%91
-   :align: center
-
-
-`行動電源 <{filename}power-bank-useful-items-for-me-notes%zh.rst>`_
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-
-手機充電傳輸線
-++++++++++++++
-
-.. image:: https://img.crazymike.tw/upload/product/101/190/48741_1_1458007603.jpg
-   :alt: 二合一高質感伸縮收納傳輸線(贈專屬收納盒)
-   :target: https://crazymike.tw/product/Mobile/charging-cables/item-48741
-   :align: center
-
-|
-
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/PYPAHG9.png
-   :alt: 鋁合金高速傳輸充電線
-   :target: https://www.buy123.com.tw/site/item/61713/%E9%8B%81%E5%90%88%E9%87%91%E9%AB%98%E9%80%9F%E5%82%B3%E8%BC%B8%E5%85%85%E9%9B%BB%E7%B7%9A
    :align: center
 
 
@@ -235,27 +134,6 @@
 除濕防黴
 ++++++++
 
-.. image:: https://img2.crazymike.tw/upload/activity/30/act56e7df9c726a1.jpg
-   :alt: 梅雨季-乾衣策略
-   :target: https://crazymike.tw/house-activity/act-30
-   :align: center
-
-|
-
-.. image:: https://s3-buy123.cdn.hinet.net/images/item/49844FG.png
-   :alt: 100%天然除味防霉樟木棒
-   :target: https://www.buy123.com.tw/site/item/53517/100%EF%BC%85%E5%A4%A9%E7%84%B6%E9%99%A4%E5%91%B3%E9%98%B2%E9%9C%89%E6%A8%9F%E6%9C%A8%E6%A3%92
-   :align: center
-
-|
-
-.. image:: https://img.crazymike.tw/upload/product/130/182/46722_1_1454644203.jpg
-   :alt: 可掛式強力除濕袋(6入/組)
-   :target: https://crazymike.tw/product/necessities-essentials/insecticide/item-46722
-   :align: center
-
-|
-
 .. image:: https://s3-buy123.cdn.hinet.net/images/item/H7R937A.png
    :alt: 強力集水除溼驅蟲去味袋
    :target: https://www.buy123.com.tw/site/item/56935/%E5%BC%B7%E5%8A%9B%E9%9B%86%E6%B0%B4%E9%99%A4%E6%BA%BC%E9%A9%85%E8%9F%B2%E5%8E%BB%E5%91%B3%E8%A2%8B
@@ -266,13 +144,6 @@
 .. image:: http://twhere.1111.com.tw/include/CouponbkImage.ashx?sp=1&cNo=21196
    :alt: 新一代可掛式強力除濕袋
    :target: http://twhere.1111.com.tw/ShopCouponInfo.aspx?cNo=21196
-   :align: center
-
-|
-
-.. image:: https://img.crazymike.tw/upload/product/135/195/50055_1_1458299247.jpg
-   :alt: 【Whirlpool惠而浦】1級效能10L智慧型除濕機(ADT21B)
-   :target: https://crazymike.tw/product/appliances/home-appliance/item-50055
    :align: center
 
 
