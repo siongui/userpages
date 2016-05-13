@@ -28,6 +28,9 @@
 `行動電源 <{filename}power-bank-useful-items-for-me-notes%zh.rst>`_
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+`行李秤 <{filename}luggage-scales-useful-items-for-me-notes%zh.rst>`_
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 3C
 ++
