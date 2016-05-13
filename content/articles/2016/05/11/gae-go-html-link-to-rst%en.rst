@@ -4,7 +4,7 @@ Google App Engine Go - HTML Link to reStructuredText
 :date: 2016-05-11T22:31+08:00
 :tags: Go, Golang, Golang template, Go net/http, Web Scrape, reStructuredText,
        Copy to Clipboard, Go net/html, Google App Engine
-:category: Go
+:category: Google App Engine
 :summary: Given a webpage URL. Fetch the title of the webpage and output
           `reStructuredText link`_ on `Google App Engine Go`_.
 
@@ -12,7 +12,7 @@ Google App Engine Go - HTML Link to reStructuredText
 Given a webpage URL. Fetch the title of the webpage and output
 `reStructuredText link`_ on `Google App Engine Go`_.
 
-.. rubric:: `Demo <https://golden-operator-130720.appspot.com/>`_
+.. rubric:: `Demo <http://v1.golden-operator-130720.appspot.com/>`_
    :class: align-center
 
 *Makefile*: Edit the variable in Makefile according to your development
