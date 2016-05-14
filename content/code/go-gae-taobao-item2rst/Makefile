@@ -1,7 +1,7 @@
 export PATH := $(PATH):$(realpath ../../../../go_appengine/)
 PROJECT_DIR=$(CURDIR)
 PROJECT_ID=golden-operator-130720
-PROJECT_VERSION=v1
+PROJECT_VERSION=taobao-item2rst
 
 default:
 	@echo "\033[92mRun development web server ...\033[0m"

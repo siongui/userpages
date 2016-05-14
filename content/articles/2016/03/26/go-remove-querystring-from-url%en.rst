@@ -2,7 +2,7 @@
 #####################################
 
 :date: 2016-03-26T02:54+08:00
-:tags: Go, Golang, String Manipulation
+:tags: Go, Golang, String Manipulation, Go net/url
 :category: Go
 :summary: Remove `query string`_ from URL_ in Go_ programming language.
 
