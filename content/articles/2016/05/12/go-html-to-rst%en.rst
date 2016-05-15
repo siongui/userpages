@@ -22,6 +22,7 @@ The following HTML node/element is supported:
 - `HTML link`_ (*a*)
 - `HTML image`_ (*img*)
 - `HTML thematic break`_ (*hr*)
+- `HTML table`_ (*table*, *tbody*, *tr*, *td*)
 - `HTML text node`_
 - `HTML comment node`_
 
@@ -72,6 +73,7 @@ References:
 .. _HTML link: http://www.w3schools.com/html/html_links.asp
 .. _HTML image: http://www.w3schools.com/html/html_images.asp
 .. _HTML thematic break: http://www.w3schools.com/tags/tag_hr.asp
+.. _HTML table: http://www.w3schools.com/html/html_tables.asp
 .. _HTML text node: https://www.google.com/search?q=html+text+node
 .. _HTML comment node: https://www.google.com/search?q=html+comment+node
 .. _reStructuredText: https://www.google.com/search?q=reStructuredText
