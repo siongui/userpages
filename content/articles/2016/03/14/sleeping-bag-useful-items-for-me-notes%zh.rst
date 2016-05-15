@@ -5,13 +5,12 @@
 :tags: 3C
 :category: 3C
 :summary: 有用物品 - 睡袋內套，毛毯
-:og_image: https://lh3.googleusercontent.com/-YEf8r0ISxY4/VNNbsFBXZoI/AAAAAAAAlzQ/ltLd0ILj_do/s640/IMG_20120429_053534.jpg
+:og_image: ``https://gd2.alicdn.com/bao/uploaded/i2/10913036680340294/T14Z1KXwRdXXXXXXXX_!!0-item_pic.jpg``
 
 
-..
- .. image:: 
-   :alt: 
-   :target: 
+.. image:: //gd2.alicdn.com/bao/uploaded/i2/10913036680340294/T14Z1KXwRdXXXXXXXX_!!0-item_pic.jpg
+   :alt: BLUEFIELD(蓝色领域) 睡袋内胆，睡袋套，贴身睡袋 可拆洗
+   :target: https://item.taobao.com/item.htm?id=12375565990
    :align: center
 
 
