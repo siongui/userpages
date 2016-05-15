@@ -8,17 +8,14 @@
 :og_image: ``https://gd4.alicdn.com/bao/uploaded/i4/42973365/TB2ki4xlFXXXXb_XpXXXXXXXXXX_!!42973365.jpg``
 
 
-..
- .. image:: 
-   :alt: 
-   :target: 
-   :align: center
-
-
 .. image:: https://gd4.alicdn.com/bao/uploaded/i4/42973365/TB2ki4xlFXXXXb_XpXXXXXXXXXX_!!42973365.jpg
    :alt: 自动充气枕头 旅行枕 便携枕头户外方便枕头吹气枕头新品
    :target: https://item.taobao.com/item.htm?id=528686833772
    :align: center
+
+- `自动充气枕头 旅行枕 便携枕头户外方便枕头吹气枕头新品 <https://item.taobao.com/item.htm?id=528709816655>`_
+
+- `宰羊户外露营自动充气枕头 野营睡袋枕头 压缩靠枕 充气垫枕头 <https://item.taobao.com/item.htm?id=16021524466>`_
 
 * `充气枕头_淘宝搜索 <https://s.taobao.com/search?q=%E5%85%85%E6%B0%94%E6%9E%95%E5%A4%B4&sort=price-asc>`_
 
