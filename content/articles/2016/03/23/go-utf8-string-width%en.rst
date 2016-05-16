@@ -2,7 +2,7 @@
 ###############################
 
 :date: 2016-03-23T21:46+08:00
-:tags: Go, Golang, String Manipulation, Locale, i18n
+:tags: Go, Golang, String Manipulation, Locale, i18n, Go text/width
 :category: Go
 :summary: Get UTF-8_ string width (width of English letter is 1, width of
           `CJK character`_ is 2) in Go_ programming language.

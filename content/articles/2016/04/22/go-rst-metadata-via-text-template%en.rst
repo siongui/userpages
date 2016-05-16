@@ -2,7 +2,8 @@
 ###################################################################
 
 :date: 2016-04-22T22:11+08:00
-:tags: Go, Golang, String Manipulation, Golang template, reStructuredText
+:tags: Go, Golang, String Manipulation, Golang template, reStructuredText,
+       Go text/width
 :category: Go
 :summary: Create reStructuredText_ metadata via Go_ `text/template`_ and
           `text/width`_ package.
