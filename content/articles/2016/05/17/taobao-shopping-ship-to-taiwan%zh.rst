@@ -1,7 +1,7 @@
 淘寶/天貓購物 運送至台灣
 ########################
 
-:date: 2016-05-17T01:09+08:00
+:date: 2016-05-17T03:57+08:00
 :tags: 淘寶
 :category: 淘寶
 :summary: `淘寶`_/`天貓`_ 購物，運送至台灣攻略
@@ -15,7 +15,7 @@
   * `首页-平安国际集运中心-淘宝网 <https://shop103024137.taobao.com/>`_
   * `[心得] 淘寶上海登航國際集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1460818637.A.D90.html>`_
   * `[心得] 推薦風馳臺灣集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1460986656.A.F9C.html>`_
-  * `[心得] 捷達貨運台灣專線 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1460914592.A.F2A.html>`_
+  * `[心得] 捷達貨運台灣專線 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1460914592.A.F2A.html>`__
   * `[問題] 有人也是使用上海增利物流嗎 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1460940705.A.1AA.html>`_
   * `[心得] 上海鄉民集貨站 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1430155917.A.C24.html>`_
   * `[心得] 推薦集貨-上海鄉民集貨站 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1407587047.A.343.html>`_
@@ -36,6 +36,30 @@
   * `[問題] 淘寶深圳發回台灣卡關了 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462432280.A.6F3.html>`_
   * `[閒聊] 今天去了千里馬集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462455609.A.911.html>`_
   * `[心得] 推薦小鵬集貨貼心追貨包裝仔細 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462467131.A.BD3.html>`_
+  * `[問題] 圓通拒收問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462617339.A.255.html>`_
+  * `[問題] 淘寶商品可以存放較久的集運倉? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462606597.A.9CD.html>`_
+  * `[問題] 淘寶海外集貨不同處？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462649386.A.B3B.html>`_
+  * `[問題] 集貨發超峰包裹編號問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462776903.A.721.html>`_
+  * `[心得] 集貨推薦-上海樂送國際速遞 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462801418.A.3DE.html>`_
+  * `[心得] 捷達貨運台灣專線 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462878846.A.CE1.html>`__
+  * `[心得] 真正今發明至推薦-上海永誠集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462886717.A.4A3.html>`_
+  * `[問題] 淘寶/上海捷利/新竹增利 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462942685.A.EA4.html>`_
+  * `[問題] 請問淘寶集貨有發美國嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462948021.A.C20.html>`_
+  * `[問題] 適合運送大型物品的集貨推薦？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463042882.A.B6A.html>`_
+  * `[問題] 關於淘寶集貨的問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463036163.A.A9E.html>`_
+  * `[心得] 淘寶小羊皮鉚釘包 橄欖綠 煙灰 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462988895.A.ADC.html>`_
+  * `[問題] 淘寶直運"台湾清关已完成"？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1412202560.A.45E.html>`_
+  * `淘寶_集貨寄貨回台灣 @ ♡ 動物小町 ♡ 購物記事 :: 隨意窩 Xuite日誌 <http://blog.xuite.net/buynet_eleven/buy/40606663-%E6%B7%98%E5%AF%B6_%E9%9B%86%E8%B2%A8%E5%AF%84%E8%B2%A8%E5%9B%9E%E5%8F%B0%E7%81%A3>`_
+  * `Re: [問題] 淘寶集貨/上海捷利/新竹增利 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463224301.A.716.html>`_
+  * `[問題] 請推薦高cp集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463282894.A.340.html>`__
+  * `[問題] 上海樂送今發大後至？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463287523.A.7CD.html>`_
+  * `[問題] 淘寶/天貓 寄送問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463297404.A.6D9.html>`_
+  * `淘寶雙十一的驚魂（爛到不行的圓通集運） @ 兩隻調皮黑貴賓的小世界 :: 痞客邦 PIXNET :: <http://warmingpoodle622.pixnet.net/blog/post/398278003-%E6%B7%98%E5%AF%B6%E9%9B%99%E5%8D%81%E4%B8%80%E7%9A%84%E9%A9%9A%E9%AD%82%EF%BC%88%E7%88%9B%E5%88%B0%E4%B8%8D%E8%A1%8C%E7%9A%84%E5%9C%93%E9%80%9A%E9%9B%86%E9%81%8B%EF%BC%89>`_
+  * `alice: 淘寶集運_直送_ 運費教學及問題大匯總-淘寶台灣 <http://alice-yhshih.blogspot.com/2015/11/blog-post.html>`_
+  * `閒聊與趣味 - 淘寶物流選擇 - 生活討論區 - Mobile01 <http://www.mobile01.com/topicdetail.php?f=37&t=4572763>`_
+  * `[心得] 集貨推薦-上海捷通 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463395671.A.430.html>`_
+  * `[問題] 淘寶集貨身分證不是收件人的可以嗎? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463426471.A.2F8.html>`_
+
 
 - 特貨
 
@@ -56,7 +80,6 @@
 - `淘寶 重物 - Google search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E9%87%8D%E7%89%A9>`_
 
   * `閒聊與趣味 - 淘寶的大型商品問題 - 生活討論區 - Mobile01 <http://www.mobile01.com/topicdetail.php?f=37&t=2589336>`_
-  * `淘寶_集貨寄貨回台灣 @ ♡ 動物小町 ♡ 購物記事 :: 隨意窩 Xuite日誌 <http://blog.xuite.net/buynet_eleven/buy/40606663-%E6%B7%98%E5%AF%B6_%E9%9B%86%E8%B2%A8%E5%AF%84%E8%B2%A8%E5%9B%9E%E5%8F%B0%E7%81%A3>`_
   * `淘寶買東西重量跟關稅的問題 | Yahoo奇摩知識+ <https://tw.answers.yahoo.com/question/index?qid=20140125000010KK01173>`_
   * `手把手 買淘寶-寄海運!! @ ♡ 動物小町 ♡ 購物記事 :: 痞客邦 PIXNET :: <http://vonocoffe.pixnet.net/blog/post/62902751-%E6%89%8B%E6%8A%8A%E6%89%8B-%E8%B2%B7%E6%B7%98%E5%AF%B6-%E5%AF%84%E6%B5%B7%E9%81%8B!!>`_
   * `[問題] 淘寶買重物可是價值不到三千是否要包稅 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1395308039.A.D7F.html>`_
@@ -66,6 +89,7 @@
   * `八達國際海運公司-大陸運貨到台灣,海運併櫃,貨物承攬運送,全包回台,兩岸貨運費用,海空運,正式報關,貨運公司,瀋陽,青島,上海,北京,杭州,南京,開封,西安,蘭州,重慶,武漢,南昌,福州,昆明,廣州,香港,海口,深圳,大連,台北,新竹,台中,高雄 <http://www.gwls888.com/forwarder/freight.html>`_
   * `淘寶官方集運 - 增利 (嘗試) - 104/10/7更新 @ MyLifeForEver <http://kivxlee.blogspot.com/2015/09/taobao-cargo-transport-sjlexpress.html>`_
   * `【心得】淘寶購物 - 黑貓直運(=圓通速運) [04.29-更新運費算法] @ Wang.Henry (W.H) 娛樂數位(hanshuenwang@gmail.com,3C問題請留言) :: 痞客邦 PIXNET :: <http://sportsw.pixnet.net/blog/post/42290044-%E3%80%90%E5%BF%83%E5%BE%97%E3%80%91%E6%B7%98%E5%AF%B6%E8%B3%BC%E7%89%A9---%E9%BB%91%E8%B2%93%E7%9B%B4%E9%81%8B(%3D%E5%9C%93%E9%80%9A%E9%80%9F%E9%81%8B)-%5B04.2>`_
+  * `[問題] 請推薦高cp集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463282894.A.340.html>`__
 
 
 - `淘寶 經濟航班 - Google search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E7%B6%93%E6%BF%9F%E8%88%AA%E7%8F%AD>`_
@@ -77,6 +101,9 @@
   * `閒聊與趣味 - 非淘寶網官方集貨商應否買保險和關稅呢? - 生活討論區 - Mobile01 <http://www.mobile01.com/topicdetail.php?f=37&t=3992551>`_
   * `[淘寶系列]進入淘寶前要有的概念Ⅱ之一-運送篇外一章 @ 妖貓 :: 痞客邦 PIXNET :: <http://savageboss.pixnet.net/blog/post/33043120-%5B%E6%B7%98%E5%AF%B6%E7%B3%BB%E5%88%97%5D%E9%80%B2%E5%85%A5%E6%B7%98%E5%AF%B6%E5%89%8D%E8%A6%81%E6%9C%89%E7%9A%84%E6%A6%82%E5%BF%B5%E2%85%A1%E4%B9%8B%E4%B8%80-%E9%81%8B%E9%80%81>`_
   * `ezShip - 台灣便利配 <http://www.ezship.com.tw/setting/buyer_shipstatus_button.jsp?su_id=amazing-miracle@hotmail.com&style_kindsof_no=601&menulist_enable=Y>`_
+
+
+- `淘寶 物流 爆笑 - Google search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E7%89%A9%E6%B5%81+%E7%88%86%E7%AC%91>`_
 
 
 .. _淘寶: https://www.taobao.com/
