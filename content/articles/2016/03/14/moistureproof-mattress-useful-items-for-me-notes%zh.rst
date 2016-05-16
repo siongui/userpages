@@ -33,5 +33,6 @@
 - `帐篷地席户外野餐垫牛津布地席地布便携防水防潮垫沙滩垫加大加轻 <https://item.taobao.com/item.htm?id=520626951866>`_
 - `地席防潮垫 户外防潮布防水加厚牛津布天幕地席户外帐篷地垫地布 <https://item.taobao.com/item.htm?id=40371955221>`_
 - `防潮地席_Taobao search <https://s.taobao.com/search?q=%E9%98%B2%E6%BD%AE%E5%9C%B0%E5%B8%AD>`_
+- `防水地席_淘宝搜索 <https://s.taobao.com/search?q=%E9%98%B2%E6%B0%B4%E5%9C%B0%E5%B8%AD&sort=price-asc>`_
 
 - `【RHINO 犀牛】二人防潮地布(野炊蓋布) <http://24h.pchome.com.tw/prod/DEAR0O-A90053SXZ>`_

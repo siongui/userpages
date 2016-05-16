@@ -42,6 +42,8 @@
 
 ----
 
+- `防水背包套_淘宝搜索 <https://s.taobao.com/search?q=%E9%98%B2%E6%B0%B4%E8%83%8C%E5%8C%85%E5%A5%97&sort=price-asc>`_
+
 * `RHINO 犀牛 <http://24h.pchome.com.tw/store/DEBQ92>`_
 
   - `RHINO-902M犀牛背包防雨套中型02109022C300A-橘 <http://24h.pchome.com.tw/prod/DEAR0O-A9005MY7M>`_
