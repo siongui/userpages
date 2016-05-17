@@ -30,6 +30,8 @@
   * `[問題] 淘寶合併訂單問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463309845.A.C65.html>`_
   * `[問題] 玉山網路銀行問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463366562.A.E3C.html>`_
   * `[問題] 手機版淘寶app付款？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463394856.A.CFD.html>`_
+  * `[問題] 淘寶虛擬帳戶入帳失敗 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463466442.A.921.html>`_
+  * `[問題] 淘寶刷卡不過，且出現這個訊息 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463469195.A.4BB.html>`_
 
 - 課稅
 
@@ -50,11 +52,11 @@
 
 其他：
 
-`[閒聊] 使用手機逛淘寶疑似被開後門軟體 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461991034.A.7E2.html>`_
-`Re: [閒聊] 使用手機逛淘寶疑似被開後門軟體 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462022069.A.C6E.html>`_
-`[問題] 手機淘寶和電腦版旺旺消息同步 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462453150.A.0B4.html>`_
-`全國各地淘寶村統計分析 - Google search <https://www.google.com/search?q=%E5%85%A8%E5%9C%8B%E5%90%84%E5%9C%B0%E6%B7%98%E5%AF%B6%E6%9D%91%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90>`_
-`[抱怨] 淘寶購物非常不愉快的經驗 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463404135.A.BAC.html>`_
+- `[閒聊] 使用手機逛淘寶疑似被開後門軟體 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461991034.A.7E2.html>`_
+- `Re: [閒聊] 使用手機逛淘寶疑似被開後門軟體 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462022069.A.C6E.html>`_
+- `[問題] 手機淘寶和電腦版旺旺消息同步 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462453150.A.0B4.html>`_
+- `全國各地淘寶村統計分析 - Google search <https://www.google.com/search?q=%E5%85%A8%E5%9C%8B%E5%90%84%E5%9C%B0%E6%B7%98%E5%AF%B6%E6%9D%91%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90>`_
+- `[抱怨] 淘寶購物非常不愉快的經驗 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463404135.A.BAC.html>`_
 
 
 .. _淘寶: https://www.taobao.com/
