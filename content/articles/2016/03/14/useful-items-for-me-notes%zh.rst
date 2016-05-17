@@ -40,6 +40,13 @@
 
 * `工作手套 <https://www.google.com/search?q=%E5%B7%A5%E4%BD%9C%E6%89%8B%E5%A5%97>`_
 
+  `作业手套_淘宝搜索 <https://s.taobao.com/search?q=%E4%BD%9C%E4%B8%9A%E6%89%8B%E5%A5%97>`_
+
+.. image:: https://gd4.alicdn.com/bao/uploaded/i4/844873046/TB2CefzoVXXXXafXpXXXXXXXXXX_!!844873046.jpg_600x600.jpg
+   :alt: 司机作业棉纱线手套加厚耐磨劳保批发机械汽修车工防滑批发包邮
+   :target: https://item.taobao.com/item.htm?id=531814136587
+   :align: center
+
 ----
 
 - `防水背包套_淘宝搜索 <https://s.taobao.com/search?q=%E9%98%B2%E6%B0%B4%E8%83%8C%E5%8C%85%E5%A5%97&sort=price-asc>`_

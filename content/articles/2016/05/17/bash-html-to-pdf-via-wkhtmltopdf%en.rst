@@ -2,7 +2,7 @@
 ##################################
 
 :date: 2016-05-17T23:12+08:00
-:tags: Bash, Commandline, find command, List Files in Directory
+:tags: Bash, Commandline, find command, List Files in Directory, wkhtmltopdf
 :category: Bash
 :summary: Convert HTML files in directory to PDF recursively via wkhtmltopdf_
           and Bash_ script.
@@ -24,7 +24,7 @@ script. Please `install wkhtmltopdf`_ first.
   done
 
 If you get error message ``wkhtmltopdf: cannot connect to X server``, see
-`this answer`_ [3]_ for solution.
+`this question on Stack Overflow`_ [3]_ for solution.
 
 ----
 
@@ -47,5 +47,5 @@ References:
 
 .. _Bash: https://www.google.com/search?q=Bash
 .. _wkhtmltopdf: http://wkhtmltopdf.org/
-.. _this answer: http://stackoverflow.com/a/13604819
+.. _this question on Stack Overflow: http://stackoverflow.com/questions/9604625/wkhtmltopdf-cannot-connect-to-x-server
 .. _install wkhtmltopdf: https://www.google.com/search?q=install+wkhtmltopdf

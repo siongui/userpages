@@ -60,6 +60,7 @@
   * `[心得] 集貨推薦-上海捷通 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463395671.A.430.html>`_
   * `[問題] 淘寶集貨身分證不是收件人的可以嗎? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463426471.A.2F8.html>`_
   * `[問題] 淘寶物流問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463477162.A.DF1.html>`_
+  * `淘寶網不能集運回台灣 - Puppy & Jill 的部落格 - udn部落格 <http://blog.udn.com/hcan8999/56137472>`_
 
 
 - 特貨

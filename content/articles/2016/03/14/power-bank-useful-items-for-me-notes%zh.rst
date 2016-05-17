@@ -27,6 +27,9 @@
 
   `[心得] 小米10000/20000行動電源小開箱 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1462806212.A.C05.html>`_
 
+  `[閒聊] 聊聊大家都用哪個行動電源 - WomenTalk板 - Disp BBS <http://disp.cc/b/780-9pl7>`_
+  (`[閒聊] 聊聊大家都用哪個行動電源 - 看板 WomenTalk - 批踢踢實業坊 <https://www.ptt.cc/bbs/WomenTalk/M.1463437883.A.E4A.html>`_)
+
 - `【有片】帶行動電源上飛機　這些你必須知道 | 即時新聞 | 20160507 | 蘋果日報 <http://www.appledaily.com.tw/realtimenews/article/new/20160507/855486/>`_
 
   `行動電源自燃　標檢局：勿與鑰匙等金屬物同放 | 即時新聞 | 20160507 | 蘋果日報 <http://www.appledaily.com.tw/realtimenews/article/new/20160507/855487/>`_
