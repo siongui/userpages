@@ -8,6 +8,8 @@
 :og_image: https://lh3.googleusercontent.com/-YEf8r0ISxY4/VNNbsFBXZoI/AAAAAAAAlzQ/ltLd0ILj_do/s640/IMG_20120429_053534.jpg
 
 
+`真空压缩袋_淘宝搜索 <https://s.taobao.com/search?q=%E7%9C%9F%E7%A9%BA%E5%8E%8B%E7%BC%A9%E8%A2%8B>`_
+
 ..
  .. image:: 
    :alt: 
@@ -36,4 +38,3 @@
    :alt: 加厚型萬用真空壓縮袋
    :target: https://www.buy123.com.tw/site/item/62247/%E5%8A%A0%E5%8E%9A%E5%9E%8B%E8%90%AC%E7%94%A8%E7%9C%9F%E7%A9%BA%E5%A3%93%E7%B8%AE%E8%A2%8B
    :align: center
-

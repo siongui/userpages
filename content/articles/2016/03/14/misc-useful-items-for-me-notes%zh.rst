@@ -165,6 +165,8 @@
    :target: https://www.food123.com.tw/site/item/56058/%E6%97%A5%E6%9C%AC%E7%86%B1%E9%8A%B7%E6%BF%BE%E6%8E%9B%E5%BC%8F%E5%92%96%E5%95%A1
    :align: center
 
+- `usb灯_淘宝搜索 <https://s.taobao.com/search?q=usb%E7%81%AF>`_
+
 ----
 
 .. image:: http://img.ruten.com.tw/s1/c/62/83/21511601987203_751.jpg
@@ -178,6 +180,8 @@
    :alt: *~＊台灣農業園藝*~*竹子.園藝支柱用竹.竹材竹竿
    :target: http://goods.ruten.com.tw/item/show?11090503833474
    :align: center
+
+- `竹竿批发_淘宝搜索 <https://s.taobao.com/search?q=%E7%AB%B9%E7%AB%BF%E6%89%B9%E5%8F%91>`_
 
 ----
 

@@ -46,6 +46,7 @@
   * `玉山銀行個人網路銀行 <https://ebank.esunbank.com.tw/>`_
   * `要如何更改退款帳號？ - WebATM/ATM買淘寶與天貓-常見問答集 <https://netbank.esunbank.com.tw/webatm/Q&A_alipay.htm#44>`_
   * `電子支付(第三方支付) - 銷售收款 - 電子商務 - 數位金融 - 玉山銀行 <https://www.esunbank.com.tw/bank/digital/ecommerce/epayment/thrid-party-payment>`_
+  * `【玉山銀行】第三方支付服務 <http://www.esunbank.com.tw/event/esunpay/Acct-link/QA.html?cp=Acct-link&seg=&ch=Internal&ven=tppay&ctype=B&pt=b&obj=Acct-link>`_
   * `臥龍小三 on Twitter: "有人說郵局 ATM 已支援 Linux 平台，不過，我都沒試成功。有成功的朋友，可以告知一下喔。至於玉山銀行，我剛剛在 OB2D  Linux 上倒是一試就 OK，但須用 Firefox + ATM xpi + pcscd。" <https://twitter.com/ols3/status/635025153945001984>`_
 
 ----

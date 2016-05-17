@@ -15,9 +15,7 @@ Sony Xperia Z C6602 L36h
 * `SONY Xperia Z(SONY,手機空機,手機、配件與通訊) - Yahoo!奇摩拍賣 <https://tw.bid.yahoo.com/tw/2092111620-category-leaf.html>`_
 
   - `免運費+送行動電源+皮套+鋼化膜（代貼好） SONY Xperia Z C6602 L36h 5寸四核 /1300萬畫素 <https://tw.bid.yahoo.com/item/%E5%85%8D%E9%81%8B%E8%B2%BB-%E9%80%81%E8%A1%8C%E5%8B%95%E9%9B%BB%E6%BA%90-%E7%9A%AE%E5%A5%97-%E9%8B%BC%E5%8C%96%E8%86%9C-%E4%BB%A3%E8%B2%BC%E5%A5%BD-SONY-Xperia-100084956865>`_
-
   - `免運 送行動電源+送皮套+送鋼化膜(代貼好)SONY Xperia Z C6602 L36h 5寸四核 /1300萬畫素 <https://tw.bid.yahoo.com/item/%E5%85%8D%E9%81%8B-%E9%80%81%E8%A1%8C%E5%8B%95%E9%9B%BB%E6%BA%90-%E9%80%81%E7%9A%AE%E5%A5%97-%E9%80%81%E9%8B%BC%E5%8C%96%E8%86%9C-%E4%BB%A3%E8%B2%BC%E5%A5%BD-SONY-Xperia-100033670041>`_
-
   - `免運+送行動電源+送皮套+送鋼化膜(幫貼好)SONY Xperia Z C6602 L36h 5寸四核 /1300萬畫素 <https://tw.bid.yahoo.com/item/%E5%85%8D%E9%81%8B-%E9%80%81%E8%A1%8C%E5%8B%95%E9%9B%BB%E6%BA%90-%E9%80%81%E7%9A%AE%E5%A5%97-%E9%80%81%E9%8B%BC%E5%8C%96%E8%86%9C-%E5%B9%AB%E8%B2%BC%E5%A5%BD-SONY-Xperia-100106128816>`_
 
 * `Sony Xperia Z C6602 Android 系統防水智慧型手機 的價格 - 飛比價格 <http://feebee.com.tw/product/Sony%20Xperia%20Z%20C6602%20Android%20%E7%B3%BB%E7%B5%B1%E9%98%B2%E6%B0%B4%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F/?q=xperia%20z>`_
@@ -30,14 +28,11 @@ Sony Xperia Z C6602 L36h
 
 * `Sony EP880_淘宝搜索 <https://s.taobao.com/search?q=Sony+EP880>`_
 
-  `l36h充电头_淘宝搜索 <https://s.taobao.com/search?q=l36h充电头>`_
+  `l36h充电头_淘宝搜索 <https://s.taobao.com/search?q=l36h%E5%85%85%E7%94%B5%E5%A4%B4>`_
 
   - `Sony索尼 手机充电器行货EP880 Z1Z2Z3 M35T XL39H LT26I CCC-淘宝网 <https://item.taobao.com/item.htm?id=525163791496>`_
-
   - `索尼L36H L39H L50T L55T Z1 Z2 Z3 Z4手机直充 充电器 充电头-淘宝网全球站 <https://item.taobao.com/item.htm?id=523339420998>`_
-
   - `包邮索尼Xperia Z1 Z2 Z3 Z4 Z5 C3 C5 L36H手机数据线充电头-淘宝网全球站 <https://item.taobao.com/item.htm?id=527346853820>`_
-
   - `索尼EP880原装充电器Z1 L39 Z2 L50 Z3 L55 Z1迷你原装充电器插头-淘宝网 <https://item.taobao.com/item.htm?id=527900399546>`_
 
 * `正品原装座充SONY Xperia Z底座DK26无线充电器L36H手机充电座-淘宝网全球站 <https://item.taobao.com/item.htm?id=41830651794>`_
@@ -48,12 +43,11 @@ Sony Xperia Z C6602 L36h
 
 參考：
 
+* `充电头_淘宝搜索 <https://s.taobao.com/search?q=%E5%85%85%E7%94%B5%E5%A4%B4>`_
 * `[問題] 5000~7000低階手機選擇 - CPLife板 - Disp BBS <http://disp.cc/b/733-9h2O>`_
-
 * `[討論] 想問問各位都是用內建多少G的手機? - CPLife板 - Disp BBS <http://disp.cc/b/733-9h2M>`_
-
 * `ASUS ZenFone 2 Laser (ZE500KL) 價格、評價、規格 | ePrice 比價王 <http://www.eprice.com.tw/mobile/intro/c01-p5317-asus-zenfone-2-laser-ze500kl-2g_16g/>`_
-
 * `ASUS ZenFone 2 Laser (ZE550KL) 價格、評價、規格 | ePrice 比價王 <http://www.eprice.com.tw/mobile/intro/c01-p5318-asus-zenfone-2-laser-ze550kl-2g_16g/>`_
-
 * `看板 MobileComm 文章列表 - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/index.html>`_
+* `[問題] 7K以內大螢幕長輩機 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463333594.A.8BB.html>`_
+* `[閒聊] 各種價位的手機/平板列表(2016/05/01更新) - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1462115731.A.307.html>`_

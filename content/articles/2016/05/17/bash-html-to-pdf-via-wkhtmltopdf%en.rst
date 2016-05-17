@@ -1,7 +1,7 @@
 [Bash] HTML to PDF via wkhtmltopdf
 ##################################
 
-:date: 2016-05-09T21:57+08:00
+:date: 2016-05-17T23:12+08:00
 :tags: Bash, Commandline, find command, List Files in Directory
 :category: Bash
 :summary: Convert HTML files in directory to PDF recursively via wkhtmltopdf_
