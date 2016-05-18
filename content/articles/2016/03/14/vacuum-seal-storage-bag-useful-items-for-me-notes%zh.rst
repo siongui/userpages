@@ -8,7 +8,12 @@
 :og_image: https://lh3.googleusercontent.com/-YEf8r0ISxY4/VNNbsFBXZoI/AAAAAAAAlzQ/ltLd0ILj_do/s640/IMG_20120429_053534.jpg
 
 
-`真空压缩袋_淘宝搜索 <https://s.taobao.com/search?q=%E7%9C%9F%E7%A9%BA%E5%8E%8B%E7%BC%A9%E8%A2%8B>`_
+- `真空压缩袋_淘宝搜索 <https://s.taobao.com/search?q=%E7%9C%9F%E7%A9%BA%E5%8E%8B%E7%BC%A9%E8%A2%8B>`_
+
+  * `收纳博士加厚真空压缩袋4特大4中包邮送泵 被子衣物整理袋收纳袋-淘宝网全球站 <https://item.taobao.com/item.htm?id=44488874146>`_
+  * `百易特加厚真空压缩袋14件套送电泵包邮棉被真空袋收纳袋特大 <https://item.taobao.com/item.htm?id=40399440414>`_
+  * `百易特13丝网纹真空压缩袋送电泵包邮 加厚特大号棉被打包收纳袋-淘宝网全球站 <https://item.taobao.com/item.htm?id=38338495574>`_
+  * `百易特真空压缩袋加厚特大号13丝棉被子衣物抽气收纳袋满68送电泵-淘宝网全球站 <https://item.taobao.com/item.htm?id=38356085472>`_
 
 ..
  .. image:: 

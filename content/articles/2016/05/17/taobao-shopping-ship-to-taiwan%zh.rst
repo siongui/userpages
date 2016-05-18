@@ -74,6 +74,8 @@
   * `深圳至台湾专线快递，电池，带电池类玩具-淘宝网全球站 <https://item.taobao.com/item.htm?id=42421632452>`_
 
 
+- `淘寶 台灣直送 - Google search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E5%8F%B0%E7%81%A3%E7%9B%B4%E9%80%81>`_
+
 - `淘寶 泰國 集運 - Google Search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E6%B3%B0%E5%9C%8B+%E9%9B%86%E9%81%8B>`_
 
   * `泰国专线 集运 泰国快递 广州至泰国专线快递 國際快遞專線-淘宝网全球站 <https://world.taobao.com/item/14537579690.htm>`_

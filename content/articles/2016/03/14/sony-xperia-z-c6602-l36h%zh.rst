@@ -12,6 +12,9 @@ Sony Xperia Z C6602 L36h
 
 * `l36h_淘宝搜索 <https://s.taobao.com/search?q=l36h>`_
 
+  - `现货促销Sony/索尼 L36H C6603 Xperia Z 港版 5.0大屏幕智能手机-淘宝网全球站 <https://item.taobao.com/item.htm?id=26817336555>`_
+  - `Sony/索尼 L36H lt36i h C6603 Xperia Z 索尼4G四核智能索尼手机-淘宝网全球站 <https://item.taobao.com/item.htm?id=520703087784>`_
+
 * `SONY Xperia Z(SONY,手機空機,手機、配件與通訊) - Yahoo!奇摩拍賣 <https://tw.bid.yahoo.com/tw/2092111620-category-leaf.html>`_
 
   - `免運費+送行動電源+皮套+鋼化膜（代貼好） SONY Xperia Z C6602 L36h 5寸四核 /1300萬畫素 <https://tw.bid.yahoo.com/item/%E5%85%8D%E9%81%8B%E8%B2%BB-%E9%80%81%E8%A1%8C%E5%8B%95%E9%9B%BB%E6%BA%90-%E7%9A%AE%E5%A5%97-%E9%8B%BC%E5%8C%96%E8%86%9C-%E4%BB%A3%E8%B2%BC%E5%A5%BD-SONY-Xperia-100084956865>`_
@@ -51,3 +54,8 @@ Sony Xperia Z C6602 L36h
 * `看板 MobileComm 文章列表 - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/index.html>`_
 * `[問題] 7K以內大螢幕長輩機 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463333594.A.8BB.html>`_
 * `[閒聊] 各種價位的手機/平板列表(2016/05/01更新) - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1462115731.A.307.html>`_
+* `[心得] Xperia Z3 Compact 螢幕自己換 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463423028.A.20B.html>`_
+* `[問題] G3充電變超慢 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463442723.A.F0B.html>`_
+* `[討論] 手機空機的價格 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463410220.A.05C.html>`_
+* `[問題] 6000以下手機推薦 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463458165.A.F75.html>`_
+* `[討論] 6500左右能跟紅米note 3媲美的手機? - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463495853.A.3DB.html>`_
