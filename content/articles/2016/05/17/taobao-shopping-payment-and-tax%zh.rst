@@ -32,6 +32,9 @@
   * `[問題] 手機版淘寶app付款？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463394856.A.CFD.html>`_
   * `[問題] 淘寶虛擬帳戶入帳失敗 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463466442.A.921.html>`_
   * `[問題] 淘寶刷卡不過，且出現這個訊息 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463469195.A.4BB.html>`_
+  * `Re: [問題] 支付寶無法付款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463554418.A.48B.html>`__
+  * `[問題] 支付寶餘額付款可以5/20之後確認收貨嗎? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463542149.A.027.html>`_
+  * `Re: [問題] 支付寶無法付款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463539221.A.16E.html>`__
 
 - 課稅
 
@@ -58,6 +61,8 @@
 - `[問題] 手機淘寶和電腦版旺旺消息同步 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462453150.A.0B4.html>`_
 - `全國各地淘寶村統計分析 - Google search <https://www.google.com/search?q=%E5%85%A8%E5%9C%8B%E5%90%84%E5%9C%B0%E6%B7%98%E5%AF%B6%E6%9D%91%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90>`_
 - `[抱怨] 淘寶購物非常不愉快的經驗 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463404135.A.BAC.html>`_
+- `[問題] 德國亞馬遜購物問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463558372.A.1ED.html>`_
+- `[心得] 日本Amazon退貨心得 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463569697.A.475.html>`_
 
 
 .. _淘寶: https://www.taobao.com/

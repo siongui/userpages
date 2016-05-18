@@ -8,14 +8,6 @@
 :og_image: https://lh3.googleusercontent.com/-YEf8r0ISxY4/VNNbsFBXZoI/AAAAAAAAlzQ/ltLd0ILj_do/s640/IMG_20120429_053534.jpg
 
 
-..
- .. image:: 
-   :alt: 
-   :target: 
-   :align: center
-
-.. contents:: 目錄
-
 `真空壓縮袋 <{filename}vacuum-seal-storage-bag-useful-items-for-me-notes%zh.rst>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -31,6 +23,8 @@
 `行李秤 <{filename}luggage-scales-useful-items-for-me-notes%zh.rst>`_
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+`抽屜式鞋子收納盒 <{filename}drawer-storage-box-useful-items-for-me-notes%zh.rst>`_
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 3C
 ++

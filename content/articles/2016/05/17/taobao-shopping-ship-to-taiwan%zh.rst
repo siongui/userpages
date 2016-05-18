@@ -114,6 +114,7 @@
 - `淘寶 物流 爆笑 - Google search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E7%89%A9%E6%B5%81+%E7%88%86%E7%AC%91>`_
 - `[心得] 很冷門的全家也能寄順豐到大陸(非店到店 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1450631352.A.300.html>`_
 - `[問題] 日本樂天買廚用刀能寄回台灣嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463421431.A.CCD.html>`_
+- `[心得] 日本Amazon退貨心得 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463569697.A.475.html>`_
 
 
 .. _淘寶: https://www.taobao.com/
