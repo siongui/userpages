@@ -21,6 +21,18 @@
 
 ----
 
+應急用，不推薦日常使用：
+
+- `5五号电池移动电源7通用创意多功能充电宝新款diy盒便携powerbank-淘宝网全球站 <https://item.taobao.com/item.htm?id=530586222894>`_
+- `5五号电池充电器镍氢7#aa通用usb小充电宝干电池应急移动电源-淘宝网全球站 <https://item.taobao.com/item.htm?id=530800580031>`_
+- `包邮手机应急充电器4AA电池应急电源干电池充电宝5号电池移动电源-淘宝网全球站 <https://item.taobao.com/item.htm?id=44451179276>`_
+- `5五号电池移动电源/露营灯 充电宝AA电池仓充电器 户外电源野营灯-淘宝网全球站 <https://item.taobao.com/item.htm?id=528997986512>`_
+- `4节5号AA干电池移动电源盒USB MP3手机应急充电器充电宝LED手电筒-淘宝网全球站 <https://item.taobao.com/item.htm?id=38445451796>`_
+- `USB可逆应急充4节5号干电池移动电源iphone手机应急充电器充电宝-淘宝网全球站 <https://item.taobao.com/item.htm?id=27325496351>`__
+- `USB可逆应急充4节5号干电池移动电源iphone手机应急充电器充电宝-淘宝网全球站 <https://item.taobao.com/item.htm?id=528242814579>`__
+
+----
+
 - `行動電源 - Google search <https://www.google.com/search?q=%E8%A1%8C%E5%8B%95%E9%9B%BB%E6%BA%90+site%3Aptt.cc>`_
 
   `[問題] 行動電源的選擇 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1455411697.A.C6E.html>`_

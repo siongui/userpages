@@ -36,3 +36,16 @@ AA/AAA電池充電器
 * `手摇充电器_淘宝搜索 <https://s.taobao.com/search?q=%E6%89%8B%E6%91%87%E5%85%85%E7%94%B5%E5%99%A8>`_
 
 * `手摇发电机_淘宝搜索 <https://s.taobao.com/search?q=%E6%89%8B%E6%91%87%E5%8F%91%E7%94%B5%E6%9C%BA>`_
+
+- `品胜数码宝标准充充电器5号AA7号AAA 镍氢电池充电器-淘宝网全球站 <https://item.taobao.com/item.htm?id=14873009821>`_
+- `VSAI可充5号7号充电电池充电器AA AAA电池2节充电器鼠标玩具充电-淘宝网全球站 <https://item.taobao.com/item.htm?id=38667225191>`_
+- `亏本清仓 品胜数码宝充电器5号7号电池充电器通用型AA/AAA充电器-淘宝网全球站 <https://item.taobao.com/item.htm?id=529509179121>`_
+- `MP骐源809充电器 5号7号通用型2粒标准充充电器 镍氢镍镉都可充-淘宝网全球站 <https://item.taobao.com/item.htm?id=43310085699>`_
+- `骐源MP-809B充电器 5号/7号充电电池镍氢充电器 迷你充 特价清仓-淘宝网全球站 <https://item.taobao.com/item.htm?id=521010831358>`_
+- `处理：哈里通AA AAA 5号7号通用 4槽镍氢充电器(无保修)-淘宝网全球站 <https://item.taobao.com/item.htm?id=19428627091>`_
+- `原装索尼 Sony BC-CS1 AA 5号 AAA 7号镍氢 电池 充电器-淘宝网全球站 <https://item.taobao.com/item.htm?id=12266339847>`_
+- `东日 5号 7号 AA AAA 充电电池 高效 充电器(劲牛厂设计加工生产)-淘宝网全球站 <https://item.taobao.com/item.htm?id=61355144>`_
+- `2槽5号7号AA/AAA充电器折叠迷你出口装-淘宝网全球站 <https://item.taobao.com/item.htm?id=36366482650>`_
+- `AA5号NI-CD电池充电器 四槽充电座 AA5号/AAA7号充电电池充电-淘宝网全球站 <https://item.taobao.com/item.htm?id=44614229427>`_
+- `两槽电池充电器镍氢 5号AA7号AAA两用充电电池两位两槽快充充电器-淘宝网全球站 <https://item.taobao.com/item.htm?id=530165715564>`_
+- `原装千代 充电电池充电器 4槽充电器可充AA5号/AAA7号 电池充电器-淘宝网全球站 <https://item.taobao.com/item.htm?id=528539712677>`_
