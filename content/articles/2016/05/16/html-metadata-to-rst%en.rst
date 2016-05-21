@@ -41,6 +41,8 @@ References:
 
 .. [4] `[Golang] Extract Title, Image, and URL via goquery <{filename}../../03/31/go-parse-buy123-webpage-to-rst%en.rst>`_
 
+.. [5] `Extract title and metadata from a reStructuredText document // homework prod. <http://homework.nwsnet.de/releases/af95/>`_
+
 
 .. _reStructuredText: https://www.google.com/search?q=reStructuredText
 .. _HTML: https://www.google.com/search?q=HTML
