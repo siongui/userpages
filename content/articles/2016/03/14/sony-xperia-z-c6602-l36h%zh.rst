@@ -46,6 +46,7 @@ Sony Xperia Z C6602 L36h
 
 參考：
 
+* `看板 MobileComm 文章列表 - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/index.html>`_
 * `充电头_淘宝搜索 <https://s.taobao.com/search?q=%E5%85%85%E7%94%B5%E5%A4%B4>`_
 * `[問題] 5000~7000低階手機選擇 - CPLife板 - Disp BBS <http://disp.cc/b/733-9h2O>`_
 * `[討論] 想問問各位都是用內建多少G的手機? - CPLife板 - Disp BBS <http://disp.cc/b/733-9h2M>`_
@@ -59,3 +60,15 @@ Sony Xperia Z C6602 L36h
 * `[討論] 手機空機的價格 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463410220.A.05C.html>`_
 * `[問題] 6000以下手機推薦 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463458165.A.F75.html>`_
 * `[討論] 6500左右能跟紅米note 3媲美的手機? - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463495853.A.3DB.html>`_
+* `[問題] 幾款手機選擇 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463621362.A.54A.html>`_
+* `[問題] 想買紅米Note3 但官網價格跟拍賣?! - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463634148.A.D91.html>`_
+
+* 手機充電安全
+
+  - `[情報] HTC 10充電器不能亂用！ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463610186.A.F1B.html>`_
+  - `[討論] Re: [情報] HTC 10充電器不能亂用！ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463636879.A.9B9.html>`_
+
+* 無線充電
+
+  - `[閒聊] 無線充電實用性高嗎? - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463629762.A.172.html>`_
+  - `Re: [閒聊] 無線充電實用性高嗎? - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463630990.A.00B.html>`_

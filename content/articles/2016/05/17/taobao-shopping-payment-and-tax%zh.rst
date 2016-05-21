@@ -63,6 +63,7 @@
 - `[抱怨] 淘寶購物非常不愉快的經驗 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463404135.A.BAC.html>`_
 - `[問題] 德國亞馬遜購物問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463558372.A.1ED.html>`_
 - `[心得] 日本Amazon退貨心得 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463569697.A.475.html>`_
+- `[教學]如何申請PayPal帳戶？(收款、線上刷卡必備)  –  香腸炒魷魚 <https://sofree.cc/paypal/>`_
 
 
 .. _淘寶: https://www.taobao.com/
