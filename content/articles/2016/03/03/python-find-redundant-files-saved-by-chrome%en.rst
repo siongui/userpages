@@ -2,7 +2,7 @@
 #############################################
 
 :date: 2016-03-03T15:38+08:00
-:tags: Python, Regular Expression, Commandline
+:tags: Python, Regular Expression, Commandline, List Files in Directory
 :category: Python
 :summary: Find redundant files saved by Chrome_ browser via Python_.
 

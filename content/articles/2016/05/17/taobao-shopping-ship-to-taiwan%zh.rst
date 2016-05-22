@@ -94,6 +94,7 @@
 - 特貨
 
   * `首页-聖天集貨站-淘宝网 <https://linsheng19920828.taobao.com/>`_
+  * `聖天 e-shopping - Google search <https://www.google.com/search?q=%E8%81%96%E5%A4%A9+e-shopping+site%3Aptt.cc>`_
   * `特貨分類及說明【爽購】台灣支付寶儲值、淘寶代付、淘寶集運推薦平台 <https://www.songogo.com/logistics_new/special_item.php>`_
   * `[問題]  可發液體的特貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1449825013.A.3CD.html>`_
   * `特貨 e-shopping site:ptt.cc - Google Search <https://www.google.com/search?q=%E7%89%B9%E8%B2%A8+e-shopping+site:ptt.cc>`_
