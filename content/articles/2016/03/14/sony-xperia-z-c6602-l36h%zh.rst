@@ -62,6 +62,7 @@ Sony Xperia Z C6602 L36h
 * `[討論] 6500左右能跟紅米note 3媲美的手機? - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463495853.A.3DB.html>`_
 * `[問題] 幾款手機選擇 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463621362.A.54A.html>`_
 * `[問題] 想買紅米Note3 但官網價格跟拍賣?! - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463634148.A.D91.html>`_
+* `[問題] 單純當4G上網分享手機推薦? - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463738447.A.19B.html>`_
 
 * 手機充電安全
 
@@ -71,4 +72,5 @@ Sony Xperia Z C6602 L36h
 * 無線充電
 
   - `[閒聊] 無線充電實用性高嗎? - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463629762.A.172.html>`_
-  - `Re: [閒聊] 無線充電實用性高嗎? - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463630990.A.00B.html>`_
+  - `Re: [閒聊] 無線充電實用性高嗎? - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463630990.A.00B.html>`__
+  - `Re: [閒聊] 無線充電實用性高嗎? - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463736374.A.127.html>`__

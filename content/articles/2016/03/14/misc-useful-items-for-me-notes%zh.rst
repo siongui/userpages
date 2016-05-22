@@ -164,6 +164,13 @@
 
 - `usb灯_淘宝搜索 <https://s.taobao.com/search?q=usb%E7%81%AF>`_
 
+
+吸塵器
+++++++
+
+- `[心得] 淘寶 寶家麗-除塵蟎紫外線吸塵器手持式 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463754858.A.642.html>`_
+- `[挑選] 小坪數之吸塵器挑選 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463802271.A.2C3.html>`_
+
 ----
 
 .. image:: http://img.ruten.com.tw/s1/c/62/83/21511601987203_751.jpg

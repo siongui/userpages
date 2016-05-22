@@ -39,12 +39,16 @@
 
     - `Re: [問題] 緬甸人訂機票名字怎麼輸入? - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1463376090.A.594.html>`_
     - `[問題] 緬甸人訂機票名字怎麼輸入? - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1463370775.A.B06.html>`_
+    - `[問題] 官網 vs APP價格差異？ - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1463750495.A.1C8.html>`_
+    - `[問題] 來回票只做回程的問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1463761977.A.899.html>`_
 
 - 搭飛機 行李 托運 攜帶物品
 
   * `看板 Aviation 文章列表 - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/index.html>`_
   * `[問題] 帶掃地機器人搭飛機？托運？手提？ - 看板 E-appliance - 批踢踢實業坊 <https://www.ptt.cc/bbs/E-appliance/M.1463135745.A.4F9.html>`_
   * `Fw: [問題] 帶掃地機器人搭飛機？托運？手提？ - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1463155222.A.BCB.html>`_
+  * `[問題] 鋁箔包飲料可以托運/帶上飛機嗎？ - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1463838732.A.80B.html>`_
+  * `[問題] 關於行李直掛的謎題求解 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1463835577.A.216.html>`_
 
 - 手機, 電話
 

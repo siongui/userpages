@@ -12,56 +12,83 @@
 
   `淘寶 集運 推薦 site:ptt.cc - Google Search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E9%9B%86%E9%81%8B+%E6%8E%A8%E8%96%A6+site%3Aptt.cc>`_
 
+  * 上海集貨商
+
+    - `[問題] 推薦上海集貨商 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463728278.A.107.html>`_
+
+    - 上海登航
+
+      * `[心得] 淘寶上海登航國際集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1460818637.A.D90.html>`_
+      * `[心得] 推薦上海登航集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461086864.A.5CD.html>`_
+      * `[心得] 上海登航集貨使用心得 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461652545.A.0B3.html>`_
+
+    - `鄉民集貨 - Google search <https://www.google.com/search?q=%E9%84%89%E6%B0%91%E9%9B%86%E8%B2%A8>`_
+
+      * `[心得] 上海鄉民集貨站 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1430155917.A.C24.html>`_
+      * `[心得] 推薦集貨-上海鄉民集貨站 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1407587047.A.343.html>`_
+      * `[心得] 推薦上海鄉民集貨站 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1417067269.A.891.html>`_
+
+    - 風馳
+
+      * `[心得] 推薦風馳臺灣集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1460986656.A.F9C.html>`_
+      * `[心得] 推薦風馳集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461726539.A.07E.html>`_
+
+    - 上海增利
+
+      * `[問題] 有人也是使用上海增利物流嗎 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1460940705.A.1AA.html>`_
+      * `[問題] 淘寶增利集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1460905438.A.1A8.html>`_
+      * `[問題] 淘寶 新竹增利 集貨短少包裹 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461043531.A.9BC.html>`_
+      * `[問題] 淘寶/上海捷利/新竹增利 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462942685.A.EA4.html>`_
+      * `Re: [問題] 淘寶集貨/上海捷利/新竹增利 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463224301.A.716.html>`_
+
+    - 捷達
+
+      * `[心得] 捷達貨運台灣專線 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1460914592.A.F2A.html>`__
+      * `[心得] 捷達貨運台灣專線 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462878846.A.CE1.html>`__
+
+    - `[心得] 推薦 上海東龍之我眼角怎麼濕濕的 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461091635.A.0A5.html>`_
+    - `[心得] 真正今發明至推薦-上海永誠集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462886717.A.4A3.html>`_
+    - `[心得] 集貨推薦-上海樂送國際速遞 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462801418.A.3DE.html>`_
+    - `[心得] 集貨推薦-上海捷通 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463395671.A.430.html>`_
+    - `[心得] 大推飛翔集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461738155.A.66A.html>`_
+    - `Re: [心得] 反推淘寶集貨-上海迪快國際快遞 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461954608.A.988.html>`_
+    - `[問題] 上海樂送今發大後至？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463287523.A.7CD.html>`_
+    - `[閒聊] 今天去了千里馬集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462455609.A.911.html>`_
+    - `[心得] 推薦小鵬集貨貼心追貨包裝仔細 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462467131.A.BD3.html>`_
+    - `[心得] 推薦集運-UGO集貨網 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463675969.A.A54.html>`_
+
+  * 深圳
+
+    - 十二生肖集貨站
+
+      * `[心得] 推薦集貨-深圳十二生肖集運站 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461553871.A.81D.html>`_
+      * `[心得] 集貨推薦-十二生肖集貨站 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463581096.A.DF1.html>`_
+
+    - `[心得] 旅途國際集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461823778.A.63E.html>`_
+
   * `首页-平安国际集运中心-淘宝网 <https://shop103024137.taobao.com/>`_
-  * `[心得] 淘寶上海登航國際集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1460818637.A.D90.html>`_
-  * `[心得] 推薦風馳臺灣集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1460986656.A.F9C.html>`_
-  * `[心得] 捷達貨運台灣專線 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1460914592.A.F2A.html>`__
-  * `[問題] 有人也是使用上海增利物流嗎 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1460940705.A.1AA.html>`_
-  * `[心得] 上海鄉民集貨站 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1430155917.A.C24.html>`_
-  * `[心得] 推薦集貨-上海鄉民集貨站 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1407587047.A.343.html>`_
-  * `[心得] 推薦上海鄉民集貨站 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1417067269.A.891.html>`_
-  * `[問題] 淘寶增利集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1460905438.A.1A8.html>`_
-  * `鄉民集貨 - Google search <https://www.google.com/search?q=%E9%84%89%E6%B0%91%E9%9B%86%E8%B2%A8>`_
-  * `[問題] 淘寶 新竹增利 集貨短少包裹 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461043531.A.9BC.html>`_
-  * `[心得] 推薦上海登航集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461086864.A.5CD.html>`_
-  * `[心得] 推薦 上海東龍之我眼角怎麼濕濕的 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461091635.A.0A5.html>`_
-  * `[心得] 推薦集貨-深圳十二生肖集運站 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461553871.A.81D.html>`_
-  * `[心得] 上海登航集貨使用心得 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461652545.A.0B3.html>`_
-  * `[心得] 推薦風馳集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461726539.A.07E.html>`_
-  * `[心得] 大推飛翔集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461738155.A.66A.html>`_
-  * `[心得] 旅途國際集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461823778.A.63E.html>`_
-  * `Re: [心得] 反推淘寶集貨-上海迪快國際快遞 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461954608.A.988.html>`_
   * `[問題] 鴻途集貨（小濤）攬件問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461990558.A.B79.html>`_
   * `[閒聊] 淘寶集運拒收 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462261033.A.1D2.html>`_
   * `[問題] 淘寶深圳發回台灣卡關了 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462432280.A.6F3.html>`_
-  * `[閒聊] 今天去了千里馬集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462455609.A.911.html>`_
-  * `[心得] 推薦小鵬集貨貼心追貨包裝仔細 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462467131.A.BD3.html>`_
   * `[問題] 圓通拒收問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462617339.A.255.html>`_
   * `[問題] 淘寶商品可以存放較久的集運倉? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462606597.A.9CD.html>`_
   * `[問題] 淘寶海外集貨不同處？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462649386.A.B3B.html>`_
   * `[問題] 集貨發超峰包裹編號問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462776903.A.721.html>`_
-  * `[心得] 集貨推薦-上海樂送國際速遞 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462801418.A.3DE.html>`_
-  * `[心得] 捷達貨運台灣專線 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462878846.A.CE1.html>`__
-  * `[心得] 真正今發明至推薦-上海永誠集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462886717.A.4A3.html>`_
-  * `[問題] 淘寶/上海捷利/新竹增利 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462942685.A.EA4.html>`_
   * `[問題] 請問淘寶集貨有發美國嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462948021.A.C20.html>`_
   * `[問題] 適合運送大型物品的集貨推薦？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463042882.A.B6A.html>`_
   * `[問題] 關於淘寶集貨的問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463036163.A.A9E.html>`_
   * `[心得] 淘寶小羊皮鉚釘包 橄欖綠 煙灰 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462988895.A.ADC.html>`_
   * `[問題] 淘寶直運"台湾清关已完成"？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1412202560.A.45E.html>`_
   * `淘寶_集貨寄貨回台灣 @ ♡ 動物小町 ♡ 購物記事 :: 隨意窩 Xuite日誌 <http://blog.xuite.net/buynet_eleven/buy/40606663-%E6%B7%98%E5%AF%B6_%E9%9B%86%E8%B2%A8%E5%AF%84%E8%B2%A8%E5%9B%9E%E5%8F%B0%E7%81%A3>`_
-  * `Re: [問題] 淘寶集貨/上海捷利/新竹增利 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463224301.A.716.html>`_
   * `[問題] 請推薦高cp集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463282894.A.340.html>`__
-  * `[問題] 上海樂送今發大後至？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463287523.A.7CD.html>`_
   * `[問題] 淘寶/天貓 寄送問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463297404.A.6D9.html>`_
   * `淘寶雙十一的驚魂（爛到不行的圓通集運） @ 兩隻調皮黑貴賓的小世界 :: 痞客邦 PIXNET :: <http://warmingpoodle622.pixnet.net/blog/post/398278003-%E6%B7%98%E5%AF%B6%E9%9B%99%E5%8D%81%E4%B8%80%E7%9A%84%E9%A9%9A%E9%AD%82%EF%BC%88%E7%88%9B%E5%88%B0%E4%B8%8D%E8%A1%8C%E7%9A%84%E5%9C%93%E9%80%9A%E9%9B%86%E9%81%8B%EF%BC%89>`_
   * `alice: 淘寶集運_直送_ 運費教學及問題大匯總-淘寶台灣 <http://alice-yhshih.blogspot.com/2015/11/blog-post.html>`_
   * `閒聊與趣味 - 淘寶物流選擇 - 生活討論區 - Mobile01 <http://www.mobile01.com/topicdetail.php?f=37&t=4572763>`_
-  * `[心得] 集貨推薦-上海捷通 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463395671.A.430.html>`_
   * `[問題] 淘寶集貨身分證不是收件人的可以嗎? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463426471.A.2F8.html>`_
   * `[問題] 淘寶物流問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463477162.A.DF1.html>`_
   * `淘寶網不能集運回台灣 - Puppy & Jill 的部落格 - udn部落格 <http://blog.udn.com/hcan8999/56137472>`_
-  * `[心得] 集貨推薦-十二生肖集貨站 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463581096.A.DF1.html>`_
+  * `[問題] 淘寶普貨和特貨不能一起合計？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463633802.A.606.html>`_
 
 
 - 特貨
