@@ -146,6 +146,8 @@
    :target: http://twhere.1111.com.tw/ShopCouponInfo.aspx?cNo=21196
    :align: center
 
+- `可挂式除湿剂_淘宝搜索 <https://s.taobao.com/search?q=%E5%8F%AF%E6%8C%82%E5%BC%8F%E9%99%A4%E6%B9%BF%E5%89%82>`_
+
 
 食物
 ++++
@@ -163,7 +165,39 @@
    :align: center
 
 - `usb灯_淘宝搜索 <https://s.taobao.com/search?q=usb%E7%81%AF>`_
+- `针线盒_淘宝搜索 <https://s.taobao.com/search?q=%E9%92%88%E7%BA%BF%E7%9B%92>`_
+- `神奇万能清洁胶_淘宝搜索 <https://s.taobao.com/search?q=%E7%A5%9E%E5%A5%87%E4%B8%87%E8%83%BD%E6%B8%85%E6%B4%81%E8%83%B6>`_
+- `清洁胶_淘宝搜索 <https://s.taobao.com/search?q=%E6%B8%85%E6%B4%81%E8%83%B6>`_
+- `脸盆挂钩_淘宝搜索 <https://s.taobao.com/search?q=%E8%84%B8%E7%9B%86%E6%8C%82%E9%92%A9>`_
 
+
+衣服
+++++
+
+- `四角裤 男_淘宝搜索 <https://s.taobao.com/search?q=%E5%9B%9B%E8%A7%92%E8%A3%A4+%E7%94%B7>`_
+- `功夫裤_淘宝搜索 <https://s.taobao.com/search?q=%E5%8A%9F%E5%A4%AB%E8%A3%A4>`_
+
+膠帶
+++++
+
+- `封箱胶带6cm宽_淘宝搜索 <https://s.taobao.com/search?q=%E5%B0%81%E7%AE%B1%E8%83%B6%E5%B8%A66cm%E5%AE%BD>`_
+- `布纹胶带_淘宝搜索 <https://s.taobao.com/search?q=%E5%B8%83%E7%BA%B9%E8%83%B6%E5%B8%A6>`_
+
+黏毛器
+++++++
+
+- `粘毛器_淘宝搜索 <https://s.taobao.com/search?q=%E7%B2%98%E6%AF%9B%E5%99%A8>`_
+
+慕朗水冷墊
+++++++++++
+
+.. image:: https://gd2.alicdn.com/bao/uploaded/i2/26420673/TB27jBkoXXXXXXvXpXXXXXXXXXX_!!26420673.jpg
+   :alt: 冰床垫恒温夏季双人凉垫单人制冷冰垫水席宿舍降温神器电子凉席-淘宝网全球站
+   :target: https://item.taobao.com/item.htm?id=528066236967
+   :align: center
+
+- `[協尋]慕朗水冷墊找哪家買好? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463718229.A.EA2.html>`_
+- `Re: [問題] 朗慕水冷墊單人or雙人？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463510484.A.4EE.html>`_
 
 吸塵器
 ++++++

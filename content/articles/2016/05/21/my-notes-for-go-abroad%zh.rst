@@ -88,6 +88,8 @@
     - `Royal Thai Consulate-General, Savannakhet <http://www.thaisavannakhet.com/>`_
     - `สถานกงสุลใหญ่ ณ แขวงสะหวันนะเขต :: Royal Thai Consulate-General, Savannakhet <http://www.thaisavannakhet.com/savannakhet/th/consulate/contact/>`_
 
+  * `Getting your visa for Thailand sorted <http://www.sutletgroup.com/2015/06/getting-your-visa-for-thailand-sorted/>`_
+
 - 回台灣禁止攜帶物品
 
   * `注意！「台灣海關禁止入關物品」2016年起新規定！違法送辦！ <http://ww.apple01.net/cat42/node1075082>`_

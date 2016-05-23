@@ -12,6 +12,7 @@
 
   * `[問題] 有遇過淘寶明明商品在卻無法買的狀況嗎? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1458456421.A.8E2.html>`_
   * `[問題] 怎麼會莫名其妙的被拉黑呢? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461813068.A.BBF.html>`_
+  * `[問題] 淘寶未實名認證，可能競拍嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463826961.A.399.html>`_
 
 - 付款及退款
 
@@ -32,12 +33,17 @@
     - `[問題] 已實名認證的支付寶補全身份問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463723794.A.1BD.html>`_
     - `Re: [問題] 已實名認證的支付寶補全身份問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463725101.A.303.html>`_
 
+  * 刷卡
+
+    - `[問題] 阿里巴巴支付寶刷卡不成功 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462969463.A.114.html>`_
+    - `[問題] 支付寶無法用信用卡刷卡付費 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463031930.A.4FC.html>`_
+    - `[問題] 淘寶刷卡不過，且出現這個訊息 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463469195.A.4BB.html>`_
+    - `[問題] 淘寶信用卡無法即時付款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463817079.A.64C.html>`_
+
   * `[問題] 淘寶使用轉帳付款的退款問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462264572.A.D67.html>`_
   * `[問題] 淘寶轉帳的匯率問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462633365.A.CD5.html>`_
-  * `[問題] 阿里巴巴支付寶刷卡不成功 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462969463.A.114.html>`_
   * `[問題] 淘寶無可支付方式 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463047954.A.393.html>`_
   * `[問題] 第一次淘寶, ATM轉帳一直遇到transaction failed... - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463022835.A.B6D.html>`_
-  * `[問題] 支付寶無法用信用卡刷卡付費 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463031930.A.4FC.html>`_
   * `[閒聊] 淘寶商品手機APP(旺信+支付寶)購物付款微筆記 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463071264.A.8D3.html>`_
   * `[問題] 大家是用玉山網銀還是webatm ? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463144463.A.088.html>`_
   * `[問題] 請問掏寶上的聚划算 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463152058.A.404.html>`_
@@ -45,7 +51,6 @@
   * `[問題] 玉山網路銀行問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463366562.A.E3C.html>`_
   * `[問題] 手機版淘寶app付款？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463394856.A.CFD.html>`_
   * `[問題] 淘寶虛擬帳戶入帳失敗 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463466442.A.921.html>`_
-  * `[問題] 淘寶刷卡不過，且出現這個訊息 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463469195.A.4BB.html>`_
   * `淘寶退款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463639108.A.716.html>`_
   * `[問題] 淘寶退款的問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463676025.A.745.html>`_
   * `[問題] 淘寶支付轉帳明細有一個服務費? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463710055.A.A0A.html>`_
@@ -59,6 +64,7 @@
   * `Re: [問題] 淘寶買 570 台幣的東西被課稅? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1389863982.A.ECB.html>`_
   * `[問題] 關於集運關稅以及商檢問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463628139.A.2AA.html>`_
   * `[問題] innisfree消費達美金120元會被課稅嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463732894.A.229.html>`_
+  * `[問題] DW錶課稅問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463982769.A.095.html>`_
 
 - 玉山銀行
 

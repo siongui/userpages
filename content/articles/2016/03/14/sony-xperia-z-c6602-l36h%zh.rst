@@ -64,6 +64,10 @@ Sony Xperia Z C6602 L36h
 * `[問題] 想買紅米Note3 但官網價格跟拍賣?! - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463634148.A.D91.html>`_
 * `[問題] 單純當4G上網分享手機推薦? - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463738447.A.19B.html>`_
 
+* 變壓器
+
+  - `[問題] 中國變壓器問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463714039.A.4AE.html>`_
+
 * 手機充電安全
 
   - `[情報] HTC 10充電器不能亂用！ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463610186.A.F1B.html>`_
