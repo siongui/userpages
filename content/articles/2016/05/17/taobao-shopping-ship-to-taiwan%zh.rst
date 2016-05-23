@@ -102,6 +102,7 @@
   * `[閒聊] 好奇怪的物流狀況 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463821732.A.964.html>`_
   * `[問題] 淘寶賣家直接寄到7-11的地址 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463833169.A.A20.html>`_
   * `[問題] 買淘寶想從集運倉退貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463886843.A.BE3.html>`_
+  * `Re: [問題] 急!!買淘寶想從集運倉退貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464008905.A.9C4.html>`_
 
 
 - 特貨

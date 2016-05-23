@@ -49,6 +49,13 @@
   * `Fw: [問題] 帶掃地機器人搭飛機？托運？手提？ - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1463155222.A.BCB.html>`_
   * `[問題] 鋁箔包飲料可以托運/帶上飛機嗎？ - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1463838732.A.80B.html>`_
   * `[問題] 關於行李直掛的謎題求解 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1463835577.A.216.html>`_
+  * `Re: [問題] 關於行李直掛的謎題求解 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1463917261.A.BB3.html>`__
+  * `Re: [問題] 關於行李直掛的謎題求解 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464015543.A.0AE.html>`__
+  * `[問題] 酷航隨身行李的問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1463907262.A.E15.html>`_
+
+- 機場客運
+
+  * `[問題] 桃園機場有通霄客運至高雄嗎 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464004428.A.565.html>`_
 
 - 手機, 電話
 

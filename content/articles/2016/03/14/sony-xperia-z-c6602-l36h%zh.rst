@@ -63,6 +63,9 @@ Sony Xperia Z C6602 L36h
 * `[問題] 幾款手機選擇 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463621362.A.54A.html>`_
 * `[問題] 想買紅米Note3 但官網價格跟拍賣?! - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463634148.A.D91.html>`_
 * `[問題] 單純當4G上網分享手機推薦? - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463738447.A.19B.html>`_
+* `[問題] 嗨嗨  各位可以推薦cp高的手機嗎 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463998719.A.4C3.html>`_
+* `[問題] 平價手機店面買還是網路買？ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463924940.A.B1F.html>`_
+* `[討論] 請問可換電池又高性能Cp值手機 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463888880.A.210.html>`_
 
 * 變壓器
 

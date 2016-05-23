@@ -40,6 +40,12 @@
     - `[問題] 淘寶刷卡不過，且出現這個訊息 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463469195.A.4BB.html>`_
     - `[問題] 淘寶信用卡無法即時付款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463817079.A.64C.html>`_
 
+  * 退款
+
+    - `淘寶退款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463639108.A.716.html>`_
+    - `[問題] 淘寶退款的問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463676025.A.745.html>`_
+    - `[問題] 1688退款到支付寶 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463997825.A.9D8.html>`_
+
   * `[問題] 淘寶使用轉帳付款的退款問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462264572.A.D67.html>`_
   * `[問題] 淘寶轉帳的匯率問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462633365.A.CD5.html>`_
   * `[問題] 淘寶無可支付方式 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463047954.A.393.html>`_
@@ -51,8 +57,6 @@
   * `[問題] 玉山網路銀行問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463366562.A.E3C.html>`_
   * `[問題] 手機版淘寶app付款？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463394856.A.CFD.html>`_
   * `[問題] 淘寶虛擬帳戶入帳失敗 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463466442.A.921.html>`_
-  * `淘寶退款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463639108.A.716.html>`_
-  * `[問題] 淘寶退款的問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463676025.A.745.html>`_
   * `[問題] 淘寶支付轉帳明細有一個服務費? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463710055.A.A0A.html>`_
 
 - 課稅
