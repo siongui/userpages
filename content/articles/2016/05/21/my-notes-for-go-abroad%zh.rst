@@ -58,7 +58,8 @@
 - 泰國
 
   * `泰國貿易經濟辦事處 (台北) <http://www.tteo.org.tw/main/zh/>`_
-    (`สำนักงานการค้าและเศรษฐกิจไทย ไทเป <http://www.tteo.org.tw/main/>`_)
+    (`สำนักงานการค้าและเศรษฐกิจไทย ไทเป <http://www.tteo.org.tw/main/>`_,
+    `Thailand Trade and Economic Office (TTEO) - Facebook <https://www.facebook.com/TTEOTAIPEI/>`_)
   * `泰國 落地簽 - Google search <https://www.google.com/search?q=%E6%B3%B0%E5%9C%8B+%E8%90%BD%E5%9C%B0%E7%B0%BD>`_
   * `thailand visa meditation - Google search <https://www.google.com/search?q=thailand+visa+meditation>`_
 
@@ -69,6 +70,23 @@
 
     - `旅客入境泰國通關須知 - 泰國觀光局-台北辦事處 <http://www.tattpe.org.tw/GoThailand/go_enter.aspx>`_
     - `海關報檢服務 <http://donmueangairportthai.com/cn/814-customs-services>`_
+
+  * `Non-Immigrant Visa R Buddhism study - Google search <https://www.google.com/search?q=Non-Immigrant+Visa+R+Buddhism+study>`_
+
+    - `Non-Immigrant Visa “R” (Buddhism study/Religious function/Missionary purpose) <http://www.thaiembassy.se/minmapp/filer/pdf-pages/Visa/buddish_study.pdf>`__
+    - `Non-Immigrant Visa Type"R" (Religious purposes) - Royal Thai Embassy, Helsinki, Finland <http://www.thaiembassy.org/helsinki/en/customize/28161-Non-Immigrant-Visa-Type>`_
+    - `Non Immigrant R For Buddhist Laypeolpe - Buddhism - Thailand Forum <http://www.thaivisa.com/forum/topic/322244-non-immigrant-r-for-buddhist-laypeolpe/>`_
+    - `Ed Visa For Becoming A Monk? - Buddhism - Thailand Forum <http://www.thaivisa.com/forum/topic/636526-ed-visa-for-becoming-a-monk/>`_
+    - `สำนักงานพระพุทธศาสนาแห่งชาติ <http://www.onab.go.th/>`_
+      (`:: Office of National Buddhism :. <http://www.onab.go.th/en/>`_)
+    - `Non-Immigrant Visa - Business (B), Education (ED), Family/Spouse (O), Volunteer (O), Research (RS), Religious (RA), Media (M), Official (F) - Royal Thai Consulate - General Los Angeles <http://www.thaiconsulatela.org/service_detail.aspx?link_id=34>`_
+    - `thailand buddhist visa - Google search <https://www.google.com/search?q=thailand+buddhist+visa>`_
+    - `Non-Immigrant Visas in Thailand | Visa <http://www.thailandvisasservice.com/non-immigrant-visas-thailand>`_
+
+  * `royal thai consulate savannakhet - Google search <https://www.google.com/search?q=royal+thai+consulate+savannakhet>`_
+
+    - `Royal Thai Consulate-General, Savannakhet <http://www.thaisavannakhet.com/>`_
+    - `สถานกงสุลใหญ่ ณ แขวงสะหวันนะเขต :: Royal Thai Consulate-General, Savannakhet <http://www.thaisavannakhet.com/savannakhet/th/consulate/contact/>`_
 
 - 回台灣禁止攜帶物品
 

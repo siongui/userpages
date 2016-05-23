@@ -25,7 +25,12 @@
     - `Re: [問題] 支付寶無法付款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463539221.A.16E.html>`__
     - `Re: [問題] 支付寶無法付款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463672097.A.C1D.html>`__
     - `Re: [問題] 支付寶無法付款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463629574.A.E07.html>`__
-    - `Re: [問題] 支付寶推實名認證後帳戶餘額凍結 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463672519.A.B90.html>`_
+    - `[問題] 支付寶推實名認證後帳戶餘額凍結 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463662076.A.6F8.html>`_
+    - `Re: [問題] 支付寶推實名認證後帳戶餘額凍結 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463672519.A.B90.html>`__
+    - `Re: [問題] 支付寶推實名認證後帳戶餘額凍結 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463677662.A.8D6.html>`__
+    - `Re: [問題] 支付寶推實名認證後帳戶餘額凍結 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463742789.A.9CA.html>`__
+    - `[問題] 已實名認證的支付寶補全身份問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463723794.A.1BD.html>`_
+    - `Re: [問題] 已實名認證的支付寶補全身份問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463725101.A.303.html>`_
 
   * `[問題] 淘寶使用轉帳付款的退款問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462264572.A.D67.html>`_
   * `[問題] 淘寶轉帳的匯率問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462633365.A.CD5.html>`_
@@ -42,6 +47,8 @@
   * `[問題] 淘寶虛擬帳戶入帳失敗 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463466442.A.921.html>`_
   * `[問題] 淘寶刷卡不過，且出現這個訊息 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463469195.A.4BB.html>`_
   * `淘寶退款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463639108.A.716.html>`_
+  * `[問題] 淘寶退款的問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463676025.A.745.html>`_
+  * `[問題] 淘寶支付轉帳明細有一個服務費? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463710055.A.A0A.html>`_
 
 - 課稅
 
@@ -51,6 +58,7 @@
   * `買淘寶終於也讓我被海關課稅了 - 樂多閱讀 <http://reader.roodo.com/kerick/archives/26774566.html>`_
   * `Re: [問題] 淘寶買 570 台幣的東西被課稅? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1389863982.A.ECB.html>`_
   * `[問題] 關於集運關稅以及商檢問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463628139.A.2AA.html>`_
+  * `[問題] innisfree消費達美金120元會被課稅嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463732894.A.229.html>`_
 
 - 玉山銀行
 

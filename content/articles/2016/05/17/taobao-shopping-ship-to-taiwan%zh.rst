@@ -89,6 +89,8 @@
   * `[問題] 淘寶物流問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463477162.A.DF1.html>`_
   * `淘寶網不能集運回台灣 - Puppy & Jill 的部落格 - udn部落格 <http://blog.udn.com/hcan8999/56137472>`_
   * `[問題] 淘寶普貨和特貨不能一起合計？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463633802.A.606.html>`_
+  * `[問題] 淘寶黑貓直送體積超出一點點 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463647983.A.546.html>`_
+  * `Re: [問題] 淘寶黑貓直送體積超出一點點 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463648696.A.D74.html>`_
 
 
 - 特貨

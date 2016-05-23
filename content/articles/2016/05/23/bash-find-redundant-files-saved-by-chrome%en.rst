@@ -4,7 +4,7 @@
 :date: 2016-05-23T03:52+08:00
 :tags: Bash, Regular Expression, Commandline, List Files in Directory,
        find command
-:category: Go
+:category: Bash
 :summary: Find redundant files saved by Chrome_ browser via Bash_ script.
 
 Find redundant files saved by Chrome_ browser via Bash_ script.
