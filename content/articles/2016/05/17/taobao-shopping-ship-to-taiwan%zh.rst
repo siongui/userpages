@@ -51,12 +51,19 @@
       * `[心得] 集貨推薦-上海捷通 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463395671.A.430.html>`_
       * `[心得] 分享CP值很高的上海捷通集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463844434.A.07A.html>`_
 
+    - 上海迪快
+
+      * `Re: [心得] 反推淘寶集貨-上海迪快國際快遞 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461954608.A.988.html>`_
+      * `Re: [問題] 適合運送大型物品的集貨推薦？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464053488.A.76E.html>`_
+
+    - 上海樂送
+
+      * `[心得] 集貨推薦-上海樂送國際速遞 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462801418.A.3DE.html>`_
+      * `[問題] 上海樂送今發大後至？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463287523.A.7CD.html>`_
+
     - `[心得] 推薦 上海東龍之我眼角怎麼濕濕的 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461091635.A.0A5.html>`_
     - `[心得] 真正今發明至推薦-上海永誠集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462886717.A.4A3.html>`_
-    - `[心得] 集貨推薦-上海樂送國際速遞 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462801418.A.3DE.html>`_
     - `[心得] 大推飛翔集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461738155.A.66A.html>`_
-    - `Re: [心得] 反推淘寶集貨-上海迪快國際快遞 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461954608.A.988.html>`_
-    - `[問題] 上海樂送今發大後至？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463287523.A.7CD.html>`_
     - `[閒聊] 今天去了千里馬集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462455609.A.911.html>`_
     - `[心得] 推薦小鵬集貨貼心追貨包裝仔細 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462467131.A.BD3.html>`_
     - `[心得] 推薦集運-UGO集貨網 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463675969.A.A54.html>`_
@@ -162,6 +169,7 @@
 - `[問題] Gmarket購買食物可以用順豐嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463896680.A.BE4.html>`_
 - `[問題] Meier.Q 退貨失敗 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463897162.A.B5B.html>`_
 - `Re: [問題] Meier.Q 退貨失敗 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463901166.A.E28.html>`_
+- `[心得] 成為主購的開團小教學 - 看板 Chat82gether - 批踢踢實業坊 <https://www.ptt.cc/bbs/Chat82gether/M.1408009074.A.622.html>`_
 
 
 .. _淘寶: https://www.taobao.com/

@@ -32,6 +32,7 @@
     - `Re: [問題] 支付寶推實名認證後帳戶餘額凍結 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463742789.A.9CA.html>`__
     - `[問題] 已實名認證的支付寶補全身份問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463723794.A.1BD.html>`_
     - `Re: [問題] 已實名認證的支付寶補全身份問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463725101.A.303.html>`_
+    - `[問題] 支付寶需要綁銀行卡不然會被凍結嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464037348.A.E25.html>`_
 
   * 刷卡
 
@@ -69,6 +70,7 @@
   * `[問題] 關於集運關稅以及商檢問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463628139.A.2AA.html>`_
   * `[問題] innisfree消費達美金120元會被課稅嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463732894.A.229.html>`_
   * `[問題] DW錶課稅問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463982769.A.095.html>`_
+  * `[心得] DW40mm銀色男錶 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464072761.A.F77.html>`_
 
 - 玉山銀行
 

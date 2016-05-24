@@ -96,6 +96,12 @@
     - `สถานกงสุลใหญ่ ณ แขวงสะหวันนะเขต :: Royal Thai Consulate-General, Savannakhet <http://www.thaisavannakhet.com/savannakhet/th/consulate/contact/>`_
 
   * `Getting your visa for Thailand sorted <http://www.sutletgroup.com/2015/06/getting-your-visa-for-thailand-sorted/>`_
+  * `簽證類別, 停留時間, 及費用 : Non-immigrant-O (義工簽證) - 泰國貿易經濟辦事處 (台北) <http://www.tteo.org.tw/main/zh/services/5202/62390-Non-immigrant-O-(%E7%BE%A9%E5%B7%A5%E7%B0%BD%E8%AD%89).html>`_
+
+  * `泰國 寄 台灣 - Google search <https://www.google.com/search?q=%E6%B3%B0%E5%9C%8B+%E5%AF%84+%E5%8F%B0%E7%81%A3>`_
+
+    - `【泰國】大家都需要的泰國郵局EMS寄送包裹 @ 到處飛翔 :: 痞客邦 PIXNET :: <http://zpo0000.pixnet.net/blog/post/150831156-%E3%80%90%E6%B3%B0%E5%9C%8B%E3%80%91%E5%A4%A7%E5%AE%B6%E9%83%BD%E9%9C%80%E8%A6%81%E7%9A%84%E6%B3%B0%E5%9C%8B%E9%83%B5%E5%B1%80ems%E5%AF%84%E9%80%81%E5%8C%85%E8%A3%B9>`_
+    - `泰國郵政小包、大包、EMS跟蹤 - trackingmore <https://www.trackingmore.com/thailand-post-tracking/tw.html>`_
 
 - 回台灣禁止攜帶物品
 
