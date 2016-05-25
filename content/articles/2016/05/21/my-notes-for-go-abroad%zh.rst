@@ -52,6 +52,7 @@
   * `Re: [問題] 關於行李直掛的謎題求解 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1463917261.A.BB3.html>`__
   * `Re: [問題] 關於行李直掛的謎題求解 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464015543.A.0AE.html>`__
   * `[問題] 酷航隨身行李的問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1463907262.A.E15.html>`_
+  * `Lion Baggage <http://www.lionairthai.com/en/Extra-Services/Lion-Baggage>`_
 
 - 機場客運
 

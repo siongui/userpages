@@ -76,6 +76,7 @@
       * `[心得] 集貨推薦-十二生肖集貨站 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463581096.A.DF1.html>`_
 
     - `[心得] 旅途國際集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461823778.A.63E.html>`_
+    - `[心得] 淘寶靜音原木掛鐘 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464093170.A.6B3.html>`_
 
   * 拒收
 

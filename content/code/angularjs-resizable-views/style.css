@@ -1,0 +1,55 @@
+html, body { height: 100%; }
+
+/**
+ * http://stackoverflow.com/questions/526294/how-might-i-force-a-floating-div-to-match-the-height-of-another-floating-div
+ */
+
+#allContainer {
+  width: 100%;
+}
+
+#leftview {
+  float: left;
+  overflow: auto;
+  font-family: Tahoma, Arial, serif;
+  padding-bottom:100%;
+  margin-bottom:-100%;
+}
+
+#viewwrapper {
+  position: relative;
+  float: left;
+  padding-bottom:100%;
+  margin-bottom:-100%;
+}
+
+/**
+ * http://stackoverflow.com/questions/7778306/css-how-to-force-elements-to-100-of-remaining-available-space-of-parent-eleme
+ */
+#viewarrow {
+  width: 0;
+  height: 0;
+  border-top: 7px solid transparent;
+  border-bottom: 7px solid transparent;
+  border-right: 7px solid blue;
+  margin-bottom: 3px;
+  cursor: pointer;
+}
+
+#viewseparator {
+  position: absolute;
+  top: 17px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #EEE;
+  cursor: col-resize;
+}
+
+#rightview {
+  float: left;
+  font-family: Tahoma, Arial, serif;
+  min-height: 100%;
+  padding-bottom:100%;
+  margin-bottom:-100%;
+}
