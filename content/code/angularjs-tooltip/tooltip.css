@@ -1,0 +1,12 @@
+/**
+ * keyword: css long word force line break
+ * http://webdesignerwall.com/tutorials/word-wrap-force-text-to-wrap
+ */
+.tooltip {
+  position: absolute;
+  left: -9999px;
+  background-color: #CCFFFF;
+  border-radius: 10px;
+  font-family: Tahoma, Arial, serif;
+  word-wrap: break-word;
+}
