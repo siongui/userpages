@@ -33,6 +33,7 @@
     - `[問題] 已實名認證的支付寶補全身份問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463723794.A.1BD.html>`_
     - `Re: [問題] 已實名認證的支付寶補全身份問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463725101.A.303.html>`_
     - `[問題] 支付寶需要綁銀行卡不然會被凍結嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464037348.A.E25.html>`_
+    - `[問題] 退款到支付寶凍結 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464186520.A.853.html>`_
 
   * 刷卡
 
@@ -71,6 +72,9 @@
   * `[問題] innisfree消費達美金120元會被課稅嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463732894.A.229.html>`_
   * `[問題] DW錶課稅問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463982769.A.095.html>`_
   * `[心得] DW40mm銀色男錶 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464072761.A.F77.html>`_
+  * `[協尋] 海關包錯淘寶包裹 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464152160.A.2FC.html>`_
+  * `[心得] DW Classic Durham 36mm - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464167242.A.7C0.html>`_
+  * `[心得] DW 36mm銀色尼龍藍白錶帶女錶 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464177732.A.ABB.html>`_
 
 - 玉山銀行
 

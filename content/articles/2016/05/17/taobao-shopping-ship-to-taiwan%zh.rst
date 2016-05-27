@@ -111,6 +111,7 @@
   * `[問題] 淘寶賣家直接寄到7-11的地址 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463833169.A.A20.html>`_
   * `[問題] 買淘寶想從集運倉退貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463886843.A.BE3.html>`_
   * `Re: [問題] 急!!買淘寶想從集運倉退貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464008905.A.9C4.html>`_
+  * `[協尋] 海關包錯淘寶包裹 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464152160.A.2FC.html>`_
 
 
 - 特貨
@@ -171,6 +172,7 @@
 - `[問題] Meier.Q 退貨失敗 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463897162.A.B5B.html>`_
 - `Re: [問題] Meier.Q 退貨失敗 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463901166.A.E28.html>`_
 - `[心得] 成為主購的開團小教學 - 看板 Chat82gether - 批踢踢實業坊 <https://www.ptt.cc/bbs/Chat82gether/M.1408009074.A.622.html>`_
+- `[問題] 順風快遞飛機? - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464088884.A.270.html>`_
 
 
 .. _淘寶: https://www.taobao.com/

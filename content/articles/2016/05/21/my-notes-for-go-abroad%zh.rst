@@ -41,6 +41,7 @@
     - `[問題] 緬甸人訂機票名字怎麼輸入? - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1463370775.A.B06.html>`_
     - `[問題] 官網 vs APP價格差異？ - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1463750495.A.1C8.html>`_
     - `[問題] 來回票只做回程的問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1463761977.A.899.html>`_
+    - `[問題] 機票名字的問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464184913.A.761.html>`_
 
 - 搭飛機 行李 托運 攜帶物品
 
@@ -53,6 +54,8 @@
   * `Re: [問題] 關於行李直掛的謎題求解 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464015543.A.0AE.html>`__
   * `[問題] 酷航隨身行李的問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1463907262.A.E15.html>`_
   * `Lion Baggage <http://www.lionairthai.com/en/Extra-Services/Lion-Baggage>`_
+  * `[問題] 廉價航空加購行李的問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464032614.A.721.html>`_
+  * `[問題] 威航運動器材托運問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464106763.A.6FA.html>`_
 
 - 機場客運
 
@@ -74,6 +77,7 @@
     - `Meditation Visa in Thailand - Dhamma Wheel <http://www.dhammawheel.com/viewtopic.php?t=7378>`_
 
   * `回頭簽證 - Google search <https://www.google.com/search?q=%E5%9B%9E%E9%A0%AD%E7%B0%BD%E8%AD%89>`_
+  * `入境泰國之移民局相關規定 泰國觀光局-台北辦事處 <http://www.tattpe.org.tw/TravelInfo/TravelInfo_detail.aspx?NewsID=708&AspxAutoDetectCookieSupport=1>`_
   * `泰國 入境 物品 - Google search <https://www.google.com/search?q=%E6%B3%B0%E5%9C%8B+%E5%85%A5%E5%A2%83+%E7%89%A9%E5%93%81>`_
 
     - `旅客入境泰國通關須知 - 泰國觀光局-台北辦事處 <http://www.tattpe.org.tw/GoThailand/go_enter.aspx>`_

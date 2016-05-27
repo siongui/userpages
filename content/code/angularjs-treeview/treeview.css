@@ -1,0 +1,20 @@
+.item {
+  margin-bottom: 3px;
+  padding-bottom: 3px;
+  border-bottom: 1px solid #E0E0E0;
+}
+
+.item:hover {
+  background-color: #F0F8FF;
+}
+
+.treeNode:hover {
+  cursor: pointer;
+  color: blue;
+}
+
+.childrenContainer {
+  margin-left: .4em;
+  padding-left: .4em;
+  border-left: 1px dotted blue;
+}
