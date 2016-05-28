@@ -1,0 +1,26 @@
+<!doctype html>
+<html ng-app="demoI18nDirective">
+<head>
+  <meta charset="utf-8">
+  <title>AngularJS i18n Directive Demo</title>
+</head>
+<body>
+
+<div>
+  <button ng-click="i18nLocale = 'en'">English</button>
+  <button ng-click="i18nLocale = 'zh_TW'">傳統中文</button>
+  <button ng-click="i18nLocale = 'vi_VN'">Tiếng Việt</button>
+</div>
+<br>
+<div>
+  <span i18n str="Home">Home</span>
+  <br>
+  <span i18n str="Canon">Canon</span>
+</div>
+
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
+<script src="ngGettextData.js"></script>
+<script src="ngI18nDirective.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

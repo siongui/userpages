@@ -8,6 +8,7 @@
 
 
 Client side gettext_-like Internationalization (i18n_) via AngularJS_.
+Alternative solution via Directives_, see [2]_.
 
 .. rubric:: `Demo <{filename}/code/angularjs-gettext-i18n/index.html>`_
    :class: align-center
@@ -42,7 +43,10 @@ References:
 
        `gettext i18n - Yandex search <https://www.yandex.com/search/?text=gettext+i18n>`_
 
+.. [2] `[AngularJS] i18n Directive <{filename}../29/angularjs-ng-i18n-directive%en.rst>`_
+
 
 .. _AngularJS: https://angularjs.org/
+.. _Directives: https://docs.angularjs.org/guide/directive
 .. _gettext: https://www.google.com/search?q=gettext
 .. _i18n: https://www.google.com/search?q=i18n
