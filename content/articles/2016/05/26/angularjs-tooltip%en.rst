@@ -2,7 +2,8 @@
 ###################
 
 :date: 2016-05-26T08:53+08:00
-:tags: AngularJS, JavaScript
+:tags: AngularJS, JavaScript, mouseenter, mouseleave, element offset,
+       element position
 :category: AngularJS
 :summary: Tooltip_ via AngularJS_. Used in `Pāli Tipiṭaka`_.
 
