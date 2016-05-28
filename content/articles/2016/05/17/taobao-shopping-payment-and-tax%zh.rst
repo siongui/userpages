@@ -13,6 +13,7 @@
   * `[問題] 有遇過淘寶明明商品在卻無法買的狀況嗎? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1458456421.A.8E2.html>`_
   * `[問題] 怎麼會莫名其妙的被拉黑呢? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461813068.A.BBF.html>`_
   * `[問題] 淘寶未實名認證，可能競拍嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463826961.A.399.html>`_
+  * `[問題] 淘寶限制下單商品直寄臺灣的方法 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464283344.A.BD7.html>`_
 
 - 付款及退款
 
@@ -34,6 +35,10 @@
     - `Re: [問題] 已實名認證的支付寶補全身份問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463725101.A.303.html>`_
     - `[問題] 支付寶需要綁銀行卡不然會被凍結嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464037348.A.E25.html>`_
     - `[問題] 退款到支付寶凍結 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464186520.A.853.html>`_
+    - `Re: [問題] 支付寶需要綁銀行卡不然會被凍結嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464233351.A.B2C.html>`_
+    - `[情報]支付寶無限期押後實名要求 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464316395.A.3B6.html>`_
+    - `支付寶解禁 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464329204.A.8BA.html>`_
+    - `Re: [情報] 支付寶解禁了 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464363219.A.E0E.html>`_
 
   * 刷卡
 
@@ -75,6 +80,7 @@
   * `[協尋] 海關包錯淘寶包裹 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464152160.A.2FC.html>`_
   * `[心得] DW Classic Durham 36mm - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464167242.A.7C0.html>`_
   * `[心得] DW 36mm銀色尼龍藍白錶帶女錶 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464177732.A.ABB.html>`_
+  * `[心得] Dw藍指針 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464279510.A.63F.html>`_
 
 - 玉山銀行
 
@@ -95,8 +101,12 @@
 - `[抱怨] 淘寶購物非常不愉快的經驗 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463404135.A.BAC.html>`_
 - `[問題] 德國亞馬遜購物問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463558372.A.1ED.html>`_
 - `[心得] 日本Amazon退貨心得 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463569697.A.475.html>`_
-- `[教學]如何申請PayPal帳戶？(收款、線上刷卡必備)  –  香腸炒魷魚 <https://sofree.cc/paypal/>`_
+- `[心得] 看到爛的DW40mm及36mm手錶及取消訂單過程 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464325456.A.F56.html>`_
 
+PayPal：
+
+- `[教學]如何申請PayPal帳戶？(收款、線上刷卡必備)  –  香腸炒魷魚 <https://sofree.cc/paypal/>`_
+- `[問題] eBay交易失敗PAYPAL部分扣款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464243012.A.9A8.html>`_
 
 .. _淘寶: https://www.taobao.com/
 .. _天貓: https://www.tmall.com/

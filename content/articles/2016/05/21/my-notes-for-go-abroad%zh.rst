@@ -42,6 +42,7 @@
     - `[問題] 官網 vs APP價格差異？ - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1463750495.A.1C8.html>`_
     - `[問題] 來回票只做回程的問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1463761977.A.899.html>`_
     - `[問題] 機票名字的問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464184913.A.761.html>`_
+    - `[問題] 華航姓名輸入空格了.... - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464258655.A.6C1.html>`_
 
 - 搭飛機 行李 托運 攜帶物品
 
@@ -56,6 +57,8 @@
   * `Lion Baggage <http://www.lionairthai.com/en/Extra-Services/Lion-Baggage>`_
   * `[問題] 廉價航空加購行李的問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464032614.A.721.html>`_
   * `[問題] 威航運動器材托運問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464106763.A.6FA.html>`_
+  * `[問題] 行李裡面的錢不見了 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464367625.A.FCD.html>`_
+  * `Re: [問題] 行李裡面的錢不見了 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464369783.A.F17.html>`_
 
 - 機場客運
 

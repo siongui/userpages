@@ -170,6 +170,8 @@
 - `清洁胶_淘宝搜索 <https://s.taobao.com/search?q=%E6%B8%85%E6%B4%81%E8%83%B6>`_
 - `脸盆挂钩_淘宝搜索 <https://s.taobao.com/search?q=%E8%84%B8%E7%9B%86%E6%8C%82%E9%92%A9>`_
 - `[心得] 淘寶26吋玫瑰金塑膠拉鍊款行李箱 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464161846.A.F86.html>`_
+- `[問題] brita隨身濾水瓶 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464242657.A.229.html>`_
+- `[問題] 淘寶眾籌防盜後背包 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464356602.A.C96.html>`_
 
 
 衣服

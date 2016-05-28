@@ -15,6 +15,7 @@
   * 上海集貨商
 
     - `[問題] 推薦上海集貨商 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463728278.A.107.html>`_
+    - `Re: [問題] 推薦上海集貨商 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464360307.A.EB3.html>`_
 
     - 上海登航
 
@@ -112,6 +113,10 @@
   * `[問題] 買淘寶想從集運倉退貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463886843.A.BE3.html>`_
   * `Re: [問題] 急!!買淘寶想從集運倉退貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464008905.A.9C4.html>`_
   * `[協尋] 海關包錯淘寶包裹 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464152160.A.2FC.html>`_
+  * `[問題] 淘寶集運7kg-115RMB ？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464337800.A.ED8.html>`_
+  * `[問題]淘寶集運缺件 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464352435.A.FC2.html>`_
+  * `[問題] 淘寶購買7-11取貨問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464352446.A.D5F.html>`_
+  * `[問題] 淘寶退貨疑問 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464359418.A.0C0.html>`_
 
 
 - 特貨
