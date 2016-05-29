@@ -61,6 +61,8 @@
   * `[問題]淘寶集運缺件 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464352435.A.FC2.html>`_
   * `[問題] 淘寶購買7-11取貨問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464352446.A.D5F.html>`_
   * `[問題] 淘寶退貨疑問 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464359418.A.0C0.html>`_
+  * `[心得] 淘寶 MAGICO茉纪美甲貼紙 52張 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464371943.A.DC3.html>`_
+  * `[問題] 賣家要求先點確認收貨?! - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464516764.A.B40.html>`_
 
 
 - 特貨
@@ -122,6 +124,11 @@
 - `Re: [問題] Meier.Q 退貨失敗 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463901166.A.E28.html>`_
 - `[心得] 成為主購的開團小教學 - 看板 Chat82gether - 批踢踢實業坊 <https://www.ptt.cc/bbs/Chat82gether/M.1408009074.A.622.html>`_
 - `[問題] 順風快遞飛機? - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464088884.A.270.html>`_
+- `[問題] DW手錶 UPS運送異常通知 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464418260.A.445.html>`_
+- `[閒聊] 買到假貨 還能怎麼辦 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464423425.A.D8E.html>`_
+- `[問題] 在dw官網訂地址寫中文 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464423511.A.0E0.html>`_
+- `[問題] 檢舉仿冒品 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464435202.A.860.html>`_
+- `[問題] blink退貨要自付運費嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464450570.A.40D.html>`_
 
 
 .. _淘寶: https://www.taobao.com/

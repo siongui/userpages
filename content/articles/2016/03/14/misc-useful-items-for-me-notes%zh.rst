@@ -172,6 +172,8 @@
 - `[心得] 淘寶26吋玫瑰金塑膠拉鍊款行李箱 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464161846.A.F86.html>`_
 - `[問題] brita隨身濾水瓶 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464242657.A.229.html>`_
 - `[問題] 淘寶眾籌防盜後背包 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464356602.A.C96.html>`_
+- `[心得] 法式雜貨風房間改造大作戰！ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464455806.A.4E1.html>`_
+- `[心得] Hiti Pringo P232+相印機 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464510171.A.62E.html>`_
 
 
 衣服
@@ -207,6 +209,7 @@
 
 - `[心得] 淘寶 寶家麗-除塵蟎紫外線吸塵器手持式 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463754858.A.642.html>`_
 - `[挑選] 小坪數之吸塵器挑選 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463802271.A.2C3.html>`_
+- `[挑選] 小資女低價吸塵器大PK! - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464448130.A.926.html>`_
 
 ----
 

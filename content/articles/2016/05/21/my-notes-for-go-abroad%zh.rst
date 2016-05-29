@@ -43,6 +43,7 @@
     - `[問題] 來回票只做回程的問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1463761977.A.899.html>`_
     - `[問題] 機票名字的問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464184913.A.761.html>`_
     - `[問題] 華航姓名輸入空格了.... - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464258655.A.6C1.html>`_
+    - `[問題] 達美航空（Delta)改期 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464388201.A.D99.html>`_
 
 - 搭飛機 行李 托運 攜帶物品
 
@@ -59,6 +60,8 @@
   * `[問題] 威航運動器材托運問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464106763.A.6FA.html>`_
   * `[問題] 行李裡面的錢不見了 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464367625.A.FCD.html>`_
   * `Re: [問題] 行李裡面的錢不見了 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464369783.A.F17.html>`_
+  * `[問題] 達美航空行李不直掛至台北可行嗎? - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464460157.A.469.html>`_
+  * `[問題] 運送實驗用物品 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464508857.A.168.html>`_
 
 - 機場客運
 
