@@ -20,3 +20,4 @@ iRobot Roomba 561 電池
 參考：
 
 - `[問題] Dirt Devil 加購紫外線塵蟎吸頭？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463587412.A.BA7.html>`_
+- `Fw: [情報] pchome iRobot 880 $20999 - 看板 Lifeismoney - 批踢踢實業坊 <https://www.ptt.cc/bbs/Lifeismoney/M.1464596462.A.650.html>`_

@@ -111,6 +111,7 @@
 
   * `Getting your visa for Thailand sorted <http://www.sutletgroup.com/2015/06/getting-your-visa-for-thailand-sorted/>`_
   * `簽證類別, 停留時間, 及費用 : Non-immigrant-O (義工簽證) - 泰國貿易經濟辦事處 (台北) <http://www.tteo.org.tw/main/zh/services/5202/62390-Non-immigrant-O-(%E7%BE%A9%E5%B7%A5%E7%B0%BD%E8%AD%89).html>`_
+    (`Types of Visas, Periods of Stay, and Fees : Non-immigrant-O (Volunteer) - สำนักงานการค้าและเศรษฐกิจไทย ไทเป <http://www.tteo.org.tw/main/th/services/5202/62390-Non-immigrant-O-(Volunteer).html>`_)
 
   * `泰國 寄 台灣 - Google search <https://www.google.com/search?q=%E6%B3%B0%E5%9C%8B+%E5%AF%84+%E5%8F%B0%E7%81%A3>`_
 
