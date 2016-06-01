@@ -62,6 +62,9 @@
   * `Re: [問題] 行李裡面的錢不見了 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464369783.A.F17.html>`_
   * `[問題] 達美航空行李不直掛至台北可行嗎? - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464460157.A.469.html>`_
   * `[問題] 運送實驗用物品 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464508857.A.168.html>`_
+  * `[問題] CX行李超重問題.... - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464531939.A.B3E.html>`_
+  * `冰島至台北，行李是否能直掛？ - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464589357.A.EC3.html>`_
+  * `[問題] 兩台筆電放隨身行李OK嗎？ - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464657447.A.650.html>`_
 
 - 機場客運
 

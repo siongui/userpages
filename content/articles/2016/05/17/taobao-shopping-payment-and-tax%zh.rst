@@ -56,6 +56,7 @@
     - `[問題] 1688退款到支付寶 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463997825.A.9D8.html>`_
     - `[問題] 申請退款後淘寶賣家硬要發貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464521759.A.AB8.html>`_
     - `[問題] 未實名收到退款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464703720.A.9D5.html>`_
+    - `[問題] 淘寶退費問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464800082.A.D65.html>`_
 
   * `[問題] 淘寶使用轉帳付款的退款問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462264572.A.D67.html>`_
   * `[問題] 淘寶轉帳的匯率問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462633365.A.CD5.html>`_

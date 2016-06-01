@@ -66,6 +66,8 @@
   * `[問題] 賣家要求先點確認收貨?! - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464516764.A.B40.html>`_
   * `[問題] 淘寶買書問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464674714.A.6CF.html>`_
   * `[問題] 圓通集運送錯？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464779618.A.D9A.html>`_
+  * `淘寶集運物流問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464788726.A.6AB.html>`_
+  * `[問題] 黑貓直送運費公告？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464795516.A.AA7.html>`_
 
 
 - 特貨
@@ -143,6 +145,7 @@
 - `[問題] DW手錶運送問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464702495.A.B41.html>`_
 - `[抱怨] 代買將近半年還沒收到 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464748564.A.9D7.html>`_
 - `[問題] 奇摩賣家擅自申請買家蝦皮帳號 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464753851.A.A73.html>`_
+- `[問題] 在MOMO購買手機不能退貨? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464796921.A.CDD.html>`_
 
 
 .. _淘寶: https://www.taobao.com/
