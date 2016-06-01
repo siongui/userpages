@@ -9,6 +9,7 @@
 
 
 Tooltip_ via AngularJS_.
+For tooltip written in Go_ and compiled to JavaScript via GopherJS_, see [2]_.
 
 .. rubric:: `Demo <{filename}/code/angularjs-tooltip/index.html>`_
    :class: align-center
@@ -37,6 +38,10 @@ References:
 
        `Word-Wrap: Force Text to Wrap <http://webdesignerwall.com/tutorials/word-wrap-force-text-to-wrap>`_
 
+.. [2] `GitHub - siongui/gopherjs-tooltip: Tooltip in Go. Compiled to JavaScript via GopherJS <https://github.com/siongui/gopherjs-tooltip>`_
+
 .. _AngularJS: https://angularjs.org/
 .. _Pāli Tipiṭaka: http://tipitaka.sutta.org/
 .. _Tooltip: https://www.google.com/search?q=javascript+tooltip
+.. _Go: https://golang.org/
+.. _GopherJS: https://github.com/gopherjs/gopherjs
