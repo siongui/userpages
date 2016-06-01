@@ -15,6 +15,7 @@
   * `上海集貨商 <{filename}taobao-shopping-shanghai-consolidated-shipment%zh.rst>`_
   * 深圳
 
+    - `[問題] 請幫我推薦深圳的集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464537850.A.224.html>`_
     - 十二生肖集貨站
 
       * `[心得] 推薦集貨-深圳十二生肖集運站 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461553871.A.81D.html>`_
@@ -63,6 +64,8 @@
   * `[問題] 淘寶退貨疑問 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464359418.A.0C0.html>`_
   * `[心得] 淘寶 MAGICO茉纪美甲貼紙 52張 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464371943.A.DC3.html>`_
   * `[問題] 賣家要求先點確認收貨?! - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464516764.A.B40.html>`_
+  * `[問題] 淘寶買書問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464674714.A.6CF.html>`_
+  * `[問題] 圓通集運送錯？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464779618.A.D9A.html>`_
 
 
 - 特貨
@@ -75,6 +78,9 @@
   * `[心得] 淘寶集運-升鑫港 廣（特貨便宜） - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1452273379.A.298.html>`_
   * `[閒聊] 有關於特貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1452622544.A.F54.html>`_
   * `深圳至台湾专线快递，电池，带电池类玩具-淘宝网全球站 <https://item.taobao.com/item.htm?id=42421632452>`_
+  * `特貨 e-shopping site:ptt.cc - Google Search - Past week, Sorted by date <https://www.google.com/search?q=%E7%89%B9%E8%B2%A8+e-shopping+site:ptt.cc&tbs=qdr:w,sbd:1&sa=X>`_
+  * `[抱怨] 淘寶集運，最近要小心- 看板e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464576051.A.961.html>`_
+    (`Google cache <https://webcache.googleusercontent.com/search?q=cache:ZeJL_IUOqGkJ:https://www.ptt.cc/bbs/e-shopping/M.1464576051.A.961.html>`__)
 
 
 - `淘寶 台灣直送 - Google search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E5%8F%B0%E7%81%A3%E7%9B%B4%E9%80%81>`_
@@ -129,6 +135,14 @@
 - `[問題] 在dw官網訂地址寫中文 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464423511.A.0E0.html>`_
 - `[問題] 檢舉仿冒品 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464435202.A.860.html>`_
 - `[問題] blink退貨要自付運費嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464450570.A.40D.html>`_
+- `Re: [問題] DW手錶 UPS運送異常通知 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464588968.A.B62.html>`_
+- `[問題] DW 錶 包裹拒收問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464659125.A.368.html>`_
+- `[問題] 超級商城出貨後包裹消失 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464678394.A.77F.html>`_
+- `[閒聊] 想取消出貨被客服拒絕 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464681513.A.867.html>`_
+- `[心得] DW錶官網訂購心得錶帶微瑕疵已解決 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464688282.A.57D.html>`_
+- `[問題] DW手錶運送問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464702495.A.B41.html>`_
+- `[抱怨] 代買將近半年還沒收到 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464748564.A.9D7.html>`_
+- `[問題] 奇摩賣家擅自申請買家蝦皮帳號 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464753851.A.A73.html>`_
 
 
 .. _淘寶: https://www.taobao.com/

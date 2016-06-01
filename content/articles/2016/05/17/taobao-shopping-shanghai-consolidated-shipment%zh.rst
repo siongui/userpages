@@ -63,6 +63,7 @@
 - `[心得] 推薦小鵬集貨貼心追貨包裝仔細 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462467131.A.BD3.html>`_
 - `[心得] 推薦集運-UGO集貨網 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463675969.A.A54.html>`_
 - `[心得] 極推貼心 上海神州國際快遞 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464487498.A.FCE.html>`_
+- `[抱怨] 請勿使用上海佳速 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464587420.A.65F.html>`_
 
 
 .. _淘寶: https://www.taobao.com/

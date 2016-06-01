@@ -38,7 +38,9 @@
     - `Re: [問題] 支付寶需要綁銀行卡不然會被凍結嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464233351.A.B2C.html>`_
     - `[情報]支付寶無限期押後實名要求 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464316395.A.3B6.html>`_
     - `支付寶解禁 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464329204.A.8BA.html>`_
-    - `Re: [情報] 支付寶解禁了 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464363219.A.E0E.html>`_
+    - `Re: [情報] 支付寶解禁了 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464363219.A.E0E.html>`__
+    - `Re: [情報] 支付寶解禁了 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464631762.A.1FC.html>`__
+    - `Re: [情報] 支付寶解禁了 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464678262.A.396.html>`__
 
   * 刷卡
 
@@ -53,6 +55,7 @@
     - `[問題] 淘寶退款的問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463676025.A.745.html>`_
     - `[問題] 1688退款到支付寶 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463997825.A.9D8.html>`_
     - `[問題] 申請退款後淘寶賣家硬要發貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464521759.A.AB8.html>`_
+    - `[問題] 未實名收到退款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464703720.A.9D5.html>`_
 
   * `[問題] 淘寶使用轉帳付款的退款問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462264572.A.D67.html>`_
   * `[問題] 淘寶轉帳的匯率問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462633365.A.CD5.html>`_
@@ -68,6 +71,7 @@
   * `[問題] 淘寶支付轉帳明細有一個服務費? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463710055.A.A0A.html>`_
   * `[問題] 淘寶結帳未付款可保留嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464417863.A.D95.html>`_
   * `[問題] 淘寶無法使用信用卡付款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464502316.A.770.html>`_
+  * `[問題] 海豚瀏覽器登入網頁版淘寶 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464670700.A.E9D.html>`_
 
 - 課稅
 

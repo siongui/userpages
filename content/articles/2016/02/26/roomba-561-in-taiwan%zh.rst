@@ -21,3 +21,6 @@ iRobot Roomba 561 電池
 
 - `[問題] Dirt Devil 加購紫外線塵蟎吸頭？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463587412.A.BA7.html>`_
 - `Fw: [情報] pchome iRobot 880 $20999 - 看板 Lifeismoney - 批踢踢實業坊 <https://www.ptt.cc/bbs/Lifeismoney/M.1464596462.A.650.html>`_
+- `Re: [情報] pchome iRobot 880 $20999 - CPLife板 - Disp BBS <http://disp.cc/b/733-9qOd>`_
+- `Fw: [情報] pchome iRobot 880 $20999 - CPLife板 - Disp BBS <http://disp.cc/b/733-9qOb>`_
+- `[心得] 日本CCP Mopet 卡哇伊電動掃地機ZZ-MR4 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464774494.A.843.html>`_
