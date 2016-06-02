@@ -29,6 +29,9 @@
 `iRobot Roomba 561 電池 <{filename}../../02/26/roomba-561-in-taiwan%zh.rst>`_
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+`樹木 <{filename}trees-useful-items-for-me-notes%zh.rst>`_
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 3C
 ++
 
@@ -174,6 +177,7 @@
 - `[問題] 淘寶眾籌防盜後背包 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464356602.A.C96.html>`_
 - `[心得] 法式雜貨風房間改造大作戰！ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464455806.A.4E1.html>`_
 - `[心得] Hiti Pringo P232+相印機 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464510171.A.62E.html>`_
+- `[問題] 不鏽鋼或玻璃吸管? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464841210.A.49A.html>`_
 
 
 衣服
@@ -203,6 +207,8 @@
 
 - `[協尋]慕朗水冷墊找哪家買好? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463718229.A.EA2.html>`_
 - `Re: [問題] 朗慕水冷墊單人or雙人？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463510484.A.4EE.html>`_
+- `[問題] 水冷墊vs麻將涼蓆 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464837992.A.A45.html>`_
+- `[問題] 宜得利涼感系列真的會涼嗎 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464877867.A.6B2.html>`_
 
 吸塵器
 ++++++
@@ -226,16 +232,6 @@
    :align: center
 
 - `竹竿批发_淘宝搜索 <https://s.taobao.com/search?q=%E7%AB%B9%E7%AB%BF%E6%89%B9%E5%8F%91>`_
-
-----
-
-- `高雄 樹苗 <https://www.google.com/search?q=%E9%AB%98%E9%9B%84+%E6%A8%B9%E8%8B%97>`_
-
-  * `田尾玫瑰園-專業植物購物網站 <http://www.twr.com.tw/>`_
-
-    @ `優良造林樹種【肖楠】黃肉仔.2.5吋高20-25cm25元/株 <http://www.twr.com.tw/product_one.asp?guid=0D7467C9-5144-B746-A0F7-933A72F3CFBA>`_
-
-  * `高雄市區監理所綠海漂書香 好書換苗慶植樹 <http://www.thb.gov.tw/sites/ch/modules/news/news_details?node=eeb33aa6-58a1-4d5d-b6aa-28dd4d5270b0&id=2d7f8d56-d2e3-4c03-8698-eeeabc3f8e94>`_
 
 ----
 

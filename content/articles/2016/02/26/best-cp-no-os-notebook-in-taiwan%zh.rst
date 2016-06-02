@@ -18,8 +18,18 @@
 又多在PChome上買了240G SSD跟8GB DDR3 1600的記憶體：
 
 - `Kingston 8GB DDR3 1600 LENOVO專用筆記型記憶體(低電壓1.35V)(KTL-TP3CL/8GFR) <http://24h.pchome.com.tw/prod/DRAL14-A83053519>`_
-
 - `OCZ Trion 100 系列 2.5吋 SSD 240G 固態硬碟 <http://24h.pchome.com.tw/prod/DRAH27-A9006A6WG>`_
+
+----
+
+Linux作業系統wifi斷線問題：
+
+- `ideapad 300 linux wifi - Google search <https://www.google.com/search?q=ideapad+300+linux+wifi>`_
+- `linux check wifi driver - Google search <https://www.google.com/search?q=linux+check+wifi+driver>`_
+- `rtl8821ae linux driver - Google search <https://www.google.com/search?q=rtl8821ae+linux+driver>`_
+- `realtek rtl8821ae ubuntu - Google search <https://www.google.com/search?q=realtek+rtl8821ae+ubuntu>`_
+- `[ubuntu] Realtek RTL8821AE wifi drops often <http://ubuntuforums.org/showthread.php?t=2319956>`_
+- `networking - wifi connection keeps dropping in Ubuntu 15.10 - RTL8821AE - Ask Ubuntu <http://askubuntu.com/questions/730430/wifi-connection-keeps-dropping-in-ubuntu-15-10-rtl8821ae>`_
 
 ----
 

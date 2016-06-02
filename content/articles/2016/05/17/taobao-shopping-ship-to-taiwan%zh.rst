@@ -68,6 +68,7 @@
   * `[問題] 圓通集運送錯？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464779618.A.D9A.html>`_
   * `淘寶集運物流問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464788726.A.6AB.html>`_
   * `[問題] 黑貓直送運費公告？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464795516.A.AA7.html>`_
+  * `[問題] 淘寶集運 物品損壞處理 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464831810.A.482.html>`_
 
 
 - 特貨
