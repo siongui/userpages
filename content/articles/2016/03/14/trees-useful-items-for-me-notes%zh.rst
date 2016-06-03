@@ -18,7 +18,12 @@
 
   * `高雄市區監理所綠海漂書香 好書換苗慶植樹 <http://www.thb.gov.tw/sites/ch/modules/news/news_details?node=eeb33aa6-58a1-4d5d-b6aa-28dd4d5270b0&id=2d7f8d56-d2e3-4c03-8698-eeeabc3f8e94>`_
 
+
 - `樹 房子 距離 - Google search <https://www.google.com/search?q=%E6%A8%B9+%E6%88%BF%E5%AD%90+%E8%B7%9D%E9%9B%A2>`_
+- `樹木 距離 - Google search <https://www.google.com/search?q=%E6%A8%B9%E6%9C%A8+%E8%B7%9D%E9%9B%A2>`_
+- `種樹距離 - Google search <https://www.google.com/search?q=%E7%A8%AE%E6%A8%B9%E8%B7%9D%E9%9B%A2>`_
+
+
 - `經濟 樹種 - Google search <https://www.google.com/search?q=%E7%B6%93%E6%BF%9F+%E6%A8%B9%E7%A8%AE>`_
 - `種樹土 - Google search <https://www.google.com/search?q=%E7%A8%AE%E6%A8%B9%E5%9C%9F>`_
 - `竄根 - Google search <https://www.google.com/search?q=%E7%AB%84%E6%A0%B9>`_
@@ -40,3 +45,5 @@
   * `原生樹種－樟科～樟樹種子盆栽 @水晶蘭的種子花草格 :: nidBox親子盒子 <http://fannie2924.nidbox.com/diary/read/8248970>`_
 
 - `福木 - Google search <https://www.google.com/search?q=%E7%A6%8F%E6%9C%A8>`_
+
+- `相思樹 - Google search <https://www.google.com/search?q=%E7%9B%B8%E6%80%9D%E6%A8%B9>`_

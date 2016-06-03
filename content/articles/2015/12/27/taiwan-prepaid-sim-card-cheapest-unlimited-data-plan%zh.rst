@@ -65,5 +65,10 @@
 
 .. [4] `行動通訊綜合討論區 - 電信三雄預付卡（新增亞太 4G＋大玩特玩卡）與上網方案整理 - 手機討論區 - Mobile01 <http://www.mobile01.com/topicdetail.php?f=18&t=3953015>`_
 
+.. [5] `[問題] 中華如意卡吃到飽 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1464913955.A.833.html>`_
+
+       `[問題]  預付卡選擇 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1464951119.A.2DF.html>`_
+
+       `[問題] 預付卡會擋認證簡訊嗎？ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1464937441.A.901.html>`_
 
 .. _儲值卡: http://class.ruten.com.tw/category/sub00.php?c=0021001600010001
