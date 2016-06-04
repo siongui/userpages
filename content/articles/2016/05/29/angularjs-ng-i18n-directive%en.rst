@@ -35,6 +35,9 @@ References:
 
 .. [1] `[AngularJS] gettext-like i18n Solution <{filename}../28/angularjs-ng-gettext-i18n%en.rst>`_
 
+.. [2] `[Golang] gettext Function on Frontend (Browser) by GopherJS <{filename}../../01/28/go-gettext-function-frontend-browser-by-gopherjs%en.rst>`_
+
+
 .. _AngularJS: https://angularjs.org/
 .. _Directives: https://docs.angularjs.org/guide/directive
 .. _gettext: https://www.google.com/search?q=gettext

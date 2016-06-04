@@ -45,6 +45,8 @@ References:
 
 .. [2] `[AngularJS] i18n Directive <{filename}../29/angularjs-ng-i18n-directive%en.rst>`_
 
+.. [3] `[Golang] gettext Function on Frontend (Browser) by GopherJS <{filename}../../01/28/go-gettext-function-frontend-browser-by-gopherjs%en.rst>`_
+
 
 .. _AngularJS: https://angularjs.org/
 .. _Directives: https://docs.angularjs.org/guide/directive

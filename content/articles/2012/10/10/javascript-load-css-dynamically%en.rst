@@ -43,3 +43,5 @@ References:
 .. [1] `[JavaScript] Load Favicon Dynamically <{filename}../02/javascript-load-favicon-dynamically%en.rst>`_
 
 .. [2] `Load External JavaScript or CSS file Dynamically <{filename}../../06/18/load-external-javascript-or-css-file-dynamically%en.rst>`_
+
+.. [3] `[GopherJS] Insert CSS Dynamically <{filename}../../../2016/06/04/gopherjs-add-css-dynamically%en.rst>`_

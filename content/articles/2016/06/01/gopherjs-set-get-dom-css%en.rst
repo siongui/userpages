@@ -42,6 +42,8 @@ References:
 
        `JavaScript DOM CSS <http://www.w3schools.com/js/js_htmldom_css.asp>`_
 
+.. [3] `[GopherJS] Insert CSS Dynamically <{filename}../04/gopherjs-add-css-dynamically%en.rst>`_
+
 
 .. _GopherJS: http://www.gopherjs.org/
 .. _DOM: https://www.google.com/search?q=DOM

@@ -67,6 +67,8 @@
   * `冰島至台北，行李是否能直掛？ - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464589357.A.EC3.html>`_
   * `[問題] 兩台筆電放隨身行李OK嗎？ - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464657447.A.650.html>`_
   * `[問題] 濟州航空的行李限制 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464884134.A.AAF.html>`_
+  * `[問題] 新加坡樟宜機場虎航轉長榮問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465003141.A.1EC.html>`_
+  * `[問題] 轉機時能否再託運一次行李 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465030000.A.3D5.html>`_
 
 - 機場客運
 

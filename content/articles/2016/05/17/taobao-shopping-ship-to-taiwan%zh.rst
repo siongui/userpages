@@ -71,6 +71,11 @@
   * `[問題] 淘寶集運 物品損壞處理 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464831810.A.482.html>`_
 
 
+- 虛假發貨
+
+  * `[問題] 淘寶賣家通知快遞攬件多時？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464912914.A.76E.html>`_
+
+
 - 特貨
 
   * `首页-聖天集貨站-淘宝网 <https://linsheng19920828.taobao.com/>`_

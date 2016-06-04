@@ -89,6 +89,7 @@
   * `[心得] DW Classic Durham 36mm - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464167242.A.7C0.html>`_
   * `[心得] DW 36mm銀色尼龍藍白錶帶女錶 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464177732.A.ABB.html>`_
   * `[心得] Dw藍指針 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464279510.A.63F.html>`_
+  * `[心得] 這裡有一批好便宜的DW啊 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464940527.A.2CB.html>`_
 
 - 玉山銀行
 

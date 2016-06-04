@@ -100,5 +100,7 @@ References:
 
 .. [6] `AJAX Tutorial <http://www.w3schools.com/ajax/default.asp>`_
 
+.. [7] `[GopherJS] Insert CSS Dynamically <{filename}../../../2016/06/04/gopherjs-add-css-dynamically%en.rst>`_
+
 
 .. _cross domain scripting: http://en.wikipedia.org/wiki/Cross-site_scripting
