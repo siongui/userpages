@@ -39,6 +39,11 @@
   * `Biological-Freak: 大葉桃花心木種子發芽記實 <http://acfold.blogspot.com/2014/12/blog-post.html>`_
   * `【種子盆栽】桃花心木種子盆栽、雨豆樹、木瓜種子、海檬果、仙桃(企鵝) @ 諾爸、諾媽與海膽君諾諾(ウニ)的三人生活 :: 痞客邦 PIXNET :: <http://weilun0707.pixnet.net/blog/post/426322106-%E3%80%90%E7%A8%AE%E5%AD%90%E7%9B%86%E6%A0%BD%E3%80%91%E6%A1%83%E8%8A%B1%E5%BF%83%E6%9C%A8%E7%A8%AE%E5%AD%90%E7%9B%86%E6%A0%BD%E3%80%81%E9%9B%A8%E8%B1%86%E6%A8%B9%E3%80%81%E6%9C%A8>`_
   * `【綠活屋】種子盆栽-當季桃花心木種子        20顆30元翅螃完整 <https://tw.bid.yahoo.com/item/%E3%80%90%E7%B6%A0%E6%B4%BB%E5%B1%8B%E3%80%91%E7%A8%AE%E5%AD%90%E7%9B%86%E6%A0%BD-%E7%95%B6%E5%AD%A3%E6%A1%83%E8%8A%B1%E5%BF%83%E6%9C%A8%E7%A8%AE%E5%AD%90-20%E9%A1%8630%E5%85%83-100149500261>`_
+  * `橋頭 桃花心木 - Google search <https://www.google.com/search?q=%E6%A9%8B%E9%A0%AD+%E6%A1%83%E8%8A%B1%E5%BF%83%E6%9C%A8>`_
+
+    - `大葉桃花心木和桃花心木 @ ＊ Cruise芸 ＊ 倦鳥歸巢 :: 痞客邦 PIXNET :: <http://yuncruise.pixnet.net/blog/post/197436570-%E5%A4%A7%E8%91%89%E6%A1%83%E8%8A%B1%E5%BF%83%E6%9C%A8%E5%92%8C%E6%A1%83%E8%8A%B1%E5%BF%83%E6%9C%A8>`_
+    - `春訪高雄橋頭糖廠 最近桃花心木群正下落葉雨唷~ - 賈萳妮 JobNanny 勞動力發展署高屏澎東分署 | Facebook <https://www.facebook.com/jobnanny/posts/449862345082718>`_
+    - `撿果之樂（3.2ys） - 樂多閱讀 <http://reader.roodo.com/zozoyoyo2/archives/4311639.html>`_
 
 - `樟樹 - Google search <https://www.google.com/search?q=%E6%A8%9F%E6%A8%B9>`_
 
