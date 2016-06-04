@@ -69,6 +69,7 @@
   * `[問題] 濟州航空的行李限制 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464884134.A.AAF.html>`_
   * `[問題] 新加坡樟宜機場虎航轉長榮問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465003141.A.1EC.html>`_
   * `[問題] 轉機時能否再託運一次行李 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465030000.A.3D5.html>`_
+  * `[問題] 國泰港轉50分鍾 行李問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465054911.A.8F2.html>`_
 
 - 機場客運
 
@@ -124,6 +125,10 @@
 
     - `【泰國】大家都需要的泰國郵局EMS寄送包裹 @ 到處飛翔 :: 痞客邦 PIXNET :: <http://zpo0000.pixnet.net/blog/post/150831156-%E3%80%90%E6%B3%B0%E5%9C%8B%E3%80%91%E5%A4%A7%E5%AE%B6%E9%83%BD%E9%9C%80%E8%A6%81%E7%9A%84%E6%B3%B0%E5%9C%8B%E9%83%B5%E5%B1%80ems%E5%AF%84%E9%80%81%E5%8C%85%E8%A3%B9>`_
     - `泰國郵政小包、大包、EMS跟蹤 - trackingmore <https://www.trackingmore.com/thailand-post-tracking/tw.html>`_
+
+  * `泰銖 匯率 - Google search <https://www.google.com/search?q=%E6%B3%B0%E9%8A%96+%E5%8C%AF%E7%8E%87>`_
+
+    - `泰幣銀行匯率-外匯交易-匯率查詢-匯率換算比較-台幣 <http://www.taiwanrate.org/exchange_rate.php?c=THB>`_
 
 - 回台灣禁止攜帶物品
 

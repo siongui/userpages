@@ -71,4 +71,6 @@
 
        `[問題] 預付卡會擋認證簡訊嗎？ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1464937441.A.901.html>`_
 
+       `[心得] 中華月租轉如意卡無優惠 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465047249.A.FB0.html>`_
+
 .. _儲值卡: http://class.ruten.com.tw/category/sub00.php?c=0021001600010001
