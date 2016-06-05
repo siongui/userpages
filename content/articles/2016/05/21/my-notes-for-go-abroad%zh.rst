@@ -70,6 +70,7 @@
   * `[問題] 新加坡樟宜機場虎航轉長榮問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465003141.A.1EC.html>`_
   * `[問題] 轉機時能否再託運一次行李 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465030000.A.3D5.html>`_
   * `[問題] 國泰港轉50分鍾 行李問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465054911.A.8F2.html>`_
+  * `Fw: [問題] 達美哩程兌換華航航班 行李問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465087979.A.9C6.html>`_
 
 - 機場客運
 

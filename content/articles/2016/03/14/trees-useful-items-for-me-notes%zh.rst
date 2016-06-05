@@ -11,6 +11,10 @@
 - `高雄 樹苗 <https://www.google.com/search?q=%E9%AB%98%E9%9B%84+%E6%A8%B9%E8%8B%97>`_
 
   * `楠梓苗圃 - Google search <https://www.google.com/search?q=%E6%A5%A0%E6%A2%93%E8%8B%97%E5%9C%83>`_
+  * `歡迎光臨~台糖全球中文入口網-高雄區處 <http://www.taisugar.com.tw/chinese/CP.aspx?s=986&n=10405>`_
+
+    - `歡迎光臨~台糖全球中文入口網-高雄花卉農園中心 <http://www.taisugar.com.tw/chinese/CP.aspx?s=579&n=10464&m=1>`_
+
   * `深水苗圃 - Google search <https://www.google.com/search?q=%E6%B7%B1%E6%B0%B4%E8%8B%97%E5%9C%83>`_
   * `田尾玫瑰園-專業植物購物網站 <http://www.twr.com.tw/>`_
 
@@ -18,6 +22,11 @@
 
   * `高雄市區監理所綠海漂書香 好書換苗慶植樹 <http://www.thb.gov.tw/sites/ch/modules/news/news_details?node=eeb33aa6-58a1-4d5d-b6aa-28dd4d5270b0&id=2d7f8d56-d2e3-4c03-8698-eeeabc3f8e94>`_
 
+  * `高雄楠梓民雄育苗場 - Facebook <https://www.facebook.com/khnz073523243/>`_
+
+- `美植袋 - Google search <https://www.google.com/search?q=%E7%BE%8E%E6%A4%8D%E8%A2%8B>`_
+
+  * `美植袋如何發揮功效 @ 立榮工業社 :: 痞客邦 PIXNET :: <http://taiwanliyung.pixnet.net/blog/post/33223649-%E7%BE%8E%E6%A4%8D%E8%A2%8B%E5%A6%82%E4%BD%95%E7%99%BC%E6%8F%AE%E5%8A%9F%E6%95%88>`_
 
 - `樹 房子 距離 - Google search <https://www.google.com/search?q=%E6%A8%B9+%E6%88%BF%E5%AD%90+%E8%B7%9D%E9%9B%A2>`_
 - `樹木 距離 - Google search <https://www.google.com/search?q=%E6%A8%B9%E6%9C%A8+%E8%B7%9D%E9%9B%A2>`_
@@ -44,6 +53,8 @@
     - `大葉桃花心木和桃花心木 @ ＊ Cruise芸 ＊ 倦鳥歸巢 :: 痞客邦 PIXNET :: <http://yuncruise.pixnet.net/blog/post/197436570-%E5%A4%A7%E8%91%89%E6%A1%83%E8%8A%B1%E5%BF%83%E6%9C%A8%E5%92%8C%E6%A1%83%E8%8A%B1%E5%BF%83%E6%9C%A8>`_
     - `春訪高雄橋頭糖廠 最近桃花心木群正下落葉雨唷~ - 賈萳妮 JobNanny 勞動力發展署高屏澎東分署 | Facebook <https://www.facebook.com/jobnanny/posts/449862345082718>`_
     - `撿果之樂（3.2ys） - 樂多閱讀 <http://reader.roodo.com/zozoyoyo2/archives/4311639.html>`_
+
+  * `大葉桃花心木-2.5吋盆高約30cm30元 <http://www.twr.com.tw/product_one.asp?guid=07DDFDFB-5720-6047-B084-2B1EB07B0D08>`_
 
 - `樟樹 - Google search <https://www.google.com/search?q=%E6%A8%9F%E6%A8%B9>`_
 
