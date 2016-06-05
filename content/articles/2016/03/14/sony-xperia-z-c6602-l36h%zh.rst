@@ -69,6 +69,7 @@ Sony Xperia Z C6602 L36h
 * `[心得] 自己換z3螢幕 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1464190832.A.037.html>`_
 * `[問題] 請問最便宜智慧型手機?(賠給別人的) - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1464773359.A.8E9.html>`_
 * `[問題] 推薦5~7千左右的手機 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1464687800.A.DEE.html>`_
+* `[討論] 不要用手機電風扇 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465148375.A.70D.html>`_
 
 * 變壓器
 
@@ -79,6 +80,8 @@ Sony Xperia Z C6602 L36h
   - `[情報] HTC 10充電器不能亂用！ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463610186.A.F1B.html>`_
   - `[討論] Re: [情報] HTC 10充電器不能亂用！ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463636879.A.9B9.html>`_
   - `[問題] 充電器(線)這樣插會不會有問題？ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1464712670.A.11C.html>`_
+  - `[問題] 充電器的問題 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465146312.A.CF3.html>`_
+  - `Re: [閒聊] 不要用雜牌的充電線QQ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465142041.A.060.html>`_
 
 * 無線充電
 

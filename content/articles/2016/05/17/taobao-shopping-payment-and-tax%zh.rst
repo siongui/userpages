@@ -77,6 +77,7 @@
   * `[問題] 海豚瀏覽器登入網頁版淘寶 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464670700.A.E9D.html>`_
   * `[問題] 支付寶無法付款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464965779.A.D5D.html>`_
   * `[問題] 淘寶付款問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465008160.A.5CD.html>`_
+  * `[問題] 淘寶 賣方給我的評價 誰看得到? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465093623.A.CB9.html>`_
 
 - 課稅
 
