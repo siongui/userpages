@@ -128,10 +128,13 @@ TrueMoveH_ 數據套餐
 
 .. [8] `AK HOUSE曼谷自由行推薦：泰國手機3G上網吃到飽~7天59銖起！比299銖更便宜~TRUE MOVE、DTAC、AIS還有199銖方案 <http://akhousebkk.pixnet.net/blog/post/60869947>`_
 
+.. [9] `泰國旅遊辦Sim卡手機3G/4G上網詳細解說 | 太愛玩 Tai i wan <http://taiiwan.com.tw/11138/thailand-3g-sim-card>`_
+
+.. [10] `☆ ★草莓嗨啾 ★☆ : [泰國]♥便宜上網吃到飽♥DTAC♥TRUEMOVE♥AIS♥附TOURIST SIM THB299訊息♥ - yam天空部落  <http://blog.yam.com/auroraberry/article/108332254>`_
+
+.. [11] `ais buy credit online - Google search <https://www.google.com/search?q=ais+buy+credit+online>`_
 
 
 .. _AIS: http://www.ais.co.th/en/
-
 .. _Dtac: http://www.dtac.co.th/
-
 .. _TrueMoveH: http://truemoveh.truecorp.co.th/?ln=en

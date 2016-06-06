@@ -49,6 +49,7 @@
     - `[問題] 支付寶無法用信用卡刷卡付費 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463031930.A.4FC.html>`_
     - `[問題] 淘寶刷卡不過，且出現這個訊息 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463469195.A.4BB.html>`_
     - `[問題] 淘寶信用卡無法即時付款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463817079.A.64C.html>`_
+    - `[問題] 淘寶刷卡 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465188349.A.C38.html>`_
 
   * 退款
 
@@ -78,6 +79,7 @@
   * `[問題] 支付寶無法付款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464965779.A.D5D.html>`_
   * `[問題] 淘寶付款問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465008160.A.5CD.html>`_
   * `[問題] 淘寶 賣方給我的評價 誰看得到? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465093623.A.CB9.html>`_
+  * `[問題] 淘寶超商付款頁面跳轉成銀行卡認證 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465178549.A.E3C.html>`_
 
 - 課稅
 
@@ -95,6 +97,7 @@
   * `[心得] DW 36mm銀色尼龍藍白錶帶女錶 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464177732.A.ABB.html>`_
   * `[心得] Dw藍指針 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464279510.A.63F.html>`_
   * `[心得] 這裡有一批好便宜的DW啊 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464940527.A.2CB.html>`_
+  * `[閒聊] 期末考壓力大大家買了什麼 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465179883.A.F80.html>`_
 
 - 玉山銀行
 

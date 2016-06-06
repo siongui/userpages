@@ -41,6 +41,8 @@
 
   `[問題] 小米高配行動電源配紫米快充效果差？ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1464764671.A.ADB.html>`_
 
+  `[心得] 天津 小米官網 移動電源10000高配版 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465212216.A.3F2.html>`_
+
   `[閒聊] 聊聊大家都用哪個行動電源 - WomenTalk板 - Disp BBS <http://disp.cc/b/780-9pl7>`_
   (`[閒聊] 聊聊大家都用哪個行動電源 - 看板 WomenTalk - 批踢踢實業坊 <https://www.ptt.cc/bbs/WomenTalk/M.1463437883.A.E4A.html>`_)
 

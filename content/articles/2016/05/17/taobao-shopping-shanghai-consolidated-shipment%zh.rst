@@ -35,6 +35,7 @@
   * `[問題] 淘寶 新竹增利 集貨短少包裹 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461043531.A.9BC.html>`_
   * `[問題] 淘寶/上海捷利/新竹增利 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462942685.A.EA4.html>`_
   * `Re: [問題] 淘寶集貨/上海捷利/新竹增利 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463224301.A.716.html>`_
+  * `[問題] 淘寶集運清關後查無物流動態 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465189709.A.9EA.html>`_
 
 - 捷達
 
