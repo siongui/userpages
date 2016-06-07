@@ -35,6 +35,7 @@
   * `[情報] 真的可以省到錢的廉航專用的比價工具 - CPLife板 - Disp BBS <http://disp.cc/b/733-9odn>`_
   * `[心得] 廉價航空便宜機票必中攻略 - 看板 Lifeismoney - 批踢踢實業坊 <https://www.ptt.cc/bbs/Lifeismoney/M.1463822343.A.65F.html>`_
   * `[新聞] 民眾貼文控酷航惡劣　酷航保留法律追訴權 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464839939.A.994.html>`_
+  * `[問題] 請問有人從高雄出發到澳門轉機飛曼谷的嗎 - 看板 Thailand - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/M.1460114764.A.D86.html>`_
 
   * 訂機票
 

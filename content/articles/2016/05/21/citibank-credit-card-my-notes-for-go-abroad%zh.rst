@@ -30,4 +30,6 @@
   | A:	1) 為提供更安全的交易環境，「行動密碼」是透過綁定手機裝置並由您自行點擊按鈕而產生，可以杜絕有心人士直接從空中竊取簡訊動態密碼 (SMS OTP)。
   |   	2) 可以解決您在國外無法收到簡訊動態密碼 或 收到亂碼簡訊的問題。
 
+* `[問題] 金融卡問題 - 看板 Thailand - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/M.1462364910.A.B15.html>`_
+
 .. _花旗銀行24小時電話理財服務: https://www.citibank.com.tw/TWGCB/APPS/portal/loadPage.do?path=/global_htm/info/promt_tfc.htm&tabId=Home

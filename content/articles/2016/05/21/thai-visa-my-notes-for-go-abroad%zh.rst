@@ -42,3 +42,5 @@
 
   - `高雄 大眾旅行社 - Google search <https://www.google.com/search?q=%E9%AB%98%E9%9B%84+%E5%A4%A7%E7%9C%BE%E6%97%85%E8%A1%8C%E7%A4%BE>`_
   - `大眾旅行社 <http://www.publictravelkhh.com.tw/>`_
+
+* `[問題] 請問要怎麼辦學生簽證呢? - 看板 Thailand - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/M.1461333699.A.932.html>`_

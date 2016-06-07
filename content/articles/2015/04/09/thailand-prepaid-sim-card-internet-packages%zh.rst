@@ -133,6 +133,7 @@ TrueMoveH_ 數據套餐
 .. [10] `☆ ★草莓嗨啾 ★☆ : [泰國]♥便宜上網吃到飽♥DTAC♥TRUEMOVE♥AIS♥附TOURIST SIM THB299訊息♥ - yam天空部落  <http://blog.yam.com/auroraberry/article/108332254>`_
 
 .. [11] `ais buy credit online - Google search <https://www.google.com/search?q=ais+buy+credit+online>`_
+.. [12] `[問題] 泰國要使用WIFI機還是當地買電話卡? - 看板 Thailand - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/M.1460091560.A.DB4.html>`_
 
 
 .. _AIS: http://www.ais.co.th/en/
