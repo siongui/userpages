@@ -16,6 +16,7 @@
   * 深圳
 
     - `[問題] 請幫我推薦深圳的集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464537850.A.224.html>`_
+    - `[問題] 懇請推薦深圳集貨商  - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465282817.A.78A.html>`_
     - 十二生肖集貨站
 
       * `[心得] 推薦集貨-深圳十二生肖集運站 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461553871.A.81D.html>`_
@@ -74,6 +75,7 @@
   * `[問題] 黑貓直送運費公告？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464795516.A.AA7.html>`_
   * `[問題] 淘寶集運 物品損壞處理 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464831810.A.482.html>`_
   * `[問題] 是否有可寄送到愛爾蘭的淘寶集貨？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464996432.A.B67.html>`_
+  * `[問題] 發貨時效正常嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465264904.A.613.html>`_
 
 
 - 虛假發貨
@@ -159,6 +161,8 @@
 - `[問題] 奇摩賣家擅自申請買家蝦皮帳號 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464753851.A.A73.html>`_
 - `[問題] 在MOMO購買手機不能退貨? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464796921.A.CDD.html>`_
 - `[問題] G市貨運選擇 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465014204.A.625.html>`_
+- `[閒聊] 新竹物流讓人有點傻眼 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465305513.A.837.html>`_
+- `[問題] 購買日本地上座椅五張要怎麼運來台比較好 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465313856.A.1F4.html>`_
 
 
 .. _淘寶: https://www.taobao.com/

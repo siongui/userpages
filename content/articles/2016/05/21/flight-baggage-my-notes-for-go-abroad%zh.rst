@@ -36,3 +36,5 @@
   * `蚊香 飛機 - Google search <https://www.google.com/search?q=%E8%9A%8A%E9%A6%99+%E9%A3%9B%E6%A9%9F>`_
 
     - `Re: [問題] 防蚊掛片 - 看板 Japan_Travel - 批踢踢實業坊 <https://www.ptt.cc/bbs/Japan_Travel/M.1463460899.A.758.html>`_
+
+  * `[問題] 分段機票的行李 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465276060.A.BF6.html>`_

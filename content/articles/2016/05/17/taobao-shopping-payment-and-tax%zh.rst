@@ -60,6 +60,7 @@
     - `[問題] 未實名收到退款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464703720.A.9D5.html>`_
     - `[問題] 淘寶退費問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464800082.A.D65.html>`_
     - `[問題] 淘寶退款問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465022820.A.16F.html>`_
+    - `[問題] 淘寶退款 問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465284121.A.D87.html>`_
 
   * `[問題] 淘寶使用轉帳付款的退款問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462264572.A.D67.html>`_
   * `[問題] 淘寶轉帳的匯率問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462633365.A.CD5.html>`_
@@ -80,6 +81,7 @@
   * `[問題] 淘寶付款問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465008160.A.5CD.html>`_
   * `[問題] 淘寶 賣方給我的評價 誰看得到? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465093623.A.CB9.html>`_
   * `[問題] 淘寶超商付款頁面跳轉成銀行卡認證 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465178549.A.E3C.html>`_
+  * `[問題] 今天買淘寶一直遇到的問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465224185.A.83B.html>`_
 
 - 課稅
 
@@ -119,6 +121,7 @@
 - `[問題] 德國亞馬遜購物問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463558372.A.1ED.html>`_
 - `[心得] 日本Amazon退貨心得 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463569697.A.475.html>`_
 - `[心得] 看到爛的DW40mm及36mm手錶及取消訂單過程 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464325456.A.F56.html>`_
+- `[問題] yahoo購物中心買貴退差價？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465298644.A.694.html>`_
 
 PayPal：
 
