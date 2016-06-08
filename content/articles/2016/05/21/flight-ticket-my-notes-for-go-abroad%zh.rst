@@ -46,5 +46,6 @@
     - `[問題] 機票名字的問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464184913.A.761.html>`_
     - `[問題] 華航姓名輸入空格了.... - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464258655.A.6C1.html>`_
     - `[問題] 達美航空（Delta)改期 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464388201.A.D99.html>`_
+    - `[問題] 請問訂機票後護照被要求重辦 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465393651.A.AE2.html>`_
 
 - `搭飛機 行李 托運 攜帶物品 <{filename}flight-baggage-my-notes-for-go-abroad%zh.rst>`_

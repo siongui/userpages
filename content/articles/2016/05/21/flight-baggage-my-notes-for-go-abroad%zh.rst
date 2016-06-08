@@ -38,3 +38,5 @@
     - `Re: [問題] 防蚊掛片 - 看板 Japan_Travel - 批踢踢實業坊 <https://www.ptt.cc/bbs/Japan_Travel/M.1463460899.A.758.html>`_
 
   * `[問題] 分段機票的行李 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465276060.A.BF6.html>`_
+  * `[問題] 行李公斤數的多寡 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465365514.A.F0C.html>`_
+  * `[問題] 台灣-香港-土耳其轉機問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465368900.A.F40.html>`_
