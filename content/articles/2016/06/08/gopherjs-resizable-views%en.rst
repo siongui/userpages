@@ -13,7 +13,7 @@ This is a re-write of AngularJS_ resizable views [2]_.
 .. rubric:: `Demo <https://siongui.github.io/gopherjs-resizable-views/>`_
    :class: align-center
 
-Real world application of tooltip is `Pāli Tipiṭaka`_.
+Real world application of resizable views is `Pāli Tipiṭaka`_.
 For source code and example of how to use, see [1]_.
 
 ----
