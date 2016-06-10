@@ -31,6 +31,11 @@
       * `台灣虎航．泰國曼谷．特惠票價．廉價航空專賣店 <http://www.ftour.com.tw/f-bkk-it.htm>`_
       * `酷鳥航空．泰國曼谷．特惠票價．廉價航空專賣店 <http://www.ftour.com.tw/f-bkk-xw.htm>`_
 
+    - `高雄 曼谷 - Google search <https://www.google.com/search?q=%E9%AB%98%E9%9B%84+%E6%9B%BC%E8%B0%B7>`_
+
+      * `[問題] 越南航空轉機河內或胡志明到曼谷 - 看板 Thailand - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/M.1465563770.A.723.html>`_
+      * `Re: [問題] 越南航空轉機河內或胡志明到曼谷 - 看板 Thailand - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/M.1465570729.A.6C8.html>`_
+
   * `Air Black Box (亞洲廉航聯盟) <http://www.airblackbox.com/>`_
   * `[情報] 真的可以省到錢的廉航專用的比價工具 - CPLife板 - Disp BBS <http://disp.cc/b/733-9odn>`_
   * `[心得] 廉價航空便宜機票必中攻略 - 看板 Lifeismoney - 批踢踢實業坊 <https://www.ptt.cc/bbs/Lifeismoney/M.1463822343.A.65F.html>`_
