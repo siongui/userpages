@@ -40,3 +40,4 @@
   * `[問題] 分段機票的行李 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465276060.A.BF6.html>`_
   * `[問題] 行李公斤數的多寡 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465365514.A.F0C.html>`_
   * `[問題] 台灣-香港-土耳其轉機問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465368900.A.F40.html>`_
+  * `thai lion air checked baggage allowance - Google search <https://www.google.com/search?q=thai+lion+air+checked+baggage+allowance>`_

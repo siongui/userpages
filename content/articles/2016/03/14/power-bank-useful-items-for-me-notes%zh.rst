@@ -61,3 +61,5 @@
   `鋰電池自燃危機！民航立新規定　「禁帶電動滑板車上飛機」 | 生活 | 三立新聞網  SETN.COM <http://www.setn.com/News.aspx?NewsID=116706>`_
 
   `[問題] 帶電池的設備能不能拖運？ - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1462765442.A.69B.html>`_
+
+  `Re: [新聞] 帶行動電源上飛機　這些你必須知道 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465427465.A.882.html>`_

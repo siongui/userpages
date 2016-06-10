@@ -178,6 +178,7 @@
 - `[心得] Hiti Pringo P232+相印機 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464510171.A.62E.html>`_
 - `[問題] 不鏽鋼或玻璃吸管? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464841210.A.49A.html>`_
 - `[問題] 強波器/延伸器 請益 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465034332.A.628.html>`_
+- `貨櫃屋 - Google search <https://www.google.com/search?q=%E8%B2%A8%E6%AB%83%E5%B1%8B>`_
 
 
 防盜背包

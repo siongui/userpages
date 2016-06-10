@@ -83,6 +83,7 @@ Sony Xperia Z C6602 L36h
   - `[問題] 充電器的問題 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465146312.A.CF3.html>`_
   - `Re: [閒聊] 不要用雜牌的充電線QQ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465142041.A.060.html>`_
   - `[問題] 手機充電到底可不可以使用？ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465309597.A.943.html>`_
+  - `[問題] 手機開分享時的充電方式 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465462104.A.850.html>`_
 
 * 無線充電
 
