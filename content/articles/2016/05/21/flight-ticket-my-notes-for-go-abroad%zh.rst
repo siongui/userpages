@@ -36,6 +36,8 @@
   * `[心得] 廉價航空便宜機票必中攻略 - 看板 Lifeismoney - 批踢踢實業坊 <https://www.ptt.cc/bbs/Lifeismoney/M.1463822343.A.65F.html>`_
   * `[新聞] 民眾貼文控酷航惡劣　酷航保留法律追訴權 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1464839939.A.994.html>`_
   * `[問題] 請問有人從高雄出發到澳門轉機飛曼谷的嗎 - 看板 Thailand - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/M.1460114764.A.D86.html>`_
+  * `[問題] 請問要怎麼查詢直飛班機和飛行時數? - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465555954.A.40C.html>`_
+  * `Google Flights <https://www.google.com/flights/>`_
 
   * 訂機票
 

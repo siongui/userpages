@@ -15,6 +15,7 @@
    :align: center
 
 - `[心得] 繽紛色圓形床頭收納櫃 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463934997.A.885.html>`_
+- `[心得] 浴室沐浴乳吸盤掛架大激賞 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465548978.A.279.html>`_
 
 收納
 ++++

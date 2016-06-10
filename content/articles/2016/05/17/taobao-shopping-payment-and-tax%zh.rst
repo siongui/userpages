@@ -62,6 +62,7 @@
     - `[問題] 淘寶退款問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465022820.A.16F.html>`_
     - `[問題] 淘寶退款 問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465284121.A.D87.html>`_
     - `[問題] 淘寶退款超時,沒有實名認證支付寶退款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465398928.A.FB1.html>`_
+    - `[問題] 淘寶實名制後退款相關問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465575362.A.58F.html>`_
 
   * `[問題] 淘寶使用轉帳付款的退款問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462264572.A.D67.html>`_
   * `[問題] 淘寶轉帳的匯率問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462633365.A.CD5.html>`_
@@ -101,6 +102,8 @@
   * `[心得] Dw藍指針 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464279510.A.63F.html>`_
   * `[心得] 這裡有一批好便宜的DW啊 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464940527.A.2CB.html>`_
   * `[閒聊] 期末考壓力大大家買了什麼 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465179883.A.F80.html>`_
+  * `[問題] 淘寶支付方式（使用紅包） - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465482324.A.347.html>`_
+  * `[問題] 阿里旺旺無法登入 收不到認證簡訊？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465563561.A.681.html>`_
 
 - 玉山銀行
 
@@ -109,6 +112,7 @@
   * `電子支付(第三方支付) - 銷售收款 - 電子商務 - 數位金融 - 玉山銀行 <https://www.esunbank.com.tw/bank/digital/ecommerce/epayment/thrid-party-payment>`_
   * `【玉山銀行】第三方支付服務 <http://www.esunbank.com.tw/event/esunpay/Acct-link/QA.html?cp=Acct-link&seg=&ch=Internal&ven=tppay&ctype=B&pt=b&obj=Acct-link>`_
   * `臥龍小三 on Twitter: "有人說郵局 ATM 已支援 Linux 平台，不過，我都沒試成功。有成功的朋友，可以告知一下喔。至於玉山銀行，我剛剛在 OB2D  Linux 上倒是一試就 OK，但須用 Firefox + ATM xpi + pcscd。" <https://twitter.com/ols3/status/635025153945001984>`_
+  * `[問題] 玉山電子支付手機收不到認證的簡訊 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465570441.A.A4C.html>`_
 
 ----
 
@@ -123,6 +127,7 @@
 - `[心得] 日本Amazon退貨心得 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463569697.A.475.html>`_
 - `[心得] 看到爛的DW40mm及36mm手錶及取消訂單過程 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464325456.A.F56.html>`_
 - `[問題] yahoo購物中心買貴退差價？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465298644.A.694.html>`_
+- `[問題] 郵局visa卡線上買國外網站帳單地址 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465564996.A.01A.html>`_
 
 PayPal：
 

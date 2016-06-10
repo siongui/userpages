@@ -70,6 +70,7 @@ Sony Xperia Z C6602 L36h
 * `[問題] 請問最便宜智慧型手機?(賠給別人的) - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1464773359.A.8E9.html>`_
 * `[問題] 推薦5~7千左右的手機 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1464687800.A.DEE.html>`_
 * `[討論] 不要用手機電風扇 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465148375.A.70D.html>`_
+* `[閒聊] 大家的備用機都挑什麼手機呢？ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465560935.A.75E.html>`_
 
 * 變壓器
 

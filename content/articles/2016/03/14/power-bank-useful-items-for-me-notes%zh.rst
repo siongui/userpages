@@ -62,4 +62,8 @@
 
   `[問題] 帶電池的設備能不能拖運？ - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1462765442.A.69B.html>`_
 
-  `Re: [新聞] 帶行動電源上飛機　這些你必須知道 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465427465.A.882.html>`_
+  `Re: [新聞] 帶行動電源上飛機　這些你必須知道 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465427465.A.882.html>`__
+
+  `Re: [新聞] 帶行動電源上飛機　這些你必須知道 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465439059.A.F85.html>`__
+
+- `[閒聊] 有人用行動電源充電池嗎？ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465539111.A.E62.html>`_
