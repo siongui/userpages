@@ -50,6 +50,7 @@
     - `[問題] 淘寶賣家直接寄到7-11的地址 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463833169.A.A20.html>`_
     - `[問題] 淘寶購買7-11取貨問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464352446.A.D5F.html>`_
     - `[問題] 統一超商取貨 不正常到貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465445854.A.EF6.html>`_
+    - `[問題] 淘寶超商取貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465625496.A.A73.html>`_
 
   * `首页-平安国际集运中心-淘宝网 <https://shop103024137.taobao.com/>`_
   * `[問題] 鴻途集貨（小濤）攬件問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461990558.A.B79.html>`_
@@ -88,6 +89,7 @@
   * `[問題] 淘寶貨遺失了怎麼辦 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465390083.A.CA1.html>`_
   * `[問題] 淘寶直寄問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465399579.A.9CD.html>`_
   * `[問題] 淘寶顯示：本人簽收？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465480524.A.0F3.html>`_
+  * `[問題] 請問「正常查驗導致延遲」是？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465637990.A.3C1.html>`_
 
 
 - `淘寶 台灣直送 - Google search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E5%8F%B0%E7%81%A3%E7%9B%B4%E9%80%81>`_
@@ -126,6 +128,7 @@
     (`Google cache <https://webcache.googleusercontent.com/search?q=cache:ZeJL_IUOqGkJ:https://www.ptt.cc/bbs/e-shopping/M.1464576051.A.961.html>`__)
   * `[問題] 淘寶無法集運的解決方法 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465060710.A.B2E.html>`_
   * `[問題] 淘寶購物問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465488378.A.C58.html>`_
+  * `[問題] 隨身碟是普貨還是特貨？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465616408.A.AB8.html>`_
 
 
 - `淘寶 泰國 集運 - Google Search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E6%B3%B0%E5%9C%8B+%E9%9B%86%E9%81%8B>`_

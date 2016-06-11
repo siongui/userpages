@@ -13,6 +13,7 @@
 - `英伦三折叠男女士大号黑胶商务伞晴雨伞防风遮阳伞防紫外线太阳伞 <https://item.taobao.com/item.htm?id=523753609122>`_
 
 - `英伦创意折叠男女商务伞超大晴雨伞防风遮阳伞情侣防紫外线太阳伞 <https://item.taobao.com/item.htm?id=39441854288>`_
+- `[心得] 第三代C型可站立反向傘災況 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465625906.A.0BB.html>`_
 
 雨傘
 ++++

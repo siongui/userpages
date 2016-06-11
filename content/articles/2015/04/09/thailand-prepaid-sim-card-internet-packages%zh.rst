@@ -134,6 +134,8 @@ TrueMoveH_ 數據套餐
 - `[問題] 泰國要使用WIFI機還是當地買電話卡? - 看板 Thailand - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/M.1460091560.A.DB4.html>`_
 - `Re: [情報] TRUE 每日9元的超便宜上網 - 看板 Thailand - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/M.1465534012.A.D10.html>`_
 - `[問題] 曼谷、芭達雅旅遊 電信商選擇 - 看板 Thailand - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/M.1465562410.A.209.html>`_
+- `ais *777*984# monthly - Google search <https://www.google.com/search?q=ais+*777*984%23+monthly>`_
+- `ais *777*731# unlimited - Google search <https://www.google.com/search?q=ais+*777*731%23+unlimited>`_
 
 
 .. _AIS: http://www.ais.co.th/en/

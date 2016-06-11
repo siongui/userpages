@@ -48,6 +48,8 @@
 
   `[問題] 行動電源內建傳輸線 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463460013.A.536.html>`_
 
+  `小米 行動電源 壽命 - Google search <https://www.google.com/search?q=%E5%B0%8F%E7%B1%B3+%E8%A1%8C%E5%8B%95%E9%9B%BB%E6%BA%90+%E5%A3%BD%E5%91%BD>`_
+
 - `【有片】帶行動電源上飛機　這些你必須知道 | 即時新聞 | 20160507 | 蘋果日報 <http://www.appledaily.com.tw/realtimenews/article/new/20160507/855486/>`_
 
   `行動電源自燃　標檢局：勿與鑰匙等金屬物同放 | 即時新聞 | 20160507 | 蘋果日報 <http://www.appledaily.com.tw/realtimenews/article/new/20160507/855487/>`_
