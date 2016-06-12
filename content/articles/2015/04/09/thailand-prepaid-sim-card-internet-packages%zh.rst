@@ -136,6 +136,9 @@ TrueMoveH_ 數據套餐
 - `[問題] 曼谷、芭達雅旅遊 電信商選擇 - 看板 Thailand - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/M.1465562410.A.209.html>`_
 - `ais *777*984# monthly - Google search <https://www.google.com/search?q=ais+*777*984%23+monthly>`_
 - `ais *777*731# unlimited - Google search <https://www.google.com/search?q=ais+*777*731%23+unlimited>`_
+- `泰國 手機互打 費率 - Google search <https://www.google.com/search?q=%E6%B3%B0%E5%9C%8B+%E6%89%8B%E6%A9%9F%E4%BA%92%E6%89%93+%E8%B2%BB%E7%8E%87>`_
+- | `ais international call - Google search <https://www.google.com/search?q=ais+international+call>`_
+  | `Make inexpensive high quality International Calls - AIS 00500 (EN) <http://www.ais.co.th/00500/en/>`_
 
 
 .. _AIS: http://www.ais.co.th/en/

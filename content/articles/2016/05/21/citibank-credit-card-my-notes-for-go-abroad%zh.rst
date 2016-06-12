@@ -31,5 +31,6 @@
   |   	2) 可以解決您在國外無法收到簡訊動態密碼 或 收到亂碼簡訊的問題。
 
 * `[問題] 金融卡問題 - 看板 Thailand - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/M.1462364910.A.B15.html>`_
+* `[心得] 刷卡一直中DCC........ - 看板 Thailand - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/M.1465711596.A.C85.html>`_
 
 .. _花旗銀行24小時電話理財服務: https://www.citibank.com.tw/TWGCB/APPS/portal/loadPage.do?path=/global_htm/info/promt_tfc.htm&tabId=Home

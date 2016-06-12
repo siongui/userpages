@@ -69,3 +69,5 @@
   `Re: [新聞] 帶行動電源上飛機　這些你必須知道 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465439059.A.F85.html>`__
 
 - `[閒聊] 有人用行動電源充電池嗎？ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465539111.A.E62.html>`_
+- | `[問題] 行動電源被螞蟻攻佔 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465706974.A.6A8.html>`_
+  | `Re: [問題] 行動電源被螞蟻攻佔 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465708638.A.E76.html>`_

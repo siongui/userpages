@@ -56,6 +56,7 @@
 
   * `[心得] 集貨推薦-上海樂送國際速遞 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462801418.A.3DE.html>`_
   * `[問題] 上海樂送今發大後至？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463287523.A.7CD.html>`_
+  * `[心得] 推薦集貨-上海樂送國際速遞 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465737299.A.2F0.html>`_
 
 - `[心得] 推薦 上海東龍之我眼角怎麼濕濕的 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461091635.A.0A5.html>`_
 - `[心得] 真正今發明至推薦-上海永誠集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462886717.A.4A3.html>`_
