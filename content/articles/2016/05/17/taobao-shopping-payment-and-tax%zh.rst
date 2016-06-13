@@ -42,6 +42,7 @@
     - `Re: [情報] 支付寶解禁了 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464631762.A.1FC.html>`__
     - `Re: [情報] 支付寶解禁了 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464678262.A.396.html>`__
     - `[問題] 支付寶密碼問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464951362.A.344.html>`_
+    - `[問題] 淘寶支付寶結帳問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465753118.A.B54.html>`_
 
   * 刷卡
 

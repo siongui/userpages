@@ -92,6 +92,7 @@
   * `[問題] 淘寶顯示：本人簽收？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465480524.A.0F3.html>`_
   * `[問題] 請問「正常查驗導致延遲」是？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465637990.A.3C1.html>`_
   * `[問題] 淘寶賣家訂單編號打錯 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465672341.A.03B.html>`_
+  * `[問題] 端午前發的貨還未收到? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465796056.A.645.html>`_
 
 
 - `淘寶 台灣直送 - Google search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E5%8F%B0%E7%81%A3%E7%9B%B4%E9%80%81>`_
@@ -162,6 +163,11 @@
   * `閒聊與趣味 - 非淘寶網官方集貨商應否買保險和關稅呢? - 生活討論區 - Mobile01 <http://www.mobile01.com/topicdetail.php?f=37&t=3992551>`_
   * `[淘寶系列]進入淘寶前要有的概念Ⅱ之一-運送篇外一章 @ 妖貓 :: 痞客邦 PIXNET :: <http://savageboss.pixnet.net/blog/post/33043120-%5B%E6%B7%98%E5%AF%B6%E7%B3%BB%E5%88%97%5D%E9%80%B2%E5%85%A5%E6%B7%98%E5%AF%B6%E5%89%8D%E8%A6%81%E6%9C%89%E7%9A%84%E6%A6%82%E5%BF%B5%E2%85%A1%E4%B9%8B%E4%B8%80-%E9%81%8B%E9%80%81>`_
   * `ezShip - 台灣便利配 <http://www.ezship.com.tw/setting/buyer_shipstatus_button.jsp?su_id=amazing-miracle@hotmail.com&style_kindsof_no=601&menulist_enable=Y>`_
+
+
+- 糾紛
+
+  * `[抱怨] 淘寶賣家叫我注意網路上的言論 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465819212.A.F24.html>`_
 
 
 ----
