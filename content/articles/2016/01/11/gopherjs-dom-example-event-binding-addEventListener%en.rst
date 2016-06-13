@@ -56,6 +56,7 @@ becomes ``I am Clicked`` and the message
 
 .. .. show_github_file:: siongui userpages content/code/gopherjs-dom/Makefile
 
+**See Also** `[GopherJS] Register Event Handler (Event Binding) <{filename}../../06/07/gopherjs-register-event-handler-event-binding%en.rst>`_
 
 ----
 

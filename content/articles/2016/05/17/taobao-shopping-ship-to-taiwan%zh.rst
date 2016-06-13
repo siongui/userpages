@@ -26,6 +26,7 @@
     - `[心得] 旅途國際集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461823778.A.63E.html>`_
     - `[心得] 淘寶靜音原木掛鐘 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464093170.A.6B3.html>`_
     - `[心得] 集貨推薦-China鏢局 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465649974.A.C62.html>`_
+    - `[心得] 佳捷物流-廣東集貨 有夠關心我的 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465847824.A.68C.html>`_
 
   * 拒收
 

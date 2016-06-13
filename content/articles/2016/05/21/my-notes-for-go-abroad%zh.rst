@@ -58,6 +58,6 @@
   * `Re: [問題] line帳號取不回來了... - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463523960.A.B35.html>`__
   * `[問題] line第二階段認證沒有設 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463536926.A.9D8.html>`_
   * `[心得] line的二階段認證崩潰 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463591616.A.4C8.html>`_
+  * `[問題] Line影片‘儲存效期限已過，此效期多久？ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465835500.A.F52.html>`_
 
 - `花旗信用卡 <{filename}citibank-credit-card-my-notes-for-go-abroad%zh.rst>`_
-

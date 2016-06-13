@@ -73,6 +73,10 @@ Sony Xperia Z C6602 L36h
 * `[閒聊] 大家的備用機都挑什麼手機呢？ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465560935.A.75E.html>`_
 * `[問題] 該用手機還是分享器分享網路 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465654757.A.100.html>`_
 
+* 手機擋廣告
+
+  - `[問題] 擋廣告軟體？ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465835799.A.CD4.html>`_
+
 * 變壓器
 
   - `[問題] 中國變壓器問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463714039.A.4AE.html>`_
@@ -87,6 +91,7 @@ Sony Xperia Z C6602 L36h
   - `[問題] 手機充電到底可不可以使用？ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465309597.A.943.html>`_
   - `[問題] 手機開分享時的充電方式 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465462104.A.850.html>`_
   - `[新聞] 他睡覺時充電　手機自燃差點把房子燒了 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465642880.A.A95.html>`_
+  - `[問題] L型充電線推薦 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465824032.A.6C2.html>`_
 
 * 無線充電
 

@@ -42,3 +42,5 @@
   * `[問題] 台灣-香港-土耳其轉機問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465368900.A.F40.html>`_
   * `thai lion air checked baggage allowance - Google search <https://www.google.com/search?q=thai+lion+air+checked+baggage+allowance>`_
   * `[問題] 酷航 的行李問題 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465483543.A.40B.html>`_
+  * `[問題] 機票分開買的行李與通知後段航空公司？ - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465791174.A.C72.html>`_
+  * `[問題] 幫忙搬行李 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465807503.A.BCB.html>`_
