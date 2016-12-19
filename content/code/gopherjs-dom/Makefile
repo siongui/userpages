@@ -48,3 +48,16 @@ clean:
 	-rm -rf src/golang.org
 	-rm -rf src/gopkg.in
 	-rm -rf src/honnef.co
+
+DEMO_DIR=src/focus-blur
+
+fmt:
+	@echo "\033[92mGo fmt source code...\033[0m"
+	go fmt server.go
+	go fmt src/focus-blur/*.go
+
+devserver:
+	@echo "\033[92mGenerating JavaScript ...\033[0m"
+	gopherjs build $(DEMO_DIR)/*.go -m -o $(DEMO_DIR)/app.js
+	@echo "\033[92mDevelopment Server Running ...\033[0m"
+	@go run server.go -dir=$(DEMO_DIR)/

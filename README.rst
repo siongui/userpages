@@ -10,7 +10,7 @@ How to Develope
 
 Development Tool: `pelican <http://blog.getpelican.com/>`_ (static site generator written in Python)
 
-Development Environment: `Ubuntu 15.10 <http://releases.ubuntu.com/15.10/>`_
+Development Environment: `Ubuntu 16.04 <http://releases.ubuntu.com/16.04/>`_
 
 
 First-time Setup
@@ -31,6 +31,8 @@ First-time Setup
     $ mkdir dev
     $ cd ~/dev/
     $ git clone https://github.com/siongui/userpages.git
+    # or
+    $ git clone https://github.com/siongui/userpages.git --depth=1
 
 3. Install Python tools:
 
