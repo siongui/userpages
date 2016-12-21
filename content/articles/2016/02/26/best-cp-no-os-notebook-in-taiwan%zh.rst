@@ -2,6 +2,7 @@
 ####################################
 
 :date: 2016-02-26 16:02
+:modified: 2016-12-21T09:15+08:00
 :tags: 3C
 :category: 3C
 :summary: 網路上台灣最佳CP值無作業系統(OS)筆記型電腦(截至2016/02/26)
@@ -19,6 +20,13 @@
 
 - `Kingston 8GB DDR3 1600 LENOVO專用筆記型記憶體(低電壓1.35V)(KTL-TP3CL/8GFR) <http://24h.pchome.com.tw/prod/DRAL14-A83053519>`_
 - `OCZ Trion 100 系列 2.5吋 SSD 240G 固態硬碟 <http://24h.pchome.com.tw/prod/DRAH27-A9006A6WG>`_
+
+
+----
+
+進BIOS: Fn+F2
+
+選擇開機來源: Fn+F10
 
 ----
 
