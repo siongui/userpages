@@ -63,4 +63,7 @@ References:
 
 .. [2] `Go by Example: Command-Line Flags <https://gobyexample.com/command-line-flags>`_
 
+.. [3] `[Golang] Parse Command Line Arguments - String Variable <{filename}../../../2016/12/21/go-parse-commandline-arguments-string-variable%en.rst>`_
+
+
 .. _Go: https://golang.org/
