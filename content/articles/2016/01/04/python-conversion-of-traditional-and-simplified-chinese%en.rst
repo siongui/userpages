@@ -2,7 +2,8 @@
 #########################################################
 
 :date: 2016-01-04T00:49+08:00
-:tags: Python, String Manipulation, Conversion of Traditional and Simplified Chinese
+:tags: Python, String Manipulation, OpenCC,
+       Conversion of Traditional and Simplified Chinese
 :category: Python
 :summary: Conversion of Traditional and Simplified Chinese by OpenCC_ and
           Python_ programming language.

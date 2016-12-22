@@ -3,7 +3,7 @@
 
 :date: 2016-03-05T21:14+08:00
 :tags: Go, Golang, String Manipulation, i18n, Locale, gettext,
-       Conversion of Traditional and Simplified Chinese
+       Conversion of Traditional and Simplified Chinese, OpenCC
 :category: Go
 :summary: Automatically convert `Traditional Chinese`_ (`zh_TW`_) PO_ file to
           `Simplified Chinese`_ (`zh_CN`_) by OpenCC_ and Go_ programming

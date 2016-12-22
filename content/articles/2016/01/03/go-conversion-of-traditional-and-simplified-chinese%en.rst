@@ -2,7 +2,8 @@
 #########################################################
 
 :date: 2016-01-03T01:22+08:00
-:tags: Go, Golang, String Manipulation, Conversion of Traditional and Simplified Chinese
+:tags: Go, Golang, String Manipulation, OpenCC,
+       Conversion of Traditional and Simplified Chinese
 :category: Go
 :summary: Conversion of Traditional and Simplified Chinese by OpenCC_ and Go_
           programming language.

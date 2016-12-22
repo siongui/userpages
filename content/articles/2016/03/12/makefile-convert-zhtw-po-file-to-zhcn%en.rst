@@ -3,7 +3,7 @@
 
 :date: 2016-03-12T21:24+08:00
 :tags: Bash, Makefile, Commandline, sed, String Manipulation, i18n, Locale,
-       gettext, Conversion of Traditional and Simplified Chinese
+       gettext, Conversion of Traditional and Simplified Chinese, OpenCC
 :category: Bash
 :summary: Convert Traditional Chinese PO file to Simplified Chinese via OpenCC_
           and sed_ in Makefile_.
