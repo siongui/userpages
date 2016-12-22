@@ -37,6 +37,12 @@
   * BIOS裡選legacy,不選UEFI
   * 安裝時問是否使用UEFI,選擇Go back(不要用UEFI)
 
+- 更新系統 [1]_
+
+  .. code-block:: bash
+
+    $ sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade
+
 - `git autocomplete <https://www.google.com/search?q=git+autocomplete>`_
 
   .. code-block:: bash
@@ -81,6 +87,26 @@
 
     $ sudo cp -r src dst
     $ sudo chown -R usr:grp *
+
+
+----
+
+參考：
+
+.. [1] `update ubuntu system command line - Google search <https://www.google.com/search?q=update+ubuntu+system+command+line>`_
+
+       `update ubuntu system command line - DuckDuckGo search <https://duckduckgo.com/?q=update+ubuntu+system+command+line>`_
+
+       `update ubuntu system command line - Bing search <https://www.bing.com/search?q=update+ubuntu+system+command+line>`_
+
+       `update ubuntu system command line - Yahoo search <https://search.yahoo.com/search?p=update+ubuntu+system+command+line>`_
+
+       `update ubuntu system command line - Baidu search <https://www.baidu.com/s?wd=update+ubuntu+system+command+line>`_
+
+       `update ubuntu system command line - Yandex search <https://www.yandex.com/search/?text=update+ubuntu+system+command+line>`_
+
+       `command line - Update the system from terminal - Ask Ubuntu <http://askubuntu.com/questions/462449/update-the-system-from-terminal>`_
+
 
 
 .. _Vim: http://www.vim.org/

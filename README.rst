@@ -8,15 +8,15 @@ How to Develope
 .. See how to add travis ci image from https://raw.githubusercontent.com/demizer/go-rst/master/README.rst
    https://github.com/demizer/go-rst/commit/9651ab7b5acc997ea2751845af9f2d6efee825df
 
-Development Tool: `pelican <http://blog.getpelican.com/>`_ (static site generator written in Python)
+Development Tool: Pelican_ (static site generator written in Python)
 
-Development Environment: `Ubuntu 16.04 <http://releases.ubuntu.com/16.04/>`_
+Development Environment: `Ubuntu 16.10`_
 
 
 First-time Setup
 ----------------
 
-1. Install `git <http://git-scm.com/>`_ and `pip <https://pypi.python.org/pypi/pip>`_:
+1. Install git_ and pip_:
 
 .. code-block:: bash
 
@@ -30,9 +30,9 @@ First-time Setup
     $ cd
     $ mkdir dev
     $ cd ~/dev/
-    $ git clone https://github.com/siongui/userpages.git
-    # or
     $ git clone https://github.com/siongui/userpages.git --depth=1
+    # or clone with full depth
+    #$ git clone https://github.com/siongui/userpages.git
 
 3. Install Python tools:
 
@@ -41,7 +41,7 @@ First-time Setup
     $ cd ~/dev/userpages/
     $ sudo pip install -r requirements.txt
 
-4. Install pelican `i18n_subsites <https://github.com/getpelican/pelican-plugins/tree/master/i18n_subsites>`_ plugin and download `normalize.css <http://necolas.github.io/normalize.css/>`_:
+4. Install pelican `i18n_subsites`_ plugin and download `normalize.css`_:
 
 .. code-block:: bash
 
@@ -82,7 +82,7 @@ UNLICENSE
 ---------
 
 All works, including posts and code, of Siong-Ui Te are released in public domain.
-Please see `UNLICENSE <http://unlicense.org/>`_.
+Please see UNLICENSE_.
 
 
 References
@@ -149,3 +149,13 @@ Image Hover:
 `Chorme 35个开发者工具的小技巧 - WEB前端 - 伯乐在线 <http://web.jobbole.com/84913/>`_
 
 `HTML head 头标签 - WEB前端 - 伯乐在线 <http://web.jobbole.com/85173/>`_
+
+
+
+.. _Pelican: http://getpelican.com/
+.. _Ubuntu 16.10: http://releases.ubuntu.com/16.10/
+.. _git: https://git-scm.com/
+.. _pip: https://pypi.python.org/pypi/pip
+.. _i18n_subsites: https://github.com/getpelican/pelican-plugins/tree/master/i18n_subsites
+.. _normalize.css: https://necolas.github.io/normalize.css/
+.. _UNLICENSE: https://unlicense.org/
