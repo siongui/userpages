@@ -2,7 +2,7 @@
 ###################################################
 
 :date: 2016-01-06T02:03+08:00
-:tags: Python, Web Scrape, JavaScript
+:tags: Python, Web Scrape, JavaScript, apt command
 :category: Python
 :summary: `Web scrape`_ JavaScript rendered webpages by dryscrape_, a
           lightweight web scraping library for Python_.

@@ -19,7 +19,7 @@
 
 Source code:
 
-.. show_github_file:: siongui userpages content/code/make-replace-string/Makefile
+.. show_github_file:: siongui userpages content/code/make/replace-string/Makefile
 
 Output:
 

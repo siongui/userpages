@@ -3,7 +3,7 @@ Run wkhtmltopdf With Chinese Font Support on Travis CI
 
 :date: 2016-05-18T04:55+08:00
 :tags: Bash, Commandline, find command, List Files in Directory, wkhtmltopdf,
-       Continuous Integration, Ubuntu Linux
+       Continuous Integration, Ubuntu Linux, apt command
 :category: Bash
 :summary: Run wkhtmltopdf_ on `Travis CI`_, which convert HTML_ files with
           chinese characters to PDF_.

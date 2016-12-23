@@ -2,7 +2,8 @@ Build Issue of OpenCC Go binding on Ubuntu Linux 16.10
 ######################################################
 
 :date: 2016-12-22T23:07+08:00
-:tags: Go, Golang, Conversion of Traditional and Simplified Chinese, OpenCC
+:tags: Go, Golang, Conversion of Traditional and Simplified Chinese, OpenCC,
+       apt command
 :category: Go
 :summary: Fail to build OpenCC_ Go_ binding on `Ubuntu Linux 16.10`_, and how I
           fix it.

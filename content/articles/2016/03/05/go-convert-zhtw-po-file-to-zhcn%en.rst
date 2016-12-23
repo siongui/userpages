@@ -2,7 +2,7 @@
 ##################################################################
 
 :date: 2016-03-05T21:14+08:00
-:tags: Go, Golang, String Manipulation, i18n, Locale, gettext,
+:tags: Go, Golang, String Manipulation, i18n, Locale, gettext, apt command,
        Conversion of Traditional and Simplified Chinese, OpenCC
 :category: Go
 :summary: Automatically convert `Traditional Chinese`_ (`zh_TW`_) PO_ file to

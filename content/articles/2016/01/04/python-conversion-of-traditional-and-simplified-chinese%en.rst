@@ -2,7 +2,7 @@
 #########################################################
 
 :date: 2016-01-04T00:49+08:00
-:tags: Python, String Manipulation, OpenCC,
+:tags: Python, String Manipulation, OpenCC, apt command,
        Conversion of Traditional and Simplified Chinese
 :category: Python
 :summary: Conversion of Traditional and Simplified Chinese by OpenCC_ and

@@ -2,7 +2,7 @@
 ####################################
 
 :date: 2016-02-22T07:07+08:00
-:tags: Bash, Commandline, Ubuntu Linux
+:tags: Bash, Commandline, Ubuntu Linux, apt command
 :category: Bash
 :summary: Write a bash_ script to convert wav to mp3 via ffmpeg_ on Ubuntu Linux
           15.10.
