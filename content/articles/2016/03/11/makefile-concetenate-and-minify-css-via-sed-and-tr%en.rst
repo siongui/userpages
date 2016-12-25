@@ -4,7 +4,7 @@
 :date: 2016-03-11T04:52+08:00
 :tags: Bash, Makefile, Commandline, sed, tr command, String Manipulation,
        Regular Expression, remove trailing newline, remove carriage return,
-       Minify HTML/CSS/JavaScript
+       Minify HTML/CSS/JavaScript, cat command
 :category: Bash
 :summary: Concatenate and Minify CSS via sed_ and tr_ command in Makefile_.
 

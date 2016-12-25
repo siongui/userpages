@@ -2,7 +2,7 @@
 ##############################################
 
 :date: 2016-04-30T22:50+08:00
-:tags: Amazon Web Services (AWS), Bash, Ubuntu Linux, Commandline
+:tags: Amazon Web Services (AWS), Bash, Ubuntu Linux, Commandline, cat command
 :category: Amazon Web Services (AWS)
 :summary: Create or migrate user account with SSH_ login only (no password
           login) on AWS_ EC2_ t2.nano_ with `Ubuntu 14.04 LTS`_.
