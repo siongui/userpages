@@ -2,6 +2,7 @@
 ########################
 
 :date: 2016-05-17T04:25+08:00
+:modified: 2016-12-26T22:27+08:00
 :tags: 淘寶
 :category: 淘寶
 :summary: `淘寶`_/`天貓`_ 付款及課稅攻略
@@ -88,6 +89,8 @@
 
 - 課稅
 
+  `集貨 稅 e-shopping site:ptt.cc - Google search <https://www.google.com/search?q=%E9%9B%86%E8%B2%A8+%E7%A8%85+e-shopping+site:ptt.cc>`_
+
   * `[問題] 國外網購金額 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462046979.A.432.html>`_
   * `Re: [問題] 淘寶退貨課稅問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462255498.A.170.html>`_
   * `淘寶購物-到底怎樣才不會被課稅 2016？？ | 淘。好。買 <http://www.peachbuy.tw/2015/10/blog-post_57.html>`_
@@ -105,6 +108,17 @@
   * `[閒聊] 期末考壓力大大家買了什麼 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465179883.A.F80.html>`_
   * `[問題] 淘寶支付方式（使用紅包） - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465482324.A.347.html>`_
   * `[問題] 阿里旺旺無法登入 收不到認證簡訊？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465563561.A.681.html>`_
+  * `[問題] 集貨包稅的意義 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1478440992.A.4F2.html>`_
+  * `[問題] 淘寶集貨包稅空運還要再額外付稅金嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1476976464.A.139.html>`_
+  * `[情報] 快遞包裹次數頻繁 3000元以下要課稅 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1477021702.A.62F.html>`_
+  * `Re: [情報] 快遞包裹次數頻繁 3000元以下要課稅 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1477237368.A.C51.html>`__
+  * `Re: [情報] 快遞包裹次數頻繁 3000元以下要課稅 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1477207626.A.08C.html>`__
+  * `[問題] 一路發包稅問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1478686451.A.96A.html>`_
+  * `Re: [問題] 淘寶到台灣報關費等於課稅嗎-商檢品 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1471058670.A.244.html>`_
+  * `[問題] 淘寶購買三千以上課稅問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1478835516.A.DD8.html>`_
+  * `[閒聊] 有人海外網購被徵稅了嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1481871140.A.3BB.html>`_
+  * `[新聞] 海外網購 免稅額降至2,000元 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1472625120.A.3EF.html>`_
+  * `[問題] 集運說要課稅但不了了之 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1475842681.A.4F1.html>`_
 
 - 玉山銀行
 
