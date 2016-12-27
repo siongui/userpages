@@ -5,6 +5,8 @@ export GOROOT=$(realpath ../../../../go)
 export GOPATH=$(realpath .)
 export PATH := $(GOROOT)/bin:$(GOPATH)/bin:$(PATH)
 
+DEMO_DIR=src/mouseenter-mouseleave
+new_default: fmt devserver
 GO_PKG_DIR=keyevent
 
 
@@ -49,15 +51,13 @@ clean:
 	-rm -rf src/gopkg.in
 	-rm -rf src/honnef.co
 
-DEMO_DIR=src/focus-blur
-
 fmt:
 	@echo "\033[92mGo fmt source code...\033[0m"
-	go fmt server.go
-	go fmt src/focus-blur/*.go
+	@go fmt server.go
+	@go fmt $(DEMO_DIR)/*.go
 
 devserver:
 	@echo "\033[92mGenerating JavaScript ...\033[0m"
-	gopherjs build $(DEMO_DIR)/*.go -m -o $(DEMO_DIR)/app.js
+	@gopherjs build $(DEMO_DIR)/*.go -m -o $(DEMO_DIR)/app.js
 	@echo "\033[92mDevelopment Server Running ...\033[0m"
 	@go run server.go -dir=$(DEMO_DIR)/
