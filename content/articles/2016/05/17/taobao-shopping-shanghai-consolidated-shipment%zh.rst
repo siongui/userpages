@@ -2,7 +2,7 @@
 ########################
 
 :date: 2016-05-17T03:57+08:00
-:modified: 2016-12-26T22:13+08:00
+:modified: 2016-12-29T01:00+08:00
 :tags: 淘寶
 :category: 淘寶
 :summary: `淘寶`_/`天貓`_ 購物，上海集貨商
@@ -45,6 +45,7 @@
   * `[心得] 捷達貨運台灣專線 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1460914592.A.F2A.html>`__
   * `[心得] 捷達貨運台灣專線 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462878846.A.CE1.html>`__
   * `[閒聊]跟上海捷達員工閒聊 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482656962.A.5F8.html>`_
+  * `[問題] 請問有人使用捷達集貨且還沒收到嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482838861.A.4AD.html>`_
 
 - 捷通
 
@@ -108,6 +109,7 @@
 - `[心得] 極推貼心 上海神州國際快遞 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464487498.A.FCE.html>`_
 - `[抱怨] 請勿使用上海佳速 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464587420.A.65F.html>`_
 - `[心得] 推薦順達集貨-9元活動 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464928335.A.4B5.html>`_
+- `[抱怨] 淘寶官方集運圓通國際轉運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482756817.A.A64.html>`_
 
 
 .. _淘寶: https://www.taobao.com/

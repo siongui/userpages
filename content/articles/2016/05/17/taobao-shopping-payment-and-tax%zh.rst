@@ -2,7 +2,7 @@
 ########################
 
 :date: 2016-05-17T04:25+08:00
-:modified: 2016-12-26T22:27+08:00
+:modified: 2016-12-29T01:00+08:00
 :tags: 淘寶
 :category: 淘寶
 :summary: `淘寶`_/`天貓`_ 付款及課稅攻略
@@ -119,6 +119,7 @@
   * `[閒聊] 有人海外網購被徵稅了嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1481871140.A.3BB.html>`_
   * `[新聞] 海外網購 免稅額降至2,000元 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1472625120.A.3EF.html>`_
   * `[問題] 集運說要課稅但不了了之 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1475842681.A.4F1.html>`_
+  * `[問題] 淘寶報關金額 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1473870668.A.608.html>`_
 
 - 玉山銀行
 

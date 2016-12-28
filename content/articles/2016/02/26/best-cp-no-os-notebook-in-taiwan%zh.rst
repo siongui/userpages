@@ -32,6 +32,13 @@
 
 Linux作業系統wifi斷線問題：
 
+- `rtl8821ae ubuntu - Google search <https://www.google.com/search?q=rtl8821ae+ubuntu>`_
+
+  `RTL8821AE wifi drivers in Ubuntu 16.04 – elMaxx! – Medium <https://medium.com/@elmaxx/rtl8821ae-wifi-drivers-in-ubuntu-16-04-4c1286524afa>`_
+
+  `networking - Wireless disconnect issues Ubuntu 16.04 with RTL8821ae - Ask Ubuntu <http://askubuntu.com/questions/797213/wireless-disconnect-issues-ubuntu-16-04-with-rtl8821ae>`_
+
+  `Issues · lwfinger/rtlwifi_new · GitHub <https://github.com/lwfinger/rtlwifi_new/issues>`_
 - `ideapad 300 linux wifi - Google search <https://www.google.com/search?q=ideapad+300+linux+wifi>`_
 - `linux check wifi driver - Google search <https://www.google.com/search?q=linux+check+wifi+driver>`_
 - `rtl8821ae linux driver - Google search <https://www.google.com/search?q=rtl8821ae+linux+driver>`_

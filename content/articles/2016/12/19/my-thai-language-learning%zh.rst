@@ -52,6 +52,12 @@
      - 時間
      - time
 
+   * - ไม่ค่อย
+     - `不太 <https://www.google.com/search?q=%E6%B3%B0%E8%AA%9E+%E4%B8%8D%E5%A4%AA>`_
+
+       範例: `『不太好吃』泰文怎麼說呢? - YouTube <https://www.youtube.com/watch?v=nZlVeSU5SRg>`_
+     -
+
 .. _隆波: https://zh.wikipedia.org/wiki/%E9%9A%86%E6%B3%A2
 .. _Luang Por: https://en.wikipedia.org/wiki/Luang_Por
 .. _หลวงพ่อบุญชู: https://www.google.com/search?q=%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%8A%E0%B8%B9
