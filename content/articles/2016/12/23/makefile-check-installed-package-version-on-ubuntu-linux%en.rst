@@ -48,6 +48,20 @@ References:
 
        `GNU make: Text Functions <https://www.gnu.org/software/make/manual/html_node/Text-Functions.html>`_
 
+.. [4] `makefile ubuntu version - Google search <https://www.google.com/search?q=makefile+ubuntu+version>`_
+
+       `makefile ubuntu version - DuckDuckGo search <https://duckduckgo.com/?q=makefile+ubuntu+version>`_
+
+       `makefile ubuntu version - Bing search <https://www.bing.com/search?q=makefile+ubuntu+version>`_
+
+       `makefile ubuntu version - Yahoo search <https://search.yahoo.com/search?p=makefile+ubuntu+version>`_
+
+       `makefile ubuntu version - Baidu search <https://www.baidu.com/s?wd=makefile+ubuntu+version>`_
+
+       `makefile ubuntu version - Yandex search <https://www.yandex.com/search/?text=makefile+ubuntu+version>`_
+
+       `Detect if its Ubuntu Linux OS in Makefile - Ask Ubuntu <http://askubuntu.com/questions/279168/detect-if-its-ubuntu-linux-os-in-makefile>`_
+
 
 .. _Makefile: https://www.google.com/search?q=Makefile
 .. _strip text function: https://www.gnu.org/software/make/manual/html_node/Text-Functions.html
