@@ -2,7 +2,7 @@
 ##########################################
 
 :date: 2016-01-29T04:26+08:00
-:modified: 2016-01-31T21:41+08:00
+:modified: 2016-12-30T21:53+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM, JavaScript
 :category: GopherJS
 :summary: Synonyms - Go_/GopherJS_ idioms and snippets translated to JavaScript_
@@ -264,11 +264,42 @@ Inspired by [4]_, Golang_/GopherJS_ (with / without
            f.RemoveChild(f.LastChild())
          }
 
+   * - createElement_: create a DOM element
+
+       .. code-block:: javascript
+
+         var div = document.createElement("div");
+
+     - |
+
+       .. code-block:: go
+
+         div := js.Global.Get("document").Call("createElement", "div")
+
+     - |
+
+   * - createTextNode_: create a text node
+
+       .. code-block:: javascript
+
+         var text = document.createTextNode("Hello World!");
+
+     - |
+
+       .. code-block:: go
+
+         text := js.Global.Get("document").Call("createTextNode", "Hello World!")
+
+     - |
+
 
 ----
 
-Tested on: ``Ubuntu Linux 15.10``, ``Go 1.5.3``,
-``Chromium Version 48.0.2564.82 Ubuntu 15.10 (64-bit)``.
+Tested on:
+
+- ``Ubuntu Linux 16.10``
+- ``Go 1.7.4``,
+- ``Chromium Version 55.0.2883.87 Built on Ubuntu , running on Ubuntu 16.10 (64-bit)``.
 
 ----
 
@@ -305,6 +336,8 @@ References:
 .. _textContent: http://www.w3schools.com/jsref/prop_node_textcontent.asp
 .. _addEventListener(): https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
 .. _Remove all child nodes: https://www.google.com/search?q=javascript+remove+all+child+nodes
+.. _createElement: https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement
+.. _createTextNode: https://developer.mozilla.org/en-US/docs/Web/API/Document/createTextNode
 
 .. |godoc| image:: https://godoc.org/github.com/gopherjs/gopherjs/js?status.png
    :target: https://godoc.org/github.com/gopherjs/gopherjs/js
