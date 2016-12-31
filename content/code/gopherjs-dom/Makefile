@@ -2,10 +2,10 @@
 #   export GOROOT=../go  (=> 6g not found)
 # it is also not allowed to use relative path in GOPATH
 export GOROOT=$(realpath ../../../../go)
-export GOPATH=$(realpath .)
+export GOPATH=$(realpath ../../../../pali/go)
 export PATH := $(GOROOT)/bin:$(GOPATH)/bin:$(PATH)
 
-DEMO_DIR=src/mouseenter-mouseleave
+DEMO_DIR=src/arrow-keys
 new_default: fmt devserver
 GO_PKG_DIR=keyevent
 
