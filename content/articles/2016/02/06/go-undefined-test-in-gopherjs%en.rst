@@ -2,7 +2,7 @@
 ###################################
 
 :date: 2016-02-06T02:24+08:00
-:tags: Go, Golang, GopherJS, Go to JavaScript
+:tags: Go, Golang, GopherJS, Go to JavaScript, Web Storage
 :category: GopherJS
 :summary: Check if something (object, variable, API, ...) is undefined or not in
           GopherJS_.

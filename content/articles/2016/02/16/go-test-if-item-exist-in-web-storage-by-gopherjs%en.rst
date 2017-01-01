@@ -2,7 +2,7 @@
 ######################################################
 
 :date: 2016-02-16T02:23+08:00
-:tags: Go, Golang, GopherJS, Go to JavaScript
+:tags: Go, Golang, GopherJS, Go to JavaScript, Web Storage
 :category: GopherJS
 :summary: Check if an item exists (is populated) in web storage (localStorage_
           or sessionStorage_) by GopherJS_.
