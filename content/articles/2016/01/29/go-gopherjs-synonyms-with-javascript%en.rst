@@ -2,7 +2,7 @@
 ##########################################
 
 :date: 2016-01-29T04:26+08:00
-:modified: 2016-12-30T21:53+08:00
+:modified: 2017-01-02T23:17+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM, JavaScript
 :category: GopherJS
 :summary: Synonyms - Go_/GopherJS_ idioms and snippets translated to JavaScript_
@@ -292,6 +292,35 @@ Inspired by [4]_, Golang_/GopherJS_ (with / without
 
      - |
 
+   * - The location_ object of window_ object:
+
+       .. code-block:: javascript
+
+         // current URL: http://localhost:8000/code/gopherjs/window-location/index.html?a=1
+
+         // return - http://localhost:8000/code/gopherjs/window-location/index.html?a=1
+         window.location.href
+         // return - /code/gopherjs/window-location/index.html
+         window.location.pathname
+         // return - ?a=1
+         window.location.search
+
+     - |
+
+       .. code-block:: go
+
+         // current URL: http://localhost:8000/code/gopherjs/window-location/index.html?a=1
+
+         var location = js.Global.Get("location")
+         // return - http://localhost:8000/code/gopherjs/window-location/index.html?a=1
+         location.Get("href").String()
+         // return - /code/gopherjs/window-location/index.html
+         location.Get("pathname").String()
+         // return - ?a=1
+         location.Get("search").String()
+
+     - |
+
 
 ----
 
@@ -338,6 +367,7 @@ References:
 .. _Remove all child nodes: https://www.google.com/search?q=javascript+remove+all+child+nodes
 .. _createElement: https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement
 .. _createTextNode: https://developer.mozilla.org/en-US/docs/Web/API/Document/createTextNode
+.. _location: http://www.w3schools.com/jsref/obj_location.asp
 
 .. |godoc| image:: https://godoc.org/github.com/gopherjs/gopherjs/js?status.png
    :target: https://godoc.org/github.com/gopherjs/gopherjs/js
