@@ -2,7 +2,7 @@
 ########################
 
 :date: 2016-05-17T04:25+08:00
-:modified: 2016-12-29T01:00+08:00
+:modified: 2017-01-03T00:12+08:00
 :tags: 淘寶
 :category: 淘寶
 :summary: `淘寶`_/`天貓`_ 付款及課稅攻略
@@ -86,6 +86,9 @@
   * `[問題] 淘寶 賣方給我的評價 誰看得到? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465093623.A.CB9.html>`_
   * `[問題] 淘寶超商付款頁面跳轉成銀行卡認證 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465178549.A.E3C.html>`_
   * `[問題] 今天買淘寶一直遇到的問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465224185.A.83B.html>`_
+  * `[問題] 淘寶結帳畫面中的□匿名購買? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483282678.A.533.html>`_
+  * `[問題] 手機淘寶 綁定號碼 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483248726.A.630.html>`_
+
 
 - 課稅
 
@@ -120,6 +123,7 @@
   * `[新聞] 海外網購 免稅額降至2,000元 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1472625120.A.3EF.html>`_
   * `[問題] 集運說要課稅但不了了之 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1475842681.A.4F1.html>`_
   * `[問題] 淘寶報關金額 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1473870668.A.608.html>`_
+
 
 - 玉山銀行
 

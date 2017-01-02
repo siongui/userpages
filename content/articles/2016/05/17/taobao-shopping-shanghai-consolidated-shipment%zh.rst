@@ -2,7 +2,7 @@
 ########################
 
 :date: 2016-05-17T03:57+08:00
-:modified: 2016-12-29T01:00+08:00
+:modified: 2017-01-03T00:10+08:00
 :tags: 淘寶
 :category: 淘寶
 :summary: `淘寶`_/`天貓`_ 購物，上海集貨商
@@ -91,6 +91,7 @@
 - 上海飛翔
 
   * `[問題] 飛翔集貨態度變差，有推薦集貨商嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1475136912.A.153.html>`_
+  * `[問題] 請問飛翔集貨最近出貨很慢嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483362005.A.A23.html>`_
 
 - 上海東龍
 

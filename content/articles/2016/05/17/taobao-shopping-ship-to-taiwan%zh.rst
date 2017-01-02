@@ -2,7 +2,7 @@
 ########################
 
 :date: 2016-05-17T03:57+08:00
-:modified: 2016-12-29T01:00+08:00
+:modified: 2017-01-03T00:08+08:00
 :tags: 淘寶
 :category: 淘寶
 :summary: `淘寶`_/`天貓`_ 購物，運送至台灣攻略
@@ -36,6 +36,7 @@
     - `[心得] 淘寶靜音原木掛鐘 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464093170.A.6B3.html>`_
     - `[心得] 集貨推薦-China鏢局 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465649974.A.C62.html>`_
     - `[心得] 捷達集貨深圳部 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1475566140.A.6CD.html>`_
+    - `[問題] 近期較推薦的集運商 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483349337.A.91C.html>`_
 
   * 廣州
 
@@ -118,6 +119,12 @@
   * `[問題] 端午前發的貨還未收到? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465796056.A.645.html>`_
   * `[閒聊] 集貨這樣說 你們會覺得? (2公斤以下包裹) - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482641255.A.218.html>`_
   * `[問題] 請幫忙推薦目前發貨4-5天會到台灣的集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482738676.A.758.html>`_
+  * `[心得] 淘寶中大型物品集運,海運比較 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1478342669.A.EB9.html>`_
+  * `[問題] 淘寶，集貨後想換轉運商的問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1475933512.A.B3B.html>`_
+  * `[問題] 幫買淘寶，集運漏寄貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482493619.A.8DE.html>`_
+  * `[問題] 買國際包裹的購物習慣 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1468742377.A.DFB.html>`_
+  * `[問題] 淘寶私人集運寄出後報黑貓單號 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482575546.A.371.html>`_
+  * `[問題] 淘寶物流資訊一直沒有更新 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1476768741.A.9C5.html>`_
 
 
 - `淘寶 台灣直送 - Google search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E5%8F%B0%E7%81%A3%E7%9B%B4%E9%80%81>`_
@@ -235,6 +242,7 @@
 - `[閒聊] Nissen JP會砍註冊地址是轉運站的帳號 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465365658.A.D85.html>`_
 - `[問題] 蝦皮拍賣買到假貨賣方不給退貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465382638.A.B49.html>`_
 - `[情報] 霓淨思面膜團購運送方式 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465407614.A.930.html>`_
+- `[閒聊] 關於日本轉運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483345666.A.8A1.html>`_
 
 
 .. _淘寶: https://www.taobao.com/
