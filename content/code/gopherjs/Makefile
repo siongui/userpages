@@ -5,7 +5,7 @@ export GOROOT=$(realpath ../../../../go)
 export GOPATH=$(realpath ../../../../pali/go)
 export PATH := $(GOROOT)/bin:$(GOPATH)/bin:$(PATH)
 
-DEMO_DIR=localStorage-setting
+DEMO_DIR=history-api
 
 devserver: fmt js
 	@echo "\033[92mDevelopment Server Running ...\033[0m"
