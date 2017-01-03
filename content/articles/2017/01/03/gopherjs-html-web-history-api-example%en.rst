@@ -17,8 +17,7 @@ I create three links, and if users click the link, the browser URL will change,
 and update the texts correspondingly without reloading. When users move backward
 or forward through the history, web page will also be partially updated.
 
-..
-  .. rubric:: `Demo <{filename}/code/gopherjs/history-api/index.html>`_
+.. rubric:: `Demo <{filename}/code/javascript/history-api/index.html>`_
      :class: align-center
 
 .. show_github_file:: siongui userpages content/code/gopherjs/history-api/index.html
@@ -28,6 +27,8 @@ or forward through the history, web page will also be partially updated.
 To see demo: use GopherJS_ to compile ``app.go`` to ``app.js``. Put
 ``index.html`` and ``app.js`` in the same directory. Open ``index.html`` with
 your browser.
+
+For JavaScript verson, see [7]_.
 
 ----
 
@@ -65,6 +66,8 @@ References:
 .. [5] `[Golang] GopherJS DOM Example - Access HTML Data Attribute <{filename}../../../2016/01/12/gopherjs-dom-example-access-html-data-attribute%en.rst>`_
 
 .. [6] `[Golang] undefined Test in GopherJS <{filename}../../../2016/02/06/go-undefined-test-in-gopherjs%en.rst>`_
+
+.. [7] `[JavaScript] HTML Web History API Example <{filename}../04/javascript-html-web-history-api-example%en.rst>`_
 
 
 .. _GopherJS: http://www.gopherjs.org/
