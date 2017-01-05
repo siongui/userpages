@@ -28,6 +28,7 @@
   * `入境泰國之移民局相關規定 泰國觀光局-台北辦事處 <http://www.tattpe.org.tw/TravelInfo/TravelInfo_detail.aspx?NewsID=708&AspxAutoDetectCookieSupport=1>`_
 
     - `赴泰國旅遊注意　身上現金帶不夠不准入境 | 即時新聞 | 20160527 | 蘋果日報 <http://www.appledaily.com.tw/realtimenews/article/new/20160527/872237/>`_
+    - `[問題] 入境泰國需帶現金2萬嗎？ - 看板 Thailand - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/M.1483440659.A.F11.html>`_
 
   * `泰國 入境 物品 - Google search <https://www.google.com/search?q=%E6%B3%B0%E5%9C%8B+%E5%85%A5%E5%A2%83+%E7%89%A9%E5%93%81>`_
 

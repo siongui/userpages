@@ -42,6 +42,8 @@ Sony Xperia Z C6602 L36h
 
   - `L36H座充底座C6603 Xperia Z支架座充Sony C6602无线充电器DK26-淘宝网全球站 <https://item.taobao.com/item.htm?id=35714086786>`_
 
+* `[問題] 我該買哪種充電器… - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1482981674.A.3FB.html>`_
+
 ----
 
 參考：

@@ -102,7 +102,11 @@
 
   * `[心得] 揪感心的上海黑貓集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1471440310.A.E39.html>`_
 
-- `[心得] 真正今發明至推薦-上海永誠集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462886717.A.4A3.html>`_
+- 上海永誠
+
+  * `[心得] 真正今發明至推薦-上海永誠集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462886717.A.4A3.html>`_
+  * `[問題] 有人最近上海永誠的包裹卡很久嗎? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483435786.A.CD2.html>`_
+
 - `[心得] 大推飛翔集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461738155.A.66A.html>`_
 - `[閒聊] 今天去了千里馬集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462455609.A.911.html>`_
 - `[心得] 推薦小鵬集貨貼心追貨包裝仔細 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462467131.A.BD3.html>`_
@@ -111,6 +115,7 @@
 - `[抱怨] 請勿使用上海佳速 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464587420.A.65F.html>`_
 - `[心得] 推薦順達集貨-9元活動 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464928335.A.4B5.html>`_
 - `[抱怨] 淘寶官方集運圓通國際轉運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482756817.A.A64.html>`_
+- `[抱怨] 慶記集貨-貨丟消失多日 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483500779.A.1CA.html>`_
 
 
 .. _淘寶: https://www.taobao.com/
