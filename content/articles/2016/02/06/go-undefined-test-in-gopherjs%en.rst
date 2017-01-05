@@ -34,6 +34,7 @@ For example, you can check if your browser supports localStorage_ API or not by:
 
 `Run Code on GopherJS Playground <http://www.gopherjs.org/playground/#/Kxr4h5nxBQ>`_
 
+For null_ test (if a variable is null), see [3]_.
 
 ----
 
@@ -46,10 +47,13 @@ References:
 
 .. [2] `Search undefined Results in GopherJS repo · GitHub <https://github.com/gopherjs/gopherjs/search?utf8=%E2%9C%93&q=undefined>`_
 
+.. [3] `[GopherJS] null Test <{filename}../../../2017/01/05/gopherjs-null-test%en.rst>`_
+
 
 .. _GopherJS: http://www.gopherjs.org/
 .. _localStorage: https://developer.mozilla.org/en/docs/Web/API/Window/localStorage
 .. _js.Undefined: https://godoc.org/github.com/gopherjs/gopherjs/js#Object
+.. _null: https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/null
 
 .. |godoc| image:: https://godoc.org/github.com/gopherjs/gopherjs/js?status.png
    :target: https://godoc.org/github.com/gopherjs/gopherjs/js
