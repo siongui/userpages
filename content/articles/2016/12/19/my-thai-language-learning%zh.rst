@@ -73,6 +73,10 @@
      - `曾經`_
      - Ever
 
+   * - ก็
+     - `也`_
+     -
+
    * - เสร็จ
      - 結束，完成
      - finish
@@ -91,8 +95,19 @@
      - 早安
      - Good morning
 
+   * - ชาติ
+     - `前世`_
+     -
+
+   * - ชาติที่แล้ว
+     - 前一世
+     -
+
+
 .. _隆波: https://zh.wikipedia.org/wiki/%E9%9A%86%E6%B3%A2
 .. _Luang Por: https://en.wikipedia.org/wiki/Luang_Por
 .. _หลวงพ่อบุญชู: https://www.google.com/search?q=%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%8A%E0%B8%B9
 .. _曾經: https://www.google.com/search?q=%E6%B3%B0%E8%AA%9E+%E6%9B%BE%E7%B6%93
 .. _na 語氣助詞: https://www.google.com/search?q=%E0%B8%99%E0%B8%B0+%E6%B3%B0%E8%AA%9E
+.. _前世: https://www.google.com/search?q=%E5%89%8D%E4%B8%96+%E6%B3%B0%E8%AA%9E
+.. _也: https://www.google.com/search?q=%E0%B8%81%E0%B9%87+%E6%B3%B0%E8%AA%9E

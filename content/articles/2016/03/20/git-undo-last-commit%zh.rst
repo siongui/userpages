@@ -11,7 +11,7 @@ git復原最後一次的commit
 .. code-block:: bash
 
   # 重設上次修改
-  $ git reset --soft HEAD~
+  $ git reset HEAD~
   # 編輯並再次git add修改，完成後：
   $ git commit -c ORIG_HEAD
 

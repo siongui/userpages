@@ -124,6 +124,7 @@
   * `[問題] 集運說要課稅但不了了之 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1475842681.A.4F1.html>`_
   * `[問題] 淘寶報關金額 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1473870668.A.608.html>`_
   * `[問題] 有關集運包稅的問題請教 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483611193.A.DCB.html>`_
+  * `[問題] 買淘寶的次數限制？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483638706.A.45C.html>`_
 
 
 - 玉山銀行
