@@ -176,6 +176,7 @@
   * `[問題] 在淘寶購買行動電源，被轉運拒收 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482827363.A.BDA.html>`_
   * `[問題] 特貨單獨出貨，不能與其他包裹合併運送? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483609779.A.B65.html>`_
   * `[問題] sim卡 特貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483546811.A.0B8.html>`_
+  * `[問題] 近期的集運特貨都飛不出來嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483711749.A.B5F.html>`_
 
 
 - `淘寶 泰國 集運 - Google Search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E6%B3%B0%E5%9C%8B+%E9%9B%86%E9%81%8B>`_

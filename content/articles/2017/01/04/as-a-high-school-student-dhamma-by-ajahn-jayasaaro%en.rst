@@ -27,7 +27,7 @@ my life as a Buddhist monk
 
 .. container:: align-right
 
-  `Ajahn Jayasāro`_
+  `Ajahn Jayasāro`_ `ชยสาโร`_
 
 ----
 
@@ -38,3 +38,4 @@ Source:
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fjayasaro.panyaprateep.org%2Fposts%2F1084989148276437%3A0&width=500" width="500" height="406" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 .. _Ajahn Jayasāro: http://www.amaravati.org/biographies/ajahn-jayasaro/
+.. _ชยสาโร: https://www.google.com/search?q=%E0%B8%8A%E0%B8%A2%E0%B8%AA%E0%B8%B2%E0%B9%82%E0%B8%A3
