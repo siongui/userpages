@@ -38,6 +38,7 @@ GopherJS_.
   	location.Get("search").String()
   }
 
+For JavaScript_ equivalent, see [2]_.
 
 ..
   .. rubric:: `Demo <{filename}/code/gopherjs/window-location/index.html?a=1>`_
@@ -68,9 +69,12 @@ References:
        `GopherJS Playground <http://www.gopherjs.org/playground/>`_,
        |godoc|)
 
+.. [2] `[javascript] window.location example - access browser url <{filename}../09/javascript-window-location-example-access-url%en.rst>`_
+
 
 .. _GopherJS: http://www.gopherjs.org/
 .. _window.location: http://www.w3schools.com/jsref/obj_location.asp
+.. _JavaScript: https://www.google.com/search?q=JavaScript
 
 .. |godoc| image:: https://godoc.org/github.com/gopherjs/gopherjs/js?status.png
    :target: https://godoc.org/github.com/gopherjs/gopherjs/js
