@@ -2,7 +2,7 @@
 ########################
 
 :date: 2016-05-17T04:25+08:00
-:modified: 2017-01-03T00:12+08:00
+:modified: 2017-01-11T01:42+08:00
 :tags: 淘寶
 :category: 淘寶
 :summary: `淘寶`_/`天貓`_ 付款及課稅攻略
@@ -52,6 +52,7 @@
     - `[問題] 淘寶刷卡不過，且出現這個訊息 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463469195.A.4BB.html>`_
     - `[問題] 淘寶信用卡無法即時付款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463817079.A.64C.html>`_
     - `[問題] 淘寶刷卡 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465188349.A.C38.html>`_
+    - `[問題] 淘寶Visa金融卡付款問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483805000.A.D5C.html>`_
 
   * 退款
 
@@ -65,6 +66,9 @@
     - `[問題] 淘寶退款 問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465284121.A.D87.html>`_
     - `[問題] 淘寶退款超時,沒有實名認證支付寶退款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465398928.A.FB1.html>`_
     - `[問題] 淘寶實名制後退款相關問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465575362.A.58F.html>`_
+    - `[問題] 淘寶退款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483797526.A.9F3.html>`_
+    - `[問題] 淘寶缺貨的退款原因 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484046417.A.1D1.html>`_
+    - `[問題] 淘寶退款是退哪裡？(有圖) - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484025611.A.6C4.html>`_
 
   * `[問題] 淘寶使用轉帳付款的退款問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462264572.A.D67.html>`_
   * `[問題] 淘寶轉帳的匯率問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462633365.A.CD5.html>`_
@@ -88,6 +92,8 @@
   * `[問題] 今天買淘寶一直遇到的問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465224185.A.83B.html>`_
   * `[問題] 淘寶結帳畫面中的□匿名購買? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483282678.A.533.html>`_
   * `[問題] 手機淘寶 綁定號碼 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483248726.A.630.html>`_
+  * `[問題] 集運費超商付款後後，未顯示已付款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484021439.A.988.html>`_
+  * `[問題] 淘寶支付轉運時身分證填錯 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483970189.A.FC1.html>`_
 
 
 - 課稅

@@ -2,7 +2,7 @@
 ########################
 
 :date: 2016-05-17T03:57+08:00
-:modified: 2017-01-03T00:08+08:00
+:modified: 2017-01-11T01:42+08:00
 :tags: 淘寶
 :category: 淘寶
 :summary: `淘寶`_/`天貓`_ 購物，運送至台灣攻略
@@ -32,12 +32,19 @@
       * `[心得] 佳捷物流-廣東集貨 有夠關心我的 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465847824.A.68C.html>`_
       * `Re: [心得] 推薦超快深圳佳捷國際物流集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482802204.A.196.html>`_
 
+    - 公主集貨
+
+      * `[問題] 公主集貨 包裹寄錯 協尋失主 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483861832.A.1F9.html>`_
+      * `[抱怨] 反推公主集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483950036.A.8E6.html>`_
+
     - `[心得] 旅途國際集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461823778.A.63E.html>`_
     - `[心得] 淘寶靜音原木掛鐘 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464093170.A.6B3.html>`_
     - `[心得] 集貨推薦-China鏢局 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465649974.A.C62.html>`_
     - `[心得] 捷達集貨深圳部 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1475566140.A.6CD.html>`_
     - `[問題] 近期較推薦的集運商 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483349337.A.91C.html>`_
     - `[問題] 有人深圳發貨還在卡關的嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483572895.A.D56.html>`_
+    - `Re: [抱怨] 反推深圳大華集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483771778.A.F36.html>`_
+    - `[抱怨] 超級無敵反推陽陽集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483947075.A.CA7.html>`_
 
   * 廣州
 
@@ -49,6 +56,7 @@
     - `[閒聊] 淘寶集運拒收 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462261033.A.1D2.html>`_
     - `[問題] 圓通拒收問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462617339.A.255.html>`_
     - `[問題] 淘寶增利集運拒收 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463849067.A.4F9.html>`_
+    - `仿真植物被拒收 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483956548.A.2D0.html>`_
 
   * 海關
 
@@ -130,6 +138,9 @@
   * `[問題] 淘寶私人集運寄出後報黑貓單號 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482575546.A.371.html>`_
   * `[問題] 淘寶物流資訊一直沒有更新 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1476768741.A.9C5.html>`_
   * `[問題集貨不可以合併計重量嗎? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483447607.A.404.html>`_
+  * `[問題] 使用官方集運，需要確定賣家是否送台灣嗎 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484039910.A.BE7.html>`_
+  * `[問題] 集貨給的單號都查不到資訊？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483812107.A.68F.html>`_
+  * `[閒聊] 收到集貨商的年節禮盒 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484042958.A.410.html>`_
 
 
 - `淘寶 台灣直送 - Google search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E5%8F%B0%E7%81%A3%E7%9B%B4%E9%80%81>`_
@@ -177,6 +188,8 @@
   * `[問題] 特貨單獨出貨，不能與其他包裹合併運送? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483609779.A.B65.html>`_
   * `[問題] sim卡 特貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483546811.A.0B8.html>`_
   * `[問題] 近期的集運特貨都飛不出來嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483711749.A.B5F.html>`_
+  * `Re: [問題] 近期的集運特貨都飛不出來嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483760928.A.088.html>`_
+  * `[問題] 請問目前有電池類的還有哪些集運有發呢? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484024636.A.404.html>`_
 
 
 - `淘寶 泰國 集運 - Google Search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E6%B3%B0%E5%9C%8B+%E9%9B%86%E9%81%8B>`_
@@ -213,6 +226,7 @@
 - 糾紛
 
   * `[抱怨] 淘寶賣家叫我注意網路上的言論 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465819212.A.F24.html>`_
+  * `[問題] 淘寶給差評後多久顯示 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483954342.A.222.html>`_
 
 
 ----

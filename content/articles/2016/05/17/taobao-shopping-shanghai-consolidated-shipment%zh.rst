@@ -2,7 +2,7 @@
 ########################
 
 :date: 2016-05-17T03:57+08:00
-:modified: 2017-01-03T00:10+08:00
+:modified: 2017-01-11T01:42+08:00
 :tags: 淘寶
 :category: 淘寶
 :summary: `淘寶`_/`天貓`_ 購物，上海集貨商
@@ -107,15 +107,20 @@
   * `[心得] 真正今發明至推薦-上海永誠集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462886717.A.4A3.html>`_
   * `[問題] 有人最近上海永誠的包裹卡很久嗎? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483435786.A.CD2.html>`_
 
+- 上海佳速
+
+  * `[抱怨] 請勿使用上海佳速 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464587420.A.65F.html>`_
+  * `[閒聊] 佳速集運到貨速度 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483943305.A.98E.html>`_
+
 - `[心得] 大推飛翔集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461738155.A.66A.html>`_
 - `[閒聊] 今天去了千里馬集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462455609.A.911.html>`_
 - `[心得] 推薦小鵬集貨貼心追貨包裝仔細 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462467131.A.BD3.html>`_
 - `[心得] 推薦集運-UGO集貨網 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463675969.A.A54.html>`_
 - `[心得] 極推貼心 上海神州國際快遞 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464487498.A.FCE.html>`_
-- `[抱怨] 請勿使用上海佳速 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464587420.A.65F.html>`_
 - `[心得] 推薦順達集貨-9元活動 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464928335.A.4B5.html>`_
 - `[抱怨] 淘寶官方集運圓通國際轉運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482756817.A.A64.html>`_
 - `[抱怨] 慶記集貨-貨丟消失多日 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483500779.A.1CA.html>`_
+- `[抱怨] 大反推臺灣國際集運中心 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484034156.A.427.html>`_
 
 
 .. _淘寶: https://www.taobao.com/
