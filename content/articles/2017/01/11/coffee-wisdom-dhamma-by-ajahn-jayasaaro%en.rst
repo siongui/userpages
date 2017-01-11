@@ -20,8 +20,8 @@ more sugar. And if it's too sweet, add more coffee or more water.
 
 If you know how each ingredient of a cup of coffee affects its taste, you have
 the information you need to make it more tasty. If you analyse a situation in
-your life until you clearly see the cause and conditions underlying it, you have
-the information you need to see where and to what extent you can make wise
+your life until you clearly see the causes and conditions underlying it, you
+have the information you need to see where and to what extent you can make wise
 changes
 
 .. container:: align-right
