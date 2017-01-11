@@ -2,7 +2,7 @@
 ############
 
 :date: 2016-12-19T08:59+08:00
-:modified: 2017-01-11T01:53+08:00
+:modified: 2017-01-12T03:25+08:00
 :tags: 泰國, 泰語
 :category: 泰語學習
 :summary: 泰語學習紀錄
@@ -103,6 +103,41 @@
      - 善哉
      -
 
+   * - จะ
+     -
+     - 功德
+     - merit
+
+   * - กราบ
+     -
+     - 頂禮
+     - prostrate oneself, bow
+
+   * - ไหน
+     - ไส
+     - 那
+     - where
+
+   * - ว่า
+     - ว่า
+     - 說
+     - tell *that*
+
+   * - จะ
+     - ซิ
+     - 將
+     - will
+
+   * - ไม่
+     - บอ
+     - 不
+     - not
+
+   * - ทิ้งกัน
+     - ถิ่มกัน
+     - 丟棄
+     - throw away
+
    * - เสร็จ
      - แล่ว
      - 結束，完成
@@ -151,6 +186,11 @@
      -
      - 代誌
      -
+
+   * - หลาย
+     -
+     - 多
+     - many
 
    * - ปกติ
      -
@@ -273,7 +313,7 @@
      - byebye
 
    * - อร่อย
-     -
+     - แซบ
      - 好吃
      - delicious
 
@@ -287,6 +327,66 @@
      - `好看`_
      -
 
+   * - ลูก
+     -
+     - 子
+     - child
+
+   * - หมา
+     -
+     - 狗
+     - dog
+
+   * - ตัว
+     -
+     - 隻(狗的單位詞)
+     -
+
+   * - ปฏิบัติ
+     -
+     - 修行
+     - practice
+
+   * - ทาง
+     -
+     - 道
+     - way
+
+   * - พุทธ
+     -
+     - 佛
+     - Buddha
+
+   * - ศาสนา
+     -
+     - (宗)教, 源自巴利語sāsana
+     - religion
+
+   * - หาผู้
+     -
+     - 找人
+     - find someone
+
+   * - จ่าย
+     -
+     - 付
+     - pay
+
+   * - ค่าเทอม
+     -
+     - 學費
+     - tuition fee
+
+   * - กู
+     -
+     - 我
+     - I
+
+   * - เกรด
+     -
+     - 成績
+     - grade
+
    * - ฉลอง
      -
      - 慶祝
@@ -297,10 +397,37 @@
      - 發薪日
      - payday
 
+   * - ติดละครเหรอเนี่ย
+     -
+     - 迷上連續劇了唷
+     -
+
    * - ระลึกชาติได้หรอ
      -
      - 可以憶起前世喔
      -
+
+----
+
+參考：
+
+.. [1] `จะ ภาษาอีสาน - Google search <https://www.google.com/search?q=%E0%B8%88%E0%B8%B0+%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%AD%E0%B8%B5%E0%B8%AA%E0%B8%B2%E0%B8%99>`_
+
+       `จะ ภาษาอีสาน - DuckDuckGo search <https://duckduckgo.com/?q=%E0%B8%88%E0%B8%B0+%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%AD%E0%B8%B5%E0%B8%AA%E0%B8%B2%E0%B8%99>`_
+
+       `จะ ภาษาอีสาน - Bing search <https://www.bing.com/search?q=%E0%B8%88%E0%B8%B0+%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%AD%E0%B8%B5%E0%B8%AA%E0%B8%B2%E0%B8%99>`_
+
+       `จะ ภาษาอีสาน - Yahoo search <https://search.yahoo.com/search?p=%E0%B8%88%E0%B8%B0+%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%AD%E0%B8%B5%E0%B8%AA%E0%B8%B2%E0%B8%99>`_
+
+       `จะ ภาษาอีสาน - Baidu search <https://www.baidu.com/s?wd=%E0%B8%88%E0%B8%B0+%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%AD%E0%B8%B5%E0%B8%AA%E0%B8%B2%E0%B8%99>`_
+
+       `จะ ภาษาอีสาน - Yandex search <https://www.yandex.com/search/?text=%E0%B8%88%E0%B8%B0+%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%AD%E0%B8%B5%E0%B8%AA%E0%B8%B2%E0%B8%99>`_
+
+       `พจนานุกรมภาษาอีสาน  | อีสานร้อยแปด <https://esan108.com/dic/>`_
+
+       `108 ภาษาอีสาน รวมคำศัพท์ ภาษาท้องถิ่นโดนๆ | รวมรูปภาพคำคม คำคม ข้อความโดนๆ สถานะโดนๆ จาก Facebook <http://www.xn--108-pkla8onerj.com/108-%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%AD%E0%B8%B5%E0%B8%AA%E0%B8%B2%E0%B8%99-%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%84%E0%B8%B3%E0%B8%A8%E0%B8%B1%E0%B8%9E%E0%B8%97%E0%B9%8C-%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%99%E0%B9%86.html>`_
+
+       `คำศัพท์อีสานน่ารู้ - Pantip <https://pantip.com/topic/32041051>`_
 
 
 .. _隆波: https://zh.wikipedia.org/wiki/%E9%9A%86%E6%B3%A2

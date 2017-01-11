@@ -2,6 +2,7 @@
 #########################
 
 :date: 2016-03-14T19:50+08:00
+:modified: 2017-01-12T03:38+08:00
 :tags: 3C
 :category: 3C
 :summary: 有用物品 - 行動電源(充電寶,移動電源)
@@ -18,6 +19,8 @@
    :alt: 小米行動電源10000 - 小米台灣官網
    :target: http://www.mi.com/tw/pb10000/
    :align: center
+
+- `[問題] 行動電源推薦 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484139184.A.468.html>`_
 
 ----
 

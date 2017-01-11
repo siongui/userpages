@@ -2,7 +2,7 @@
 ########################
 
 :date: 2016-05-17T03:57+08:00
-:modified: 2017-01-11T01:42+08:00
+:modified: 2017-01-12T03:34+08:00
 :tags: 淘寶
 :category: 淘寶
 :summary: `淘寶`_/`天貓`_ 購物，運送至台灣攻略
@@ -141,6 +141,9 @@
   * `[問題] 使用官方集運，需要確定賣家是否送台灣嗎 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484039910.A.BE7.html>`_
   * `[問題] 集貨給的單號都查不到資訊？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483812107.A.68F.html>`_
   * `[閒聊] 收到集貨商的年節禮盒 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484042958.A.410.html>`_
+  * `[問題] 淘寶集運飛機落地 多久會到 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484119472.A.7A2.html>`_
+  * `Re: [問題] 黑貓單號查不到資料(新增集貨回應） - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484069898.A.DB5.html>`__
+  * `Re: [問題] 黑貓單號查不到資料(新增集貨回應） - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484105307.A.409.html>`__
 
 
 - `淘寶 台灣直送 - Google search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E5%8F%B0%E7%81%A3%E7%9B%B4%E9%80%81>`_
