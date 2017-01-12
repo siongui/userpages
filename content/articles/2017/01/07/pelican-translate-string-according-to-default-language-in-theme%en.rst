@@ -68,6 +68,8 @@ Finally, strings in the theme_ are translated like the following:
 
 For full working example, see [1]_.
 
+For alternatives to localize theme_, see [2]_ and [3]_.
+
 ----
 
 Tested on: ``Ubuntu Linux 15.10``, ``Python 2.7.10``, `Pelican 3.6.3`_.
@@ -77,6 +79,10 @@ Tested on: ``Ubuntu Linux 15.10``, ``Python 2.7.10``, `Pelican 3.6.3`_.
 References:
 
 .. [1] `GitHub - siongui/pelican-template <https://github.com/siongui/pelican-template>`_
+
+.. [2] `Localizing themes with Jinja2 - i18n_subsites - pelican-plugins <https://github.com/getpelican/pelican-plugins/blob/master/i18n_subsites/localizing_using_jinja2.rst>`_
+
+.. [3] `[Pelican] Localize Theme via Jinja2 Custom Filter <{filename}../12/pelican-localize-theme-via-jinja2-custom-filter%en.rst>`_
 
 
 .. _Python: https://www.python.org/
