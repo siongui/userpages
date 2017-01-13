@@ -2,21 +2,32 @@
 ############
 
 :date: 2016-12-19T08:59+08:00
-:modified: 2017-01-12T03:25+08:00
+:modified: 2017-01-14T03:58+08:00
 :tags: 泰國, 泰語
 :category: 泰語學習
 :summary: 泰語學習紀錄
 :og_image: http://thailandtravel.net/wp-content/uploads/2013/07/Thai-Language.gif
 
 
+.. contents:: 目錄
+
+
+佛教相關用詞
+++++++++++++
+
 .. list-table:: 對照表
    :header-rows: 1
    :class: table-syntax-diff
 
    * - ไทย
-     - อีสาน (Laos)
+     - อีสาน (ລາວ)
      - 中文
      - English
+
+   * - `หลวงปู่ชา`_
+     -
+     - 隆普查， `阿姜查`_
+     - `Ajahn Chah`_
 
    * - หลวงพ่อ
      -
@@ -28,10 +39,148 @@
      - 隆波Boonchu
      - Luang Por Boonchu
 
+   * - วัด
+     -
+     - 寺廟，道場
+     - monastery, temple
+
+   * - วัดป่า
+     -
+     - 叢林道場
+     - forest monastery
+
+   * - ศีลห้า
+     -
+     - 五戒
+     - five precepts
+
+   * - ศีลแปด
+     -
+     - 八戒
+     - eight precepts
+
+   * - ศีลขาด
+     -
+     - 破戒
+     -
+
+   * - กิเลส
+     -
+     - 煩惱
+     - defilement
+
+   * - ปฏิบัติ
+     -
+     - 修行
+     - practice
+
+   * - ทาง
+     -
+     - 道
+     - way
+
+   * - พุทธ
+     -
+     - 佛
+     - Buddha
+
+   * - ศาสนา
+     -
+     - (宗)教, 源自巴利語sāsana
+     - religion
+
+   * - อนุโมทนา
+     -
+     - 隨喜
+     -
+
+   * - สาธุ
+     -
+     - 善哉
+     -
+
+   * - บุญ
+     -
+     - 功德
+     - merit
+
+   * - ทำบุญ
+     -
+     - 做功德(通常指上寺廟布施)
+     -
+
+   * - กราบ
+     -
+     - 頂禮
+     - prostrate oneself, bow
+
+   * - ชาติ
+     -
+     - `前世`_
+     -
+
+   * - ชาติที่แล้ว
+
+       = อดีตชาติ
+     - ชาติก่อน
+     - 前一世
+     -
+
+問候語
+++++++
+
+.. list-table:: 對照表
+   :header-rows: 1
+   :class: table-syntax-diff
+
+   * - ไทย
+     - อีสาน (ລາວ)
+     - 中文
+     - English
+
+   * - สวัสดีปีใหม่
+     -
+     - 新年快樂
+     - Happy New Year
+
+   * - อรุณสวัสดิ์
+
+       สวัสดีตอนเช้า
+     -
+     - 早安
+     - Good morning
+
+   * - ฝันดี
+     -
+     - 好夢（意思是晚安）
+     - have a good dream
+
    * - ไม่เป็นไร
      -
      - 沒關係
      - that's ok
+
+   * - ไปละนะ
+     -
+     - 走了, 再見
+     - see you
+
+   * - บายๆๆ
+     -
+     - byebye
+     - byebye
+
+其他
+++++
+
+.. list-table:: 對照表
+   :header-rows: 1
+   :class: table-syntax-diff
+
+   * - ไทย
+     - อีสาน (ລາວ)
+     - 中文
+     - English
 
    * - ครับ (男生)
 
@@ -44,21 +193,6 @@
      -
      - `na 語氣助詞`_
      -
-
-   * - ทำบุญ
-     -
-     - 做功德(通常指上寺廟布施)
-     - 
-
-   * - วัด
-     -
-     - 寺廟，道場
-     - monastery, temple
-
-   * - วัดป่า
-     -
-     - 叢林道場
-     - forest monastery
 
    * - ที่
      -
@@ -74,7 +208,6 @@
      -
      - 已經 (放句尾)
      - already (put at the end of sentence)
-
 
    * - ไม่ค่อย
      -
@@ -93,33 +226,13 @@
      - `也`_
      -
 
-   * - อนุโมทนา
-     -
-     - 隨喜
-     -
-
-   * - สาธุ
-     -
-     - 善哉
-     -
-
-   * - จะ
-     -
-     - 功德
-     - merit
-
-   * - กราบ
-     -
-     - 頂禮
-     - prostrate oneself, bow
-
    * - ไหน
      - ไส
-     - 那
+     - 那裡
      - where
 
    * - ว่า
-     - ว่า
+     - วา
      - 說
      - tell *that*
 
@@ -143,43 +256,19 @@
      - 結束，完成
      - finish
 
-   * - สวัสดีปีใหม่
-     -
-     - 新年快樂
-     - Happy New Year
-
    * - เวลา
      -
      - 時間
      - time
 
-   * - อรุณสวัสดิ์
-
-       สวัสดีตอนเช้า
+   * - หน่อย
      -
-     - 早安
-     - Good morning
-
-   * - ชาติ
-     -
-     - `前世`_
+     - `หน่อย 意思`_
      -
 
-   * - ชาติที่แล้ว
-
-       = อดีตชาติ
-     - ชาติก่อน
-     - 前一世
+   * - น้อย
      -
-
-   * - อุบล
-     -
-     - 烏汶
-     - Ubon
-
-   * - อีสาน
-     -
-     - Esan `泰國東北地區的稱呼`_
+     - 跟上面หน่อย意思接近，不懂
      -
 
    * - เรื่อง
@@ -212,14 +301,9 @@
      - 可以
      -
 
-   * - ไปละนะ
-     -
-     - 走了na, 再見
-     - see you
-
    * - ขอ
      -
-     - 要求
+     - 希望，要求
      - ask
 
    * - ใส่ชุดนี้
@@ -231,26 +315,6 @@
      -
      - 非常不好
      - very bad
-
-   * - กิเลส
-     -
-     - 煩惱
-     - defilement
-
-   * - ศีลห้า
-     -
-     - 五戒
-     - five precepts
-
-   * - ศีลแปด
-     -
-     - 八戒
-     - eight precepts
-
-   * - ศีลขาด
-     -
-     - 破戒
-     -
 
    * - ก่อน
      -
@@ -302,16 +366,6 @@
      - 比較
      -
 
-   * - ฝันดี
-     -
-     - 好夢（意思是晚安）
-     - have a good dream
-
-   * - บายๆๆ
-     -
-     - byebye
-     - byebye
-
    * - อร่อย
      - แซบ
      - 好吃
@@ -342,25 +396,59 @@
      - 隻(狗的單位詞)
      -
 
-   * - ปฏิบัติ
+   * - กู
      -
-     - 修行
-     - practice
+     - 我
+     - I
 
-   * - ทาง
+   * - เกรด
      -
-     - 道
-     - way
+     - 成績
+     - grade
 
-   * - พุทธ
+   * - ใสใส
      -
-     - 佛
-     - Buddha
+     - `晶瑩剔透`_
+     - clearly
 
-   * - ศาสนา
+   * - ไม่ออก
      -
-     - (宗)教, 源自巴利語sāsana
-     - religion
+     - `不懂`_
+     -
+
+地名
+++++
+
+.. list-table:: 對照表
+   :header-rows: 1
+   :class: table-syntax-diff
+
+   * - ไทย
+     - อีสาน (ລາວ)
+     - 中文
+     - English
+
+   * - อุบล
+     -
+     - 烏汶
+     - Ubon
+
+   * - อีสาน
+     -
+     - Esan `泰國東北地區的稱呼`_
+     -
+
+整句
+++++
+
+.. list-table:: 對照表
+   :header-rows: 1
+   :class: table-syntax-diff
+
+   * - ไทย
+     - อีสาน (ລາວ)
+     - 中文
+     - English
 
    * - หาผู้
      -
@@ -376,16 +464,6 @@
      -
      - 學費
      - tuition fee
-
-   * - กู
-     -
-     - 我
-     - I
-
-   * - เกรด
-     -
-     - 成績
-     - grade
 
    * - ฉลอง
      -
@@ -405,6 +483,21 @@
    * - ระลึกชาติได้หรอ
      -
      - 可以憶起前世喔
+     -
+
+   * - อยู่แต่บ้านมันเบื่อ
+     -
+     - 在但家無聊
+     -
+
+   * - ชวนหน่อย
+     -
+     - 邀請??
+     -
+
+   * - ช่วยดูหน่อย
+     -
+     - 幫我看看
      -
 
 ----
@@ -430,6 +523,9 @@
        `คำศัพท์อีสานน่ารู้ - Pantip <https://pantip.com/topic/32041051>`_
 
 
+.. _หลวงปู่ชา: https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B9%80%E0%B8%96%E0%B8%A3_(%E0%B8%8A%E0%B8%B2_%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%97%E0%B8%BA%E0%B9%82%E0%B8%97)
+.. _阿姜查: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%A7%9C%E6%9F%A5
+.. _Ajahn Chah: https://en.wikipedia.org/wiki/Ajahn_Chah
 .. _隆波: https://zh.wikipedia.org/wiki/%E9%9A%86%E6%B3%A2
 .. _Luang Por: https://en.wikipedia.org/wiki/Luang_Por
 .. _หลวงพ่อบุญชู: https://www.google.com/search?q=%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%8A%E0%B8%B9
@@ -441,3 +537,6 @@
 .. _泰國東北地區的稱呼: https://zh.wikipedia.org/zh-tw/%E4%BE%9D%E5%96%84%E5%9C%B0%E5%8C%BA
 .. _ค่อย 泰語: https://www.google.com/search?q=%E0%B8%84%E0%B9%88%E0%B8%AD%E0%B8%A2+%E6%B3%B0%E8%AA%9E
 .. _好看: https://www.google.com/search?q=%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%94%E0%B8%B9+%E5%A5%BD%E7%9C%8B
+.. _晶瑩剔透: https://www.google.com/search?q=%E0%B9%83%E0%B8%AA%E0%B9%83%E0%B8%AA+%E6%84%8F%E6%80%9D
+.. _หน่อย 意思: https://www.google.com/search?q=%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%AD%E0%B8%A2+%E6%84%8F%E6%80%9D
+.. _不懂: https://tw.answers.yahoo.com/question/index?qid=20131016000010KK00354
