@@ -194,6 +194,12 @@
      - `na 語氣助詞`_
      -
 
+   * - ไหม
+     -
+     - `嗎 <https://www.google.com/search?q=%E5%97%8E+%E6%B3%B0%E6%96%87>`__,
+       `嗎 <https://www.google.com/search?q=%E5%97%8E+%E6%B3%B0%E8%AA%9E>`__
+     -
+
    * - ที่
      -
      - 在
