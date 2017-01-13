@@ -2,7 +2,7 @@
 #############################################
 
 :date: 2015-04-13 03:08
-:tags: Go, Golang, String Manipulation
+:tags: Go, Golang, String Manipulation, Random Number
 :category: Go
 :summary: Generate a random string from [a-z0-9] in Golang.
 
@@ -59,10 +59,9 @@ References:
 
 .. [6] `time - The Go Programming Language <http://golang.org/pkg/time/>`_
 
+.. [7] `[JavaScript] Generate Random String From [a-z0-9] <{filename}../../../2017/01/14/javascript-generate-random-string%en.rst>`_
 
 
 .. _Go: https://golang.org/
-
 .. _Seed: http://golang.org/pkg/math/rand/#Seed
-
 .. _make: http://tour.golang.org/moretypes/9
