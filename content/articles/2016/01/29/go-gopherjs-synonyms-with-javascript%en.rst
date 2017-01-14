@@ -2,8 +2,8 @@
 ##########################################
 
 :date: 2016-01-29T04:26+08:00
-:modified: 2017-01-02T23:17+08:00
-:tags: Go, Golang, GopherJS, Go to JavaScript, DOM, JavaScript
+:modified: 2017-01-15T05:49+08:00
+:tags: Go, Golang, GopherJS, Go to JavaScript, DOM, JavaScript, CSS
 :category: GopherJS
 :summary: Synonyms - Go_/GopherJS_ idioms and snippets translated to JavaScript_
 
@@ -321,6 +321,62 @@ Inspired by [4]_, Golang_/GopherJS_ (with / without
 
      - |
 
+   * - querySelector_ returns a DOM element
+
+       .. code-block:: javascript
+
+         var elm = document.querySelector(".myclass");
+
+     - |
+
+       .. code-block:: go
+
+         d := js.Global.Get("document")
+         elm := d.Call("querySelector", ".myclass")
+
+     - |
+
+   * - querySelectorAll_ returns a NodeList_
+
+       .. code-block:: javascript
+
+         var elmList = document.querySelectorAll("div");
+         for (var i = 0; i < elmList.length; ++i) {
+           var elm = elmList[i];
+           // do something with the element
+         }
+
+     - |
+
+       .. code-block:: go
+
+         d := js.Global.Get("document")
+         nodeList := d.Call("querySelectorAll", "div")
+         length := nodeList.Get("length").Int()
+         for i := 0; i < length; i++ {
+           elm := nodeList.Call("item", i)
+           // do something with the element
+         }
+
+     - |
+
+   * - Test if an element contains a class
+
+       .. code-block:: javascript
+
+         if (element.classList.contains("myClassName")) {
+           // do something
+         }
+
+     - |
+
+       .. code-block:: go
+
+         if element.Get("classList").Call("contains", "myClassName").Bool() {
+           // do something
+         }
+
+     - |
 
 ----
 
@@ -368,6 +424,9 @@ References:
 .. _createElement: https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement
 .. _createTextNode: https://developer.mozilla.org/en-US/docs/Web/API/Document/createTextNode
 .. _location: http://www.w3schools.com/jsref/obj_location.asp
+.. _querySelector: https://www.google.com/search?q=querySelector
+.. _querySelectorAll: https://www.google.com/search?q=querySelectorAll
+.. _NodeList: https://developer.mozilla.org/en-US/docs/Web/API/NodeList
 
 .. |godoc| image:: https://godoc.org/github.com/gopherjs/gopherjs/js?status.png
    :target: https://godoc.org/github.com/gopherjs/gopherjs/js
