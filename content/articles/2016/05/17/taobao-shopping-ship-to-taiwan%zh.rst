@@ -144,6 +144,12 @@
   * `[問題] 淘寶集運飛機落地 多久會到 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484119472.A.7A2.html>`_
   * `Re: [問題] 黑貓單號查不到資料(新增集貨回應） - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484069898.A.DB5.html>`__
   * `Re: [問題] 黑貓單號查不到資料(新增集貨回應） - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484105307.A.409.html>`__
+  * `[問題] 淘寶集運賣家會另用一個旺旺ID回覆 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484190966.A.B0B.html>`_
+  * `[閒聊] 會很介意集運店家的回覆態度嗎 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484191328.A.C91.html>`_
+  * `[問題] 黑貓電話忙線中 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484202147.A.950.html>`_
+  * `淘寶圓通集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484204942.A.97E.html>`_
+  * `[問題] 淘寶運送方式 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484244818.A.C3C.html>`_
+  * `[問題] 清關公司大約多久會把貨交付黑貓？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484277233.A.208.html>`_
 
 
 - `淘寶 台灣直送 - Google search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E5%8F%B0%E7%81%A3%E7%9B%B4%E9%80%81>`_
@@ -193,6 +199,8 @@
   * `[問題] 近期的集運特貨都飛不出來嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483711749.A.B5F.html>`_
   * `Re: [問題] 近期的集運特貨都飛不出來嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483760928.A.088.html>`_
   * `[問題] 請問目前有電池類的還有哪些集運有發呢? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484024636.A.404.html>`_
+  * `[問題] 淘寶電腦主機寄送集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484214928.A.280.html>`_
+  * `Re: [閒聊] 風馳漲價囉 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484256364.A.BFB.html>`_
 
 
 - `淘寶 泰國 集運 - Google Search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E6%B3%B0%E5%9C%8B+%E9%9B%86%E9%81%8B>`_

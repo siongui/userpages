@@ -74,6 +74,8 @@ Sony Xperia Z C6602 L36h
 * `[討論] 不要用手機電風扇 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465148375.A.70D.html>`_
 * `[閒聊] 大家的備用機都挑什麼手機呢？ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465560935.A.75E.html>`_
 * `[問題] 該用手機還是分享器分享網路 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465654757.A.100.html>`_
+* `[問題] 6k以內長輩機推薦 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484396029.A.7D7.html>`_
+* `[問題] 過渡機求推薦 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484323420.A.FE6.html>`_
 
 * 手機擋廣告
 

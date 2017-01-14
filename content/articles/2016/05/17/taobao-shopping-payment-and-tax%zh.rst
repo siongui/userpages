@@ -69,6 +69,7 @@
     - `[問題] 淘寶退款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483797526.A.9F3.html>`_
     - `[問題] 淘寶缺貨的退款原因 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484046417.A.1D1.html>`_
     - `[問題] 淘寶退款是退哪裡？(有圖) - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484025611.A.6C4.html>`_
+    - `[問題] 淘寶私人集運退款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484272257.A.815.html>`_
 
   * `[問題] 淘寶使用轉帳付款的退款問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462264572.A.D67.html>`_
   * `[問題] 淘寶轉帳的匯率問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462633365.A.CD5.html>`_
@@ -94,6 +95,7 @@
   * `[問題] 手機淘寶 綁定號碼 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483248726.A.630.html>`_
   * `[問題] 集運費超商付款後後，未顯示已付款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484021439.A.988.html>`_
   * `[問題] 淘寶支付轉運時身分證填錯 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483970189.A.FC1.html>`_
+  * `[問題] 今天淘寶付款都是正常的嗎? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484207315.A.E10.html>`_
 
 
 - 課稅

@@ -69,6 +69,7 @@
 
   * `[抱怨] 上海暢途集貨服務站 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482557551.A.924.html>`_
   * `[心得] 大力推薦上海暢途集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1479477616.A.63E.html>`_
+  * `[問題] 詢問天駿和上海暢途 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484242664.A.027.html>`_
 
 - 上海楚華
 
@@ -121,6 +122,7 @@
 - `[抱怨] 淘寶官方集運圓通國際轉運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482756817.A.A64.html>`_
 - `[抱怨] 慶記集貨-貨丟消失多日 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483500779.A.1CA.html>`_
 - `[抱怨] 大反推臺灣國際集運中心 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484034156.A.427.html>`_
+- `[心得] 上海急先鋒滿意分享 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484236632.A.16D.html>`_
 
 
 .. _淘寶: https://www.taobao.com/
