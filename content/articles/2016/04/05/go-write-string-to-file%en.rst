@@ -2,7 +2,7 @@
 #############################
 
 :date: 2016-04-05T21:13+08:00
-:tags: Go, Golang
+:tags: Go, Golang, File Input/Output
 :category: Go
 :summary: Go_ - write string to file via os_ Create_ method and fmt_ Fprintf_
           method.
