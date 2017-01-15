@@ -8,7 +8,7 @@
           `Web Storage`_, and GopherJS_.
 
 
-Implement setting feature to Save user preferences in web application via JSON_,
+Implement setting feature to save user preferences in web application via JSON_,
 `Web Storage`_, and GopherJS_.
 
 .. show_github_file:: siongui userpages content/code/gopherjs/localStorage-setting/index.html
@@ -21,6 +21,8 @@ FIXME: There is bug in the code below. The ``json.Marshal`` cannot convert
 To see demo: use GopherJS_ to compile ``app.go`` to ``app.js``. Put
 ``index.html`` and ``app.js`` in the same directory. Open ``index.html`` with
 your browser.
+
+To implement setting feature via JavaScript_, see [3]_.
 
 ----
 
@@ -47,8 +49,10 @@ References:
 
        `pali/setting.html at master · siongui/pali · GitHub <https://github.com/siongui/pali/blob/master/go/theme/template/includes/setting.html>`_
 
+.. [3] `[JavaScript] Setting Implementation via JSON and Web Storage (localStorage) <{filename}../16/javascript-implement-setting-via-json-and-localStorage%en.rst>`_
 
 .. _GopherJS: http://www.gopherjs.org/
+.. _JavaScript: https://www.google.com/search?q=JavaScript
 .. _Web Storage: https://www.google.com/search?q=Web+Storage+HTML5
 .. _JSON: https://www.google.com/search?q=JSON
 
