@@ -2,6 +2,7 @@ Sony Xperia Z C6602 L36h
 ########################
 
 :date: 2016-03-14T19:50+08:00
+:modified: 2017-01-17T06:53+08:00
 :tags: 3C
 :category: 3C
 :summary: Sony Xperia Z C6602 L36h - 有用物品
@@ -76,6 +77,13 @@ Sony Xperia Z C6602 L36h
 * `[問題] 該用手機還是分享器分享網路 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465654757.A.100.html>`_
 * `[問題] 6k以內長輩機推薦 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484396029.A.7D7.html>`_
 * `[問題] 過渡機求推薦 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484323420.A.FE6.html>`_
+* `[問題] 幫家人挑手機求推薦 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484544973.A.ABA.html>`_
+* `[問題] zf3(關鍵字)  J7P   A7  都幾 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484549622.A.29F.html>`_
+* `[問題] 推薦給老媽的最便宜的手機 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484480794.A.2EA.html>`_
+* `[問題] 推薦8千元內的手機 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484483009.A.CDB.html>`_
+* `[問題] asdf到底是什麼 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484471485.A.47E.html>`_
+* `[問題] 低預算推薦手機 有NFC 佳 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484480735.A.E38.html>`_
+* `[心得] ASUS行動電源會挑手機… - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484574606.A.503.html>`_
 
 * 手機擋廣告
 

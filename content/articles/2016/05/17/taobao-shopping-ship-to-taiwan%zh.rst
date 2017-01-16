@@ -2,7 +2,7 @@
 ########################
 
 :date: 2016-05-17T03:57+08:00
-:modified: 2017-01-12T03:34+08:00
+:modified: 2017-01-17T07:03+08:00
 :tags: 淘寶
 :category: 淘寶
 :summary: `淘寶`_/`天貓`_ 購物，運送至台灣攻略
@@ -69,6 +69,7 @@
     - `[問題] 增利，卡在台灣通關待驗要多久呢 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1480124276.A.651.html>`_
     - `[問題] 淘寶集運被海關抽驗機率 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482929955.A.A60.html>`_
     - `[問題] 海關拆包檢查 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482746416.A.E94.html>`_
+    - `[問題] 淘寶清關問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484547596.A.867.html>`_
 
   * 退貨
 
@@ -80,6 +81,7 @@
     - `[問題] 淘寶退貨流程卡關 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465535054.A.0C0.html>`_
     - `[心得] 淘寶退貨心得(主機板) - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1468669946.A.207.html>`_
     - `[協尋] 淘寶退貨物流挑選 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483436357.A.CEB.html>`_
+    - `[抱怨] 退貨找不到賣家 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484539093.A.5F6.html>`_
 
   * 手機操作
 
@@ -150,6 +152,8 @@
   * `淘寶圓通集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484204942.A.97E.html>`_
   * `[問題] 淘寶運送方式 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484244818.A.C3C.html>`_
   * `[問題] 清關公司大約多久會把貨交付黑貓？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484277233.A.208.html>`_
+  * `[問題] 淘寶怎麼選擇官方集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484538558.A.61A.html>`_
+  * `[閒聊] 私人集貨也能顯示黑貓物流狀況 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484538908.A.868.html>`_
 
 
 - `淘寶 台灣直送 - Google search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E5%8F%B0%E7%81%A3%E7%9B%B4%E9%80%81>`_
