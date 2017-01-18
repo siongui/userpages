@@ -16,7 +16,7 @@ Question
 Answer
 ++++++
 
-.. show_github_file:: siongui userpages content/code/bash-wget/wget-webpages.sh
+.. show_github_file:: siongui userpages content/code/bash/wget/wget-webpages.sh
 
 GNU wget_ is used to fetch the webpages. I tried to run the script:
 

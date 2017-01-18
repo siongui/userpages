@@ -9,7 +9,7 @@
 
 Find redundant files saved by Chrome_ browser via Bash_ script.
 
-.. show_github_file:: siongui userpages content/code/bash-redundant-file/chrome.sh
+.. show_github_file:: siongui userpages content/code/bash/redundant-file/chrome.sh
 
 ----
 
