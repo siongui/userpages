@@ -23,6 +23,9 @@
 `行李秤 <{filename}luggage-scales-useful-items-for-me-notes%zh.rst>`_
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+`行李箱，登機箱 <{filename}luggage-suitcase-useful-items-for-me-notes%zh.rst>`_
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 `抽屜式鞋子收納盒 <{filename}drawer-storage-box-useful-items-for-me-notes%zh.rst>`_
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 

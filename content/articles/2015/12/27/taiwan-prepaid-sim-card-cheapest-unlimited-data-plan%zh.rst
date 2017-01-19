@@ -73,4 +73,6 @@
 
        `[心得] 中華月租轉如意卡無優惠 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465047249.A.FB0.html>`_
 
+       `[問題] 中華電信4G易付卡儲值問題 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484821214.A.663.html>`_
+
 .. _儲值卡: http://class.ruten.com.tw/category/sub00.php?c=0021001600010001

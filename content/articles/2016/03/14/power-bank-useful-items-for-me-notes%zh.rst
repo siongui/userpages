@@ -20,8 +20,6 @@
    :target: http://www.mi.com/tw/pb10000/
    :align: center
 
-- `[問題] 行動電源推薦 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484139184.A.468.html>`_
-
 ----
 
 應急用，不推薦日常使用：
@@ -52,6 +50,12 @@
   `[問題] 行動電源內建傳輸線 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1463460013.A.536.html>`_
 
   `小米 行動電源 壽命 - Google search <https://www.google.com/search?q=%E5%B0%8F%E7%B1%B3+%E8%A1%8C%E5%8B%95%E9%9B%BB%E6%BA%90+%E5%A3%BD%E5%91%BD>`_
+
+  `Fw: [請問] iPhone充電頭能充小米20000的行動電源嗎? - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484672099.A.543.html>`_
+
+  `[問題] 行動電源推薦 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484139184.A.468.html>`_
+
+  `[心得] 小米行動電源2 20000 不專業開箱 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484819838.A.CCF.html>`_
 
 - `【有片】帶行動電源上飛機　這些你必須知道 | 即時新聞 | 20160507 | 蘋果日報 <http://www.appledaily.com.tw/realtimenews/article/new/20160507/855486/>`_
 

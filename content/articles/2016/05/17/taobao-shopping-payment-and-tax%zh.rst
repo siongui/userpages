@@ -2,7 +2,7 @@
 ########################
 
 :date: 2016-05-17T04:25+08:00
-:modified: 2017-01-11T01:42+08:00
+:modified: 2017-01-20T00:36+08:00
 :tags: 淘寶
 :category: 淘寶
 :summary: `淘寶`_/`天貓`_ 付款及課稅攻略
@@ -53,6 +53,7 @@
     - `[問題] 淘寶信用卡無法即時付款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463817079.A.64C.html>`_
     - `[問題] 淘寶刷卡 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465188349.A.C38.html>`_
     - `[問題] 淘寶Visa金融卡付款問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483805000.A.D5C.html>`_
+    - `[問題] 天貓退刷問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484808823.A.108.html>`_
 
   * 退款
 
@@ -70,6 +71,7 @@
     - `[問題] 淘寶缺貨的退款原因 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484046417.A.1D1.html>`_
     - `[問題] 淘寶退款是退哪裡？(有圖) - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484025611.A.6C4.html>`_
     - `[問題] 淘寶私人集運退款 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484272257.A.815.html>`_
+    - `[問題] 首次淘寶購物及退款問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484725862.A.1EC.html>`_
 
   * `[問題] 淘寶使用轉帳付款的退款問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462264572.A.D67.html>`_
   * `[問題] 淘寶轉帳的匯率問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462633365.A.CD5.html>`_

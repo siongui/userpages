@@ -25,8 +25,20 @@ Photos of Me on Facebook
 
   var linksElm = document.getElementById("links")
 
+  function photosURL(id) {
+    return "https://www.facebook.com/search/" + id + "/photos";
+  }
+
+  function videosURL(id) {
+    return "https://www.facebook.com/search/" + id + "/videos";
+  }
+
   function photosofURL(id) {
     return "https://www.facebook.com/search/" + id + "/photos-of";
+  }
+
+  function videosofURL(id) {
+    return "https://www.facebook.com/search/" + id + "/videos-of";
   }
 
   function photoslikedURL(id) {
@@ -45,10 +57,13 @@ Photos of Me on Facebook
     }
 
     linksElm.innerHTML = '<br> \
+      <div><a href="PHOTOS" target="_blank">me\'s photos</a></div><br> \
+      <div><a href="VIDEOS" target="_blank">me\'s videos</a></div><br> \
       <div><a href="PHOTOSOF" target="_blank">Photos of me</a></div><br> \
+      <div><a href="VIDEOSOF" target="_blank">Videos of me</a></div><br> \
       <div><a href="PHOTOSLIKED" target="_blank">Photos liked by me</a></div><br> \
       <div><a href="PHOTOSCOMMENTED" target="_blank">Photos commented on by me</a></div><br> \
-    '.replace("PHOTOSOF", photosofURL(id)).replace("PHOTOSLIKED", photoslikedURL(id)).replace("PHOTOSCOMMENTED", photoscommentedURL(id))
+    '.replace("PHOTOSOF", photosofURL(id)).replace("PHOTOSLIKED", photoslikedURL(id)).replace("PHOTOSCOMMENTED", photoscommentedURL(id)).replace("PHOTOS", photosURL(id)).replace("VIDEOS", videosURL(id)).replace("VIDEOSOF", videosofURL(id));
     console.log(photosofURL(id));
   }
   </script>

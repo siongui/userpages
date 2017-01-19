@@ -2,7 +2,7 @@
 ########################
 
 :date: 2016-05-17T03:57+08:00
-:modified: 2017-01-17T07:03+08:00
+:modified: 2017-01-20T00:28+08:00
 :tags: 淘寶
 :category: 淘寶
 :summary: `淘寶`_/`天貓`_ 購物，運送至台灣攻略
@@ -70,6 +70,8 @@
     - `[問題] 淘寶集運被海關抽驗機率 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482929955.A.A60.html>`_
     - `[問題] 海關拆包檢查 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482746416.A.E94.html>`_
     - `[問題] 淘寶清關問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484547596.A.867.html>`_
+    - `Re: [問題] 淘寶清關問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484617479.A.C8D.html>`_
+    - `[問題] 台灣 海關拆包檢查 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484631645.A.C70.html>`_
 
   * 退貨
 
@@ -94,6 +96,16 @@
     - `[問題] 統一超商取貨 不正常到貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465445854.A.EF6.html>`_
     - `[問題] 淘寶超商取貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465625496.A.A73.html>`_
     - `[問題] 淘寶超商取貨清關後大概多久會到？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483597633.A.6AE.html>`_
+
+  * 黑貓
+
+    - `[問題] 淘寶私人集運寄出後報黑貓單號 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482575546.A.371.html>`_
+    - `Re: [問題] 黑貓單號查不到資料(新增集貨回應） - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484069898.A.DB5.html>`__
+    - `Re: [問題] 黑貓單號查不到資料(新增集貨回應） - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484105307.A.409.html>`__
+    - `[問題] 黑貓電話忙線中 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484202147.A.950.html>`_
+    - `[問題] 清關公司大約多久會把貨交付黑貓？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484277233.A.208.html>`_
+    - `[閒聊] 私人集貨也能顯示黑貓物流狀況 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484538908.A.868.html>`_
+    - `[問題] 請問清關後黑貓一直查不到訊息 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484623348.A.2EA.html>`_
 
   * `首页-平安国际集运中心-淘宝网 <https://shop103024137.taobao.com/>`_
   * `[問題] 鴻途集貨（小濤）攬件問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461990558.A.B79.html>`_
@@ -137,23 +149,21 @@
   * `[問題] 淘寶，集貨後想換轉運商的問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1475933512.A.B3B.html>`_
   * `[問題] 幫買淘寶，集運漏寄貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482493619.A.8DE.html>`_
   * `[問題] 買國際包裹的購物習慣 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1468742377.A.DFB.html>`_
-  * `[問題] 淘寶私人集運寄出後報黑貓單號 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482575546.A.371.html>`_
   * `[問題] 淘寶物流資訊一直沒有更新 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1476768741.A.9C5.html>`_
   * `[問題集貨不可以合併計重量嗎? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483447607.A.404.html>`_
   * `[問題] 使用官方集運，需要確定賣家是否送台灣嗎 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484039910.A.BE7.html>`_
   * `[問題] 集貨給的單號都查不到資訊？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483812107.A.68F.html>`_
   * `[閒聊] 收到集貨商的年節禮盒 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484042958.A.410.html>`_
   * `[問題] 淘寶集運飛機落地 多久會到 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484119472.A.7A2.html>`_
-  * `Re: [問題] 黑貓單號查不到資料(新增集貨回應） - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484069898.A.DB5.html>`__
-  * `Re: [問題] 黑貓單號查不到資料(新增集貨回應） - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484105307.A.409.html>`__
   * `[問題] 淘寶集運賣家會另用一個旺旺ID回覆 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484190966.A.B0B.html>`_
   * `[閒聊] 會很介意集運店家的回覆態度嗎 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484191328.A.C91.html>`_
-  * `[問題] 黑貓電話忙線中 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484202147.A.950.html>`_
   * `淘寶圓通集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484204942.A.97E.html>`_
   * `[問題] 淘寶運送方式 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484244818.A.C3C.html>`_
-  * `[問題] 清關公司大約多久會把貨交付黑貓？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484277233.A.208.html>`_
   * `[問題] 淘寶怎麼選擇官方集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484538558.A.61A.html>`_
-  * `[閒聊] 私人集貨也能顯示黑貓物流狀況 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484538908.A.868.html>`_
+  * `[問題] 淘寶集運給的新竹貨運單號查不到怎麼辦？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484793335.A.2B0.html>`_
+  * `[情報] 2017淘寶轉運商放假通知 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484677068.A.E36.html>`_
+  * `[閒聊] 近期淘寶到貨速度 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484649172.A.2DF.html>`_
+  * `[問題] 淘寶買行李箱要用哪家集貨比較好 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484656761.A.5EF.html>`_
 
 
 - `淘寶 台灣直送 - Google search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E5%8F%B0%E7%81%A3%E7%9B%B4%E9%80%81>`_
@@ -205,6 +215,13 @@
   * `[問題] 請問目前有電池類的還有哪些集運有發呢? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484024636.A.404.html>`_
   * `[問題] 淘寶電腦主機寄送集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484214928.A.280.html>`_
   * `Re: [閒聊] 風馳漲價囉 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484256364.A.BFB.html>`_
+  * `[心得] 推薦淘寶暢通台灣專線集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484716611.A.6C4.html>`_
+  * `[抱怨]反推松針國際物流淘寶集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484639871.A.DBF.html>`_
+
+
+- 禁止輸入
+
+  * `[新聞] 淘寶網購螞蟻當寵物 恐釀恐怖「螞蟻危機 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484840217.A.CDC.html>`_
 
 
 - `淘寶 泰國 集運 - Google Search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E6%B3%B0%E5%9C%8B+%E9%9B%86%E9%81%8B>`_
@@ -280,6 +297,8 @@
 - `[問題] 蝦皮拍賣買到假貨賣方不給退貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465382638.A.B49.html>`_
 - `[情報] 霓淨思面膜團購運送方式 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465407614.A.930.html>`_
 - `[閒聊] 關於日本轉運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483345666.A.8A1.html>`_
+- `[問題] 新手請問amazon美國寄送台灣 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484838914.A.557.html>`_
+- `[問題] Amazon.jp 網購轉運問題 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484823246.A.08A.html>`_
 
 
 .. _淘寶: https://www.taobao.com/

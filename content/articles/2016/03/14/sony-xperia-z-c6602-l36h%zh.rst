@@ -84,6 +84,13 @@ Sony Xperia Z C6602 L36h
 * `[問題] asdf到底是什麼 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484471485.A.47E.html>`_
 * `[問題] 低預算推薦手機 有NFC 佳 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484480735.A.E38.html>`_
 * `[心得] ASUS行動電源會挑手機… - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484574606.A.503.html>`_
+* `[問題]2G換4G長輩手機選擇 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484817724.A.C06.html>`_
+* `[問題] 可以推薦5000左右方便root的手機嗎？ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484799322.A.ABE.html>`_
+* `[問題] 13K內換機選擇 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484729103.A.87E.html>`_
+
+* 手機低溫下自動關機
+
+  - `[討論] 手機在低溫環境自動關機？ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484743454.A.5B4.html>`_
 
 * 手機擋廣告
 

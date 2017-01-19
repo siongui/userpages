@@ -2,7 +2,7 @@
 ########################
 
 :date: 2016-05-17T03:57+08:00
-:modified: 2017-01-11T01:42+08:00
+:modified: 2017-01-20T00:29+08:00
 :tags: 淘寶
 :category: 淘寶
 :summary: `淘寶`_/`天貓`_ 購物，上海集貨商
@@ -46,6 +46,7 @@
   * `[心得] 捷達貨運台灣專線 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462878846.A.CE1.html>`__
   * `[閒聊]跟上海捷達員工閒聊 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482656962.A.5F8.html>`_
   * `[問題] 請問有人使用捷達集貨且還沒收到嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482838861.A.4AD.html>`_
+  * `[閒聊] 上海捷達親訪 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484816771.A.4E5.html>`_
 
 - 捷通
 
@@ -113,6 +114,11 @@
   * `[抱怨] 請勿使用上海佳速 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464587420.A.65F.html>`_
   * `[閒聊] 佳速集運到貨速度 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483943305.A.98E.html>`_
 
+- 慶記
+
+  * `[抱怨] 慶記集貨-貨丟消失多日 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483500779.A.1CA.html>`_
+  * `[問題] 有人這幾天聯絡到慶記李的嗎?QAQ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484761164.A.BA0.html>`_
+
 - `[心得] 大推飛翔集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461738155.A.66A.html>`_
 - `[閒聊] 今天去了千里馬集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462455609.A.911.html>`_
 - `[心得] 推薦小鵬集貨貼心追貨包裝仔細 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462467131.A.BD3.html>`_
@@ -120,9 +126,10 @@
 - `[心得] 極推貼心 上海神州國際快遞 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464487498.A.FCE.html>`_
 - `[心得] 推薦順達集貨-9元活動 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464928335.A.4B5.html>`_
 - `[抱怨] 淘寶官方集運圓通國際轉運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1482756817.A.A64.html>`_
-- `[抱怨] 慶記集貨-貨丟消失多日 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483500779.A.1CA.html>`_
 - `[抱怨] 大反推臺灣國際集運中心 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484034156.A.427.html>`_
 - `[心得] 上海急先鋒滿意分享 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484236632.A.16D.html>`_
+- `[問題] 目前哪間上海的集運商比較好? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484808614.A.3A0.html>`_
+- `[閒聊] 不太會漏寄的集運？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484728516.A.1BE.html>`_
 
 
 .. _淘寶: https://www.taobao.com/
