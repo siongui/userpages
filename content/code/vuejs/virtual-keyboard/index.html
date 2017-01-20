@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Vue.js Virtual Keypad Demo</title>
+  <link rel="stylesheet" type="text/css" href="keypad.css">
+</head>
+<body>
+
+<div id="container">
+  <input type="text" v-model="paliWord"><br>
+  <div class="keypad">
+    <div><input @click="paliWord += letter" :value="letter" type="button" v-for="letter in row1letters"></div>
+    <div><input @click="paliWord += letter" :value="letter" type="button" v-for="letter in row2letters"></div>
+    <div><input @click="paliWord += letter" :value="letter" type="button" v-for="letter in row3letters"></div>
+    <div><input @click="paliWord += letter" :value="letter" type="button" v-for="letter in row4letters"></div>
+  </div>
+</div>
+
+<script src="https://unpkg.com/vue@2.1.10/dist/vue.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
