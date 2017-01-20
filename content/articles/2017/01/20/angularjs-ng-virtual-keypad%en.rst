@@ -1,0 +1,55 @@
+[AngularJS] Virtual Keyboard
+############################
+
+:date: 2017-01-20T20:51+08:00
+:tags: AngularJS, JavaScript, IME, Pāli Input Method
+:category: AngularJS
+:summary: Virtual kayboard/keypad via AngularJS_. Used in `Pāli Dictionary`_.
+
+
+Virtual kayboard/keypad via AngularJS_.
+
+.. rubric:: `Demo <{filename}/code/angularjs/virtual-keyboard/index.html>`_
+   :class: align-center
+
+Real world application is `Pāli Dictionary`_.
+There are special characters in `romanized Pāli`_. For the convenience of input
+`Pāli`_ words, users can use the virtual keyboard to type Pāli_ word without
+installation of `Pāli`_ input method in computers
+
+**Source code**:
+
+.. show_github_file:: siongui userpages content/code/angularjs/virtual-keyboard/index.html
+
+.. show_github_file:: siongui userpages content/code/angularjs/virtual-keyboard/app.js
+
+.. show_github_file:: siongui userpages content/code/angularjs/virtual-keyboard/keypad.css
+
+To make virtual keyboard draggable, see [2]_.
+
+To make virtual keyboard toggle-able, see [3]_.
+
+----
+
+Tested on:
+
+- ``Chromium Version 55.0.2883.87 Built on Ubuntu , running on Ubuntu 16.10 (64-bit)``
+- ``AngularJS 1.5.7``.
+
+----
+
+References:
+
+.. [1] `pali/input.html at master · siongui/pali · GitHub <https://github.com/siongui/pali/blob/master/dictionary/app/partials/input.html>`_
+
+       `pali/inputSuggest.js at master · siongui/pali · GitHub <https://github.com/siongui/pali/blob/master/dictionary/app/scripts/directives/inputSuggest.js>`_
+
+.. [2] `[AngularJS] Draggable (Movable) Element <{filename}../../../2013/04/04/angularjs-draggable-movable-element%en.rst>`_
+
+.. [3] `[AngularJS] Toggle Element without JavaScript <{filename}../../../2013/06/22/angularjs-toggle-element-without-javascript%en.rst>`_
+
+.. _AngularJS: https://angularjs.org/
+.. _Directives: https://docs.angularjs.org/guide/directive
+.. _Pāli Dictionary: http://dictionary.sutta.org/
+.. _Pāli: https://en.wikipedia.org/wiki/Pali
+.. _romanized Pāli: https://www.google.com/search?q=romanized+P%C4%81li
