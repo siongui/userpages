@@ -32,6 +32,7 @@
 {%- if content.summary -%}{% set OG_DESCRIPTION = (content.summary|striptags) %}{%- endif -%}
 
 {% block content %}
+{%- if content.adsu -%}{% include 'layout/includes/adsense.html' %}{%- endif -%}
 <main role="main" class="{{ content_css_class }}">
   <article>
     <header>
