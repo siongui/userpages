@@ -8,6 +8,7 @@
 :category: Bash
 :summary: Convert Traditional Chinese PO file to Simplified Chinese via OpenCC_
           and sed_ in Makefile_.
+:adsu: yes
 
 
 Convert Traditional Chinese PO file to Simplified Chinese via OpenCC_ and sed_

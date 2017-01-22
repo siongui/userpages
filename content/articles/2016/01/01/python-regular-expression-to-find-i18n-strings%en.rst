@@ -7,6 +7,7 @@
 :category: Python
 :summary: Use regular expression in Python to search and find strings marked for
           i18n (Internationalization)
+:adsu: yes
 
 Python Regular Expression
 +++++++++++++++++++++++++

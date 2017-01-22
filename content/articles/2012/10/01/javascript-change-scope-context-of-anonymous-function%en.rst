@@ -7,6 +7,7 @@
 :category: JavaScript
 :summary: Change the scope (context) of anonymous function - change what "this"
           keyword refers to in anonymous function.
+:adsu: yes
 
 
 This post is an extension of previous post "*[JavaScript] Scope (Context) of

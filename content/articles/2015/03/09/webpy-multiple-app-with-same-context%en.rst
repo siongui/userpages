@@ -5,6 +5,7 @@
 :tags: web.py, Python, Google App Engine, Apache
 :category: Python
 :summary: Multiple web.py applications with the same context (web.ctx)
+:adsu: yes
 
 
 In web.py_ official site, there is a code example which shows multiple

@@ -5,6 +5,7 @@
 :tags: Python, Regular Expression, Commandline, List Files in Directory
 :category: Python
 :summary: Find redundant files saved by Chrome_ browser via Python_.
+:adsu: yes
 
 Find redundant files saved by Chrome_ browser via Python_.
 

@@ -6,6 +6,7 @@ JavaScript Event Target Element (srcElement)
 :tags: JavaScript, html, DOM
 :category: JavaScript
 :summary: Event target element in JavaScript event handling.
+:adsu: yes
 
 
 When designing web application with JavaScript event handling, it is important

@@ -6,6 +6,7 @@
 :category: 3C
 :summary: 充氣枕頭 - 有用物品
 :og_image: ``https://gd4.alicdn.com/bao/uploaded/i4/42973365/TB2ki4xlFXXXXb_XpXXXXXXXXXX_!!42973365.jpg``
+:adsu: yes
 
 
 .. image:: https://gd4.alicdn.com/bao/uploaded/i4/42973365/TB2ki4xlFXXXXb_XpXXXXXXXXXX_!!42973365.jpg

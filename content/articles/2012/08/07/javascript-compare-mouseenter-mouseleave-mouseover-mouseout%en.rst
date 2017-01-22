@@ -6,6 +6,7 @@
 :tags: html, JavaScript, mouseenter, mouseleave
 :category: JavaScript
 :summary: Compare mouseenter, mouseleave, mouseover, and mouseout events.
+:adsu: yes
 
 
 onmouseenter_ / onmouseleave_ event of a DOM element will be triggered **only**

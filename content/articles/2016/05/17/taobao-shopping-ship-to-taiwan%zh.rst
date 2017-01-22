@@ -7,6 +7,7 @@
 :category: 淘寶
 :summary: `淘寶`_/`天貓`_ 購物，運送至台灣攻略
 :og_image: http://www.e-zone.com.hk/discuz/attachments/month_1207/20120724_097aa2fe646989b82cbdXz1QRe5IihdZ.jpg
+:adsu: yes
 
 
 - `淘寶 集貨 site:ptt.cc - Google Search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E9%9B%86%E8%B2%A8+site%3Aptt.cc>`_

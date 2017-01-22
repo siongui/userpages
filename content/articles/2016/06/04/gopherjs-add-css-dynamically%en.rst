@@ -5,6 +5,7 @@
 :tags: Go, Golang, GopherJS, Go to JavaScript, CSS, DOM
 :category: GopherJS
 :summary: Insert (add, append) CSS_ to head_ element via GopherJS_.
+:adsu: yes
 
 
 Insert (add, append) CSS_ to head_ element via GopherJS_.

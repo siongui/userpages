@@ -8,6 +8,7 @@
 :category: Python
 :summary: Python_ scripts to export PIXNET_ blog posts to files of
           reStructuredText_ format.
+:adsu: yes
 
 
 Python_ scripts [1]_ to export PIXNET_ blog posts to reStructuredText_ (rst)

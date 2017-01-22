@@ -6,6 +6,7 @@
 :category: 3C
 :summary: 鎳氫充電電池 - 有用物品
 :og_image: ``https://gd4.alicdn.com/bao/uploaded/i4/744082613/TB2M9gnkpXXXXXVXXXXXXXXXXXX_!!744082613.jpg``
+:adsu: yes
 
 
 ..

@@ -6,6 +6,7 @@ JavaScript DOM Element Position (Scroll Position Included)
 :tags: JavaScript, element offset, element position, DOM
 :category: JavaScript
 :summary: Get DOM element position (including scroll position) using JavaScript
+:adsu: yes
 
 
 To detect the position of a DOM element (for example, HTML *div* tag or *p* tag)

@@ -6,6 +6,7 @@
 :category: JavaScript
 :summary: JavaScript library `New Tong Wen Tang` for conversion of Traditional
           and Simplified Chinese.
+:adsu: yes
 
 
 There is a easy-to-use library for conversion of Traditional and Simplified

@@ -6,6 +6,7 @@
 :category: GopherJS
 :summary: Go_ programming language - Remove all children of a DOM_ element by
           GopherJS_.
+:adsu: yes
 
 
 In JavaScript_, we can remove all child nodes of a DOM element [4]_ by:

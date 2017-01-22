@@ -6,6 +6,7 @@
 :category: Go
 :summary: Server get `HTML form`_ value from `HTTP POST`_ in Go_ programming
           language.
+:adsu: yes
 
 
 Server get `HTML form`_ value from `HTTP POST`_ in Golang_.

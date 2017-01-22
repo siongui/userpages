@@ -5,6 +5,7 @@ Makefile 執行指令遇到錯誤時，繼續執行
 :tags: Linux, Makefile
 :category: Linux
 :summary: 執行指令遇到錯誤時，繼續執行Makefile裡剩下的指令，而不停止執行。
+:adsu: yes
 
 
 舉例說明，假設執行下面指令：

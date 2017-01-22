@@ -7,6 +7,7 @@ iRobot Roomba 561 電池
 :category: 3C
 :summary: iRobot Roomba 561 電池
 :og_image: http://i.ebayimg.com/images/i/351175022499-0-1/s-l1000.jpg
+:adsu: yes
 
 
 - `roomba 560 電池 <https://www.google.com/search?q=roomba+560+%E9%9B%BB%E6%B1%A0>`_

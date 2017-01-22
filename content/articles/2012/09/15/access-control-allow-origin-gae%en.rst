@@ -6,6 +6,7 @@ Access-Control-Allow-Origin in HTTP Header on Google App Engine
 :tags: HTTP Header, Google App Engine, CORS
 :category: Google App Engine
 :summary: Config Access-Control-Allow-Origin in HTTP headers on Google App Engine.
+:adsu: yes
 
 
 To add *Access-Control-Allow-Origin* in HTTP headers on `Google App Engine`_,

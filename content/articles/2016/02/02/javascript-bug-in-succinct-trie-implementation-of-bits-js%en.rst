@@ -6,6 +6,7 @@
 :category: JavaScript
 :summary: Fix the bug in `succinct trie`_ implementation of `Bits.js`_ - Wrong
           trie_ insertion if words are not inserted in alphabetical order.
+:adsu: yes
 
 
 `Bits.js`_ ([1]_) implements a `succinct trie`_ for fast lookup of words in a

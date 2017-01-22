@@ -7,6 +7,7 @@ Run wkhtmltopdf With Chinese Font Support on Travis CI
 :category: Bash
 :summary: Run wkhtmltopdf_ on `Travis CI`_, which convert HTML_ files with
           chinese characters to PDF_.
+:adsu: yes
 
 
 Run wkhtmltopdf_ on `Travis CI`_, which convert HTML_ files with chinese

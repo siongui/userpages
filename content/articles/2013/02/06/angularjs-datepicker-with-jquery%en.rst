@@ -6,6 +6,7 @@
 :tags: JavaScript, jQuery, AngularJS
 :category: AngularJS
 :summary: jQuery datepicker wrapped in AngularJS directive.
+:adsu: yes
 
 
 The best way to implement a datepicker on website, in my opinion, is through

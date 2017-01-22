@@ -6,6 +6,7 @@
 :category: 3C
 :summary: 有用物品 - 收納
 :og_image: https://lh3.googleusercontent.com/-YEf8r0ISxY4/VNNbsFBXZoI/AAAAAAAAlzQ/ltLd0ILj_do/s640/IMG_20120429_053534.jpg
+:adsu: yes
 
 
 ..

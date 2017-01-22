@@ -5,6 +5,7 @@
 :tags: Go, Golang, Regular Expression, String Manipulation, File Input/Output
 :category: Go
 :summary: Find `Pāli`_ word in `Velthuis scheme`_ via Go_ programming language.
+:adsu: yes
 
 
 Find `Pāli`_ word in `Velthuis scheme`_ via Golang_.

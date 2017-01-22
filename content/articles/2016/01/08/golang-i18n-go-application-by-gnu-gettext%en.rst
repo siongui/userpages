@@ -6,6 +6,7 @@
 :category: Go
 :summary: Internationalization (i18n_) of Go_ applications by GNU gettext_
           tools. This post shows how to use PO_ and MO_ files in Golang_.
+:adsu: yes
 
 
 GNU gettext_ tools are great for creating i18n (web) applications. In this post,

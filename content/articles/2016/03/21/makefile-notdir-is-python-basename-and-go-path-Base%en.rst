@@ -5,6 +5,7 @@ Makefile notdir = Python basename / Golang path.Base
 :tags: Bash, Makefile, Commandline, String Manipulation, Go, Golang, Python
 :category: Bash
 :summary: Makefile_'s notdir_ = `Python basename`_ / `Go path.Base`_.
+:adsu: yes
 
 Makefile_'s notdir_ = `Python basename`_ / `Go path.Base`_.
 

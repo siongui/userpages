@@ -5,6 +5,7 @@ Go語言 列舉 型態
 :tags: Web開發
 :category: Web開發
 :summary: Go_ 語言 `列舉`_ 型態 寫法
+:adsu: yes
 
 
 Go_ 語言 `列舉`_ 型態 寫法

@@ -6,6 +6,7 @@
 :category: Go
 :summary: Go_ - write string to file via os_ Create_ method and fmt_ Fprintf_
           method.
+:adsu: yes
 
 Golang_ - write string to file via os_ Create_ method and fmt_ Fprintf_ method.
 

@@ -6,6 +6,7 @@
 :category: Bash
 :summary: Move large number of files via tar_ command under Bash_. This is much
           quicker than mv_ command if there are a lot of small files.
+:adsu: yes
 
 
 Move large number of files via tar_ command under Bash_. This is much quicker

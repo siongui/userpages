@@ -8,6 +8,7 @@
 :summary: Convert encoding of file from Big5_ to UTF-8_,  remove `DOS newline`_
           in file, replace string `big5` with `UTF-8`, and append
           `UNIX newline`_ to end of file.
+:adsu: yes
 
 
 Convert encoding of file from Big5_ to UTF-8_ [4]_,  remove `DOS newline`_ in

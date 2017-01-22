@@ -6,6 +6,7 @@ goquery Example - Get Simple Text From HTML Page
 :category: Go
 :summary: Answer to `Stack Overflow`_ question:
           `go - How to get simple text from HTML page with goquery?`_.
+:adsu: yes
 
 
 goquery_ example: answer to `Stack Overflow`_ question:

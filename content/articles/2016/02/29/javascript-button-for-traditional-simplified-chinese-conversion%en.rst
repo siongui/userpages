@@ -7,6 +7,7 @@
 :category: JavaScript
 :summary: Conversion Button of Traditional/Simplified Chinese on Website via
           JavaScript_.
+:adsu: yes
 
 
 Conversion Button of Traditional/Simplified Chinese on Website via JavaScript_.

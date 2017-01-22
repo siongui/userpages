@@ -6,6 +6,7 @@
 :category: 轉錄
 :summary: 整理網路上有關泰國手機預付卡的上網套餐資訊
 :og_image: http://www.ais.co.th/roaming/images/visiting/visiting_thailand/share-teaveller.png
+:adsu: yes
 
 
 推薦閱讀： [4]_

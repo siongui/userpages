@@ -7,6 +7,7 @@
 :category: JavaScript
 :summary: Discuss the scope (context) of event handler and how to change what
           "this" keyword refers to.
+:adsu: yes
 
 
 The scope (context) of event handler is headache for new JavaScript developers

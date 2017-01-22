@@ -6,6 +6,7 @@ Python Create HTML Element Dynamically on Server Side
 :tags: html, Python, XML, DOM
 :category: Python
 :summary: Serve DOM elements to clients dynamically on Google App Engine Python
+:adsu: yes
 
 
 For web application, sometimes we need to create HTML element on the server side

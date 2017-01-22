@@ -5,6 +5,7 @@
 :tags: Dart
 :category: Dart
 :summary: e.clientX => e.client.x & e.clientY => e.client.y
+:adsu: yes
 
 
 Recently I am porting JavaScript code to Dart. When I write the following code:

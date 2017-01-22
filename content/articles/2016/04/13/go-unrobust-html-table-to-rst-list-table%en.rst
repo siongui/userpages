@@ -7,6 +7,7 @@
 :summary: Convert `HTML table`_ to reStructuredText_ `list-table`_ via Go_
           `net/html`_ package. This is experimental and not robust
           implementation.
+:adsu: yes
 
 
 Introduction

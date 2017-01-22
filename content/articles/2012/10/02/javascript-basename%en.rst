@@ -6,6 +6,7 @@ JavaScript basename()
 :tags: html, String Manipulation, JavaScript
 :category: JavaScript
 :summary: JavaScript equivalent of basename program.
+:adsu: yes
 
 
 JavaScript basename_

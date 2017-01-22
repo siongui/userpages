@@ -5,6 +5,7 @@
 :tags: Go, Golang, DOM, Go net/html, Web Scrape, html
 :category: Go
 :summary: Equivalent of JavaScript_ getElementById_ via Go_ `net/html`_ package.
+:adsu: yes
 
 
 Introduction

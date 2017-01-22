@@ -7,6 +7,7 @@
 :category: Go
 :summary: Extract title and URL from `Hacker News comment`_ via goquery_, and
           then output the info to `reStructuredText footnote`_.
+:adsu: yes
 
 
 Extract title and URL from `Hacker News comment`_ via goquery_, and then output

@@ -7,6 +7,7 @@
 :category: Go
 :summary: How to read XML/HTML files in Go programming language (for newbie)
           - Read element attribute.
+:adsu: yes
 
 
 following previous post [1]_, we add the attribute ``class="myClass"`` to the

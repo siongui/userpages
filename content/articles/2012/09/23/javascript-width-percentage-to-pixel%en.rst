@@ -6,6 +6,7 @@
 :tags: html, JavaScript, DOM
 :category: JavaScript
 :summary: 1% width of browser window equal to how many pixels?
+:adsu: yes
 
 
 Here is an interesting and sometimes practical question:

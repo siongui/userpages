@@ -5,6 +5,7 @@
 :tags: Go, Golang, Regular Expression, Commandline, List Files in Directory
 :category: Go
 :summary: Find redundant files saved by Chrome_ browser via Go_.
+:adsu: yes
 
 Find redundant files saved by Chrome_ browser via Go_, and then delete them.
 

@@ -6,6 +6,7 @@
 :category: Go
 :summary: Write a Go_ program to compile your SASS_/SCSS_ (CSS_ extension
           language) files to CSS via libsass_ and `Go wrapper for libsass`_.
+:adsu: yes
 
 
 Write a Golang_ program to compile your SASS_/SCSS_ (CSS_ extension language)

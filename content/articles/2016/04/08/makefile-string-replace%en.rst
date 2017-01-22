@@ -5,6 +5,7 @@
 :tags: Bash, Makefile, Commandline, String Manipulation
 :category: Bash
 :summary: Example for how to replace a string in a variable in Makefile_.
+:adsu: yes
 
 | First example: replace ``.`` with ``-``
 | i.e.,

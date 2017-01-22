@@ -6,6 +6,7 @@
 :category: 3C
 :summary: 繩子 - 有用物品
 :og_image: ``https://gd3.alicdn.com/bao/uploaded/i3/TB1nw6LJVXXXXcPXXXXXXXXXXXX_!!0-item_pic.jpg``
+:adsu: yes
 
 
 .. image:: https://gd3.alicdn.com/bao/uploaded/i3/TB1nw6LJVXXXXcPXXXXXXXXXXXX_!!0-item_pic.jpg

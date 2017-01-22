@@ -7,6 +7,7 @@ Sony Xperia Z C6602 L36h
 :category: 3C
 :summary: Sony Xperia Z C6602 L36h - 有用物品
 :og_image: http://img.eprice.com.tw/img/mobile/4686/content/aba89bb47bd47ab7835e116a9d46182a.jpg
+:adsu: yes
 
 
 * `Sony Xperia Z - Full phone specifications <http://www.gsmarena.com/sony_xperia_z-5204.php>`_

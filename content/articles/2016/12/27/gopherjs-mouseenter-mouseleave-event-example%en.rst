@@ -5,6 +5,7 @@
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM, mouseenter, mouseleave
 :category: GopherJS
 :summary: Example of onmouseenter_ and onmouseleave_ event via GopherJS_.
+:adsu: yes
 
 
 Example of onmouseenter_ and onmouseleave_ event via GopherJS_.

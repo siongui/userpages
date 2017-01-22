@@ -5,6 +5,7 @@ Search Taobao.com
 :tags: JavaScript, Copy to Clipboard
 :category: JavaScript
 :summary: Search Taobao.com_.
+:adsu: yes
 
 
 .. raw:: html

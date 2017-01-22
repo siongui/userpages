@@ -7,6 +7,7 @@
 :summary: Run Golang_ program in your browser by GopherJS_. Show how to write a
           Go_ program to do DOM_ manipulation by example. Use getElementById_ to
           access DOM_ element and set innerHTML_ of the element.
+:adsu: yes
 
 Introduction
 ++++++++++++

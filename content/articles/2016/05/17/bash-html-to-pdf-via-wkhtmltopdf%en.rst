@@ -6,6 +6,7 @@
 :category: Bash
 :summary: Convert HTML files in directory to PDF recursively via wkhtmltopdf_
           and Bash_ script.
+:adsu: yes
 
 
 Convert HTML files in directory to PDF recursively via wkhtmltopdf_ and Bash_

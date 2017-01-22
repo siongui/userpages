@@ -5,6 +5,7 @@ Simple Custom Responsive Grid Layout
 :tags: CSS, html, SASS, SCSS
 :category: Web Development
 :summary: A simple custom responsive grid layout exmaple without CSS frameworks.
+:adsu: yes
 
 
 If simple design is adopted for your website, you do not need to use Bootstrap_

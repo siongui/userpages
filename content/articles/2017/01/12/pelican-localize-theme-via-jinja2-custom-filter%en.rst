@@ -7,6 +7,7 @@
 :summary: Pelican_ static site generator - Localize theme_ with i18n_subsites_
           plugin via `custom Jinja2 filter`_. Implementation of gettext_-like
           filter.
+:adsu: yes
 
 
 Introduction

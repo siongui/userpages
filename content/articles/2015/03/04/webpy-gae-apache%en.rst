@@ -7,6 +7,7 @@
 :category: Python
 :summary: Web application (web.py framework) template runs on both Google App
           Engine Python and Apache with mod_wsgi.
+:adsu: yes
 
 
 This post shows a web.py application template which runs on both Apache_ with

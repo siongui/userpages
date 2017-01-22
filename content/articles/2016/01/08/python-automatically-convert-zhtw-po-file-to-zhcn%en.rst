@@ -8,6 +8,7 @@
 :summary: Automatically convert `Traditional Chinese`_ (`zh_TW`_) PO_ file to
           `Simplified Chinese`_ (`zh_CN`_) by OpenCC_ and Python_ programming
           language.
+:adsu: yes
 
 In this post, we will write a Python script to automatically convert
 `Traditional Chinese`_ (`zh_TW`_) PO_ file to `Simplified Chinese`_ (`zh_CN`_)

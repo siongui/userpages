@@ -5,6 +5,7 @@
 :tags: Go, Golang, Go net/http, File Input/Output, Go image/png Package
 :category: Go
 :summary: Read an image from web and resize it in Go_ programming language.
+:adsu: yes
 
 
 This post gives an example that read an png_ image from website (use Google log

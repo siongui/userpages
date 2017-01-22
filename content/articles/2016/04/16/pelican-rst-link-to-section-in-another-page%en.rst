@@ -6,6 +6,7 @@ Pelican reStructuredText Link to Section in Another Page
 :category: Python
 :summary: Pelican_ static site generator - Link to section in another page via
           reStructuredText_.
+:adsu: yes
 
 
 Introduction

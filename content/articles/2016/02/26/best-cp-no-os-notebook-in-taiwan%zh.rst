@@ -7,6 +7,7 @@
 :category: 3C
 :summary: 網路上台灣最佳CP值無作業系統(OS)筆記型電腦(截至2016/02/26)
 :og_image: http://www.pd4pic.com/images/laptop-notebook-sony-computer-mobile.png
+:adsu: yes
 
 
 截至2016年02月26號，網路上台灣最佳CP值無作業系統(OS)筆記型電腦為：

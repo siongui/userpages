@@ -5,6 +5,7 @@
 :tags: Dart, String Manipulation, Random Number
 :category: Dart
 :summary: Generate a random string from [a-z0-9] in Dart_.
+:adsu: yes
 
 
 .. code-block:: dart

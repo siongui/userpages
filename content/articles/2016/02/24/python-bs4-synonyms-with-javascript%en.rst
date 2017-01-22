@@ -5,6 +5,7 @@
 :tags: Python, Beautiful Soup, JavaScript
 :category: Python
 :summary: Synonyms - Python_ `Beautiful Soup 4`_ translated to JavaScript_.
+:adsu: yes
 
 Synonyms - Python_ `Beautiful Soup 4`_ translated to JavaScript_.
 

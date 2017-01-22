@@ -6,6 +6,7 @@
 :category: 3C
 :summary: 有用物品 - 帳篷，蚊帳
 :og_image: ``https://gd3.alicdn.com/bao/uploaded/i3/2366411102/TB2ph2moFXXXXabXXXXXXXXXXXX_!!2366411102.jpg``
+:adsu: yes
 
 
 .. image:: https://gd3.alicdn.com/bao/uploaded/i3/2366411102/TB2ph2moFXXXXabXXXXXXXXXXXX_!!2366411102.jpg

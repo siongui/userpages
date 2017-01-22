@@ -4,6 +4,7 @@ Pāli Input Method on Ubuntu Linux
 :tags: Pāli Input Method, Ubuntu Linux
 :category: Pāli
 :summary: Type romanized Pāli on your Ubuntu Linux.
+:adsu: yes
 
 
 The blog post [1]_ discusses how to create an input method for romanized `Pāli <http://en.wikipedia.org/wiki/Pali>`_, but it doesn't give references for tweaking the mim file, i.e., tweaking the input method. Also, the blog post [1]_ seems to come from the thread [2]_.

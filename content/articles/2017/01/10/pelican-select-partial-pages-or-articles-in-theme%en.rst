@@ -6,6 +6,7 @@
 :category: Python
 :summary: Pelican_ static site generator - Get partial pages_ or articles_ with
           specific metadata_ by Jinja2_ built-in selectattr_ filter  in theme_.
+:adsu: yes
 
 
 Inspired by the answer to re-order pages in [1]_, this post shows how to get

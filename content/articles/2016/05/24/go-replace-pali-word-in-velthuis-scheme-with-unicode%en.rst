@@ -6,6 +6,7 @@
 :category: Go
 :summary: Find `Pāli`_ word in `Velthuis scheme`_, and replace them with
           unicode_ via Go_ programming language.
+:adsu: yes
 
 
 Find `Pāli`_ word in `Velthuis scheme`_, and replace them with unicode_

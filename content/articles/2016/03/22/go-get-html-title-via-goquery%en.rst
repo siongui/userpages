@@ -5,6 +5,7 @@
 :tags: Go, Golang, Commandline, html, goquery, Web Scrape, Go flag Package
 :category: Go
 :summary: A simple example to read HTML title via goquery_ in Go_.
+:adsu: yes
 
 
 A simple example to read HTML title via goquery_ in Golang_.

@@ -5,6 +5,7 @@
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM
 :category: GopherJS
 :summary: Traverse DOM_ tree via GopherJS_.
+:adsu: yes
 
 
 Traverse DOM_ tree in place via GopherJS_.

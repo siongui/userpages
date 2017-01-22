@@ -6,6 +6,7 @@ JavaScript Back to Top Link
 :tags: JavaScript, html
 :category: JavaScript
 :summary: JavaScript Back to Top Link
+:adsu: yes
 
 
 To add a "back to top" link is very easy, just add one line of code in the HTML

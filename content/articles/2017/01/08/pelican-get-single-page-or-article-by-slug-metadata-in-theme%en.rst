@@ -6,6 +6,7 @@
 :category: Python
 :summary: Pelican_ static site generator - Get a single page_ or article_ by
           *slug* metadata_ in theme_.
+:adsu: yes
 
 
 Sometimes we want to get a single page_ or article_ by some metadata_ in theme_.

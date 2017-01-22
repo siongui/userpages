@@ -6,6 +6,7 @@
 :tags: JavaScript, JSONP, CORS
 :category: JavaScript
 :summary: Redirect users to another website if the website is available.
+:adsu: yes
 
 
 The problem to be solved:

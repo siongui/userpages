@@ -6,6 +6,7 @@
 :tags: html, HTML5 audio, JavaScript
 :category: JavaScript
 :summary: Toggle sound on click event of DOM element.
+:adsu: yes
 
 
 This post shows how to toggle (play/pause) sound by JavaScript manipulation of

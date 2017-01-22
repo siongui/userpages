@@ -6,6 +6,7 @@ Pelican Generate index.html by reStructuredText or Markdown
 :category: Python
 :summary: Pelican_ static site generator - Generate index.html_ by writing
           reStructuredText_ or Markdown_.
+:adsu: yes
 
 
 Use Pelican_ static site generator to generate index.html_ by writing

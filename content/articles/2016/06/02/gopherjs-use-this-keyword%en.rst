@@ -5,6 +5,7 @@
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM
 :category: GopherJS
 :summary: Show how to access/use this_ keyword via GopherJS_.
+:adsu: yes
 
 
 Show how to access/use this_ keyword via GopherJS_.

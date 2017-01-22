@@ -6,6 +6,7 @@
 :category: 3C
 :summary: 有用物品 - 其他
 :og_image: https://lh3.googleusercontent.com/-YEf8r0ISxY4/VNNbsFBXZoI/AAAAAAAAlzQ/ltLd0ILj_do/s640/IMG_20120429_053534.jpg
+:adsu: yes
 
 
 `真空壓縮袋 <{filename}vacuum-seal-storage-bag-useful-items-for-me-notes%zh.rst>`_

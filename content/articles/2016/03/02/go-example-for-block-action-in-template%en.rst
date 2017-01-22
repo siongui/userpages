@@ -6,6 +6,7 @@
 :category: Go
 :summary: Example for `block action`_ in Go_ `text/template`_ and
           `html/template`_ packages.
+:adsu: yes
 
 
 Example for `block action`_ in Golang_ `text/template`_ and `html/template`_

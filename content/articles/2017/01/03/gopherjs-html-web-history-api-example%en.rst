@@ -6,6 +6,7 @@
 :category: GopherJS
 :summary: Change browser URL without reloading web pages - Example for
           `HTML history API`_ via GopherJS_.
+:adsu: yes
 
 
 Change browser URL without reloading the whole web page - only partially update

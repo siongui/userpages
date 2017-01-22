@@ -7,6 +7,7 @@
 :category: Go
 :summary: How to read XML/HTML files in Go programming language (for newbie)
           - Read element and its content.
+:adsu: yes
 
 Assume we have a XML file as follows:
 

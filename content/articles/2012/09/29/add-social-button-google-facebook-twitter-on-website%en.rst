@@ -6,6 +6,7 @@ Add Social Buttons (Google+, Facebook, Twitter) on Website
 :tags: Social Button
 :category: Web
 :summary: Use social buttons to make your website more popular.
+:adsu: yes
 
 
 There are already too many posts on social buttons, and I think the best

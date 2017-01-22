@@ -5,6 +5,7 @@ Vim編輯器將檔案格式從windows(dos)轉成unix(linux)
 :tags: Linux, Vim
 :category: Linux
 :summary: Vim_ 編輯器將檔案格式從windows(dos)轉成unix(linux)
+:adsu: yes
 
 
 Vim_ 編輯器將檔案格式從windows(dos)轉成unix(linux)，從 [1]_ 的回答：

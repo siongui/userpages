@@ -6,6 +6,7 @@
 :tags: JavaScript, HTTP GET, XMLHttpRequest
 :category: JavaScript
 :summary: JavaScript cross-browser HTTP GET request
+:adsu: yes
 
 
 This post shows how to make `HTTP GET request`_ in cross-browser way. The

@@ -8,6 +8,7 @@
 :summary: Implement `gettext function`_ on front-end (browsers) by GopherJS_.
           The *gettext* function translates a text string into the user's
           native language.
+:adsu: yes
 
 
 Introduction

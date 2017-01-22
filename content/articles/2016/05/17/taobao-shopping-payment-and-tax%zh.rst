@@ -7,6 +7,7 @@
 :category: 淘寶
 :summary: `淘寶`_/`天貓`_ 付款及課稅攻略
 :og_image: http://www.e-zone.com.hk/discuz/attachments/month_1207/20120724_097aa2fe646989b82cbdXz1QRe5IihdZ.jpg
+:adsu: yes
 
 
 - 無法購買

@@ -5,6 +5,7 @@ Linux系統，取代目錄(含子目錄)下所有檔案裡字串
 :tags: Linux, 字串處理
 :category: Linux
 :summary: 將某個目錄(含子目錄)下，所有檔案裡的某個字串(string)取代成另一個字串。
+:adsu: yes
 
 問題
 ++++

@@ -5,6 +5,7 @@
 :tags: Go, Golang, List Files in Directory
 :category: Go
 :summary: List all files in a directory in Go_. Similar to Python_ `os.walk`_.
+:adsu: yes
 
 List all files in a directory in Golang_. Similar to Python_ `os.walk`_.
 

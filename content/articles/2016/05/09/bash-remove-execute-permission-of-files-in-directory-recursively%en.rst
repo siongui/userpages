@@ -6,6 +6,7 @@
 :category: Bash
 :summary: Remove execute(x) permission of files in directory recursively via
           chmod_ command and Bash_ script.
+:adsu: yes
 
 
 Remove execute(x) permission of files in directory recursively via chmod_

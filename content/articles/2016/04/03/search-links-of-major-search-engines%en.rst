@@ -6,6 +6,7 @@ Search Links of Major Search Engines
 :category: JavaScript
 :summary: Search links of major search engines - Google_, DuckDuckGo_, Bing_,
           Yahoo_, Baidu_, Yandex_.
+:adsu: yes
 
 
 .. raw:: html

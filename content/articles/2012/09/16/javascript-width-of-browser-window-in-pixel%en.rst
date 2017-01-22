@@ -6,6 +6,7 @@
 :tags: html, JavaScript, DOM
 :category: JavaScript
 :summary: Width of browser window in pixel.
+:adsu: yes
 
 
 Here is an interesting and sometimes practical question:

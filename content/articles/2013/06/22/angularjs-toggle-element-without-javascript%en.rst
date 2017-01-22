@@ -4,6 +4,7 @@
 :tags: AngularJS, JavaScript, toggle, toggleable
 :category: AngularJS
 :summary: Example of toggling DOM element using AngularJS, without any JavaScript code.
+:adsu: yes
 
 
 The power of `AngularJS <https://angularjs.org/>`_ is best described by toggling element without writing any JavaScript code. This example will show you how to do toggle-able effect in AngularJS way.

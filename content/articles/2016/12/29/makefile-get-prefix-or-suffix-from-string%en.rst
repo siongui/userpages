@@ -6,6 +6,7 @@
        tail command, head command
 :category: Bash
 :summary: Get prefix_ or suffix_ of a string in Makefile_.
+:adsu: yes
 
 
 **Source code**:

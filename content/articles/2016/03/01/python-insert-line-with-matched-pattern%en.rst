@@ -7,6 +7,7 @@
 :category: Python
 :summary: Extract URL from reStructuredText_ link and insert the URL in the file
           as metadata via Python_.
+:adsu: yes
 
 
 Extract URL from reStructuredText_ link and insert the URL into the file as

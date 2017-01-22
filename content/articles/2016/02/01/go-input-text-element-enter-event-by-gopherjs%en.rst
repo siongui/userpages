@@ -6,6 +6,7 @@
 :category: GopherJS
 :summary: Add the enter keypress event handler for the `input text element`_ by
           GopherJS
+:adsu: yes
 
 Introduction
 ++++++++++++

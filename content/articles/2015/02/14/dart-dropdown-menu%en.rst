@@ -4,6 +4,7 @@ Dart Dropdown Menu
 :tags: Dart, dropdown menu
 :category: Dart
 :summary: Dropdown menu using Dart programming language.
+:adsu: yes
 
 
 This post gives an example of Dart_ dropdown menu, which the Dart version of

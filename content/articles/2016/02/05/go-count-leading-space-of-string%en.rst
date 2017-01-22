@@ -5,6 +5,7 @@
 :tags: Go, Golang, String Manipulation
 :category: Go
 :summary: Count leading spaces of a string in Go_.
+:adsu: yes
 
 Count leading spaces of a string in Golang_.
 

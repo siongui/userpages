@@ -6,6 +6,7 @@ Show Source Code on Web
 :tags: web, html
 :category: Web
 :summary: Show source code on your website
+:adsu: yes
 
 
 Sometime it is helpful to show source code on the website or blog. One way to do

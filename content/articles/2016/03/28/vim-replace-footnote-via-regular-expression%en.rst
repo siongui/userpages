@@ -6,6 +6,7 @@
 :category: Bash
 :summary: Replace footnote in reStructuredText_ format via `regular expression`_
           in Vim_ editor.
+:adsu: yes
 
 
 Replace footnote in reStructuredText_ format via `regular expression`_ in Vim_

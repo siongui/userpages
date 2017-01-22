@@ -6,6 +6,7 @@
 :category: 轉錄
 :summary: 有用物品
 :og_image: https://scontent-tpe1-1.xx.fbcdn.net/hvthumb-xta1/v/t15.0-10/12719682_500254210161672_1526669669_n.jpg?oh=567b8e0ad5b77f57519dc2508e24c9ca&oe=578ADA27
+:adsu: yes
 
 
 .. raw:: html

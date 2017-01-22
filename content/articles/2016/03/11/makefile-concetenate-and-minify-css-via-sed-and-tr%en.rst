@@ -7,6 +7,7 @@
        Minify HTML/CSS/JavaScript, cat command
 :category: Bash
 :summary: Concatenate and Minify CSS via sed_ and tr_ command in Makefile_.
+:adsu: yes
 
 
 Concatenate and Minify CSS via sed_ and tr_ command in Makefile_.

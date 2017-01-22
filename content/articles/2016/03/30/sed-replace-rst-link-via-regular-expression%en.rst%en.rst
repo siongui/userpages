@@ -7,6 +7,7 @@
 :category: Bash
 :summary: Make reStructuredText_ links of the same name anonymous via
           `regular expression`_ by sed_ stream editor.
+:adsu: yes
 
 
 Make reStructuredText_ links of the same name anonymous via

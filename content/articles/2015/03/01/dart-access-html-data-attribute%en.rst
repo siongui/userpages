@@ -5,6 +5,7 @@
 :tags: Dart, DOM, html
 :category: Dart
 :summary: Access data-* attribute of HTML elements in Dart
+:adsu: yes
 
 
 Explain by example, if you have following element in HTML:

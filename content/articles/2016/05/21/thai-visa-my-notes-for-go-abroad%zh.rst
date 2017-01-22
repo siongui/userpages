@@ -6,6 +6,7 @@
 :category: 出國
 :summary: 泰國簽證 - 出國書籤筆記
 :og_image: http://ext.pimg.tw/bangkokgoplay/1339662135-3120199429.jpg
+:adsu: yes
 
 
 * `泰國貿易經濟辦事處 (台北) <http://www.tteo.org.tw/main/zh/>`_

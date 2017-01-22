@@ -6,6 +6,7 @@
 :category: Go
 :summary: Go_ regexp_ example of `named group matches`_ - extract metadata from
           file path.
+:adsu: yes
 
 
 Golang_ regexp_ example of `named group matches`_ - extract metadata from file

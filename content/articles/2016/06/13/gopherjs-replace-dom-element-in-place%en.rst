@@ -5,6 +5,7 @@
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM
 :category: GopherJS
 :summary: Replace DOM_ element in place via GopherJS_.
+:adsu: yes
 
 
 Replace DOM_ element in place via GopherJS_.

@@ -6,6 +6,7 @@
        find command
 :category: Bash
 :summary: Find redundant files saved by Chrome_ browser via Bash_ script.
+:adsu: yes
 
 Find redundant files saved by Chrome_ browser via Bash_ script.
 

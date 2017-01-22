@@ -5,6 +5,7 @@
 :tags: Go, Golang, reStructuredText
 :category: Go
 :summary: Packages of reStructuredText_ (to HTML_) implementation in Go_.
+:adsu: yes
 
 
 Packages of reStructuredText_ (to HTML_) implementation in Golang_. After some

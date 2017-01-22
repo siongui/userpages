@@ -6,6 +6,7 @@
 :category: JavaScript
 :summary: Implementation of setting feature in web application via JSON_,
           `Web Storage`_ (localStorage_), and JavaScript_.
+:adsu: yes
 
 
 Implement setting feature to save user preferences in web application via JSON_,

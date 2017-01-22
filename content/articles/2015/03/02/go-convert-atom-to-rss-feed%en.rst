@@ -5,6 +5,7 @@
 :tags: Go, Golang, XML, Atom, RSS
 :category: Go
 :summary: Convert Atom 1.0 to RSS 2.0 format in Go programming language.
+:adsu: yes
 
 
 This post shows how to convert `Atom 1.0`_ to `RSS 2.0`_. The

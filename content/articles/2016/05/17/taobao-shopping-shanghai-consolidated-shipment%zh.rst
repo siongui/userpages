@@ -7,6 +7,7 @@
 :category: 淘寶
 :summary: `淘寶`_/`天貓`_ 購物，上海集貨商
 :og_image: http://www.e-zone.com.hk/discuz/attachments/month_1207/20120724_097aa2fe646989b82cbdXz1QRe5IihdZ.jpg
+:adsu: yes
 
 
 - `[問題] 推薦上海集貨商 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463728278.A.107.html>`_

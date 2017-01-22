@@ -5,6 +5,7 @@ CSS for reStructuredText Footnote and Citation
 :tags: CSS, html, SASS, SCSS
 :category: CSS
 :summary: CSS for reStructuredText_ (rst) footnote_ and citation_.
+:adsu: yes
 
 
 CSS for reStructuredText_ (rst) footnote_ and citation_:

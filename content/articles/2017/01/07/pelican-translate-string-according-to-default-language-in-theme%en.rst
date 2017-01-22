@@ -7,6 +7,7 @@
 :summary: Pelican_ static site generator - Support multilingual in Pelican
           theme_. Translate strings according to `default language`_ of
           settings_ in the theme. (implement macro_ gettext_)
+:adsu: yes
 
 
 Pelican_ static site generator and i18n_subsites_ plugin can help you build

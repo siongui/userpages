@@ -6,6 +6,7 @@ Pelican Add Buddhist Calendar
 :category: Python
 :summary: Pelican_ static site generator - add `Buddhist calendar`_
           in your theme_.
+:adsu: yes
 
 
 Use Pelican_ static site generator to add `Buddhist calendar`_ in your theme_.

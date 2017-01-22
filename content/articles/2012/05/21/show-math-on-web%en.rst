@@ -4,6 +4,7 @@ Show Math on Web
 :tags: LaTeX, math symbol, online latex editor, web
 :category: Web
 :summary: Show math symbols on the blog or website.
+:adsu: yes
 
 
 Sometimes we have to show math symbols on the blog or website, but how? I did some study and found the following interesting website:

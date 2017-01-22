@@ -5,6 +5,7 @@ goquery Get Number of Children Nodes
 :tags: Go, Golang, html, goquery, Web Scrape
 :category: Go
 :summary: Get the number of children nodes via goquery_ in Go_.
+:adsu: yes
 
 
 Get the number of children nodes via goquery_ in Golang_ (Go_ programming

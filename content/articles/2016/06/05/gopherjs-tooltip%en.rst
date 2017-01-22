@@ -6,6 +6,7 @@
        element offset, element position
 :category: GopherJS
 :summary: Tooltip_ via GopherJS_. Used in `Pāli Tipiṭaka`_.
+:adsu: yes
 
 
 Tooltip_ in Go_, compiled to JavaScript_ via GopherJS_.

@@ -6,6 +6,7 @@ MathJax Tex/LaTex測試網頁
 :category: Web開發
 :summary: MathJax_ Tex_/LaTex_ 測試網頁
 :og_image: https://upload.wikimedia.org/wikipedia/en/5/5f/MathJax.svg
+:adsu: yes
 
 .. raw:: html
 

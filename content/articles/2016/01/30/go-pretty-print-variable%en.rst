@@ -5,6 +5,7 @@
 :tags: pretty print, Go, Golang
 :category: Go
 :summary: Pretty print variable (struct, map, array, slice) in Go_.
+:adsu: yes
 
 Pretty print variable (struct, map, array, slice) in Golang_.
 The easiest way is through MarshalIndent_ function in json_ package.

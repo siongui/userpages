@@ -6,6 +6,7 @@
 :tags: Web開發
 :category: Web開發
 :summary: 透過GitHub平台協同撰寫網站
+:adsu: yes
 
 
 背景

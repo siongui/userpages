@@ -8,6 +8,7 @@
           Go_ program to do DOM_ manipulation by example. Detect user keypress
           by registering `keyboard event`_ handler and print out the keycode_ of
           the keyboard event.
+:adsu: yes
 
 Introduction
 ++++++++++++

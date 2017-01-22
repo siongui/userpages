@@ -4,6 +4,7 @@ Hide Div When Clicked Outside It
 :tags: JavaScript
 :category: JavaScript
 :summary: Hide div element when clicked outside it, in vanilla JavaScript way. No jQuery or libraries are used.
+:adsu: yes
 
 The `search result`_ of the tutorial for the feature
 "hide div element when clicked outside the div" is mostly about using jQuery_.

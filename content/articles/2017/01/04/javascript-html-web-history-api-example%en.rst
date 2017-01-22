@@ -6,6 +6,7 @@
 :category: JavaScript
 :summary: Change browser URL without reloading web pages - Example for how to
           use `HTML history API`_.
+:adsu: yes
 
 
 Change browser URL without reloading the whole web page - only partially update

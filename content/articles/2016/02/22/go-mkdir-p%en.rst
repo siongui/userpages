@@ -5,6 +5,7 @@
 :tags: Go, Golang, Bash, Commandline
 :category: Go
 :summary: `mkdir -p`_ command in Go_
+:adsu: yes
 
 
 `mkdir -p`_ command in Golang_

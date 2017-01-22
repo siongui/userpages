@@ -6,6 +6,7 @@
 :category: 3C
 :summary: 抽屜式鞋子收納盒 - 有用物品
 :og_image: ``https://gd4.alicdn.com/bao/uploaded/i4/TB19eRmKXXXXXaUXXXXXXXXXXXX_!!0-item_pic.jpg``
+:adsu: yes
 
 
 * `[心得] 淘寶 抱枕套/收納箱/鞋盒 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463219532.A.64B.html>`_

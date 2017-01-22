@@ -4,6 +4,7 @@ Python Library xml.dom.minidom Howto (1)
 :tags: DOM, html, minidom, Python, XML
 :category: Python
 :summary: Python XML/HTML manipulation primer of xml.dom.minidom
+:adsu: yes
 
 
 CREATE A DOCUMENT

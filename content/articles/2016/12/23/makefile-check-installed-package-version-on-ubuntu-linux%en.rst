@@ -7,6 +7,7 @@
 :category: Bash
 :summary: Given an installed package name on Ubuntu Linux, find its version in
           Makefile_.
+:adsu: yes
 
 
 Given an installed package name on Ubuntu Linux, find its version in Makefile_.

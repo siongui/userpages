@@ -6,6 +6,7 @@ Golang html/template versus Python Jinja2 (2)
 :category: Go
 :summary: Comparison of Python Jinja2 and Go html/template, side by side for
           easy reference - print Hello World! on screen
+:adsu: yes
 
 Print ``Hello World!`` on screen by *Python Jinja2* and *Go html/template*
 respectively.

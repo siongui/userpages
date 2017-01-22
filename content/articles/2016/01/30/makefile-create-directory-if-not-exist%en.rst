@@ -6,6 +6,7 @@
 :category: Bash
 :summary: Makefile - Create a directory if it does not exist. Otherwise do
           nothing.
+:adsu: yes
 
 
 Write a command line in Makefile: Create a directory if it does not exist.

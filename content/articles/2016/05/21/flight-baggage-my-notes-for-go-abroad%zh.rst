@@ -6,6 +6,7 @@
 :category: 出國
 :summary: 搭機行李 - 出國書籤筆記
 :og_image: http://f.tqn.com/y/airtravel/1/W/_/H/sb10069230w-001.jpg
+:adsu: yes
 
 
 - 搭飛機 行李 托運 攜帶物品

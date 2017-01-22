@@ -6,6 +6,7 @@ AA/AAA電池充電器
 :category: 3C
 :summary: AA/AAA電池充電器 - 有用物品
 :og_image: ``https://gd2.alicdn.com/bao/uploaded/i2/17724020024603766/T1SionXl8dXXXXXXXX_!!0-item_pic.jpg``
+:adsu: yes
 
 
 ..

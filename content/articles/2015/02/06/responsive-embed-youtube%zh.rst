@@ -4,6 +4,7 @@
 :tags: 響應式網頁設計(Responsive Web Design), Web開發, CSS
 :category: 響應式網頁設計(Responsive Web Design)
 :summary: 現今移動裝置盛行，有各種不同螢幕大小的裝置來瀏覽網站，若在網站上要內嵌入Youtube的影片，該如何讓該影片可以根據瀏覽裝置的螢幕大小自動調整影片嵌入大小呢？
+:adsu: yes
 
 
 響應式嵌入影片

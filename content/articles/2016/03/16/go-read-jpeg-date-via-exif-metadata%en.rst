@@ -5,6 +5,7 @@
 :tags: Go, Golang, File Input/Output
 :category: Go
 :summary: Read JPEG_ image date from Exif_ metadata in Go_ programming language.
+:adsu: yes
 
 Read JPEG_ image date from Exif_ metadata in Golang_.
 

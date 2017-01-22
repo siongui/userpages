@@ -5,6 +5,7 @@
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM
 :category: GopherJS
 :summary: Access child nodes (childNodes_) of DOM_ element via GopherJS_.
+:adsu: yes
 
 
 Access child nodes (childNodes_) of DOM_ element via GopherJS_.

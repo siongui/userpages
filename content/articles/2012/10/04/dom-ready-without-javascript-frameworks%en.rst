@@ -5,6 +5,7 @@ DOM Ready without JavaScript Frameworks
 :tags: JavaScript, DOM
 :category: JavaScript
 :summary: Check DOM readiness in vanilla JavaScript.
+:adsu: yes
 
 
 "`DOM ready`_" is an important event because HTML elements like *div* or *span*

@@ -6,6 +6,7 @@
 :category: Go
 :summary: Read Yes/No (i.e., ask for user confirmation) from console in Go_
           programming language.
+:adsu: yes
 
 
 Read Yes/No (i.e., ask for user confirmation) from console in Golang_ (Go_

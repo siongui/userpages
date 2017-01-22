@@ -7,6 +7,7 @@
 :summary: Use SQLite_ in Go_ program. Write a Golang_ program to initialize a
           database, create a table, write some data to the table and read data
           from the table.
+:adsu: yes
 
 Introduction
 ++++++++++++

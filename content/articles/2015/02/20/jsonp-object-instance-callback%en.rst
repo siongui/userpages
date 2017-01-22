@@ -7,6 +7,7 @@ Use Object Instance Function as JSONP Callback Function
 :category: JavaScript
 :summary: Cross-domain requests by JSONP with object instance function as
           callback on Google App Engine for Python.
+:adsu: yes
 
 
 In my previous posts, a basic JSONP example [1]_, and another example of JSONP

@@ -6,6 +6,7 @@ Deploy Website by Pelican, Travis CI, and GitHub Pages
 :category: Web Development
 :summary: Automatic deployment of websites, by Pelican_, `Travis CI`_, and
           `Github Pages`_
+:adsu: yes
 
 
 I use two separate repositories for the source and the built website. One is

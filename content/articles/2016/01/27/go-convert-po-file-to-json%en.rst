@@ -8,6 +8,7 @@
           be passed to front-end by web servers to translate a text string into
           the user's native language. You can use the JSON data to implement
           `gettext function`_ in browsers.
+:adsu: yes
 
 
 Introduction

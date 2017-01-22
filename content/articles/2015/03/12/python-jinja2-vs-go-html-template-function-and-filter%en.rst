@@ -7,6 +7,7 @@ Golang html/template versus Python Jinja2 (7) - Custom Functions and Filters
 :summary: Comparison of Python Jinja2 and Go html/template, side by side for
           easy reference - Go template custom function vs Jinja2 custom filter
           and function.
+:adsu: yes
 
 The custom function in Go `html/template`_ is similar to Jinja2_ custom filters
 in terms of syntax and functionality. The custom function can also be used in

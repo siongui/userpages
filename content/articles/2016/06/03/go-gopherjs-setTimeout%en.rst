@@ -6,6 +6,7 @@
 :category: GopherJS
 :summary: JavaScript_ setTimeout_ equivalent in Go_/GopherJS_ -
           `time.AfterFunc`_.
+:adsu: yes
 
 
 JavaScript_ setTimeout_ equivalent in Go_/GopherJS_ - `time.AfterFunc`_.

@@ -6,6 +6,7 @@
 :category: Go
 :summary: Remove leading and trailing empty strings in string array_/slice_ via
           Go_ programming language.
+:adsu: yes
 
 Remove leading and trailing empty strings in string array_/slice_ via Golang_.
 This is similar to removing leading and trailing whitespaces in a string, but in

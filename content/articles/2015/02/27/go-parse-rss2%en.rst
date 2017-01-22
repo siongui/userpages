@@ -6,6 +6,7 @@
 :category: Go
 :summary: How to read XML/HTML files in Go programming language (for newbie)
           - Parse RSS 2.0 format.
+:adsu: yes
 
 
 This post shows how to parse XML of `RSS 2.0`_ format. The

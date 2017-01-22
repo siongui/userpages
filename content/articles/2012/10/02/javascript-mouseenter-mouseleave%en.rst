@@ -6,6 +6,7 @@
 :tags: html, JavaScript, mouseenter, mouseleave
 :category: JavaScript
 :summary: JavaScript Cross-Browser Implementation of onMouseEnter and onMouseLeave Event
+:adsu: yes
 
 
 onmouseenter_ and onmouseleave_ event are not supported in old browsers. If you

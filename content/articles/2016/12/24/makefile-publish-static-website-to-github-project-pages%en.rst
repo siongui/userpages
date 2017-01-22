@@ -6,6 +6,7 @@
 :category: Bash
 :summary: Publish your static website to GitHub project pages via ghp-import_ in
           Makefile_.
+:adsu: yes
 
 
 First install ghp-import_ via pip_ (`Ubuntu Linux 16.10`_ as example):

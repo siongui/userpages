@@ -6,6 +6,7 @@
 :category: 3C
 :summary: 行李箱，登機箱 - 有用物品
 :og_image: https://img.shoplineapp.com/media/image_clips/58647c2772fdc0f748003770/xlarge.jpg
+:adsu: yes
 
 
 ..

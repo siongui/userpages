@@ -6,6 +6,7 @@
        File Input/Output
 :category: Go
 :summary: Concatenate JavaScript_ files via Go_ programming language.
+:adsu: yes
 
 Concatenate JavaScript_ files via Golang_.
 

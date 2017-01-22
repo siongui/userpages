@@ -6,6 +6,7 @@
 :tags: JavaScript, HTTP POST, XMLHttpRequest
 :category: JavaScript
 :summary: JavaScript cross-browser HTTP POST request
+:adsu: yes
 
 This post shows how to make `HTTP POST request`_ with
 `query string (key-value pairs)`_ in cross-browser way. The following *HTTPPOST*

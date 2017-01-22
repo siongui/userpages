@@ -5,6 +5,7 @@
 :tags: AngularJS, JavaScript, IME, Pāli Input Method, Virtual Keyboard/Keypad
 :category: AngularJS
 :summary: Virtual kayboard/keypad via AngularJS_. Used in `Pāli Dictionary`_.
+:adsu: yes
 
 
 Virtual kayboard/keypad via AngularJS_.

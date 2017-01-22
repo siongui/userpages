@@ -7,6 +7,7 @@
 :summary: Create or migrate user account with SSH_ login only (no password
           login) on AWS_ EC2_ t2.nano_ with `Ubuntu 14.04 LTS`_.
 :og_image: https://upload.wikimedia.org/wikipedia/commons/1/1d/AmazonWebservices_Logo.svg
+:adsu: yes
 
 
 Create or migrate user account with SSH_ login only (no password login) on AWS_

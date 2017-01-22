@@ -6,6 +6,7 @@
 :tags: AngularJS, JavaScript, Directives, mouseenter, mouseleave
 :category: AngularJS
 :summary: Solution to mouseenter and mouseleave event in old version AngularJS.
+:adsu: yes
 
 
 Old version AngularJS_ (such as 1.1.3) has incorrect implementation of

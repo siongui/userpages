@@ -6,6 +6,7 @@ JavaScript Remove All Children of a DOM Element
 :tags: html, JavaScript, DOM
 :category: JavaScript
 :summary: Bug-free way of removing child nodes of a DOM element in JavaScript.
+:adsu: yes
 
 
 Here comes an interesting question: how to remove all child nodes of a DOM

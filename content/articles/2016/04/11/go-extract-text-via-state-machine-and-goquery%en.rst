@@ -7,6 +7,7 @@
 :category: Go
 :summary: Extract text (i.e., footnote) in HTML_ via `state machine`_ and
           goquery_ in Go_ programming language.
+:adsu: yes
 
 
 Introduction

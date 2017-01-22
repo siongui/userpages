@@ -7,6 +7,7 @@ goquery - Replace HTML Link Node with reStructuredText Text Node
 :category: Go
 :summary: Replace `HTML links`_ node with `text node`_ of restructuredtext_
           format in a webpage via goquery_ in Go_ programming language.
+:adsu: yes
 
 
 Introduction

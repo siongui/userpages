@@ -6,6 +6,7 @@
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM, JavaScript, CSS
 :category: GopherJS
 :summary: Synonyms - Go_/GopherJS_ idioms and snippets translated to JavaScript_
+:adsu: yes
 
 
 Inspired by [4]_, Golang_/GopherJS_ (with / without

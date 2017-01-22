@@ -6,6 +6,7 @@
 :tags: html, CORS, JavaScript
 :category: JavaScript
 :summary: Load website icon (favicon) dynamically.
+:adsu: yes
 
 
 This post is an extension of reference [1]_, which discusses how to load

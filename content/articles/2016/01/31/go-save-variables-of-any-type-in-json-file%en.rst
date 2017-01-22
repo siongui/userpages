@@ -6,6 +6,7 @@
 :category: Go
 :summary: Save variables of any type (struct, map, array, slice, etc.) in JSON_
           format file via Go_ programming language.
+:adsu: yes
 
 
 Save variables of any type (struct, map, array, slice, etc.) in JSON_ format

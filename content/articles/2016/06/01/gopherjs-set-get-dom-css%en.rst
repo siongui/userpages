@@ -5,6 +5,7 @@
 :tags: Go, Golang, GopherJS, Go to JavaScript, CSS, DOM
 :category: GopherJS
 :summary: Example - Set or Get CSS_ property of DOM_ element via GopherJS_.
+:adsu: yes
 
 
 Example - Set or Get CSS_ property of DOM_ element via GopherJS_.

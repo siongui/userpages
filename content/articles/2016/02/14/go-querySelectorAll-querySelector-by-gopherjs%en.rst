@@ -5,6 +5,7 @@
 :tags: Go, Golang, GopherJS, DOM, Go to JavaScript
 :category: GopherJS
 :summary: Go_ querySelectorAll_ and querySelector_ Example by GopherJS_.
+:adsu: yes
 
 Golang_ querySelectorAll_ and querySelector_ Example by GopherJS_.
 

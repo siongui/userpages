@@ -5,6 +5,7 @@
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM
 :category: GopherJS
 :summary: DOM_ Example of createElement_ and createTextNode_ via GopherJS_.
+:adsu: yes
 
 
 DOM_ Example of createElement_ and createTextNode_ via GopherJS_.

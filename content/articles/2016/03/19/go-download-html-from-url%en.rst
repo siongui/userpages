@@ -7,6 +7,7 @@
 :category: Go
 :summary: Download and save HTML file from given URL via Go_. Do nothing if the
           HTML file already locally exists.
+:adsu: yes
 
 
 Download and save HTML file from given URL via Golang_. Do nothing if the HTML

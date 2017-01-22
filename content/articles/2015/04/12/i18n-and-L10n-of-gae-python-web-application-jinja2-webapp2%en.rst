@@ -6,6 +6,7 @@ Internationalization and Localization of Google App Engine Python Webapp Using w
 :category: Python
 :summary: i18n and L10n of Google App Engine Python web application, with
           webapp2, Jinja2, Babel, and pytz.
+:adsu: yes
 
 
 This post shows how to use webapp2_ web framework and Jinja2_ templating system

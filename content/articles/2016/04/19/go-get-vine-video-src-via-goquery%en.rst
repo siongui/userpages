@@ -7,6 +7,7 @@
 :summary: Get Vine_ video src URL via goquery_ in Go_ programming language.
           My answer to `Stack Overflow`_ question:
           `Getting blank return when using GoQuery to get video src`_
+:adsu: yes
 
 
 Get Vine_ video mp4 source URL via goquery_ in Golang_

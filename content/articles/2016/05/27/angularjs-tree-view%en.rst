@@ -5,6 +5,7 @@
 :tags: AngularJS, JavaScript
 :category: AngularJS
 :summary: Treeview_ via AngularJS_. Used in `Pāli Tipiṭaka`_.
+:adsu: yes
 
 
 Treeview_ via AngularJS_.

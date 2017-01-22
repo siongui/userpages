@@ -5,6 +5,7 @@
 :tags: Dart, DOM, draggable
 :category: Dart
 :summary: Draggable, movable (drag and drop) HTML element using Dart programming language.
+:adsu: yes
 
 
 This post is Dart_ version of my previous posts [1]_ and [2]_.

@@ -7,6 +7,7 @@ Basic HTML Table to reStructuredText Support for HTML2RST service on GAE Go
 :category: Google App Engine
 :summary: Add basic `HTML table`_ to reStructuredText_ support for
           `online HTML to reStructuredText service`_ on `Google App Engine Go`_.
+:adsu: yes
 
 
 Add basic `HTML table`_ to reStructuredText_ support for

@@ -5,6 +5,7 @@
 :tags: Go, Golang, html, Regular Expression, String Manipulation
 :category: Go
 :summary: Wrap `Pāli`_ words in span_ element via `regular expression`_ and Go_.
+:adsu: yes
 
 
 Wrap `Pāli`_ words in span_ element via `regular expression`_ and Golang_ (Go_

@@ -6,6 +6,7 @@
        reStructuredText
 :category: Bash
 :summary: Append text at the beginning of each line via sed_ stream editor.
+:adsu: yes
 
 
 Append text at the beginning of each line via sed_ stream editor.

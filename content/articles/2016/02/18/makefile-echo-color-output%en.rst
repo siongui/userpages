@@ -5,6 +5,7 @@
 :tags: Bash, Makefile, Commandline
 :category: Bash
 :summary: echo_ colorful output in Makefile_.
+:adsu: yes
 
 
 echo_ colorful output in Makefile_. I tried several methods but they did not

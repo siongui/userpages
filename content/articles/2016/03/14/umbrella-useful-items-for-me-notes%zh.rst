@@ -6,6 +6,7 @@
 :category: 3C
 :summary: 有用物品 - 雨傘
 :og_image: https://lh3.googleusercontent.com/-YEf8r0ISxY4/VNNbsFBXZoI/AAAAAAAAlzQ/ltLd0ILj_do/s640/IMG_20120429_053534.jpg
+:adsu: yes
 
 
 - `超大晴雨两用雨伞折叠韩国创意男女三折伞太阳伞遮阳防晒防紫外线 <https://item.taobao.com/item.htm?id=526516506004>`_

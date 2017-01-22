@@ -5,6 +5,7 @@
 :tags: Go, Golang, String Manipulation
 :category: Go
 :summary: Output fixed width/length string in Go_ programming language.
+:adsu: yes
 
 
 Output fixed width/length string in Golang_ (Go_ programming language).

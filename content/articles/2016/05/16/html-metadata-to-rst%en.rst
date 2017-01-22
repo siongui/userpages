@@ -7,6 +7,7 @@ Guess Metadata from HTML and Converted to reStructuredText
 :category: Go
 :summary: Guess metadata from HTML_ webpage and convert it to reStructuredText_
           format.
+:adsu: yes
 
 
 Guess metadata from HTML_ webpage and convert it to reStructuredText_ format.

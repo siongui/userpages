@@ -8,6 +8,7 @@
 :summary: Run Golang_ program in your browser by GopherJS_. Access
           `HTTP Request Header`_ by `getAllResponseHeaders()`_ method in
           XMLHttpRequest_ (XHR) request.
+:adsu: yes
 
 Introduction
 ++++++++++++

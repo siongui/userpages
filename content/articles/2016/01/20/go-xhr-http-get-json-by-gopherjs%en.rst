@@ -8,6 +8,7 @@
 :summary: Run Golang_ program in your browser by GopherJS_. Use XMLHttpRequest_
           (XHR) to send `HTTP GET`_ requests to retrieve JSON_ data from remote
           server.
+:adsu: yes
 
 
 Introduction

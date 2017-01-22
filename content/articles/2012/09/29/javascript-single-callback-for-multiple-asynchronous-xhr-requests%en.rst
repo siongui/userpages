@@ -6,6 +6,7 @@
 :tags: JavaScript, HTTP GET, CORS, XMLHttpRequest
 :category: JavaScript
 :summary: JavaScript single callback for multiple asynchronous XHR requests.
+:adsu: yes
 
 Assume that multiple Asynchronous AJAX_ Requests (XMLHttpRequest_) are made, and
 we would like to have a single final callback_ function to be run after all the

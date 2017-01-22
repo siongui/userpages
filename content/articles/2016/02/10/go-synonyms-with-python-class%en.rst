@@ -5,6 +5,7 @@
 :tags: Go, Golang, Python, Data Structure
 :category: Go
 :summary: Synonyms - Python_ class_ translated to Go_
+:adsu: yes
 
 Simple example of writing Python_ class_ synonyms in Golang_.
 

@@ -6,6 +6,7 @@
 :category: 3C
 :summary: 有用物品 - 手電筒 頭燈 照明
 :og_image: ``https://gd1.alicdn.com/bao/uploaded/i1/TB1smLeKVXXXXbuXpXXXXXXXXXX_!!0-item_pic.jpg``
+:adsu: yes
 
 
 ..

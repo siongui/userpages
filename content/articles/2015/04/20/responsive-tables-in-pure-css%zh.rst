@@ -5,6 +5,7 @@
 :tags: 響應式網頁設計(Responsive Web Design), Web開發, CSS
 :category: 響應式網頁設計(Responsive Web Design)
 :summary: 利用HTML data屬性來達成純CSS響應式Table
+:adsu: yes
 
 在 [1]_ 裡頭用一個有趣的手法來達成純CSS的響應式 Table_.
 把 *th* 欄位裡的資料，利用 `HTML data屬性`_ 藏在每筆 *td* 旁，

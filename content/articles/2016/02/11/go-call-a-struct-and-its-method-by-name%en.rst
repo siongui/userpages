@@ -6,6 +6,7 @@
 :category: Go
 :summary: Call a function (method_) of a struct_ by name during run-time in Go_.
           (`run-time reflection`_)
+:adsu: yes
 
 Call a function (method_) of a struct_ by name during run-time in Golang_.
 (`run-time reflection`_)

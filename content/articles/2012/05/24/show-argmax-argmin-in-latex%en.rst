@@ -4,6 +4,7 @@ Show argmax/argmin in LaTeX on Blog
 :tags: argmax, argmin, LaTeX, math symbol
 :category: LaTeX
 :summary: Type the math symbol "argmin" and "argmax" in LaTeX
+:adsu: yes
 
 
 This deserves a single post. I asked my senior classmate, `parity <https://plus.google.com/102515651050568228591>`_. He gave me a really cool solution. Here is the cool solution. Just type:

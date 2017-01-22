@@ -6,6 +6,7 @@
 :category: 3C
 :summary: 防水防潮地席地布 - 有用物品
 :og_image: https://gd3.alicdn.com/bao/uploaded/i7/T138JGXgpzXXbk5ZZW_023048.jpg
+:adsu: yes
 
 .. image:: https://gd3.alicdn.com/bao/uploaded/i7/T138JGXgpzXXbk5ZZW_023048.jpg
    :alt: 蓝色领域 超轻便携多彩地席 野餐垫 防潮垫 地垫 3*3*1.5*2.5米

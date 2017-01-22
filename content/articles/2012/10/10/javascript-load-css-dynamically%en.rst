@@ -6,6 +6,7 @@
 :tags: html, CORS, JavaScript, CSS
 :category: JavaScript
 :summary: Load CSS file dynamically.
+:adsu: yes
 
 
 To load (external) CSS file dynamically, insert the following *LoadCSS* function

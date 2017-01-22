@@ -5,6 +5,7 @@
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM
 :category: GopherJS
 :summary: Use getElementsByTagName_ to access head_ element via GopherJS_.
+:adsu: yes
 
 
 Use getElementsByTagName_ to access head_ element via GopherJS_.

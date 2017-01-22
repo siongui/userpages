@@ -5,6 +5,7 @@
 :tags: JavaScript, DOM, html
 :category: JavaScript
 :summary: Example of accessing browser URL via JavaScript_ window.location_.
+:adsu: yes
 
 
 Example of accessing browser URL (includes path, `query string`_, etc.) via

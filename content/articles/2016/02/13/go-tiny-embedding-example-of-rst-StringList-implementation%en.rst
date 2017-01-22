@@ -6,6 +6,7 @@
 :category: Go
 :summary: Tiny Go_ embedding_ code example of analogy to StringList_
           implementation of reStructuredText_.
+:adsu: yes
 
 Tiny Golang_ embedding_ code example of analogy to StringList_ implementation
 of reStructuredText_.

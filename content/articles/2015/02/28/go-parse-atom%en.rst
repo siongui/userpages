@@ -6,6 +6,7 @@
 :category: Go
 :summary: How to read XML/HTML files in Go programming language (for newbie)
           - Parse Atom 1.0 format.
+:adsu: yes
 
 
 This post shows how to parse XML of `Atom 1.0`_ format. The

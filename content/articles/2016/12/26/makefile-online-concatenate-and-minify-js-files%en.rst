@@ -7,6 +7,7 @@
 :category: Bash
 :summary: Concatenate and minify JavaScript_ files via Makefile_, curl_, and
           online `Google Closure Compiler`_.
+:adsu: yes
 
 
 Concatenate and minify/compress JavaScript_ files via Makefile_, curl_, and

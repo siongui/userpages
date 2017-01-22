@@ -9,6 +9,7 @@
 :summary: Iterate over all DOM_ elements in HTML_ via Go_ programming language.
           Use `net/html`_ package to parse and iterate all elements in HTML.
           Search for `HTML links`_ and output them in reStructuredText_ format.
+:adsu: yes
 
 
 Introduction

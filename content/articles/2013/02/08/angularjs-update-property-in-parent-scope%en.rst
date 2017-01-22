@@ -7,6 +7,7 @@
 :category: AngularJS
 :summary: Update parent scope from child scope by event dispatching and
           listening mechanism.
+:adsu: yes
 
 When developing AngularJS_ application, sometimes we need to update properties
 in parent scope_ from child scope. Although properties inherited from parent

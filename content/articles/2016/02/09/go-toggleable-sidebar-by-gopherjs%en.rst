@@ -5,6 +5,7 @@
 :tags: Go, Golang, GopherJS, DOM, Go to JavaScript, toggle, toggleable
 :category: GopherJS
 :summary: Go_ toggle-able sidebar by GopherJS_, inspired by Octopress_.
+:adsu: yes
 
 Golang_ toggle-able sidebar by GopherJS_, inspired by Octopress_.
 This is a re-write of toggle-able sidebar of Dart_ version [3]_.

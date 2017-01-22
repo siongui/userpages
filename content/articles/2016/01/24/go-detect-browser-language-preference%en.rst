@@ -7,6 +7,7 @@
 :summary: Run Golang_ program in your browser by GopherJS_. Access
           `window.navigator.language`_ of NavigatorLanguage_ API to detect
           browser language preference (user locale_).
+:adsu: yes
 
 Introduction
 ++++++++++++

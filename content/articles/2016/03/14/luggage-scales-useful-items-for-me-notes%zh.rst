@@ -6,6 +6,7 @@
 :category: 3C
 :summary: 行李秤 - 有用物品
 :og_image: ``https://img.alicdn.com/bao/uploaded/i4/TB1oJzEHFXXXXaXXVXXXXXXXXXX_!!0-item_pic.jpg_430x430q90.jpg``
+:adsu: yes
 
 
 ..

@@ -6,6 +6,7 @@
 :category: 出國
 :summary: 花旗信用卡 - 出國書籤筆記
 :og_image: http://pengeportalen.com/wp-content/uploads/2014/11/Sears-Master-Card.jpg
+:adsu: yes
 
 
 * `花旗信用卡 OTP 國外 - Google search <https://www.google.com/search?q=%E8%8A%B1%E6%97%97%E4%BF%A1%E7%94%A8%E5%8D%A1+OTP+%E5%9C%8B%E5%A4%96>`_

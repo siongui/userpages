@@ -7,6 +7,7 @@
        Minify HTML/CSS/JavaScript
 :category: Go
 :summary: `Minify CSS`_ via Go_ programming language.
+:adsu: yes
 
 `Minify CSS`_ via Golang_.
 

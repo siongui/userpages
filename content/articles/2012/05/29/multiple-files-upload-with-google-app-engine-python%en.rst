@@ -4,6 +4,7 @@ Multiple Files Upload with Google App Engine Python
 :tags: Google App Engine, html, JavaScript, multipart/form-data, multiple files upload, Python
 :category: Web Development
 :summary: Let website users upload multiple files to Google App Engine (Python) servers.
+:adsu: yes
 
 
 On client side (**HTML** code for browsers):

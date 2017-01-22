@@ -5,6 +5,7 @@
 :tags: Go, Golang, String Manipulation
 :category: Go
 :summary: Remove prefix or suffix from string via Go_ programming language.
+:adsu: yes
 
 
 Trim/Remove Prefix

@@ -5,6 +5,7 @@
 :tags: Go, Golang, GopherJS, Go to JavaScript, Commandline, Continuous Integration
 :category: GopherJS
 :summary: Example of how to use *serve* and *build* command of GopherJS_.
+:adsu: yes
 
 
 GopherJS provide command line tools but there is no enough documentation of the

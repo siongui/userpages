@@ -6,6 +6,7 @@
 :category: Go
 :summary: Get UTF-8_ string width (width of English letter is 1, width of
           `CJK character`_ is 2) in Go_ programming language.
+:adsu: yes
 
 
 Get UTF-8_ string width (width of English letter is 1, width of `CJK character`_

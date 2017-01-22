@@ -5,6 +5,7 @@
 :tags: JavaScript, SCSS, CSS, html
 :category: JavaScript
 :summary: Make font size of your website larger/smaller via JavaScript_.
+:adsu: yes
 
 
 Make font size of your website larger/smaller via JavaScript_.

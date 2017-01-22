@@ -6,6 +6,7 @@
 :category: GopherJS
 :summary: Two ways to register event handler via GopherJS_:
           Set element on-Event property or addEventListener_.
+:adsu: yes
 
 
 .. contents:: Two ways to register event handler, use `onclick event`_ as example:

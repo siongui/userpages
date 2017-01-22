@@ -5,6 +5,7 @@
 :tags: Dart, Keyboard Event
 :category: Dart
 :summary: Detect keystrokes in Dart programming language.
+:adsu: yes
 
 
 This is Dart_ verion of my previous post

@@ -6,6 +6,7 @@
 :category: GopherJS
 :summary: Online `snake game`_ using Go_ programming language, compiled to
           JavaScript_ by GopherJS_. (GopherJS DOM_ example)
+:adsu: yes
 
 
 .. rubric:: `Demo <https://siongui.github.io/go-online-snake-game/>`__ (`Fork me on Github <https://github.com/siongui/go-online-snake-game>`__)

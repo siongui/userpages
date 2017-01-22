@@ -6,6 +6,7 @@
 :category: 3C
 :summary: 有用物品 - 睡袋內套，毛毯
 :og_image: ``https://gd2.alicdn.com/bao/uploaded/i2/10913036680340294/T14Z1KXwRdXXXXXXXX_!!0-item_pic.jpg``
+:adsu: yes
 
 
 .. image:: //gd2.alicdn.com/bao/uploaded/i2/10913036680340294/T14Z1KXwRdXXXXXXXX_!!0-item_pic.jpg

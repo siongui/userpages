@@ -7,6 +7,7 @@
 :category: Go
 :summary: Convert HTML_ to restructuredtext_ format via `net/html`_ package
           in Go_ programming language. (Not fully supported)
+:adsu: yes
 
 
 Introduction

@@ -5,6 +5,7 @@ PTT搜尋
 :tags: Web開發, 字串處理
 :category: 網頁小工具
 :summary: 搜尋 PTT_ BBS_.
+:adsu: yes
 
 
 .. raw:: html

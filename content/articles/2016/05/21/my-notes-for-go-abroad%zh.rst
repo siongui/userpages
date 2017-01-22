@@ -6,6 +6,7 @@
 :category: 出國
 :summary: 出國書籤筆記
 :og_image: http://www.globaldatingrevolution.com/images/travel-the-world.gif
+:adsu: yes
 
 
 - `機票 <{filename}flight-ticket-my-notes-for-go-abroad%zh.rst>`_

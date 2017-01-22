@@ -6,6 +6,7 @@
 :tags: html, String Manipulation, JavaScript, DOM
 :category: JavaScript
 :summary: JavaScript equivalent of Python string startswith, endswith, and contains.
+:adsu: yes
 
 
 When we do programming with strings, it's very common to have the following

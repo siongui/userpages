@@ -5,6 +5,7 @@ git復原最後一次的commit
 :tags: Linux, git
 :category: Linux
 :summary: git復原最後一次的commit
+:adsu: yes
 
 從 [1]_ 的回答：
 

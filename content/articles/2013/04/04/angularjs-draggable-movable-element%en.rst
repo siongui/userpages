@@ -6,6 +6,7 @@
 :tags: JavaScript, DOM, draggable, AngularJS
 :category: AngularJS
 :summary: Draggable, movable HTML element using AngularJS.
+:adsu: yes
 
 
 The following code demonstrates how to make a dom element draggable in

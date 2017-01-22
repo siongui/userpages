@@ -6,6 +6,7 @@
 :tags: html, HTML5 audio, JavaScript
 :category: JavaScript
 :summary: Play sound on click event of DOM element.
+:adsu: yes
 
 
 In this post, we will show how to use audio_ element provided in HTML5 standard

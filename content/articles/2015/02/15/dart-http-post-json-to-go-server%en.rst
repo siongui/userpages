@@ -5,6 +5,7 @@
        XMLHttpRequest, Go net/http
 :category: Go
 :summary: Show how to pass JSON-format data using HTTP POST between browser (implemented with Dart) and web server (implemented with Go).
+:adsu: yes
 
 
 This post shows how to write a web application which passes JSON-format data

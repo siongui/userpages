@@ -6,6 +6,7 @@
        reStructuredText
 :category: Bash
 :summary: Insert a line after first pattern match via sed_ stream editor.
+:adsu: yes
 
 
 Insert a line after first pattern match via sed_ stream editor.

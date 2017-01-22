@@ -5,6 +5,7 @@
 :tags: Go, Golang, GopherJS, DOM, Go to JavaScript, Copy to Clipboard
 :category: GopherJS
 :summary: Copy content of textarea_ to clipboard via GopherJS_.
+:adsu: yes
 
 Copy content of textarea_ to clipboard via GopherJS_.
 

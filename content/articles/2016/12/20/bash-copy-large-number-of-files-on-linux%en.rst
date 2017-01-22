@@ -5,6 +5,7 @@
 :tags: Bash, Commandline, tar command
 :category: Bash
 :summary: Copy large number of files efficiently via Bash_ script on Linux.
+:adsu: yes
 
 
 If you want to copy large number of files, it's not a good idea to use

@@ -7,6 +7,7 @@
 :category: Bash
 :summary: Replace specific pattern of strings in HTML files under directory via
           sed_.
+:adsu: yes
 
 
 Question

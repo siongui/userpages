@@ -6,6 +6,7 @@
 :category: Bash
 :summary: Write a bash_ script to convert wav to mp3 via ffmpeg_ on Ubuntu Linux
           15.10.
+:adsu: yes
 
 
 Question

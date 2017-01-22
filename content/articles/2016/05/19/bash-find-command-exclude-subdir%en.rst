@@ -6,6 +6,7 @@
 :category: Bash
 :summary: Use find_ command to find all HTML_ files in a directory, but exclude
           the HTML files in some sub-directory.
+:adsu: yes
 
 
 Use find_ command to find all HTML_ files in a directory, but exclude the HTML

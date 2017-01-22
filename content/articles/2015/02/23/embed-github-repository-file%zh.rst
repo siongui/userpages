@@ -5,6 +5,7 @@
 :tags: Web開發
 :category: Web開發
 :summary: 如何在網站中嵌入 Github repository 裡的檔案。
+:adsu: yes
 
 
 想要像在網站內嵌入 gist_ 一樣，插入一個 script 即可顯示該 gist [1]_ 。

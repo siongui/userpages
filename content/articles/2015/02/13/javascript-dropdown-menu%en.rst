@@ -4,6 +4,7 @@ Javascript Drop Down Menu
 :tags: JavaScript, dropdown menu
 :category: JavaScript
 :summary: Dropdown menu using vanilla JavaScript. No jQuery or libraries are used.
+:adsu: yes
 
 
 This post gives an example of JavaScript dropdown menu. jQuery and libraries are

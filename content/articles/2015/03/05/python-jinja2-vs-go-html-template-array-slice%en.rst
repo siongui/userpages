@@ -7,6 +7,7 @@ Golang html/template versus Python Jinja2 (3) - Arrays and Slices
 :category: Go
 :summary: Comparison of Python Jinja2 and Go html/template, side by side for
           easy reference - Python List vs Go Arrays and Slices
+:adsu: yes
 
 |
 |

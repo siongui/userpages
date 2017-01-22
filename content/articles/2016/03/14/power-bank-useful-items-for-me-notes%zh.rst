@@ -7,6 +7,7 @@
 :category: 3C
 :summary: 有用物品 - 行動電源(充電寶,移動電源)
 :og_image: ``http://i01.appmifile.com/webfile/globalimg/en/goods/pb10000/intro-bg_tw.jpg``
+:adsu: yes
 
 
 ..

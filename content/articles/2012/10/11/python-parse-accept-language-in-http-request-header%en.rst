@@ -6,6 +6,7 @@
 :tags: Python, Locale, String Manipulation, Google App Engine, HTTP Header, Accept-Language
 :category: Python
 :summary: Parse Accept-Language in HTTP Request Header in Python.
+:adsu: yes
 
 
 The Accept-Language_ field in `HTTP Request header`_ is important for

@@ -7,6 +7,7 @@ GitHub Pages Custom 404 Page with Redirect Link
 :summary: `Custom 404 page`_ for `GitHub Pages`_. In the 404 page, a redirect
           link is created based on the current `URL path`_.
 :og_image: http://moduslaborandi.net/wp-content/uploads/2015/05/github.pages.jpg
+:adsu: yes
 
 
 `Custom 404 page`_ for `GitHub Pages`_. In the 404 page, a redirect link is

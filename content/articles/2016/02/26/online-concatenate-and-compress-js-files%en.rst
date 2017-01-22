@@ -6,6 +6,7 @@
        Minify HTML/CSS/JavaScript
 :category: Python
 :summary: Online concatenate and compress JavaScript_ files via Python_ script.
+:adsu: yes
 
 Online concatenate and compress JavaScript_ files via Python_ script.
 

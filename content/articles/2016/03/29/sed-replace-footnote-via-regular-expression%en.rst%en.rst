@@ -7,6 +7,7 @@
 :category: Bash
 :summary: Replace footnote in reStructuredText_ format via `regular expression`_
           by sed_ stream editor.
+:adsu: yes
 
 
 Replace footnote in reStructuredText_ format via `regular expression`_ by sed_

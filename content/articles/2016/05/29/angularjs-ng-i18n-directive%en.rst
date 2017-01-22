@@ -6,6 +6,7 @@
 :category: AngularJS
 :summary: Client side gettext_-like Internationalization (i18n_) via AngularJS_
           Directives_.
+:adsu: yes
 
 
 Client side gettext_-like Internationalization (i18n_) via AngularJS_

@@ -5,6 +5,7 @@
 :tags: Web開發, 字串處理
 :category: 網頁小工具
 :summary: 搜尋 `淘寶網`_.
+:adsu: yes
 
 
 .. raw:: html

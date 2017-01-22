@@ -5,6 +5,7 @@ Python try except Translated to Golang Synonyms
 :tags: Python, Go, Golang
 :category: Python
 :summary: Synonyms - Python_ try-except translated to Go_ programming language.
+:adsu: yes
 
 Synonyms - Python_ try-except translated to Golang_
 (Go_ programming language).

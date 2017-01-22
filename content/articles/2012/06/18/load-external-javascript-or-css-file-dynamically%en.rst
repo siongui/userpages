@@ -6,6 +6,7 @@ Load External JavaScript or CSS file Dynamically
 :tags: JavaScript, CORS, CSS
 :category: JavaScript
 :summary: Load JavaScript or CSS on demand.
+:adsu: yes
 
 
 Sometimes it is useful to load JavaScript or CSS file dynamically. In [1]_ and

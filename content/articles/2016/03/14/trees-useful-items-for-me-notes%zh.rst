@@ -6,6 +6,7 @@
 :category: 3C
 :summary: 種樹 樹木 樹苗
 :og_image: https://lh3.googleusercontent.com/-YEf8r0ISxY4/VNNbsFBXZoI/AAAAAAAAlzQ/ltLd0ILj_do/s640/IMG_20120429_053534.jpg
+:adsu: yes
 
 
 - `高雄 樹苗 <https://www.google.com/search?q=%E9%AB%98%E9%9B%84+%E6%A8%B9%E8%8B%97>`_

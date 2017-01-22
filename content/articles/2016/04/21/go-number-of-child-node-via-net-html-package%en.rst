@@ -5,6 +5,7 @@
 :tags: Go, Golang, DOM, Go net/html, Web Scrape, html
 :category: Go
 :summary: Get the number of child nodes via Go_ `net/html`_ package.
+:adsu: yes
 
 
 Introduction

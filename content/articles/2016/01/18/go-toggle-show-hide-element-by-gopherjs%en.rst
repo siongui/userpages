@@ -8,6 +8,7 @@
           Go_ program to do DOM_ manipulation by example. This example show how
           to toggle (show/hide) a HTML_ element by GopherJS_ and its
           `DOM binding`_.
+:adsu: yes
 
 Introduction
 ++++++++++++

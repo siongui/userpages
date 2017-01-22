@@ -5,6 +5,7 @@
 :tags: Go, Golang, Web Scrape, Go strings Package, JavaScript
 :category: Go
 :summary: Scape JavaScript code to get campaign number via Go_ strings_ package.
+:adsu: yes
 
 
 Scape JavaScript code to get campaign number via Go_ strings_ package -

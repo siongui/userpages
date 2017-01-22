@@ -5,6 +5,7 @@
 :tags: Go, Golang, String Manipulation, File Input/Output
 :category: Go
 :summary: Readlines from string or file in Go_ programming language.
+:adsu: yes
 
 .. contents:: Read lines from string or file in Golang_.
 

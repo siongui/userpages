@@ -6,6 +6,7 @@
 :category: Go
 :summary: Test if a string consists of single character or letter in Go_
           programming language.
+:adsu: yes
 
 Test if a string consists of single character or letter in Golang_.
 

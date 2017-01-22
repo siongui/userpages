@@ -5,6 +5,7 @@
 :tags: Python, Bash, Commandline
 :category: Python
 :summary: `mkdir -p`_ command in Python_
+:adsu: yes
 
 
 `mkdir -p`_ command in Python_

@@ -7,6 +7,7 @@ Internationalization (i18n) of Web Application by GNU gettext Tools
 :category: Web Development
 :summary: Support multiple languages in your (web) applications, by GNU gettext_
           tools, which include *xgettext*, *msginit*, *msgmerge*, and *msgfmt*.
+:adsu: yes
 
 
 GNU gettext_ tools are great for creating i18n (web) applications. In this post,

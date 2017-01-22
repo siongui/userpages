@@ -6,6 +6,7 @@
 :category: 泰語學習
 :summary: 泰國2016/2559年高收視率電視劇 - `三面娜迦`_/`นาคี`_/Nakee_
 :og_image: https://upload.wikimedia.org/wikipedia/th/b/b7/%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%B5_2016.jpg
+:adsu: yes
 
 
 .. raw:: html

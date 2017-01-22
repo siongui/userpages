@@ -6,6 +6,7 @@
        File Input/Output
 :category: Python
 :summary: Concatenate JavaScript_ files via Python_ script.
+:adsu: yes
 
 Concatenate JavaScript_ files via Python_ script.
 

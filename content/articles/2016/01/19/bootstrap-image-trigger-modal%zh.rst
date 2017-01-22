@@ -5,6 +5,7 @@ Bootstrap利用圖片來觸發modal視窗
 :tags: 響應式網頁設計(Responsive Web Design), Web開發, CSS
 :category: 響應式網頁設計(Responsive Web Design)
 :summary: Bootstrap_ 利用圖片(image_)來觸發 modal_ 視窗
+:adsu: yes
 
 在 Bootstrap_ `官網裡的範例`_ 是用按鈕(Button_)來觸發 modal_ 視窗
 

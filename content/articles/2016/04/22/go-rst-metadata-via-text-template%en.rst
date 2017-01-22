@@ -7,6 +7,7 @@
 :category: Go
 :summary: Create reStructuredText_ metadata via Go_ `text/template`_ and
           `text/width`_ package.
+:adsu: yes
 
 
 Create reStructuredText_ metadata via Go_ `text/template`_ and `text/width`_

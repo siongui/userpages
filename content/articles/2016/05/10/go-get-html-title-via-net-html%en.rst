@@ -5,6 +5,7 @@
 :tags: Go, Golang, DOM, Web Scrape, Go net/html, html
 :category: Go
 :summary: Get HTML_ title via `net/html`_ package in Go_ programming language.
+:adsu: yes
 
 
 Introduction

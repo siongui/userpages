@@ -6,6 +6,7 @@ AJAX Form POST Request to Google App Engine Python
 :tags: JavaScript, XMLHttpRequest, HTTP POST, Web application, Google App Engine, Python
 :category: JavaScript
 :summary: Send/receive data to/from Google App Engine Python servers by HTTP POST requests in AJAX way.
+:adsu: yes
 
 
 This post shows how to send data of `HTML form`_ in client browsers to

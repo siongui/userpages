@@ -6,6 +6,7 @@
 :category: Go
 :summary: How to read XML/HTML files in Go programming language (for newbie)
           - Read a direct child element.
+:adsu: yes
 
 
 In this exmaple, we will parse a *div* element with a *span* child element,

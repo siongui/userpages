@@ -6,6 +6,7 @@
 :category: 3C
 :summary: 有用物品 - 真空壓縮袋
 :og_image: https://lh3.googleusercontent.com/-YEf8r0ISxY4/VNNbsFBXZoI/AAAAAAAAlzQ/ltLd0ILj_do/s640/IMG_20120429_053534.jpg
+:adsu: yes
 
 
 - `真空压缩袋_淘宝搜索 <https://s.taobao.com/search?q=%E7%9C%9F%E7%A9%BA%E5%8E%8B%E7%BC%A9%E8%A2%8B>`_

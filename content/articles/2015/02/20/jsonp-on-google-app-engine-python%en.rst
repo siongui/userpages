@@ -6,6 +6,7 @@ JSONP on Google App Engine Python
 :tags: JavaScript, CORS, JSONP, Google App Engine, Python, JSON
 :category: JavaScript
 :summary: Cross-domain requests by JSONP on Google App Engine for Python.
+:adsu: yes
 
 
 There are many explanations about JSONP_ on internet, but a complete sample code

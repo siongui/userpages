@@ -5,6 +5,7 @@
 :tags: Dart, Pāli Input Method, IME
 :category: Dart
 :summary: Online Pali (Pāli, Pāḷi) Input Method using Dart programming language.
+:adsu: yes
 
 
 Inspired by `palipad <https://code.google.com/p/palipad/>`_

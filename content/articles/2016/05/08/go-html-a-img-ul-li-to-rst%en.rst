@@ -8,6 +8,7 @@
 :summary: Convert `HTML unordered (bulleted) list`_, `HTML link`_, and
           `HTML image`_ to restructuredtext_ format via `net/html`_ package
           in Go_ programming language.
+:adsu: yes
 
 
 Introduction

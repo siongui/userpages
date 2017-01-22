@@ -6,6 +6,7 @@ Google App Engine Datastore Example : Dictionary Application
 :tags: Python, Web application, web, Google App Engine, XML
 :category: Google App Engine
 :summary: Simple usage example of Google App Engine Python Datastore.
+:adsu: yes
 
 
 I have a dictionary website which needs to store over 50,000+ xml files of words

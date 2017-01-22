@@ -7,6 +7,7 @@
 :summary: Run Golang_ program in your browser by GopherJS_. Show how to write a
           Go_ program to do DOM_ manipulation by example. This example show how
           to write a dropdown menu by GopherJS_ and its `DOM binding`_.
+:adsu: yes
 
 Introduction
 ++++++++++++

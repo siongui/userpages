@@ -7,6 +7,7 @@
 :category: Python
 :summary: Python_ script to convert `HTML table`_ to reStructuredText_
           `list-table`_ via `Beautiful Soup 4`_.
+:adsu: yes
 
 
 Python_ script to convert `HTML table`_ to reStructuredText_ `list-table`_ via

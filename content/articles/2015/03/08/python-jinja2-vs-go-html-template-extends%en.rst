@@ -6,6 +6,7 @@ Golang html/template versus Python Jinja2 (6) - Template Inheritance (Extends)
 :category: Go
 :summary: Comparison of Python Jinja2 and Go html/template, side by side for
           easy reference - Mimic Jinja2 template inheritance in Go html/template
+:adsu: yes
 
 
 Template inheritance is a powerful feature of Jinja2_. Here we show how to mimic

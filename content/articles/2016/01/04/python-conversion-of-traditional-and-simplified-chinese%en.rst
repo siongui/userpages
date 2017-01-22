@@ -7,6 +7,7 @@
 :category: Python
 :summary: Conversion of Traditional and Simplified Chinese by OpenCC_ and
           Python_ programming language.
+:adsu: yes
 
 
 OpenCC_ is a tool (both online and offline) for conversion Traditional and

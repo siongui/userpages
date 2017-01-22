@@ -7,6 +7,7 @@ Golang html/template versus Python Jinja2 (1)
 :category: Go
 :summary: Comparison of Python Jinja2 and Go html/template, side by side for
           easy reference - Load and Serve Templates
+:adsu: yes
 
 
 This post compares the following two combinations:

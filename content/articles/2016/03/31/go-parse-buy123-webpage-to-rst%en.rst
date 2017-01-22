@@ -6,6 +6,7 @@
 :category: Go
 :summary: Extract title, image, and URL in `buy123 product webpage`_ via
           goquery_, and then output the info to `reStructuredText image`_.
+:adsu: yes
 
 
 Extract title, image, and URL in `buy123 product webpage`_ via goquery_, and

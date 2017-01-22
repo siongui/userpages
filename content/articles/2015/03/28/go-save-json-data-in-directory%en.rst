@@ -5,6 +5,7 @@
 :tags: Go, Golang, JSON
 :category: Go
 :summary: Save JSON-format data in the directory using Go programming language.
+:adsu: yes
 
 
 This post shows how to convert data to JSON_ format and save the data in the

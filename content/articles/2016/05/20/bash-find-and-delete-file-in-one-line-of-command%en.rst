@@ -6,6 +6,7 @@
 :category: Bash
 :summary: Use find_ command to find all files with specific name and delete them
           in one line of command.
+:adsu: yes
 
 
 Use find_ command to find all files with specific name and delete them in one

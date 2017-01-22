@@ -7,6 +7,7 @@
 :category: Linux
 :summary: 全新安裝Ubuntu Linux注意事項
 :og_image: http://design.ubuntu.com/wp-content/uploads/logo-ubuntu_st_no%C2%AE-black_orange-hex.jpg
+:adsu: yes
 
 
 - 下載 `Ubuntu 16.10 (Yakkety Yak) <http://releases.ubuntu.com/16.10/>`_

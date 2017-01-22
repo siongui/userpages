@@ -6,6 +6,7 @@ JavaScript Create DOM Element Dynamically
 :tags: html, JavaScript, XML, DOM
 :category: JavaScript
 :summary: Create DOM elements by JavaScript.
+:adsu: yes
 
 
 In the previous post_, we discuss creating HTML elements in Python script on

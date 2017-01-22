@@ -9,6 +9,7 @@
 :summary: Convert the format (Big5_ encoding to UTF-8_, remove `DOS newline`_ in
           file, replace string *big5* with *UTF-8*, and append `UNIX newline`_
           to end of file) of HTML files in directory via Bash_ script.
+:adsu: yes
 
 
 Convert the format (Big5_ encoding to UTF-8_, remove `DOS newline`_ in file,

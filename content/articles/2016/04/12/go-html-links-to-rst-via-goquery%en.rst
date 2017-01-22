@@ -7,6 +7,7 @@
 :category: Go
 :summary: Convert all `HTML links`_ to restructuredtext_ in a webpage via
           goquery_ in Go_ programming language.
+:adsu: yes
 
 
 Introduction

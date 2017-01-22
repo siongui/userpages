@@ -4,6 +4,7 @@
 :tags: AngularJS, document title, html, JavaScript
 :category: AngularJS
 :summary: Set HTML document title in AngularJS
+:adsu: yes
 
 
 In pure JavaScript, the following way can be used to set HTML document title:

@@ -5,6 +5,7 @@
 :tags: Go, Golang, GopherJS, Go to JavaScript, CSS, DOM
 :category: GopherJS
 :summary: Resizable views via GopherJS_. Used in `Pāli Tipiṭaka`_.
+:adsu: yes
 
 
 Resizable views in Go_, compiled to JavaScript_ via GopherJS_.

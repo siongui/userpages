@@ -6,6 +6,7 @@ Golang html/template versus Python Jinja2 (5) - Maps and Dictionaries
 :category: Go
 :summary: Comparison of Python Jinja2 and Go html/template, side by side for
           easy reference - Loop through Python Dictionaries vs Go Maps
+:adsu: yes
 
 
 This post shows how to loop through the maps_ in Go_ `html/template`_ and

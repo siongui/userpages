@@ -6,6 +6,7 @@
 :category: Python
 :summary: Python_ `Regular Expression`_ to convert footnotes in file to
           reStructuredText_ format.
+:adsu: yes
 
 
 Problem

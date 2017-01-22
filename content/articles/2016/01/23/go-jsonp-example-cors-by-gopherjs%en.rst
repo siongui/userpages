@@ -11,6 +11,7 @@
           other domains.
           This is an example of full-stack Go_, which uses Golang_ to
           develop web applications in both front-end and backend.
+:adsu: yes
 
 
 Introduction

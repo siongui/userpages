@@ -5,6 +5,7 @@
 :tags: Go, Golang, C, String Manipulation, Regular Expression
 :category: Go
 :summary: Remove C/C++ style comments via Go_ programming language.
+:adsu: yes
 
 Remove C/C++ style comments via Golang_.
 

@@ -5,6 +5,7 @@
 :tags: JavaScript, String Manipulation, Random Number
 :category: JavaScript
 :summary: Generate a random string from [a-z0-9] in JavaScript_.
+:adsu: yes
 
 
 .. code-block:: javascript

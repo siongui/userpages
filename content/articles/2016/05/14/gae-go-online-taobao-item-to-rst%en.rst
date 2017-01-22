@@ -8,6 +8,7 @@ Online Taobao Item to reStructuredText Image on Google App Engine Go
 :summary: Online service on `Google App Engine Go`_, which helps you extract
           title, image URL from Taobao_ item webpage, and output in
           reStructuredText_  format.
+:adsu: yes
 
 
 Online service on `Google App Engine Go`_, which helps you extract title, image

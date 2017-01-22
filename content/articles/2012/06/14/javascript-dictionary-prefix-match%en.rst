@@ -7,6 +7,7 @@ JavaScript Prefix Match (Dictionary Application)
 :category: JavaScript
 :summary: Given a set of strings (words), and an user input string, output a set
           of strings with prefix the same as the user input string
+:adsu: yes
 
 
 Recently I have a dictionary web application which needs to find prefix-matched

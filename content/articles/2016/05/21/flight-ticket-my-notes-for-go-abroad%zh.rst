@@ -6,6 +6,7 @@
 :category: 出國
 :summary: 機票 - 出國書籤筆記
 :og_image: http://images5.moneysavingexpert.com/images/cheap-flights-08.png
+:adsu: yes
 
 
 - 機票

@@ -5,6 +5,7 @@
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM, Keyboard Event
 :category: GopherJS
 :summary: Detect arrow keystrokes via GopherJS_.
+:adsu: yes
 
 
 Keyboard event of `arrow keys`_ via GopherJS_.

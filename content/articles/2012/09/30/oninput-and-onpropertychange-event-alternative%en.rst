@@ -7,6 +7,7 @@
 :category: JavaScript
 :summary: Detect the content change of HTML input elements in a cross-browser
           and consistent manner.
+:adsu: yes
 
 
 If we want to detect the content change of HTML `input elements`_, like

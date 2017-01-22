@@ -7,6 +7,7 @@
 :category: 泰語學習
 :summary: 泰語學習紀錄
 :og_image: http://thailandtravel.net/wp-content/uploads/2013/07/Thai-Language.gif
+:adsu: yes
 
 
 .. contents:: 目錄

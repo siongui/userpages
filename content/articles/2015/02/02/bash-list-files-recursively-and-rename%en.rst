@@ -6,6 +6,7 @@
 :category: Bash
 :summary: List all files in a directory recursively (i.e., including
           subdirectories of the directory), and use sed to rename the files.
+:adsu: yes
 
 
 Question:

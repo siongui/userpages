@@ -8,6 +8,7 @@
 :summary: Automatically convert `Traditional Chinese`_ (`zh_TW`_) PO_ file to
           `Simplified Chinese`_ (`zh_CN`_) by OpenCC_ and Go_ programming
           language.
+:adsu: yes
 
 Automatically convert `Traditional Chinese`_ (`zh_TW`_) PO_ file to
 `Simplified Chinese`_ (`zh_CN`_) by OpenCC_ and `OpenCC Go binding`_.

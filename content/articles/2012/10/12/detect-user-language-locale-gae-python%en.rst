@@ -7,6 +7,7 @@ Detect User Language (Locale) on Google App Engine Python
 :category: Python
 :summary: Detect user locale/language from HTTP request header on Google App
           Engine for Python.
+:adsu: yes
 
 
 The best way to guess/detect/determine the locale/language of users is probably

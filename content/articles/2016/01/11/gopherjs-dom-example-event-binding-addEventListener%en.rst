@@ -7,6 +7,7 @@
 :summary: Run Golang_ program in your browser by GopherJS_. Show how to write a
           Go_ program to do DOM_ manipulation by example. Use addEventListener_
           to attach event handler to specific DOM_ element.
+:adsu: yes
 
 Introduction
 ++++++++++++

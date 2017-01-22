@@ -8,6 +8,7 @@
 :summary: Run Golang_ program in your browser by GopherJS_. Access
           `Accept-Language`_ field in `HTTP Request Header`_ by JSONP_ to detect
           browser language preference (user locale_).
+:adsu: yes
 
 Introduction
 ++++++++++++

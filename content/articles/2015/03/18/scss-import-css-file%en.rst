@@ -5,6 +5,7 @@ Import CSS File in SCSS with pyScss
 :tags: CSS, html, SASS, SCSS
 :category: CSS
 :summary: Include regular CSS file in SCSS file with pyScss.
+:adsu: yes
 
 
 pyScss_ is a Scss_ compiler for Python. Sometimes we need to include (import)

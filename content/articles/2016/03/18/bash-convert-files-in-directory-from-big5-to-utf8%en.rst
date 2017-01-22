@@ -8,6 +8,7 @@
 :summary: Convert all files in a directory recursively (i.e., including
           subdirectories of the directory) from Big5_ encoding to UTF-8_ via
           iconv_ command.
+:adsu: yes
 
 
 Question:

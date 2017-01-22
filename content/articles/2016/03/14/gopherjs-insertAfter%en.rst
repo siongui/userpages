@@ -6,6 +6,7 @@
 :category: GopherJS
 :summary: insertAfter_ - Insert new node after reference node via GopherJS_.
           (opposite of insertBefore_)
+:adsu: yes
 
 insertAfter_ - Insert new node after reference node via GopherJS_.
 (opposite of insertBefore_).

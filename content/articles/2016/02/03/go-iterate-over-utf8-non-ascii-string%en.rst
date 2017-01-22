@@ -6,6 +6,7 @@
 :category: Go
 :summary: Iterate over UTF-8 or non-ASCII strings in Go_. Iterations by for_ or
           range_ keywords.
+:adsu: yes
 
 
 Iterate over UTF-8 or non-ASCII strings in Golang_. Iterations by for_ or range_

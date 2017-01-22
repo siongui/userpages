@@ -6,6 +6,7 @@
 :category: Go
 :summary: How to parse command-line arguments (string variable) via flag_
           package in Go_ programming language.
+:adsu: yes
 
 
 Pass argument from `command line`_ and used as *string* variable in Go_ program:

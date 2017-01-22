@@ -5,6 +5,7 @@
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM
 :category: GopherJS
 :summary: Check node type (nodeType_) of DOM_ element via GopherJS_.
+:adsu: yes
 
 
 Check node type (nodeType_) of DOM_ element via GopherJS_.

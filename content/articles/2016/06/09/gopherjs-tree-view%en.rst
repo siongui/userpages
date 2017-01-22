@@ -5,6 +5,7 @@
 :tags: Go, Golang, GopherJS, Go to JavaScript, CSS, DOM
 :category: GopherJS
 :summary: Treeview_ via GopherJS_. Used in `Pāli Tipiṭaka`_.
+:adsu: yes
 
 
 Treeview_ written in Go_, compiled to JavaScript_ via GopherJS_.

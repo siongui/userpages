@@ -7,6 +7,7 @@
 :summary: Upgrade from AWS_ EC2_ t1.micro_ running `Ubuntu 12.04 LTS`_ with
           Apache-2.2 to t2.nano_ running `Ubuntu 14.04 LTS`_ with Apache-2.4.
 :og_image: https://upload.wikimedia.org/wikipedia/commons/1/1d/AmazonWebservices_Logo.svg
+:adsu: yes
 
 
 Upgrade from AWS_ EC2_ t1.micro_ running `Ubuntu 12.04 LTS`_ with Apache-2.2 to

@@ -6,6 +6,7 @@
 :category: GopherJS
 :summary: Fix runtime error via goroutine_ in Go_ code compiled to JavaScript_
           by GopherJS_.
+:adsu: yes
 
 Fix runtime error via goroutine_ in Golang_ code compiled to JavaScript_ by
 GopherJS_. I got runtime error when writing code to make XHR_ requests and also

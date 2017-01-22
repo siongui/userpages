@@ -6,6 +6,7 @@
 :tags: JavaScript, AngularJS
 :category: AngularJS
 :summary: Safely execute an expression in angular from outside of the angular framework.
+:adsu: yes
 
 
 One of the headaches of writing one's own directives or services of AngularJS_

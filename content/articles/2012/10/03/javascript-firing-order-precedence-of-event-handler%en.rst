@@ -7,6 +7,7 @@
 :category: JavaScript
 :summary: Use onmousedown event instead of onclick event if the event handler to
           be fired before onblur event.
+:adsu: yes
 
 
 There are two HTML elements, one is *div* element, and the other is *input*

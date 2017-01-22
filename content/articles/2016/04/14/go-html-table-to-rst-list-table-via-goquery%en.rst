@@ -6,6 +6,7 @@
 :category: Go
 :summary: Convert `HTML table`_ to reStructuredText_ `list-table`_ via goquery_
           in Go_ programming language.
+:adsu: yes
 
 
 Introduction

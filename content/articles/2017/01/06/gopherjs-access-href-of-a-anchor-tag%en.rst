@@ -5,6 +5,7 @@
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM
 :category: GopherJS
 :summary: Access (raw) href_ value of anchor_ tag (<a>) via GopherJS_.
+:adsu: yes
 
 
 In JavaScript_, the href_ value of anchor_ element/tag (<a>) can be accessed by:

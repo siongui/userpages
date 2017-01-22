@@ -6,6 +6,7 @@
 :category: GopherJS
 :summary: Implementation of setting feature in web application via JSON_,
           `Web Storage`_, and GopherJS_.
+:adsu: yes
 
 
 Implement setting feature to save user preferences in web application via JSON_,

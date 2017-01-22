@@ -5,6 +5,7 @@
 :tags: AngularJS, JavaScript
 :category: AngularJS
 :summary: Resizable Views via AngularJS_. Used in `Pāli Tipiṭaka`_.
+:adsu: yes
 
 
 Resizable Views via AngularJS_.

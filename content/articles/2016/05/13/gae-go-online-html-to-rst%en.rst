@@ -6,6 +6,7 @@ Online HTML to reStructuredText on Google App Engine Go
        Copy to Clipboard, Go net/html, Google App Engine, DOM
 :category: Google App Engine
 :summary: Online HTML_ to reStructuredText_ service on `Google App Engine Go`_.
+:adsu: yes
 
 
 Online HTML_ to reStructuredText_ service on `Google App Engine Go`_, based on

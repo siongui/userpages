@@ -5,6 +5,7 @@
 :tags: Linux, git
 :category: Linux
 :summary: 重設GitHub repository並移除所有commits
+:adsu: yes
 
 從 [1]_ 的回答，假設 repository 位於 ``~/dev/myrepo`` ：
 

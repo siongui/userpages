@@ -7,6 +7,7 @@
 :category: Go
 :summary: Convert file encoding from Big5_ to UTF-8_ via Go_ programming
           language.
+:adsu: yes
 
 Convert file encoding from Big5_ encoding to UTF-8_ via Golang.
 Only for demonstration purpose. It will be much easier to use iconv_ command

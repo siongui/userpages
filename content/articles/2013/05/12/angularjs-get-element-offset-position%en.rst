@@ -4,6 +4,7 @@
 :tags: AngularJS, element offset, element position, without jQuery, JavaScript
 :category: AngularJS
 :summary: Get the offset (position) of an AngularJS DOM element without jQuery
+:adsu: yes
 
 
 `AngularJS <https://angularjs.org/>`_ doesn't provide `offset() <http://api.jquery.com/offset/>`__ in `jqLite <https://docs.angularjs.org/api/ng/function/angular.element>`__. If you don't want to include `jQuery <http://jquery.com/>`_ for only `offset() <http://api.jquery.com/offset/>`__, the following is a possible implementation of `offset() <http://api.jquery.com/offset/>`__:

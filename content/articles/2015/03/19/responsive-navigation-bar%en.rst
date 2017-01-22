@@ -5,6 +5,7 @@ Responsive Navigation Bar (Navbar)
 :tags: CSS, html, SASS, SCSS
 :category: Web Development
 :summary: Responsive top navigation bar (navbar) used in this website.
+:adsu: yes
 
 
 This post shows how to make a responsive top navbar like this website. Before

@@ -5,6 +5,7 @@
 :tags: Go, Golang, Signal, Goroutine, Go Channels
 :category: Go
 :summary: Run cleanup function when receiving ^C signal.
+:adsu: yes
 
 
 For database programs, we need to close the database if users press `Ctrl+C`_

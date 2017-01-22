@@ -6,6 +6,7 @@
        List Files in Directory
 :category: Bash
 :summary: Convert the name of files in directory to lowercase via Bash_ script.
+:adsu: yes
 
 
 Convert the name of files in directory to lowercase via Bash_ script.

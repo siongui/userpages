@@ -7,6 +7,7 @@ Google App Engine Go - HTML Link to reStructuredText
 :category: Google App Engine
 :summary: Given a webpage URL. Fetch the title of the webpage and output
           `reStructuredText link`_ on `Google App Engine Go`_.
+:adsu: yes
 
 
 Given a webpage URL. Fetch the title of the webpage and output

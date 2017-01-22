@@ -7,6 +7,7 @@ Build Issue of OpenCC Go binding on Ubuntu Linux 16.10
 :category: Go
 :summary: Fail to build OpenCC_ Go_ binding on `Ubuntu Linux 16.10`_, and how I
           fix it.
+:adsu: yes
 
 
 When I upgrade Ubuntu Linux from 16.04 to 16.10, the OpenCC_ version jump from

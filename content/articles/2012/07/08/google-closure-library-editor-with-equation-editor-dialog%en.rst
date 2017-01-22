@@ -8,6 +8,7 @@ Google Closure Library Editor with Equation Editor Dialog
 :category: JavaScript
 :summary: Rich text editor with math equation dialog using
           `Google Closure Library`_.
+:adsu: yes
 
 
 Recently I have an application which needs a HTML editor with LaTex_ equation

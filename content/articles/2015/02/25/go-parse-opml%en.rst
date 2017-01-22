@@ -6,6 +6,7 @@
 :category: Go
 :summary: How to read XML/HTML files in Go programming language (for newbie)
           - Parse OPML format.
+:adsu: yes
 
 
 Based on previous examples, this post shows how to parse OPML_ file. The

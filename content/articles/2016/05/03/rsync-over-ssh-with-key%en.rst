@@ -7,6 +7,7 @@ rsync over SSH with Key
 :summary: Example of copy local files to remote machine which allows only SSH_
           key login via rsync_ command.
 :og_image: https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Newrsynclogo.png/160px-Newrsynclogo.png
+:adsu: yes
 
 
 Assume you have a remote machine which allows SSH_ login with key generated in

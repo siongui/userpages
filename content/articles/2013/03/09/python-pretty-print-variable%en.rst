@@ -4,6 +4,7 @@
 :tags: pretty print, Python
 :category: Python
 :summary: Pretty print variable in Python
+:adsu: yes
 
 
 The easiest way is through `json <http://docs.python.org/2/library/json.html>`_ module included in Python:

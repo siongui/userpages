@@ -6,6 +6,7 @@
 :tags: html, Python, XML, XSLT
 :category: Python
 :summary: XSLT (Extensible Stylesheet Language Transformations) in Python.
+:adsu: yes
 
 To transform XML document into another XML document (XSLT_) in Python, we use
 lxml_ library (library for processing XML and HTML in the Python language.) to

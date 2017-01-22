@@ -5,6 +5,7 @@
 :tags: Web開發
 :category: Web開發
 :summary: 如何將Google Code上的專案移到Github。
+:adsu: yes
 
 
 `Google Code`_ 要關了，想把原本放在Google Code上的 git_ 專案移到

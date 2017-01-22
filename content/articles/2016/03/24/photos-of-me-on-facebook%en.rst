@@ -5,6 +5,7 @@ Photos of Me on Facebook
 :tags: JavaScript
 :category: JavaScript
 :summary: Find photos of me on Facebook_.
+:adsu: yes
 
 
 1. log into Facebook_.

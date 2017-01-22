@@ -6,6 +6,7 @@
 :category: GopherJS
 :summary: Online Pali_ (Pāli, Pāḷi) Input Method using Go_ programming language,
           compiled to JavaScript_ by GopherJS_. (GopherJS DOM_ example)
+:adsu: yes
 
 
 .. rubric:: `Demo <https://siongui.github.io/go-online-input-method-pali/>`_ (`Fork me on Github <https://github.com/siongui/go-online-input-method-pali>`_)

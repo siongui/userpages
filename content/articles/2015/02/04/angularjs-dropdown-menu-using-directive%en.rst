@@ -4,6 +4,7 @@
 :tags: AngularJS, Directives, dropdown menu, without jQuery, JavaScript
 :category: AngularJS
 :summary: Use AngularJS powerful custom directive to implement dropdown menu without jQuery or any other library.
+:adsu: yes
 
 
 This post shows how to use `AngularJS <https://angularjs.org/>`_ powerful `directives <https://docs.angularjs.org/guide/directive>`_ to create dropdown menu without using any library (of course, except AngularJS).

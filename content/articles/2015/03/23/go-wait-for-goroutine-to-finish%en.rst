@@ -5,6 +5,7 @@
 :tags: Go, Golang, Goroutine, Go Channels
 :category: Go
 :summary: Use channels to wait for all goroutines to finish
+:adsu: yes
 
 
 This post shows how to use channels_ to wait for all goroutines_ to finish.

@@ -5,6 +5,7 @@
 :tags: JavaScript, Copy to Clipboard
 :category: JavaScript
 :summary: Copy content of textarea_ to clipboard via JavaScript_.
+:adsu: yes
 
 Copy content of textarea_ to clipboard via JavaScript_.
 

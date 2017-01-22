@@ -6,6 +6,7 @@ GopherJS XMLHttpRequest (XHR) and MakeFunc Example
 :category: GopherJS
 :summary: Show how to use MakeFunc_ in GopherJS_ by XMLHttpRequest_ (XHR_)
           example.
+:adsu: yes
 
 
 Show how to use MakeFunc_ in GopherJS_ by XHR_ example. This example use

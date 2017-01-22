@@ -6,6 +6,7 @@
 :category: Bash
 :summary: Makefile_ - Create symbolic link if it does not exist.
           Otherwise do nothing.
+:adsu: yes
 
 
 Create a symbolic link to directory if the symlink does not exist in Makefile_.

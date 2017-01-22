@@ -4,6 +4,7 @@ Draggable Toggleable Simple Web Keyboard
 :tags: JavaScript, html, toggle, toggleable
 :category: JavaScript
 :summary: Demonstrate how to make an online 0-9 keypad, which is draggable and toggleable.
+:adsu: yes
 
 To toggle HTML element, please see [1]_.
 

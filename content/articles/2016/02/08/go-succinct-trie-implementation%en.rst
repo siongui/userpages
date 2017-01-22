@@ -5,6 +5,7 @@
 :tags: Go, Golang, Data Structure
 :category: Go
 :summary: Go_ implemantation of `succinct trie`_ ported from `Bits.js`_.
+:adsu: yes
 
 
 `Bits.js`_ ([1]_) implements a `succinct trie`_ for fast lookup of words in a

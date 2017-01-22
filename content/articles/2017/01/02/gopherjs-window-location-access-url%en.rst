@@ -6,6 +6,7 @@
 :category: GopherJS
 :summary: Access URL, path, query string, etc. of current URL via
           window.location_ and GopherJS_.
+:adsu: yes
 
 
 Access URL, path, query string, etc. of current URL via window.location_ and

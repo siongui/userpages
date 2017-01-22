@@ -5,6 +5,7 @@ Search PTT BBS
 :tags: JavaScript, Copy to Clipboard
 :category: JavaScript
 :summary: Search PTT_ BBS_.
+:adsu: yes
 
 
 .. raw:: html

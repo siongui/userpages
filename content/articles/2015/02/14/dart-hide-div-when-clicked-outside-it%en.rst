@@ -4,6 +4,7 @@
 :tags: Dart
 :category: Dart
 :summary: Hide div element when clicked outside it, using Dart programming language.
+:adsu: yes
 
 
 This post is the Dart_ version of my previous post *Hide Div When Clicked

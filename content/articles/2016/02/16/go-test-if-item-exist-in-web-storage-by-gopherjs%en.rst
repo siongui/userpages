@@ -6,6 +6,7 @@
 :category: GopherJS
 :summary: Check if an item exists (is populated) in web storage (localStorage_
           or sessionStorage_) by GopherJS_.
+:adsu: yes
 
 
 Check if an item exists (is populated) in web storage (localStorage_ or

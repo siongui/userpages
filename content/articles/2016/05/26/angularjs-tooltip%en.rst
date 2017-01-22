@@ -6,6 +6,7 @@
        element position
 :category: AngularJS
 :summary: Tooltip_ via AngularJS_. Used in `Pāli Tipiṭaka`_.
+:adsu: yes
 
 
 Tooltip_ via AngularJS_.

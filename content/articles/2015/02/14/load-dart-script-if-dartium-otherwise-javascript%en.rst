@@ -4,6 +4,7 @@ Load Dart Script if Dartium, Otherwise Load JavaScript in Browser
 :tags: JavaScript, Dart, html
 :category: Dart
 :summary: Load Dart script while development or the browser supports dart. Otherwise load JavaScript as usual.
+:adsu: yes
 
 Assume that we write a dart script called *app.dart*, and the corresponding
 compiled JavaScript file is called *app.js*. We want the browser to load

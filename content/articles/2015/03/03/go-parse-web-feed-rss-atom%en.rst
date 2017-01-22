@@ -5,6 +5,7 @@
 :tags: Go, Golang, XML, Atom, RSS
 :category: Go
 :summary: Parse Atom 1.0/RSS 2.0 web feeds in Go programming language.
+:adsu: yes
 
 
 This post shows how to parse web feeds of `RSS 2.0`_ and `Atom 1.0`_. (The

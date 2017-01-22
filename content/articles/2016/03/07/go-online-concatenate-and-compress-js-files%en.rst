@@ -7,6 +7,7 @@
 :category: Go
 :summary: Concatenate and compress JavaScript_ files via Go_ programming
           language and online `Google Closure Compiler`_.
+:adsu: yes
 
 Concatenate and compress JavaScript_ files via Golang_ and online
 `Google Closure Compiler`_.

@@ -5,6 +5,7 @@
 :tags: Web開發
 :category: Web開發
 :summary: 如何在網站中嵌入 Google+ 相簿或相片。
+:adsu: yes
 
 
 Google搜尋： `Embed Google+ Album`_ 得知

@@ -5,6 +5,7 @@
 :tags: Go, Golang, String Manipulation, Go net/url
 :category: Go
 :summary: Remove `query string`_ from URL_ in Go_ programming language.
+:adsu: yes
 
 
 Remove `query string`_ from URL_ in Golang_.

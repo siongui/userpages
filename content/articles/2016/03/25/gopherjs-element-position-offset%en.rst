@@ -6,6 +6,7 @@
        Go to JavaScript
 :category: GopherJS
 :summary: Get DOM_ element position (offset) via GopherJS_.
+:adsu: yes
 
 
 Get DOM_ element position (offset) via GopherJS_.

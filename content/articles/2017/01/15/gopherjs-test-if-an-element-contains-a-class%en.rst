@@ -5,6 +5,7 @@
 :tags: Go, Golang, GopherJS, Go to JavaScript, CSS, DOM
 :category: GopherJS
 :summary: Test if an element contains a class via GopherJS_.
+:adsu: yes
 
 
 .. code-block:: go

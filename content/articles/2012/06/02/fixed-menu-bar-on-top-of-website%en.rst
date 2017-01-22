@@ -5,6 +5,7 @@ Fixed Menu Bar on Top of Website
 :tags: CSS
 :category: CSS
 :summary: Put your menu bar on top of the website, no matter how users scroll.
+:adsu: yes
 
 
 When we log in Gmail_ or Facebook_, there is a fixed menu bar on top of the web
