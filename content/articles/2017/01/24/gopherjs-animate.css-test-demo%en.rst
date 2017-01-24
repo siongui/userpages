@@ -2,9 +2,10 @@
 ################################
 
 :date: 2017-01-24T09:33+08:00
-:tags: Go, Golang, GopherJS, Go to JavaScript, CSS, DOM
+:tags: Go, Golang, GopherJS, Go to JavaScript, Animate.css, CSS, DOM
 :category: GopherJS
 :summary: Use Animate.css_ and GopherJS_ to animate your webpage.
+:og_image: https://pbs.twimg.com/profile_images/605816243870760960/4hP2sH_O.png
 :adsu: yes
 
 
@@ -18,6 +19,8 @@ to GopherJS_ version.
 To see demo: use GopherJS_ to compile ``app.go`` to ``app.js``. Put
 ``index.html`` and ``app.js`` in the same directory. Open ``index.html`` with
 your browser.
+
+For Vue.js_ version, see [6]_.
 
 ----
 
@@ -58,9 +61,12 @@ References:
 
        `javascript clear classlist - Yandex search <https://www.yandex.com/search/?text=javascript+clear+classlist>`_
 
+.. [6] `[Vue.js] Animate.css Test Demo <{filename}../25/vuejs-animate.css-test-demo%en.rst>`_
+
 .. _GopherJS: http://www.gopherjs.org/
 .. _Animate.css: https://daneden.github.io/animate.css/
 .. _animations on GitHub Pages: https://daneden.github.io/animate.css/
+.. _Vue.js: https://vuejs.org/
 
 .. |godoc| image:: https://godoc.org/github.com/gopherjs/gopherjs/js?status.png
    :target: https://godoc.org/github.com/gopherjs/gopherjs/js
