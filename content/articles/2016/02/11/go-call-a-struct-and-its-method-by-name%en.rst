@@ -64,6 +64,8 @@ References:
 
 .. [9] `为什么golang不能通过字符串来创建对象实例？ - Go 语言 - 知乎 <https://www.zhihu.com/question/25580049>`_
 
+.. [10] `Go 反射实践及剖析 - 文章 - 伯乐在线 <http://blog.jobbole.com/108601/>`_
+
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
