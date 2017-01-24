@@ -18,6 +18,8 @@ AngularJS_ way:
 
 .. show_github_file:: siongui userpages content/code/angularjs-draggable-element/movable.html
 
+.. adsu:: 2
+
 .. show_github_file:: siongui userpages content/code/angularjs-draggable-element/ngdraggable.js
 
 If you prefer to do this in pure JavaScript way, see reference [3]_.

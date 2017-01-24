@@ -73,6 +73,8 @@
   * `[心得] 大力推薦上海暢途集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1479477616.A.63E.html>`_
   * `[問題] 詢問天駿和上海暢途 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484242664.A.027.html>`_
 
+.. adsu:: 2
+
 - 上海楚華
 
   * `[心得] 上海集貨推薦--上海楚華 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1471783561.A.91F.html>`_

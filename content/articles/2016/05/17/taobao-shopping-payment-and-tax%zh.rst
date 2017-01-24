@@ -100,6 +100,7 @@
   * `[問題] 淘寶支付轉運時身分證填錯 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483970189.A.FC1.html>`_
   * `[問題] 今天淘寶付款都是正常的嗎? - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484207315.A.E10.html>`_
 
+.. adsu:: 2
 
 - 課稅
 

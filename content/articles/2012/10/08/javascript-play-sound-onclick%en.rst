@@ -20,6 +20,8 @@ Source Code for Demo:
 
 .. show_github_file:: siongui userpages content/code/javascript-sound/play.html
 
+.. adsu:: 2
+
 The *PlaySound* function plays audio file of given path or URL if the button is
 clicked.
 

@@ -20,6 +20,8 @@ we do in Go_ programming language:
 
 .. show_github_file:: siongui userpages content/code/go-xml/parse-1.go
 
+.. adsu:: 2
+
 Put the above two files on the same directory and run the code. The ouput will
 be:
 

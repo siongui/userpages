@@ -166,6 +166,7 @@
   * `[閒聊] 近期淘寶到貨速度 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484649172.A.2DF.html>`_
   * `[問題] 淘寶買行李箱要用哪家集貨比較好 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484656761.A.5EF.html>`_
 
+.. adsu:: 2
 
 - `淘寶 台灣直送 - Google search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E5%8F%B0%E7%81%A3%E7%9B%B4%E9%80%81>`_
 

@@ -21,6 +21,8 @@ The easiest way is through MarshalIndent_ function in json_ package.
 
 Tested on: ``Ubuntu Linux 15.10``, ``Go 1.5.3``.
 
+.. adsu:: 2
+
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
 .. _MarshalIndent: https://golang.org/pkg/encoding/json/#MarshalIndent

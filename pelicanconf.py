@@ -48,7 +48,7 @@ THEME = 'theme'
 
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['i18n_subsites', 'edit_on_github', 'embed_github_repository_file',
-           'embed_picasaweb_image']
+           'embed_picasaweb_image', 'adsense']
 
 # my custom setting for HTML meta info
 META_KEYWORDS = 'Web Development, Python, SCSS, blog'

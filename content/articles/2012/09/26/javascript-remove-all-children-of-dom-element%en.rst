@@ -44,6 +44,8 @@ Maybe for some people the "canonical" way is obvious, but it takes me quite a
 while to debug and know that sometimes the trivial way will not work. So I wrote
 this post for those who have the same trouble as me.
 
+.. adsu:: 2
+
 ----
 
 References:

@@ -28,6 +28,8 @@ put a lot of comments in the code in order to trace the code easily.
 Usage and Demo
 ++++++++++++++
 
+.. adsu:: 2
+
 .. rubric:: `Demo <{filename}/code/single-callback-multiple-xhr/asynchronous.html>`_
       :class: align-center
 

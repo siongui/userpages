@@ -23,6 +23,8 @@ Source Code for Demo (*HTML*):
 
 .. show_github_file:: siongui userpages content/code/javascript-keyboard-event/arrow-key.html
 
+.. adsu:: 2
+
 Source Code for Demo (*JavaScript*):
 
 .. show_github_file:: siongui userpages content/code/javascript-keyboard-event/arrow-key.js

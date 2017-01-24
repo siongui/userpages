@@ -20,6 +20,8 @@ Source Code for Demo:
 
 .. show_github_file:: siongui userpages content/code/javascript-sound/toggle.html
 
+.. adsu:: 2
+
 When you click on the *button* element, the sound will be played. If the element
 is clicked again, the sound will be paused. To toggle sound like this, a HTML5
 audio_ element is embedded in the HTML document, and not displayed on screen.

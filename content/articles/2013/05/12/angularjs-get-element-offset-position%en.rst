@@ -26,6 +26,7 @@
 
 This function takes one argument, which is the element wrapped with `jqLite <https://docs.angularjs.org/api/ng/function/angular.element>`__. A try-catch block is added in the beginning to use the `offset() <http://api.jquery.com/offset/>`__ of jQuery if jQuery is included.
 
+.. adsu:: 2
 
 ----
 

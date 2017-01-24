@@ -34,6 +34,8 @@ Souce Code
 
 `Run code on Go Playground <https://play.golang.org/p/cIG85Za6LI>`_
 
+.. adsu:: 2
+
 .. show_github_file:: siongui userpages content/code/go-random-string/a-z0-9.go
 
 Test
