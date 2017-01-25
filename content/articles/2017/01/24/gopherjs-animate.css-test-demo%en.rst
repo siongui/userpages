@@ -14,6 +14,8 @@ to GopherJS_ version.
 
 .. show_github_file:: siongui userpages content/code/gopherjs/animate.css-test/index.html
 
+.. adsu:: 2
+
 .. show_github_file:: siongui userpages content/code/gopherjs/animate.css-test/app.go
 
 To see demo: use GopherJS_ to compile ``app.go`` to ``app.js``. Put
@@ -21,6 +23,8 @@ To see demo: use GopherJS_ to compile ``app.go`` to ``app.js``. Put
 your browser.
 
 For Vue.js_ version, see [6]_.
+
+For AngularJS_ version, see [7]_.
 
 ----
 
@@ -63,10 +67,13 @@ References:
 
 .. [6] `[Vue.js] Animate.css Test Demo <{filename}../25/vuejs-animate.css-test-demo%en.rst>`_
 
+.. [7] `[AngularJS] Animate.css Test Demo <{filename}../26/angularjs-ng-animate.css-test-demo%en.rst>`_
+
 .. _GopherJS: http://www.gopherjs.org/
 .. _Animate.css: https://daneden.github.io/animate.css/
 .. _animations on GitHub Pages: https://daneden.github.io/animate.css/
 .. _Vue.js: https://vuejs.org/
+.. _AngularJS: https://angularjs.org/
 
 .. |godoc| image:: https://godoc.org/github.com/gopherjs/gopherjs/js?status.png
    :target: https://godoc.org/github.com/gopherjs/gopherjs/js
