@@ -22,6 +22,8 @@ installation of `Pāli`_ input method in computers
 
 .. show_github_file:: siongui userpages content/code/vuejs/virtual-keyboard/index.html
 
+.. adsu:: 2
+
 .. show_github_file:: siongui userpages content/code/vuejs/virtual-keyboard/app.js
 
 .. show_github_file:: siongui userpages content/code/vuejs/virtual-keyboard/keypad.css

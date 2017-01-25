@@ -23,6 +23,8 @@ Tested on ``Ubuntu Linux 15.10``.
 
 ----
 
+.. adsu:: 2
+
 .. [1] `bash - How to change the output color of echo in Linux - Stack Overflow <http://stackoverflow.com/a/5947779>`_
 
 .. [2] `colorful Makefile echo output · siongui/pali@587672e · GitHub <https://github.com/siongui/pali/commit/587672eb8729112b926d197550d3b1a0e0fb4448>`_

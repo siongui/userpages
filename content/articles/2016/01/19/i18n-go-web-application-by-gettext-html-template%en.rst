@@ -47,6 +47,8 @@ So we have two PO files and two MO files:
   locale/vi_VN/LC_MESSAGES/messages.mo
 
 
+.. adsu:: 2
+
 Source Code
 +++++++++++
 

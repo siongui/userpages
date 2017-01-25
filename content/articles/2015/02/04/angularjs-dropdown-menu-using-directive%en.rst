@@ -18,6 +18,8 @@ js: See `Developer Guide: Directives <https://docs.angularjs.org/guide/directive
 
 .. show_github_file:: siongui userpages content/articles/2015/02/04/ngdropdown.js
 
+.. adsu:: 2
+
 html: From line 11 to 15, the menu is placed inside a *div* element, the name ``dropdown`` of the custom directive is the attribute of the *div* element, and we use three other attributes (*classlink*, *linktext*, *classmenu*) to pass css class names and link text to the dropdown menu template in custom directive.
 
 .. show_github_file:: siongui userpages content/articles/2015/02/04/ngdropdown.html

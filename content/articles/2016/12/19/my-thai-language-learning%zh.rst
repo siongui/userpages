@@ -2,7 +2,7 @@
 ############
 
 :date: 2016-12-19T08:59+08:00
-:modified: 2017-01-20T00:30+08:00
+:modified: 2017-01-25T10:24+08:00
 :tags: 泰國, 泰語
 :category: 泰語學習
 :summary: 泰語學習紀錄
@@ -13,129 +13,8 @@
 .. contents:: 目錄
 
 
-佛教相關用詞
-++++++++++++
-
-.. list-table:: 對照表
-   :header-rows: 1
-   :class: table-syntax-diff
-
-   * - ไทย
-     - อีสาน (ລາວ)
-     - 中文
-     - English
-
-   * - `หลวงปู่ชา`_
-     -
-     - 隆普查， `阿姜查`_
-     - `Ajahn Chah`_
-
-   * - หลวงพ่อ
-     -
-     - `隆波`_ (意思接近師父)
-     - `Luang Por`_
-
-   * - `หลวงพ่อบุญชู`_
-     -
-     - 隆波Boonchu
-     - Luang Por Boonchu
-
-   * - วัด
-     -
-     - 寺廟，道場
-     - monastery, temple
-
-   * - วัดป่า
-     -
-     - 叢林道場
-     - forest monastery
-
-   * - ศีลห้า
-     -
-     - 五戒
-     - five precepts
-
-   * - ศีลแปด
-     -
-     - 八戒
-     - eight precepts
-
-   * - ศีลขาด
-     -
-     - 破戒
-     -
-
-   * - กิเลส
-     -
-     - 煩惱
-     - defilement
-
-   * - ปฏิบัติ
-     -
-     - 修行
-     - practice
-
-   * - ทาง
-     -
-     - 道
-     - way
-
-   * - พุทธ
-     -
-     - 佛
-     - Buddha
-
-   * - ศาสนา
-     -
-     - (宗)教, 源自巴利語sāsana
-     - religion
-
-   * - อนุโมทนา
-     -
-     - 隨喜
-     -
-
-   * - อนุโมทามิ
-     -
-     - 我隨喜
-     -
-
-   * - สาธุ
-     -
-     - 善哉
-     -
-
-   * - บุญ
-     -
-     - 功德
-     - merit
-
-   * - ทำบุญ
-     -
-     - 做功德(通常指上寺廟布施)
-     -
-
-   * - กราบ
-     -
-     - 頂禮
-     - prostrate oneself, bow
-
-   * - พรรษา
-     -
-     - 雨安居
-     - rain retreat
-
-   * - ชาติ
-     -
-     - `前世`_
-     -
-
-   * - ชาติที่แล้ว
-
-       = อดีตชาติ
-     - ชาติก่อน
-     - 前一世
-     -
+`佛教相關用詞`_
++++++++++++++++
 
 問候語
 ++++++
@@ -205,6 +84,8 @@
      -
      - 佛陀保佑的人(意指祈求保佑)
      -
+
+.. adsu:: 2
 
 常用短詞
 ++++++++
@@ -575,6 +456,11 @@
      - 妹妹
      - younger sister
 
+   * - ที่มา
+     -
+     - 來源
+     - Source
+
 時間日期
 ++++++++
 
@@ -606,6 +492,11 @@
      - มื้อวาน
      - 昨天
      - yesterday
+
+   * - ตีห้า
+     -
+     - 凌晨五點
+     - 5 am
 
 動物
 ++++
@@ -907,15 +798,9 @@
        `คำศัพท์อีสานน่ารู้ - Pantip <https://pantip.com/topic/32041051>`_
 
 
-.. _หลวงปู่ชา: https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B9%80%E0%B8%96%E0%B8%A3_(%E0%B8%8A%E0%B8%B2_%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%97%E0%B8%BA%E0%B9%82%E0%B8%97)
-.. _阿姜查: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%A7%9C%E6%9F%A5
-.. _Ajahn Chah: https://en.wikipedia.org/wiki/Ajahn_Chah
-.. _隆波: https://zh.wikipedia.org/wiki/%E9%9A%86%E6%B3%A2
-.. _Luang Por: https://en.wikipedia.org/wiki/Luang_Por
-.. _หลวงพ่อบุญชู: https://www.google.com/search?q=%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%8A%E0%B8%B9
+.. _佛教相關用詞: {filename}buddhist-terms-my-thai-language-learning%zh.rst
 .. _曾經: https://www.google.com/search?q=%E6%B3%B0%E8%AA%9E+%E6%9B%BE%E7%B6%93
 .. _na 語氣助詞: https://www.google.com/search?q=%E0%B8%99%E0%B8%B0+%E6%B3%B0%E8%AA%9E
-.. _前世: https://www.google.com/search?q=%E5%89%8D%E4%B8%96+%E6%B3%B0%E8%AA%9E
 .. _也: https://www.google.com/search?q=%E0%B8%81%E0%B9%87+%E6%B3%B0%E8%AA%9E
 .. _烏汶: https://zh.wikipedia.org/zh-tw/%E7%83%8F%E6%B1%B6%E5%BA%9C
 .. _泰國東北地區的稱呼: https://zh.wikipedia.org/zh-tw/%E4%BE%9D%E5%96%84%E5%9C%B0%E5%8C%BA
