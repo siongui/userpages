@@ -40,6 +40,8 @@ $apply):
       scope.$apply(fn);
   }
 
+.. adsu:: 2
+
 The *fn* in above sample code could be AngularJS expression_ or JavaScript
 function, depending on your need.
 

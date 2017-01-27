@@ -36,6 +36,8 @@ Python Parse Accept-Language
 
     return locale_q_pairs
 
+.. adsu:: 2
+
 Example Usage and Output
 ~~~~~~~~~~~~~~~~~~~~~~~~
 

@@ -21,7 +21,7 @@ struct* to the *div* struct.
 `Run code on Go Playground <https://play.golang.org/p/4DoYAG_A6F>`_
 
 .. show_github_file:: siongui userpages content/code/go-xml/parse-3.go
-
+.. adsu:: 2
 
 The output result:
 

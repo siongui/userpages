@@ -10,6 +10,7 @@
 List all files in a directory in Golang_. Similar to Python_ `os.walk`_.
 
 .. show_github_file:: siongui userpages content/code/go-walk-files-in-dir/walk.go
+.. adsu:: 2
 
 ----
 

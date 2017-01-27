@@ -20,7 +20,7 @@ complete source code:
       :class: align-center
 
 .. show_github_file:: siongui userpages content/code/angularjs-jquery-datepicker/directive.html
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/angularjs-jquery-datepicker/directive.js
 
 

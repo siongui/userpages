@@ -30,6 +30,8 @@ Download demo SCSS_ files:
   # cd to the directory where you put Makefile
   $ make download
 
+.. adsu:: 2
+
 Now we write a Go_ program to compile SCSS files to CSS (Put this Go file in the
 same directory as Makefile):
 

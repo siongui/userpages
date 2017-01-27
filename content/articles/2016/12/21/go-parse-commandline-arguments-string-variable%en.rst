@@ -12,7 +12,7 @@
 Pass argument from `command line`_ and used as *string* variable in Go_ program:
 
 .. show_github_file:: siongui userpages content/code/go/command-line-argument/Makefile
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/go/command-line-argument/demo.go
 
 Don't forget to call `flag.Parse()`_ in your code. If you do, your variable will

@@ -59,6 +59,8 @@ Source Code
     xmlhttp.send();
   }
 
+.. adsu:: 2
+
 Usage
 +++++
 

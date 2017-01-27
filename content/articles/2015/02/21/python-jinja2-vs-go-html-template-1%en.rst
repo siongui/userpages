@@ -103,6 +103,8 @@ to show how to serve a "Hello World" webpage.
 
          return template.render(template_values)
 
+.. adsu:: 2
+
 ----
 
 Complete Jinja2_ template:

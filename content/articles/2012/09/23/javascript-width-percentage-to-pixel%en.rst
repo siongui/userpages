@@ -23,6 +23,7 @@ hence we can know 1% equal to how many pixels.
 
 Source Code for Demo:
 
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/articles/2012/09/23/percentage2pixel.html
 
 

@@ -18,6 +18,8 @@
 
 ----
 
+.. adsu:: 2
+
 Source code:
 
 .. show_github_file:: siongui userpages content/code/make/replace-string/Makefile

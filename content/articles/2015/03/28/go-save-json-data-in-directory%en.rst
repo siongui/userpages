@@ -15,7 +15,6 @@ Souce Code
 ++++++++++
 
 .. show_github_file:: siongui userpages content/code/go-save-json-in-folder/savelink.go
-
 .. adsu:: 2
 
 Test

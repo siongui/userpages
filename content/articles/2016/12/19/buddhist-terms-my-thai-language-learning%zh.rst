@@ -2,7 +2,7 @@
 ###########################
 
 :date: 2016-12-19T08:59+08:00
-:modified: 2017-01-25T10:24+08:00
+:modified: 2017-01-27T08:20+08:00
 :tags: 泰國, 泰語
 :category: 泰語學習
 :summary: 泰語學習紀錄
@@ -141,6 +141,21 @@
      - 念經
      - chanting
 
+   * - ตักบาตร
+     -
+     - 通常指將食物放入缽中
+     -
+
+   * - `ธุดงค์`_
+     -
+     - 行腳
+     -
+
+   * - แม่ชี
+     -
+     - 美琪，泰國持八戒剃頭穿白衣的女修行者
+     - Maechi_
+
 .. adsu:: 2
 
 
@@ -152,3 +167,5 @@
 .. _หลวงพ่อบุญชู: https://www.google.com/search?q=%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%8A%E0%B8%B9
 .. _前世: https://www.google.com/search?q=%E5%89%8D%E4%B8%96+%E6%B3%B0%E8%AA%9E
 .. _บารมี: https://th.wikipedia.org/wiki/%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%B5
+.. _ธุดงค์: https://th.wikipedia.org/wiki/%E0%B8%98%E0%B8%B8%E0%B8%94%E0%B8%87%E0%B8%84%E0%B9%8C
+.. _Maechi: https://en.wikipedia.org/wiki/Maechi

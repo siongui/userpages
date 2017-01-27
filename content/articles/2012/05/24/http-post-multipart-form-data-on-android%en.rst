@@ -11,6 +11,7 @@ Since the coming of cloud computing, sometimes we would like to let the `Android
 
 Assume the data to be posted contains a file whose name is **uploadedFile**, a variable whose name is **to**, and a variable whose name is **from**. The following is the code snippet for posting the data to the server:
 
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/articles/2012/05/24/http-post-multipart-form-data-on-android.java
 
 Hope this example would be helpful for those who are interested!
