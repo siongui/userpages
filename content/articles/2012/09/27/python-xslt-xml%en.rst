@@ -17,6 +17,7 @@ which instructs how to do the transformation. The following sample Python script
 demonstrates how to do XSLT_:
 
 .. show_github_file:: siongui userpages content/articles/2012/09/27/xslt.py
+.. adsu:: 2
 
 In the last line, the path of XML and XSL files are passed as arguments to the
 *transform* function, which returns the content (strings) of transformed XML

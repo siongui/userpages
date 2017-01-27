@@ -220,6 +220,7 @@
   * `[心得] 推薦淘寶暢通台灣專線集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484716611.A.6C4.html>`_
   * `[抱怨]反推松針國際物流淘寶集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484639871.A.DBF.html>`_
 
+.. adsu:: 3
 
 - 禁止輸入
 

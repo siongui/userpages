@@ -23,10 +23,12 @@ enable CORS on your server.
 Source Code for Demo (*HTML*):
 
 .. show_github_file:: siongui userpages content/code/javascript-xmlhttprequest/crossDomainXHR.html
+.. adsu:: 2
 
 Source Code for Demo (*JavaScript*):
 
 .. show_github_file:: siongui userpages content/code/javascript-xmlhttprequest/xhr.js
+.. adsu:: 3
 
 The *AJAXRequest* function provides the Cross-Domain, Cross-Browser XHR. Put the
 function in your code and re-write the content of *callback* and *failCallback*

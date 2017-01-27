@@ -122,6 +122,8 @@
   * `[抱怨] 慶記集貨-貨丟消失多日 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483500779.A.1CA.html>`_
   * `[問題] 有人這幾天聯絡到慶記李的嗎?QAQ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484761164.A.BA0.html>`_
 
+.. adsu:: 3
+
 - `[心得] 大推飛翔集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461738155.A.66A.html>`_
 - `[閒聊] 今天去了千里馬集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462455609.A.911.html>`_
 - `[心得] 推薦小鵬集貨貼心追貨包裝仔細 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462467131.A.BD3.html>`_

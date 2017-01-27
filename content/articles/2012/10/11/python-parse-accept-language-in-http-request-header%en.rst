@@ -59,6 +59,8 @@ To know how to detect user *locale/language* according to *Accept-Language*
 field in HTTP request header, please refer to the post "*Detect User Language
 (Locale) on Google App Engine Python*" [4]_.
 
+.. adsu:: 3
+
 ----
 
 References:

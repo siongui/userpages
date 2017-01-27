@@ -27,6 +27,8 @@ script. Please `install wkhtmltopdf`_ first.
 If you get error message ``wkhtmltopdf: cannot connect to X server``, see
 `this question on Stack Overflow`_ [3]_ for solution.
 
+.. adsu:: 2
+
 ----
 
 Tested on: ``Ubuntu Linux 16.04``, ``wkhtmltopdf 0.12.2.4``

@@ -48,6 +48,8 @@ HTML file for demo: (*index.html*)
   </body>
   </html>
 
+.. adsu:: 2
+
 The Golang_ code for retrieving HTTP request headers via
 `getAllResponseHeaders()`_:
 
@@ -72,6 +74,8 @@ above files, and open your browser console to see the output. My output is:
   Content-Type: text/html; charset=utf-8
 
 ----
+
+.. adsu:: 3
 
 Appendix
 ++++++++

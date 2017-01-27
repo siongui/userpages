@@ -17,12 +17,12 @@ Please first see:
 js: See `Developer Guide: Directives <https://docs.angularjs.org/guide/directive>`_ and `API: $compile <https://docs.angularjs.org/api/ng/service/$compile>`_ for how to write custom directives and API.
 
 .. show_github_file:: siongui userpages content/articles/2015/02/04/ngdropdown.js
-
 .. adsu:: 2
 
 html: From line 11 to 15, the menu is placed inside a *div* element, the name ``dropdown`` of the custom directive is the attribute of the *div* element, and we use three other attributes (*classlink*, *linktext*, *classmenu*) to pass css class names and link text to the dropdown menu template in custom directive.
 
 .. show_github_file:: siongui userpages content/articles/2015/02/04/ngdropdown.html
+.. adsu:: 3
 
 css: Nothing special here. The same as you would do in a normal non-angularjs dropdown menu.
 

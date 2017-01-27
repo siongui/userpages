@@ -32,6 +32,7 @@ The following are key aspects in the code:
 .. show_github_file:: siongui userpages content/code/angularjs/input-suggest/index.html
 .. adsu:: 2
 .. show_github_file:: siongui userpages content/code/angularjs/input-suggest/app.js
+.. adsu:: 3
 .. show_github_file:: siongui userpages content/code/angularjs/input-suggest/style.css
 
 ----

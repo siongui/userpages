@@ -15,3 +15,5 @@ Assume the data to be posted contains a file whose name is **uploadedFile**, a v
 .. show_github_file:: siongui userpages content/articles/2012/05/24/http-post-multipart-form-data-on-android.java
 
 Hope this example would be helpful for those who are interested!
+
+.. adsu:: 3

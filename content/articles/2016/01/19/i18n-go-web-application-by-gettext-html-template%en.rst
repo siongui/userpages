@@ -73,6 +73,8 @@ translatable strings (read [7]_ for further details):
   sed "s/{{gettext \(".*"\)}}/{{gettext(\1)}}/g" html.go | xgettext --no-wrap --language=c --from-code=UTF-8 --output=locale/messages.pot -
 
 
+.. adsu:: 3
+
 Output of Above Code
 ++++++++++++++++++++
 

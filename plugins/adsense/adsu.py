@@ -40,6 +40,19 @@ ad2nd = """
 </script>
 """
 
+ad3rd = """
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 3rd ad (below) - siongui.github.io -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0436733829999264"
+     data-ad-slot="6238827600"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+"""
+
 class embed_adsense_code(Directive):
   required_arguments = 1
   has_content = False
@@ -51,6 +64,8 @@ class embed_adsense_code(Directive):
       html = ad1st
     if sel == "2":
       html = ad2nd
+    if sel == "3":
+      html = ad3rd
 
     return [nodes.raw('', html, format='html')]
 

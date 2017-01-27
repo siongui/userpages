@@ -33,6 +33,8 @@ xgettext_ to extract strings are:
 
   {{gettext("Home")}}
 
+.. adsu:: 2
+
 So how to extract the translatable strings in syntax of Go_ `html/template`_?
 After some googling [4]_, I found [5]_ provides me the idea of solution. The
 solution is to uses sed_ to convert the Go_ `html/template`_ syntax to idiomatic
@@ -46,6 +48,7 @@ After conversion of syntax, the output are feeded to xgettext_ to extract
 strings. Handlebars_ templates uses syntax silimiar to Go_ `html/template`_,
 so the solution here is also applied to Handlebars_ templates.
 
+----
 
 Tested on: ``Ubuntu Linux 15.10``, ``Go 1.5.3``.
 
