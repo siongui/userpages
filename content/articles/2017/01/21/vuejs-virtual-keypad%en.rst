@@ -21,14 +21,14 @@ installation of `Pāli`_ input method in computers
 **Source code**:
 
 .. show_github_file:: siongui userpages content/code/vuejs/virtual-keyboard/index.html
-
 .. adsu:: 2
-
 .. show_github_file:: siongui userpages content/code/vuejs/virtual-keyboard/app.js
-
 .. show_github_file:: siongui userpages content/code/vuejs/virtual-keyboard/keypad.css
+.. adsu:: 3
 
 For AngularJS_ version, see [1]_.
+
+For plain JavaScript_ version, see [2]_.
 
 ----
 
@@ -42,6 +42,7 @@ Tested on:
 References:
 
 .. [1] `[AngularJS] Virtual Keyboard <{filename}../20/angularjs-ng-virtual-keypad%en.rst>`_
+.. [2] `[JavaScript] Virtual Keyboard <{filename}../28/javascript-virtual-keypad%en.rst>`_
 
 
 .. _Vue.js: https://vuejs.org/
@@ -49,3 +50,4 @@ References:
 .. _Pāli Dictionary: http://dictionary.sutta.org/
 .. _Pāli: https://en.wikipedia.org/wiki/Pali
 .. _romanized Pāli: https://www.google.com/search?q=romanized+P%C4%81li
+.. _JavaScript: https://www.google.com/search?q=JavaScript
