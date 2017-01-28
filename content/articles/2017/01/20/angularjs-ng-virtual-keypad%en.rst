@@ -34,6 +34,8 @@ For Vue.js_ version, see [4]_.
 
 For plain JavaScript_ version, see [5]_.
 
+For Dart_ version, see [6]_.
+
 ----
 
 Tested on:
@@ -54,12 +56,13 @@ References:
 .. [3] `[AngularJS] Toggle Element without JavaScript <{filename}../../../2013/06/22/angularjs-toggle-element-without-javascript%en.rst>`_
 
 .. [4] `[Vue.js] Virtual Keyboard <{filename}../21/vuejs-virtual-keypad%en.rst>`_
-
 .. [5] `[JavaScript] Virtual Keyboard <{filename}../28/javascript-virtual-keypad%en.rst>`_
+.. [6] `[Dart] Virtual Keyboard <{filename}../29/dartlang-virtual-keypad%en.rst>`_
 
 
 .. _AngularJS: https://angularjs.org/
 .. _Vue.js: https://vuejs.org/
+.. _Dart: https://www.dartlang.org/
 .. _Directives: https://docs.angularjs.org/guide/directive
 .. _Pāli Dictionary: http://dictionary.sutta.org/
 .. _Pāli: https://en.wikipedia.org/wiki/Pali

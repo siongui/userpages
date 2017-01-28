@@ -30,6 +30,8 @@ For AngularJS_ version, see [1]_.
 
 For plain JavaScript_ version, see [2]_.
 
+For Dart_ version, see [3]_.
+
 ----
 
 Tested on:
@@ -43,10 +45,12 @@ References:
 
 .. [1] `[AngularJS] Virtual Keyboard <{filename}../20/angularjs-ng-virtual-keypad%en.rst>`_
 .. [2] `[JavaScript] Virtual Keyboard <{filename}../28/javascript-virtual-keypad%en.rst>`_
+.. [3] `[Dart] Virtual Keyboard <{filename}../29/dartlang-virtual-keypad%en.rst>`_
 
 
 .. _Vue.js: https://vuejs.org/
 .. _AngularJS: https://angularjs.org/
+.. _Dart: https://www.dartlang.org/
 .. _Pāli Dictionary: http://dictionary.sutta.org/
 .. _Pāli: https://en.wikipedia.org/wiki/Pali
 .. _romanized Pāli: https://www.google.com/search?q=romanized+P%C4%81li

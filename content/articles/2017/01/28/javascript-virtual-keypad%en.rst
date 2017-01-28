@@ -44,6 +44,8 @@ For AngularJS_ version, see [3]_.
 
 For Vue.js_ version, see [4]_.
 
+For Dart_ version, see [5]_.
+
 ----
 
 Tested on:
@@ -70,10 +72,12 @@ References:
        `Why doesn't JavaScript need a main() function? - Stack Overflow <http://stackoverflow.com/questions/9015836/why-doesnt-javascript-need-a-main-function>`_
 .. [3] `[AngularJS] Virtual Keyboard <{filename}../20/angularjs-ng-virtual-keypad%en.rst>`_
 .. [4] `[Vue.js] Virtual Keyboard <{filename}../21/vuejs-virtual-keypad%en.rst>`_
+.. [5] `[Dart] Virtual Keyboard <{filename}../29/dartlang-virtual-keypad%en.rst>`_
 
 .. _jQuery: https://jquery.com/
 .. _Vue.js: https://vuejs.org/
 .. _AngularJS: https://angularjs.org/
+.. _Dart: https://www.dartlang.org/
 .. _Pāli Dictionary: http://dictionary.sutta.org/
 .. _Pāli: https://en.wikipedia.org/wiki/Pali
 .. _romanized Pāli: https://www.google.com/search?q=romanized+P%C4%81li
