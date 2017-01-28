@@ -32,6 +32,8 @@
   你好
   世界
 
+.. adsu:: 2
+
 利用 Bash_ script以及 sed_ 來達成此任務：
 
 .. code-block:: bash
@@ -45,6 +47,7 @@
     sed -i '0,/:adsu/s/:adsu/\n&/' $path
   done
 
+.. adsu:: 3
 
 ----
 

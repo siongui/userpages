@@ -31,10 +31,13 @@ result will be
 And also modify the string ``bash-*/`` to ``bash/*/`` via sed_ in the
 reStructuredText_ files in ``articles`` directory.
 
+.. adsu:: 2
+
 Answer
 ++++++
 
 .. show_github_file:: siongui userpages content/code/bash/move-dir-modify-rst/run.sh
+.. adsu:: 3
 
 ----
 

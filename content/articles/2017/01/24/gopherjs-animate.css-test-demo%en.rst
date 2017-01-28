@@ -26,6 +26,8 @@ For Vue.js_ version, see [6]_.
 
 For AngularJS_ version, see [7]_.
 
+.. adsu:: 3
+
 ----
 
 Tested on:

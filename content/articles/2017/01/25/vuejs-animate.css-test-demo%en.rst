@@ -29,6 +29,7 @@ We need only two directive_ to animate the text:
 .. show_github_file:: siongui userpages content/code/vuejs/animate.css-test/index.html
 
 .. show_github_file:: siongui userpages content/code/vuejs/animate.css-test/app.js
+.. adsu:: 3
 
 For GopherJS_ version, see [1]_.
 

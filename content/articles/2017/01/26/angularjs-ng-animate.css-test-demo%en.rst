@@ -32,6 +32,8 @@ For GopherJS_ version, see [1]_.
 
 For Vue.js_ version, see [2]_.
 
+.. adsu:: 3
+
 ----
 
 Tested on:

@@ -70,9 +70,11 @@ two dimension.
   	}
   }
 
+.. adsu:: 2
+
 ----
 
-Tested on: ``Ubuntu Linux 16.10``, ``Go 1.7.4`` & Go Playground.
+Tested on: ``Ubuntu Linux 16.10``, ``Go 1.7.4`` & `Go Playground`_.
 
 ----
 
@@ -85,5 +87,6 @@ References:
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
+.. _Go Playground: https://play.golang.org/
 .. _slice: https://www.google.com/search?q=golang+slice
 .. _array: https://www.google.com/search?q=golang+array

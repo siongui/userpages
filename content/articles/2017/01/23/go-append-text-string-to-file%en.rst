@@ -37,6 +37,8 @@ ease of use.
   	return nil
   }
 
+.. adsu:: 2
+
 ----
 
 Tested on:
@@ -52,6 +54,7 @@ References:
 
 .. [2] `go - Golang bad file descriptor - Stack Overflow <http://stackoverflow.com/a/33852107>`_
 
+.. adsu:: 3
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

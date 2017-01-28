@@ -2,7 +2,7 @@
 ############
 
 :date: 2016-12-19T08:59+08:00
-:modified: 2017-01-27T08:20+08:00
+:modified: 2017-01-28T23:28+08:00
 :tags: 泰國, 泰語
 :category: 泰語學習
 :summary: 泰語學習紀錄
@@ -258,6 +258,11 @@
      -
      - 蛤！
      -
+
+   * - ครับผม
+     -
+     - 是（禮貌的用法）
+     - Yes
 
 .. adsu:: 3
 
@@ -584,42 +589,8 @@
      - 隻(狗的單位詞)
      -
 
-地名
-++++
-
-.. list-table:: 對照表
-   :header-rows: 1
-   :class: table-syntax-diff
-
-   * - ไทย
-     - อีสาน (ລາວ)
-     - 中文
-     - English
-
-   * - อุบล
-     -
-     - 烏汶
-     - Ubon
-
-   * - อีสาน
-     -
-     - Esan `泰國東北地區的稱呼`_
-     -
-
-   * - เฉียวโถว
-     -
-     - 橋頭
-     -
-
-   * - ฟ่งซัน
-     -
-     - 鳳山
-     -
-
-   * - กังซัน
-     -
-     - 岡山
-     -
+`地名`_
++++++++
 
 可...
 +++++
@@ -868,11 +839,10 @@
 
 
 .. _佛教相關用詞: {filename}buddhist-terms-my-thai-language-learning%zh.rst
+.. _地名: {filename}place-name-my-thai-language-learning%zh.rst
 .. _曾經: https://www.google.com/search?q=%E6%B3%B0%E8%AA%9E+%E6%9B%BE%E7%B6%93
 .. _na 語氣助詞: https://www.google.com/search?q=%E0%B8%99%E0%B8%B0+%E6%B3%B0%E8%AA%9E
 .. _也: https://www.google.com/search?q=%E0%B8%81%E0%B9%87+%E6%B3%B0%E8%AA%9E
-.. _烏汶: https://zh.wikipedia.org/zh-tw/%E7%83%8F%E6%B1%B6%E5%BA%9C
-.. _泰國東北地區的稱呼: https://zh.wikipedia.org/zh-tw/%E4%BE%9D%E5%96%84%E5%9C%B0%E5%8C%BA
 .. _ค่อย 泰語: https://www.google.com/search?q=%E0%B8%84%E0%B9%88%E0%B8%AD%E0%B8%A2+%E6%B3%B0%E8%AA%9E
 .. _好看: https://www.google.com/search?q=%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%94%E0%B8%B9+%E5%A5%BD%E7%9C%8B
 .. _晶瑩剔透: https://www.google.com/search?q=%E0%B9%83%E0%B8%AA%E0%B9%83%E0%B8%AA+%E6%84%8F%E6%80%9D

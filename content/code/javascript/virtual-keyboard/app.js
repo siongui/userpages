@@ -4,10 +4,10 @@ function createKeypad() {
   var word = document.querySelector("#userinput");
   var keypad = document.querySelector(".keypad");
 
-  var letters = [ ['q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p'],
-                  ['a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l'],
-                  ['z', 'x', 'c', 'v', 'b', 'n', 'm'],
-                  ['ā', 'ḍ', 'ī', 'ḷ', 'ṁ', 'ṃ', 'ñ', 'ṇ', 'ṭ', 'ū', 'ŋ', 'ṅ'] ];
+  const letters = [ ['q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p'],
+                    ['a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l'],
+                    ['z', 'x', 'c', 'v', 'b', 'n', 'm'],
+                    ['ā', 'ḍ', 'ī', 'ḷ', 'ṁ', 'ṃ', 'ñ', 'ṇ', 'ṭ', 'ū', 'ŋ', 'ṅ'] ];
 
   for (var row = 0; row < letters.length; row++) {
     var divElm = document.createElement("div");
