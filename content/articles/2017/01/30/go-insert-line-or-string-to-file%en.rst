@@ -92,6 +92,8 @@ References:
 
        `golang insert line to file - Yandex search <https://www.yandex.com/search/?text=golang+insert+line+to+file>`_
 
+.. [5] `insert sting to n-th line of file · siongui/go-rst@3bdfb1a · GitHub <https://github.com/siongui/go-rst/commit/3bdfb1a66df7137ada01005cf17002f3d8f8b24b>`_
+
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
 .. _0-indexed: https://en.wikipedia.org/wiki/Zero-based_numbering

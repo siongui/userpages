@@ -23,6 +23,8 @@ Then in Makefile_ (assume your static website are located in ``/home/usrname/dev
   publish_to_github_project_pages:
   	cd /home/usrname/dev/; ghp-import mywebsite; git push origin gh-pages
 
+.. adsu:: 2
+
 Note that I put several commands in one line.
 If your Makefile is not located in ``/home/usrname/dev/``, the following will
 not work:
@@ -38,6 +40,8 @@ not work:
 Because when GNU make executes every line of command, it executes the command at
 current directory of of Makefile_. So when ghp-import_ try to find ``mywebsite``
 directory in current directory, it will find nothing and report error.
+
+.. adsu:: 3
 
 ----
 

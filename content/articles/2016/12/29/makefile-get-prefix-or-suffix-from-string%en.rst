@@ -16,6 +16,8 @@
 
 shell command head_/tail_ are used to get prefix_/suffix_ from string.
 
+.. adsu:: 2
+
 **Output**:
 
 .. code-block:: txt
@@ -33,6 +35,8 @@ Tested on `Ubuntu Linux 16.10`_, `GNU make 4.1-9`_.
 References:
 
 .. [1] `[Makefile] Check Installed Package Version on Ubuntu Linux <{filename}../23/makefile-check-installed-package-version-on-ubuntu-linux%en.rst>`_
+
+.. adsu:: 3
 
 .. [2] `makefile string starts with - Google search <https://www.google.com/search?q=makefile+string+starts+with>`_
 

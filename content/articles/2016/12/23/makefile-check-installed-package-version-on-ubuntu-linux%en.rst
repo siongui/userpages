@@ -18,6 +18,8 @@ Source code:
 
 Note that `strip text function`_ is used to remove spaces of the string.
 
+.. adsu:: 2
+
 Output:
 
 .. code-block:: txt
@@ -30,6 +32,8 @@ Output:
 Tested on `Ubuntu Linux 16.10`_, `GNU make 4.1-9`_.
 
 ----
+
+.. adsu:: 3
 
 References:
 

@@ -30,6 +30,8 @@ The following code creates DOM_ equivalent to
   	return div
   }
 
+.. adsu:: 2
+
 ----
 
 Tested on:

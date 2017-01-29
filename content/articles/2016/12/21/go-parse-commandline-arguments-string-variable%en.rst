@@ -18,8 +18,14 @@ Pass argument from `command line`_ and used as *string* variable in Go_ program:
 Don't forget to call `flag.Parse()`_ in your code. If you do, your variable will
 always be default value.
 
+.. adsu:: 3
 
-Source code tested on: ``Ubuntu Linux 16.10``, ``Go 1.7.4``.
+----
+
+Source code tested on:
+
+- ``Ubuntu Linux 16.10``
+- ``Go 1.7.4``.
 
 ----
 

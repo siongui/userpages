@@ -15,6 +15,7 @@ file to the destination directory you want. The following is the Bash_ script
 to demonstrate how to copy large number of files efficiently:
 
 .. show_github_file:: siongui userpages content/code/bash/copy-large-number-of-files/cpn.sh
+.. adsu:: 2
 
 ----
 

@@ -2,7 +2,7 @@
 ############
 
 :date: 2016-12-19T08:59+08:00
-:modified: 2017-01-28T23:28+08:00
+:modified: 2017-01-30T06:52+08:00
 :tags: 泰國, 泰語
 :category: 泰語學習
 :summary: 泰語學習紀錄
@@ -658,57 +658,8 @@
      - 可怕
      - scary
 
-禪宗
-++++
-
-.. list-table:: 對照表
-   :header-rows: 1
-   :class: table-syntax-diff
-
-   * - ไทย
-     - อีสาน (ລາວ)
-     - 中文
-     - English
-
-   * - ผู้ดูอยู่ก็คือความคิด
-     -
-     - 正在看著也是念頭
-     -
-
-   * - หยดน้ำก็คือสายน้ำ
-     -
-     - 滴水也是河流
-     -
-
-   * - มันอยู่ที่ไหน
-     -
-     - 他在哪裡
-     -
-
-   * - สิ่งที่ไม่ถูกสั่นคลอน
-     -
-     - 不被影響的
-     -
-
-   * - จิตที่สลัดออก
-     -
-     - 出離心
-     -
-
-   * - ชี้ทางหลุดพ้น
-     -
-     - 直指解脫
-     -
-
-   * - กรรมฐานที่ชงักการปรุงแต่ง
-     -
-     - 斷除妄想的工具
-     -
-
-   * - 《ประวัติพุทธศาสนานิกายฌานประเทศจีน》
-     -
-     - 中國禪宗史 印順著
-     -
+`禪宗`_
++++++++
 
 成語
 ++++
@@ -879,6 +830,7 @@
 
 .. _佛教相關用詞: {filename}buddhist-terms-my-thai-language-learning%zh.rst
 .. _地名: {filename}place-name-my-thai-language-learning%zh.rst
+.. _禪宗: {filename}zen-my-thai-language-learning%zh.rst
 .. _曾經: https://www.google.com/search?q=%E6%B3%B0%E8%AA%9E+%E6%9B%BE%E7%B6%93
 .. _na 語氣助詞: https://www.google.com/search?q=%E0%B8%99%E0%B8%B0+%E6%B3%B0%E8%AA%9E
 .. _也: https://www.google.com/search?q=%E0%B8%81%E0%B9%87+%E6%B3%B0%E8%AA%9E

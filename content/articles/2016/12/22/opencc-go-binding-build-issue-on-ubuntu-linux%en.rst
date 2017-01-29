@@ -34,6 +34,8 @@ Then I tried to install ``libopencc-dev`` to compile *OpenCC Go binding/wrapper*
   The following packages have unmet dependencies:
    libopencc-dev : Depends: libopencc2 (= 1.0.4-1ubuntu0.16.10.1) but it is not going to be installed
 
+.. adsu:: 2
+
 After some googling, I manually download and install ``libopencc-dev``:
 
 .. code-block:: bash
@@ -56,6 +58,8 @@ But after you finish to use the *OpenCC Go binding/wrapper*, remove
 
 If you keep ``libopencc-dev``, you cannot use ``apt-get`` to update and upgrade
 your system.
+
+.. adsu:: 3
 
 ----
 

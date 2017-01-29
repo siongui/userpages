@@ -11,16 +11,17 @@
 Focus_ and Blur_ of DOM_ element via GopherJS_.
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/focus-blur/index.html
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/focus-blur/app.go
-
+.. adsu:: 3
 
 ----
 
 Tested on:
-``Ubuntu Linux 16.04``,
-``Go 1.7.4``,
-``Chromium Version 53.0.2785.143 Built on Ubuntu , running on Ubuntu 16.04 (64-bit)``
+
+- ``Ubuntu Linux 16.04``
+- ``Go 1.7.4``
+- ``Chromium Version 53.0.2785.143 Built on Ubuntu , running on Ubuntu 16.04 (64-bit)``
 
 ----
 

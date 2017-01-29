@@ -11,8 +11,9 @@
 Example of onmouseenter_ and onmouseleave_ event via GopherJS_.
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/mouseenter-mouseleave/index.html
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/mouseenter-mouseleave/app.go
+.. adsu:: 3
 
 To see demo: use GopherJS_ to compile ``app.go`` to ``app.js``. Put
 ``index.html`` and ``app.js`` in the same directory. Open ``index.html`` with

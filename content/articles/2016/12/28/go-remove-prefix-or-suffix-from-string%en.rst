@@ -22,6 +22,8 @@ A: Use TrimPrefix_ function in strings_ package
    See `here <https://play.golang.org/p/sOIZognDV6>`__ for official example of
    TrimPrefix_.
 
+.. adsu:: 2
+
 Trim/Remove Suffix
 ++++++++++++++++++
 
@@ -41,6 +43,8 @@ A: Use TrimSuffix_ function in strings_ package
 Tested on: ``Ubuntu Linux 16.10``, ``Go 1.7.4``.
 
 ----
+
+.. adsu:: 3
 
 References:
 

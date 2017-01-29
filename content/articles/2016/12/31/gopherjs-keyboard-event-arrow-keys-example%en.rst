@@ -11,8 +11,9 @@
 Keyboard event of `arrow keys`_ via GopherJS_.
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/arrow-keys/index.html
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/arrow-keys/app.go
+.. adsu:: 3
 
 The *keyup* event of window_ object (which is `js.Global`_ in GopherJS_) is
 listened. You can also bind the event listener to input_ element or textarea_

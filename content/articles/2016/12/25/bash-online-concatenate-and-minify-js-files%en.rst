@@ -14,6 +14,7 @@ Concatenate and minify/compress JavaScript_ files via Bash_ script, curl_, and
 online `Google Closure Compiler`_.
 
 .. show_github_file:: siongui userpages content/code/bash/google-closure-minify-js/minjs.sh
+.. adsu:: 2
 
 ----
 

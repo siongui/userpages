@@ -18,6 +18,7 @@ After finish, the minified/compressed js file will be named ``app.min.js`` in
 the same directory.
 
 .. show_github_file:: siongui userpages content/code/make/google-closure-minify-js/Makefile
+.. adsu:: 2
 
 ----
 
