@@ -19,7 +19,9 @@ Install the image resizing library (`github.com/nfnt/resize`_) first:
 
 The full example:
 
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/go/resize-image/web.go
+.. adsu:: 3
 
 For more usage of `github.com/nfnt/resize`_, visit its GitHub page. If your image
 is of JPEG_ format, import `image/jpeg`_ and modify the code correspondingly.

@@ -27,6 +27,7 @@ First, add the following filter code in your `pelicanconf.py`_:
       "get_by_slug": get_by_slug,
   }
 
+.. adsu:: 2
 
 Then you can use the custom filter to select the page or article you need in the
 theme_. For example, you can use as follows in ``index.html``:
@@ -44,6 +45,8 @@ theme_. For example, you can use as follows in ``index.html``:
 Tested on: ``Ubuntu Linux 16.10``, ``Python 2.7.12+``, `Pelican 3.7.0`_.
 
 ----
+
+.. adsu:: 3
 
 References:
 

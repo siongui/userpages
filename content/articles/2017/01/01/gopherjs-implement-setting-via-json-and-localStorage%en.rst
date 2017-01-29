@@ -13,11 +13,13 @@ Implement setting feature to save user preferences in web application via JSON_,
 `Web Storage`_, and GopherJS_.
 
 .. show_github_file:: siongui userpages content/code/gopherjs/localStorage-setting/index.html
+.. adsu:: 2
 
 FIXME: There is bug in the code below. The ``json.Marshal`` cannot convert
 ``Setting`` type correctly. Still try to figure out what's going wrong.
 
 .. show_github_file:: siongui userpages content/code/gopherjs/localStorage-setting/app.go
+.. adsu:: 3
 
 To see demo: use GopherJS_ to compile ``app.go`` to ``app.js``. Put
 ``index.html`` and ``app.js`` in the same directory. Open ``index.html`` with

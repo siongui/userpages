@@ -24,6 +24,8 @@ In GopherJS_, the equivalent is:
   	// do something
   }
 
+.. adsu:: 2
+
 For undefined_ test (if a variable is undefined), see [3]_.
 
 ----
@@ -56,6 +58,8 @@ References:
        `javascript null test - Yandex search <https://www.yandex.com/search/?text=javascript+null+test>`_
 
        `JavaScript null check - Stack Overflow <http://stackoverflow.com/questions/16672743/javascript-null-check>`_
+
+.. adsu:: 3
 
 .. [3] `[Golang] undefined Test in GopherJS <{filename}../../../2016/02/06/go-undefined-test-in-gopherjs%en.rst>`_
 

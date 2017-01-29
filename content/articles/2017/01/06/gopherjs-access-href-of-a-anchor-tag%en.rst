@@ -23,6 +23,8 @@ In JavaScript_, the href_ value of anchor_ element/tag (<a>) can be accessed by:
   // return "https://example.com/about/"
   var href = elm.href;
 
+.. adsu:: 2
+
 In GopherJS_, the equivalent is:
 
 .. code-block:: go
@@ -42,6 +44,8 @@ Tested on:
 - ``Chromium Version 55.0.2883.87 Built on Ubuntu , running on Ubuntu 16.10 (64-bit)``
 
 ----
+
+.. adsu:: 3
 
 References:
 

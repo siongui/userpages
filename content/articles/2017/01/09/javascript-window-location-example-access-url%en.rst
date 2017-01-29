@@ -17,8 +17,9 @@ JavaScript_ window.location_.
 **Source code for demo**:
 
 .. show_github_file:: siongui userpages content/code/javascript/window-location/index.html
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/javascript/window-location/location.js
+.. adsu:: 3
 
 For GopherJS_ equivalent, see [1]_.
 

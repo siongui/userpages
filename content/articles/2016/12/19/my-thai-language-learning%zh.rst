@@ -264,6 +264,11 @@
      - 是（禮貌的用法）
      - Yes
 
+   * - ที่เดิม
+     -
+     - 同一地
+     - same place
+
 .. adsu:: 3
 
 泰語從潮州話借來的詞
@@ -287,6 +292,40 @@
      -
      - 紅包
      -
+
+泰語從英語借來的詞
+++++++++++++++++++
+
+.. list-table:: 對照表
+   :header-rows: 1
+   :class: table-syntax-diff
+
+   * - ไทย
+     - อีสาน (ລາວ)
+     - 中文
+     - English
+
+   * - ซินเดอเรล่า
+     -
+     - 灰姑娘
+     - Cinderella
+
+華裔相關
+++++++++
+
+.. list-table:: 對照表
+   :header-rows: 1
+   :class: table-syntax-diff
+
+   * - ไทย
+     - อีสาน (ລາວ)
+     - 中文
+     - English
+
+   * - `ชาวไทยเชื้อสายจีน`_
+     -
+     - 泰國華人
+     - Thai Chinese
 
 其他
 ++++
@@ -848,3 +887,4 @@
 .. _晶瑩剔透: https://www.google.com/search?q=%E0%B9%83%E0%B8%AA%E0%B9%83%E0%B8%AA+%E6%84%8F%E6%80%9D
 .. _หน่อย 意思: https://www.google.com/search?q=%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%AD%E0%B8%A2+%E6%84%8F%E6%80%9D
 .. _不懂: https://tw.answers.yahoo.com/question/index?qid=20131016000010KK00354
+.. _ชาวไทยเชื้อสายจีน: https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%88%E0%B8%B5%E0%B8%99

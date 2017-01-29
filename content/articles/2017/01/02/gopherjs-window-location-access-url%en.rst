@@ -39,6 +39,8 @@ GopherJS_.
   	location.Get("search").String()
   }
 
+.. adsu:: 2
+
 For JavaScript_ equivalent, see [2]_.
 
 ..

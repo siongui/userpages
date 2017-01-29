@@ -25,6 +25,8 @@ Makefile 執行指令遇到錯誤時，繼續執行
   -sudo apt-get install opencc
   go get -u github.com/siongui/go-opencc
 
+.. adsu:: 2
+
 ----
 
 References:

@@ -32,6 +32,8 @@ Test if a string consists of single character or letter in Golang_.
   	fmt.Println(IsConsistOfSingleCharacter("哈哈嘻哈哈", "哈"))
   }
 
+.. adsu:: 2
+
 ----
 
 Tested on: ``Ubuntu Linux 16.10``, ``Go 1.7.4`` & Go Playground.

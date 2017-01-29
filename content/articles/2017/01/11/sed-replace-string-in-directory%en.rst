@@ -23,6 +23,8 @@ Answer(inspired by [2]_, [4]_, and [5]_):
     $ cd template/
     $ find -type f -name '*.html' | xargs sed -i "s/gettext('\(.*\)', /'\1'|gettext(/g"
 
+.. adsu:: 2
+
 ----
 
 References:

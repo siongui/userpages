@@ -35,11 +35,15 @@
   // function call to generate a random string of length 10
   RandomString(10);
 
+.. adsu:: 2
+
 Run `code <https://repl.it/FJIx/0>`_ online:
 
 .. raw:: html
 
   <script src="//repl.it/embed/FJIx/0.js"></script>
+
+.. adsu:: 3
 
 ----
 

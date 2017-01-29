@@ -37,6 +37,8 @@ theme_ as follows:
     <div>Title: {{ page.title }}</div>
   {% endfor %}
 
+.. adsu:: 2
+
 ----
 
 Tested on: ``Ubuntu Linux 16.10``, ``Python 2.7.12+``, `Pelican 3.7.0`_.

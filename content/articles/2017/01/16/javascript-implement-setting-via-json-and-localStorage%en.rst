@@ -18,10 +18,12 @@ Implement setting feature to save user preferences in web application via JSON_,
 **Source Code**:
 
 .. show_github_file:: siongui userpages content/code/javascript/localStorage-setting/index.html
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/javascript/localStorage-setting/app.js
 
 To implement setting feature via GopherJS_, see [2]_.
+
+.. adsu:: 3
 
 ----
 

@@ -29,6 +29,8 @@ References:
 
 .. [3] `GitHub - siongui/gopherjs-utils: useful collections of utilites (functions) for front end (browser) development via GopherJS <https://github.com/siongui/gopherjs-utils>`_
 
+.. adsu:: 2
+
 .. _GopherJS: http://www.gopherjs.org/
 
 .. |godoc| image:: https://godoc.org/github.com/gopherjs/gopherjs/js?status.png

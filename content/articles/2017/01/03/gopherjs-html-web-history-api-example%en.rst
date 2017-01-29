@@ -22,12 +22,14 @@ or forward through the history, web page will also be partially updated.
      :class: align-center
 
 .. show_github_file:: siongui userpages content/code/gopherjs/history-api/index.html
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/gopherjs/history-api/app.go
 
 To see demo: use GopherJS_ to compile ``app.go`` to ``app.js``. Put
 ``index.html`` and ``app.js`` in the same directory. Open ``index.html`` with
 your browser.
+
+.. adsu:: 3
 
 For JavaScript verson, see [7]_.
 

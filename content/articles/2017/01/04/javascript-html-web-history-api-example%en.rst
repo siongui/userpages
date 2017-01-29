@@ -22,10 +22,12 @@ or forward through the history, web page will also be partially updated.
      :class: align-center
 
 .. show_github_file:: siongui userpages content/code/javascript/history-api/index.html
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/javascript/history-api/app.js
 
 For GopherJS_ version, see [4]_.
+
+.. adsu:: 3
 
 ----
 

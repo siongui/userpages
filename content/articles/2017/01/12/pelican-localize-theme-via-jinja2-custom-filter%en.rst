@@ -32,6 +32,7 @@ Instead, this post shows another way to implement gettext_-like filter in
 ``pelicanconf.py`` and ust it to localize theme_ (translate strings in the
 theme_).
 
+.. adsu:: 2
 
 Solution
 ++++++++
@@ -88,6 +89,8 @@ generating subsites of each language.
   <span>{{ 'Updated'|gettext(DEFAULT_LANG) }}</span>
   <span>{{ 'Author'|gettext(DEFAULT_LANG) }}</span>
   <!-- ... -->
+
+.. adsu:: 3
 
 For full working example, see [1]_.
 

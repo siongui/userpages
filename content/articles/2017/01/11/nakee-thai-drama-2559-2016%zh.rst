@@ -17,6 +17,8 @@
 - `【泰剧/10月】三面娜迦 第一集【熟肉/FST字幕组】_连载剧集_电视剧_bilibili_哔哩哔哩弹幕视频网 <http://www.bilibili.com/video/av6630970/>`_
 - `【泰剧生肉】Nakee/三面娜迦 11全集〔KenP ＆Taew〕_连载剧集_电视剧_bilibili_哔哩哔哩弹幕视频网 <http://www.bilibili.com/video/av6719152/>`_
 
+.. adsu:: 2
+
 參考：
 
 .. [1] `นาคี - Google search <https://www.google.com/search?q=%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%B5>`_
@@ -54,6 +56,8 @@
        `nakee - Baidu search <https://www.baidu.com/s?wd=nakee>`_
 
        `nakee - Yandex search <https://www.yandex.com/search/?text=nakee>`_
+
+.. adsu:: 3
 
 .. [4] `นาคี - วิกิพีเดีย <https://th.wikipedia.org/wiki/%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%B5>`_
 

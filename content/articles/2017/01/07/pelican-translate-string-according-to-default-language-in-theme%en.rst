@@ -25,6 +25,8 @@ Then put the following code, which includes strings to be translated and
 translation in the theme_. (save as ``layout/includes/i18n.html`` in the theme_
 directory in this case):
 
+.. adsu:: 2
+
 .. code-block:: html
 
   {% macro gettext(string, lang) -%}
@@ -57,6 +59,8 @@ macro_ in the beginning of the layout:
 .. code-block:: html
 
   {%- from 'layout/includes/i18n.html' import gettext -%}
+
+.. adsu:: 3
 
 Finally, strings in the theme_ are translated like the following:
 
