@@ -65,7 +65,7 @@ Q.E.D.
 
 `post <http://oathbystyx.blogspot.com/2015/12/imo-2014-problem-6.html>`_
 by
-`Shen-Fu Tsai <{filename}/pages/sftsai.rst>`_
+`Shen-Fu Tsai <{filename}/pages/en/sftsai.rst>`_
 
 ----
 

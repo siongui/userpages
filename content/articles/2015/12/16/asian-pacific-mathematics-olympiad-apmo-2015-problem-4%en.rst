@@ -35,7 +35,7 @@ Q.E.D.
 
 `post <http://oathbystyx.blogspot.com/2015/12/apmo-2015-problem-4.html>`_
 by
-`Shen-Fu Tsai <{filename}/pages/sftsai.rst>`_
+`Shen-Fu Tsai <{filename}/pages/en/sftsai.rst>`_
 
 ----
 

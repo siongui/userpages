@@ -137,7 +137,7 @@ An example of coloring with :math:`f(\emptyset)=1` when :math:`n=4`. Notation: c
 
 `post <http://oathbystyx.blogspot.com/2015/05/2015-usamo-3.html>`_
 by
-`Shen-Fu Tsai <{filename}/pages/sftsai.rst>`_
+`Shen-Fu Tsai <{filename}/pages/en/sftsai.rst>`_
 
 ----
 

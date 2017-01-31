@@ -84,7 +84,7 @@ The result :math:`b = k + 1` also aligns well with intuition. For large :math:`k
 
 `post <http://oathbystyx.blogspot.com/2015/07/2015-imo-6.html>`_
 by
-`Shen-Fu Tsai <{filename}/pages/sftsai.rst>`_
+`Shen-Fu Tsai <{filename}/pages/en/sftsai.rst>`_
 
 ----
 

@@ -6,4 +6,4 @@
 :order: 1
 
 
-`ฉ่ง-หวี <{filename}sute_th_TH.rst>`_
+`ฉ่ง-หวี <{filename}sute.rst>`_

@@ -126,4 +126,4 @@ https://github.com/paritystsai8/coding_problem/blob/master/robot.cpp
 
 `post <http://oathbystyx.blogspot.com/2014/09/robot.html>`_
 by
-`Shen-Fu Tsai <{filename}/pages/sftsai.rst>`_
+`Shen-Fu Tsai <{filename}/pages/en/sftsai.rst>`_

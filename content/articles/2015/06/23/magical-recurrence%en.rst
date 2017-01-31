@@ -53,7 +53,7 @@ By the way, although both DP algorithms have the same asymptotic time complexity
 
 `post <http://oathbystyx.blogspot.com/2015/06/a-magical-recurrence-for-tree-knapsack.html>`_
 by
-`Shen-Fu Tsai <{filename}/pages/sftsai.rst>`_
+`Shen-Fu Tsai <{filename}/pages/en/sftsai.rst>`_
 
 References
 

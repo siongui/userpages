@@ -113,7 +113,7 @@ O(N)log(M) and space complexity O(1).
 
 `post <http://oathbystyx.blogspot.com/2015/01/insane-dfs.html>`_
 by
-`Shen-Fu Tsai <{filename}/pages/sftsai.rst>`_
+`Shen-Fu Tsai <{filename}/pages/en/sftsai.rst>`_
 
 
 .. _hardest problem: https://www.hackerrank.com/contests/w13/challenges/insane-dfs

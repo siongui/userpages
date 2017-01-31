@@ -25,7 +25,7 @@ transformed array, and every summation splits to two which is still managable.
 
 `post <http://oathbystyx.blogspot.com/2015/01/swap-and-sum.html>`_
 by
-`Shen-Fu Tsai <{filename}/pages/sftsai.rst>`_
+`Shen-Fu Tsai <{filename}/pages/en/sftsai.rst>`_
 
 
 .. _swap and sum: https://www.hackerrank.com/contests/w13/challenges/swaps-and-sum
