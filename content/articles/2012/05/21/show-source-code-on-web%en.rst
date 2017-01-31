@@ -34,6 +34,8 @@ Demo (with line numbers):
   }
   </pre></td></tr></table></div>
 
+.. adsu:: 2
+
 Demo (without line numbers):
 
 .. raw:: html
@@ -48,6 +50,8 @@ Demo (without line numbers):
   </pre></div>
 
 ----
+
+.. adsu:: 3
 
 References:
 
@@ -67,7 +71,5 @@ More silimar online converters:
 
 
 .. _rst: http://docutils.sourceforge.net/rst.html
-
 .. _markdown: http://daringfireball.net/projects/markdown/
-
 .. _source code to html: https://www.google.com/search?q=source+code+to+html

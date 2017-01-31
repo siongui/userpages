@@ -7,7 +7,8 @@ Show argmax/argmin in LaTeX on Blog
 :adsu: yes
 
 
-This deserves a single post. I asked my senior classmate, `parity <https://plus.google.com/102515651050568228591>`_. He gave me a really cool solution. Here is the cool solution. Just type:
+This deserves a single post. I asked my senior classmate, parity_. He gave me a
+really cool solution. Here is the cool solution. Just type:
 
 .. rubric:: :code:`\mathop{{\arg\max}\vphantom{\sim}}\limits_{\displaystyle _{\mathbf C}} ...`
    :class: align-center
@@ -20,10 +21,13 @@ The result:
 .. rubric:: :raw-html:`<a href="http://www.codecogs.com/eqnedit.php?latex=\mathop{{\arg\max}\vphantom{\sim}}\limits_{\displaystyle&space;_{\mathbf&space;C}}&space;..." target="_blank"><img src="http://latex.codecogs.com/gif.latex?\mathop{{\arg\max}\vphantom{\sim}}\limits_{\displaystyle&space;_{\mathbf&space;C}}&space;..." title="\mathop{{\arg\max}\vphantom{\sim}}\limits_{\displaystyle _{\mathbf C}} ..." /></a>`
    :class: align-center
 
-It's just like magic! Hope this helps those who have the same question/problem as me!
+It's just like magic! Hope this helps those who have the same question/problem
+as me!
+
+.. adsu:: 2
 
 ----
 
-Related Post:
+Related Post: `Show Math on Web <{filename}../21/show-math-on-web%en.rst>`_
 
-`Show Math on Web <{filename}../21/show-math-on-web%en.rst>`_
+.. _parity: https://plus.google.com/102515651050568228591

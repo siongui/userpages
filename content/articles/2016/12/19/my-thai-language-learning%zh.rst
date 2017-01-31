@@ -2,7 +2,7 @@
 ############
 
 :date: 2016-12-19T08:59+08:00
-:modified: 2017-01-30T06:52+08:00
+:modified: 2017-01-31T23:20+08:00
 :tags: 泰國, 泰語
 :category: 泰語學習
 :summary: 泰語學習紀錄
@@ -37,6 +37,11 @@
      -
      - 舊曆新年，農曆新年，中國新年
      - Chinese New Year
+
+   * - เทศกาลโคมไฟ
+     -
+     - 元宵(節)
+     - Lantern Festival
 
    * - สุขสันต์วันเกิด
      -
@@ -259,6 +264,11 @@
      - 蛤！
      -
 
+   * - เลย
+     -
+     - loei(個人認為是語助詞)
+     -
+
    * - ครับผม
      -
      - 是（禮貌的用法）
@@ -268,6 +278,11 @@
      -
      - 同一地
      - same place
+
+   * - จุดพลุ
+     -
+     - 點燃煙火
+     -
 
 .. adsu:: 3
 
@@ -554,42 +569,33 @@
      - 拜神 或 祭祖
      -
 
-時間日期
-++++++++
-
-.. list-table:: 對照表
-   :header-rows: 1
-   :class: table-syntax-diff
-
-   * - ไทย
-     - อีสาน (ລາວ)
-     - 中文
-     - English
-
-   * - เวลา
+   * - เยี่ยม
      -
-     - 時間
-     - time
+     - 拜訪
+     - visit
 
-   * - พรุ่งนี้
-     - มื้ออื่น
-     - 明天
-     - tomorrow
-
-   * - วันนี้
-     - มื้อนี้
-     - 今天
-     - today
-
-   * - เมื่อวาน
-     - มื้อวาน
-     - 昨天
-     - yesterday
-
-   * - ตีห้า
+   * - แวะไป
      -
-     - 凌晨五點
-     - 5 am
+     - 拜訪
+     -
+
+   * - ตามแผน
+     -
+     - 照計畫
+     - as plan
+
+   * - ข้ามเขา
+     -
+     - (跨)過山
+     - cross mountain
+
+   * - โอ๋
+     -
+     -
+     - Oh!
+
+`時間日期`_
++++++++++++
 
 動物
 ++++
@@ -829,6 +835,7 @@
 
 
 .. _佛教相關用詞: {filename}buddhist-terms-my-thai-language-learning%zh.rst
+.. _時間日期: {filename}date-time-my-thai-language-learning%zh.rst
 .. _地名: {filename}place-name-my-thai-language-learning%zh.rst
 .. _禪宗: {filename}zen-my-thai-language-learning%zh.rst
 .. _曾經: https://www.google.com/search?q=%E6%B3%B0%E8%AA%9E+%E6%9B%BE%E7%B6%93

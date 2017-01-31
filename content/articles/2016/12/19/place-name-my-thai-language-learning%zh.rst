@@ -2,7 +2,7 @@
 ###################
 
 :date: 2016-12-19T08:59+08:00
-:modified: 2017-01-28T23:30+08:00
+:modified: 2017-01-31T23:20+08:00
 :tags: 泰國, 泰語
 :category: 泰語學習
 :summary: 泰語學習紀錄
@@ -79,6 +79,21 @@
      - 台灣
      - Taiwan
 
+   * - ม่งสือไต้
+     -
+     - `夢時代`_
+     -
+
+   * - ฉีจิน
+     -
+     - 旗津
+     -
+
+   * - ต่างประเทศ
+     -
+     - 國外
+     - abroad
+
 .. adsu:: 2
 
 .. _橋頭: https://www.google.com/search?q=%E6%A9%8B%E9%A0%AD
@@ -90,3 +105,4 @@
 .. _泰國東北地區的稱呼: https://zh.wikipedia.org/zh-tw/%E4%BE%9D%E5%96%84%E5%9C%B0%E5%8C%BA
 .. _แต้จิ๋ว: https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%95%E0%B9%89%E0%B8%88%E0%B8%B4%E0%B9%8B%E0%B8%A7
 .. _潮州: https://www.google.com/search?q=%E6%BD%AE%E5%B7%9E
+.. _夢時代: https://www.google.com/search?q=%E5%A4%A2%E6%99%82%E4%BB%A3
