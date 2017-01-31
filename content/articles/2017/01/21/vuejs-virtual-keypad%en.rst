@@ -26,11 +26,10 @@ installation of `Pāli`_ input method in computers
 .. show_github_file:: siongui userpages content/code/vuejs/virtual-keyboard/keypad.css
 .. adsu:: 3
 
-For AngularJS_ version, see [1]_.
-
-For plain JavaScript_ version, see [2]_.
-
-For Dart_ version, see [3]_.
+| For AngularJS_ version, see [1]_.
+| For plain JavaScript_ version, see [2]_.
+| For Dart_ version, see [3]_.
+| For GopherJS_ version, see [4]_.
 
 ----
 
@@ -46,11 +45,13 @@ References:
 .. [1] `[AngularJS] Virtual Keyboard <{filename}../20/angularjs-ng-virtual-keypad%en.rst>`_
 .. [2] `[JavaScript] Virtual Keyboard <{filename}../28/javascript-virtual-keypad%en.rst>`_
 .. [3] `[Dart] Virtual Keyboard <{filename}../29/dartlang-virtual-keypad%en.rst>`_
+.. [4] `[GopherJS] Virtual Keyboard <{filename}../31/gopherjs-virtual-keypad%en.rst>`_
 
 
 .. _Vue.js: https://vuejs.org/
 .. _AngularJS: https://angularjs.org/
 .. _Dart: https://www.dartlang.org/
+.. _GopherJS: http://www.gopherjs.org/
 .. _Pāli Dictionary: http://dictionary.sutta.org/
 .. _Pāli: https://en.wikipedia.org/wiki/Pali
 .. _romanized Pāli: https://www.google.com/search?q=romanized+P%C4%81li

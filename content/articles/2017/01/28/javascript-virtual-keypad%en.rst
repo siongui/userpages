@@ -40,11 +40,10 @@ The logic in JavaScript_ code is simple:
 .. show_github_file:: siongui userpages content/code/javascript/virtual-keyboard/keypad.css
 .. adsu:: 3
 
-For AngularJS_ version, see [3]_.
-
-For Vue.js_ version, see [4]_.
-
-For Dart_ version, see [5]_.
+| For AngularJS_ version, see [3]_.
+| For Vue.js_ version, see [4]_.
+| For Dart_ version, see [5]_.
+| For GopherJS_ version, see [6]_.
 
 ----
 
@@ -73,11 +72,13 @@ References:
 .. [3] `[AngularJS] Virtual Keyboard <{filename}../20/angularjs-ng-virtual-keypad%en.rst>`_
 .. [4] `[Vue.js] Virtual Keyboard <{filename}../21/vuejs-virtual-keypad%en.rst>`_
 .. [5] `[Dart] Virtual Keyboard <{filename}../29/dartlang-virtual-keypad%en.rst>`_
+.. [6] `[GopherJS] Virtual Keyboard <{filename}../31/gopherjs-virtual-keypad%en.rst>`_
 
 .. _jQuery: https://jquery.com/
 .. _Vue.js: https://vuejs.org/
 .. _AngularJS: https://angularjs.org/
 .. _Dart: https://www.dartlang.org/
+.. _GopherJS: http://www.gopherjs.org/
 .. _Pāli Dictionary: http://dictionary.sutta.org/
 .. _Pāli: https://en.wikipedia.org/wiki/Pali
 .. _romanized Pāli: https://www.google.com/search?q=romanized+P%C4%81li

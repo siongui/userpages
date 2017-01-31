@@ -26,15 +26,13 @@ installation of `Pāli`_ input method in computers
 .. show_github_file:: siongui userpages content/code/angularjs/virtual-keyboard/keypad.css
 .. adsu:: 3
 
-To make virtual keyboard draggable, see [2]_.
+| To make virtual keyboard draggable, see [2]_.
+| To make virtual keyboard toggle-able, see [3]_.
 
-To make virtual keyboard toggle-able, see [3]_.
-
-For Vue.js_ version, see [4]_.
-
-For plain JavaScript_ version, see [5]_.
-
-For Dart_ version, see [6]_.
+| For Vue.js_ version, see [4]_.
+| For plain JavaScript_ version, see [5]_.
+| For Dart_ version, see [6]_.
+| For GopherJS_ version, see [7]_.
 
 ----
 
@@ -58,11 +56,13 @@ References:
 .. [4] `[Vue.js] Virtual Keyboard <{filename}../21/vuejs-virtual-keypad%en.rst>`_
 .. [5] `[JavaScript] Virtual Keyboard <{filename}../28/javascript-virtual-keypad%en.rst>`_
 .. [6] `[Dart] Virtual Keyboard <{filename}../29/dartlang-virtual-keypad%en.rst>`_
+.. [7] `[GopherJS] Virtual Keyboard <{filename}../31/gopherjs-virtual-keypad%en.rst>`_
 
 
 .. _AngularJS: https://angularjs.org/
 .. _Vue.js: https://vuejs.org/
 .. _Dart: https://www.dartlang.org/
+.. _GopherJS: http://www.gopherjs.org/
 .. _Directives: https://docs.angularjs.org/guide/directive
 .. _Pāli Dictionary: http://dictionary.sutta.org/
 .. _Pāli: https://en.wikipedia.org/wiki/Pali
