@@ -36,6 +36,8 @@ Will become
 
   ,【形】无碍的。
 
+.. adsu:: 2
+
 Pass again to the following function
 
 .. code-block:: python
@@ -51,10 +53,11 @@ Will become back
 
   2C%E3%80%90%E5%BD%A2%E3%80%91%E6%97%A0%E7%A2%8D%E7%9A%84%E3%80%82
 
+.. adsu:: 3
+
 ----
 
 References:
 
 .. [1] `Byte to Hex and Hex to Byte String Conversion (Python recipe) <http://code.activestate.com/recipes/510399-byte-to-hex-and-hex-to-byte-string-conversion/>`_
-
 .. [2] `Convert bytes to a Python string <http://stackoverflow.com/questions/606191/convert-bytes-to-a-python-string>`_

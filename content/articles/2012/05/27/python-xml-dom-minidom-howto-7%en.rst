@@ -1,9 +1,10 @@
 Python Library xml.dom.minidom Howto (7)
 ########################################
 
+:modified: 2017-02-01T02:57+08:00
 :tags: DOM, html, minidom, Python, XML
 :category: Python
-:summary: Python XML/HTML manipulation primer of xml.dom.minidom
+:summary: Python_ XML_/HTML_ manipulation primer of xml.dom.minidom_
 :adsu: yes
 
 
@@ -11,21 +12,23 @@ PARSE XML/HTML FROM A FILE
 ==========================
 
 This post gives a real-world example about how to parse and retrieve data from
-a XML/HTML file by the use of Python MiniDom library. The following is a xml
-file which contains the explanation of a pali word *abbhāna*.
+a XML_/HTML_ file by the use of Python_ xml.dom.minidom_ library. The following
+is a XML_ file which contains the explanation of a `Pāli`_ word *abbhāna*.
 We want to parse the file and extract the information.
 
 .. show_github_file:: siongui userpages content/articles/2012/05/27/example.xml
+.. adsu:: 2
 
-The following Python script parses the above XML file. In line 21, the script
-first parse the xml file. In line 23, we get the item element by calling
+The following Python_ script parses the above XML_ file. In line 21, the script
+parses the XML_ file first. In line 23, we get the item element by calling
 *getElementsByTagName*. Then we parse each item one by one. Extract the content
-of the text node in line 11, 12, 13. The result of each is printed in line 15,
-16, 17. The code is straight forward and easy to understand.
+of the text node in line 11, 12, 13. The result of each item is printed in line
+15, 16, 17. The code is straight forward and easy to understand.
 
 .. show_github_file:: siongui userpages content/articles/2012/05/27/minidom-howto-7.py
+.. adsu:: 3
 
-The result of the above Python script is:
+The result of the above Python_ script is:
 
 .. code-block:: bash
 
@@ -63,6 +66,11 @@ The result of the above Python script is:
 
 ----
 
-Reference:
+Reference: `MiniDom - Python Wiki <https://wiki.python.org/moin/MiniDom>`_
 
-`MiniDom - Python Wiki <https://wiki.python.org/moin/MiniDom>`_
+.. _Python: https://www.python.org/
+.. _XML: https://www.google.com/search?q=XML
+.. _HTML: https://www.google.com/search?q=HTML
+.. _DOM: https://www.google.com/search?q=DOM
+.. _xml.dom.minidom: https://www.google.com/search?q=xml.dom.minidom
+.. _Pāli: https://en.wikipedia.org/wiki/Pali

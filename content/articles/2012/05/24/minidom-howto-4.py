@@ -8,7 +8,7 @@ def main():
   dom = impl.createDocument(None, u'html', None)
 
   root = dom.documentElement
-  root.setAttribute(u'integer', unicode(1))
+  root.setAttribute(u'integer', u'1')
 
   print(dom.toxml())
 

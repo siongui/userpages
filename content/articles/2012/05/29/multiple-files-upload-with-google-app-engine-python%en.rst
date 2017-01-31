@@ -1,9 +1,11 @@
 Multiple Files Upload with Google App Engine Python
 ###################################################
 
-:tags: Google App Engine, html, JavaScript, multipart/form-data, multiple files upload, Python
+:tags: Google App Engine, html, JavaScript, multipart/form-data,
+       multiple files upload, Python
 :category: Web Development
-:summary: Let website users upload multiple files to Google App Engine (Python) servers.
+:summary: Let website users upload multiple files to
+          `Google App Engine (Python)`_ servers.
 :adsu: yes
 
 
@@ -18,6 +20,8 @@ On client side (**HTML** code for browsers):
   </form>
   <p><strong>Files You Selected:</strong></p>
   <ul id="fileList"><li>No Files Selected</li></ul>
+
+.. adsu:: 2
 
 On client side (**JavaScript** code for browsers):
 
@@ -46,6 +50,8 @@ When users choose multiple files, the files will be listed on the webpage.
 
 | ----
 
+.. adsu:: 3
+
 On server side (**Python** code for Google App Engine):
 
 .. code-block:: python
@@ -57,14 +63,15 @@ On server side (**Python** code for Google App Engine):
         file_content = file_data.value
         # do something here...
 
-The code for receiving multiple files is easy. Please check the above code, which comes from [2]_.
+The code for receiving multiple files is easy. Please check the above code,
+which comes from [2]_.
 
 ----
 
 References:
 
 .. [1] `Multiple File Upload Input <http://davidwalsh.name/multiple-file-upload>`_
-
 .. [2] `Receive multi file post with google app engine <http://stackoverflow.com/questions/1503526/receive-multi-file-post-with-google-app-engine>`_
-
 .. [3] `Reading local files in JavaScript - HTML5 Rocks <http://www.html5rocks.com/en/tutorials/file/dndfiles/>`_
+
+.. _Google App Engine (Python): https://cloud.google.com/appengine/docs/python/

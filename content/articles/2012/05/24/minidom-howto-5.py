@@ -8,8 +8,8 @@ def main():
   dom = impl.createDocument(None, u'html', None)
 
   demoNode = dom.createElement(u'demoTag')
-  demoNode.setAttribute(u'integer', unicode(1))
-  demoTextNode = dom.createTextNode(unicode(u'Hello World!'))
+  demoNode.setAttribute(u'integer', u'1')
+  demoTextNode = dom.createTextNode(u'Hello World!')
   demoNode.appendChild(demoTextNode)
 
   root = dom.documentElement
