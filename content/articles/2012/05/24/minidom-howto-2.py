@@ -8,7 +8,7 @@ def main():
   dom = impl.createDocument(None, u'html', None)
 
   root = dom.documentElement
-  demoTextNode = dom.createTextNode(unicode('Hello World!'))
+  demoTextNode = dom.createTextNode(u'Hello World!')
   root.appendChild(demoTextNode)
 
   print(dom.toxml())
