@@ -24,9 +24,13 @@ JavaScript basename_
     return array[array.length - 1];
   };
 
+.. adsu:: 2
+
 .. warning::
 
   The above code may not be robust for some cases like ``abc`` or ``/a/b/c/``
+
+.. adsu:: 3
 
 ----
 

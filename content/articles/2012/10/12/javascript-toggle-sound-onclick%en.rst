@@ -32,6 +32,8 @@ If the audio element is paused, call `play()`_ to play sound. Otherwise call
 
 ----
 
+.. adsu:: 3
+
 References:
 
 .. [1] `HTML Audio/Video DOM Reference <http://www.w3schools.com/tags/ref_av_dom.asp>`_

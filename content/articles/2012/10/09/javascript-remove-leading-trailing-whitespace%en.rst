@@ -23,6 +23,8 @@ Remove (Trim) Leading Whitespace_ (similar to `Python lstrip`_)
 Remove (Trim) Trailing Whitespace_ (similar to `Python rstrip`_)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+.. adsu:: 2
+
 .. code-block:: javascript
 
   function rstrip(str) {
@@ -37,6 +39,8 @@ Remove (Trim) Leading and Trailing Whitespace_ (similar to `Python strip`_)
   function strip(str) {
     return str.replace(/^\s+|\s+$/g, "");
   }
+
+.. adsu:: 3
 
 ----
 

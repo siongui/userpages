@@ -25,6 +25,8 @@ comes the question:
   The answer is onblur_ event handler of *input* element is fired **before**
   onclick_ event handler of *div* element.
 
+.. adsu:: 2
+
 * What if I want onblur_ event handler fired **after** onclick_ event handler?
 
     This is a question similar to that asked in reference [1]_, and also the
@@ -40,6 +42,8 @@ There are good news and bad news for the quesiton:
     onclick_ event handler, onmousedown_ event handler is fired **before**
     onblur_ event handler. So we can move onclick_ event handler to onmousedown_
     event of *div* element, which achieves the same result we need.
+
+.. adsu:: 3
 
 Summary
 +++++++

@@ -19,7 +19,6 @@ feature, please take a look at `browser compatibility`_ of HTML5 *audio* tag.
 Source Code for Demo:
 
 .. show_github_file:: siongui userpages content/code/javascript-sound/play.html
-
 .. adsu:: 2
 
 The *PlaySound* function plays audio file of given path or URL if the button is
@@ -34,7 +33,7 @@ References:
 .. [2] `<audio> - HTML (HyperText Markup Language) | MDN <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio>`_
 
 .. [3] `[JavaScript] Toggle (Play/Pause) Sound on Click Event of DOM Element <{filename}../12/javascript-toggle-sound-onclick%en.rst>`_
-
+.. adsu:: 3
 .. [4] `[Golang] GopherJS DOM Example - Play Sound on Click Event <{filename}../../../2016/01/15/gopherjs-dom-example-play-sound-onclick-event%en.rst>`_
 
 .. [5] `[Golang] GopherJS DOM Example - Toggle (Play/Pause) Sound on Click Event <{filename}../../../2016/01/15/gopherjs-dom-example-toggle-sound-onclick-event%en.rst>`_

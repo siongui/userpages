@@ -13,10 +13,14 @@ onmouseenter_ and onmouseleave_ event are not supported in old browsers. If you
 need mouseenter_ or mouseleave_ event and want to support old browsers at the
 same time, this post shows how to do it.
 
+.. rubric:: `Demo <{filename}/code/javascript-mouseenter-mouseleave/mouseenterleave.html>`_
+      :class: align-center
+
 Implementation of MouseEnter and MouseLeave
 +++++++++++++++++++++++++++++++++++++++++++
 
 .. show_github_file:: siongui userpages content/code/javascript-mouseenter-mouseleave/mouseenter-mouseleave.js
+.. adsu:: 2
 
 Usage
 +++++
@@ -37,10 +41,7 @@ by:
 
   addMouseLeaveEventListener(sampleElement, sampleHandler);
 
-See also:
-
-.. rubric:: `Demo <{filename}/code/javascript-mouseenter-mouseleave/mouseenterleave.html>`_
-      :class: align-center
+.. adsu:: 3
 
 ----
 

@@ -5,7 +5,7 @@
 :modified: 2015-03-07 02:01
 :tags: JavaScript, Function.prototype.bind()
 :category: JavaScript
-:summary: Change the scope (context) of anonymous function - change what "this"
+:summary: Change the scope (context) of anonymous function - change what *this*
           keyword refers to in anonymous function.
 :adsu: yes
 
@@ -27,6 +27,8 @@ We use an anonymous function as the onclick_ event handler of
 in the anonymous event handler function `refers to the DOM element itself`_.
 What if we want to change the scope (context) of the anonymous event handler
 function to global scope (i.e., *window*) or other scope?
+
+.. adsu:: 2
 
 The answer is `Function.prototype.bind()`_ introduced in recent browsers. For
 example:
@@ -53,6 +55,8 @@ The `Function.prototype.bind()`_ is great, but for older browsers (for example,
 IE8) which do not support `Function.prototype.bind()`_, we need to implement
 `custom Function.prototype.bind()`_ in JavaScript code. For more details of
 `Function.prototype.bind()`_, please refer to reference [1]_.
+
+.. adsu:: 3
 
 ----
 

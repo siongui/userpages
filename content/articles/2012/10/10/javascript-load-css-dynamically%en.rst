@@ -22,6 +22,8 @@ to your JavaScript code:
     document.getElementsByTagName("head")[0].appendChild(ext);
   }
 
+.. adsu:: 2
+
 Example Usage of LoadCSS Function
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -36,6 +38,8 @@ or supplying URL:
 .. code-block:: javascript
 
   LoadCSS("http://www.mysite.idv/css/site.css");
+
+.. adsu:: 3
 
 ----
 

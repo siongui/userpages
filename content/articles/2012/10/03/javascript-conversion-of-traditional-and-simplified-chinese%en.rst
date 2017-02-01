@@ -27,6 +27,8 @@ Traditional Chinese*. **tongwen_table_t2s.js** and **tongwen_table_pt2s.js** are
 tables for conversion from *Traditional to Simplified Chinese*. Include these
 tables according to your requirements.
 
+.. adsu:: 2
+
 Usage
 +++++
 
@@ -53,6 +55,8 @@ To convert a string *str* from Simplified to Traditional Chinese:
 .. code-block:: javascript
 
   str = TongWen.convert(str, TongWen.flagTrad);
+
+.. adsu:: 3
 
 ----
 

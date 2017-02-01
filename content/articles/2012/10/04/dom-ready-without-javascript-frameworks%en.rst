@@ -22,6 +22,8 @@ in a cross-browser way without using JavaScript Frameworks.
    will make users feels more responsive because users can see something on the
    browser screen before JavaScript code is run.
 
+.. adsu:: 2
+
 2. **Check the readiness of last DOM element**:
 
    If for some reason you don't want to put and include your JavaScript code
@@ -46,6 +48,8 @@ in a cross-browser way without using JavaScript Frameworks.
    made shorter if you like. In fact, you can check the *last element referenced
    in your code* instead of *last element inside body tag* if you want
    JavaScript code runs earlier.
+
+.. adsu:: 3
 
 Hope the above information is helpful for vanilla JavaScript lovers.
 

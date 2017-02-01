@@ -30,6 +30,8 @@ for detail.
 Next, the parsed data will be compared with supported locales of the website.
 The following code snippet demonstrates how to do this:
 
+.. adsu:: 2
+
 Detect Locales on Google App Engine Python
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -69,6 +71,8 @@ The *parseAcceptLanguage* function is the same as the function in previous post
 supported locales of the website with locales in Accept-Language_ field. Note
 that the default locale is set to *en_US*. You can change the *defaultLocale*
 and *supportedLocales* variables to fit the locales design in your website.
+
+.. adsu:: 3
 
 Example Usage
 ~~~~~~~~~~~~~

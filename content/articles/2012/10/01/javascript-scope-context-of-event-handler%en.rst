@@ -6,7 +6,7 @@
 :tags: JavaScript, Function.prototype.bind()
 :category: JavaScript
 :summary: Discuss the scope (context) of event handler and how to change what
-          "this" keyword refers to.
+          *this* keyword refers to.
 :adsu: yes
 
 
@@ -41,6 +41,8 @@ error.
 
 So how to make the *this* keyword in line 8 refer to *contact* function object?
 
+.. adsu:: 2
+
 For recent browsers which support Function.prototype.bind_ natively, you can
 replace line 4:
 
@@ -74,6 +76,8 @@ there are two ways to solve the above problem:
      for more details.
 
   2. Closures: See references [2]_ and [6]_ for more details.
+
+.. adsu:: 3
 
 The questions on `Stack Overflow`_ in references [3]_, [4]_, [5]_ are very
 helpful. Please read carefully.

@@ -13,11 +13,13 @@ This post shows how to make `HTTP GET request`_ in cross-browser way. The
 following *HTTPGET* function demonstrates how to make such AJAX request:
 
 .. show_github_file:: siongui userpages content/code/javascript-http-get/get.js
+.. adsu:: 2
 
 Usage
 +++++
 
 .. show_github_file:: siongui userpages content/code/javascript-http-get/usage.js
+.. adsu:: 3
 
 Note that you can only make requests in the same domain. To make cross-domain
 requests, please see reference [1]_ for more detail. To make cross-browser HTTP

@@ -23,6 +23,8 @@ function, and then favicon_ will be loaded dynamically:
     document.getElementsByTagName("head")[0].appendChild(ext);
   }
 
+.. adsu:: 2
+
 Example Usage of LoadFavicon Function
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -36,6 +38,8 @@ the website. You can call:
 to load favicon dynamically. Even if your favicon is located at a different
 domain, you can still pass the URL of favicon at the different domain to above
 function and it also works!
+
+.. adsu:: 3
 
 Enjoy!
 
