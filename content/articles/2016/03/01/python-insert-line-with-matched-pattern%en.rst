@@ -3,7 +3,7 @@
 
 :date: 2016-03-01T20:42+08:00
 :tags: Python, reStructuredText, Regular Expression, String Manipulation,
-       File Input/Output
+       File Input/Output, Read Lines
 :category: Python
 :summary: Extract URL from reStructuredText_ link and insert the URL in the file
           as metadata via Python_.
@@ -20,6 +20,8 @@ We extract URL from the following link in rst file:
   `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/Visuddhimagga.htm>`_
 
 Then insert the URL back to the rst file as metadata.
+
+.. adsu:: 2
 
 .. code-block:: python
 
@@ -70,6 +72,8 @@ Then insert the URL back to the rst file as metadata.
     # http://stackoverflow.com/questions/50499/how-do-i-get-the-path-and-name-of-the-file-that-is-currently-executing
     processDir(os.path.join(os.path.dirname(__file__), "../content/articles"))
 
+
+.. adsu:: 3
 
 ----
 

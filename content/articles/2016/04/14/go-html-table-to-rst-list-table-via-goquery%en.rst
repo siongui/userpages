@@ -2,7 +2,7 @@
 ##############################################################
 
 :date: 2016-04-14T07:33+08:00
-:tags: Go, Golang, DOM, goquery, Web Scrape, html, reStructuredText
+:tags: Go, Golang, DOM, goquery, Web Scrape, html, reStructuredText, Read Lines
 :category: Go
 :summary: Convert `HTML table`_ to reStructuredText_ `list-table`_ via goquery_
           in Go_ programming language.
@@ -27,7 +27,9 @@ Install goquery_
 `HTML table`_ to reStructuredText_ `list-table`_
 ++++++++++++++++++++++++++++++++++++++++++++++++
 
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/go-html-table-to-rst/goquery.go
+.. adsu:: 3
 
 Usage:
 

@@ -3,7 +3,7 @@
 
 :date: 2016-01-08T00:22+08:00
 :tags: Python, String Manipulation, i18n, Locale, gettext, File Input/Output,
-       Conversion of Traditional and Simplified Chinese, OpenCC
+       Conversion of Traditional and Simplified Chinese, OpenCC, Read Lines
 :category: Python
 :summary: Automatically convert `Traditional Chinese`_ (`zh_TW`_) PO_ file to
           `Simplified Chinese`_ (`zh_CN`_) by OpenCC_ and Python_ programming
@@ -22,10 +22,12 @@ Source Code
 The `zh_TW`_ PO_ file for test:
 
 .. show_github_file:: siongui userpages content/code/python-zhtw-to-zhcn-po-file/locale/zh_TW/LC_MESSAGES/messages.po
+.. adsu:: 2
 
 The Python script:
 
 .. show_github_file:: siongui userpages content/code/python-zhtw-to-zhcn-po-file/tw2cn.py
+.. adsu:: 3
 
 
 Tested on: ``Ubuntu Linux 15.10``, ``Python 2.7.10``, ``opencc 0.4.3-2build1``,

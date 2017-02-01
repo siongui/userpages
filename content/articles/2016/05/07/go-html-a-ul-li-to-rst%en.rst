@@ -2,7 +2,8 @@
 ###################################################
 
 :date: 2016-05-07T22:12+08:00
-:tags: Go, Golang, DOM, Web Scrape, reStructuredText, Go net/html, html
+:tags: Go, Golang, DOM, Web Scrape, reStructuredText, Go net/html, Read Lines,
+       html
 :category: Go
 :summary: Convert `HTML unordered (bulleted) list`_ and `HTML link`_ to
           restructuredtext_ format via `net/html`_ package in Go_ programming
@@ -30,8 +31,9 @@ Source Code
 +++++++++++
 
 .. show_github_file:: siongui userpages content/code/go-a-ul-li-to-rst/aulli2rst.go
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/go-a-ul-li-to-rst/aulli2rst_test.go
+.. adsu:: 3
 
 Output of test:
 

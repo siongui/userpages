@@ -4,7 +4,7 @@
 :date: 2016-03-09T03:53+08:00
 :tags: Go, Golang, String Manipulation, Regular Expression, CSS,
        remove trailing newline, remove carriage return, File Input/Output,
-       Minify HTML/CSS/JavaScript
+       Minify HTML/CSS/JavaScript, Read Lines
 :category: Go
 :summary: `Minify CSS`_ via Go_ programming language.
 :adsu: yes
@@ -18,8 +18,9 @@ The steps:
 3. Remove all leading and trailing white space of each line.
 
 .. show_github_file:: siongui userpages content/code/go-minify-css/mincss.go
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/go-minify-css/mincss_test.go
+.. adsu:: 3
 
 ----
 

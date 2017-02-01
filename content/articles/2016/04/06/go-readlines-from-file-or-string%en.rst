@@ -2,12 +2,12 @@
 #######################################
 
 :date: 2016-04-06T22:51+08:00
-:tags: Go, Golang, String Manipulation, File Input/Output
+:tags: Go, Golang, String Manipulation, File Input/Output, Read Lines
 :category: Go
-:summary: Readlines from string or file in Go_ programming language.
+:summary: Readlines_ from string or file in Go_ programming language.
 :adsu: yes
 
-.. contents:: Read lines from string or file in Golang_.
+.. contents:: `Read lines`_ from string or file in Golang_.
 
 ----
 
@@ -70,6 +70,8 @@ Readlines From File
   	return lines
   }
 
+.. adsu:: 3
+
 ----
 
 Tested on: ``Ubuntu Linux 15.10``, ``Go 1.6``.
@@ -101,3 +103,5 @@ References:
 .. _Create: https://golang.org/pkg/os/#Create
 .. _fmt: https://golang.org/pkg/fmt/
 .. _Fprintf: https://golang.org/pkg/fmt/#Fprintf
+.. _Read lines: https://www.google.com/search?q=Read+lines
+.. _Readlines: https://www.google.com/search?q=Readlines

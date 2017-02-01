@@ -24,10 +24,12 @@ Test Code
 Test program:
 
 .. show_github_file:: siongui userpages content/code/go-reStructuredText/hhatto.go
+.. adsu:: 2
 
 Test rst file:
 
 .. show_github_file:: siongui userpages content/code/go-reStructuredText/test.rst
+.. adsu:: 3
 
 Output of Test Code
 +++++++++++++++++++
@@ -76,6 +78,7 @@ References:
 .. [10] `The Docutils Publisher <http://docutils.sourceforge.net/docs/api/publisher.html>`_
 
 .. [11] `PEP 258 -- Docutils Design Specification <http://docutils.sourceforge.net/docs/peps/pep-0258.html>`_
+.. [12] `GitHub - Gregwar/RST: PHP library to parse reStructuredText documents <https://github.com/Gregwar/RST>`_
 
 
 .. _Go: https://golang.org/

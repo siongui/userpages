@@ -2,7 +2,7 @@
 ###################################################
 
 :date: 2016-04-18T08:56+08:00
-:tags: Go, Golang, Web Scrape, Go strings Package, JavaScript
+:tags: Go, Golang, Web Scrape, Go strings Package, JavaScript, Read Lines
 :category: Go
 :summary: Scape JavaScript code to get campaign number via Go_ strings_ package.
 :adsu: yes
@@ -15,6 +15,7 @@ answer to `Stack Overflow`_ question:
 `Run Code on Go Playground <https://play.golang.org/p/r6N2gT5ax->`_
 
 .. show_github_file:: siongui userpages content/code/go-strings-scrap-js/so31864758.go
+.. adsu:: 2
 
 ----
 

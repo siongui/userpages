@@ -3,7 +3,7 @@
 
 :date: 2016-05-12T21:56+08:00
 :tags: Go, Golang, DOM, Web Scrape, reStructuredText, Go net/html, html,
-       Go net/http
+       Go net/http, Read Lines
 :category: Go
 :summary: Convert HTML_ to restructuredtext_ format via `net/html`_ package
           in Go_ programming language. (Not fully supported)
@@ -27,6 +27,7 @@ The following HTML node/element is supported:
 - `HTML text node`_
 - `HTML comment node`_
 
+.. adsu:: 2
 
 Install `html2rst`_ Package
 +++++++++++++++++++++++++++
@@ -40,6 +41,7 @@ Usage/Example
 +++++++++++++
 
 .. show_github_file:: siongui html2rst usage/example.go
+.. adsu:: 3
 
 ----
 

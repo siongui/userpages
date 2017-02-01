@@ -2,7 +2,7 @@
 ######################################
 
 :date: 2017-01-30T05:57+08:00
-:tags: Go, Golang, String Manipulation, File Input/Output
+:tags: Go, Golang, String Manipulation, File Input/Output, Read Lines
 :category: Go
 :summary: Insert a line or string to *n-th* line of the file
           via Go_ programming language.

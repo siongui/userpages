@@ -3,7 +3,7 @@
 
 :date: 2016-03-05T21:14+08:00
 :tags: Go, Golang, String Manipulation, i18n, Locale, gettext, apt command,
-       Conversion of Traditional and Simplified Chinese, OpenCC
+       Conversion of Traditional and Simplified Chinese, OpenCC, Read Lines
 :category: Go
 :summary: Automatically convert `Traditional Chinese`_ (`zh_TW`_) PO_ file to
           `Simplified Chinese`_ (`zh_CN`_) by OpenCC_ and Go_ programming
@@ -25,6 +25,8 @@ Install Necessary Tool
 
 Source Code
 +++++++++++
+
+.. adsu:: 2
 
 .. code-block:: go
 
@@ -87,6 +89,8 @@ Source Code
   		fo.Write([]byte("\n"))
   	}
   }
+
+.. adsu:: 3
 
 ----
 

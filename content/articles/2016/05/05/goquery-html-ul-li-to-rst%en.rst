@@ -2,7 +2,7 @@ goquery - Convert HTML Unordered List to reStructuredText
 #########################################################
 
 :date: 2016-05-05T23:29+08:00
-:tags: Go, Golang, DOM, goquery, Web Scrape, reStructuredText, html
+:tags: Go, Golang, DOM, goquery, Web Scrape, reStructuredText, html, Read Lines
 :category: Go
 :summary: Convert `HTML unordered (bulleted) list`_ to restructuredtext_ format
           via goquery_ in Go_ programming language.
@@ -27,8 +27,9 @@ Install goquery_ Package
 Source Code
 +++++++++++
 
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/goquery-ul-li-to-rst/ulli2rst.go
-
+.. adsu:: 3
 .. show_github_file:: siongui userpages content/code/goquery-ul-li-to-rst/ulli2rst_test.go
 
 

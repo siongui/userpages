@@ -4,7 +4,7 @@
 :date: 2016-03-10T05:15+08:00
 :tags: Go, Golang, String Manipulation, Regular Expression, html,
        remove trailing newline, remove carriage return, File Input/Output,
-       Minify HTML/CSS/JavaScript
+       Minify HTML/CSS/JavaScript, Read Lines
 :category: Go
 :summary: `Minify HTML`_ via Go_ programming language.
 :adsu: yes
@@ -18,8 +18,9 @@ The steps:
 3. Pad a single space to the line if its length > 0.
 
 .. show_github_file:: siongui userpages content/code/go-minify-html/minhtml.go
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/go-minify-html/minhtml_test.go
+.. adsu:: 3
 
 ----
 
