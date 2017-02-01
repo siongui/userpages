@@ -21,8 +21,9 @@ wide, and get the offsetWidth_ property of the *div*.
 
 Source Code for Demo:
 
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/articles/2012/09/16/getWindowWidthPixel.html
-
+.. adsu:: 3
 
 
 .. _offsetWidth: https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetWidth

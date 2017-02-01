@@ -22,6 +22,8 @@ mouse cursor *enters* / *leaves* sub-elements of the element.
 .. rubric:: `Demo of MouseOver & MouseOut event <{filename}/code/javascript-mouseenter-mouseleave/mouseoverout.html>`_
       :class: align-center
 
+.. adsu:: 2
+
 ----
 
 See also:

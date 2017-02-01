@@ -31,6 +31,8 @@ in IE8. It fails in IE8 when I did something like the following code snippet:
   elm.innerHTML = '';
   elm.appendChild(childs);
 
+.. adsu:: 2
+
 I don't know why the above code will not work in IE8, so I did some search and
 found better ways to remove all child nodes in references [1]_ and [2]_. The
 "canonical" and bug-free way should be as follows:
@@ -44,7 +46,7 @@ Maybe for some people the "canonical" way is obvious, but it takes me quite a
 while to debug and know that sometimes the trivial way will not work. So I wrote
 this post for those who have the same trouble as me.
 
-.. adsu:: 2
+.. adsu:: 3
 
 ----
 

@@ -31,11 +31,13 @@ the content of `input elements`_, and if the content changes, then an event
 handler function is fired to handle this event. I wrote the following example to
 demonstrate the solution:
 
+.. adsu:: 2
+
 .. rubric:: `Demo <{filename}/code/javascript-oninput-event-alternative/polling.html>`_
       :class: align-center
 
 .. show_github_file:: siongui userpages content/code/javascript-oninput-event-alternative/polling.html
-
+.. adsu:: 3
 .. show_github_file:: siongui userpages content/code/javascript-oninput-event-alternative/polling.js
 
 ----

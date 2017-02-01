@@ -36,6 +36,7 @@ Usage and Demo
 Source Code for Demo (*JavaScript*):
 
 .. show_github_file:: siongui userpages content/code/single-callback-multiple-xhr/usage.js
+.. adsu:: 3
 
 The variable *urls* contains the URLs of AJAX requests, overwrite this variable
 to fit your needs. The function *callbackMulti* is the callback function to be

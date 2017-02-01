@@ -29,6 +29,8 @@ in both ways.
 In this example, we will try to create a *div* element, and append an *anchor*
 element to the *div* element.
 
+.. adsu:: 2
+
 **1. Write HTML code directly**
 
 It's very easy and requires no explaination. Just write the HTML code as you did
@@ -62,6 +64,8 @@ code snippet is exactly the same as that of the above code snippet, i.e.,
 
   # serve th DOM to client on Google App Engine Python using webapp2
   self.response.out.write(div.toxml())
+
+.. adsu:: 3
 
 Personally I think generating HTML code with *mindom* library is somewhat
 tedious, and I will write the HTML code directly if I want to make the code more

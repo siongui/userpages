@@ -72,6 +72,8 @@ The source code of the above demo:
     </div>
   </div>
 
+.. adsu:: 2
+
 If you want to use the above code, remember to the change the URL to your
 website in line 2, 3, and 5. And then put them inside the *body* tag of HTML
 document.
@@ -99,6 +101,8 @@ document.
   }(document, 'script', 'facebook-jssdk'));</script>
 
   <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+.. adsu:: 3
 
 You can put above code right before the end of the *body* tag of HTML document.
 

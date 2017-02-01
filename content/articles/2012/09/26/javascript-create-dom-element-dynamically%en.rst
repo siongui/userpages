@@ -26,6 +26,8 @@ As previous post_, a example will be given here. We will create a *div* element,
 and append an *anchor* element to the *div* element, then append the *div*
 element to the end of *body* element.
 
+.. adsu:: 2
+
 **1. innerHTML way:**
 
 Please see the following code snippet. It's very easy and intuitive. We directly
@@ -37,6 +39,8 @@ assign the HTML code to *innerHTML* property of body element.
     var body = document.getElementsByTagName('body')[0];
     body.innerHTML = '<div><a href="www.google.com">Google Search</a></div>';
   </script>
+
+.. adsu:: 3
 
 **2. appendChild way:**
 

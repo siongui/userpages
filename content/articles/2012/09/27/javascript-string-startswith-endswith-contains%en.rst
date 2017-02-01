@@ -37,6 +37,8 @@ reference [1]_.
     return string.indexOf(prefix) == 0;
   };
 
+.. adsu:: 2
+
 String endswith
 +++++++++++++++
 
@@ -54,6 +56,8 @@ ends with suffix. For alternative solution, please refer to reference [2]_.
   endswith = function(string, suffix) {
     return string.indexOf(suffix, string.length - suffix.length) != -1;
   };
+
+.. adsu:: 3
 
 String contains
 +++++++++++++++

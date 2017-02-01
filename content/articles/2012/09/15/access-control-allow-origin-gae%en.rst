@@ -24,6 +24,8 @@ The following is an example of how I add *Access-Control-Allow-Origin* in my
 
 For Python & Go config details, please refer to reference [1]_ and [2]_.
 
+.. adsu:: 2
+
 For `Google App Engine for Java`_ user, the following is an example from the
 official doc:
 
@@ -38,6 +40,8 @@ official doc:
 For Java config details, please refer to reference [3]_.
 
 ----
+
+.. adsu:: 3
 
 References:
 
