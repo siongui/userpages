@@ -6,7 +6,7 @@ Google Closure Library Editor with Equation Editor Dialog
 :tags: JavaScript, Web application, web, html, math symbol, online latex editor,
        LaTeX, Google Closure
 :category: JavaScript
-:summary: Rich text editor with math equation dialog using
+:summary: `Rich text editor`_ with math equation dialog using
           `Google Closure Library`_.
 :adsu: yes
 
@@ -33,7 +33,9 @@ references [9]_ ~ [11]_, and I decide to use the solution provided by [11]_. The
 following is my patch for the closure library (under `closure/goog/`_, revision
 2021_):
 
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/articles/2012/07/08/patch.diff
+.. adsu:: 3
 
 As you can see, it's not so difficult to customize the library, but it takes
 time to be familiar with the code structure. I also patch default `editor demo`_
@@ -70,7 +72,7 @@ References:
 
 
 .. _LaTeX: http://en.wikipedia.org/wiki/LaTeX
-
+.. _Rich text editor: https://www.google.com/search?q=Rich+text+editor
 .. _WYSIWYG (WhatYou See Is What You Get): http://en.wikipedia.org/wiki/WYSIWYG
 
 .. _Google Closure Library: https://developers.google.com/closure/library/

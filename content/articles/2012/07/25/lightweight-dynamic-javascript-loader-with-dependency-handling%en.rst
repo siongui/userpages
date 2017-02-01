@@ -5,20 +5,21 @@ Lightweight Dynamic JavaScript Loader with Dependency Handling
 :modified: 2015-04-03 08:08
 :tags: JavaScript, XMLHttpRequest
 :category: JavaScript
-:summary: Load JavaScript scripts dynamically with dependencies.
+:summary: Load JavaScript_ scripts dynamically with dependencies.
 :adsu: yes
 
 
-I write a lightweight dynamic JavaScript loader with dependency handling, which
-means it can dynamically loads JavaScript files with the order you want. The
-following is the source code for the dynamic JavaScript loader:
+I write a lightweight dynamic JavaScript_ loader with dependency handling, which
+means it can dynamically loads JavaScript_ files with the order you want. The
+following is the source code for the dynamic JavaScript_ loader:
 
 .. show_github_file:: siongui userpages content/code/javascript-loader/dynamic.js
+.. adsu:: 2
 
 Usage
 +++++
 
-I will show how to use the JavaScript loader by example.
+I will show how to use the JavaScript_ loader by example.
 
 Assume that we need to load *a.js*, *b.js*, *c.js*, *d.js*.
 
@@ -34,6 +35,10 @@ They are located at *http://example.com/static/js/*.
 
 The following is the usage code for above example:
 
+.. adsu:: 3
 .. show_github_file:: siongui userpages content/code/javascript-loader/usage.js
 
 Enjoy!
+
+
+.. _JavaScript: https://www.google.com/search?q=JavaScript

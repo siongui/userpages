@@ -5,7 +5,7 @@ JavaScript Drag and Drop (Draggable, Movable) Element without External Library
 :modified: 2015-02-20 10:07
 :tags: JavaScript, DOM, draggable
 :category: JavaScript
-:summary: Draggable, movable HTML element using vanilla JavaScript.
+:summary: Draggable, movable HTML_ element using vanilla JavaScript_.
 :adsu: yes
 
 
@@ -17,7 +17,7 @@ an post (see [3]_) about HTML5 draggable issue. His implementation:
 
   1) includes both keyboard and mouse, but I want mouse only.
 
-  2) *this* keyword in the callback function refers to the DOM element at which
+  2) *this* keyword in the callback function refers to the DOM_ element at which
      events occur, but I want *this* keyword to refer to the object which makes
      DOM element draggable.
 
@@ -28,19 +28,20 @@ wrote an implementation of my own. The following is my implementation:
 .. rubric:: `Demo <{filename}/code/vanilla-javascript-draggable/movable.html>`_
    :class: align-center
 
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/vanilla-javascript-draggable/movable.html
 
 .. show_github_file:: siongui userpages content/code/vanilla-javascript-draggable/draggable.js
+.. adsu:: 3
 
-Note that the element to be made draggable must have CSS property
+Note that the element to be made draggable must have `CSS property`_
 :code:`position: absolute;` or :code:`position: fixed;` (*position* set to
 *absolute* in the JavaScript code). I put a lot of comments in the code to make
 the code understandable. Hope this would be helpful for those who are
 interested.
 
-If you need draggable elements in AngularJS_ way, see [4]_.
-
-If you need draggable elements in Dart_, see [5]_.
+| If you need draggable elements in AngularJS_ way, see [4]_.
+| If you need draggable elements in Dart_, see [5]_.
 
 ----
 
@@ -60,11 +61,11 @@ References:
 
 
 .. _jQuery: http://jquery.com/
-
+.. _JavaScript: https://www.google.com/search?q=JavaScript
 .. _plugins: http://jqueryui.com/draggable/
-
+.. _CSS property: https://www.google.com/search?q=CSS+property
 .. _DOM element: http://www.w3schools.com/dom/dom_element.asp
-
+.. _DOM: https://www.google.com/search?q=DOM
 .. _AngularJS: https://angularjs.org/
-
+.. _HTML: https://www.google.com/search?q=HTML
 .. _Dart: https://www.dartlang.org/

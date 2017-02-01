@@ -3,9 +3,11 @@ AJAX Form POST Request to Google App Engine Python
 
 :date: 2012-07-24 21:50
 :modified: 2015-03-02 23:21
-:tags: JavaScript, XMLHttpRequest, HTTP POST, Web application, Google App Engine, Python
+:tags: JavaScript, XMLHttpRequest, HTTP POST, Web application,
+       Google App Engine, Python
 :category: JavaScript
-:summary: Send/receive data to/from Google App Engine Python servers by HTTP POST requests in AJAX way.
+:summary: Send/receive data to/from `Google App Engine Python`_ servers by
+          `HTTP POST`_ requests in AJAX_ way.
 :adsu: yes
 
 
@@ -16,13 +18,15 @@ is common in the communication of client-server web applications.
 Client side (*HTML*): Users fill the HTML form.
 
 .. show_github_file:: siongui userpages content/code/ajax-form-post-gae-python/index.html
+.. adsu:: 2
 
-Client side (*JavaScript*): Send form data to server by HTTP POST request. Note
-that the data are encoded by JavaScript `encodeURIComponent()`_ function to
-send the data with special characters to servers robustly. ([4]_, [5]_, [6]_,
+Client side (*JavaScript*): Send form data to server by `HTTP POST`_ request.
+Note that the data are encoded by JavaScript_ `encodeURIComponent()`_ function
+to send the data with special characters to servers robustly. ([4]_, [5]_, [6]_,
 [7]_, [8]_)
 
 .. show_github_file:: siongui userpages content/code/ajax-form-post-gae-python/post.js
+.. adsu:: 3
 
 Server side (GAE *Python*): The data from client browsers are decoded by
 *urllib2.unquote()* function. ([9]_, [10]_)
@@ -59,7 +63,9 @@ References:
 
 
 .. _HTML form: http://www.w3schools.com/html/html_forms.asp
-
+.. _Google App Engine Python: https://cloud.google.com/appengine/docs/python/
 .. _GAE Python: https://cloud.google.com/appengine/docs/python/
-
+.. _HTTP POST: https://www.google.com/search?q=HTTP+POST
+.. _AJAX: https://www.google.com/search?q=AJAX
+.. _JavaScript: https://www.google.com/search?q=JavaScript
 .. _encodeURIComponent(): http://www.w3schools.com/jsref/jsref_encodeURIComponent.asp

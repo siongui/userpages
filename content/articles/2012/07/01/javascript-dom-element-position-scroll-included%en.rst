@@ -5,16 +5,17 @@ JavaScript DOM Element Position (Scroll Position Included)
 :modified: 2015-02-18 21:05
 :tags: JavaScript, element offset, element position, DOM
 :category: JavaScript
-:summary: Get DOM element position (including scroll position) using JavaScript
+:summary: Get DOM_ element position (including scroll position)
+          using JavaScript_.
 :adsu: yes
 
 
-To detect the position of a DOM element (for example, HTML *div* tag or *p* tag)
-in JavaScript is an interesting topic. In [1]_, [2]_, [3]_, and [4]_, there are
-discussion and code for detecting the position of a DOM elemenet. In [5]_, [6]_,
-[7]_, there are discussion and code for detecting the scroll position of a DOM
-element. In this post, sample code for detecting the DOM element position,
-including scroll position, will be shown.
+To detect the position of a DOM_ element (for example, HTML_ *div* tag or *p*
+tag) in JavaScript_ is an interesting topic. In [1]_, [2]_, [3]_, and [4]_,
+there are discussion and code for detecting the position of a DOM_ elemenet. In
+[5]_, [6]_, [7]_, there are discussion and code for detecting the scroll
+position of a DOM_ element. In this post, sample code for detecting the DOM_
+element position, including scroll position, will be shown.
 
 .. rubric:: `Demo <{filename}position.html>`_
    :class: align-center
@@ -22,10 +23,12 @@ including scroll position, will be shown.
 Source Code for Demo (*HTML*):
 
 .. show_github_file:: siongui userpages content/articles/2012/07/01/position.html
+.. adsu:: 2
 
 Source Code for Demo (*JavaScript*):
 
 .. show_github_file:: siongui userpages content/articles/2012/07/01/position.js
+.. adsu:: 3
 
 The sample code above, however, is not complete. The code will not work if
 `CSS margin property`_ and absolute `display property`_ of a DOM element is set.
@@ -69,9 +72,9 @@ References:
 .. [12] `.offset() – jQuery API <http://api.jquery.com/offset/>`_
 
 .. _CSS margin property: http://www.w3schools.com/css/css_margin.asp
-
+.. _JavaScript: https://www.google.com/search?q=JavaScript
 .. _display property: http://www.w3schools.com/cssref/pr_class_display.asp
-
+.. _DOM: https://www.google.com/search?q=DOM
 .. _holy grail tutorial: http://alistapart.com/article/holygrail
-
+.. _HTML: https://www.google.com/search?q=HTML
 .. _jQuery: http://jquery.com/
