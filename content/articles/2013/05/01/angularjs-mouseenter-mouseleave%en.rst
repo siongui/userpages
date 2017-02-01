@@ -21,7 +21,9 @@ on AngularJS Github repo for more details.
 
 The following is correct implementation of mouseenter and mouseleave directive:
 
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/angularjs-mouseenter-mouseleave/mouseEnterLeave.js
+.. adsu:: 3
 
 The usage is the same as ngMouseenter_ and ngMouseleave_, except the name
 changed to *mouseenter* and *mouseleave*. Also do not forget to include this

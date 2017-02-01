@@ -5,7 +5,7 @@
 :modified: 2015-02-23 19:47
 :tags: JavaScript, jQuery, AngularJS
 :category: AngularJS
-:summary: jQuery datepicker wrapped in AngularJS directive.
+:summary: jQuery_ datepicker wrapped in AngularJS_ directive.
 :adsu: yes
 
 
@@ -22,6 +22,7 @@ complete source code:
 .. show_github_file:: siongui userpages content/code/angularjs-jquery-datepicker/directive.html
 .. adsu:: 2
 .. show_github_file:: siongui userpages content/code/angularjs-jquery-datepicker/directive.js
+.. adsu:: 3
 
 
 Sample code tested on AngularJS_ ``1.0.4`` and ``1.3.11``
@@ -37,5 +38,5 @@ References:
 .. [3] `jsFiddle demo <http://jsfiddle.net/nnsese/xB6c2/26/>`_
 
 .. _AngularJS: https://angularjs.org/
-
+.. _jQuery: https://jquery.com/
 .. _well-supported: http://www.w3schools.com/html/html_form_input_types.asp

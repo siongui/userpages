@@ -20,6 +20,8 @@ of scope_ is called:
 The following is my solution (call the following *safeApply* method instead of
 $apply):
 
+.. adsu:: 2
+
 .. code-block:: javascript
 
   $scope.safeApply = function(fn) {
@@ -40,7 +42,7 @@ $apply):
       scope.$apply(fn);
   }
 
-.. adsu:: 2
+.. adsu:: 3
 
 The *fn* in above sample code could be AngularJS expression_ or JavaScript
 function, depending on your need.

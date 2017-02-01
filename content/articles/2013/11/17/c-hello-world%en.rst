@@ -3,7 +3,7 @@ Hello World in C
 
 :tags: C, Makefile
 :category: C
-:summary: Hello World program in C programming language
+:summary: Hello World program in `C programming language`_
 :adsu: yes
 
 
@@ -11,9 +11,12 @@ Hello World in C
 
 |
 
-.. show_github_file:: siongui userpages content/articles/2013/11/17/hello.c
+.. show_github_file:: siongui userpages content/code/c/hello-world/hello.c
+.. adsu:: 2
 
 |
 
-.. show_github_file:: siongui userpages content/articles/2013/11/17/Makefile
+.. show_github_file:: siongui userpages content/code/c/hello-world/Makefile
+.. adsu:: 3
 
+.. _C programming language: https://www.google.com/search?q=C+programming+language

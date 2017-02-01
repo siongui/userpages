@@ -17,14 +17,13 @@ AngularJS_ way:
    :class: align-center
 
 .. show_github_file:: siongui userpages content/code/angularjs-draggable-element/movable.html
-
 .. adsu:: 2
-
 .. show_github_file:: siongui userpages content/code/angularjs-draggable-element/ngdraggable.js
+.. adsu:: 3
 
-If you prefer to do this in pure JavaScript way, see reference [3]_.
-
-If you want to know how to do this in Dart_, see reference [4]_.
+| If you prefer to do this in pure JavaScript way, see reference [3]_.
+| If you want to know how to do this in Dart_, see reference [4]_.
+| For GopherJS_ version, see [5]_.
 
 ----
 
@@ -42,5 +41,6 @@ References:
 
 
 .. _AngularJS: https://angularjs.org/
-
+.. _JavaScript: https://www.google.com/search?q=JavaScript
 .. _Dart: https://www.dartlang.org/
+.. _GopherJS: http://www.gopherjs.org/

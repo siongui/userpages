@@ -7,7 +7,9 @@
 :adsu: yes
 
 
-`AngularJS <https://angularjs.org/>`_ doesn't provide `offset() <http://api.jquery.com/offset/>`__ in `jqLite <https://docs.angularjs.org/api/ng/function/angular.element>`__. If you don't want to include `jQuery <http://jquery.com/>`_ for only `offset() <http://api.jquery.com/offset/>`__, the following is a possible implementation of `offset() <http://api.jquery.com/offset/>`__:
+AngularJS_ doesn't provide `offset()`_ in jqLite_. If you don't want to include
+jQuery_ for only `offset()`_, the following is a possible implementation of
+`offset()`_:
 
 .. code-block:: javascript
 
@@ -24,12 +26,20 @@
       return { left: _x, top: _y };
     }
 
-This function takes one argument, which is the element wrapped with `jqLite <https://docs.angularjs.org/api/ng/function/angular.element>`__. A try-catch block is added in the beginning to use the `offset() <http://api.jquery.com/offset/>`__ of jQuery if jQuery is included.
-
 .. adsu:: 2
+
+This function takes one argument, which is the element wrapped with jqLite_.
+A try-catch block is added in the beginning to use the `offset()`_ of jQuery if
+jQuery is included.
 
 ----
 
 Reference:
 
-[1] `getBoundingClientRect method <http://help.dottoro.com/ljvmcrrn.php>`_
+.. adsu:: 3
+.. [1] `getBoundingClientRect method <http://help.dottoro.com/ljvmcrrn.php>`_
+
+.. _AngularJS: https://angularjs.org/
+.. _offset(): https://api.jquery.com/offset/
+.. _jqLite: https://docs.angularjs.org/api/ng/function/angular.element
+.. _jQuery: https://jquery.com/

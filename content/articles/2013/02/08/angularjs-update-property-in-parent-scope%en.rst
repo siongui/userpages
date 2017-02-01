@@ -21,7 +21,7 @@ demonstrating how to do:
       :class: align-center
 
 .. show_github_file:: siongui userpages content/code/angularjs-update-parent-scope/event.html
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/angularjs-update-parent-scope/event.js
 
 In this example, we have a property called *parentProperty* in parent scope.
@@ -30,6 +30,8 @@ Initially the *parentProperty* is set to 0. When a user clicks on the button, an
 scope through `$emit`_ function. The parent scope registers a listener through
 `$on`_ function. In the listener, the property in parent scope is updated, which
 is the result we want.
+
+.. adsu:: 3
 
 This simple example demonstrates how to update properties in parent scope by
 event dispatching and listening. Hope this would be helpful!

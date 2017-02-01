@@ -20,6 +20,7 @@ However, this is not Angular way of doing programming, `AngularJS <http://angula
 
     $document.title = "myTitle"; // this doesn't work
 
+.. adsu:: 2
 
 But it does not work. Finally I found the correct way to set HTML document:
 
@@ -29,3 +30,5 @@ But it does not work. Finally I found the correct way to set HTML document:
 
 
 For those who has the same problem as me.
+
+.. adsu:: 3
