@@ -5,7 +5,7 @@ Google App Engine Datastore Example : Dictionary Application
 :modified: 2015-04-07 22:00
 :tags: Python, Web application, web, Google App Engine, XML
 :category: Google App Engine
-:summary: Simple usage example of Google App Engine Python Datastore.
+:summary: Simple usage example of `Google App Engine Python`_ Datastore_.
 :adsu: yes
 
 
@@ -27,12 +27,12 @@ in the datastore. The following is the snapshot of part of the xml fils.
   ...
 
 I use `Google App Engine`_ to host my website, and it takes me a while to figure
-out how to put 50,000+ xml on GAE_ datastore and retrieve them efficiently. The
+out how to put 50,000+ xml on GAE_ datastore_ and retrieve them efficiently. The
 following is how I do it.
 
 Before we start, we first need to define some terminology, which comes from GAE.
 Objects in the GAE datastore are known as *entities*. Each entity in the
-Datastore has a *key* that uniquely identifies it. The key consists of the
+Datastore_ has a *key* that uniquely identifies it. The key consists of the
 following components:
 
   - The kind_ of the entity, which categorizes it for the purpose of Datastore
@@ -43,6 +43,8 @@ following components:
 So now we define four terms: *entity*, *key*, *kind*, *id (identifier)*. Refer
 to `Entities, Properties, and Keys - Python — Google Cloud Platform`_ for more
 details.
+
+.. adsu:: 2
 
 In my application, I defile a *kind* called *PaliWord* for storing xml files in
 the datastore.
@@ -71,6 +73,8 @@ file is store in the *entity*.
     paliword.put()
     return '%s : ok' % filename
 
+.. adsu:: 3
+
 To retrieve specific *entity*, we simply supply *id*, i.e., the file name
 without `.xml` extension, to the `get_by_id()`_ of *PaliWord* *kind*. The
 *entity* will be returned by this call if exists. Then we can further process
@@ -91,15 +95,12 @@ similar application and want to know how to use GAE Datastore, I hope this would
 be helpful.
 
 
-
 .. _Google App Engine: https://cloud.google.com/appengine/
-
+.. _Google App Engine Python: https://cloud.google.com/appengine/docs/python/
 .. _GAE: https://cloud.google.com/appengine/
-
+.. _Datastore: https://cloud.google.com/appengine/docs/python/datastore/
+.. _datastore: https://cloud.google.com/appengine/docs/python/datastore/
 .. _kind: https://cloud.google.com/appengine/docs/python/datastore/entities#Python_Kinds_and_identifiers
-
 .. _identifier: https://cloud.google.com/appengine/docs/python/datastore/entities#Python_Kinds_and_identifiers
-
 .. _Entities, Properties, and Keys - Python — Google Cloud Platform: https://cloud.google.com/appengine/docs/python/datastore/entities
-
 .. _get_by_id(): https://cloud.google.com/appengine/docs/python/datastore/modelclass#Model_get_by_id

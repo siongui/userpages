@@ -35,9 +35,12 @@ the result.
 .. rubric:: `Demo <{filename}/code/javascript-dictionary-prefix-match/naive.html>`_
       :class: align-center
 
+.. adsu:: 2
+
 Source Code for Demo (*HTML*):
 
 .. show_github_file:: siongui userpages content/code/javascript-dictionary-prefix-match/naive.html
+.. adsu:: 3
 
 Source Code for Demo (*JavaScript*):
 

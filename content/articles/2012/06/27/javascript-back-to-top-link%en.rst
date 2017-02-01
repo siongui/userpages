@@ -5,11 +5,11 @@ JavaScript Back to Top Link
 :modified: 2015-04-06 22:30
 :tags: JavaScript, html
 :category: JavaScript
-:summary: JavaScript Back to Top Link
+:summary: JavaScript_ Back to Top Link
 :adsu: yes
 
 
-To add a "back to top" link is very easy, just add one line of code in the HTML
+To add a "back to top" link is very easy, just add one line of code in the HTML_
 document (from [1]_):
 
 .. code-block:: javascript
@@ -42,6 +42,8 @@ This looks exactly the same as above, but actually not. The correct way to write
 
   // append backToTop to some element...
 
+.. adsu:: 2
+
 Look at the difference closely again:
 
 **Wrong**:
@@ -62,6 +64,8 @@ will be re-directed to "#" before the window is scrolled to top! That means
 This conclusion comes from my trial and error, and I don't know the syntax
 differences of the two versions.
 
+.. adsu:: 3
+
 There is another way to create "back to top" link dynamically:
 
 .. code-block:: javascript
@@ -72,7 +76,7 @@ There is another way to create "back to top" link dynamically:
 
   // append backToTop to some element...
 
-The above code assigns JavaScript command directly to the *href* property.
+The above code assigns JavaScript_ command directly to the *href* property.
 However, I don't know whether this is good practice for coding or not. I still
 put the code here for references.
 
@@ -81,3 +85,6 @@ put the code here for references.
 Reference:
 
 .. [1] `CodeSnippets: Back to Top [javascript] <http://codesnippets.joyent.com/posts/show/214>`_
+
+.. _HTML: https://www.google.com/search?q=HTML
+.. _JavaScript: https://www.google.com/search?q=JavaScript

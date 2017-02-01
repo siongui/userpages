@@ -5,14 +5,14 @@ JavaScript Event Target Element (srcElement)
 :modified: 2015-04-07 09:58
 :tags: JavaScript, html, DOM
 :category: JavaScript
-:summary: Event target element in JavaScript event handling.
+:summary: Event target element in JavaScript_ event handling.
 :adsu: yes
 
 
-When designing web application with JavaScript event handling, it is important
+When designing web application with JavaScript_ event handling, it is important
 to *figure out what the (possible) target element is*.
 
-Let's take mouseover as example, see the following description from [1]_:
+Let's take mouseover_ as example, see the following description from [1]_:
 
   **mouseover**
 
@@ -33,8 +33,9 @@ event handling. Please see the following demo and code:
 .. rubric:: `Demo <{filename}target.html>`_
    :class: align-center
 
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/articles/2012/06/21/target.html
-
+.. adsu:: 3
 .. show_github_file:: siongui userpages content/articles/2012/06/21/target.js
 
 .. show_github_file:: siongui userpages content/articles/2012/06/21/style.css
@@ -76,3 +77,6 @@ Additional References:
 .. [12] `Event Delegation Made Easy <http://danwebb.net/2008/2/8/event-delegation-made-easy-in-jquery>`_
 
 .. [13] `JavaScript Kit- Event Object <http://www.javascriptkit.com/jsref/event.shtml>`_
+
+.. _JavaScript: https://www.google.com/search?q=JavaScript
+.. _mouseover: http://www.quirksmode.org/dom/events/mouseover.html

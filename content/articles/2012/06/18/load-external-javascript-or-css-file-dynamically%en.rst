@@ -5,15 +5,15 @@ Load External JavaScript or CSS file Dynamically
 :modified: 2015-02-23 10:27
 :tags: JavaScript, CORS, CSS
 :category: JavaScript
-:summary: Load JavaScript or CSS on demand.
+:summary: Load JavaScript_ or CSS_ on demand.
 :adsu: yes
 
 
-Sometimes it is useful to load JavaScript or CSS file dynamically. In [1]_ and
+Sometimes it is useful to load JavaScript_ or CSS_ file dynamically. In [1]_ and
 [2]_, there are several different method to do this. Here I do not do anything
 original. I just summarize the posts and give a single function to load external
-JavaScript or CSS files on demand in two different ways. The following is my
-summarized function to load JavaScript or CSS:
+JavaScript_ or CSS_ files on demand in two different ways. The following is my
+summarized function to load JavaScript_ or CSS_:
 
 Source Code
 +++++++++++
@@ -83,7 +83,9 @@ work because of `cross domain scripting`_. For security reasons, XMLHttp call to
 servers on other domains is not allowed. There are several workaround to achieve
 `cross domain scripting`_, but this is beyond the topic of this post.
 
-If you load JavaScript after the page is ready, there are chances that you code
+.. adsu:: 3
+
+If you load JavaScript_ after the page is ready, there are chances that you code
 will not run automatically. Please refer to [3]_, [4]_, and [5]_ for more
 details. And to know how XMLHttp works, please refer to [6]_.
 
@@ -107,3 +109,5 @@ References:
 
 
 .. _cross domain scripting: http://en.wikipedia.org/wiki/Cross-site_scripting
+.. _JavaScript: https://www.google.com/search?q=JavaScript
+.. _CSS: https://www.google.com/search?q=CSS
