@@ -3,38 +3,32 @@ Javascript Drop Down Menu
 
 :tags: JavaScript, dropdown menu
 :category: JavaScript
-:summary: Dropdown menu using vanilla JavaScript. No jQuery or libraries are used.
+:summary: Dropdown menu using `vanilla JavaScript`_.
+          No jQuery_ or libraries are used.
 :adsu: yes
 
 
-This post gives an example of JavaScript dropdown menu. jQuery and libraries are
-not used because I want to keep it pure without dependency.
+This post gives an example of JavaScript_ `dropdown menu`_. jQuery_ and
+libraries are not used because I want to keep it pure without dependency.
 
 Please first see:
 
-.. rubric:: `Demo <{filename}/code/vanilla-javascript-dropdown-menu/vanilla-javascript-dropdown-menu-example.html>`_
+.. rubric:: `Demo <{filename}/code/javascript/dropdown-menu/vanilla-javascript-dropdown-menu-example.html>`_
    :class: align-center
 
 Source Code for Demo (*html*):
 
-.. show_github_file:: siongui userpages content/code/vanilla-javascript-dropdown-menu/vanilla-javascript-dropdown-menu-example.html
-
-.. note::
-
-  In line 10, `inline css`_ :code:`display: none;` is added to the *div* element.
-
-  Why not put :code:`display: none;` in css file? Because if we put it in the
-  css file, :code:`document.getElementById("menuDiv-dropdown").style.display`
-  will return *null* instead of *none*, which will cause problem in our
-  following JavaScript code.
+.. show_github_file:: siongui userpages content/code/javascript/dropdown-menu/vanilla-javascript-dropdown-menu-example.html
+.. adsu:: 2
 
 Source Code for Demo (*JavaScript*):
 
-.. show_github_file:: siongui userpages content/code/vanilla-javascript-dropdown-menu/vanilla-javascript-dropdown-menu-example.js
+.. show_github_file:: siongui userpages content/code/javascript/dropdown-menu/vanilla-javascript-dropdown-menu-example.js
+.. adsu:: 3
 
 Source Code for Demo (*css*):
 
-.. show_github_file:: siongui userpages content/code/vanilla-javascript-dropdown-menu/style.css
+.. show_github_file:: siongui userpages content/code/javascript/dropdown-menu/style.css
 
 ----
 
@@ -49,4 +43,7 @@ References:
 .. [4] `[Golang] GopherJS DOM Example - Dropdown Menu <{filename}../../../2016/01/16/gopherjs-dom-example-dropdown-menu%en.rst>`_
 
 
-.. _inline css: http://www.w3schools.com/css/css_howto.asp
+.. _vanilla JavaScript: https://www.google.com/search?q=vanilla+JavaScript
+.. _JavaScript: https://www.google.com/search?q=JavaScript
+.. _dropdown menu: https://www.google.com/search?q=dropdown+menu
+.. _jQuery: http://jquery.com/

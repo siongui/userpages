@@ -3,43 +3,35 @@ Hide Div When Clicked Outside It
 
 :tags: JavaScript
 :category: JavaScript
-:summary: Hide div element when clicked outside it, in vanilla JavaScript way. No jQuery or libraries are used.
+:summary: Hide div element when clicked outside it, in `vanilla JavaScript`_
+          way. No jQuery_ or libraries are used.
 :adsu: yes
 
 The `search result`_ of the tutorial for the feature
 "hide div element when clicked outside the div" is mostly about using jQuery_.
-However I want to keep my code pure without dependency (i.e., only vanilla
-JavaScript), so I tried to find a solution without using jQuey. Then I found
-[1]_, but it seems not working well for my code. As a result, I re-write the
-code and come up with a working code.
+However I want to keep my code pure without dependency (i.e., only
+`vanilla JavaScript`_), so I tried to find a solution without using jQuey.
+Then I found [1]_, but it seems not working well for my code. As a result,
+I re-write the code and come up with a working code.
 
 Please first see:
 
-.. rubric:: `Demo <{filename}/code/vanilla-javascript-dropdown-menu/vanilla-javascript-dropdown-menu-example.html>`_
+.. rubric:: `Demo <{filename}/code/javascript/dropdown-menu/vanilla-javascript-dropdown-menu-example.html>`_
    :class: align-center
 
 Source Code for Demo (*html*):
 
 .. adsu:: 2
-.. show_github_file:: siongui userpages content/code/vanilla-javascript-dropdown-menu/vanilla-javascript-dropdown-menu-example.html
-
-.. note::
-
-  In line 10, `inline css`_ :code:`display: none;` is added to the *div* element.
-
-  Why not put :code:`display: none;` in css file? Because if we put it in the
-  css file, :code:`document.getElementById("menuDiv-dropdown").style.display`
-  will return *null* instead of *none*, which will cause problem in our
-  following JavaScript code.
+.. show_github_file:: siongui userpages content/code/javascript/dropdown-menu/vanilla-javascript-dropdown-menu-example.html
 
 Source Code for Demo (*JavaScript*):
 
+.. show_github_file:: siongui userpages content/code/javascript/dropdown-menu/vanilla-javascript-dropdown-menu-example.js
 .. adsu:: 3
-.. show_github_file:: siongui userpages content/code/vanilla-javascript-dropdown-menu/vanilla-javascript-dropdown-menu-example.js
 
-Source Code for Demo (*css*):
+Source Code for Demo (*CSS*):
 
-.. show_github_file:: siongui userpages content/code/vanilla-javascript-dropdown-menu/style.css
+.. show_github_file:: siongui userpages content/code/javascript/dropdown-menu/style.css
 
 ----
 
@@ -52,8 +44,6 @@ References:
 .. [3] `[Golang] GopherJS DOM Example - Dropdown Menu <{filename}../../../2016/01/16/gopherjs-dom-example-dropdown-menu%en.rst>`_
 
 
-.. _search result: https://www.google.com/search?aq=f&gcx=w&sourceid=chrome&ie=UTF-8&q=Hide+Div+When+Clicking+Outside+the+Div
-
+.. _search result: https://www.google.com/search?q=Hide+Div+When+Clicking+Outside+the+Div
+.. _vanilla JavaScript: https://www.google.com/search?q=vanilla+JavaScript
 .. _jQuery: http://jquery.com/
-
-.. _inline css: http://www.w3schools.com/css/css_howto.asp

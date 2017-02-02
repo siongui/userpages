@@ -14,15 +14,15 @@ function check(e){
     // click NOT on the menu
     if (checkParent(target, dropdownMenu)) {
       // click on the link
-      if (dropdownMenuDiv.style.display == "none") {
+      if (dropdownMenuDiv.classList.contains("invisible")) {
         // Dynamically retrieve Html element (X,Y) position with JavaScript
         // http://stackoverflow.com/questions/442404/retrieve-the-position-x-y-of-an-html-element
         dropdownMenuDiv.style.left = dropdownMenu.getBoundingClientRect().left + 'px';
-        dropdownMenuDiv.style.display = "block";
-      } else {dropdownMenuDiv.style.display = "none";}
+        dropdownMenuDiv.classList.remove("invisible");
+      } else {dropdownMenuDiv.classList.add("invisible");}
     } else {
       // click both outside link and outside menu, hide menu
-      dropdownMenuDiv.style.display = "none";
+      dropdownMenuDiv.classList.add("invisible");
     }
   }
 }

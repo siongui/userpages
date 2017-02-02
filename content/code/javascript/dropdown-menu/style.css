@@ -1,7 +1,7 @@
 #menu-dropdown {
-  font-size: 48px;
+  font-size: 2em;
   color: blue;
-  margin-left: 20%;
+  margin-left: 20px;
 }
 
 #menu-dropdown:hover {
@@ -9,6 +9,12 @@
 }
 
 #menuDiv-dropdown {
+  font-size: 2em;
+  padding: 10px;
   position: absolute;
   border: 1px solid blue;
+}
+
+.invisible {
+  display: none;
 }

@@ -20,10 +20,12 @@ Please first check:
 Source Code for Demo (*html*):
 
 .. show_github_file:: siongui userpages content/code/css/toggle-element-visibility/toogle-element-visibility-with-css.html
+.. adsu:: 2
 
 Source Code for Demo (*css*):
 
 .. show_github_file:: siongui userpages content/code/css/toggle-element-visibility/style.css
+.. adsu:: 3
 
 If you prefer to use SASS_ for your CSS_ writing, here is the SCSS_ equivalent
 of above CSS:
