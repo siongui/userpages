@@ -1,10 +1,10 @@
-:title: Looking for Sponsorship or Case
+:title: Looking for Sponsorship or Short-term Programming Job
 :slug: sponsor-or-case
 :lang: en
 :status: hidden
 
 
-Looking for `Paid sponsorship`_ or `Short-term case`_
+Looking for `Paid sponsorship`_ or `Short-term programming job`_
 
 Paid sponsorship
 ++++++++++++++++
@@ -16,11 +16,11 @@ Paid sponsorship
 
 If you are interested, please `Contact`_ me. (Email at bottom)
 
-Short-term case
-+++++++++++++++
+Short-term programming job
+++++++++++++++++++++++++++
 
-If no paid sponsorship, `I <{filename}sute.rst>`_ want to look for a short-term
-programming case:
+If no paid sponsorship, `Siong-Ui <{filename}sute.rst>`_ want to look for a
+short-term programming job:
 
 - available until the end of May.
 - Website made by me:
@@ -30,7 +30,7 @@ programming case:
   * This site, of course.
 
 - Go/Python/JavaScript project is ok for me.
-- work at home. upload code to GitHub or some place.
+- Work remomtely (at home). upload code to GitHub or some place.
 
 If you are interested, please `Contact`_ me. (Email at bottom)
 

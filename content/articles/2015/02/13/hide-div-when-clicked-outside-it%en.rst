@@ -20,6 +20,7 @@ Please first see:
 
 Source Code for Demo (*html*):
 
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/vanilla-javascript-dropdown-menu/vanilla-javascript-dropdown-menu-example.html
 
 .. note::
@@ -33,6 +34,7 @@ Source Code for Demo (*html*):
 
 Source Code for Demo (*JavaScript*):
 
+.. adsu:: 3
 .. show_github_file:: siongui userpages content/code/vanilla-javascript-dropdown-menu/vanilla-javascript-dropdown-menu-example.js
 
 Source Code for Demo (*css*):

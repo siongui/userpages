@@ -19,7 +19,7 @@
 短期工作/case
 +++++++++++++
 
-若無付費贊助, `我 <{filename}sute.rst>`_ 想找短期工作機會或case。
+若無付費贊助, `Siong-Ui <{filename}sute.rst>`_ 想找短期工作機會或case。
 
 - 可工作到五月底
 - 我製作的網站:
@@ -29,7 +29,7 @@
   * 以及本站
 
 - Go/Python/JavaScript相關專案皆可.
-- 在家工作。上傳程式到 GitHub或其他地方。
+- 遠端(在家)工作。上傳程式到 GitHub或其他地方。
 
 若您有興趣，請 `聯絡`_ 我。(Email在最下方)
 

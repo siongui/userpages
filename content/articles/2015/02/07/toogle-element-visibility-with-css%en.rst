@@ -3,31 +3,32 @@ Toggle Element (Dropdown/Menu) Visibility with CSS
 
 :tags: html, CSS, toggle, toggleable, SASS, SCSS
 :category: Web Development
-:summary: Toggle element (usually div) with pure CSS only (no JavaScript). Suitable for dropdown/menu application.
+:summary: Toggle element (usually div) with pure CSS_ only (no JavaScript_).
+          Suitable for dropdown/menu application.
 :adsu: yes
 
-Toggling element without the hassle of JavaScript is a good design choice for
-the application of *dropdown/menu* on a fast, responsive, mobile-friendly website.
-After `consulting Google <https://www.google.com/search?q=CSS+toggle+element>`_
-, the posts [1]_ and [2]_ are good tutorials for me. The following is my result.
+Toggling element without the hassle of JavaScript_ is a good design choice for
+the application of *dropdown/menu* on a fast, responsive, mobile-friendly
+website. After `consulting Google`_, the posts [1]_ and [2]_ are good tutorials
+for me. The following is my result.
 
 Please first check:
 
-.. rubric:: `Demo <{filename}toogle-element-visibility-with-css.html>`_
+.. rubric:: `Demo <{filename}/code/css/toggle-element-visibility/toogle-element-visibility-with-css.html>`_
    :class: align-center
 
 Source Code for Demo (*html*):
 
-.. show_github_file:: siongui userpages content/articles/2015/02/07/toogle-element-visibility-with-css.html
+.. show_github_file:: siongui userpages content/code/css/toggle-element-visibility/toogle-element-visibility-with-css.html
 
 Source Code for Demo (*css*):
 
-.. show_github_file:: siongui userpages content/articles/2015/02/07/style.css
+.. show_github_file:: siongui userpages content/code/css/toggle-element-visibility/style.css
 
-If you prefer to use `SASS <http://sass-lang.com/>`_ for your CSS writing,
-here is the SCSS equivalent of above CSS:
+If you prefer to use SASS_ for your CSS_ writing, here is the SCSS_ equivalent
+of above CSS:
 
-.. show_github_file:: siongui userpages content/articles/2015/02/07/style.scss
+.. show_github_file:: siongui userpages content/code/css/toggle-element-visibility/style.scss
 
 
 ----
@@ -43,3 +44,9 @@ References:
 .. [3] `[AngularJS] Toggle Element without JavaScript <{filename}../../../2013/06/22/angularjs-toggle-element-without-javascript%en.rst>`_
 
 .. [4] `[AngularJS] Dropdown Menu Using Directive <{filename}../04/angularjs-dropdown-menu-using-directive%en.rst>`_
+
+.. _consulting Google: https://www.google.com/search?q=CSS+toggle+element
+.. _JavaScript: https://www.google.com/search?q=JavaScript
+.. _CSS: https://www.google.com/search?q=CSS
+.. _SASS: http://sass-lang.com/
+.. _SCSS: http://sass-lang.com/documentation/file.SCSS_FOR_SASS_USERS.html

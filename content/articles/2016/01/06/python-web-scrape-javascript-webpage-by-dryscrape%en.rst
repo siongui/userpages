@@ -28,8 +28,8 @@ We will write a Python script to visit a webpage with iframe_. Get the URL of
 the iframe. Fill in the form in the iframe_ and submit the form.
 
 .. adsu:: 2
-
 .. show_github_file:: siongui userpages content/code/python-dryscrape-form/submit.py
+.. adsu:: 3
 
 ----
 

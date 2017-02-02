@@ -31,12 +31,12 @@ Source Code
 The following is the source code of Go_ program that uses SQLite_ (version 3):
 
 .. adsu:: 2
-
 .. show_github_file:: siongui userpages content/code/go-sqlite/sqlite3.go
 
 Now we open database and create a table in our test program. Then write some
 data to the table and then read the data from the table.
 
+.. adsu:: 3
 .. show_github_file:: siongui userpages content/code/go-sqlite/sqlite3_test.go
 
 Output of Test Code
