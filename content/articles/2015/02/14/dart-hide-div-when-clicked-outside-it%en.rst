@@ -3,7 +3,8 @@
 
 :tags: Dart
 :category: Dart
-:summary: Hide div element when clicked outside it, using Dart programming language.
+:summary: Hide div element when clicked outside it,
+          using Dart_ programming language.
 :adsu: yes
 
 
@@ -12,24 +13,26 @@ Outside It* [2]_.
 
 Please first see (Dartium_ is needed for the demo):
 
-.. rubric:: `Demo <{filename}/code/dart-dropdown-menu/dart-dropdown-menu-example.html>`_
+.. rubric:: `Demo <{filename}/code/dart/dropdown-menu/dart-dropdown-menu-example.html>`_
    :class: align-center
 
 Source Code for Demo (*html*):
 
-.. show_github_file:: siongui userpages content/code/dart-dropdown-menu/dart-dropdown-menu-example.html
+.. show_github_file:: siongui userpages content/code/dart/dropdown-menu/dart-dropdown-menu-example.html
 
 Source Code for Demo (*Dart*):
 
-.. show_github_file:: siongui userpages content/code/dart-dropdown-menu/app.dart
+.. adsu:: 2
+.. show_github_file:: siongui userpages content/code/dart/dropdown-menu/app.dart
 
 Source Code for Demo (*css*):
 
-.. show_github_file:: siongui userpages content/code/dart-dropdown-menu/style.css
+.. adsu:: 3
+.. show_github_file:: siongui userpages content/code/dart/dropdown-menu/style.css
 
 Makefile for automating the development:
 
-.. show_github_file:: siongui userpages content/code/dart-dropdown-menu/Makefile
+.. show_github_file:: siongui userpages content/code/dart/dropdown-menu/Makefile
 
 ----
 

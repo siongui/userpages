@@ -1,6 +1,7 @@
 Javascript Drop Down Menu
 #########################
 
+:modified: 2017-02-02T09:57+08:00
 :tags: JavaScript, dropdown menu
 :category: JavaScript
 :summary: Dropdown menu using `vanilla JavaScript`_.
