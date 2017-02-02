@@ -1,28 +1,31 @@
 Draggable Toggleable Simple Web Keyboard
 ########################################
 
-:tags: JavaScript, html, toggle, toggleable
+:tags: JavaScript, html, toggle, toggleable, jQuery
 :category: JavaScript
-:summary: Demonstrate how to make an online 0-9 keypad, which is draggable and toggleable.
+:summary: Demonstrate how to make an online 0-9 keypad, which is draggable via
+          jQuery_ and toggleable via vanilla JavaScript_.
 :adsu: yes
 
-To toggle HTML element, please see [1]_.
-
-To drag and drop HTML element, please see [2]_.
+| To toggle HTML element via vanilla JavaScript_, please see [1]_.
+| To drag and drop HTML element via jQuery_, please see [2]_.
 
 First we create a simple 0-9 kaypad:
 
-.. rubric:: `Demo1 <{filename}/code/javascript-keyboard/keyboard.html>`_
+.. rubric:: `Demo1 <{filename}/code/javascript/jQuery-keyboard/keyboard.html>`_
    :class: align-center
 
-.. show_github_file:: siongui userpages content/code/javascript-keyboard/keyboard.html
+.. show_github_file:: siongui userpages content/code/javascript/jQuery-keyboard/keyboard.html
+.. adsu:: 2
 
-Next, we make the kaypad draggable and toggleable:
+Next, we make the kaypad draggable via jQuery_ and toggleable via vanilla
+JavaScript_:
 
-.. rubric:: `Demo2 <{filename}/code/javascript-keyboard/draggable-toggleable-keyboard.html>`_
+.. rubric:: `Demo2 <{filename}/code/javascript/jQuery-keyboard/draggable-toggleable-keyboard.html>`_
    :class: align-center
 
-.. show_github_file:: siongui userpages content/code/javascript-keyboard/draggable-toggleable-keyboard.html
+.. show_github_file:: siongui userpages content/code/javascript/jQuery-keyboard/draggable-toggleable-keyboard.html
+.. adsu:: 3
 
 For a full-featured keyboard, please check the references.
 
@@ -45,3 +48,6 @@ Other links I found:
 .. [6] `Google Hosted Libraries - Developer's Guide <https://developers.google.com/speed/libraries/devguide>`_
 
 .. [7] `Drag and drop <http://www.quirksmode.org/js/dragdrop.html>`_
+
+.. _jQuery: https://jquery.com/
+.. _JavaScript: https://www.google.com/search?q=JavaScript

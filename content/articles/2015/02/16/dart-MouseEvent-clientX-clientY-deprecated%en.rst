@@ -26,8 +26,9 @@ get *clientX* and *clientY* in Dart should be:
 
 Then the compiled JavaScript code runs on Chromium_ without trouble.
 
-
 PS: Tested on ``Dart 1.8``
+
+.. adsu:: 2
 
 ----
 
