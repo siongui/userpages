@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>[Vue.js] Input Change Event</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="initial-scale=1, minimal-ui" />
+</head>
+<body style="text-align: center;">
+
+<div id="app">
+  <form>
+    <input type="text" autocomplete="off" v-model="userinput">
+  </form>
+  <div>value: {{ value }}</div>
+  <div>old value: {{ oldValue }}</div>
+</div>
+
+<script src="https://unpkg.com/vue@2.1.10/dist/vue.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>
