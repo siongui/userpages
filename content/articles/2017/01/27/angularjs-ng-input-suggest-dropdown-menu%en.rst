@@ -35,6 +35,8 @@ The following are key aspects in the code:
 .. adsu:: 3
 .. show_github_file:: siongui userpages content/code/angularjs/input-suggest/style.css
 
+| For Vue.js_ version, see [7]_.
+
 ----
 
 Tested on:
@@ -58,6 +60,8 @@ References:
 .. [5] `AngularJS: Error Reference: dupes <https://docs.angularjs.org/error/ngRepeat/dupes>`_
 
 .. [6] `javascript - Angularjs get element position - Stack Overflow <http://stackoverflow.com/questions/27581260/angularjs-get-element-position>`_
+
+.. [7] `[Vue.js] Input Suggest Dropdown Menu <{filename}../../02/04/vuejs-input-suggest-dropdown-menu%en.rst>`_
 
 .. _Vue.js: https://vuejs.org/
 .. _AngularJS: https://angularjs.org/

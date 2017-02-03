@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>[Vue.js] Input Suggest Dropdown Menu</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="initial-scale=1, minimal-ui" />
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <style>[v-cloak] {display: none;}</style>
+</head>
+<body style="text-align: center;">
+
+<form id="suggestApp">
+  <input type="text" autocomplete="off" v-model.trim="userinput" autofocus>
+  <div class="suggest" v-bind:style="styleObject" v-show="isShowSuggestMenu" v-cloak>
+    <div v-for="suggestedWord in suggestedWords">{{ suggestedWord }}</div>
+  </div>
+</form>
+
+<script src="https://unpkg.com/vue@2.1.10/dist/vue.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>
