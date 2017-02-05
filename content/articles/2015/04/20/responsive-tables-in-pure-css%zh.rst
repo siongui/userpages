@@ -37,6 +37,8 @@
     </tbody>
   </table>
 
+.. adsu:: 2
+
 *CSS*
 
 .. code-block:: css
@@ -56,7 +58,7 @@
 
 .. [1] `Responsive Tables in Pure CSS - LivingSocial's Technology Blog <https://techblog.livingsocial.com/blog/2015/04/06/responsive-tables-in-pure-css/>`_
        (`Hacker News討論 <https://news.ycombinator.com/item?id=9328684>`__)
-
+.. adsu:: 3
 .. [2] `html - How to make responsive table - Stack Overflow <http://stackoverflow.com/questions/18436864/how-to-make-responsive-table>`_
 
 .. [3] Google搜尋 `Responsive Tables in Pure CSS <https://www.google.com/search?q=Responsive+Tables+in+Pure+CSS>`__

@@ -36,6 +36,8 @@ GitHub_ 上，該怎樣做呢？
 
      $ git push origin master
 
+.. adsu:: 2
+
 ----
 
 參考：

@@ -29,18 +29,19 @@ Lesson learned from this exercise
 
 3. Covert the `[]byte` to string by built-in *string* keyword.
 
+.. adsu:: 2
+
 Souce Code
 ++++++++++
 
 `Run code on Go Playground <https://play.golang.org/p/cIG85Za6LI>`_
 
-.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/go-random-string/a-z0-9.go
+.. adsu:: 3
 
 Test
 ++++
 
-.. adsu:: 3
 .. show_github_file:: siongui userpages content/code/go-random-string/a-z0-9_test.go
 
 

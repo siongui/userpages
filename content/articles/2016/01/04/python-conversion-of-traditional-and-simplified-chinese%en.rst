@@ -42,6 +42,7 @@ install `pyOpenCC <https://pypi.python.org/pypi/pyopencc>`__ by:
   # Install pyOpenCC
   $ sudo pip install pyopencc
 
+.. adsu:: 2
 
 Souce Code For Demo
 +++++++++++++++++++
@@ -68,6 +69,7 @@ needs. All configurations I found by ``locate opencc`` are:
   zhtw2zhs.ini
   zhtw2zht.ini
 
+.. adsu:: 3
 
 Output of Demo
 ``````````````

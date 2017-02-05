@@ -26,6 +26,8 @@ two locale_, *zh_TW (Traditional Chinese)* and *vi_VN (Vietnamese)*. The zh_TW
 PO file are located at ``locale/zh_TW/LC_MESSAGES/messages.po`` and vi_VN PO
 file are located at ``locale/vi_VN/LC_MESSAGES/messages.po``.
 
+.. adsu:: 2
+
 zh_TW PO file ``locale/zh_TW/LC_MESSAGES/messages.po``:
 
 .. show_github_file:: siongui userpages content/code/go-gettext/locale/zh_TW/LC_MESSAGES/messages.po
@@ -58,6 +60,7 @@ us. Install `gettext-go`_ by:
 Now we can let Go_ application speak local language:
 
 .. show_github_file:: siongui userpages content/code/go-gettext/gettext.go
+.. adsu:: 3
 
 .. note::
 

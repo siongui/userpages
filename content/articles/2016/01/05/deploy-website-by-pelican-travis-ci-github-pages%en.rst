@@ -43,6 +43,8 @@ My website support threes languages (English, Traditional Chinese, Thai), and I
 need three locales (en_US.UTF8, zh_TW.UTF-8, th_TH.UTF-8) to build each
 subsites. That's why three language-packs are installed.
 
+.. adsu:: 2
+
 Deploy Website to `Github Pages`_
 +++++++++++++++++++++++++++++++++
 
@@ -84,6 +86,8 @@ Then you will see something like this in your ``.travis.yml``:
   env:
     global:
       secure: Ph34LjX71tay9yVAYcg0RiwcLCeu/FthMkUtUoNf8pnI+OOL1MkW305jEf6F2oqObnRDuMvowppUfd/4LzqkSBat3CMr9htQzIQ+PNB5mIhx9JTYjkmz31iVoIBEPOFadSwvUDwKbcoJfAzmgrsX5wC0MadeD2iyUQMQ1BekT8k+HXqAp5WtmqjD0KcnFnlhXFzWl+fDiMoadVH85wUn+z827Tx+aH2XP1C9q8BhM8KeJXjTqacSzrLxOs+ElX603s1o2gSG9pxe+FPhABIVGPx/44V67zthwxs5j4d+WtXCWliK+ah+H/gQ2HxWydKLwfKoUI5BeowhUx9QHmodxjaWomL9ciqSPa0b9TpbeyzypzErecoZrFC8RZeXl1B2TDANROXGo5nTSKziDs1/Ajj83bNLoJ9K1B1yELpkHHi1mEoXb68Z6d9pit9uYsrA78Atkn/kAVrfS8/+fPuX+oeGk4MFF63epMxJm+otqWW4yjUTDg9vqVOe9eOgoD5sKWve5ZX8+ELIPHwg7xA5h+03nMqr3Bhe0YcmxIX9MHeZh49aub+Dm5H6q/rXWi8pwftW304BN/dO5gDk5EOd6F7ufOGvIM9Hj6iS1PYpJATw558Bkf/RX17kNhpAPhy9S1eswR34ET0ogvfjsLvMpQa/LvKcj8JTWj7OD+ilMoE=
+
+.. adsu:: 3
 
 Push build to GitHub Pages
 ``````````````````````````

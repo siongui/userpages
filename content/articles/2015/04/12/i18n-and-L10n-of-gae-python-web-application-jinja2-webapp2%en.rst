@@ -52,6 +52,7 @@ Install pytz_ (use gae-pytz_ in this example)
 
   # move pytz.zip to your project root directory
 
+.. adsu:: 2
 
 Sample GAE project
 ++++++++++++++++++
@@ -62,6 +63,7 @@ Download the following files to your project root directory:
 `query string`_ in URL.
 
 .. show_github_file:: siongui userpages content/code/i18n-gae-python/i18n.py
+.. adsu:: 3
 
 *index.html* (HTML template): Wrap the *string* you want to tranlsate in
 *{{ _("string") }}*. See [18]_ for more syntax you can use.

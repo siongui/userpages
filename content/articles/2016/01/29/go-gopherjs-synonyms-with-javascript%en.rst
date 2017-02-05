@@ -379,6 +379,8 @@ Inspired by [4]_, Golang_/GopherJS_ (with / without
 
      - |
 
+.. adsu:: 2
+
 ----
 
 Tested on:

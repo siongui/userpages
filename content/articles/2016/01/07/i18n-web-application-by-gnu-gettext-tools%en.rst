@@ -33,6 +33,7 @@ after mark
 
   <title>_("Hello World")</title>
 
+.. adsu:: 2
 
 Extract translatable strings
 ++++++++++++++++++++++++++++
@@ -55,6 +56,7 @@ by hand. I use sed_ to automate the task:
 
   $ sed -i "s/charset=CHARSET/charset=utf-8/g" locale/messages.pot
 
+.. adsu:: 3
 
 Generate translation file for each supported language
 +++++++++++++++++++++++++++++++++++++++++++++++++++++

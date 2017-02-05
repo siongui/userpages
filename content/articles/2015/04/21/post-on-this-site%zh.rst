@@ -55,6 +55,8 @@
 本網頁主要的repo是 userpages_, 含網站template以及網站內容都在此。然後透過
 `Travis CI`_ 自動編譯並上傳到 `siongui.github.io`_ 。
 
+.. adsu:: 2
+
 撰寫流程
 ++++++++
 
@@ -100,6 +102,7 @@
 若新增一個檔案名為 **content/articles/2015/04/21/post-on-this-site%en.rst**
 則該文章的網址是 **/2015/04/21/post-on-this-site/** ，該文章的語言是英文
 
+.. adsu:: 3
 
 文章內容大致格式
 ````````````````

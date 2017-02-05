@@ -34,11 +34,13 @@ Source Code
 First we write a simple HTML for our demo:
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/demo/index.html
+.. adsu:: 2
 
 We will access the *div* element whose *id* is *foo*. Then add *Hello World*
 text to the *div*. Now write a Go_ program to manipulate DOM_:
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/demo/dom.go
+.. adsu:: 3
 
 It is very easy and intuitive. Compile the Go_ code to JavaScript_:
 

@@ -4,12 +4,12 @@
 :date: 2015-12-27 19:28
 :tags: 行動上網
 :category: 行動上網
-:summary: 網路上台灣手機預付卡行動上網吃到飽最便宜方案(截至2015/12/27)
+:summary: 網路上台灣手機預付卡3G行動上網吃到飽最便宜方案(截至2015/12/27)
 :og_image: http://www.idealcard.com.tw/images/header_ideal_logo.jpg
 :adsu: yes
 
 
-截至2015年12月27號，查到最便宜的預付卡行動上網吃到飽方案
+截至2015年12月27號，查到最便宜的預付卡3G行動上網吃到飽方案
 （30天499元）來自中華電信 [1]_ 。此方案本意是給來台打工
 的外勞朋友使用。但經實測發現本國人（台灣人）也可使用，方
 法如下：
@@ -46,6 +46,7 @@
 
      按0~重聽
 
+.. adsu:: 2
 
 同場加映
 ````````
@@ -65,7 +66,7 @@
 .. [3] `行動通訊綜合討論區 - 國外上網吃到飽9塊錢就有，誰要用漫遊399？ - 手機討論區 - Mobile01 <http://www.mobile01.com/topicdetail.php?f=18&t=4174502>`_
 
 .. [4] `行動通訊綜合討論區 - 電信三雄預付卡（新增亞太 4G＋大玩特玩卡）與上網方案整理 - 手機討論區 - Mobile01 <http://www.mobile01.com/topicdetail.php?f=18&t=3953015>`_
-
+.. adsu:: 3
 .. [5] `[問題] 中華如意卡吃到飽 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1464913955.A.833.html>`_
 
        `[問題]  預付卡選擇 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1464951119.A.2DF.html>`_

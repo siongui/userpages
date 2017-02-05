@@ -49,6 +49,8 @@ AIS_ 數據套餐
 
   開通方法按： * 777 * 985# 再按“撥出鍵”即可。
 
+.. adsu:: 2
+
 Dtac_ 數據套餐
 ``````````````
 
@@ -117,7 +119,7 @@ TrueMoveH_ 數據套餐
 .. [2] Google搜尋 `泰國三大電話卡開通網絡套餐方法 <https://www.google.com/search?q=%E6%B3%B0%E5%9C%8B%E4%B8%89%E5%A4%A7%E9%9B%BB%E8%A9%B1%E5%8D%A1%E9%96%8B%E9%80%9A%E7%B6%B2%E7%B5%A1%E5%A5%97%E9%A4%90%E6%96%B9%E6%B3%95>`_
 
 .. [3] `低頭族看過來！泰國1-2 Call手機開卡 & 上網操作設定（2015/4/2更新） @ 那一年  我們在曼谷  — 曼谷幫 :: 痞客邦 PIXNET :: <http://bangkokgoplay.pixnet.net/blog/post/47392948>`_
-
+.. adsu:: 3
 .. [4] `Thailand - Prepaid Data SIM Card Wiki <http://prepaid-data-sim-card.wikia.com/wiki/Thailand>`_
 
 .. [5] `TRAVELLER SIM - Best Thailand Prepaid SIM Card for Travellers <http://www.ais.co.th/roaming/visiting/sim-for-traveller-en.aspx>`_

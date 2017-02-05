@@ -18,6 +18,7 @@ Answer
 ++++++
 
 .. show_github_file:: siongui userpages content/code/bash/wget/wget-webpages.sh
+.. adsu:: 2
 
 GNU wget_ is used to fetch the webpages. I tried to run the script:
 
@@ -32,6 +33,8 @@ but did not work. Need to run with the following command:
   $ bash wget-webpages.sh
 
 My development environment is *Ubuntu Linux 15.10*.
+
+.. adsu:: 3
 
 ----
 

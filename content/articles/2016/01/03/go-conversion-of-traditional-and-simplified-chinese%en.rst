@@ -32,6 +32,7 @@ See `OpenCC repository on GitHub`_ for installation. If you use Ubuntu Linux
   python-opencc - simplified-traditional chinese conversion library - Python support
   $ sudo apt-get install opencc libopencc-dev
 
+.. adsu:: 2
 
 OpenCC_ wrapper for Golang_
 +++++++++++++++++++++++++++
@@ -91,6 +92,7 @@ I saw no .json files, but saw a lot of .ini files. I used these .ini files as
 configurations and it worked. I guess that maybe at some moment the author of
 OpenCC_ changed the name of configurations.
 
+.. adsu:: 3
 
 Souce Code
 ++++++++++

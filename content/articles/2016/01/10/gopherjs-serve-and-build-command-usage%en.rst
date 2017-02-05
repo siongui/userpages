@@ -41,6 +41,7 @@ First we see the *help* of *gopherjs* command line tool:
 
   Use "gopherjs [command] --help" for more information about a command.
 
+.. adsu:: 2
 
 Build Command Usage
 +++++++++++++++++++
@@ -94,6 +95,7 @@ directory by:
 The command line tool will compile the ``dom.go`` under ``$(GOPATH)/src/demo``
 and the JavaScript output file will be ``$(GOPATH)/src/demo/dom.js``.
 
+.. adsu:: 3
 
 Serve Command Usage
 +++++++++++++++++++

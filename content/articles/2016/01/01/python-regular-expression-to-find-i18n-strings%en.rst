@@ -38,6 +38,7 @@ A more advanced pattern is:
 
 The above function will return all matched strings in a file.
 
+.. adsu:: 2
 
 Alternative (Use xgettext_)
 +++++++++++++++++++++++++++
@@ -50,6 +51,8 @@ You can also use the following command line in Linux console to extract strings:
   xgettext --no-wrap --from-code=UTF-8 --keyword=_ --output=messages.pot `find . -name *.html`
 
 xgettext_ will save the strings in the file named *messages.pot*.
+
+.. adsu:: 3
 
 ----
 
