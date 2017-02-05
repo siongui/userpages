@@ -118,6 +118,7 @@ Complete web.py_ code for serving the above template:
 Complete webapp2_ (run on `GAE Python`_) code for serving the above template:
 
 .. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/webapp/webapp2-jinja2.py
+.. adsu:: 3
 
 ----
 

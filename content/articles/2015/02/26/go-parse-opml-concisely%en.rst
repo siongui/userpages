@@ -58,12 +58,14 @@ We can remove the **head** and **body** *struct* and keep meaningful content by:
 *Title* field in **head** struct becomes *OpmlTitle* in **opml** struct, and
 *Outlines* field in **body** struct becomes *Outlines* in **opml** struct.
 
+.. adsu:: 2
+
 Complete source code for concisely parsing the OPML in [5]_:
 
 `Run code on Go Playground <https://play.golang.org/p/ha-LIDyrOn>`_
 
 .. show_github_file:: siongui userpages content/code/go-xml/parse-5_2.go
-
+.. adsu:: 3
 
 The output result is the same as the result in [5]_.
 

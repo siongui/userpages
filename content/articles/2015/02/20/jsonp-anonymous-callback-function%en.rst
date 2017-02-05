@@ -5,31 +5,35 @@ JSONP with Anonymous Callback Function
 :modified: 2015-02-20 21:50
 :tags: JavaScript, CORS, JSONP, Google App Engine, Python, JSON
 :category: JavaScript
-:summary: Cross-domain requests by JSONP with anonymous callback function on Google App Engine for Python.
+:summary: Cross-domain requests by JSONP_ with `anonymous callback function`_ on
+          `Google App Engine for Python`_.
 :adsu: yes
 
 
-In my previous post [1]_, a complete JSONP example on both client side (browser)
-and server side (Google App Engine Python) is shown. The example in previous
-post needs a *named, JavaScript callback function* to handle the response
-returned from server. In this post, instead of using *named callback function*,
-an alternative choice is shown: use an *anonymous callback function* in JSONP
-request.
+In my previous post [1]_, a complete JSONP_ example on both client side
+(browser) and server side (`Google App Engine Python`_) is shown. The example in
+previous post needs a *named, JavaScript callback function* to handle the
+response returned from server. In this post, instead of using *named callback
+function*, an alternative choice is shown: use an *anonymous callback function*
+in JSONP request.
 
 The main difference between *named callback function* and *anonymous callback
 function* is that in named callback function, only the name of callback function
-is supplied in the HTTP request, while in anonymous callback function, the whole
-callback function is supplied in the HTTP request.
+is supplied in the HTTP request, while in `anonymous callback function`_, the
+whole callback function is supplied in the HTTP request.
 
-The following is a complete example of JSONP with anonymous callback function.
+The following is a complete example of JSONP_ with
+`anonymous callback function`_.
 
 *index.html* (run on client side, i.e., browser):
 
 .. show_github_file:: siongui userpages content/code/jsonp-anonymous-gae/index.html
+.. adsu:: 2
 
 *jsonp.js* (run on client side, i.e., browser):
 
 .. show_github_file:: siongui userpages content/code/jsonp-anonymous-gae/jsonp.js
+.. adsu:: 3
 
 .. note::
 
@@ -88,3 +92,8 @@ References:
 .. [1] `JSONP on Google App Engine Python <{filename}jsonp-on-google-app-engine-python%en.rst>`_
 
 .. [2] `Use Object Instance Function as JSONP Callback Function <{filename}jsonp-object-instance-callback%en.rst>`_
+
+.. _Google App Engine for Python: https://cloud.google.com/appengine/docs/python/
+.. _Google App Engine Python: https://cloud.google.com/appengine/docs/python/
+.. _JSONP: https://www.google.com/search?q=JSONP
+.. _anonymous callback function: https://www.google.com/search?q=anonymous+callback+function

@@ -39,8 +39,9 @@ found better ways to remove all child nodes in references [1]_ and [2]_. The
 
 .. code-block:: javascript
 
-  while (elm.hasChildNodes())
+  while (elm.hasChildNodes()) {
     elm.removeChild(elm.lastChild);
+  }
 
 Maybe for some people the "canonical" way is obvious, but it takes me quite a
 while to debug and know that sometimes the trivial way will not work. So I wrote

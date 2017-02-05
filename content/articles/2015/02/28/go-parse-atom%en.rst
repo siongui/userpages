@@ -21,7 +21,7 @@ Souce Code
 `Run code on Go Playground <https://play.golang.org/p/kP7E2QKM7d>`_
 
 .. show_github_file:: siongui userpages content/code/go-xml/parse-7.go
-
+.. adsu:: 2
 
 Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``.
 
@@ -38,7 +38,7 @@ Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``.
 .. [4] `[Golang] XML Parsing Example (4) <{filename}../24/go-parse-xml-example-4%en.rst>`_
 
 .. [5] `[Golang] XML Parsing Example (5) - Parse OPML <{filename}../25/go-parse-opml%en.rst>`_
-
+.. adsu:: 3
 .. [6] `[Golang] XML Parsing Example (6) - Parse OPML Concisely <{filename}../26/go-parse-opml-concisely%en.rst>`_
 
 .. [7] `[Golang] XML Parsing Example (7) - Parse RSS 2.0 <{filename}../27/go-parse-rss2%en.rst>`_

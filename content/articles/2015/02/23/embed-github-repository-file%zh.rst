@@ -20,6 +20,8 @@ Google搜尋： `embed github repo file`_ 得知
 
 最後我採用 Gistfy 的服務。用法跟插入 gist_ 差不多，上這兩個服務的網頁看看就知道。
 
+.. adsu:: 2
+
 ----
 
 參考：

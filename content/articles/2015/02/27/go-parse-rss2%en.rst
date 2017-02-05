@@ -21,6 +21,7 @@ Souce Code
 `Run code on Go Playground <https://play.golang.org/p/a5mvLw_h8X>`_
 
 .. show_github_file:: siongui userpages content/code/go-xml/parse-6.go
+.. adsu:: 2
 
 .. note::
 
@@ -33,6 +34,7 @@ Souce Code
 
   If *template.HTML* are replaced with *string*, the result is the same.
 
+.. adsu:: 3
 
 Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``.
 

@@ -60,12 +60,15 @@ following rule.
 |  .l  |  ḷ  |
 +------+-----+
 
+.. adsu:: 2
+
 .. rubric:: `Demo <https://siongui.github.io/dart-online-input-method-pali/>`_ (`Fork me on Github <https://github.com/siongui/dart-online-input-method-pali>`_)
       :class: align-center
 
 Source Code for Demo (*HTML*):
 
 .. show_github_file:: siongui dart-online-input-method-pali pali.html
+.. adsu:: 3
 
 Source Code for Demo (*Dart*):
 

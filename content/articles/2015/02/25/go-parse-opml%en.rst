@@ -13,12 +13,14 @@ Based on previous examples, this post shows how to parse OPML_ file. The
 following OPML example comes from my `web feeds`_:
 
 .. show_github_file:: siongui userpages content/code/go-xml/example-5.xml
+.. adsu:: 2
 
 Source code for parsing above OPML:
 
 `Run code on Go Playground <https://play.golang.org/p/2qcWvwpnnD>`_
 
 .. show_github_file:: siongui userpages content/code/go-xml/parse-5.go
+.. adsu:: 3
 
 
 The output result:

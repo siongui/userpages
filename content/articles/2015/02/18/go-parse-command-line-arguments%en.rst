@@ -16,6 +16,8 @@ In the example we define a boolean flag *production*, which indicates whether
 the program runs in production mode. The default value is *false*, and the usage
 string is `if run in production mode`.
 
+.. adsu:: 2
+
 Now we build our program `cmd.go` by:
 
 .. code-block:: bash
@@ -37,6 +39,8 @@ Next run the binary with `-production=true`:
   $ ./cmd -production=true
   Production Mode: true
 
+.. adsu:: 3
+
 We can also read usage of the program by:
 
 .. code-block:: bash
@@ -53,6 +57,7 @@ You can also read usage by `--help`:
   Usage of ./cmd:
     -production=false: if run in production mode
 
+There is another example for reading argument as *string*. See [3]_.
 
 Source code tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``.
 

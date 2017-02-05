@@ -19,7 +19,6 @@ we do in Go_ programming language:
 `Run Code on Go Playground <https://play.golang.org/p/XiukTqZYv2>`_
 
 .. show_github_file:: siongui userpages content/code/go-xml/parse-1.go
-
 .. adsu:: 2
 
 Put the above two files on the same directory and run the code. The ouput will
@@ -53,6 +52,8 @@ be:
   :code:`content`, the Go_ parser will fail to read the content in *div*
   element. You can use another name for the variable, as long as the first
   letter is capital.
+
+.. adsu:: 3
 
 .. note::
 

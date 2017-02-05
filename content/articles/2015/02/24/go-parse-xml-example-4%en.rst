@@ -30,10 +30,12 @@ becomes:
 The type :code:`span` becomes :code:`[]span`, and **`xml:"span`** is added to
 indicate the tag name of child elements.
 
+.. adsu:: 2
+
 `Run code on Go Playground <https://play.golang.org/p/2s4GK0plEk>`_
 
 .. show_github_file:: siongui userpages content/code/go-xml/parse-4.go
-
+.. adsu:: 3
 
 The output result:
 

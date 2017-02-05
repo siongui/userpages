@@ -21,6 +21,7 @@ The following is complete sample code.
 *index.html* (run on client side, i.e., browser):
 
 .. show_github_file:: siongui userpages content/code/jsonp-object-instance-callback/index.html
+.. adsu:: 2
 
 .. note::
 
@@ -31,6 +32,7 @@ The following is complete sample code.
 *jsonp.js* (run on client side, i.e., browser):
 
 .. show_github_file:: siongui userpages content/code/jsonp-object-instance-callback/jsonp.js
+.. adsu:: 3
 
 .. note::
 

@@ -14,10 +14,12 @@ This Go_ example parses Accept-Language_ string in HTTP request header and
 output (languageTag, quality) pairs:
 
 .. show_github_file:: siongui userpages content/code/go-accept-language/parse.go
+.. adsu:: 2
 
 Test program for the above code:
 
 .. show_github_file:: siongui userpages content/code/go-accept-language/parse_test.go
+.. adsu:: 3
 
 Makefile for automating the development:
 

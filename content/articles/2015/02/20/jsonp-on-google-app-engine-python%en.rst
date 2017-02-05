@@ -5,7 +5,7 @@ JSONP on Google App Engine Python
 :modified: 2015-02-20 21:49
 :tags: JavaScript, CORS, JSONP, Google App Engine, Python, JSON
 :category: JavaScript
-:summary: Cross-domain requests by JSONP on Google App Engine for Python.
+:summary: Cross-domain requests by JSONP_ on `Google App Engine for Python`_.
 :adsu: yes
 
 
@@ -24,10 +24,12 @@ The following is complete sample code.
 *index.html* (run on client side, i.e., browser):
 
 .. show_github_file:: siongui userpages content/code/jsonp-gae-python/index.html
+.. adsu:: 2
 
 *jsonp.js* (run on client side, i.e., browser):
 
 .. show_github_file:: siongui userpages content/code/jsonp-gae-python/jsonp.js
+.. adsu:: 3
 
 .. note::
 

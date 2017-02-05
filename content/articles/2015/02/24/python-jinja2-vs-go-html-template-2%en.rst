@@ -14,11 +14,12 @@ respectively.
 Python Jinja2_:
 
 .. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/jinja2-example-1.py
+.. adsu:: 2
 
 Go `html/template`_:
 
 .. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/html-template-example-1.go
-
+.. adsu:: 3
 
 Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``, ``Python 2.7.8``, ``Jinja2 2.7.3``
 
