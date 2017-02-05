@@ -11,7 +11,7 @@
 This post shows how to use channels_ to wait for all goroutines_ to finish.
 
 .. show_github_file:: siongui userpages content/code/go-wait-goroutine-finish/sync.go
-
+.. adsu:: 2
 
 Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``.
 

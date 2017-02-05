@@ -20,6 +20,8 @@ Access the *value* by **dataset** property:
 
   var value = querySelector("#myDiv").dataset["myDemoValue"];
 
+.. adsu:: 2
+
 ----
 
 References:

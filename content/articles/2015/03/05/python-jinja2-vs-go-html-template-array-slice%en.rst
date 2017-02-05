@@ -64,9 +64,12 @@ Golang html/template versus Python Jinja2 (3) - Arrays and Slices
            {'name': 'Facebook', 'href': 'https://www.facebook.com'}
          ]
 
+.. adsu:: 2
+
 Complete *Go html/template* source code:
 
 .. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/html-template-example-2.go
+.. adsu:: 3
 
 Complete *Python Jinja2* source code:
 

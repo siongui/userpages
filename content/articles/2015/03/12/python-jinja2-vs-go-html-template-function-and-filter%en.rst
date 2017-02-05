@@ -17,7 +17,8 @@ Jinja2 template (see [d]_). This post will compare custom functions in Go
 |
 |
 
-.. list-table:: Go html/template versue Python Jinja2 - Arrays and Slices Index
+.. list-table:: Go html/template versue Python Jinja2 -
+                Custom Functions and Filters
    :header-rows: 1
    :class: table-syntax-diff
 
@@ -99,12 +100,14 @@ Jinja2 template (see [d]_). This post will compare custom functions in Go
 
          sys.stdout.write(t.render(name="world"))
 
+.. adsu:: 2
 
 Complete *Go html/template* source code:
 
 *Custom Function* used in template:
 
 .. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/html-template-example-5.go
+.. adsu:: 3
 
 Complete *Python Jinja2* source code:
 

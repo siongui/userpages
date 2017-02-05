@@ -26,6 +26,8 @@ file in our scss file:
 
 Tested on: ``pyScss 1.3.4``
 
+.. adsu:: 2
+
 ----
 
 Reference:

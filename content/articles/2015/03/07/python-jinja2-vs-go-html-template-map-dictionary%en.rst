@@ -21,7 +21,9 @@ while loop through the variable of ``map`` type. (see [b]_)
 |
 |
 
-.. list-table:: Go html/template versue Python Jinja2 - Arrays and Slices Index
+.. adsu:: 2
+
+.. list-table:: Go html/template versue Python Jinja2 - Maps and Dictionaries
    :header-rows: 1
    :class: table-syntax-diff
 
@@ -77,6 +79,8 @@ while loop through the variable of ``map`` type. (see [b]_)
            'Google': 'https://www.google.com',
            'Facebook': 'https://www.facebook.com',
          }
+
+.. adsu:: 3
 
 Complete *Go html/template* source code:
 

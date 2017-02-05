@@ -17,7 +17,7 @@ Souce Code
 ++++++++++
 
 .. show_github_file:: siongui userpages content/code/go-ctrl+c/ctrl+c.go
-
+.. adsu:: 2
 
 
 Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``.

@@ -19,6 +19,7 @@ top navbar.
 Source Code for Demo (*HTML*):
 
 .. show_github_file:: siongui userpages content/code/responsive-navbar/layout.html
+.. adsu:: 2
 
 Source Code for Demo (*SCSS*):
 
@@ -26,7 +27,7 @@ It is not a good idea to write CSS by hand in this case, so SCSS_ syntax is used
 to make life easier.
 
 .. show_github_file:: siongui userpages content/code/responsive-navbar/style.scss
-
+.. adsu:: 3
 
 Tested on: ``Chromium Version 41.0.2272.76 Ubuntu 14.10 (64-bit)``, ``pyScss 1.3.4``
 

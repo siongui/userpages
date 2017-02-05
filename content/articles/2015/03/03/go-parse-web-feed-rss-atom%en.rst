@@ -15,6 +15,7 @@ Souce Code
 ++++++++++
 
 .. show_github_file:: siongui userpages content/code/go-xml/parseFeed.go
+.. adsu:: 2
 
 Main logic of the *parseFeedContent* function:
 
@@ -34,6 +35,8 @@ The `sample OPML xml`_ comes from my web feeds.
 Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``.
 
 ----
+
+.. adsu:: 3
 
 *[Golang] XML Parsing Example* series:
 

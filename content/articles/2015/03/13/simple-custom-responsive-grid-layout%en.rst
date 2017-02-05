@@ -21,6 +21,8 @@ top of right column.
 .. rubric:: `Demo <{filename}/code/simple-custom-responsive-grid/layout.html>`_
       :class: align-center
 
+.. adsu:: 2
+
 Source Code for Demo (*HTML*):
 
 .. show_github_file:: siongui userpages content/code/simple-custom-responsive-grid/layout.html
@@ -33,6 +35,8 @@ Source Code for Demo (*HTML*):
   .. code-block:: html
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+.. adsu:: 3
 
 .. note::
 

@@ -17,6 +17,7 @@ mod_wsgi_ and `Google App Engine Python`_.
 +++++++++++++++++++++++++++++++++
 
 .. show_github_file:: siongui userpages content/code/webpy-gae-apache/mainweb.py
+.. adsu:: 2
 
 .. note::
 
@@ -29,6 +30,7 @@ Sample GAE Python config
 ++++++++++++++++++++++++
 
 .. show_github_file:: siongui userpages content/code/webpy-gae-apache/app.yaml
+.. adsu:: 3
 
 Sample Apache config
 ++++++++++++++++++++

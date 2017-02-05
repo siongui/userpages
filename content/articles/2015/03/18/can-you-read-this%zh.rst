@@ -5,13 +5,15 @@
 :tags: 驚奇, 轉錄
 :category: 驚奇
 :summary: 你可以讀出這個嗎？
-:og_image: https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/1962841_10152325723958552_1937300786_n.jpg?oh=8a1150f8f53c3e831eb1548ff7ec389f&oe=55941CD6&__gda__=1435237899_5cf9bf3f4c4369a8ad6b6e432ab9b8e3
+:og_image: https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/1962841_10152325723958552_1937300786_n.jpg?oh=ec67551dcbf8cc5e85a752860bba03db&oe=594954D6
 :adsu: yes
 
 
-.. image:: https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/1962841_10152325723958552_1937300786_n.jpg?oh=8a1150f8f53c3e831eb1548ff7ec389f&oe=55941CD6&__gda__=1435237899_5cf9bf3f4c4369a8ad6b6e432ab9b8e3
+.. image:: https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/1962841_10152325723958552_1937300786_n.jpg?oh=ec67551dcbf8cc5e85a752860bba03db&oe=594954D6
     :align: center
     :alt: Can you read this?
+
+.. adsu:: 2
 
 ----
 

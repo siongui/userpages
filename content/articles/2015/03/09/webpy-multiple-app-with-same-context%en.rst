@@ -25,6 +25,8 @@ class. a *customApp* is declared:
 
 The *customApp* will be used for the mapping of applications.
 
+.. adsu:: 2
+
 Complete Source Code
 ++++++++++++++++++++
 
@@ -32,6 +34,7 @@ delegate requests app
 `````````````````````
 
 .. show_github_file:: siongui userpages content/code/webpy-multiple-application/delegate.py
+.. adsu:: 3
 
 .. note::
 

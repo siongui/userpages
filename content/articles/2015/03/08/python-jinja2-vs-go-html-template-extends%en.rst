@@ -4,8 +4,9 @@ Golang html/template versus Python Jinja2 (6) - Template Inheritance (Extends)
 :date: 2015-03-08 22:03
 :tags: Go, Golang, html, Jinja2, Python, Golang template
 :category: Go
-:summary: Comparison of Python Jinja2 and Go html/template, side by side for
-          easy reference - Mimic Jinja2 template inheritance in Go html/template
+:summary: Comparison of Python Jinja2_ and Go `html/template`_, side by side for
+          easy reference - Mimic `Jinja2 template inheritance`_ in Go
+          `html/template`_
 :adsu: yes
 
 
@@ -15,7 +16,8 @@ the template *extends* of Jinja2 in Go `html/template`_.
 |
 |
 
-.. list-table:: Go html/template versue Python Jinja2 - Arrays and Slices Index
+.. list-table:: Go `html/template`_ versue Python Jinja2 -
+                Template Inheritance (Extends_)
    :header-rows: 1
    :class: table-syntax-diff
 
@@ -74,6 +76,8 @@ the template *extends* of Jinja2 in Go `html/template`_.
          <div>hello {{ name }}</div>
          {% endblock %}
 
+.. adsu:: 2
+
 Complete *Go html/template* source code:
 
 .. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/extends/base-go.html
@@ -81,6 +85,7 @@ Complete *Go html/template* source code:
 .. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/extends/index-go.html
 
 .. show_github_file:: siongui userpages content/code/python-jinja2-vs-go-html-template/extends/extends.go
+.. adsu:: 3
 
 Complete *Python Jinja2* source code:
 
@@ -128,6 +133,7 @@ References:
        `Including html/template snippets: is there a better way? : golang <https://www.reddit.com/r/golang/comments/27ls5a/including_htmltemplate_snippets_is_there_a_better/>`_
 
 
-.. _html/template: http://golang.org/pkg/html/template/
-
+.. _html/template: https://golang.org/pkg/html/template/
+.. _Extends: http://jinja.pocoo.org/docs/latest/templates/#child-template
 .. _Jinja2: http://jinja.pocoo.org/docs/dev/
+.. _Jinja2 template inheritance: http://jinja.pocoo.org/docs/latest/templates/#template-inheritance

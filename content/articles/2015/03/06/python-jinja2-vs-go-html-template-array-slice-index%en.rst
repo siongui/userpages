@@ -22,6 +22,8 @@ access loop index, starting from **0**. (see [b]_)
 |
 |
 
+.. adsu:: 2
+
 .. list-table:: Go html/template versue Python Jinja2 - Arrays and Slices Index
    :header-rows: 1
    :class: table-syntax-diff
@@ -82,6 +84,8 @@ access loop index, starting from **0**. (see [b]_)
            {'name': 'Google', 'href': 'https://www.google.com'},
            {'name': 'Facebook', 'href': 'https://www.facebook.com'}
          ]
+
+.. adsu:: 3
 
 Complete *Go html/template* source code:
 
