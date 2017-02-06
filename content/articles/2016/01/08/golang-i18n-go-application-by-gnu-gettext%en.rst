@@ -46,6 +46,7 @@ So we have two PO files and two MO files:
   locale/vi_VN/LC_MESSAGES/messages.po
   locale/vi_VN/LC_MESSAGES/messages.mo
 
+.. adsu:: 3
 
 Source Code
 +++++++++++
@@ -60,7 +61,7 @@ us. Install `gettext-go`_ by:
 Now we can let Go_ application speak local language:
 
 .. show_github_file:: siongui userpages content/code/go-gettext/gettext.go
-.. adsu:: 3
+.. adsu:: 4
 
 .. note::
 
@@ -71,6 +72,7 @@ Now we can let Go_ application speak local language:
   detail, see `issue #1`_ of `gettext-go`_ on GitHub.
 
 .. show_github_file:: siongui userpages content/code/go-gettext/gettext_test.go
+.. adsu:: 5
 
 .. note::
 
@@ -123,7 +125,7 @@ References:
 .. [5] `Go语言的国际化支持(基于gettext-go) - CHAI2010 <http://chai2010.github.io/blog/2014/01/07/gettext-go-intro/>`_
 
 .. [6] `localization - I18n strategies for Go with App Engine - Stack Overflow <http://stackoverflow.com/questions/14124630/i18n-strategies-for-go-with-app-engine>`_
-
+.. adsu:: 6
 .. [7] `samuel/go-gettext · GitHub <https://github.com/samuel/go-gettext>`_
        |godoc2-png|
 

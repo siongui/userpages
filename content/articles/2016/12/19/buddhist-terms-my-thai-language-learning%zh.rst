@@ -2,7 +2,7 @@
 ###########################
 
 :date: 2016-12-19T08:59+08:00
-:modified: 2017-02-03T01:28+08:00
+:modified: 2017-02-07T05:06+08:00
 :tags: 泰國, 泰語
 :category: 泰語學習
 :summary: 泰語學習紀錄
@@ -29,10 +29,20 @@
      - `隆波`_ (意思接近師父)
      - `Luang Por`_
 
+   * - `หลวงพ่อเลี่ยม`_
+     -
+     - 隆波連(巴蓬寺住持)
+     - Luang Por Liem (abbot of Wat Nong Pah Pong)
+
    * - `หลวงพ่อบุญชู`_
      -
      - 隆波Boonchu
      - Luang Por Boonchu
+
+   * - พระอาจารย์เกวลี (เจ้าอาวาสวัดป่านานาชาติ)
+     -
+     -
+     - Ajahn Kevalī (abbot of Wat Pah Nanachat)
 
    * - วัด
      -
@@ -161,6 +171,51 @@
      - 拜佛
      -
 
+   * - ฟังธรรม
+     -
+     - 聽法
+     - listen to Dhamma
+
+   * - สัมมาทิฐิ
+     -
+     - 正見
+     - right view
+
+   * - ครูบาอาจารย์
+     -
+     - 大師
+     - master teacher
+
+   * - เดินจงกรม
+     -
+     - 經行
+     - walking meditation
+
+   * - ภาวนา
+     -
+     - 修習(Bhāvanā)
+     - bhavana_
+
+   * - ทำวัตรเย็น
+     -
+     - 晚課
+     - evening chanting
+
+   * - โอวาท
+     -
+     - 教誡(ovāda)
+     - sermon
+
+   * - พระพุทธศาสนา
+     -
+     - 佛教
+     - Buddhism
+
+   * - เจ้าอาวาส
+     -
+     - 住持
+     - abbot
+
 .. adsu:: 2
 
 
@@ -169,8 +224,10 @@
 .. _Ajahn Chah: https://en.wikipedia.org/wiki/Ajahn_Chah
 .. _隆波: https://zh.wikipedia.org/wiki/%E9%9A%86%E6%B3%A2
 .. _Luang Por: https://en.wikipedia.org/wiki/Luang_Por
+.. _หลวงพ่อเลี่ยม: https://www.google.com/search?q=%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1
 .. _หลวงพ่อบุญชู: https://www.google.com/search?q=%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%8A%E0%B8%B9
 .. _前世: https://www.google.com/search?q=%E5%89%8D%E4%B8%96+%E6%B3%B0%E8%AA%9E
 .. _บารมี: https://th.wikipedia.org/wiki/%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%B5
 .. _ธุดงค์: https://th.wikipedia.org/wiki/%E0%B8%98%E0%B8%B8%E0%B8%94%E0%B8%87%E0%B8%84%E0%B9%8C
 .. _Maechi: https://en.wikipedia.org/wiki/Maechi
+.. _bhavana: https://en.wikipedia.org/wiki/Bhavana
