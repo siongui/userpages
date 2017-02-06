@@ -89,6 +89,7 @@ I write a simple demo to show how to monitor the `change event`_ of
    :class: align-center
 .. `Demo on CodePen <http://codepen.io/anon/pen/OWZVRX>`__
 .. show_github_file:: siongui userpages content/code/vuejs/input-change-event/index.html
+.. adsu:: 4
 .. show_github_file:: siongui userpages content/code/vuejs/input-change-event/app.js
 
 ----
@@ -115,7 +116,7 @@ References:
        `vuejs input change event - Yandex search <https://www.yandex.com/search/?text=vuejs+input+change+event>`_
 
 .. [2] `javascript - Vuejs event on change of element value? - Stack Overflow <http://stackoverflow.com/questions/34723680/vuejs-event-on-change-of-element-value>`_
-
+.. adsu:: 5
 .. [3] `vuejs v-on change - Google search <https://www.google.com/search?q=vuejs+v-on+change>`_
 
        `vuejs v-on change - DuckDuckGo search <https://duckduckgo.com/?q=vuejs+v-on+change>`_

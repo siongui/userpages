@@ -28,12 +28,14 @@ The following are key aspects in the code:
 - `v-bind:style`_, `v-show`_, and `computed properties`_ are used to provide
   style and visibility of ``div.suggest`` element.
 
+.. adsu:: 2
+
 **Source code**:
 
 .. show_github_file:: siongui userpages content/code/vuejs/input-suggest/index.html
-.. adsu:: 2
-.. show_github_file:: siongui userpages content/code/vuejs/input-suggest/app.js
 .. adsu:: 3
+.. show_github_file:: siongui userpages content/code/vuejs/input-suggest/app.js
+.. adsu:: 4
 .. show_github_file:: siongui userpages content/code/vuejs/input-suggest/style.css
 
 | For AngularJS_ version, see [5]_.
@@ -51,7 +53,7 @@ References:
 
 .. [1] `GitHub - siongui/gopherjs-input-suggest: input suggest menu via GopherJS <https://github.com/siongui/gopherjs-input-suggest>`_
        (`Demo <https://siongui.github.io/gopherjs-input-suggest/>`__)
-
+.. adsu:: 5
 .. [2] `vuejs autofocus - Google search <https://www.google.com/search?q=vuejs+autofocus>`_
 
        `vuejs autofocus - DuckDuckGo search <https://duckduckgo.com/?q=vuejs+autofocus>`_

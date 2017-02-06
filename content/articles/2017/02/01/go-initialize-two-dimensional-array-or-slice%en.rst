@@ -6,6 +6,7 @@
 :category: Go
 :summary: Initialize 2-dimensional array_/slice_
           in Go_ programming language.
+:og_image: http://www.unixstickers.com/image/cache/data/stickers/golang/Go-brown-side.sh-600x600.png
 :adsu: yes
 
 Initialization of 2-dimensional array_/slice_ in Golang_. [1]_

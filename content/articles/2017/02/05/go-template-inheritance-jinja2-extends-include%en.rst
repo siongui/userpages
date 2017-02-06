@@ -7,6 +7,7 @@ Golang Template Inheritance (Python Jinja2 extends & include)
 :summary: Template inheritance via Go `html/template`_ package. Show how one
           tempalate extends_ from another, and also include_ templates, just as
           how we do by Python_ Jinja2_.
+:og_image: http://www.unixstickers.com/image/cache/data/stickers/golang/Go-brown-side.sh-600x600.png
 :adsu: yes
 
 .. contents::
@@ -76,6 +77,8 @@ The effect of `template action`_ in the first line is the same as the Jinja2
 `extends`_ tag, and from line 2 to last line, the *content* block is defined and
 override the declaration in the base template.
 
+.. adsu:: 3
+
 
 Template Rendering
 ++++++++++++++++++
@@ -84,7 +87,7 @@ The following *ParseTemplateDir* function reads all the above 4 templates under
 ``tmpl`` directory:
 
 .. show_github_file:: siongui userpages content/code/go/template-inheritance/template.go
-.. adsu:: 3
+.. adsu:: 4
 
 Define the template data and render ``index.html`` template to generate final
 HTML output:
@@ -136,6 +139,8 @@ Tested on:
 - ``Go 1.7.5``
 
 ----
+
+.. adsu:: 5
 
 References:
 

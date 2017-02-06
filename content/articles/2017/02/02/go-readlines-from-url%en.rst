@@ -5,6 +5,7 @@
 :tags: Go, Golang, String Manipulation, Read Lines
 :category: Go
 :summary: `Read lines`_ from web URL_ via Go_ programming language.
+:og_image: http://www.unixstickers.com/image/cache/data/stickers/golang/Go-brown-side.sh-600x600.png
 :adsu: yes
 
 
@@ -15,10 +16,11 @@ readlines_ from URL_
 ++++++++++++++++++++
 
 .. show_github_file:: siongui userpages content/code/go/readlines-from/url.go
-.. adsu:: 2
 
 Note that *LinesFromReader* func_ accepts argument of io.Reader_, which is an
 interface_. Later this function will be re-used to read lines from file/string.
+
+.. adsu:: 2
 
 **Usage of UrlToLines**:
 
@@ -48,6 +50,7 @@ Use the following code with the *LinesFromReader* func_ in the previous section,
 we can read a string line by line:
 
 .. show_github_file:: siongui userpages content/code/go/readlines-from/string.go
+.. adsu:: 4
 
 **Usage of StringToLines**:
 
@@ -61,6 +64,8 @@ Tested on:
 - ``Go 1.7.5``
 
 ----
+
+.. adsu:: 5
 
 References:
 

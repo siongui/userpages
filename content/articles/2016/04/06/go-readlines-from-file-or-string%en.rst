@@ -5,6 +5,7 @@
 :tags: Go, Golang, String Manipulation, File Input/Output, Read Lines
 :category: Go
 :summary: Readlines_ from string or file in Go_ programming language.
+:og_image: http://www.unixstickers.com/image/cache/data/stickers/golang/Go-brown-side.sh-600x600.png
 :adsu: yes
 
 .. contents:: `Read lines`_ from string or file in Golang_.
@@ -38,6 +39,8 @@ Readlines From String
   	return lines
   }
 
+See [6]_ for more reusable code for read lines from string.
+
 .. adsu:: 2
 
 Readlines From File
@@ -70,6 +73,8 @@ Readlines From File
   	return lines
   }
 
+See [6]_ for more reusable code for read lines from file.
+
 .. adsu:: 3
 
 ----
@@ -95,6 +100,8 @@ References:
 .. [4] `fmt - The Go Programming Language <https://golang.org/pkg/fmt/>`_
 
 .. [5] `strings - The Go Programming Language <https://golang.org/pkg/strings/>`_
+
+.. [6] `[Golang] Read Lines From URL <{filename}../../../2017/02/02/go-readlines-from-url%en.rst>`_
 
 
 .. _Go: https://golang.org/

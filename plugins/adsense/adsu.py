@@ -53,6 +53,32 @@ ad3rd = """
 </script>
 """
 
+ad4th = """
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 4th ad (extra) - siongui.github.io -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0436733829999264"
+     data-ad-slot="2320208406"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+"""
+
+ad5th = """
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 5th ad (extra) - siongui.github.io -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0436733829999264"
+     data-ad-slot="5273674806"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+"""
+
 class embed_adsense_code(Directive):
   required_arguments = 1
   has_content = False
@@ -66,6 +92,10 @@ class embed_adsense_code(Directive):
       html = ad2nd
     if sel == "3":
       html = ad3rd
+    if sel == "4":
+      html = ad4th
+    if sel == "5":
+      html = ad5th
 
     return [nodes.raw('', html, format='html')]
 
