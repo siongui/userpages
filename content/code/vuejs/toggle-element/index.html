@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Vue.js Toggle (Show/Hide) DOM Element Demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    .control:hover {cursor: pointer;}
+    .content {width: 200px; height: 200px; background: yellow;}
+  </style>
+</head>
+<body>
+
+<div id="app">
+  <div v-on:click="isShow = !isShow" class="control">
+    click me to toggle (show/hide) HTML element
+  </div>
+  <div v-show="isShow"  class="content">contents</div>
+</div>
+
+<script src="https://unpkg.com/vue@2.1.10/dist/vue.js"></script>
+<script>
+  new Vue({
+    el: '#app',
+    data: {
+      isShow: false
+    }
+  })
+</script>
+</body>
+</html>
