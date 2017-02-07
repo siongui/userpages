@@ -2,8 +2,8 @@ Go語言 列舉 型態
 ################
 
 :date: 2016-04-10T22:27+08:00
-:tags: Web開發
-:category: Web開發
+:tags: Web開發, Go語言
+:category: Go語言
 :summary: Go_ 語言 `列舉`_ 型態 寫法
 :adsu: yes
 
@@ -35,6 +35,7 @@ Go_ 語言 `列舉`_ 型態 寫法
   const x = iota  // x == 0  (iota has been reset)
   const y = iota  // y == 0  (iota has been reset)
 
+.. adsu:: 2
 
 ----
 
