@@ -1,0 +1,3 @@
+.control:hover {cursor: pointer;}
+.content {width: 200px; height: 200px; background: yellow;}
+.invisible {display: none;}
