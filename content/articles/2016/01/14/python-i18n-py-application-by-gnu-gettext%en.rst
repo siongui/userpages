@@ -29,10 +29,12 @@ file are located at ``locale/vi_VN/LC_MESSAGES/messages.po``.
 zh_TW PO file ``locale/zh_TW/LC_MESSAGES/messages.po``:
 
 .. show_github_file:: siongui userpages content/code/python-i18n-gettext/locale/zh_TW/LC_MESSAGES/messages.po
+.. adsu:: 2
 
 vi_VN PO file ``locale/vi_VN/LC_MESSAGES/messages.po``:
 
 .. show_github_file:: siongui userpages content/code/python-i18n-gettext/locale/vi_VN/LC_MESSAGES/messages.po
+.. adsu:: 3
 
 Generate corresponding MO files by msgfmt_. Put MO files together with PO files.
 So we have two PO files and two MO files:
@@ -52,10 +54,12 @@ Now we can let Python_ application speak local language. The
 application-independent code is put in the following module:
 
 .. show_github_file:: siongui userpages content/code/python-i18n-gettext/i18n.py
+.. adsu:: 4
 
 Use above module to get translated texts:
 
 .. show_github_file:: siongui userpages content/code/python-i18n-gettext/demo.py
+.. adsu:: 5
 
 .. note::
 
@@ -100,7 +104,7 @@ References:
 .. [3] `Extensions — Jinja2 Documentation <http://jinja.pocoo.org/docs/extensions/#i18n-extension>`_
 
 .. [4] `i18n support in template file (web.py) <http://webpy.org/cookbook/i18n_support_in_template_file>`_
-
+.. adsu:: 6
 .. [5] `Run-time language switch (web.py) <http://webpy.org/cookbook/runtime-language-switch>`_
 
 .. [6] `i18n.py - webapp-improved - Google App Engine's webapp, take two - Google Project Hosting <https://code.google.com/p/webapp-improved/source/browse/webapp2_extras/i18n.py>`_

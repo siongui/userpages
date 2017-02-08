@@ -54,6 +54,8 @@ Tested on: ``Ubuntu Linux 15.10``, ``Go 1.5.3``.
 
 ----
 
+.. adsu:: 3
+
 References:
 
 .. [1] `Internationalization (i18n) of Web Application by GNU gettext Tools <{filename}../07/i18n-web-application-by-gnu-gettext-tools%en.rst>`_

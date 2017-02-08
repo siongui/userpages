@@ -24,15 +24,17 @@ familiar with `DOM manipulation`_ in Go_ programming language.
 Source Code for Demo (*HTML*):
 
 .. show_github_file:: siongui go-online-snake-game src/index.html
+.. adsu:: 2
 
 Source Code for Demo (*CSS*):
 
 .. show_github_file:: siongui go-online-snake-game src/style.css
+.. adsu:: 3
 
 Source Code for Demo (*Go*):
 
 .. show_github_file:: siongui go-online-snake-game src/snake.go
-
+.. adsu:: 4
 
 ----
 
@@ -68,6 +70,8 @@ GopherJS_ DOM_ Example series
 - `[Golang] Draggable (Movable) Element by GopherJS <{filename}../17/go-draggable-movable-element-by-gopherjs%en.rst>`_
 
 - `[Golang] Toggle (Show/Hide) HTML Element by GopherJS <{filename}../18/go-toggle-show-hide-element-by-gopherjs%en.rst>`_
+
+.. adsu:: 5
 
 ----
 

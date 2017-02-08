@@ -37,11 +37,13 @@ Source Code
 First we write a simple HTML for our demo:
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/keyevent/index.html
+.. adsu:: 2
 
 We attach an onkeydown_ event handler to the window_ object. When users press any key,
 the keycode_ of the `keyboard event`_ is printed out.
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/keyevent/keycode.go
+.. adsu:: 3
 
 The above code is very similar to JavaScript counterpart. Note that *dom.Event*
 is casted to *dom.KeyboardEvent* by `type assertions`_. Now compile the Go_ code
@@ -92,6 +94,8 @@ GopherJS_ DOM_ Example series
 - `[Golang] Draggable (Movable) Element by GopherJS <{filename}../17/go-draggable-movable-element-by-gopherjs%en.rst>`_
 
 - `[Golang] Toggle (Show/Hide) HTML Element by GopherJS <{filename}../18/go-toggle-show-hide-element-by-gopherjs%en.rst>`_
+
+.. adsu:: 4
 
 ----
 

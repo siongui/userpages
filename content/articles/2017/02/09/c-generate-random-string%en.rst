@@ -12,6 +12,7 @@
    :class: align-center
 
 .. show_github_file:: siongui userpages content/code/c/random-string/ranstr.c
+.. adsu:: 2
 
 ----
 
@@ -52,6 +53,7 @@ References:
        | `c string dynamic size - Yahoo search <https://search.yahoo.com/search?p=c+string+dynamic+size>`_
        | `c string dynamic size - Baidu search <https://www.baidu.com/s?wd=c+string+dynamic+size>`_
        | `c string dynamic size - Yandex search <https://www.yandex.com/search/?text=c+string+dynamic+size>`_
+.. adsu:: 3
 .. [5] | `online format c code - Google search <https://www.google.com/search?q=online+format+c+code>`_
        | `online format c code - DuckDuckGo search <https://duckduckgo.com/?q=online+format+c+code>`_
        | `online format c code - Ecosia search <https://www.ecosia.org/search?q=online+format+c+code>`_

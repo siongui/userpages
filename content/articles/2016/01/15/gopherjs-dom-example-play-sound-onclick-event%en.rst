@@ -36,6 +36,7 @@ Source Code
 First we write a simple HTML for our demo:
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/play/index.html
+.. adsu:: 2
 
 We will bind a onclick_ event handler to the *button* element whose *id* is
 *foo*. When users click the button, the *play()* method of HTML audio_ element
@@ -43,6 +44,7 @@ will be called to play the sound of the mp3 file, which is
 ``Wat_Metta_Buddha_Qualities.mp3`` in this example.
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/play/play.go
+.. adsu:: 3
 
 Compile the Go_ code to JavaScript_ by:
 
@@ -88,6 +90,8 @@ GopherJS_ DOM_ Example series
 - `[Golang] Draggable (Movable) Element by GopherJS <{filename}../17/go-draggable-movable-element-by-gopherjs%en.rst>`_
 
 - `[Golang] Toggle (Show/Hide) HTML Element by GopherJS <{filename}../18/go-toggle-show-hide-element-by-gopherjs%en.rst>`_
+
+.. adsu:: 4
 
 ----
 

@@ -37,12 +37,14 @@ Source Code
 First we write a simple HTML for our demo:
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/hide/index.html
+.. adsu:: 2
 
 We will bind a onclick_ event handler to the *div* element whose *id* is *foo*.
 When users click the *div* element, the display_ property of the *div* element
 is set to *none*, which hides the *div* element.
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/hide/hide.go
+.. adsu:: 3
 
 Note that to call *Style()*, we must `assert the type`_ of *foo* to
 *HTMLDivElement*.
@@ -89,6 +91,8 @@ GopherJS_ DOM_ Example series
 - `[Golang] Draggable (Movable) Element by GopherJS <{filename}../17/go-draggable-movable-element-by-gopherjs%en.rst>`_
 
 - `[Golang] Toggle (Show/Hide) HTML Element by GopherJS <{filename}../18/go-toggle-show-hide-element-by-gopherjs%en.rst>`_
+
+.. adsu:: 4
 
 ----
 

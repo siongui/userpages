@@ -37,8 +37,9 @@ Source Code
 First we write a simple HTML and CSS for our demo:
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/dropdown-menu/index.html
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/dropdown-menu/style.css
+.. adsu:: 3
 
 We will bind a onclick_ event handler to the HTML DOM document_ object.
 When users click inside the browser, we will check which DOM element is clicked.
@@ -46,6 +47,7 @@ According to the clicked element and visibility of the dropdown menu, the
 dropdown menu will show up or disappear.
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/dropdown-menu/dropdown.go
+.. adsu:: 4
 
 Compile the Go_ code to JavaScript_ by:
 
@@ -92,6 +94,8 @@ GopherJS_ DOM_ Example series
 - `[Golang] Draggable (Movable) Element by GopherJS <{filename}../17/go-draggable-movable-element-by-gopherjs%en.rst>`_
 
 - `[Golang] Toggle (Show/Hide) HTML Element by GopherJS <{filename}../18/go-toggle-show-hide-element-by-gopherjs%en.rst>`_
+
+.. adsu:: 5
 
 ----
 

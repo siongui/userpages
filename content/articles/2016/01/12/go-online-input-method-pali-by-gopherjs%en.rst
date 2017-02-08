@@ -65,13 +65,17 @@ See `GopherJS DOM Example series`_ for more details.
 |  .l  |  ḷ  |
 +------+-----+
 
+.. adsu:: 2
+
 Source Code for Demo (*HTML*):
 
 .. show_github_file:: siongui go-online-input-method-pali src/index.html
+.. adsu:: 3
 
 Source Code for Demo (*Go*):
 
 .. show_github_file:: siongui go-online-input-method-pali src/pali.go
+.. adsu:: 4
 
 ----
 
@@ -107,6 +111,8 @@ GopherJS_ DOM_ Example series
 - `[Golang] Draggable (Movable) Element by GopherJS <{filename}../17/go-draggable-movable-element-by-gopherjs%en.rst>`_
 
 - `[Golang] Toggle (Show/Hide) HTML Element by GopherJS <{filename}../18/go-toggle-show-hide-element-by-gopherjs%en.rst>`_
+
+.. adsu:: 5
 
 ----
 

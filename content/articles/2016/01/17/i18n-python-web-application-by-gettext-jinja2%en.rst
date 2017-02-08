@@ -31,10 +31,12 @@ file are located at ``locale/vi_VN/LC_MESSAGES/messages.po``.
 zh_TW PO file ``locale/zh_TW/LC_MESSAGES/messages.po``:
 
 .. show_github_file:: siongui userpages content/code/python-i18n-gettext/locale/zh_TW/LC_MESSAGES/messages.po
+.. adsu:: 2
 
 vi_VN PO file ``locale/vi_VN/LC_MESSAGES/messages.po``:
 
 .. show_github_file:: siongui userpages content/code/python-i18n-gettext/locale/vi_VN/LC_MESSAGES/messages.po
+.. adsu:: 3
 
 Generate corresponding MO files by msgfmt_. Put MO files together with PO files.
 So we have two PO files and two MO files:
@@ -54,14 +56,17 @@ Now we can let Python_ (web) application speak local language. The
 application-independent code is put in the following module:
 
 .. show_github_file:: siongui userpages content/code/python-i18n-gettext/i18n.py
+.. adsu:: 4
 
 The HTML to be rendered is saved as ``view/demo.html``:
 
 .. show_github_file:: siongui userpages content/code/python-i18n-gettext/view/demo.html
+.. adsu:: 5
 
 Use above module and template file to render HTML with translated texts:
 
 .. show_github_file:: siongui userpages content/code/python-i18n-gettext/jj2.py
+.. adsu:: 6
 
 .. note::
 

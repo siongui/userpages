@@ -34,12 +34,14 @@ Source Code
 First we write a simple HTML for our demo:
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/event/index.html
+.. adsu:: 2
 
 We will attach an `onclick event`_ handler to the *div* element whose *id* is
 *foo*. When users click the *div* element, the content of the *div* element will
 be changed, and print a message on the browser console.
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/event/bind.go
+.. adsu:: 3
 
 As the above code show, the event registration is almost the same as JavaScript
 counterpart. The *println* will print messages on browser console, which is the
@@ -93,6 +95,8 @@ GopherJS_ DOM_ Example series
 - `[Golang] Draggable (Movable) Element by GopherJS <{filename}../17/go-draggable-movable-element-by-gopherjs%en.rst>`_
 
 - `[Golang] Toggle (Show/Hide) HTML Element by GopherJS <{filename}../18/go-toggle-show-hide-element-by-gopherjs%en.rst>`_
+
+.. adsu:: 4
 
 ----
 

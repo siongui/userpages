@@ -38,12 +38,14 @@ First we write a simple HTML for our demo (CSS are put in the HTML file for
 demo, you should put CSS in a separate file in production):
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/toggle-element/index.html
+.. adsu:: 2
 
 We bind onclick_ event handler to the *div* element whose *id* is *foo*. If
 users click the element, *Toggle()* method of *Class()* are called to toggle the
 CSS classes to make elements visible or invisible.
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/toggle-element/toggle.go
+.. adsu:: 3
 
 Compile the Go_ code to JavaScript_ by:
 
@@ -89,6 +91,8 @@ GopherJS_ DOM_ Example series
 - `[Golang] GopherJS DOM Example - Dropdown Menu <{filename}../16/gopherjs-dom-example-dropdown-menu%en.rst>`_
 
 - `[Golang] Draggable (Movable) Element by GopherJS <{filename}../17/go-draggable-movable-element-by-gopherjs%en.rst>`_
+
+.. adsu:: 4
 
 ----
 

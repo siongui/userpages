@@ -31,10 +31,12 @@ file are located at ``locale/vi_VN/LC_MESSAGES/messages.po``.
 zh_TW PO file ``locale/zh_TW/LC_MESSAGES/messages.po``:
 
 .. show_github_file:: siongui userpages content/code/go-gettext/locale/zh_TW/LC_MESSAGES/messages.po
+.. adsu:: 2
 
 vi_VN PO file ``locale/vi_VN/LC_MESSAGES/messages.po``:
 
 .. show_github_file:: siongui userpages content/code/go-gettext/locale/vi_VN/LC_MESSAGES/messages.po
+.. adsu:: 3
 
 Generate corresponding MO files by msgfmt_. Put MO files together with PO files.
 So we have two PO files and two MO files:
@@ -46,8 +48,6 @@ So we have two PO files and two MO files:
   locale/vi_VN/LC_MESSAGES/messages.po
   locale/vi_VN/LC_MESSAGES/messages.mo
 
-
-.. adsu:: 2
 
 Source Code
 +++++++++++
@@ -62,7 +62,7 @@ us. Install `gettext-go`_ by:
 Now we can let Go_ application speak local language:
 
 .. show_github_file:: siongui userpages content/code/go-gettext/html.go
-.. adsu:: 3
+.. adsu:: 4
 
 Note that xgettext_ cannot extract translatable strings directly from
 ``{{gettext "Home"}}``. We can use the method similar to [4]_ by using sed_ to
@@ -96,9 +96,10 @@ Tested on: ``Ubuntu Linux 15.10``, ``Go 1.5.3``.
 
 ----
 
+.. adsu:: 5
+
 References:
 
-.. adsu:: 4
 .. [1] `Internationalization (i18n) of Web Application by GNU gettext Tools <{filename}../07/i18n-web-application-by-gnu-gettext-tools%en.rst>`_
 
 .. [2] `[Golang] Internationalization (i18n) of Go Application by GNU gettext Tools <{filename}../08/golang-i18n-go-application-by-gnu-gettext%en.rst>`_

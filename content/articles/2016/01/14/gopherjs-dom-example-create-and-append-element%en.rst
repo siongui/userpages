@@ -37,12 +37,14 @@ Source Code
 First we write a simple HTML for our demo:
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/create/index.html
+.. adsu:: 2
 
 We will bind a onclick_ event handler to the *div* element whose *id* is *foo*.
 When users click the *div* element, A new **div** element will be created and
 appended to the *foo div* element.
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/create/append.go
+.. adsu:: 3
 
 Compile the Go_ code to JavaScript_ by:
 
@@ -87,6 +89,8 @@ GopherJS_ DOM_ Example series
 - `[Golang] Draggable (Movable) Element by GopherJS <{filename}../17/go-draggable-movable-element-by-gopherjs%en.rst>`_
 
 - `[Golang] Toggle (Show/Hide) HTML Element by GopherJS <{filename}../18/go-toggle-show-hide-element-by-gopherjs%en.rst>`_
+
+.. adsu:: 4
 
 ----
 

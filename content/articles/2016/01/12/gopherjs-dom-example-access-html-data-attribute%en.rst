@@ -52,13 +52,17 @@ Access the value by *Dataset()* function, which returns *map[string]string*:
 Note that **data-my-demo-value** becomes **myDemoValue** when accessed.
 Full example is as follows:
 
+.. adsu:: 2
+
 *HTML*:
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/data/index.html
+.. adsu:: 3
 
 *Go*:
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/data/data.go
+.. adsu:: 4
 
 Compile the Go_ code to JavaScript_ by:
 
@@ -104,6 +108,8 @@ GopherJS_ DOM_ Example series
 - `[Golang] Draggable (Movable) Element by GopherJS <{filename}../17/go-draggable-movable-element-by-gopherjs%en.rst>`_
 
 - `[Golang] Toggle (Show/Hide) HTML Element by GopherJS <{filename}../18/go-toggle-show-hide-element-by-gopherjs%en.rst>`_
+
+.. adsu:: 5
 
 ----
 

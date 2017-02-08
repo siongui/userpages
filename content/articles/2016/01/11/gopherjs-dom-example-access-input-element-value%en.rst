@@ -36,6 +36,7 @@ Source Code
 First we write a simple HTML for our demo:
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/input/index.html
+.. adsu:: 2
 
 We will attach an `onkeyup event`_ handler to the *input* element whose *id* is
 *foo*. When users type something in the *input* element, the content of the
@@ -43,6 +44,7 @@ We will attach an `onkeyup event`_ handler to the *input* element whose *id* is
 be printed out below.
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/input/input.go
+.. adsu:: 3
 
 The code is almost translated directly from JavaScript. If you are familiar with
 DOM manipulation in JavaScript, the code looks very similar. Now compile the Go_
@@ -90,6 +92,8 @@ GopherJS_ DOM_ Example series
 - `[Golang] Draggable (Movable) Element by GopherJS <{filename}../17/go-draggable-movable-element-by-gopherjs%en.rst>`_
 
 - `[Golang] Toggle (Show/Hide) HTML Element by GopherJS <{filename}../18/go-toggle-show-hide-element-by-gopherjs%en.rst>`_
+
+.. adsu:: 4
 
 ----
 
