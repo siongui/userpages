@@ -9,7 +9,7 @@
 :adsu: yes
 
 
-Learn to toggle (Show Hide) HTML_ `DOM element`_ is my favorite exercise for
+Learn to toggle (Show/Hide) HTML_ `DOM element`_ is my favorite exercise for
 using a new JavaScript_ framework/library or compile-to-JavaScript languages
 such as GopherJS_.
 

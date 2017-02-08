@@ -62,6 +62,7 @@ us. Install `gettext-go`_ by:
 Now we can let Go_ application speak local language:
 
 .. show_github_file:: siongui userpages content/code/go-gettext/html.go
+.. adsu:: 3
 
 Note that xgettext_ cannot extract translatable strings directly from
 ``{{gettext "Home"}}``. We can use the method similar to [4]_ by using sed_ to
@@ -72,8 +73,6 @@ translatable strings (read [7]_ for further details):
 
   sed "s/{{gettext \(".*"\)}}/{{gettext(\1)}}/g" html.go | xgettext --no-wrap --language=c --from-code=UTF-8 --output=locale/messages.pot -
 
-
-.. adsu:: 3
 
 Output of Above Code
 ++++++++++++++++++++
@@ -99,6 +98,7 @@ Tested on: ``Ubuntu Linux 15.10``, ``Go 1.5.3``.
 
 References:
 
+.. adsu:: 4
 .. [1] `Internationalization (i18n) of Web Application by GNU gettext Tools <{filename}../07/i18n-web-application-by-gnu-gettext-tools%en.rst>`_
 
 .. [2] `[Golang] Internationalization (i18n) of Go Application by GNU gettext Tools <{filename}../08/golang-i18n-go-application-by-gnu-gettext%en.rst>`_

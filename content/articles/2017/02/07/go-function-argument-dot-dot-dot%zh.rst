@@ -2,6 +2,7 @@ Go語言 函數參數點點點(...)意義
 ##############################
 
 :date: 2017-02-07T10:25+08:00
+:modified: 2017-02-08T08:32+08:00
 :tags: Web開發, Go語言
 :category: Go語言
 :summary: `Go語言`_ 函數參數(`function argument`_) 點點點(...)意義
@@ -27,6 +28,8 @@ Go語言 函數參數點點點(...)意義
 
 以上呼叫函數的方式皆可，再多傳幾個 *string* 型態的參數都可以。
 在Go語言標準函式庫裡，最有名的例子是 `fmt.Printf`_ ，相信大家都有用過。
+
+`在Go Playground上執行範例 <https://play.golang.org/p/Qk2A6LbZfQ>`_
 
 .. adsu:: 2
 
@@ -64,8 +67,14 @@ References:
        | `golang arguments dot - Yahoo search <https://search.yahoo.com/search?p=golang+arguments+dot>`_
        | `golang arguments dot - Baidu search <https://www.baidu.com/s?wd=golang+arguments+dot>`_
        | `golang arguments dot - Yandex search <https://www.yandex.com/search/?text=golang+arguments+dot>`_
-
 .. [2] `go - dot dot dot in Golang. interface with empty braces - Stack Overflow <http://stackoverflow.com/a/23669857>`_
+.. [3] | `variadic golang - Google search <https://www.google.com/search?q=variadic+golang>`_
+       | `variadic golang - DuckDuckGo search <https://duckduckgo.com/?q=variadic+golang>`_
+       | `variadic golang - Ecosia search <https://www.ecosia.org/search?q=variadic+golang>`_
+       | `variadic golang - Bing search <https://www.bing.com/search?q=variadic+golang>`_
+       | `variadic golang - Yahoo search <https://search.yahoo.com/search?p=variadic+golang>`_
+       | `variadic golang - Baidu search <https://www.baidu.com/s?wd=variadic+golang>`_
+       | `variadic golang - Yandex search <https://www.yandex.com/search/?text=variadic+golang>`_
 
 .. _Go: https://golang.org/
 .. _Go語言: https://golang.org/
