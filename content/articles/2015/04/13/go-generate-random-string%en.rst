@@ -36,13 +36,13 @@ Souce Code
 
 `Run code on Go Playground <https://play.golang.org/p/cIG85Za6LI>`_
 
-.. show_github_file:: siongui userpages content/code/go-random-string/a-z0-9.go
+.. show_github_file:: siongui userpages content/code/go/random-string/a-z0-9.go
 .. adsu:: 3
 
 Test
 ++++
 
-.. show_github_file:: siongui userpages content/code/go-random-string/a-z0-9_test.go
+.. show_github_file:: siongui userpages content/code/go/random-string/a-z0-9_test.go
 
 
 Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``.
