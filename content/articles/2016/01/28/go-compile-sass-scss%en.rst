@@ -15,6 +15,7 @@ files to CSS via libsass_ and `Go wrapper for libsass`_.
 Download Makefile_ for demo (remember to modify GOROOT and GOPATH in Makefile):
 
 .. show_github_file:: siongui userpages content/code/go-sass/Makefile
+.. adsu:: 2
 
 Install `go-libsass`_ (You do not need to install libsass_):
 
@@ -30,12 +31,11 @@ Download demo SCSS_ files:
   # cd to the directory where you put Makefile
   $ make download
 
-.. adsu:: 2
-
 Now we write a Go_ program to compile SCSS files to CSS (Put this Go file in the
 same directory as Makefile):
 
 .. show_github_file:: siongui userpages content/code/go-sass/testsass.go
+.. adsu:: 3
 
 Run the Go_ program:
 

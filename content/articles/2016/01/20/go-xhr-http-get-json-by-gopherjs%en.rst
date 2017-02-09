@@ -45,6 +45,8 @@ First we write a simple HTML for our demo: (*index.html*)
   </body>
   </html>
 
+.. adsu:: 2
+
 The following is the JSON_ data to be retrieved by `HTTP GET`_ request:
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/xhrget/sukhada.json
@@ -54,6 +56,7 @@ It is surprising easy to send `HTTP GET`_ XHR_ request: Use Golang_ built-in
 care of all the rests for you!
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/xhrget/xhrget2.go
+.. adsu:: 3
 
 Compile the Go_ code to JavaScript_ by:
 
@@ -79,6 +82,7 @@ References:
        `GopherJS Playground <http://www.gopherjs.org/playground/>`_,
        |godoc|)
 
+.. adsu:: 4
 .. [2] `Bindings · gopherjs/gopherjs Wiki · GitHub <https://github.com/gopherjs/gopherjs/wiki/bindings>`_
 
 .. [3] `xhr - GoDoc <https://godoc.org/honnef.co/go/js/xhr>`_

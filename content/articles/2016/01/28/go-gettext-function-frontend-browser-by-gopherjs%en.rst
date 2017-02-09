@@ -36,6 +36,7 @@ Source Code
 HTML file for demo:
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/jsgettext/index.html
+.. adsu:: 2
 
 In our HTML file, we wrap a text string to be translated in *div* element, and
 set the *data-default-string* attribute of *div* element to the text string. For
@@ -49,6 +50,7 @@ You can also wrap a text string in *span* element or other elements instead of
 *div*.
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/jsgettext/jsgettext-raw.go
+.. adsu:: 3
 
 We put translations converted from PO files in the source code. The translations
 are used by *gettext* function to translate a text string.
@@ -80,7 +82,9 @@ idiomatic Go_ code, install DOM_ binding by:
 
 And compile the following code to JavaScript instead of above:
 
+.. adsu:: 4
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/jsgettext/jsgettext.go
+.. adsu:: 5
 
 Note that if you wrap strings in *span* or other elements instead of *div*,
 remember to modify the above code accordingly.
@@ -121,7 +125,7 @@ References:
 .. [11] `CSS Selectors Reference <http://www.w3schools.com/cssref/css_selectors.asp>`_
 
 .. [12] `queryselector attribute selector <https://www.google.com/search?q=queryselector+attribute+selector>`_
-
+.. adsu:: 6
 .. [13] `javascript - How to use querySelectorAll only for elements that have a specific attribute set? - Stack Overflow <http://stackoverflow.com/questions/10777684/how-to-use-queryselectorall-only-for-elements-that-have-a-specific-attribute-set>`_
 
 .. [14] `javascript - document.querySelector multiple data-attributes in one element - Stack Overflow <http://stackoverflow.com/questions/29937768/document-queryselector-multiple-data-attributes-in-one-element>`_

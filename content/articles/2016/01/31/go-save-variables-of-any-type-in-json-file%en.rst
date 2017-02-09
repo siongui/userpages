@@ -35,6 +35,8 @@ file via Golang_.
 
 Tested on: ``Ubuntu Linux 15.10``, ``Go 1.5.3``.
 
+.. adsu:: 2
+
 ----
 
 References:

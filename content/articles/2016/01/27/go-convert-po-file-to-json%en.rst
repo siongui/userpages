@@ -31,10 +31,12 @@ In this example, we support two locale_, *zh_TW (Traditional Chinese)* and
 zh_TW PO file ``locale/zh_TW/LC_MESSAGES/messages.po``:
 
 .. show_github_file:: siongui userpages content/code/go-gettext/locale/zh_TW/LC_MESSAGES/messages.po
+.. adsu:: 2
 
 vi_VN PO file ``locale/vi_VN/LC_MESSAGES/messages.po``:
 
 .. show_github_file:: siongui userpages content/code/go-gettext/locale/vi_VN/LC_MESSAGES/messages.po
+.. adsu:: 3
 
 Source Code
 +++++++++++
@@ -42,8 +44,9 @@ Source Code
 Convert PO_ files to JSON_ format:
 
 .. show_github_file:: siongui userpages content/code/go-gettext/po2json.go
-
+.. adsu:: 4
 .. show_github_file:: siongui userpages content/code/go-gettext/po2json_test.go
+.. adsu:: 5
 
 
 Output of Demo

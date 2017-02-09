@@ -68,7 +68,7 @@ References:
 .. [5] `Docutils text processing framework <https://www.google.com/search?q=Docutils+text+processing+framework>`_
 
 .. [6] `reStructuredText tool support - Stack Overflow <http://stackoverflow.com/questions/2746692/restructuredtext-tool-support>`_
-
+.. adsu:: 4
 .. [7] `The Docutils Subversion Repository <http://docutils.sourceforge.net/docs/dev/repository.html>`_
 
 .. [8] `Docutils: Documentation Utilities / Code /trunk/docutils/tools/rst2html5.py <http://sourceforge.net/p/docutils/code/HEAD/tree/trunk/docutils/tools/rst2html5.py>`_

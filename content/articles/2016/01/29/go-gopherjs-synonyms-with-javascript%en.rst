@@ -265,6 +265,16 @@ Inspired by [4]_, Golang_/GopherJS_ (with / without
            f.RemoveChild(f.LastChild())
          }
 
+
+.. adsu:: 2
+
+.. list-table:: JavaScript_ vs GopherJS_
+   :header-rows: 1
+   :class: table-syntax-diff
+
+   * - JavaScript_
+     - GopherJS_
+
    * - createElement_: create a DOM element
 
        .. code-block:: javascript
@@ -277,8 +287,6 @@ Inspired by [4]_, Golang_/GopherJS_ (with / without
 
          div := js.Global.Get("document").Call("createElement", "div")
 
-     - |
-
    * - createTextNode_: create a text node
 
        .. code-block:: javascript
@@ -290,8 +298,6 @@ Inspired by [4]_, Golang_/GopherJS_ (with / without
        .. code-block:: go
 
          text := js.Global.Get("document").Call("createTextNode", "Hello World!")
-
-     - |
 
    * - The location_ object of window_ object:
 
@@ -320,7 +326,15 @@ Inspired by [4]_, Golang_/GopherJS_ (with / without
          // return - ?a=1
          location.Get("search").String()
 
-     - |
+
+.. adsu:: 3
+
+.. list-table:: JavaScript_ vs GopherJS_
+   :header-rows: 1
+   :class: table-syntax-diff
+
+   * - JavaScript_
+     - GopherJS_
 
    * - querySelector_ returns a DOM element
 
@@ -334,8 +348,6 @@ Inspired by [4]_, Golang_/GopherJS_ (with / without
 
          d := js.Global.Get("document")
          elm := d.Call("querySelector", ".myclass")
-
-     - |
 
    * - querySelectorAll_ returns a NodeList_
 
@@ -359,8 +371,6 @@ Inspired by [4]_, Golang_/GopherJS_ (with / without
            // do something with the element
          }
 
-     - |
-
    * - Test if an element contains a class
 
        .. code-block:: javascript
@@ -377,9 +387,7 @@ Inspired by [4]_, Golang_/GopherJS_ (with / without
            // do something
          }
 
-     - |
-
-.. adsu:: 2
+.. adsu:: 4
 
 ----
 

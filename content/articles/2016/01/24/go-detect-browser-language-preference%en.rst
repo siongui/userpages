@@ -47,12 +47,15 @@ HTML file for demo: (*index.html*)
   </body>
   </html>
 
+.. adsu:: 2
+
 *js.Global* object is equivalent to window_ object in browsers. The *Get* method
 is used to access the property of the object.
 
 `Run Code on Gopherjs Playground <http://www.gopherjs.org/playground/#/V3KXikbvPD>`__
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/navigator/language.go
+.. adsu:: 3
 
 Compile Go_ code to JavaScript_ by:
 
@@ -82,7 +85,7 @@ References:
 
 .. [3] `dom - GopherJS bindings for the JavaScript DOM APIs <https://godoc.org/honnef.co/go/js/dom>`_
        (`GitHub <https://github.com/dominikh/go-js-dom>`__)
-
+.. adsu:: 4
 .. [4] `localization - JavaScript for detecting browser language preference - Stack Overflow <http://stackoverflow.com/questions/1043339/javascript-for-detecting-browser-language-preference>`_
 
 .. [5] `Navigator - Web APIs | MDN <https://developer.mozilla.org/en-US/docs/Web/API/Navigator>`_

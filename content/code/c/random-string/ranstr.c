@@ -30,7 +30,16 @@ int main(int argc, char **argv) {
   // to be returned by rand()
   srand(time(NULL));
 
-  printf("%s\n", randomString(10));
-  printf("%s\n", randomString(11));
-  printf("%s\n", randomString(12));
+  char *p;
+  p = randomString(10);
+  printf("%s\n", p);
+  free(p);
+
+  p = randomString(11);
+  printf("%s\n", p);
+  free(p);
+
+  p = randomString(12);
+  printf("%s\n", p);
+  free(p);
 }

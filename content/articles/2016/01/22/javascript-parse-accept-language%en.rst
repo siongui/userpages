@@ -33,6 +33,8 @@ and output (languageTag, quality) pairs:
 
 You can use this information to `determine user locale`_.
 
+.. adsu:: 2
+
 ----
 
 References:
@@ -48,7 +50,7 @@ References:
 .. [5] `HTTP/1.1: Header Field Definitions <http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html>`_
 
 .. [6] `Accept-Language used for locale setting <http://www.w3.org/International/questions/qa-accept-lang-locales.en.php>`_
-
+.. adsu:: 3
 .. [7] `localization - JavaScript for detecting browser language preference - Stack Overflow <http://stackoverflow.com/questions/1043339/javascript-for-detecting-browser-language-preference>`_
 
 .. [8] `NavigatorLanguage.languages - Web APIs | MDN <https://developer.mozilla.org/en-US/docs/Web/API/NavigatorLanguage/languages>`_

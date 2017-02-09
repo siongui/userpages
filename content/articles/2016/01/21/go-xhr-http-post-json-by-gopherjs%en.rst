@@ -48,16 +48,20 @@ First we write a simple HTML for our demo: (*index.html*)
   </body>
   </html>
 
+.. adsu:: 2
+
 It is surprising easy to send `HTTP POST`_ XHR_ request: Use Golang_ built-in
 `net/http`_ package! You just use *Post* method as usual, and GopherJS will take
 care of all the rests for you!
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/xhrpost/xhrpost.go
+.. adsu:: 3
 
 The following is backend Go_ code for receiving JSON_ data from front-end by
 `HTTP POST`_ method:
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/xhrpost/server.go
+.. adsu:: 4
 
 
 Compile the Go_ code to JavaScript_ by:
@@ -90,6 +94,7 @@ References:
        `GopherJS Playground <http://www.gopherjs.org/playground/>`_,
        |godoc|)
 
+.. adsu:: 5
 .. [2] `Bindings · gopherjs/gopherjs Wiki · GitHub <https://github.com/gopherjs/gopherjs/wiki/bindings>`_
 
 .. [3] `xhr - GoDoc <https://godoc.org/honnef.co/go/js/xhr>`_

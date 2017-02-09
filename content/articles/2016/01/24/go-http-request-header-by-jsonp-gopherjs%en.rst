@@ -54,9 +54,12 @@ HTML file for demo: (*index.html*)
   </body>
   </html>
 
+.. adsu:: 2
+
 The Golang_ code for retrieving HTTP request headers via JSONP:
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/http-header/jsonp.go
+.. adsu:: 3
 
 Compile Go_ code to JavaScript_ by:
 
@@ -86,7 +89,7 @@ References:
 
 .. [3] `dom - GopherJS bindings for the JavaScript DOM APIs <https://godoc.org/honnef.co/go/js/dom>`_
        (`GitHub <https://github.com/dominikh/go-js-dom>`__)
-
+.. adsu:: 4
 .. [4] `localization - JavaScript for detecting browser language preference - Stack Overflow <http://stackoverflow.com/questions/1043339/javascript-for-detecting-browser-language-preference>`_
 
 .. [5] `[Golang] Detect Browser Language Preference by window.navigator.language <{filename}go-detect-browser-language-preference%en.rst>`_

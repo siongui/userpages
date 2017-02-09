@@ -8,6 +8,8 @@
 :adsu: yes
 
 
+Generate a `random string`_ from [a-z0-9] in `C programming language`_.
+
 .. rubric:: Run code_ on Rextester_:
    :class: align-center
 
@@ -69,6 +71,7 @@ References:
        | `run c online code - Baidu search <https://www.baidu.com/s?wd=run+c+online+code>`_
        | `run c online code - Yandex search <https://www.yandex.com/search/?text=run+c+online+code>`_
 
+.. _random string: https://www.google.com/search?q=random+string
 .. _C programming language: https://www.google.com/search?q=C+programming+language
 .. _code: http://rextester.com/RMYT3166
 .. _Rextester: http://rextester.com/l/c_online_compiler_gcc

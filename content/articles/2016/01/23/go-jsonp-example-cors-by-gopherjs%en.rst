@@ -53,18 +53,22 @@ First we write a simple HTML for our demo: (*index.html*)
   </body>
   </html>
 
+.. adsu:: 2
+
 A callback function whose name is *mycallback* are declared by *js.Global.Set*
 method. The *mycallback* function will receive JSON_ data from the server.
 Beside, a *script* element are inserted to the *head* element to make
 cross-domain request.
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/jsonp/jsonp.go
+.. adsu:: 3
 
 The server receive the name of the callback function and data from the client.
 Then encode the data in JSON_ format, and send the JSON_ data to the callback
 function.
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/jsonp/server.go
+.. adsu:: 4
 
 Compile the Go_ code to JavaScript_ by:
 
@@ -110,7 +114,7 @@ References:
 .. [6] `escaping - Recommended way to encode/decode URLs - Stack Overflow <http://stackoverflow.com/questions/13826808/recommended-way-to-encode-decode-urls>`_
 
 .. [7] `golang get url from request <https://www.google.com/search?q=golang+get+url+from+request>`_
-
+.. adsu:: 5
 .. [8] `In go's http package, how do I get the query string on a POST request? - Stack Overflow <http://stackoverflow.com/questions/15407719/in-gos-http-package-how-do-i-get-the-query-string-on-a-post-request>`_
 
 .. [9] `[Webapp] Dart HTTP POST JSON Data to Go Server <{filename}../../../2015/02/15/dart-http-post-json-to-go-server%en.rst>`_

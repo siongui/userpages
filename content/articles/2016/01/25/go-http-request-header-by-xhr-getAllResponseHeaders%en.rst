@@ -54,6 +54,7 @@ The Golang_ code for retrieving HTTP request headers via
 `getAllResponseHeaders()`_:
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/http-header/getAllResponseHeaders.go
+.. adsu:: 3
 
 Compile Go_ code to JavaScript_ by:
 
@@ -75,7 +76,7 @@ above files, and open your browser console to see the output. My output is:
 
 ----
 
-.. adsu:: 3
+.. adsu:: 4
 
 Appendix
 ++++++++
@@ -84,6 +85,7 @@ If you want to use GopherJS_ native API only without `XHR binding`_, you can use
 the following code:
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/http-header/getAllResponseHeaders-raw.go
+.. adsu:: 5
 
 ----
 
@@ -103,7 +105,7 @@ References:
 
 .. [3] `Package xhr provides GopherJS bindings for the XMLHttpRequest API <https://godoc.org/honnef.co/go/js/xhr>`_
        (`GitHub <https://github.com/dominikh/go-js-xhr>`__)
-
+.. adsu:: 6
 .. [4] `Accessing the web page's HTTP Headers in JavaScript - Stack Overflow <http://stackoverflow.com/questions/220231/accessing-the-web-pages-http-headers-in-javascript>`_
 
 .. [5] `Using XMLHttpRequest - Web APIs | MDN <https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest>`_
