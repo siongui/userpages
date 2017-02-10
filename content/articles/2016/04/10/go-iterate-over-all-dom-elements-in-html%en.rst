@@ -33,11 +33,14 @@ Traverse DOM_ Tree
 
 Traverse the DOM_ tree (Iterate over all elements in HTML):
 
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/go-iterate-all-elements/html.go
+.. adsu:: 3
 
 Find `HTML links`_ and print them in reStructuredText_ format:
 
 .. show_github_file:: siongui userpages content/code/go-iterate-all-elements/handleHtmlLink.go
+.. adsu:: 4
 
 Usage
 +++++
@@ -67,7 +70,7 @@ References:
        `golang.org/x/net/html GoDoc <https://godoc.org/golang.org/x/net/html>`_
 
 .. [3] `github.com/PuerkitoBio/goquery - GoDoc <https://godoc.org/github.com/PuerkitoBio/goquery>`_
-
+.. adsu:: 5
 .. [4] `[Golang] getElementById via net/html Package <{filename}../15/go-getElementById-via-net-html-package%en.rst>`_
 
 

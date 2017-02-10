@@ -65,6 +65,8 @@ of reStructuredText_.
           fmt.Println(cs.parent)
   }
 
+.. adsu:: 2
+
 ----
 
 References:

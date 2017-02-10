@@ -30,10 +30,12 @@ Source Code
 HTML_ code:
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/input-enter/index.html
+.. adsu:: 2
 
 Go_ code:
 
 .. show_github_file:: siongui userpages content/code/gopherjs-dom/src/input-enter/enter.go
+.. adsu:: 3
 
 Compile the Go_ code to JavaScript_ by:
 
@@ -60,7 +62,7 @@ References:
        |godoc|)
 
 .. [2] `Bindings · gopherjs/gopherjs Wiki · GitHub <https://github.com/gopherjs/gopherjs/wiki/bindings>`_
-
+.. adsu:: 4
 .. [3] `dom - GopherJS bindings for the JavaScript DOM APIs <https://godoc.org/honnef.co/go/js/dom>`_
        (`GitHub <https://github.com/dominikh/go-js-dom>`__)
 

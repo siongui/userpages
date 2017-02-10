@@ -34,6 +34,8 @@ The following code is an XHR_ request to retrieve JSON data from server: [7]_
 
   XhrGetWordInfo("sacca")
 
+.. adsu:: 2
+
 The following error showed up in browser console: [4]_
 
 .. code-block:: txt
@@ -52,6 +54,7 @@ The code must be wrapped in goroutine_ to prevent blocking the execution.
 Similar situation [6]_ happened again and the same solution was applied to fix
 the runtime error when generating HTML_ via `html/template`_.
 
+.. adsu:: 3
 
 ----
 
@@ -73,7 +76,7 @@ References:
        (`GitHub <https://github.com/dominikh/go-js-dom>`__)
 
 .. [4] `net/http not working · Issue #389 · gopherjs/gopherjs · GitHub <https://github.com/gopherjs/gopherjs/issues/389>`_
-
+.. adsu:: 4
 .. [5] `use net/http by goroutine · siongui/pali@2445656 · GitHub <https://github.com/siongui/pali/commit/244565656c019a41625fd4337594b757cbfb606e>`_
 
 .. [6] `fix bug: use html/template by goroutine · siongui/pali@39ffdf9 · GitHub <https://github.com/siongui/pali/commit/39ffdf9589c98fa8ed85a09a609cfe3e936897d8>`_

@@ -165,6 +165,7 @@
   * `[情報] 2017淘寶轉運商放假通知 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484677068.A.E36.html>`_
   * `[閒聊] 近期淘寶到貨速度 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484649172.A.2DF.html>`_
   * `[問題] 淘寶買行李箱要用哪家集貨比較好 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484656761.A.5EF.html>`_
+  * `[閒聊] 淘寶使用私人集貨的原因 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1486561112.A.9B4.html>`_
 
 .. adsu:: 2
 
@@ -188,6 +189,7 @@
 
   * `[問題] 淘寶賣家通知快遞攬件多時？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464912914.A.76E.html>`_
 
+.. adsu:: 3
 
 - 特貨
 
@@ -220,7 +222,7 @@
   * `[心得] 推薦淘寶暢通台灣專線集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484716611.A.6C4.html>`_
   * `[抱怨]反推松針國際物流淘寶集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484639871.A.DBF.html>`_
 
-.. adsu:: 3
+.. adsu:: 4
 
 - 禁止輸入
 
@@ -246,6 +248,7 @@
   * `【心得】淘寶購物 - 黑貓直運(=圓通速運) [04.29-更新運費算法] @ Wang.Henry (W.H) 娛樂數位(hanshuenwang@gmail.com,3C問題請留言) :: 痞客邦 PIXNET :: <http://sportsw.pixnet.net/blog/post/42290044-%E3%80%90%E5%BF%83%E5%BE%97%E3%80%91%E6%B7%98%E5%AF%B6%E8%B3%BC%E7%89%A9---%E9%BB%91%E8%B2%93%E7%9B%B4%E9%81%8B(%3D%E5%9C%93%E9%80%9A%E9%80%9F%E9%81%8B)-%5B04.2>`_
   * `[問題] 請推薦高cp集運 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463282894.A.340.html>`__
 
+.. adsu:: 5
 
 - `淘寶 經濟航班 - Google search <https://www.google.com/search?q=%E6%B7%98%E5%AF%B6+%E7%B6%93%E6%BF%9F%E8%88%AA%E7%8F%AD>`_
 
@@ -265,6 +268,8 @@
 
 
 ----
+
+.. adsu:: 6
 
 其他：
 

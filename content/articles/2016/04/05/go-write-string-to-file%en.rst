@@ -11,6 +11,7 @@
 Golang_ - write string to file via os_ Create_ method and fmt_ Fprintf_ method.
 
 .. show_github_file:: siongui userpages content/code/go-write-string-to-file/osfmt.go
+.. adsu:: 2
 
 Output (*hello.txt*):
 

@@ -36,6 +36,8 @@ Count leading spaces of a string in Golang_.
           fmt.Println(countLeadingSpace("   3 space"))
   }
 
+.. adsu:: 2
+
 ----
 
 Tested on: ``Ubuntu Linux 15.10``, ``Go 1.5.3``.

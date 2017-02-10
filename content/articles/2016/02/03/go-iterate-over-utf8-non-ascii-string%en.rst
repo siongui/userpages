@@ -34,6 +34,7 @@ for_ loop iteration
           }
   }
 
+.. adsu:: 2
 
 range_ iteration
 ++++++++++++++++
@@ -54,6 +55,7 @@ range_ iteration
           }
   }
 
+.. adsu:: 3
 
 ----
 

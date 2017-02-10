@@ -13,6 +13,7 @@ goquery_ example: answer to `Stack Overflow`_ question:
 `go - How to get simple text from HTML page with goquery?`_
 
 .. show_github_file:: siongui userpages content/code/goquery-get-text/so31514414.go
+.. adsu:: 2
 
 ----
 

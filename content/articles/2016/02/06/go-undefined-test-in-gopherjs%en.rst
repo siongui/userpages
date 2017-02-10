@@ -32,6 +32,7 @@ For example, you can check if your browser supports localStorage_ API or not by:
           }
   }
 
+.. adsu:: 2
 
 `Run Code on GopherJS Playground <http://www.gopherjs.org/playground/#/Kxr4h5nxBQ>`_
 

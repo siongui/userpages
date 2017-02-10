@@ -58,6 +58,8 @@ Simple example of writing Python_ class_ synonyms in Golang_.
                  fmt.Println(sq.Area())
          }
 
+.. adsu:: 2
+
 ----
 
 References:

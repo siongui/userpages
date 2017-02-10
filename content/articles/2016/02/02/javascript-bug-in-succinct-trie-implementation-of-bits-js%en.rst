@@ -17,6 +17,8 @@ then inserted into the trie in alphabetical order, the resulting trie is wrong.
 
 The following is my patch for `Bits.js`_:
 
+.. adsu:: 2
+
 .. code-block:: javascript
 
   diff --git a/reference/Bits.js b/reference/Bits.js
@@ -42,6 +44,8 @@ The following is my patch for `Bits.js`_:
                var next = new TrieNode( word[i] );
                this.nodeCount++;
                node.children.push( next );
+
+.. adsu:: 3
 
 ----
 

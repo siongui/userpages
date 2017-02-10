@@ -22,6 +22,8 @@ The querySelector() method returns a DOM element_ object:
   element := d.Call("querySelector", ".setting-menu")
   // do something with the element ...
 
+.. adsu:: 2
+
 querySelectorAll_
 +++++++++++++++++
 
@@ -40,6 +42,8 @@ The querySelectorAll() method returns a NodeList_:
           element := nodeList.Call("item", i)
           // do something with the element ...
   }
+
+.. adsu:: 3
 
 ----
 

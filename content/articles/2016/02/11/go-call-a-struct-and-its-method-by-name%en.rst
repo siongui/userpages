@@ -42,6 +42,8 @@ Call a function (method_) of a struct_ by name during run-time in Golang_.
           fmt.Println(v[0].Float())
   }
 
+.. adsu:: 2
+
 ----
 
 References:

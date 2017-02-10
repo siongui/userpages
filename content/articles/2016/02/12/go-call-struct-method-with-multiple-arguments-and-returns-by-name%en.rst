@@ -55,6 +55,8 @@ This is an advanced example of [1]_.
           fmt.Println(retv[3].Interface().(DemoStruct))
   }
 
+.. adsu:: 2
+
 ----
 
 References:

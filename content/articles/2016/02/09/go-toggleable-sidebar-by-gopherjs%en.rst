@@ -24,10 +24,11 @@ Source Code
 +++++++++++
 
 .. show_github_file:: siongui go-toggle-sidebar-example src/toggle.html
-
+.. adsu:: 2
 .. show_github_file:: siongui go-toggle-sidebar-example src/toggle.css
-
+.. adsu:: 3
 .. show_github_file:: siongui go-toggle-sidebar-example src/toggle.go
+.. adsu:: 4
 
 ----
 

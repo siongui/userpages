@@ -18,7 +18,9 @@ of succinct trie.
 
 The following code gives an example of encoding and decoding:
 
+.. adsu:: 2
 .. show_github_file:: siongui go-succinct-data-structure-trie example/usage.go
+.. adsu:: 3
 
 Note that you must include space " " in your alphabet if default alphabet is not
 used. The default alphabet is *[a-z ]*.
