@@ -28,6 +28,8 @@ GitHub_, and write the following Python_ script to concatenate and compile the
 js files via **online Closure Compiler** [1]_ [2]_ [3]_ [4]_.
 (put this py script in the same directory as js files)
 
+.. adsu:: 2
+
 .. code-block:: python
 
   #!/usr/bin/env python
@@ -75,6 +77,8 @@ js files via **online Closure Compiler** [1]_ [2]_ [3]_ [4]_.
       online_compile(combineJS())
 
 
+.. adsu:: 3
+
 Note that *code_url* is the URL of our raw files on GitHub, which tells the
 Closure Compiler to fetch files on GitHub instead of uploading them locally. The
 only file we *POST* to Closure Compiler service API is ``nanda.js``, which we
@@ -98,7 +102,7 @@ References:
 .. [1] `Closure Compiler service API <https://www.google.com/search?q=Closure+Compiler+service+API>`_
 
 .. [2] `Getting Started with the API  |  Closure Compiler  |  Google Developers <https://developers.google.com/closure/compiler/docs/gettingstarted_api>`_
-
+.. adsu:: 4
 .. [3] `Communicating with the Closure Compiler Service API  |  Closure Compiler  |  Google Developers <https://developers.google.com/closure/compiler/docs/api-tutorial1>`_
 
 .. [4] `Compressing Files with the Closure Compiler Service API  |  Closure Compiler  |  Google Developers <https://developers.google.com/closure/compiler/docs/api-tutorial2>`_

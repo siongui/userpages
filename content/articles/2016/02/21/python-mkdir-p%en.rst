@@ -25,6 +25,8 @@ Tested on: ``Ubuntu Linux 15.10``, ``Python 2.7.10``.
 
 ----
 
+.. adsu:: 2
+
 References:
 
 .. [1] `python mkdir p <https://www.google.com/search?q=python+mkdir+p>`_

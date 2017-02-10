@@ -29,6 +29,8 @@
 
 選擇開機來源: Fn+F10
 
+.. adsu:: 2
+
 ----
 
 Linux作業系統wifi斷線問題：
@@ -48,6 +50,8 @@ Linux作業系統wifi斷線問題：
 - `networking - wifi connection keeps dropping in Ubuntu 15.10 - RTL8821AE - Ask Ubuntu <http://askubuntu.com/questions/730430/wifi-connection-keeps-dropping-in-ubuntu-15-10-rtl8821ae>`_
 
 ----
+
+.. adsu:: 3
 
 參考：
 

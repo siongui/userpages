@@ -37,6 +37,8 @@ First we implement button-like element by HTML and SCSS_:
     }
   }
 
+.. adsu:: 2
+
 When users click on ``A+``/``A-``, make larger/smaller font size of div element
 whose class is *.main-content*:
 
@@ -68,6 +70,7 @@ whose class is *.main-content*:
     }
   }
 
+.. adsu:: 3
 
 ----
 

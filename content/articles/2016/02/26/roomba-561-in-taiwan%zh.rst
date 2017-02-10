@@ -24,5 +24,8 @@ iRobot Roomba 561 電池
 - `Fw: [情報] pchome iRobot 880 $20999 - 看板 Lifeismoney - 批踢踢實業坊 <https://www.ptt.cc/bbs/Lifeismoney/M.1464596462.A.650.html>`_
 - `Re: [情報] pchome iRobot 880 $20999 - CPLife板 - Disp BBS <http://disp.cc/b/733-9qOd>`_
 - `Fw: [情報] pchome iRobot 880 $20999 - CPLife板 - Disp BBS <http://disp.cc/b/733-9qOb>`_
+
+.. adsu:: 2
+
 - `[心得] 日本CCP Mopet 卡哇伊電動掃地機ZZ-MR4 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464774494.A.843.html>`_
 - `[心得] 小米掃地機器人使用心得。家庭主夫的超強 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483711420.A.6A1.html>`_

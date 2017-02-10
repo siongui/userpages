@@ -32,6 +32,8 @@ Use the macro in your theme by:
 
   {{ Buddhist_calendar(article.date) }}
 
+.. adsu:: 2
+
 ----
 
 Tested on: ``Ubuntu Linux 15.10``, ``Python 2.7.10``, `Pelican 3.6.3`_.
@@ -41,7 +43,6 @@ Tested on: ``Ubuntu Linux 15.10``, ``Python 2.7.10``, `Pelican 3.6.3`_.
 References:
 
 .. [1] `add Buddhist calendar · siongui/pelican-template@4616e29 · GitHub <https://github.com/siongui/pelican-template/commit/4616e2945507cd8bab1658ac9e21acdb5120de4d>`_
-
 
 
 .. _Python: https://www.python.org/

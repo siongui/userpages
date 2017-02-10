@@ -35,6 +35,8 @@ First we implement button-like element by HTML and SCSS_:
     border-radius: 4px;
   }
 
+.. adsu:: 2
+
 We need `New Tong Wen Tang <http://tongwen.openfoundry.org/>`_
 (`GitHub <https://github.com/softcup/New-Tongwentang-for-Web>`__) library to do
 the conversion for us. Insert the following line in your HTML right before the
@@ -69,6 +71,8 @@ Chinese.
       setTimeout(function() {zhconvert.textContent = "简体";}, 500);
     }
   }
+
+.. adsu:: 3
 
 ----
 

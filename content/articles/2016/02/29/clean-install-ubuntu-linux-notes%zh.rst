@@ -38,6 +38,8 @@
   * BIOS裡選legacy,不選UEFI
   * 安裝時問是否使用UEFI,選擇Go back(不要用UEFI)
 
+.. adsu:: 2
+
 - 更新系統 [1]_
 
   .. code-block:: bash
@@ -62,6 +64,8 @@
 
     $ sudo apt-get install vim
     $ sudo apt-get install chromium-browser
+
+.. adsu:: 3
 
 - Chromium extension and app
 
@@ -91,6 +95,8 @@
 
 
 ----
+
+.. adsu:: 4
 
 參考：
 

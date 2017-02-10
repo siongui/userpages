@@ -31,6 +31,8 @@ Concatenate JavaScript_ files via Python_ script.
   if __name__ == "__main__":
       print(concatJS("."))
 
+.. adsu:: 2
+
 ----
 
 Tested on: ``Ubuntu Linux 15.10``, ``Python 2.7.10``.

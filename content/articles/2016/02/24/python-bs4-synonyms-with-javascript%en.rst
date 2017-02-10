@@ -91,6 +91,8 @@ Synonyms - Python_ `Beautiful Soup 4`_ translated to JavaScript_.
 
          var href = element.getAttribute("href");
 
+.. adsu:: 2
+
 ----
 
 Tested on: ``Ubuntu Linux 15.10``, ``Python 2.7.10``.

@@ -17,6 +17,7 @@ CSS for reStructuredText_ (rst) footnote_ and citation_:
     font-size: smaller;
   }
 
+.. adsu:: 2
 
 .. _reStructuredText: https://www.google.com/search?q=reStructuredText
 .. _footnote: http://docutils.sourceforge.net/docs/user/rst/quickref.html#footnotes
