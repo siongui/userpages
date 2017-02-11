@@ -7,6 +7,7 @@ Māgha Pūjā (萬佛節, วันมาฆบูชา)
 :category: 轉錄
 :summary: 諸惡莫作，眾善奉行，自淨其意，是諸佛教。
           2558/2559/2560(2015/2016/2017) `萬佛節`_
+:og_image: http://www.parungtip.com/article/art_42216887.jpg
 
 
 簡介
