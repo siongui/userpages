@@ -18,10 +18,10 @@ Māgha Pūjā (萬佛節, วันมาฆบูชา)
 相當於現今曆法的二三月。 `Pūjā`_ 則是崇敬，禮拜的意思。
 
 相傳佛陀(`釋迦牟尼`_)成道後的第一年，於此月的月圓之夜，在國王供養的第一間寺院
-(`摩揭陀國`_ `王舍城`_ `竹林精舍`_)裡，佛陀與1,250位阿羅漢比丘弟子的集會。
+(`摩揭陀國`_ `王舍城`_ `竹林精舍`_)裡，佛陀與一千兩百五十位阿羅漢比丘弟子的集會。
 此集會有四大不可思議：
 
-  1. 1,250位弟子在沒有事先約定的情形下來見佛陀。
+  1. 一千兩百五十位弟子在沒有事先約定的情形下來見佛陀。
   2. 所有的弟子皆為斷盡煩惱的聖者 `阿羅漢`_
   3. 所有的弟子皆為佛陀所親自剃度 - "善來比丘(Ehi bhikkhu)"
   4. 此為月圓夜
@@ -103,6 +103,10 @@ Facebook文章分享
 .. raw:: html
 
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRichnessThai%2Fposts%2F1882668565282752&width=500" width="500" height="373" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+.. raw:: html
+
+  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fwww.taiguotong.cn%2Fposts%2F591538791036641&width=500" width="500" height="703" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 ----
 
