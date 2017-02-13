@@ -27,11 +27,12 @@ Tested on ``Ubuntu Linux 15.10``, ``sed 4.2.2-6.1``.
 
 ----
 
+.. adsu:: 2
+
 References:
 
-.. [1] `sed insert line after match <https://www.google.com/search?q=sed+insert+line+after+match>`_
-
-       `shell - Insert line after first match using sed - Stack Overflow <http://stackoverflow.com/questions/15559359/insert-line-after-first-match-using-sed>`_
+.. [1] | `sed insert line after match <https://www.google.com/search?q=sed+insert+line+after+match>`_
+       | `shell - Insert line after first match using sed - Stack Overflow <http://stackoverflow.com/questions/15559359/insert-line-after-first-match-using-sed>`_
 
 .. [2] `[Python] Insert Line With Matched Pattern <{filename}../01/python-insert-line-with-matched-pattern%en.rst>`_
 

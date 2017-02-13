@@ -70,6 +70,8 @@ struct type. Finally we use go `text/template`_ package to output the info in
   	return rst.String()
   }
 
+.. adsu:: 2
+
 Output:
 
 .. code-block:: txt

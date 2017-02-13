@@ -93,7 +93,9 @@ Sony Xperia Z C6602 L36h
 * `[問題] 可以推薦5000左右方便root的手機嗎？ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484799322.A.ABE.html>`_
 * `[問題] 13K內換機選擇 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484729103.A.87E.html>`_
 * `[問題] 8000以下智慧型手機推薦 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1485088152.A.CFC.html>`_
+
 .. adsu:: 4
+
 * 手機低溫下自動關機
 
   - `[討論] 手機在低溫環境自動關機？ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484743454.A.5B4.html>`_

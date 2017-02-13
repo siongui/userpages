@@ -18,6 +18,8 @@ git復原最後一次的commit
 
 ----
 
+.. adsu:: 2
+
 References:
 
 .. [1] `git reset commit <https://www.google.com/search?q=git+reset+commit>`_

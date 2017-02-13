@@ -26,6 +26,8 @@
 
 |
 
+.. adsu:: 2
+
 .. image:: https://s3-buy123.cdn.hinet.net/images/item/YPC7849.png
    :alt: 超大防護防風晴雨自動傘
    :target: https://www.buy123.com.tw/site/item/46081/%E8%B6%85%E5%A4%A7%E9%98%B2%E8%AD%B7%E9%98%B2%E9%A2%A8%E6%99%B4%E9%9B%A8%E8%87%AA%E5%8B%95%E5%82%98
@@ -39,6 +41,8 @@
    :align: center
 
 |
+
+.. adsu:: 3
 
 .. image:: https://s3-buy123.cdn.hinet.net/images/item/YGRWF8T.png
    :alt: 超大自動開收四人雨傘
@@ -54,6 +58,8 @@
 
 |
 
+.. adsu:: 4
+
 .. image:: https://s3-buy123.cdn.hinet.net/images/item/38A49G9.png
    :alt: 輕量抗UV自動開收傘
    :target: https://www.buy123.com.tw/site/item/53208/%E8%BC%95%E9%87%8F%E6%8A%97UV%E8%87%AA%E5%8B%95%E9%96%8B%E6%94%B6%E5%82%98
@@ -67,6 +73,8 @@
    :align: center
 
 |
+
+.. adsu:: 5
 
 .. image:: https://s3-buy123.cdn.hinet.net/images/item/4JPT653.png
    :alt: 超大無敵日系自動開收傘

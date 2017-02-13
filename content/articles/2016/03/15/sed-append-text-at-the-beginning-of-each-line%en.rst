@@ -26,6 +26,8 @@ Tested on ``Ubuntu Linux 15.10``, ``sed 4.2.2-6.1``.
 
 ----
 
+.. adsu:: 2
+
 References:
 
 .. [1] `sed append to end of line <https://www.google.com/search?q=sed+append+to+end+of+line>`_

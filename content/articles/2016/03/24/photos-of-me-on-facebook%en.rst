@@ -20,6 +20,8 @@ Photos of Me on Facebook
      <input type="text" id="myfbid" placeholder="my Facebook ID">
      <div id="links"></div>
 
+.. adsu:: 2
+
 .. raw:: html
 
   <script>

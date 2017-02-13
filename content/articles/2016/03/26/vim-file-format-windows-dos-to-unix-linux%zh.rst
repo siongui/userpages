@@ -16,10 +16,11 @@ Vim_ 編輯器將檔案格式從windows(dos)轉成unix(linux)，從 [1]_ 的回�
 
 ----
 
+.. adsu:: 2
+
 References:
 
-.. [1] `vim dos to unix conversion <https://www.google.com/search?q=vim+dos+to+unix+conversion>`_
-
-       `Convert DOS line endings to Linux line endings in vim - Stack Overflow <http://stackoverflow.com/a/82743>`_
+.. [1] | `vim dos to unix conversion <https://www.google.com/search?q=vim+dos+to+unix+conversion>`_
+       | `Convert DOS line endings to Linux line endings in vim - Stack Overflow <http://stackoverflow.com/a/82743>`_
 
 .. _Vim: http://www.vim.org/

@@ -25,6 +25,8 @@ In above Makefile_,
 | **$(notdir ${URL})**      =      *DhP_Story016.htm*
 | **UTF8HTML**              =      */tmp/utf8-DhP_Story016.htm*.
 
+.. adsu:: 2
+
 ----
 
 Tested on ``Ubuntu Linux 15.10``, `GNU make 4.0-8.2`_.

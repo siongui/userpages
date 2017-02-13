@@ -19,6 +19,8 @@
 - `探险者户外3-4人全自动弹簧帐篷防雨双人野营露营2人双层帐篷套装 <https://item.taobao.com/item.htm?id=520322877126>`_
 - `探险者帐篷户外2秒速开 3-4人帐篷 全自动双人多人防雨露营套装 <https://item.taobao.com/item.htm?id=43943998032>`_
 
+.. adsu:: 2
+
 ----
 
 .. image:: https://gd1.alicdn.com/bao/uploaded/i1/TB1F49QKVXXXXcHXpXXXXXXXXXX_!!0-item_pic.jpg
@@ -27,6 +29,8 @@
    :align: center
 
 - `魔术蒙古包蚊帐免安装折叠式拉链三开门有底无底1.2/1.5/1.8m包邮 <https://item.taobao.com/item.htm?id=24168448069>`_
+
+.. adsu:: 3
 
 ----
 
@@ -47,6 +51,8 @@
 - `户外洗澡沐浴更衣帐篷野外移动厕所摄影钓鱼WC帐篷模特换衣帐篷 <https://item.taobao.com/item.htm?id=37439280724>`_
 - `冬天宝宝洗澡保暖帐沐浴帐篷户外更衣动厕所钓鱼摄影淋浴帐篷包邮-淘宝网全球站 <https://item.taobao.com/item.htm?id=524343319799>`_
 
+.. adsu:: 4
+
 帳篷，蚊帳
 ++++++++++
 
@@ -66,6 +72,8 @@
 
 |
 
+.. adsu:: 5
+
 .. image:: http://ec1img.pchome.com.tw/pic/v1/data/item/201506/D/E/B/Q/8/0/DEBQ80-A900657BY000_55754ee25d7db.jpg
    :alt: 夏日萬用秒開帳篷-雙人 ( 翡翠綠 )
    :target: http://24h.pchome.com.tw/prod/DEBQ80-A900657BY
@@ -79,6 +87,8 @@
    :alt: 彈開式迷彩四人帳
    :target: http://www.rt-mart.com.tw/direct/index.php?action=product_detail&prod_no=P0000200048880
    :align: center
+
+.. adsu:: 6
 
 * `彈開式蚊帳 <https://www.google.com/search?q=%E5%BD%88%E9%96%8B%E5%BC%8F%E8%9A%8A%E5%B8%B3>`_
 

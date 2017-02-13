@@ -17,7 +17,7 @@ Install GopherJS_ first:
 
   $ go get -u github.com/gopherjs/gopherjs
 
-Source code for element position (offset):
+Source code for element position (offset) via getBoundingClientRect_:
 
 .. code-block:: go
 
@@ -46,6 +46,8 @@ Source code for element position (offset):
   	}
   }
 
+.. adsu:: 2
+
 This comes from answer of Stack Overflow question [3]_.
 
 ----
@@ -63,10 +65,9 @@ References:
 
 .. [2] `GitHub - siongui/gopherjs-utils: useful collections of utilites (functions) for front end (browser) development via GopherJS <https://github.com/siongui/gopherjs-utils>`_
 
-.. [3] `javascript element position <https://www.google.com/search?q=javascript+element+position>`_
-
-       `javascript - Retrieve the position (X,Y) of an HTML element - Stack Overflow <http://stackoverflow.com/questions/442404/retrieve-the-position-x-y-of-an-html-element>`_
-
+.. [3] | `javascript element position <https://www.google.com/search?q=javascript+element+position>`_
+       | `javascript - Retrieve the position (X,Y) of an HTML element - Stack Overflow <http://stackoverflow.com/questions/442404/retrieve-the-position-x-y-of-an-html-element>`_
+.. adsu:: 3
 .. [4] `[AngularJS] Get Element Offset (Position) <{filename}../../../2013/05/12/angularjs-get-element-offset-position%en.rst>`_
 
 .. [5] `JavaScript DOM Element Position (Scroll Position Included) <{filename}../../../2012/07/01/javascript-dom-element-position-scroll-included%en.rst>`_
@@ -74,6 +75,7 @@ References:
 
 .. _GopherJS: http://www.gopherjs.org/
 .. _DOM: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+.. _getBoundingClientRect: https://developer.mozilla.org/en/docs/Web/API/Element/getBoundingClientRect
 
 .. |godoc| image:: https://godoc.org/github.com/gopherjs/gopherjs/js?status.png
    :target: https://godoc.org/github.com/gopherjs/gopherjs/js

@@ -70,6 +70,8 @@ Source code:
   	fmt.Println(outpath + " saved")
   }
 
+.. adsu:: 2
+
 Command line usage:
 
 .. code-block:: bash

@@ -9,6 +9,8 @@
 :adsu: yes
 
 
+.. contents:: 目錄
+
 `帳篷，蚊帳 <{filename}tent-useful-items-for-me-notes%zh.rst>`_
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -35,6 +37,8 @@
 
 `睡袋內套，毛毯 <{filename}sleeping-bag-useful-items-for-me-notes%zh.rst>`_
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. adsu:: 2
 
 手套
 ++++
@@ -76,6 +80,7 @@
    :target: https://tw.buy.yahoo.com/gdsale/%E9%9C%B2%E7%87%9F%E9%98%B2%E6%BD%AE%E8%87%AA%E5%8B%95%E5%85%85%E6%B0%A3%E5%BA%8A%E5%A2%8A-%E8%BB%8D%E7%B6%A0-%E4%BA%8C%E5%80%8B-5976370.html
    :align: center
 
+.. adsu:: 3
 
 防蚊
 ++++
@@ -98,6 +103,8 @@
    :alt: 驅蚊認證強力磁扣門簾
    :target: https://www.buy123.com.tw/site/item/63299/%E9%A9%85%E8%9A%8A%E8%AA%8D%E8%AD%89%E5%BC%B7%E5%8A%9B%E7%A3%81%E6%89%A3%E9%96%80%E7%B0%BE
    :align: center
+
+.. adsu:: 4
 
 `其他 <{filename}misc-useful-items-for-me-notes%zh.rst>`_
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++

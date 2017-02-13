@@ -29,6 +29,8 @@ Tested on: ``Ubuntu Linux 15.10``, ``Go 1.6``.
 
 ----
 
+.. adsu:: 2
+
 References:
 
 .. [1] `go url remove query <https://www.google.com/search?q=go+url+remove+query>`_

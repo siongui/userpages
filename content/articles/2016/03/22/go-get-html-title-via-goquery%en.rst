@@ -19,6 +19,7 @@ Install goquery_:
 Source code:
 
 .. show_github_file:: siongui userpages content/code/go-get-html-title/title.go
+.. adsu:: 2
 
 Command line usage:
 
@@ -34,14 +35,12 @@ Tested on: ``Ubuntu Linux 15.10``, ``Go 1.6``.
 
 References:
 
-.. [1] `golang beautifulsoup <https://www.google.com/search?q=golang+beautifulsoup>`_
+.. [1] | `golang beautifulsoup <https://www.google.com/search?q=golang+beautifulsoup>`_
+       | `What's the go equivalent of Python's Beautiful Soup (an HTML scraping library) ? : golang <https://www.reddit.com/r/golang/comments/3nyumc/whats_the_go_equivalent_of_pythons_beautiful_soup/>`_
 
-       `What's the go equivalent of Python's Beautiful Soup (an HTML scraping library) ? : golang <https://www.reddit.com/r/golang/comments/3nyumc/whats_the_go_equivalent_of_pythons_beautiful_soup/>`_
-
-.. [2] `GitHub - PuerkitoBio/goquery: A little like that j-thing, only in Go. <https://github.com/PuerkitoBio/goquery>`_
-
-       `Tips and tricks · PuerkitoBio/goquery Wiki · GitHub <https://github.com/PuerkitoBio/goquery/wiki/Tips-and-tricks>`_
-
+.. [2] | `GitHub - PuerkitoBio/goquery: A little like that j-thing, only in Go. <https://github.com/PuerkitoBio/goquery>`_
+       | `Tips and tricks · PuerkitoBio/goquery Wiki · GitHub <https://github.com/PuerkitoBio/goquery/wiki/Tips-and-tricks>`_
+.. adsu:: 3
 .. [3] `read html title · twnanda/twnanda@5d81787 · GitHub <https://github.com/twnanda/twnanda/commit/5d81787c957ae9273f78ce5f073dca47849b5ddd>`_
 
 .. _Go: https://golang.org/

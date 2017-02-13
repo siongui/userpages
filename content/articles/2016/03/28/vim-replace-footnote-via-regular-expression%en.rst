@@ -54,6 +54,8 @@ editor.
 
   :%s/^〔註\(0\d\{2}\)〕/.. [\1] /gc
 
+.. adsu:: 2
+
 ----
 
 Tested on ``Ubuntu Linux 15.10``, ``vim 2:7.4.712-2ubuntu4``.
@@ -62,9 +64,8 @@ Tested on ``Ubuntu Linux 15.10``, ``vim 2:7.4.712-2ubuntu4``.
 
 References:
 
-.. [1] `vim regex replace <https://www.google.com/search?q=vim+regex+replace>`_
-
-       `Vim Regex Replace - Stack Overflow <http://stackoverflow.com/questions/11850033/vim-regex-replace>`_
+.. [1] | `vim regex replace <https://www.google.com/search?q=vim+regex+replace>`_
+       | `Vim Regex Replace - Stack Overflow <http://stackoverflow.com/questions/11850033/vim-regex-replace>`_
 
 .. _Vim: http://www.vim.org/
 .. _regular expression: https://www.google.com.tw/search?q=regular+expression

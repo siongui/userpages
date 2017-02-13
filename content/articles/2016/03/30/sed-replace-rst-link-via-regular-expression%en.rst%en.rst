@@ -29,6 +29,8 @@ Note that use ``'s/(`頁4 <.+>`)_/\1__/g'`` instead of
 ``'s/(`頁4 <[^>]+>`)_/\1__/g'`` will match only one link because the match is
 greedy. See [1]_ for more details.
 
+.. adsu:: 2
+
 ----
 
 Tested on ``Ubuntu Linux 15.10``, ``sed 4.2.2-6.1``.
@@ -37,9 +39,8 @@ Tested on ``Ubuntu Linux 15.10``, ``sed 4.2.2-6.1``.
 
 References:
 
-.. [1] `sed match non greedy <https://www.google.com/search?q=sed+match+non+greedy>`_
-
-       `Non greedy regex matching in sed? - Stack Overflow <http://stackoverflow.com/questions/1103149/non-greedy-regex-matching-in-sed>`_
+.. [1] | `sed match non greedy <https://www.google.com/search?q=sed+match+non+greedy>`_
+       | `Non greedy regex matching in sed? - Stack Overflow <http://stackoverflow.com/questions/1103149/non-greedy-regex-matching-in-sed>`_
 
 
 .. _sed: http://www.grymoire.com/Unix/Sed.html

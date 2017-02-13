@@ -21,8 +21,9 @@ Install `package width`_:
 Source code:
 
 .. show_github_file:: siongui userpages content/code/go-char-width/width.go
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/go-char-width/width_test.go
+.. adsu:: 3
 
 ----
 
@@ -34,9 +35,8 @@ References:
 
 .. [1] `[Golang] Iterate Over UTF-8 Strings (non-ASCII strings) <{filename}../../02/03/go-iterate-over-utf8-non-ascii-string%en.rst>`_
 
-.. [2] `golang get character width <https://www.google.com/search?q=golang+get+character+width>`_
-
-       `width - GoDoc - The Go Programming Language <https://golang.org/x/text/width>`_
+.. [2] | `golang get character width <https://www.google.com/search?q=golang+get+character+width>`_
+       | `width - GoDoc - The Go Programming Language <https://golang.org/x/text/width>`_
 
 .. [3] `python get character width <https://www.google.com/search?q=python+get+character+width>`_
 

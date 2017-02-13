@@ -23,6 +23,8 @@
   $ git remote add origin <url>
   $ git push --force --set-upstream origin master
 
+.. adsu:: 2
+
 ----
 
 References:

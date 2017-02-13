@@ -18,7 +18,7 @@ We use goexif_ package to read Exif_ metadata. Install it by:
 Source code:
 
 .. show_github_file:: siongui userpages content/code/go-jpg-exif/date.go
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/go-jpg-exif/date_test.go
 
 ----
@@ -31,10 +31,9 @@ References:
 
 .. [1] `rwcarlsen/goexif: Decode embedded EXIF meta data from image files. <https://github.com/rwcarlsen/goexif>`_
 
-.. [2] `[Golang] Walk All Files in Directory <{filename}../../02/04/go-walk-all-files-in-directory%en.rst>`_
-
-       `List directory in go - Stack Overflow <http://stackoverflow.com/questions/14668850/list-directory-in-go>`_
-
+.. [2] | `[Golang] Walk All Files in Directory <{filename}../../02/04/go-walk-all-files-in-directory%en.rst>`_
+       | `List directory in go - Stack Overflow <http://stackoverflow.com/questions/14668850/list-directory-in-go>`_
+.. adsu:: 3
 .. [3] `golang read jpeg metadata <https://www.google.com/search?q=golang+read+jpeg+metadata>`_
 
 .. [4] `python read jpeg metadata <https://www.google.com/search?q=python+read+jpeg+metadata>`_

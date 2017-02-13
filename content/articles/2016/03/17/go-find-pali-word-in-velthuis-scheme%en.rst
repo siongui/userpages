@@ -11,7 +11,7 @@
 Find `Pāli`_ word in `Velthuis scheme`_ via Golang_.
 
 .. show_github_file:: siongui userpages content/code/go-pali-velthuis/find.go
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/go-pali-velthuis/find_test.go
 
 ----
@@ -29,14 +29,13 @@ References:
 .. [3] `Key Mapping of Pali fonts from Foreign 1 fonts <http://nanda.online-dhamma.net/Pali/pali-map.htm>`_
 
 .. [4] `Learning Pali <http://www.nku.edu/~kenneyr/Buddhism/pali/>`_
-
+.. adsu:: 3
 .. [5] `Pali <http://www.tuninst.net/PEG-Narada/txt/lang.htm>`__
 
 .. [6] `[Golang] Walk All Files in Directory <{filename}../../02/04/go-walk-all-files-in-directory%en.rst>`_
 
-.. [7] `golang read line from stdin <https://www.google.com/search?q=golang+read+line+from+stdin>`_
-
-       `go - How to read input from console line? - Stack Overflow <http://stackoverflow.com/questions/20895552/how-to-read-input-from-console-line>`_
+.. [7] | `golang read line from stdin <https://www.google.com/search?q=golang+read+line+from+stdin>`_
+       | `go - How to read input from console line? - Stack Overflow <http://stackoverflow.com/questions/20895552/how-to-read-input-from-console-line>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

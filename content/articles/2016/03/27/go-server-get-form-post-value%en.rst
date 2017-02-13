@@ -13,6 +13,7 @@ Server get `HTML form`_ value from `HTTP POST`_ in Golang_.
 Use PostFormValue_ method in `net/http`_ package.
 
 .. show_github_file:: siongui userpages content/code/go-form-post-value/read.go
+.. adsu:: 2
 
 ----
 

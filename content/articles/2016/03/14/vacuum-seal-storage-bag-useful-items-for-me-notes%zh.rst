@@ -23,6 +23,7 @@
    :target: 
    :align: center
 
+.. adsu:: 2
 
 真空壓縮袋
 ++++++++++
@@ -38,6 +39,8 @@
    :alt: 手卷式真空壓縮袋(6入/組)
    :target: https://crazymike.tw/product/living-goods/furniture/item-49080
    :align: center
+
+.. adsu:: 3
 
 |
 

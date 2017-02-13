@@ -20,13 +20,13 @@ Vim_ 編輯器設定寬度80的分隔線，
     au BufWinEnter * let w:m2=matchadd('ErrorMsg', '\%>80v.\+', -1)
   endif
 
+.. adsu:: 2
 
 ----
 
 References:
 
-.. [1] `vim set line width 80 <https://www.google.com/search?q=vim+set+line+width+80>`_
-
-       `coding style - Vim 80 column layout concerns - Stack Overflow <http://stackoverflow.com/questions/235439/vim-80-column-layout-concerns>`_
+.. [1] | `vim set line width 80 <https://www.google.com/search?q=vim+set+line+width+80>`_
+       | `coding style - Vim 80 column layout concerns - Stack Overflow <http://stackoverflow.com/questions/235439/vim-80-column-layout-concerns>`_
 
 .. _Vim: http://www.vim.org/
