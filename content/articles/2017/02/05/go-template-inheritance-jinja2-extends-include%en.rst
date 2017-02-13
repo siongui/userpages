@@ -2,7 +2,7 @@ Golang Template Inheritance (Python Jinja2 extends & include)
 #############################################################
 
 :date: 2017-02-05T22:33+08:00
-:tags: Go, Golang, html, Jinja2, Golang template
+:tags: Go, Golang, html, Jinja2, Golang template, List Files in Directory
 :category: Go
 :summary: Template inheritance via Go `html/template`_ package. Show how one
           tempalate extends_ from another, and also include_ templates, just as
@@ -84,7 +84,7 @@ Template Rendering
 ++++++++++++++++++
 
 The following *ParseTemplateDir* function reads all the above 4 templates under
-``tmpl`` directory:
+``tmpl`` directory: [5]_
 
 .. show_github_file:: siongui userpages content/code/go/template-inheritance/template.go
 .. adsu:: 4
@@ -161,6 +161,8 @@ References:
        `golang arguments dot - Yandex search <https://www.yandex.com/search/?text=golang+arguments+dot>`_
 
 .. [4] `[Golang] Walk All Files in Directory <{filename}../../../2016/02/04/go-walk-all-files-in-directory%en.rst>`_
+
+.. [5] `Golang Template Parse Directory <{filename}../13/go-template-parse-all-files-in-directory%en.rst>`_
 
 .. _Go: https://golang.org/
 .. _html/template: https://golang.org/pkg/html/template/
