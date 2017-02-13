@@ -10,6 +10,7 @@
 Find redundant files saved by Chrome_ browser via Python_.
 
 .. show_github_file:: siongui userpages content/code/python-redundant-file/chrome.py
+.. adsu:: 2
 
 ----
 

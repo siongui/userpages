@@ -25,6 +25,8 @@ Tested on: ``Ubuntu Linux 15.10``, ``Go 1.6``.
 
 ----
 
+.. adsu:: 2
+
 References:
 
 .. [1] `GopherJS - A compiler from Go to JavaScript <http://www.gopherjs.org/>`_

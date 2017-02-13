@@ -23,4 +23,6 @@
 
 - `特价手提秤行李秤50kg 快递秤便携称电子称 精准T形弹簧秤行李称-淘宝网全球站 <https://item.taobao.com/item.htm?id=23227868634>`_
 
+.. adsu:: 2
+
 * `行李秤_淘宝搜索 <https://s.taobao.com/search?q=%E8%A1%8C%E6%9D%8E%E7%A7%A4>`_

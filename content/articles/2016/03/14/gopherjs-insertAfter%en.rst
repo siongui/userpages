@@ -29,7 +29,7 @@ References:
        (`GitHub <https://github.com/gopherjs/gopherjs>`__,
        `GopherJS Playground <http://www.gopherjs.org/playground/>`_,
        |godoc|)
-
+.. adsu:: 2
 .. [2] `How to do insert After() in JavaScript without using a library? - Stack Overflow <http://stackoverflow.com/questions/4793604/how-to-do-insert-after-in-javascript-without-using-a-library>`_
 
 .. _GopherJS: http://www.gopherjs.org/

@@ -31,6 +31,8 @@ Concatenate and Minify CSS via sed_ and tr_ command in Makefile_.
   concat:
   	cat $(SOURCE_CSS_FILES) > $(MINIFIED_CSS)
 
+.. adsu:: 2
+
 ----
 
 Tested on ``Ubuntu Linux 15.10``.
@@ -66,7 +68,7 @@ References:
        (`HN discussions <https://news.ycombinator.com/item?id=11229025>`__)
 
 .. [8] `makefile check if symlink exists <https://www.google.com/search?q=makefile+check+if+symlink+exists>`_
-
+.. adsu:: 3
 .. [9] `makefile concatenate files <https://www.google.com/search?q=makefile+concatenate+files>`_
 
        `javascript - Makefile to combine js files and make a compressed version - Stack Overflow <http://stackoverflow.com/questions/4413903/makefile-to-combine-js-files-and-make-a-compressed-version>`_

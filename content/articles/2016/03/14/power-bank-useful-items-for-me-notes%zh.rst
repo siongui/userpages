@@ -21,6 +21,8 @@
    :target: http://www.mi.com/tw/pb10000/
    :align: center
 
+.. adsu:: 2
+
 ----
 
 應急用，不推薦日常使用：
@@ -32,6 +34,8 @@
 - `4节5号AA干电池移动电源盒USB MP3手机应急充电器充电宝LED手电筒-淘宝网全球站 <https://item.taobao.com/item.htm?id=38445451796>`_
 - `USB可逆应急充4节5号干电池移动电源iphone手机应急充电器充电宝-淘宝网全球站 <https://item.taobao.com/item.htm?id=27325496351>`__
 - `USB可逆应急充4节5号干电池移动电源iphone手机应急充电器充电宝-淘宝网全球站 <https://item.taobao.com/item.htm?id=528242814579>`__
+
+.. adsu:: 3
 
 ----
 
@@ -57,6 +61,8 @@
   `[問題] 行動電源推薦 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484139184.A.468.html>`_
 
   `[心得] 小米行動電源2 20000 不專業開箱 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484819838.A.CCF.html>`_
+
+.. adsu:: 4
 
 - `【有片】帶行動電源上飛機　這些你必須知道 | 即時新聞 | 20160507 | 蘋果日報 <http://www.appledaily.com.tw/realtimenews/article/new/20160507/855486/>`_
 

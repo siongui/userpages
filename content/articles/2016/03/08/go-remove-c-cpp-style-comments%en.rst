@@ -10,8 +10,9 @@
 Remove C/C++ style comments via Golang_.
 
 .. show_github_file:: siongui userpages content/code/go-remove-c-cpp-comments/remove.go
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/go-remove-c-cpp-comments/remove_test.go
+.. adsu:: 3
 
 ----
 

@@ -11,8 +11,9 @@
 Concatenate JavaScript_ files via Golang_.
 
 .. show_github_file:: siongui userpages content/code/go-concatenate-files/js.go
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/go-concatenate-files/js_test.go
+.. adsu:: 3
 
 ----
 

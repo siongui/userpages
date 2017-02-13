@@ -81,6 +81,8 @@ Concatenate and compress JavaScript_ files via Golang_ and online
   	minjs(baseDir, jsFiles, "app/all_compiled.js")
   }
 
+.. adsu:: 2
+
 ----
 
 Tested on: ``Ubuntu Linux 15.10``, ``Go 1.6``.

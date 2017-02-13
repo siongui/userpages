@@ -18,3 +18,5 @@
 
 - `[挑選] 登機箱選擇 戰車 legend walker - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484570400.A.A0C.html>`_
 - `[問題] 淘寶買行李箱要用哪家集貨比較好 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484656761.A.5EF.html>`_
+
+.. adsu:: 2

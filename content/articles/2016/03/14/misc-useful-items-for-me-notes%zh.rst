@@ -36,6 +36,8 @@
 `樹木 <{filename}trees-useful-items-for-me-notes%zh.rst>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+.. adsu:: 2
+
 3C
 ++
 
@@ -107,6 +109,7 @@
    :target: https://www.buy123.com.tw/site/item/59915/GODRY%E5%BC%B7%E5%8A%9B%E9%98%B2%E6%B0%B4%E5%99%B4%E9%9C%A7%E5%8A%91
    :align: center
 
+.. adsu:: 3
 
 珪藻土超吸水
 ++++++++++++
@@ -137,6 +140,7 @@
    :target: https://crazymike.tw/product/living-goods/bathroom/item-49073
    :align: center
 
+.. adsu:: 4
 
 除濕防黴
 ++++++++
@@ -184,6 +188,7 @@
 - `[問題] 強波器/延伸器 請益 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465034332.A.628.html>`_
 - `貨櫃屋 - Google search <https://www.google.com/search?q=%E8%B2%A8%E6%AB%83%E5%B1%8B>`_
 
+.. adsu:: 5
 
 防盜背包
 ++++++++
@@ -221,6 +226,8 @@
 - `[問題] 水冷墊vs麻將涼蓆 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464837992.A.A45.html>`_
 - `[問題] 宜得利涼感系列真的會涼嗎 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1464877867.A.6B2.html>`_
 - `[問題] 能讓朗慕水冷墊不要這麼亮嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465099471.A.D97.html>`_
+
+.. adsu:: 6
 
 吸塵器
 ++++++

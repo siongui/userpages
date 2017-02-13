@@ -30,6 +30,8 @@ Tested on ``Ubuntu Linux 15.10``, ``opencc 0.4.3-2build1``, `GNU make 4.0-8.2`_.
 
 ----
 
+.. adsu:: 2
+
 References:
 
 .. [1] `makefile test command exists <https://www.google.com/search?q=makefile+test+command+exists>`_

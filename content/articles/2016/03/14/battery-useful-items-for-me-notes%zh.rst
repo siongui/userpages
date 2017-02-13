@@ -25,5 +25,6 @@
 * `eneloop_淘宝搜索 <https://s.taobao.com/search?q=eneloop&sort=price-asc>`_
 
 .. * `_淘宝搜索 <>`_
+.. adsu:: 2
 
 * `Panasonic充電器組合包 - Google search <https://www.google.com/search?q=Panasonic%E5%85%85%E9%9B%BB%E5%99%A8%E7%B5%84%E5%90%88%E5%8C%85>`_

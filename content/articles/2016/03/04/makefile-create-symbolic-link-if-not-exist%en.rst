@@ -29,7 +29,7 @@ Tested on ``Ubuntu Linux 15.10``.
        `linux - Using makefile check if symlink exists and create if it doesn't - Stack Overflow <http://stackoverflow.com/questions/29072366/using-makefile-check-if-symlink-exists-and-create-if-it-doesnt>`_
 
        `Makefile target with wildcard to create symlink using target string - Stack Overflow <http://stackoverflow.com/questions/21064718/makefile-target-with-wildcard-to-create-symlink-using-target-string>`_
-
+.. adsu:: 2
 .. [2] `use Makefile for setup and development (unfinished) · siongui/pali@333e8c5 · GitHub <https://github.com/siongui/pali/commit/333e8c570959707f620c612e1b6494d3fe5696f7>`_
 
 .. _Makefile: https://www.google.com/search?q=Makefile

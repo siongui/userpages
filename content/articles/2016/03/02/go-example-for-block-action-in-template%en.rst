@@ -45,6 +45,7 @@ packages.
           indexTmpl.Execute(os.Stdout, nil)
   }
 
+.. adsu:: 2
 
 ----
 
