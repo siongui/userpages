@@ -49,6 +49,8 @@
 
 |
 
+.. adsu:: 2
+
 .. image:: https://img.crazymike.tw/upload/product/171/178/45739_1_1453780254.jpg
    :alt: 新式多功能廚房置物架
    :target: https://crazymike.tw/product/living-goods/furniture/item-45739
@@ -97,6 +99,8 @@
    :align: center
 
 |
+
+.. adsu:: 3
 
 .. image:: https://s3-buy123.cdn.hinet.net/images/item/QLWL533.png
    :alt: 不銹鋼覆膜防滑衣架

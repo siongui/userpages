@@ -88,4 +88,4 @@ References:
 .. _Seed: https://golang.org/pkg/math/rand/#Seed
 .. _time: https://golang.org/pkg/time/
 .. _Go Playground: https://play.golang.org/
-.. _make: http://tour.golang.org/moretypes/9
+.. _make: https://tour.golang.org/moretypes/13

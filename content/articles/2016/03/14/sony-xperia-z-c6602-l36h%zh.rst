@@ -25,6 +25,8 @@ Sony Xperia Z C6602 L36h
 
 * `Sony Xperia Z C6602 Android 系統防水智慧型手機 的價格 - 飛比價格 <http://feebee.com.tw/product/Sony%20Xperia%20Z%20C6602%20Android%20%E7%B3%BB%E7%B5%B1%E9%98%B2%E6%B0%B4%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F/?q=xperia%20z>`_
 
+.. adsu:: 2
+
 ..
  .. image:: 
    :alt: 
@@ -47,6 +49,8 @@ Sony Xperia Z C6602 L36h
 * `[問題] 我該買哪種充電器… - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1482981674.A.3FB.html>`_
 
 ----
+
+.. adsu:: 3
 
 參考：
 
@@ -89,7 +93,7 @@ Sony Xperia Z C6602 L36h
 * `[問題] 可以推薦5000左右方便root的手機嗎？ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484799322.A.ABE.html>`_
 * `[問題] 13K內換機選擇 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484729103.A.87E.html>`_
 * `[問題] 8000以下智慧型手機推薦 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1485088152.A.CFC.html>`_
-
+.. adsu:: 4
 * 手機低溫下自動關機
 
   - `[討論] 手機在低溫環境自動關機？ - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1484743454.A.5B4.html>`_
@@ -113,6 +117,8 @@ Sony Xperia Z C6602 L36h
   - `[問題] 手機開分享時的充電方式 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465462104.A.850.html>`_
   - `[新聞] 他睡覺時充電　手機自燃差點把房子燒了 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465642880.A.A95.html>`_
   - `[問題] L型充電線推薦 - 看板 MobileComm - 批踢踢實業坊 <https://www.ptt.cc/bbs/MobileComm/M.1465824032.A.6C2.html>`_
+
+.. adsu:: 5
 
 * 無線充電
 
