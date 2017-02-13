@@ -10,8 +10,9 @@
 Copy content of textarea_ to clipboard via GopherJS_.
 
 .. show_github_file:: siongui userpages content/code/gopherjs-copy-to-clipboard/index.html
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/gopherjs-copy-to-clipboard/copy.go
+.. adsu:: 3
 
 Compile ``copy.go`` to ``copy.js`` by GopherJS_.
 Put ``copy.js`` and ``index.html`` together.
@@ -32,10 +33,9 @@ References:
        (`GitHub <https://github.com/gopherjs/gopherjs>`__,
        `GopherJS Playground <http://www.gopherjs.org/playground/>`_,
        |godoc|)
-
-.. [2] `How do I copy to the clipboard in JavaScript? - Stack Overflow <http://stackoverflow.com/a/30810322>`_
-
-       `javascript copy to clipboard <https://www.google.com/search?q=javascript+copy+to+clipboard>`_
+.. adsu:: 4
+.. [2] | `How do I copy to the clipboard in JavaScript? - Stack Overflow <http://stackoverflow.com/a/30810322>`_
+       | `javascript copy to clipboard <https://www.google.com/search?q=javascript+copy+to+clipboard>`_
 
 
 .. _GopherJS: http://www.gopherjs.org/

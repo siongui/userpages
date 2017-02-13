@@ -25,7 +25,9 @@ AA/AAA電池充電器
 * `镍氢电池充电器推荐 | 镍氢电池充电器哪种好_什么值得买 <http://post.smzdm.com/p/344408/>`_
 
 * `充電手機發出聲音 - Google search <https://www.google.com/search?q=%E5%85%85%E9%9B%BB%E6%89%8B%E6%A9%9F%E7%99%BC%E5%87%BA%E8%81%B2%E9%9F%B3>`_
+
 .. adsu:: 2
+
 * `充电器 aa/aaa_淘宝搜索 <https://s.taobao.com/search?q=%E5%85%85%E7%94%B5%E5%99%A8+aa%2Faaa>`_
 
 * `充电器 5号_淘宝搜索 <https://s.taobao.com/search?q=%E5%85%85%E7%94%B5%E5%99%A8+5%E5%8F%B7>`_
@@ -45,7 +47,9 @@ AA/AAA電池充電器
 - `骐源MP-809B充电器 5号/7号充电电池镍氢充电器 迷你充 特价清仓-淘宝网全球站 <https://item.taobao.com/item.htm?id=521010831358>`_
 - `处理：哈里通AA AAA 5号7号通用 4槽镍氢充电器(无保修)-淘宝网全球站 <https://item.taobao.com/item.htm?id=19428627091>`_
 - `原装索尼 Sony BC-CS1 AA 5号 AAA 7号镍氢 电池 充电器-淘宝网全球站 <https://item.taobao.com/item.htm?id=12266339847>`_
+
 .. adsu:: 3
+
 - `东日 5号 7号 AA AAA 充电电池 高效 充电器(劲牛厂设计加工生产)-淘宝网全球站 <https://item.taobao.com/item.htm?id=61355144>`_
 - `2槽5号7号AA/AAA充电器折叠迷你出口装-淘宝网全球站 <https://item.taobao.com/item.htm?id=36366482650>`_
 - `AA5号NI-CD电池充电器 四槽充电座 AA5号/AAA7号充电电池充电-淘宝网全球站 <https://item.taobao.com/item.htm?id=44614229427>`_

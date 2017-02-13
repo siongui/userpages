@@ -107,6 +107,8 @@ Install Go_ and goquery_ package first. Then ``go run`` the following code:
   	http.ListenAndServe(":8000", nil)
   }
 
+.. adsu:: 2
+
 ----
 
 Tested on: ``Ubuntu Linux 15.10``, ``Go 1.6``.

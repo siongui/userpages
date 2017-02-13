@@ -23,6 +23,7 @@ Assume we have the following HTML:
 We want to extract the text (i.e., footnote) starting from *Reference*, and
 until *Updated*.
 
+.. adsu:: 2
 
 Install goquery_ Package
 ++++++++++++++++++++++++
@@ -36,6 +37,7 @@ Read HTML_
 ++++++++++
 
 .. show_github_file:: siongui userpages content/code/go-state-machine-get-footnote/html.go
+.. adsu:: 3
 
 
 Extract Text (Footnote)
@@ -50,6 +52,7 @@ storing the text. After all finished, output the text stored in the state
 machine, which is the text we want.
 
 .. show_github_file:: siongui userpages content/code/go-state-machine-get-footnote/footnote.go
+.. adsu:: 4
 
 Usage
 +++++

@@ -33,7 +33,9 @@ Use goquery_ `Find()`_ and `Each()`_ method to iterate over all `HTML links`_,
 and use `Text()`_ and `Attr()`_ method to retrieve the text and href of each
 link. Print to screen via os.Stdout_ and `text/template`_ package.
 
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/go-html-links-to-rst/link2rst.go
+.. adsu:: 3
 
 
 Usage

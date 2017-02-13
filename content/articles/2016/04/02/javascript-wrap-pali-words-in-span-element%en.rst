@@ -17,6 +17,7 @@ Wrap `Pāli`_ words in span_ element via `regular expression`_ and JavaScript_.
     return string.replace(/[AaBbCcDdEeGgHhIiJjKkLlMmNnOoPpRrSsTtUuVvYyĀāĪīŪūṀṁṂṃŊŋṆṇṄṅÑñṬṭḌḍḶḷ]+/g, '<span>$&</span>');
   }
 
+.. adsu:: 2
 
 ----
 

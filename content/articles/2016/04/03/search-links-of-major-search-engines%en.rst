@@ -77,6 +77,8 @@ Search Links of Major Search Engines
     }
   </script>
 
+.. adsu:: 2
+
 ----
 
 References:
@@ -89,15 +91,12 @@ References:
 
 .. [4] `Trigger a button click with JavaScript on the Enter key in a text box - Stack Overflow <http://stackoverflow.com/questions/155188/trigger-a-button-click-with-javascript-on-the-enter-key-in-a-text-box>`_
 
-.. [5] `JavaScript encodeURIComponent() Function - W3Schools <http://www.w3schools.com/jsref/jsref_encodeuricomponent.asp>`_
-
-       `JavaScript encodeURI() Function - W3Schools <http://www.w3schools.com/jsref/jsref_encodeuri.asp>`_
-
-       `javascript - When are you supposed to use escape instead of encodeURI / encodeURIComponent? - Stack Overflow <http://stackoverflow.com/questions/75980/when-are-you-supposed-to-use-escape-instead-of-encodeuri-encodeuricomponent>`_
-
-.. [6] `javascript copy to clipboard <https://www.google.com/search?q=javascript+copy+to+clipboard>`_
-
-       `How do I copy to the clipboard in JavaScript? - Stack Overflow <http://stackoverflow.com/questions/400212/how-do-i-copy-to-the-clipboard-in-javascript>`_
+.. [5] | `JavaScript encodeURIComponent() Function - W3Schools <http://www.w3schools.com/jsref/jsref_encodeuricomponent.asp>`_
+       | `JavaScript encodeURI() Function - W3Schools <http://www.w3schools.com/jsref/jsref_encodeuri.asp>`_
+       | `javascript - When are you supposed to use escape instead of encodeURI / encodeURIComponent? - Stack Overflow <http://stackoverflow.com/questions/75980/when-are-you-supposed-to-use-escape-instead-of-encodeuri-encodeuricomponent>`_
+.. adsu:: 3
+.. [6] | `javascript copy to clipboard <https://www.google.com/search?q=javascript+copy+to+clipboard>`_
+       | `How do I copy to the clipboard in JavaScript? - Stack Overflow <http://stackoverflow.com/questions/400212/how-do-i-copy-to-the-clipboard-in-javascript>`_
 
 .. [7] `Search PTT BBS <{filename}../07/search-ptt-bbs%en.rst>`_
 

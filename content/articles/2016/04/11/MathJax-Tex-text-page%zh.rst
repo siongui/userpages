@@ -21,6 +21,8 @@ MathJax Tex/LaTex測試網頁
 
 MathJax_ Tex_/LaTex_ 測試網頁(詳細請看 `Getting Started`_)：
 
+.. adsu:: 2
+
 .. raw:: html
 
   When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are

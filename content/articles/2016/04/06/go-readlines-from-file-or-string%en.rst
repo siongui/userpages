@@ -87,13 +87,10 @@ References:
 
 .. [1] `golang read lines from file - Google search <https://www.google.com/search?q=golang+read+lines+from+file>`_
 
-.. [2] `go string to line - Google search <https://www.google.com/search?q=go+string+to+line>`_
-
-       `go readline - Google search <https://www.google.com/search?q=go+readline>`_
-
-       `Example (Lines) - bufio - The Go Programming Language <https://golang.org/pkg/bufio/#example_Scanner_lines>`_
-
-       `Example (Custom) - bufio - The Go Programming Language <https://golang.org/pkg/bufio/#example_Scanner_custom>`_
+.. [2] | `go string to line - Google search <https://www.google.com/search?q=go+string+to+line>`_
+       | `go readline - Google search <https://www.google.com/search?q=go+readline>`_
+       | `Example (Lines) - bufio - The Go Programming Language <https://golang.org/pkg/bufio/#example_Scanner_lines>`_
+       | `Example (Custom) - bufio - The Go Programming Language <https://golang.org/pkg/bufio/#example_Scanner_custom>`_
 
 .. [3] `os - The Go Programming Language <https://golang.org/pkg/os/>`_
 

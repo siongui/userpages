@@ -23,6 +23,7 @@
 Source code:
 
 .. show_github_file:: siongui userpages content/code/make/replace-string/Makefile
+.. adsu:: 3
 
 Output:
 
@@ -50,7 +51,7 @@ References:
        `shell replace character in string - Baidu search <https://www.baidu.com/s?wd=shell+replace+character+in+string>`_
 
        `shell replace character in string - Yandex search <https://www.yandex.com/search/?text=shell+replace+character+in+string>`_
-
+.. adsu:: 4
 .. [2] `makefile replace string in variable - Google search <https://www.google.com/search?q=makefile+replace+string+in+variable>`_
 
        `makefile replace string in variable - DuckDuckGo search <https://duckduckgo.com/?q=makefile+replace+string+in+variable>`_
