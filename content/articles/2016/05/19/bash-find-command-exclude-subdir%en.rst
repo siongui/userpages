@@ -30,11 +30,12 @@ Tested on: ``Ubuntu Linux 16.04``, ``find (GNU findutils) 4.7.0-git``
 
 ----
 
+.. adsu:: 2
+
 References:
 
-.. [1] `find exclude subdirectory - Google search <https://www.google.com/search?q=find+exclude+subdirectory>`_
-
-       `linux - Exclude directory from find . command - Stack Overflow <http://stackoverflow.com/questions/4210042/exclude-directory-from-find-command>`_
+.. [1] | `find exclude subdirectory - Google search <https://www.google.com/search?q=find+exclude+subdirectory>`_
+       | `linux - Exclude directory from find . command - Stack Overflow <http://stackoverflow.com/questions/4210042/exclude-directory-from-find-command>`_
 
 
 .. _Bash: https://www.google.com/search?q=Bash

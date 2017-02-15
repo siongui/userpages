@@ -27,11 +27,10 @@ Install goquery_ Package
 Source Code
 +++++++++++
 
-.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/goquery-ul-li-to-rst/ulli2rst.go
-.. adsu:: 3
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/goquery-ul-li-to-rst/ulli2rst_test.go
-
+.. adsu:: 3
 
 ----
 

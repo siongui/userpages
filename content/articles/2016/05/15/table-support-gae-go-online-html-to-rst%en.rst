@@ -26,6 +26,8 @@ Tested on: ``Ubuntu Linux 16.04``, ``Google App Engine SDK for Go 1.9.37``.
 
 ----
 
+.. adsu:: 2
+
 References:
 
 .. [1] `[Golang] Unrobust HTML Table to reStructuredText list-table <{filename}../../04/13/go-unrobust-html-table-to-rst-list-table%en.rst>`_

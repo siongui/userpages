@@ -46,6 +46,7 @@ to `/etc/apache2/sites-available/000-default.conf`
   	</Directory>
   </VirtualHost>
 
+.. adsu:: 2
 
 enable apache file and directory indexing
 +++++++++++++++++++++++++++++++++++++++++
@@ -78,6 +79,7 @@ Then restart apache2:
   # or
   $ sudo /etc/init.d/apache2 restart
 
+.. adsu:: 3
 
 unable to resolve host
 ++++++++++++++++++++++
@@ -104,14 +106,13 @@ References:
 .. [2] `[AWS] Create/Migrate Linux Users on Amazon EC2 <{filename}../../04/30/aws-create-or-migrate-linux-users-on-ec2%en.rst>`_
 
 .. [3] `apache 2.2 - NameVirtualHost has no effect - Server Fault <http://serverfault.com/questions/576939/namevirtualhost-has-no-effect>`_
-
+.. adsu:: 4
 .. [4] `AWS Developer Forums: sudo: unable to resolve host ... <https://forums.aws.amazon.com/message.jspa?messageID=495274>`_
 
 .. [5] `apache - Error message “Forbidden You don't have permission to access / on this server” <http://stackoverflow.com/questions/10873295/error-message-forbidden-you-dont-have-permission-to-access-on-this-server>`_
 
-.. [6] `apache list files in directory - Google search <https://www.google.com/search?q=apache+list+files+in+directory>`_
-
-       `How do I enable apache file and directory indexing under Linux or UNIX? <http://www.cyberciti.biz/faq/enabling-apache-file-directory-indexing/>`_
+.. [6] | `apache list files in directory - Google search <https://www.google.com/search?q=apache+list+files+in+directory>`_
+       | `How do I enable apache file and directory indexing under Linux or UNIX? <http://www.cyberciti.biz/faq/enabling-apache-file-directory-indexing/>`_
 
 
 .. _SSH: https://www.google.com/search?q=SSH

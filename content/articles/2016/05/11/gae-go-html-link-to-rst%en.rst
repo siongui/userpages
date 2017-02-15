@@ -19,19 +19,22 @@ Given a webpage URL. Fetch the title of the webpage and output
 *Makefile*: Edit the variable in Makefile according to your development
 environment.
 
-.. show_github_file:: siongui userpages content/code/go-gae-link2rst/Makefile
+.. show_github_file:: siongui userpages content/code/go/gae/link2rst/Makefile
+.. adsu:: 2
 
 *GAE Go Environment Setting*:
 
-.. show_github_file:: siongui userpages content/code/go-gae-link2rst/app.yaml
+.. show_github_file:: siongui userpages content/code/go/gae/link2rst/app.yaml
+.. adsu:: 3
 
 Source code:
 
-.. show_github_file:: siongui userpages content/code/go-gae-link2rst/link2rst.go
-
-.. show_github_file:: siongui userpages content/code/go-gae-link2rst/title.go
-
-.. show_github_file:: siongui userpages content/code/go-gae-link2rst/fetch.go
+.. show_github_file:: siongui userpages content/code/go/gae/link2rst/link2rst.go
+.. adsu:: 4
+.. show_github_file:: siongui userpages content/code/go/gae/link2rst/title.go
+.. adsu:: 5
+.. show_github_file:: siongui userpages content/code/go/gae/link2rst/fetch.go
+.. adsu:: 6
 
 ----
 

@@ -27,13 +27,11 @@ References:
 
 .. [1] `[AWS] Create/Migrate Linux Users on Amazon EC2 <{filename}../../04/30/aws-create-or-migrate-linux-users-on-ec2%en.rst>`_
 
-.. [2] `rsync over ssh - Google search <https://www.google.com/search?q=rsync+over+ssh>`_
-
-       `Rsync Examples, SSH, Backup @ Calomel.org <https://calomel.org/rsync_tips.html>`_
-
-.. [3] `rsync over ssh with key - Google search <https://www.google.com/search?q=rsync+over+ssh+with+key>`_
-
-       `ssh - Specify identity file (id_rsa) with rsync - Unix & Linux Stack Exchange <http://unix.stackexchange.com/questions/127352/specify-identity-file-id-rsa-with-rsync>`_
+.. [2] | `rsync over ssh - Google search <https://www.google.com/search?q=rsync+over+ssh>`_
+       | `Rsync Examples, SSH, Backup @ Calomel.org <https://calomel.org/rsync_tips.html>`_
+.. adsu:: 2
+.. [3] | `rsync over ssh with key - Google search <https://www.google.com/search?q=rsync+over+ssh+with+key>`_
+       | `ssh - Specify identity file (id_rsa) with rsync - Unix & Linux Stack Exchange <http://unix.stackexchange.com/questions/127352/specify-identity-file-id-rsa-with-rsync>`_
 
 .. [4] `rsync over ftp - Google search <https://www.google.com/search?q=rsync+over+ftp>`_
 

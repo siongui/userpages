@@ -62,4 +62,6 @@
     - `Re: [請益] 多點進出的問題   - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465815625.A.776.html>`_
     - `預辦登機了還能改票嗎 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465818701.A.A99.html>`_
 
+.. adsu:: 2
+
 - `搭飛機 行李 托運 攜帶物品 <{filename}flight-baggage-my-notes-for-go-abroad%zh.rst>`_

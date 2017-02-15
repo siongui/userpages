@@ -49,6 +49,8 @@
 
   * `看板 Thailand 文章列表 - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/index.html>`_
 
+.. adsu:: 2
+
 - 回台灣禁止攜帶物品
 
   * `注意！「台灣海關禁止入關物品」2016年起新規定！違法送辦！ <http://ww.apple01.net/cat42/node1075082>`_

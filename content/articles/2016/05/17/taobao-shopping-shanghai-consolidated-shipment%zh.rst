@@ -41,6 +41,8 @@
   * `Re: [問題] 淘寶集貨/上海捷利/新竹增利 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1463224301.A.716.html>`_
   * `[問題] 淘寶集運清關後查無物流動態 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465189709.A.9EA.html>`_
 
+.. adsu:: 2
+
 - 捷達
 
   * `[心得] 捷達貨運台灣專線 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1460914592.A.F2A.html>`__
@@ -73,7 +75,7 @@
   * `[心得] 大力推薦上海暢途集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1479477616.A.63E.html>`_
   * `[問題] 詢問天駿和上海暢途 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484242664.A.027.html>`_
 
-.. adsu:: 2
+.. adsu:: 3
 
 - 上海楚華
 
@@ -97,6 +99,8 @@
 
   * `[問題] 飛翔集貨態度變差，有推薦集貨商嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1475136912.A.153.html>`_
   * `[問題] 請問飛翔集貨最近出貨很慢嗎？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483362005.A.A23.html>`_
+
+.. adsu:: 4
 
 - 上海東龍
 
@@ -122,7 +126,7 @@
   * `[抱怨] 慶記集貨-貨丟消失多日 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1483500779.A.1CA.html>`_
   * `[問題] 有人這幾天聯絡到慶記李的嗎?QAQ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1484761164.A.BA0.html>`_
 
-.. adsu:: 3
+.. adsu:: 5
 
 - `[心得] 大推飛翔集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1461738155.A.66A.html>`_
 - `[閒聊] 今天去了千里馬集貨 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1462455609.A.911.html>`_

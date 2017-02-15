@@ -24,6 +24,8 @@ Tested on: ``Ubuntu Linux 16.04``, ``Google App Engine SDK for Go 1.9.37``.
 
 ----
 
+.. adsu:: 2
+
 References:
 
 .. [1] `[Golang] HTML to reStructuredText <{filename}../12/go-html-to-rst%en.rst>`_

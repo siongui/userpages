@@ -43,6 +43,7 @@ We need to overcome the following two problems:
      install:
      - fc-cache -f -v
 
+.. adsu:: 2
 
 Combine the above two solution together, your final ``.travis.yml`` will looks
 like:
@@ -75,6 +76,8 @@ Example Bash_ script to run wkhtmltopdf_:
     echo -e "\033[92mProcessing ${path}\033[0m"
     wkhtmltopdf ${path} --disable-javascript --user-style-sheet $2 "${path%.html}.pdf"
   done
+
+.. adsu:: 3
 
 ----
 

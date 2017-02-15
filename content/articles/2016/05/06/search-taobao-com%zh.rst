@@ -66,6 +66,8 @@
 
 ----
 
+.. adsu:: 2
+
 References:
 
 .. [1] `Search Links of Major Search Engines <{filename}../../04/03/search-links-of-major-search-engines%en.rst>`_

@@ -22,6 +22,7 @@ Currently the following metadata extraction (if available) is supported:
 Usage:
 
 .. show_github_file:: siongui html2rst metadata_test.go
+.. adsu:: 2
 
 Check `guess metadata from HTML`_ commit in html2rst_ repo for details of source
 code.

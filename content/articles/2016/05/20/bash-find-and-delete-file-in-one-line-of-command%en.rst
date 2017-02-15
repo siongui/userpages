@@ -29,6 +29,8 @@ Tested on: ``Ubuntu Linux 16.04``, ``find (GNU findutils) 4.7.0-git``
 
 ----
 
+.. adsu:: 2
+
 References:
 
 .. [1] `unix pipe delete file - Google search <https://www.google.com/search?q=unix+pipe+delete+file>`_

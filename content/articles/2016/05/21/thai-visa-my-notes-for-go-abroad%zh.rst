@@ -39,6 +39,8 @@
 * `簽證類別, 停留時間, 及費用 : Non-immigrant-O (義工簽證) - 泰國貿易經濟辦事處 (台北) <http://www.tteo.org.tw/main/zh/services/5202/62390-Non-immigrant-O-(%E7%BE%A9%E5%B7%A5%E7%B0%BD%E8%AD%89).html>`_
   (`Types of Visas, Periods of Stay, and Fees : Non-immigrant-O (Volunteer) - สำนักงานการค้าและเศรษฐกิจไทย ไทเป <http://www.tteo.org.tw/main/th/services/5202/62390-Non-immigrant-O-(Volunteer).html>`_)
 
+.. adsu:: 2
+
 * 高雄代辦簽證
 
   - `高雄 大眾旅行社 - Google search <https://www.google.com/search?q=%E9%AB%98%E9%9B%84+%E5%A4%A7%E7%9C%BE%E6%97%85%E8%A1%8C%E7%A4%BE>`_

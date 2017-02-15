@@ -164,6 +164,8 @@
 - `[問題] yahoo購物中心買貴退差價？ - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465298644.A.694.html>`_
 - `[問題] 郵局visa卡線上買國外網站帳單地址 - 看板 e-shopping - 批踢踢實業坊 <https://www.ptt.cc/bbs/e-shopping/M.1465564996.A.01A.html>`_
 
+.. adsu:: 4
+
 PayPal：
 
 - `[教學]如何申請PayPal帳戶？(收款、線上刷卡必備)  –  香腸炒魷魚 <https://sofree.cc/paypal/>`_

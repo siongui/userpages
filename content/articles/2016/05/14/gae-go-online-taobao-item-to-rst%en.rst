@@ -19,17 +19,19 @@ URL from Taobao_ item webpage, and output in reStructuredText_  format.
 
 Source code:
 
-.. show_github_file:: siongui userpages content/code/go-gae-taobao-item2rst/Makefile
+.. show_github_file:: siongui userpages content/code/go/gae/taobao-item2rst/Makefile
+.. adsu:: 2
 
-.. show_github_file:: siongui userpages content/code/go-gae-taobao-item2rst/app.yaml
+.. show_github_file:: siongui userpages content/code/go/gae/taobao-item2rst/app.yaml
 
-.. show_github_file:: siongui userpages content/code/go-gae-taobao-item2rst/taobaoitem2rst.go
-
-.. show_github_file:: siongui userpages content/code/go-gae-taobao-item2rst/fetch.go
-
-.. show_github_file:: siongui userpages content/code/go-gae-taobao-item2rst/urlnormalize.go
-
-.. show_github_file:: siongui userpages content/code/go-gae-taobao-item2rst/iteminfo.go
+.. show_github_file:: siongui userpages content/code/go/gae/taobao-item2rst/taobaoitem2rst.go
+.. adsu:: 3
+.. show_github_file:: siongui userpages content/code/go/gae/taobao-item2rst/fetch.go
+.. adsu:: 4
+.. show_github_file:: siongui userpages content/code/go/gae/taobao-item2rst/urlnormalize.go
+.. adsu:: 5
+.. show_github_file:: siongui userpages content/code/go/gae/taobao-item2rst/iteminfo.go
+.. adsu:: 6
 
 ----
 

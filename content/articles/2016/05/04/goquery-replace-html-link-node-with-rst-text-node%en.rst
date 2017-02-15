@@ -29,9 +29,9 @@ Source Code
 +++++++++++
 
 .. show_github_file:: siongui userpages content/code/goquery-replace-link-node-with-rst-text-node/link2rst.go
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/goquery-replace-link-node-with-rst-text-node/link2rst_test.go
-
+.. adsu:: 3
 
 ----
 

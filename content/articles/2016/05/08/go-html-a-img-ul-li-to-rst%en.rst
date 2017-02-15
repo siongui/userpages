@@ -32,11 +32,10 @@ Install `net/html`_ Package
 Source Code
 +++++++++++
 
-.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/go-a-img-ul-li-to-rst/html2rst.go
-.. adsu:: 3
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/go-a-img-ul-li-to-rst/html2rst_test.go
-
+.. adsu:: 3
 
 ----
 
