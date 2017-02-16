@@ -2,7 +2,7 @@
 ############################
 
 :date: 2016-06-03T06:34+08:00
-:tags: Go, Golang, GopherJS, Go to JavaScript
+:tags: Go, Golang, GopherJS, Go to JavaScript, Go time Package
 :category: GopherJS
 :summary: JavaScript_ setTimeout_ equivalent in Go_/GopherJS_ -
           `time.AfterFunc`_.
@@ -17,9 +17,9 @@ JavaScript_ setTimeout_ equivalent in Go_/GopherJS_ - `time.AfterFunc`_.
 Source code: `time.AfterFunc`_ is Go's setTimeout_.
 
 .. show_github_file:: siongui userpages content/code/gopherjs-setTimeout/index.html
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/gopherjs-setTimeout/app.go
-
+.. adsu:: 3
 
 ----
 
@@ -32,9 +32,8 @@ References:
 
 .. [2] `GitHub - siongui/gopherjs-tooltip: Tooltip in Go. Compiled to JavaScript via GopherJS <https://github.com/siongui/gopherjs-tooltip>`_
 
-.. [3] `golang settimeout - Google search <https://www.google.com/search?q=golang+settimeout>`_
-
-       `node.js - nodejs setTimeout equivalent in Golang - Stack Overflow <http://stackoverflow.com/questions/24072767/nodejs-settimeout-equivalent-in-golang>`_
+.. [3] | `golang settimeout - Google search <https://www.google.com/search?q=golang+settimeout>`_
+       | `node.js - nodejs setTimeout equivalent in Golang - Stack Overflow <http://stackoverflow.com/questions/24072767/nodejs-settimeout-equivalent-in-golang>`_
 
 
 .. _GopherJS: http://www.gopherjs.org/

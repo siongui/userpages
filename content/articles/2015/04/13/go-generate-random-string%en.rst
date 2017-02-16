@@ -3,7 +3,7 @@
 
 :date: 2015-04-13 03:08
 :modified: 2017-02-13T10:40+08:00
-:tags: Go, Golang, String Manipulation, Random Number
+:tags: Go, Golang, String Manipulation, Random Number, Go time Package
 :category: Go
 :summary: Generate a random string from [a-z0-9] in Golang.
 :adsu: yes

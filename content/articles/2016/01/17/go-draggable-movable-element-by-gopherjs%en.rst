@@ -2,7 +2,8 @@
 ################################################
 
 :date: 2016-01-17T23:35+08:00
-:tags: Go, Golang, GopherJS, DOM, Go to JavaScript, draggable
+:tags: Go, Golang, GopherJS, DOM, Go to JavaScript, draggable,
+       Go strconv Package
 :category: GopherJS
 :summary: Run Golang_ program in your browser by GopherJS_. Show how to write a
           Go_ program to do DOM_ manipulation by example. This example show how

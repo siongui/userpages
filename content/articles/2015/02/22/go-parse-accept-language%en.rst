@@ -2,7 +2,8 @@
 #####################################################
 
 :date: 2015-02-22 02:49
-:tags: Go, Golang, Google App Engine, String Manipulation, HTTP Header, Accept-Language, Locale
+:tags: Go, Golang, Google App Engine, String Manipulation, HTTP Header,
+       Accept-Language, Locale, Go strconv Package
 :category: Go
 :summary: Parse Accept-Language in HTTP Request Header in Go Programming Language.
 :adsu: yes
@@ -24,6 +25,7 @@ Test program for the above code:
 Makefile for automating the development:
 
 .. show_github_file:: siongui userpages content/code/go-accept-language/Makefile
+.. adsu:: 4
 
 The output after run ``make``:
 
@@ -43,6 +45,8 @@ The output after run ``make``:
   ok      _/home/koan/dev/nstechdev/userpages/content/code/go-accept-language     0.003s
 
 Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``.
+
+.. adsu:: 5
 
 ----
 

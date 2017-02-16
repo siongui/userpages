@@ -32,12 +32,13 @@ The following is the source code of Go_ program that uses SQLite_ (version 3):
 
 .. adsu:: 2
 .. show_github_file:: siongui userpages content/code/go-sqlite/sqlite3.go
+.. adsu:: 3
 
 Now we open database and create a table in our test program. Then write some
 data to the table and then read the data from the table.
 
-.. adsu:: 3
 .. show_github_file:: siongui userpages content/code/go-sqlite/sqlite3_test.go
+.. adsu:: 4
 
 Output of Test Code
 +++++++++++++++++++
@@ -66,6 +67,8 @@ References:
 
 .. [4] `SQLDrivers · golang/go Wiki · GitHub <https://github.com/golang/go/wiki/SQLDrivers>`_
 
+.. adsu:: 5
+
 (SQLite)
 
 .. [5] `sql - The Go Programming Language <https://golang.org/pkg/database/sql/>`_
@@ -89,6 +92,8 @@ References:
 .. [14] `inserting current date and time in sqlite database - Stack Overflow <http://stackoverflow.com/questions/15473325/inserting-current-date-and-time-in-sqlite-database>`_
 
 .. [15] `ios - SQLite inserting bool value - Stack Overflow <http://stackoverflow.com/questions/7316747/sqlite-inserting-bool-value>`_
+
+.. adsu:: 6
 
 (RSS)
 

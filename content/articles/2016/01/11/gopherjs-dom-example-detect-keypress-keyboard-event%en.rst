@@ -2,7 +2,8 @@
 ################################################################
 
 :date: 2016-01-11T04:48+08:00
-:tags: Go, Golang, GopherJS, DOM, Go to JavaScript, Keyboard Event
+:tags: Go, Golang, GopherJS, DOM, Go to JavaScript, Keyboard Event,
+       Go strconv Package
 :category: GopherJS
 :summary: Run Golang_ program in your browser by GopherJS_. Show how to write a
           Go_ program to do DOM_ manipulation by example. Detect user keypress
