@@ -18,14 +18,15 @@ Real world application is `Pāli Tipiṭaka`_.
 Source code:
 
 .. show_github_file:: siongui userpages content/code/angularjs-wrap-words/index.html
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/angularjs-wrap-words/app.js
-
+.. adsu:: 3
 .. show_github_file:: siongui userpages content/code/angularjs-wrap-words/ngWrapper.js
-
+.. adsu:: 4
 .. show_github_file:: siongui userpages content/code/angularjs-wrap-words/tooltip.js
-
+.. adsu:: 5
 .. show_github_file:: siongui userpages content/code/angularjs-wrap-words/tooltip.css
+.. adsu:: 6
 
 ----
 

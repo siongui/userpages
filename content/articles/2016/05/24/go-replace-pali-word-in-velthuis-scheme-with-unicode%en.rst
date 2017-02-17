@@ -13,8 +13,9 @@ Find `Pāli`_ word in `Velthuis scheme`_, and replace them with unicode_
 via Golang_ (Go_ programming language).
 
 .. show_github_file:: siongui userpages content/code/go-velthuis-to-unicode/replace.go
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/go-velthuis-to-unicode/replace_test.go
+.. adsu:: 3
 
 ----
 
@@ -29,14 +30,12 @@ References:
 .. [2] `regex - Regular Expression to match only alphabetic characters - Stack Overflow <http://stackoverflow.com/questions/6067592/regular-expression-to-match-only-alphabetic-characters>`_
 
 .. [3] `[Golang] Iterate Over UTF-8 Strings (non-ASCII strings) <{filename}../../02/03/go-iterate-over-utf8-non-ascii-string%en.rst>`_
-
+.. adsu:: 4
 .. [4] `GitHub - matko/emacs-pali-velthuis: emacs input method to write pali in the latin alphabet augmented with diacritical marks, using the Velthuis method <https://github.com/matko/emacs-pali-velthuis>`_
 
-.. [5] `regexp - The Go Programming Language <https://golang.org/pkg/regexp/>`_
-
-       `strings - The Go Programming Language <https://golang.org/pkg/strings/>`_
-
-       `ioutil - The Go Programming Language <https://golang.org/pkg/io/ioutil/>`_
+.. [5] | `regexp - The Go Programming Language <https://golang.org/pkg/regexp/>`_
+       | `strings - The Go Programming Language <https://golang.org/pkg/strings/>`_
+       | `ioutil - The Go Programming Language <https://golang.org/pkg/io/ioutil/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

@@ -19,12 +19,13 @@ This is an alternative to solution in [1]_.
 Source code:
 
 .. show_github_file:: siongui userpages content/code/angularjs-i18n-directive/index.html
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/angularjs-i18n-directive/app.js
-
+.. adsu:: 3
 .. show_github_file:: siongui userpages content/code/angularjs-i18n-directive/ngI18nDirective.js
-
+.. adsu:: 4
 .. show_github_file:: siongui userpages content/code/angularjs-i18n-directive/ngGettextData.js
+.. adsu:: 5
 
 ----
 

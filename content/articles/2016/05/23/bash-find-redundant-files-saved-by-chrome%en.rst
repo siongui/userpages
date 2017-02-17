@@ -11,6 +11,7 @@
 Find redundant files saved by Chrome_ browser via Bash_ script.
 
 .. show_github_file:: siongui userpages content/code/bash/redundant-file/chrome.sh
+.. adsu:: 2
 
 ----
 
@@ -24,13 +25,11 @@ References:
 
 .. [2] `[Golang] Find Redundant Files Saved by Chrome <{filename}../22/go-find-redundant-files-saved-by-chrome%en.rst>`_
 
-.. [3] `bash file extension - Google search <https://www.google.com/search?q=bash+file+extension>`_
-
-       `string - Extract filename and extension in Bash - Stack Overflow <http://stackoverflow.com/questions/965053/extract-filename-and-extension-in-bash>`_
-
-.. [4] `bash find spaces in path - Google search <https://www.google.com/search?q=bash+find+spaces+in+path>`_
-
-       `Spaces in path names giving trouble with Find in Bash. Any *simple* work-around? - Stack Overflow <http://stackoverflow.com/questions/3898560/spaces-in-path-names-giving-trouble-with-find-in-bash-any-simple-work-around>`_
+.. [3] | `bash file extension - Google search <https://www.google.com/search?q=bash+file+extension>`_
+       | `string - Extract filename and extension in Bash - Stack Overflow <http://stackoverflow.com/questions/965053/extract-filename-and-extension-in-bash>`_
+.. adsu:: 3
+.. [4] | `bash find spaces in path - Google search <https://www.google.com/search?q=bash+find+spaces+in+path>`_
+       | `Spaces in path names giving trouble with Find in Bash. Any *simple* work-around? - Stack Overflow <http://stackoverflow.com/questions/3898560/spaces-in-path-names-giving-trouble-with-find-in-bash-any-simple-work-around>`_
 
 .. [5] `bash regex match - Google search <https://www.google.com/search?q=bash+regex+match>`_
 

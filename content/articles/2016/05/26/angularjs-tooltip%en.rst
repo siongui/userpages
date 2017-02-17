@@ -20,12 +20,13 @@ Real world application of tooltip is `Pāli Tipiṭaka`_.
 Source code:
 
 .. show_github_file:: siongui userpages content/code/angularjs-tooltip/index.html
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/angularjs-tooltip/app.js
-
+.. adsu:: 3
 .. show_github_file:: siongui userpages content/code/angularjs-tooltip/tooltip.js
-
+.. adsu:: 4
 .. show_github_file:: siongui userpages content/code/angularjs-tooltip/tooltip.css
+.. adsu:: 5
 
 ----
 
@@ -35,9 +36,8 @@ Tested on: ``Chromium Version 50.0.2661.102 Ubuntu 16.04 (64-bit)``, ``AngularJS
 
 References:
 
-.. [1] `css long word force line break - Google search <https://www.google.com/search?q=css+long+word+force+line+break>`_
-
-       `Word-Wrap: Force Text to Wrap <http://webdesignerwall.com/tutorials/word-wrap-force-text-to-wrap>`_
+.. [1] | `css long word force line break - Google search <https://www.google.com/search?q=css+long+word+force+line+break>`_
+       | `Word-Wrap: Force Text to Wrap <http://webdesignerwall.com/tutorials/word-wrap-force-text-to-wrap>`_
 
 .. [2] `GitHub - siongui/gopherjs-tooltip: Tooltip in Go. Compiled to JavaScript via GopherJS <https://github.com/siongui/gopherjs-tooltip>`_
 

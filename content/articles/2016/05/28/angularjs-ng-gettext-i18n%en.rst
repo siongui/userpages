@@ -17,12 +17,13 @@ Alternative solution via Directives_, see [2]_.
 Source code:
 
 .. show_github_file:: siongui userpages content/code/angularjs-gettext-i18n/index.html
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/angularjs-gettext-i18n/app.js
-
+.. adsu:: 3
 .. show_github_file:: siongui userpages content/code/angularjs-gettext-i18n/ngGettext.js
-
+.. adsu:: 4
 .. show_github_file:: siongui userpages content/code/angularjs-gettext-i18n/ngGettextData.js
+.. adsu:: 5
 
 ----
 
@@ -32,17 +33,13 @@ Tested on: ``Chromium Version 50.0.2661.102 Ubuntu 16.04 (64-bit)``, ``AngularJS
 
 References:
 
-.. [1] `gettext i18n - Google search <https://www.google.com/search?q=gettext+i18n>`_
-
-       `gettext i18n - DuckDuckGo search <https://duckduckgo.com/?q=gettext+i18n>`_
-
-       `gettext i18n - Bing search <https://www.bing.com/search?q=gettext+i18n>`_
-
-       `gettext i18n - Yahoo search <https://search.yahoo.com/search?p=gettext+i18n>`_
-
-       `gettext i18n - Baidu search <https://www.baidu.com/s?wd=gettext+i18n>`_
-
-       `gettext i18n - Yandex search <https://www.yandex.com/search/?text=gettext+i18n>`_
+.. [1] | `gettext i18n - Google search <https://www.google.com/search?q=gettext+i18n>`_
+       | `gettext i18n - DuckDuckGo search <https://duckduckgo.com/?q=gettext+i18n>`_
+       | `gettext i18n - Ecosia search <https://www.ecosia.org/search?q=gettext+i18n>`_
+       | `gettext i18n - Bing search <https://www.bing.com/search?q=gettext+i18n>`_
+       | `gettext i18n - Yahoo search <https://search.yahoo.com/search?p=gettext+i18n>`_
+       | `gettext i18n - Baidu search <https://www.baidu.com/s?wd=gettext+i18n>`_
+       | `gettext i18n - Yandex search <https://www.yandex.com/search/?text=gettext+i18n>`_
 
 .. [2] `[AngularJS] i18n Directive <{filename}../29/angularjs-ng-i18n-directive%en.rst>`_
 

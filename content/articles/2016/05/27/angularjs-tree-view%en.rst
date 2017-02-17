@@ -18,14 +18,15 @@ Real world application of treeview is `Pāli Tipiṭaka`_.
 Source code:
 
 .. show_github_file:: siongui userpages content/code/angularjs-treeview/index.html
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/angularjs-treeview/app.js
-
+.. adsu:: 3
 .. show_github_file:: siongui userpages content/code/angularjs-treeview/treeview.js
-
+.. adsu:: 4
 .. show_github_file:: siongui userpages content/code/angularjs-treeview/treeviewData.js
-
+.. adsu:: 5
 .. show_github_file:: siongui userpages content/code/angularjs-treeview/treeview.css
+.. adsu:: 6
 
 ----
 
@@ -35,17 +36,13 @@ Tested on: ``Chromium Version 50.0.2661.102 Ubuntu 16.04 (64-bit)``, ``AngularJS
 
 References:
 
-.. [1] `javascript treeview - Google search <https://www.google.com/search?q=javascript+treeview>`_
-
-       `javascript treeview - DuckDuckGo search <https://duckduckgo.com/?q=javascript+treeview>`_
-
-       `javascript treeview - Bing search <https://www.bing.com/search?q=javascript+treeview>`_
-
-       `javascript treeview - Yahoo search <https://search.yahoo.com/search?p=javascript+treeview>`_
-
-       `javascript treeview - Baidu search <https://www.baidu.com/s?wd=javascript+treeview>`_
-
-       `javascript treeview - Yandex search <https://www.yandex.com/search/?text=javascript+treeview>`_
+.. [1] | `javascript treeview - Google search <https://www.google.com/search?q=javascript+treeview>`_
+       | `javascript treeview - DuckDuckGo search <https://duckduckgo.com/?q=javascript+treeview>`_
+       | `javascript treeview - Ecosia search <https://www.ecosia.org/search?q=javascript+treeview>`_
+       | `javascript treeview - Bing search <https://www.bing.com/search?q=javascript+treeview>`_
+       | `javascript treeview - Yahoo search <https://search.yahoo.com/search?p=javascript+treeview>`_
+       | `javascript treeview - Baidu search <https://www.baidu.com/s?wd=javascript+treeview>`_
+       | `javascript treeview - Yandex search <https://www.yandex.com/search/?text=javascript+treeview>`_
 
 
 .. _AngularJS: https://angularjs.org/

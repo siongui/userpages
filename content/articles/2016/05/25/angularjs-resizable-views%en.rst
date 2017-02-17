@@ -18,12 +18,13 @@ Real world application of resizable views is `Pāli Tipiṭaka`_.
 Source code:
 
 .. show_github_file:: siongui userpages content/code/angularjs-resizable-views/index.html
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/angularjs-resizable-views/app.js
-
+.. adsu:: 3
 .. show_github_file:: siongui userpages content/code/angularjs-resizable-views/resizableViews.js
-
+.. adsu:: 4
 .. show_github_file:: siongui userpages content/code/angularjs-resizable-views/style.css
+.. adsu:: 5
 
 ----
 
