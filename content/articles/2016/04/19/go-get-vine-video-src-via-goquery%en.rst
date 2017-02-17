@@ -2,7 +2,7 @@
 #######################################
 
 :date: 2016-04-19T00:06+08:00
-:tags: Go, Golang, Web Scrape, JSON, goquery
+:tags: Go, Golang, Web Scrape, JSON, goquery, CSS selectors
 :category: Go
 :summary: Get Vine_ video src URL via goquery_ in Go_ programming language.
           My answer to `Stack Overflow`_ question:
@@ -16,6 +16,7 @@ My answer to `Stack Overflow`_ question:
 `Getting blank return when using GoQuery to get video src`_
 
 .. show_github_file:: siongui userpages content/code/goquery-vine-video-src/so25517885.go
+.. adsu:: 2
 
 Output:
 
@@ -35,7 +36,7 @@ References:
 .. [1] `go - Getting blank return when using GoQuery to get video src - Stack Overflow <http://stackoverflow.com/questions/25517885/getting-blank-return-when-using-goquery-to-get-video-src>`_
 
 .. [2] `github.com/PuerkitoBio/goquery - GoDoc <https://godoc.org/github.com/PuerkitoBio/goquery>`_
-
+.. adsu:: 3
 .. [3] `Posts containing 'goquery' - Stack Overflow <http://stackoverflow.com/search?q=goquery>`_
 
 .. [4] `[Golang] Extract Title, Image, and URL via goquery <{filename}../../03/31/go-parse-buy123-webpage-to-rst%en.rst>`_

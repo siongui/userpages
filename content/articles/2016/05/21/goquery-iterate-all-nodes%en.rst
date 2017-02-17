@@ -2,7 +2,7 @@ goquery - Iterate over All DOM Elements in HTML
 ###############################################
 
 :date: 2016-05-21T21:12+08:00
-:tags: Go, Golang, DOM, goquery, Web Scrape, html
+:tags: Go, Golang, DOM, goquery, Web Scrape, html, CSS selectors
 :category: Go
 :summary: Iterate over all DOM nodes/elements via goquery_ in Go_ programming
           language.
