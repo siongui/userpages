@@ -23,22 +23,21 @@ Convert the name of files in directory to lowercase via Bash_ script.
     mv ${path} ${dir}/${file}
   done
 
+.. adsu:: 2
+
 ----
 
 References:
 
 .. [1] `[Bash] List All Files in Directory Recursively and Rename <{filename}../../../2015/02/02/bash-list-files-recursively-and-rename%en.rst>`_
 
-.. [2] `bash to lowercase - Google search <https://www.google.com/search?q=bash+to+lowercase>`_
+.. [2] | `bash to lowercase - Google search <https://www.google.com/search?q=bash+to+lowercase>`_
+       | `Converting string to lower case in Bash shell scripting - Stack Overflow <http://stackoverflow.com/questions/2264428/converting-string-to-lower-case-in-bash-shell-scripting>`_
 
-       `Converting string to lower case in Bash shell scripting - Stack Overflow <http://stackoverflow.com/questions/2264428/converting-string-to-lower-case-in-bash-shell-scripting>`_
-
-.. [3] `bash basename dirname - Google search <https://www.google.com/search?q=bash+basename+dirname>`_
-
-       `linux - Bash - get last dirname/filename in a file path argument - Stack Overflow <http://stackoverflow.com/questions/3294072/bash-get-last-dirname-filename-in-a-file-path-argument>`_
-
-.. [4] `bash path join - Google search <https://www.google.com/search?q=bash+path+join>`_
-
-       `linux - How to concatenate two strings to build a complete path - Stack Overflow <http://stackoverflow.com/questions/11226322/how-to-concatenate-two-strings-to-build-a-complete-path>`_
+.. [3] | `bash basename dirname - Google search <https://www.google.com/search?q=bash+basename+dirname>`_
+       | `linux - Bash - get last dirname/filename in a file path argument - Stack Overflow <http://stackoverflow.com/questions/3294072/bash-get-last-dirname-filename-in-a-file-path-argument>`_
+.. adsu:: 3
+.. [4] | `bash path join - Google search <https://www.google.com/search?q=bash+path+join>`_
+       | `linux - How to concatenate two strings to build a complete path - Stack Overflow <http://stackoverflow.com/questions/11226322/how-to-concatenate-two-strings-to-build-a-complete-path>`_
 
 .. _Bash: https://www.google.com/search?q=Bash

@@ -13,9 +13,13 @@ programming language).
 
 Source code:
 
-.. show_github_file:: siongui userpages content/code/go-wrap-word-in-span/pali.go
+.. rubric:: `Run Code on Go Playground <https://play.golang.org/p/X_pP7e0YuK>`_
+      :class: align-center
 
+.. show_github_file:: siongui userpages content/code/go-wrap-word-in-span/pali.go
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/go-wrap-word-in-span/pali_test.go
+.. adsu:: 3
 
 Output:
 
@@ -34,6 +38,8 @@ Output:
 Tested on: ``Ubuntu Linux 16.04``, ``Go 1.6.2``.
 
 ----
+
+.. adsu:: 4
 
 References:
 

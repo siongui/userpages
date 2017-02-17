@@ -15,7 +15,7 @@ programming language).
 Source code:
 
 .. show_github_file:: siongui userpages content/code/go-read-yes-no/askforconfirm.go
-
+.. adsu:: 2
 
 ----
 

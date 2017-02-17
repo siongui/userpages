@@ -24,10 +24,12 @@ getElementById_
 +++++++++++++++
 
 .. show_github_file:: siongui userpages content/code/go-net-html-getelementbyid/getelementbyid.go
+.. adsu:: 2
 
 Usage & Test:
 
 .. show_github_file:: siongui userpages content/code/go-net-html-getelementbyid/getelementbyid_test.go
+.. adsu:: 3
 
 ----
 
@@ -39,11 +41,9 @@ References:
 
 .. [1] `jquery iterate over elements - Google search <https://www.google.com/search?q=jquery+iterate+over+elements>`_
 
-.. [2] `net/html go - Google search <https://www.google.com/search?q=net/html+go>`_
-
-       `A Simple Web Scraper in Go | Gregory Schier <http://schier.co/blog/2015/04/26/a-simple-web-scraper-in-go.html>`_
-
-       `golang.org/x/net/html GoDoc <https://godoc.org/golang.org/x/net/html>`_
+.. [2] | `net/html go - Google search <https://www.google.com/search?q=net/html+go>`_
+       | `A Simple Web Scraper in Go | Gregory Schier <http://schier.co/blog/2015/04/26/a-simple-web-scraper-in-go.html>`_
+       | `golang.org/x/net/html GoDoc <https://godoc.org/golang.org/x/net/html>`_
 
 .. [3] `github.com/PuerkitoBio/goquery - GoDoc <https://godoc.org/github.com/PuerkitoBio/goquery>`_
 

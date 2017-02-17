@@ -7,7 +7,6 @@
 :summary: 泰國影集爆笑片段 ( `窈窕淑男的日記`_,
           Diary Tootsies The Series, `ไดอารี่ตุ๊ดซี่ส์`_)
 :og_image: http://p3.isanook.com/mv/0/ui/11/57409/aw_diary_toosies_a3-01_1453178995.jpg
-:adsu: yes
 
 
 .. raw:: html

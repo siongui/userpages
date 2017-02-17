@@ -22,8 +22,9 @@ Install `package width`_:
 Source code:
 
 .. show_github_file:: siongui userpages content/code/go-rst-metadata-template/rstmeta.go
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/go-rst-metadata-template/rstmeta_test.go
+.. adsu:: 3
 
 Output:
 
@@ -49,11 +50,12 @@ Tested on: ``Ubuntu Linux 15.10``, ``Go 1.6.1``.
 
 ----
 
+.. adsu:: 4
+
 References:
 
-.. [1] `[Golang] Get UTF-8 String Width <{filename}../../03/23/go-utf8-string-width%en.rst>`_
-
-       `golang.org/x/text/width - GoDoc <https://godoc.org/golang.org/x/text/width>`_
+.. [1] | `[Golang] Get UTF-8 String Width <{filename}../../03/23/go-utf8-string-width%en.rst>`_
+       | `golang.org/x/text/width - GoDoc <https://godoc.org/golang.org/x/text/width>`_
 
 .. [2] `go repeat string - Google search <https://www.google.com/search?q=go+repeat+string>`_
 

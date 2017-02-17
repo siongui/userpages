@@ -43,6 +43,8 @@ of HTML files in directory via Bash_ script.
     sed -i -e '$a\' ${path}
   done
 
+.. adsu:: 2
+
 ----
 
 References:
@@ -51,13 +53,11 @@ References:
 
 .. [2] `[Bash] Encoding Conversion, Newline Manipulation, String Replacement of File <{filename}../20/bash-file-encoding-conversion-newline-manipulation-string-replacement%en.rst>`_
 
-.. [3] `bash command success - Google search <https://www.google.com/search?q=bash+command+success>`_
+.. [3] | `bash command success - Google search <https://www.google.com/search?q=bash+command+success>`_
+       | `How to check if a command succeeded? - Ask Ubuntu <http://askubuntu.com/questions/29370/how-to-check-if-a-command-succeeded>`_
 
-       `How to check if a command succeeded? - Ask Ubuntu <http://askubuntu.com/questions/29370/how-to-check-if-a-command-succeeded>`_
-
-.. [4] `bash for loop continue - Google search <https://www.google.com/search?q=bash+for+loop+continue>`_
-
-       `Break and continue <http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_09_05.html>`_
+.. [4] | `bash for loop continue - Google search <https://www.google.com/search?q=bash+for+loop+continue>`_
+       | `Break and continue <http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_09_05.html>`_
 
 
 .. _Bash: https://www.google.com/search?q=Bash

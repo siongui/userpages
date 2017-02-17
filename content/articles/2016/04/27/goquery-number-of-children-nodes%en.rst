@@ -23,6 +23,7 @@ Install goquery_:
 Source code:
 
 .. show_github_file:: siongui userpages content/code/goquery-number-of-children/node.go
+.. adsu:: 2
 
 Output:
 
@@ -39,10 +40,9 @@ Tested on: ``Ubuntu Linux 16.04``, ``Go 1.6.2``.
 
 References:
 
-.. [1] `GitHub - PuerkitoBio/goquery: A little like that j-thing, only in Go. <https://github.com/PuerkitoBio/goquery>`_
-
-       `Tips and tricks · PuerkitoBio/goquery Wiki · GitHub <https://github.com/PuerkitoBio/goquery/wiki/Tips-and-tricks>`_
-
+.. [1] | `GitHub - PuerkitoBio/goquery: A little like that j-thing, only in Go. <https://github.com/PuerkitoBio/goquery>`_
+       | `Tips and tricks · PuerkitoBio/goquery Wiki · GitHub <https://github.com/PuerkitoBio/goquery/wiki/Tips-and-tricks>`_
+.. adsu:: 3
 .. [2] `github.com/PuerkitoBio/goquery - GoDoc <https://godoc.org/github.com/PuerkitoBio/goquery>`_
 
 

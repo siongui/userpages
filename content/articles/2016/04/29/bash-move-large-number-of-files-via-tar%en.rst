@@ -20,15 +20,15 @@ than mv_ command if there are a lot of small files.
 
 ----
 
+.. adsu:: 2
+
 References:
 
-.. [1] `tar directory without compression - Google search <https://www.google.com/search?q=tar+directory+without+compression>`_
+.. [1] | `tar directory without compression - Google search <https://www.google.com/search?q=tar+directory+without+compression>`_
+       | `linux - How can I use tar command to group files without compression? - Super User <http://superuser.com/questions/529926/how-can-i-use-tar-command-to-group-files-without-compression>`_
 
-       `linux - How can I use tar command to group files without compression? - Super User <http://superuser.com/questions/529926/how-can-i-use-tar-command-to-group-files-without-compression>`_
-
-.. [2] `untar tar file - Google search <https://www.google.com/search?q=untar+tar+file>`_
-
-       `HowTo : Extract (untar) [tar], [tar.gz] and [tar.bz2] Files | Linux Commands <http://www.shellhacks.com/en/HowTo-Extract-untar-tar-targz-and-tarbz2-Files>`_
+.. [2] | `untar tar file - Google search <https://www.google.com/search?q=untar+tar+file>`_
+       | `HowTo : Extract (untar) [tar], [tar.gz] and [tar.bz2] Files | Linux Commands <http://www.shellhacks.com/en/HowTo-Extract-untar-tar-targz-and-tarbz2-Files>`_
 
 
 .. _Bash: https://www.google.com/search?q=Bash

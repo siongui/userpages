@@ -29,8 +29,9 @@ Install `net/html`_ package
 ++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. show_github_file:: siongui userpages content/code/go-html-table-to-rst/table2rst.go
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/go-html-table-to-rst/table2rst_test.go
+.. adsu:: 3
 
 ----
 
@@ -42,16 +43,14 @@ References:
 
 .. [1] `jquery iterate over elements - Google search <https://www.google.com/search?q=jquery+iterate+over+elements>`_
 
-.. [2] `net/html go - Google search <https://www.google.com/search?q=net/html+go>`_
-
-       `A Simple Web Scraper in Go | Gregory Schier <http://schier.co/blog/2015/04/26/a-simple-web-scraper-in-go.html>`_
-
-       `golang.org/x/net/html GoDoc <https://godoc.org/golang.org/x/net/html>`_
+.. [2] | `net/html go - Google search <https://www.google.com/search?q=net/html+go>`_
+       | `A Simple Web Scraper in Go | Gregory Schier <http://schier.co/blog/2015/04/26/a-simple-web-scraper-in-go.html>`_
+       | `golang.org/x/net/html GoDoc <https://godoc.org/golang.org/x/net/html>`_
 
 .. [3] `github.com/PuerkitoBio/goquery - GoDoc <https://godoc.org/github.com/PuerkitoBio/goquery>`_
 
 .. [4] `[Python] Convert HTML Table to reStructuredText list-table <{filename}../../02/28/python-convert-html-table-to-rst-list-table%en.rst>`_
-
+.. adsu:: 4
 .. [5] `html table to rst list-table · twnanda/twnanda@e022835 · GitHub <https://github.com/twnanda/twnanda/commit/e022835fdddd3282588f38304c649ad71d73476b>`_
 
 .. [6] `[Golang] HTML Table to reStructuredText list-table via goquery <{filename}../14/go-html-table-to-rst-list-table-via-goquery%en.rst>`_

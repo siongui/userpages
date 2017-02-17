@@ -31,8 +31,6 @@ in IE8. It fails in IE8 when I did something like the following code snippet:
   elm.innerHTML = '';
   elm.appendChild(childs);
 
-.. adsu:: 2
-
 I don't know why the above code will not work in IE8, so I did some search and
 found better ways to remove all child nodes in references [1]_ and [2]_. The
 "canonical" and bug-free way should be as follows:
@@ -43,11 +41,11 @@ found better ways to remove all child nodes in references [1]_ and [2]_. The
     elm.removeChild(elm.lastChild);
   }
 
+.. adsu:: 2
+
 Maybe for some people the "canonical" way is obvious, but it takes me quite a
 while to debug and know that sometimes the trivial way will not work. So I wrote
 this post for those who have the same trouble as me.
-
-.. adsu:: 3
 
 ----
 
@@ -56,5 +54,6 @@ References:
 .. [1] `Remove all the children DOM elements in div <http://stackoverflow.com/questions/683366/remove-all-the-children-dom-elements-in-div>`_
 
 .. [2] `Remove all child elements of a DOM node in JavaScript? <http://stackoverflow.com/questions/3955229/remove-all-child-elements-of-a-dom-node-in-javascript>`_
-
+.. adsu:: 3
 .. [3] `[Dart] DOM Element Remove All Children <{filename}../../../2014/01/31/dart-element-remove-all-children%en.rst>`_
+.. [4] `[Golang] Remove All Child Nodes of a DOM Element by GopherJS <{filename}../../../2016/01/31/go-remove-all-children-of-dom-element-by-gopherjs%en.rst>`_

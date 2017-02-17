@@ -40,6 +40,8 @@ Assume you have a rst_ `list-table`_ as follows:
 
 You want to link to the table from another page. How to do it?
 
+.. adsu:: 2
+
 Solution
 ++++++++
 
@@ -77,6 +79,8 @@ Then in another page, you can link to the table as follows:
   `link to table in another page <{filename}/path/to/your/file.rst#my-reference-label>`_
 
 Please note that use lower-case name if your reference label.
+
+.. adsu:: 3
 
 ----
 

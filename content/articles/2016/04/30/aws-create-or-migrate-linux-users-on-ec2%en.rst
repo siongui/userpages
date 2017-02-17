@@ -45,6 +45,7 @@ Download *fookey* to your local machine. Now you can SSH login as *foo*:
 
 For more details, see [2]_, [4]_, and [5]_.
 
+.. adsu:: 2
 
 Migrate User Account
 ++++++++++++++++++++
@@ -60,6 +61,8 @@ his home directory. Then
 For more details or more sophisticated case, see [6]_ and [7]_.
 
 ----
+
+.. adsu:: 3
 
 References:
 
