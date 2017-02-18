@@ -30,6 +30,8 @@ GopherJS_ Get DOM_ CSS
   // cast as string
   element.Get("style").Get("offsetWidth").String()
 
+.. adsu:: 2
+
 ----
 
 References:
@@ -39,9 +41,8 @@ References:
        `GopherJS Playground <http://www.gopherjs.org/playground/>`_,
        |godoc|)
 
-.. [2] `javascript set css - Google search <https://www.google.com/search?q=javascript+set+css>`_
-
-       `JavaScript DOM CSS <http://www.w3schools.com/js/js_htmldom_css.asp>`_
+.. [2] | `javascript set css - Google search <https://www.google.com/search?q=javascript+set+css>`_
+       | `JavaScript DOM CSS <http://www.w3schools.com/js/js_htmldom_css.asp>`_
 
 .. [3] `[GopherJS] Insert CSS Dynamically <{filename}../04/gopherjs-add-css-dynamically%en.rst>`_
 

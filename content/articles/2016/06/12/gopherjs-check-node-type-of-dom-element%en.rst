@@ -26,9 +26,11 @@ Check node type (nodeType_) of DOM_ element via GopherJS_.
   	// comment node
   }
 
-See [2]_ for more nodeType_.
+See [3]_ for more nodeType_.
 
 ----
+
+.. adsu:: 2
 
 References:
 
@@ -37,19 +39,15 @@ References:
        `GopherJS Playground <http://www.gopherjs.org/playground/>`_,
        |godoc|)
 
-.. [2] `javascript nodeType - Google search <https://www.google.com/search?q=javascript+nodeType>`_
+.. [2] | `javascript nodeType - Google search <https://www.google.com/search?q=javascript+nodeType>`_
+       | `javascript nodeType - DuckDuckGo search <https://duckduckgo.com/?q=javascript+nodeType>`_
+       | `javascript nodeType - Ecosia search <https://www.ecosia.org/search?q=javascript+nodeType>`_
+       | `javascript nodeType - Bing search <https://www.bing.com/search?q=javascript+nodeType>`_
+       | `javascript nodeType - Yahoo search <https://search.yahoo.com/search?p=javascript+nodeType>`_
+       | `javascript nodeType - Baidu search <https://www.baidu.com/s?wd=javascript+nodeType>`_
+       | `javascript nodeType - Yandex search <https://www.yandex.com/search/?text=javascript+nodeType>`_
 
-       `javascript nodeType - DuckDuckGo search <https://duckduckgo.com/?q=javascript+nodeType>`_
-
-       `javascript nodeType - Bing search <https://www.bing.com/search?q=javascript+nodeType>`_
-
-       `javascript nodeType - Yahoo search <https://search.yahoo.com/search?p=javascript+nodeType>`_
-
-       `javascript nodeType - Baidu search <https://www.baidu.com/s?wd=javascript+nodeType>`_
-
-       `javascript nodeType - Yandex search <https://www.yandex.com/search/?text=javascript+nodeType>`_
-
-       `Node.nodeType - Web APIs | MDN <https://developer.mozilla.org/en/docs/Web/API/Node/nodeType>`_
+.. [3] `Node.nodeType - Web APIs | MDN <https://developer.mozilla.org/en/docs/Web/API/Node/nodeType>`_
 
 .. _GopherJS: http://www.gopherjs.org/
 .. _DOM: https://www.google.com/search?q=DOM

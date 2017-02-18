@@ -23,6 +23,8 @@ Access child nodes (childNodes_) of DOM_ element via GopherJS_.
   	// do somthing to the child element here
   }
 
+.. adsu:: 2
+
 ----
 
 References:
@@ -32,9 +34,8 @@ References:
        `GopherJS Playground <http://www.gopherjs.org/playground/>`_,
        |godoc|)
 
-.. [2] `childNodes - Google search <https://www.google.com/search?q=childNodes>`_
-
-       `Node.childNodes - Web APIs | MDN <https://developer.mozilla.org/en-US/docs/Web/API/Node/childNodes>`_
+.. [2] | `childNodes - Google search <https://www.google.com/search?q=childNodes>`_
+       | `Node.childNodes - Web APIs | MDN <https://developer.mozilla.org/en-US/docs/Web/API/Node/childNodes>`_
 
 .. _GopherJS: http://www.gopherjs.org/
 .. _DOM: https://www.google.com/search?q=DOM

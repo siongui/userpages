@@ -24,9 +24,11 @@ Replace element of id ``foo`` with another element of id ``foo2``
   element2 := js.Global.Get("document").Call("getElementById", "foo2")
   element.Get("parentNode").Call("replaceChild", element2, element)
 
-See [2]_ for more information.
+See [3]_ for more information.
 
 ----
+
+.. adsu:: 2
 
 References:
 
@@ -37,11 +39,13 @@ References:
 
 .. [2] | `javascript replace element - Google search <https://www.google.com/search?q=javascript+replace+element>`_
        | `javascript replace element - DuckDuckGo search <https://duckduckgo.com/?q=javascript+replace+element>`_
+       | `javascript replace element - Ecosia search <https://www.ecosia.org/search?q=javascript+replace+element>`_
        | `javascript replace element - Bing search <https://www.bing.com/search?q=javascript+replace+element>`_
        | `javascript replace element - Yahoo search <https://search.yahoo.com/search?p=javascript+replace+element>`_
        | `javascript replace element - Baidu search <https://www.baidu.com/s?wd=javascript+replace+element>`_
        | `javascript replace element - Yandex search <https://www.yandex.com/search/?text=javascript+replace+element>`_
-       | `How to replace DOM element in place using Javascript? - Stack Overflow <http://stackoverflow.com/questions/843680/how-to-replace-dom-element-in-place-using-javascript>`_
+
+.. [3] `How to replace DOM element in place using Javascript? - Stack Overflow <http://stackoverflow.com/questions/843680/how-to-replace-dom-element-in-place-using-javascript>`_
 
 
 .. _GopherJS: http://www.gopherjs.org/

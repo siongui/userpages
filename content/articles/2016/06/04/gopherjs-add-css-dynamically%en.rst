@@ -29,6 +29,8 @@ Insert (add, append) CSS_ to head_ element via GopherJS_.
   	js.Global.Get("document").Call("getElementsByTagName", "head").Call("item", 0).Call("appendChild", s)
   }
 
+.. adsu:: 2
+
 ----
 
 References:

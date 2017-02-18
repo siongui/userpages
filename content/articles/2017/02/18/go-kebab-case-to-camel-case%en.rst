@@ -8,7 +8,7 @@
 :adsu: yes
 
 Convert the `kebab-case`_ (also called spinal-case, Train-Case, or Lisp-case)
-string to camelCase_ in Golang_.
+[4]_ string to camelCase_ [3]_ in Golang_.
 
 The motivation is to convert the property name of CSS (kebab-case) to element's
 inline style attribute (camelCase) manipulated by JavaScript.
@@ -19,8 +19,8 @@ inline style attribute (camelCase) manipulated by JavaScript.
 .. show_github_file:: siongui userpages content/code/go/kebab-case-to-camelCase/converter.go
 .. adsu:: 2
 
-Use range_ keyword to iterate over the string. If **-** is met, *isToUpper* is
-set to *true*. In next iteration convert the letter to upper case by
+Use range_ keyword [5]_ to iterate over the string. If **-** is met, *isToUpper*
+is set to *true*. In next iteration convert the letter to upper case by
 strings.ToUpper_, and set *isToUpper* as *false*.
 
 .. show_github_file:: siongui userpages content/code/go/kebab-case-to-camelCase/converter_test.go
@@ -30,7 +30,7 @@ strings.ToUpper_, and set *isToUpper* as *false*.
 
 Tested on:
 
-- ``Ubuntu Linux 16.10``, ``Go 1.7.5``
+- ``Ubuntu Linux 16.10``, ``Go 1.8``
 - The `Go Playground`_
 
 ----

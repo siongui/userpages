@@ -16,6 +16,8 @@ If you want to access other nodeType, see [2]_.
 
 ----
 
+.. adsu:: 2
+
 References:
 
 .. [1] `GopherJS - A compiler from Go to JavaScript <http://www.gopherjs.org/>`_

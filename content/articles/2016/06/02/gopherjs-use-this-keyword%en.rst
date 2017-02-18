@@ -19,9 +19,9 @@ become red.
 Source code: use MakeFunc_ to use this_ keyword.
 
 .. show_github_file:: siongui userpages content/code/gopherjs-this-keyword/index.html
-
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/gopherjs-this-keyword/app.go
-
+.. adsu:: 3
 
 ----
 

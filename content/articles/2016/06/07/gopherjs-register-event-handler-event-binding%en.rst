@@ -23,6 +23,7 @@ Set onclick_ property
   	/* do something to handle click event */
   })
 
+.. adsu:: 2
 
 addEventListener_
 +++++++++++++++++
@@ -37,6 +38,8 @@ addEventListener_
   })
 
 ----
+
+.. adsu:: 3
 
 References:
 

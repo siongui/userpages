@@ -24,6 +24,8 @@ You can also use querySelector_ [2]_ to access head_ element:
 
 ----
 
+.. adsu:: 2
+
 References:
 
 .. [1] `GopherJS - A compiler from Go to JavaScript <http://www.gopherjs.org/>`_

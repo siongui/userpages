@@ -6,7 +6,6 @@
 :category: 轉錄
 :summary: 金蘭花園 - 專營：沙漠玫瑰，茶花，各種花草水果苗
 :og_image: /extra/golden-orchid-garden/card-front.jpg
-:adsu: yes
 
 
 專營：沙漠玫瑰，茶花，各種花草水果苗

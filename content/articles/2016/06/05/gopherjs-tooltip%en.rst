@@ -24,6 +24,8 @@ Tested on: ``Chromium Version 50.0.2661.102 Ubuntu 16.04 (64-bit)``, ``Go 1.6.2`
 
 ----
 
+.. adsu:: 2
+
 References:
 
 .. [1] `GitHub - siongui/gopherjs-tooltip: Tooltip in Go. Compiled to JavaScript via GopherJS <https://github.com/siongui/gopherjs-tooltip>`_
