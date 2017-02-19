@@ -7,6 +7,7 @@
 :category: Go
 :summary: Conversion of Traditional and Simplified Chinese by OpenCC_ and Go_
           programming language.
+:og_image: http://www.unixstickers.com/image/cache/data/stickers/golang/golang.sh-600x600.png
 :adsu: yes
 
 
@@ -14,6 +15,7 @@ OpenCC_ is a tool (both online and offline) for conversion Traditional and
 Simplified Chinese. In this post, we will write a Go_ program to use OpenCC_ to
 convert Simplified Chinese to Traditional Chinese.
 
+*If you need a converter implemented in Go, please visit* gojianfan_ [7]_.
 
 Install OpenCC_
 +++++++++++++++
@@ -154,14 +156,14 @@ References:
        (my modified OpenCC wrapper for Golang, |godoc2|)
 
 .. [5] `[JavaScript] Conversion of Traditional and Simplified Chinese <{filename}../../../2012/10/03/javascript-conversion-of-traditional-and-simplified-chinese%en.rst>`_
-
-.. [6] `[Python] Conversion of Traditional and Simplified Chinese <{filename}../../../2016/01/04/python-conversion-of-traditional-and-simplified-chinese%en.rst>`_
-
+.. [6] `[Python] Conversion of Traditional and Simplified Chinese <{filename}../04/python-conversion-of-traditional-and-simplified-chinese%en.rst>`_
+.. [7] `[Golang] Converter for Traditional and Simplified Chinese <{filename}../../../2017/02/19/go-converter-of-traditional-and-simplified-chinese%en.rst>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
 .. _OpenCC: http://opencc.byvoid.com/
 .. _OpenCC repository on GitHub: https://github.com/BYVoid/OpenCC
+.. _gojianfan: https://github.com/siongui/gojianfan
 
 .. |godoc1| image:: https://godoc.org/github.com/stevenyao/go-opencc?status.png
    :target: https://godoc.org/github.com/stevenyao/go-opencc

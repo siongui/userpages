@@ -7,6 +7,7 @@
 :category: Python
 :summary: Conversion of Traditional and Simplified Chinese by OpenCC_ and
           Python_ programming language.
+:og_image: https://www.python.org/static/opengraph-icon-200x200.png
 :adsu: yes
 
 
@@ -113,6 +114,7 @@ References:
 .. [10] `[JavaScript] Conversion of Traditional and Simplified Chinese <{filename}../../../2012/10/03/javascript-conversion-of-traditional-and-simplified-chinese%en.rst>`_
 
 .. [11] Google Search: `Python.h: No such file or directory <https://www.google.com/search?q=Python.h%3A+No+such+file+or+directory>`_
+.. [12] `[Golang] Converter for Traditional and Simplified Chinese <{filename}../../../2017/02/19/go-converter-of-traditional-and-simplified-chinese%en.rst>`_
 
 
 .. _Python: https://www.python.org/

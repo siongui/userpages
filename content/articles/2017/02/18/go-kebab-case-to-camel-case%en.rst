@@ -5,6 +5,7 @@
 :tags: Go, Golang, String Manipulation
 :category: Go
 :summary: Convert the `kebab-case`_ to camelCase_ in Go_ programming language.
+:og_image: http://www.unixstickers.com/image/cache/data/stickers/golang/golang.sh-600x600.png
 :adsu: yes
 
 Convert the `kebab-case`_ (also called spinal-case, Train-Case, or Lisp-case)

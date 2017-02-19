@@ -6,6 +6,7 @@
 :category: JavaScript
 :summary: JavaScript library `New Tong Wen Tang` for conversion of Traditional
           and Simplified Chinese.
+:og_image: https://udemy-images.udemy.com/course/750x422/672274_cd11_2.jpg
 :adsu: yes
 
 
@@ -67,3 +68,4 @@ References:
 .. [2] `[Golang] Conversion of Traditional and Simplified Chinese <{filename}../../../2016/01/03/go-conversion-of-traditional-and-simplified-chinese%en.rst>`_
 
 .. [3] `[Python] Conversion of Traditional and Simplified Chinese <{filename}../../../2016/01/04/python-conversion-of-traditional-and-simplified-chinese%en.rst>`_
+.. [4] `[Golang] Converter for Traditional and Simplified Chinese <{filename}../../../2017/02/19/go-converter-of-traditional-and-simplified-chinese%en.rst>`_
