@@ -24,21 +24,15 @@ Tested on: ``Ubuntu Linux 16.10``.
 
 References:
 
-.. [1] `curl google closure compiler - Google search <https://www.google.com/search?q=curl+google+closure+compiler>`_
-
-       `curl google closure compiler - DuckDuckGo search <https://duckduckgo.com/?q=curl+google+closure+compiler>`_
-
-       `curl google closure compiler - Bing search <https://www.bing.com/search?q=curl+google+closure+compiler>`_
-
-       `curl google closure compiler - Yahoo search <https://search.yahoo.com/search?p=curl+google+closure+compiler>`_
-
-       `curl google closure compiler - Baidu search <https://www.baidu.com/s?wd=curl+google+closure+compiler>`_
-
-       `curl google closure compiler - Yandex search <https://www.yandex.com/search/?text=curl+google+closure+compiler>`_
-
-       `JS minifying script with curl and Closure Compiler REST API · GitHub <https://gist.github.com/gurdiga/4143516>`_
-
-       `Forrst | Use Google Closure Compiler and curl to minify Javascript - Some code from badsyntax  <http://zurb.com/forrst/posts/Use_Google_Closure_Compiler_and_curl_to_minify_J-Cgb>`_
+.. [1] | `curl google closure compiler - Google search <https://www.google.com/search?q=curl+google+closure+compiler>`_
+       | `curl google closure compiler - DuckDuckGo search <https://duckduckgo.com/?q=curl+google+closure+compiler>`_
+       | `curl google closure compiler - Ecosia search <https://www.ecosia.org/search?q=curl+google+closure+compiler>`_
+       | `curl google closure compiler - Bing search <https://www.bing.com/search?q=curl+google+closure+compiler>`_
+       | `curl google closure compiler - Yahoo search <https://search.yahoo.com/search?p=curl+google+closure+compiler>`_
+       | `curl google closure compiler - Baidu search <https://www.baidu.com/s?wd=curl+google+closure+compiler>`_
+       | `curl google closure compiler - Yandex search <https://www.yandex.com/search/?text=curl+google+closure+compiler>`_
+       | `JS minifying script with curl and Closure Compiler REST API · GitHub <https://gist.github.com/gurdiga/4143516>`_
+       | `Forrst | Use Google Closure Compiler and curl to minify Javascript - Some code from badsyntax  <http://zurb.com/forrst/posts/Use_Google_Closure_Compiler_and_curl_to_minify_J-Cgb>`_
 
 .. [2] see tag of ``Minify HTML/CSS/JavaScript``
 

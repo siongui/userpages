@@ -31,20 +31,16 @@ Source code tested on:
 
 References:
 
-.. [1] `go pass commandline argument - Google search <https://www.google.com/search?q=go+pass+commandline+argument>`_
-
-       `go pass commandline argument - DuckDuckGo search <https://duckduckgo.com/?q=go+pass+commandline+argument>`_
-
-       `go pass commandline argument - Bing search <https://www.bing.com/search?q=go+pass+commandline+argument>`_
-
-       `go pass commandline argument - Yahoo search <https://search.yahoo.com/search?p=go+pass+commandline+argument>`_
-
-       `go pass commandline argument - Baidu search <https://www.baidu.com/s?wd=go+pass+commandline+argument>`_
-
-       `go pass commandline argument - Yandex search <https://www.yandex.com/search/?text=go+pass+commandline+argument>`_
+.. [1] | `go pass commandline argument - Google search <https://www.google.com/search?q=go+pass+commandline+argument>`_
+       | `go pass commandline argument - DuckDuckGo search <https://duckduckgo.com/?q=go+pass+commandline+argument>`_
+       | `go pass commandline argument - Ecosia search <https://www.ecosia.org/search?q=go+pass+commandline+argument>`_
+       | `go pass commandline argument - Bing search <https://www.bing.com/search?q=go+pass+commandline+argument>`_
+       | `go pass commandline argument - Yahoo search <https://search.yahoo.com/search?p=go+pass+commandline+argument>`_
+       | `go pass commandline argument - Baidu search <https://www.baidu.com/s?wd=go+pass+commandline+argument>`_
+       | `go pass commandline argument - Yandex search <https://www.yandex.com/search/?text=go+pass+commandline+argument>`_
 
 .. [2] `flag - The Go Programming Language <https://golang.org/pkg/flag/>`_
-
+.. adsu:: 4
 .. [3] `Go by Example: Command-Line Flags <https://gobyexample.com/command-line-flags>`_
 
 .. [4] `[Golang] Read Command-line Arguments Example <{filename}../../../2015/02/18/go-parse-command-line-arguments%en.rst>`_

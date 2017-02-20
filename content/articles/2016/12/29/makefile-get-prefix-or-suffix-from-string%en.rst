@@ -38,23 +38,16 @@ References:
 
 .. adsu:: 3
 
-.. [2] `makefile string starts with - Google search <https://www.google.com/search?q=makefile+string+starts+with>`_
-
-       `makefile string starts with - DuckDuckGo search <https://duckduckgo.com/?q=makefile+string+starts+with>`_
-
-       `makefile string starts with - Bing search <https://www.bing.com/search?q=makefile+string+starts+with>`_
-
-       `makefile string starts with - Yahoo search <https://search.yahoo.com/search?p=makefile+string+starts+with>`_
-
-       `makefile string starts with - Baidu search <https://www.baidu.com/s?wd=makefile+string+starts+with>`_
-
-       `makefile string starts with - Yandex search <https://www.yandex.com/search/?text=makefile+string+starts+with>`_
-
-       `Get the first letter of a make variable - Stack Overflow <http://stackoverflow.com/questions/12798666/get-the-first-letter-of-a-make-variable>`_
-
-       `makefile if else - Google search <https://www.google.com/search?q=makefile+if+else>`_
-
-       `ugly fix for OpenCC build issue · siongui/pali@f2d3adf · GitHub <https://github.com/siongui/pali/commit/f2d3adf00117de0b146b3e30c4f0955d33205c02>`_
+.. [2] | `makefile string starts with - Google search <https://www.google.com/search?q=makefile+string+starts+with>`_
+       | `makefile string starts with - DuckDuckGo search <https://duckduckgo.com/?q=makefile+string+starts+with>`_
+       | `makefile string starts with - Ecosia search <https://www.ecosia.org/search?q=makefile+string+starts+with>`_
+       | `makefile string starts with - Bing search <https://www.bing.com/search?q=makefile+string+starts+with>`_
+       | `makefile string starts with - Yahoo search <https://search.yahoo.com/search?p=makefile+string+starts+with>`_
+       | `makefile string starts with - Baidu search <https://www.baidu.com/s?wd=makefile+string+starts+with>`_
+       | `makefile string starts with - Yandex search <https://www.yandex.com/search/?text=makefile+string+starts+with>`_
+       | `Get the first letter of a make variable - Stack Overflow <http://stackoverflow.com/questions/12798666/get-the-first-letter-of-a-make-variable>`_
+       | `makefile if else - Google search <https://www.google.com/search?q=makefile+if+else>`_
+       | `ugly fix for OpenCC build issue · siongui/pali@f2d3adf · GitHub <https://github.com/siongui/pali/commit/f2d3adf00117de0b146b3e30c4f0955d33205c02>`_
 
 .. _Makefile: https://www.google.com/search?q=Makefile
 .. _prefix: https://www.google.com/search?q=prefix

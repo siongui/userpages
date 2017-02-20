@@ -48,46 +48,31 @@ Tested on: ``Ubuntu Linux 16.10``, ``Go 1.7.4``.
 
 References:
 
-.. [1] `golang remove prefix - Google search <https://www.google.com/search?q=golang+remove+prefix>`_
+.. [1] | `golang remove prefix - Google search <https://www.google.com/search?q=golang+remove+prefix>`_
+       | `golang remove prefix - DuckDuckGo search <https://duckduckgo.com/?q=golang+remove+prefix>`_
+       | `golang remove prefix - Ecosia search <https://www.ecosia.org/search?q=golang+remove+prefix>`_
+       | `golang remove prefix - Bing search <https://www.bing.com/search?q=golang+remove+prefix>`_
+       | `golang remove prefix - Yahoo search <https://search.yahoo.com/search?p=golang+remove+prefix>`_
+       | `golang remove prefix - Baidu search <https://www.baidu.com/s?wd=golang+remove+prefix>`_
+       | `golang remove prefix - Yandex search <https://www.yandex.com/search/?text=golang+remove+prefix>`_
+       | `func TrimPrefix - Package strings - The Go Programming Language <https://golang.org/pkg/strings/#TrimPrefix>`_
+       | `func TrimSuffix - Package strings - The Go Programming Language <https://golang.org/pkg/strings/#TrimSuffix>`_
 
-       `golang remove prefix - DuckDuckGo search <https://duckduckgo.com/?q=golang+remove+prefix>`_
+.. [2] | `golang remove prefix from string - Google search <https://www.google.com/search?q=golang+remove+prefix+from+string>`_
+       | `golang remove prefix from string - DuckDuckGo search <https://duckduckgo.com/?q=golang+remove+prefix+from+string>`_
+       | `golang remove prefix from string - Ecosia search <https://www.ecosia.org/search?q=golang+remove+prefix+from+string>`_
+       | `golang remove prefix from string - Bing search <https://www.bing.com/search?q=golang+remove+prefix+from+string>`_
+       | `golang remove prefix from string - Yahoo search <https://search.yahoo.com/search?p=golang+remove+prefix+from+string>`_
+       | `golang remove prefix from string - Baidu search <https://www.baidu.com/s?wd=golang+remove+prefix+from+string>`_
+       | `golang remove prefix from string - Yandex search <https://www.yandex.com/search/?text=golang+remove+prefix+from+string>`_
 
-       `golang remove prefix - Bing search <https://www.bing.com/search?q=golang+remove+prefix>`_
-
-       `golang remove prefix - Yahoo search <https://search.yahoo.com/search?p=golang+remove+prefix>`_
-
-       `golang remove prefix - Baidu search <https://www.baidu.com/s?wd=golang+remove+prefix>`_
-
-       `golang remove prefix - Yandex search <https://www.yandex.com/search/?text=golang+remove+prefix>`_
-
-       `func TrimPrefix - Package strings - The Go Programming Language <https://golang.org/pkg/strings/#TrimPrefix>`_
-
-       `func TrimSuffix - Package strings - The Go Programming Language <https://golang.org/pkg/strings/#TrimSuffix>`_
-
-.. [2] `golang remove prefix from string - Google search <https://www.google.com/search?q=golang+remove+prefix+from+string>`_
-
-       `golang remove prefix from string - DuckDuckGo search <https://duckduckgo.com/?q=golang+remove+prefix+from+string>`_
-
-       `golang remove prefix from string - Bing search <https://www.bing.com/search?q=golang+remove+prefix+from+string>`_
-
-       `golang remove prefix from string - Yahoo search <https://search.yahoo.com/search?p=golang+remove+prefix+from+string>`_
-
-       `golang remove prefix from string - Baidu search <https://www.baidu.com/s?wd=golang+remove+prefix+from+string>`_
-
-       `golang remove prefix from string - Yandex search <https://www.yandex.com/search/?text=golang+remove+prefix+from+string>`_
-
-.. [3] `golang trim prefix from string - Google search <https://www.google.com/search?q=golang+trim+prefix+from+string>`_
-
-       `golang trim prefix from string - DuckDuckGo search <https://duckduckgo.com/?q=golang+trim+prefix+from+string>`_
-
-       `golang trim prefix from string - Bing search <https://www.bing.com/search?q=golang+trim+prefix+from+string>`_
-
-       `golang trim prefix from string - Yahoo search <https://search.yahoo.com/search?p=golang+trim+prefix+from+string>`_
-
-       `golang trim prefix from string - Baidu search <https://www.baidu.com/s?wd=golang+trim+prefix+from+string>`_
-
-       `golang trim prefix from string - Yandex search <https://www.yandex.com/search/?text=golang+trim+prefix+from+string>`_
-
+.. [3] | `golang trim prefix from string - Google search <https://www.google.com/search?q=golang+trim+prefix+from+string>`_
+       | `golang trim prefix from string - DuckDuckGo search <https://duckduckgo.com/?q=golang+trim+prefix+from+string>`_
+       | `golang trim prefix from string - Ecosia search <https://www.ecosia.org/search?q=golang+trim+prefix+from+string>`_
+       | `golang trim prefix from string - Bing search <https://www.bing.com/search?q=golang+trim+prefix+from+string>`_
+       | `golang trim prefix from string - Yahoo search <https://search.yahoo.com/search?p=golang+trim+prefix+from+string>`_
+       | `golang trim prefix from string - Baidu search <https://www.baidu.com/s?wd=golang+trim+prefix+from+string>`_
+       | `golang trim prefix from string - Yandex search <https://www.yandex.com/search/?text=golang+trim+prefix+from+string>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

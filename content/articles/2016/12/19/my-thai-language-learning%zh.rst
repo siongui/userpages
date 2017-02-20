@@ -398,6 +398,8 @@
      - 灰姑娘
      - Cinderella
 
+.. adsu:: 4
+
 華裔相關
 ++++++++
 
@@ -672,6 +674,8 @@
      - 機會
      - chance
 
+.. adsu:: 5
+
 `時間日期`_
 +++++++++++
 
@@ -741,6 +745,8 @@
      -
      - 可怕
      - scary
+
+.. adsu:: 6
 
 拼音
 ++++
@@ -953,6 +959,10 @@
 
        `คำศัพท์อีสานน่ารู้ - Pantip <https://pantip.com/topic/32041051>`_
 
+.. [2] | `ปั๊มภาษาจีน 加油站中文 <https://www.facebook.com/pumpchinese/>`_
+       | `ปั๊มภาษาจีน 加油站中文 (@pumpchinese) • Instagram photos and videos <https://www.instagram.com/pumpchinese/>`_
+
+.. [3] `Suwanna Future C <https://www.facebook.com/SuwannaFutureC/>`_
 
 .. _佛教相關用詞: {filename}buddhist-terms-my-thai-language-learning%zh.rst
 .. _時間日期: {filename}date-time-my-thai-language-learning%zh.rst

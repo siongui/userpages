@@ -48,10 +48,9 @@ References:
        (`GitHub <https://github.com/gopherjs/gopherjs>`__,
        `GopherJS Playground <http://www.gopherjs.org/playground/>`_,
        |godoc|)
-
-.. [2] `Document.createElement() - Web APIs | MDN <https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement>`_
-
-       `Document.createTextNode() - Web APIs | MDN <https://developer.mozilla.org/en-US/docs/Web/API/Document/createTextNode>`_
+.. adsu:: 3
+.. [2] | `Document.createElement() - Web APIs | MDN <https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement>`_
+       | `Document.createTextNode() - Web APIs | MDN <https://developer.mozilla.org/en-US/docs/Web/API/Document/createTextNode>`_
 
 
 .. _GopherJS: http://www.gopherjs.org/

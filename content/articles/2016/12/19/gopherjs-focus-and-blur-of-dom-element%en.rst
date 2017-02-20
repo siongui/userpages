@@ -31,10 +31,9 @@ References:
        (`GitHub <https://github.com/gopherjs/gopherjs>`__,
        `GopherJS Playground <http://www.gopherjs.org/playground/>`_,
        |godoc|)
-
-.. [2] `HTML DOM focus() Method <http://www.w3schools.com/jsref/met_html_focus.asp>`_
-
-       `HTML DOM blur() Method <http://www.w3schools.com/jsref/met_html_blur.asp>`_
+.. adsu:: 4
+.. [2] | `HTML DOM focus() Method <http://www.w3schools.com/jsref/met_html_focus.asp>`_
+       | `HTML DOM blur() Method <http://www.w3schools.com/jsref/met_html_blur.asp>`_
 
 .. _GopherJS: http://www.gopherjs.org/
 .. _DOM: https://www.google.com/search?q=DOM

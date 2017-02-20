@@ -51,20 +51,15 @@ Tested on `Ubuntu Linux 16.10`_, `GNU make 4.1-9`_.
 
 References:
 
-.. [1] `makefile change directory - Google search <https://www.google.com/search?q=makefile+change+directory>`_
-
-       `makefile change directory - DuckDuckGo search <https://duckduckgo.com/?q=makefile+change+directory>`_
-
-       `makefile change directory - Bing search <https://www.bing.com/search?q=makefile+change+directory>`_
-
-       `makefile change directory - Yahoo search <https://search.yahoo.com/search?p=makefile+change+directory>`_
-
-       `makefile change directory - Baidu search <https://www.baidu.com/s?wd=makefile+change+directory>`_
-
-       `makefile change directory - Yandex search <https://www.yandex.com/search/?text=makefile+change+directory>`_
-
-       `linux - How do I write the 'cd' command in a makefile? - Stack Overflow <http://stackoverflow.com/questions/1789594/how-do-i-write-the-cd-command-in-a-makefile>`_
-
+.. [1] | `makefile change directory - Google search <https://www.google.com/search?q=makefile+change+directory>`_
+       | `makefile change directory - DuckDuckGo search <https://duckduckgo.com/?q=makefile+change+directory>`_
+       | `makefile change directory - Ecosia search <https://www.ecosia.org/search?q=makefile+change+directory>`_
+       | `makefile change directory - Bing search <https://www.bing.com/search?q=makefile+change+directory>`_
+       | `makefile change directory - Yahoo search <https://search.yahoo.com/search?p=makefile+change+directory>`_
+       | `makefile change directory - Baidu search <https://www.baidu.com/s?wd=makefile+change+directory>`_
+       | `makefile change directory - Yandex search <https://www.yandex.com/search/?text=makefile+change+directory>`_
+       | `linux - How do I write the 'cd' command in a makefile? - Stack Overflow <http://stackoverflow.com/questions/1789594/how-do-i-write-the-cd-command-in-a-makefile>`_
+.. adsu:: 4
 .. [2] `Publishing to GitHub - Tips — Pelican 3.7.1.dev0 documentation <http://docs.getpelican.com/en/latest/tips.html#publishing-to-github>`_
 
 

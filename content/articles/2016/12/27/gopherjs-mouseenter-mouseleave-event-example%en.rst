@@ -35,10 +35,9 @@ References:
        (`GitHub <https://github.com/gopherjs/gopherjs>`__,
        `GopherJS Playground <http://www.gopherjs.org/playground/>`_,
        |godoc|)
-
-.. [2] `mouseenter - Event reference | MDN <https://developer.mozilla.org/en/docs/Web/Events/mouseenter>`_
-
-       `mouseleave - Event reference | MDN <https://developer.mozilla.org/en-US/docs/Web/Events/mouseleave>`_
+.. adsu:: 4
+.. [2] | `mouseenter - Event reference | MDN <https://developer.mozilla.org/en/docs/Web/Events/mouseenter>`_
+       | `mouseleave - Event reference | MDN <https://developer.mozilla.org/en-US/docs/Web/Events/mouseleave>`_
 
 
 .. _GopherJS: http://www.gopherjs.org/

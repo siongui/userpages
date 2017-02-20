@@ -40,21 +40,15 @@ References:
        (`GitHub <https://github.com/gopherjs/gopherjs>`__,
        `GopherJS Playground <http://www.gopherjs.org/playground/>`_,
        |godoc|)
-
-.. [2] `javascript keycode - Google search <https://www.google.com/search?q=javascript+keycode>`_
-
-       `javascript keycode - DuckDuckGo search <https://duckduckgo.com/?q=javascript+keycode>`_
-
-       `javascript keycode - Bing search <https://www.bing.com/search?q=javascript+keycode>`_
-
-       `javascript keycode - Yahoo search <https://search.yahoo.com/search?p=javascript+keycode>`_
-
-       `javascript keycode - Baidu search <https://www.baidu.com/s?wd=javascript+keycode>`_
-
-       `javascript keycode - Yandex search <https://www.yandex.com/search/?text=javascript+keycode>`_
-
-       `JavaScript Event KeyCodes <http://keycode.info/>`_
-
+.. adsu:: 4
+.. [2] | `javascript keycode - Google search <https://www.google.com/search?q=javascript+keycode>`_
+       | `javascript keycode - DuckDuckGo search <https://duckduckgo.com/?q=javascript+keycode>`_
+       | `javascript keycode - Ecosia search <https://www.ecosia.org/search?q=javascript+keycode>`_
+       | `javascript keycode - Bing search <https://www.bing.com/search?q=javascript+keycode>`_
+       | `javascript keycode - Yahoo search <https://search.yahoo.com/search?p=javascript+keycode>`_
+       | `javascript keycode - Baidu search <https://www.baidu.com/s?wd=javascript+keycode>`_
+       | `javascript keycode - Yandex search <https://www.yandex.com/search/?text=javascript+keycode>`_
+       | `JavaScript Event KeyCodes <http://keycode.info/>`_
 
 .. _GopherJS: http://www.gopherjs.org/
 .. _arrow keys: https://www.google.com/search?q=arrow+keys

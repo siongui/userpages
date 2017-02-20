@@ -25,18 +25,14 @@ Tested on: ``Ubuntu Linux 16.04``, ``bash 4.3.46(1)``.
 
 References:
 
-.. [1] `copy large number of files linux - Google search <https://www.google.com/search?q=copy+large+number+of+files+linux>`_
-
-       `copy large number of files linux - DuckDuckGo search <https://duckduckgo.com/?q=copy+large+number+of+files+linux>`_
-
-       `copy large number of files linux - Bing search <https://www.bing.com/search?q=copy+large+number+of+files+linux>`_
-
-       `copy large number of files linux - Yahoo search <https://search.yahoo.com/search?p=copy+large+number+of+files+linux>`_
-
-       `copy large number of files linux - Baidu search <https://www.baidu.com/s?wd=copy+large+number+of+files+linux>`_
-
-       `copy large number of files linux - Yandex search <https://www.yandex.com/search/?text=copy+large+number+of+files+linux>`_
-
+.. [1] | `copy large number of files linux - Google search <https://www.google.com/search?q=copy+large+number+of+files+linux>`_
+       | `copy large number of files linux - DuckDuckGo search <https://duckduckgo.com/?q=copy+large+number+of+files+linux>`_
+       | `copy large number of files linux - Ecosia search <https://www.ecosia.org/search?q=copy+large+number+of+files+linux>`_
+       | `copy large number of files linux - Bing search <https://www.bing.com/search?q=copy+large+number+of+files+linux>`_
+       | `copy large number of files linux - Yahoo search <https://search.yahoo.com/search?p=copy+large+number+of+files+linux>`_
+       | `copy large number of files linux - Baidu search <https://www.baidu.com/s?wd=copy+large+number+of+files+linux>`_
+       | `copy large number of files linux - Yandex search <https://www.yandex.com/search/?text=copy+large+number+of+files+linux>`_
+.. adsu:: 3
 .. [2] `[Bash] Move Large Number of Files via tar Command <{filename}../../04/29/bash-move-large-number-of-files-via-tar%en.rst>`_
 
 

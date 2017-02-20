@@ -10,6 +10,8 @@ Build Issue of OpenCC Go binding on Ubuntu Linux 16.10
 :adsu: yes
 
 
+*[Update]: This issue has been fixed by package maintainer now.*
+
 When I upgrade Ubuntu Linux from 16.04 to 16.10, the OpenCC_ version jump from
 0.4.3 to 1.0.4. It is ok to install OpenCC:
 
