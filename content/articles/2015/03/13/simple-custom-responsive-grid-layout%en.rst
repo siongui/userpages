@@ -2,7 +2,7 @@ Simple Custom Responsive Grid Layout
 ####################################
 
 :date: 2015-03-13 23:23
-:tags: CSS, html, SASS, SCSS
+:tags: CSS, html, SASS, SCSS, Responsive Web Design
 :category: Web Development
 :summary: A simple custom responsive grid layout exmaple without CSS frameworks.
 :adsu: yes
@@ -18,14 +18,14 @@ wide and right column will be *30%* wide. If the screen width is less than
 *767px*, both left and right columns are 100% wide and left column will be on
 top of right column.
 
-.. rubric:: `Demo <{filename}/code/simple-custom-responsive-grid/layout.html>`_
+.. rubric:: `Demo <{filename}/code/css/simple-custom-responsive-grid/layout.html>`_
       :class: align-center
 
 .. adsu:: 2
 
 Source Code for Demo (*HTML*):
 
-.. show_github_file:: siongui userpages content/code/simple-custom-responsive-grid/layout.html
+.. show_github_file:: siongui userpages content/code/css/simple-custom-responsive-grid/layout.html
 
 .. note::
 
@@ -48,12 +48,13 @@ Source Code for Demo (*HTML*):
 
 Source Code for Demo (*CSS*): Use `CSS media query`_
 
-.. show_github_file:: siongui userpages content/code/simple-custom-responsive-grid/style.css
+.. show_github_file:: siongui userpages content/code/css/simple-custom-responsive-grid/style.css
+.. adsu:: 4
 
 If you prefer to use SASS_ for your CSS writing, here is the SCSS equivalent of above CSS:
 
-.. show_github_file:: siongui userpages content/code/simple-custom-responsive-grid/style.scss
-
+.. show_github_file:: siongui userpages content/code/css/simple-custom-responsive-grid/style.scss
+.. adsu:: 5
 
 Tested on: ``Chromium Version 41.0.2272.76 Ubuntu 14.10 (64-bit)``, ``pyScss 1.3.4``
 
@@ -88,6 +89,8 @@ References
 .. [19] `等高分栏布局小结 - WEB前端 - 伯乐在线 <http://web.jobbole.com/85031/>`_
 
 .. [20] `圣杯布局小结 - WEB前端 - 伯乐在线 <http://web.jobbole.com/84993/>`
+
+.. adsu:: 6
 
 `scss media query`_
 ~~~~~~~~~~~~~~~~~~~
