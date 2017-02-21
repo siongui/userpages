@@ -5,7 +5,7 @@
 :tags: CSS, Web開發
 :category: CSS
 :summary: 純 CSS_ tooltip_ (提示框，工具提示)，截取自MDN的範例。
-:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
+:og_image: http://www.cssportal.com/blog/wp-content/uploads/2013/05/tooltip.png
 :adsu: yes
 
 
