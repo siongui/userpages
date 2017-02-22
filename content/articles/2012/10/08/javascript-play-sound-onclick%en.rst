@@ -13,12 +13,12 @@ In this post, we will show how to use audio_ element provided in HTML5 standard
 to play sound when a HTML element is clicked. Before diving into this new
 feature, please take a look at `browser compatibility`_ of HTML5 *audio* tag.
 
-.. rubric:: `Demo <{filename}/code/javascript-sound/play.html>`_
+.. rubric:: `Demo <{filename}/code/javascript/play-toggle-sound/play.html>`_
       :class: align-center
 
 Source Code for Demo:
 
-.. show_github_file:: siongui userpages content/code/javascript-sound/play.html
+.. show_github_file:: siongui userpages content/code/javascript/play-toggle-sound/play.html
 .. adsu:: 2
 
 The *PlaySound* function plays audio file of given path or URL if the button is

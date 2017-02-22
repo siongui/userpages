@@ -13,12 +13,12 @@ This post shows how to toggle (play/pause) sound by JavaScript manipulation of
 onclick event of a DOM element. Browser support of HTML5 audio_ tag is a must in
 this example.
 
-.. rubric:: `Demo <{filename}/code/javascript-sound/toggle.html>`_
+.. rubric:: `Demo <{filename}/code/javascript/play-toggle-sound/toggle.html>`_
       :class: align-center
 
 Source Code for Demo:
 
-.. show_github_file:: siongui userpages content/code/javascript-sound/toggle.html
+.. show_github_file:: siongui userpages content/code/javascript/play-toggle-sound/toggle.html
 
 .. adsu:: 2
 
