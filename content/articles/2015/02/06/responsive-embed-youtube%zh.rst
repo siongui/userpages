@@ -1,13 +1,18 @@
 利用CSS根據螢幕大小自動調整網站內嵌的Youtube影片大小
 ####################################################
 
+:date: 2015-02-06
+:modified: 2017-02-23T04:02+08:00
 :tags: 響應式網頁設計(Responsive Web Design), Web開發, CSS
 :category: 響應式網頁設計(Responsive Web Design)
 :summary: 現今移動裝置盛行，有各種不同螢幕大小的裝置來瀏覽網站，
           若在網站上要內嵌入Youtube的影片，
-          該如何讓該影片可以根據瀏覽裝置的螢幕大小自動調整影片嵌入大小呢？
+          要如何讓該影片可以根據瀏覽裝置的螢幕大小自動調整影片嵌入大小呢？
 :adsu: yes
 
+
+*[更新2017-02-23]*: 現在YouTube的嵌入碼似乎已經會根據螢幕大小自動調整了，
+直接複製貼上即可，若只想在某些寬度條件下才自動調整大小，請看 `同場加映`_ 。
 
 響應式嵌入影片
 ~~~~~~~~~~~~~~
@@ -57,13 +62,13 @@
 同場加映
 ++++++++
 
-若想要更進一步，在螢幕寬度 ``479px`` 以下Youtube影片才自動調整大小，螢幕寬度
-``480px`` 以上則不變動，則我們可利用 `CSS media query`_
+若想要更進一步，在螢幕寬度 ``559px`` 以下Youtube影片才自動調整大小，螢幕寬度
+``560px`` 以上則不變動，則我們可利用 `CSS media query`_
 把上面CSS程式碼改成如下：
 
 .. code-block:: css
 
-  @media (max-width: 479px) {
+  @media (max-width: 559px) {
     .video-container {
       position: relative;
       padding-bottom: 56.25%;
@@ -86,6 +91,39 @@
 這樣一來就可以達到我們想要的效果！
 
 .. adsu:: 3
+
+以下為實際demo，在螢幕寬度 ``560px`` 以上，地圖寬度維持不變，
+螢幕寬度若寬度不足 ``560px`` ，則會自動縮小寬度。
+
+.. raw:: html
+
+  <style>
+  @media (max-width: 559px) {
+    .video-container {
+      position: relative;
+      padding-bottom: 56.25%;
+      padding-top: 30px;
+      height: 0;
+      overflow: hidden;
+    }
+
+    .video-container iframe,
+    .video-container object,
+    .video-container embed {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+  }
+  </style>
+
+  <div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2KmHtgtEZ1s" frameborder="0" allowfullscreen></iframe>
+  </div>
+
+.. adsu:: 4
 
 ----
 
