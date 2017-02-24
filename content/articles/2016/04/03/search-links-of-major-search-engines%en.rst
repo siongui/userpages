@@ -2,11 +2,11 @@ Search Links of Major Search Engines
 ####################################
 
 :date: 2016-04-03T21:51+08:00
-:modified: 2017-02-07T03:58+08:00
+:modified: 2017-02-24T22:14+08:00
 :tags: JavaScript, reStructuredText, Copy to Clipboard
 :category: JavaScript
 :summary: Search links of major search engines - Google_, DuckDuckGo_, Bing_,
-          Yahoo_, Baidu_, Yandex_, Ecosia_.
+          Yahoo_, Baidu_, Yandex_, Ecosia_, Qwant_.
 :adsu: yes
 
 
@@ -49,9 +49,9 @@ Search Links of Major Search Engines
       var search_string = inputElm.value.trim().replace(/\s+/g, " ");
       var qstring = encodeURI(inputElm.value.trim().replace(/\s+/g, "+"));
 
-      textareaElm.value = ".. [1] | `TERM - Google search <GOOG>`_\n       | `TERM - DuckDuckGo search <DUCK>`_\n       | `TERM - Ecosia search <ECOS>`_\n       | `TERM - Bing search <BING>`_\n       | `TERM - Yahoo search <YAHOO>`_\n       | `TERM - Baidu search <BAIDU>`_\n       | `TERM - Yandex search <YANDEX>`_\n".replace("GOOG", GoogleURL(qstring)).replace("DUCK", DuckDuckGoURL(qstring)).replace("BING", BingURL(qstring)).replace("YAHOO", YahooURL(qstring)).replace("BAIDU", BaiduURL(qstring)).replace("YANDEX", YandexURL(qstring)).replace("ECOS", EcosiaURL(qstring)).replace(/TERM/g, search_string);
+      textareaElm.value = ".. [1] | `TERM - Google search <GOOG>`_\n       | `TERM - DuckDuckGo search <DUCK>`_\n       | `TERM - Ecosia search <ECOS>`_\n       | `TERM - Qwant search <QWANT>`_\n       | `TERM - Bing search <BING>`_\n       | `TERM - Yahoo search <YAHOO>`_\n       | `TERM - Baidu search <BAIDU>`_\n       | `TERM - Yandex search <YANDEX>`_\n".replace("GOOG", GoogleURL(qstring)).replace("DUCK", DuckDuckGoURL(qstring)).replace("BING", BingURL(qstring)).replace("YAHOO", YahooURL(qstring)).replace("BAIDU", BaiduURL(qstring)).replace("YANDEX", YandexURL(qstring)).replace("ECOS", EcosiaURL(qstring)).replace("QWANT", QwantURL(qstring)).replace(/TERM/g, search_string);
 
-      divElm.innerHTML = '<a target="_blank" href="GOOG">TERM - Google Search</a><br><a target="_blank" href="DUCK">TERM - DuckDuckGo Search</a><br><a target="_blank" href="ECOS">TERM - Ecosia Search</a><br><a target="_blank" href="BING">TERM - Bing Search</a><br><a target="_blank" href="YAHOO">TERM - Yahoo Search</a><br><a target="_blank" href="BAIDU">TERM - Baidu Search</a><br><a target="_blank" href="YANDEX">TERM - Yandex Search</a><br>'.replace("GOOG", GoogleURL(qstring)).replace("DUCK", DuckDuckGoURL(qstring)).replace("BING", BingURL(qstring)).replace("YAHOO", YahooURL(qstring)).replace("BAIDU", BaiduURL(qstring)).replace("YANDEX", YandexURL(qstring)).replace("ECOS", EcosiaURL(qstring)).replace(/TERM/g, search_string);
+      divElm.innerHTML = '<a target="_blank" href="GOOG">TERM - Google Search</a><br><a target="_blank" href="DUCK">TERM - DuckDuckGo Search</a><br><a target="_blank" href="ECOS">TERM - Ecosia Search</a><br><a target="_blank" href="QWANT">TERM - Qwant Search</a><br><a target="_blank" href="BING">TERM - Bing Search</a><br><a target="_blank" href="YAHOO">TERM - Yahoo Search</a><br><a target="_blank" href="BAIDU">TERM - Baidu Search</a><br><a target="_blank" href="YANDEX">TERM - Yandex Search</a><br>'.replace("GOOG", GoogleURL(qstring)).replace("DUCK", DuckDuckGoURL(qstring)).replace("BING", BingURL(qstring)).replace("YAHOO", YahooURL(qstring)).replace("BAIDU", BaiduURL(qstring)).replace("YANDEX", YandexURL(qstring)).replace("ECOS", EcosiaURL(qstring)).replace("QWANT", QwantURL(qstring)).replace(/TERM/g, search_string);
     }
 
     function GoogleURL(qstring) {
@@ -74,6 +74,9 @@ Search Links of Major Search Engines
     }
     function EcosiaURL(qstring) {
       return "https://www.ecosia.org/search?q=" + qstring;
+    }
+    function QwantURL(qstring) {
+      return "https://www.qwant.com/?q=" + qstring;
     }
   </script>
 
@@ -110,3 +113,4 @@ References:
 .. _Baidu: https://www.baidu.com/
 .. _Yandex: https://www.yandex.com/
 .. _Ecosia: https://www.ecosia.org/
+.. _Qwant: https://www.qwant.com/
