@@ -5,7 +5,7 @@ The Buddha Replies to the Deva
 :author: Paul Carus
 :tags: Spirituality, Paul Carus, The Gospel of Buddha
 :category: Transcription
-:summary: 
+:summary: What is the sharpest sword? What is the deadliest poison? What is the fiercest fire? What is the darkest night?
 :og_image: https://scontent-tpe1-1.xx.fbcdn.net/v/t31.0-8/s720x720/339201_1908196719445_1139483441_o.jpg?oh=f803aed377a7d5d119ad6c6b2b6df2df&oe=592F1A2F
 
 
