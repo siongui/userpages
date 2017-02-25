@@ -6,6 +6,7 @@
 :tags: JavaScript, JSONP, CORS
 :category: JavaScript
 :summary: Redirect users to another website if the website is available.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

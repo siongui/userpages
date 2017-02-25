@@ -8,6 +8,7 @@ Google Closure Library Editor with Equation Editor Dialog
 :category: JavaScript
 :summary: `Rich text editor`_ with math equation dialog using
           `Google Closure Library`_.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

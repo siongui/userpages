@@ -6,6 +6,7 @@
 :category: JavaScript
 :summary: Virtual kayboard/keypad in vanilla JavaScript_.
           Used in `Pāli Dictionary`_.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

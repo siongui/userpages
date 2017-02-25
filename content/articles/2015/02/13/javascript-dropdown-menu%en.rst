@@ -6,6 +6,7 @@ Javascript Drop Down Menu
 :category: JavaScript
 :summary: Dropdown menu using `vanilla JavaScript`_.
           No jQuery_ or libraries are used.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

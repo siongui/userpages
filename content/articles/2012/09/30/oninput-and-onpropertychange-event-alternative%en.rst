@@ -7,6 +7,7 @@
 :category: JavaScript
 :summary: Detect the content change of HTML input elements in a cross-browser
           and consistent manner.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

@@ -6,6 +6,7 @@
 :tags: JavaScript, String Manipulation
 :category: JavaScript
 :summary: Remove leading and trailing whitespaces of a string in JavaScript.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

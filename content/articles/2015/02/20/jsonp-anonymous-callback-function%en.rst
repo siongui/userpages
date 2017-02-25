@@ -7,6 +7,7 @@ JSONP with Anonymous Callback Function
 :category: JavaScript
 :summary: Cross-domain requests by JSONP_ with `anonymous callback function`_ on
           `Google App Engine for Python`_.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

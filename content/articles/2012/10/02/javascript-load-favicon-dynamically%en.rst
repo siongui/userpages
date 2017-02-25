@@ -6,6 +6,7 @@
 :tags: html, CORS, JavaScript
 :category: JavaScript
 :summary: Load website icon (favicon) dynamically.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

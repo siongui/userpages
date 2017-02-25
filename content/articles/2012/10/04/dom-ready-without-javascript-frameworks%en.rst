@@ -5,6 +5,7 @@ DOM Ready without JavaScript Frameworks
 :tags: JavaScript, DOM
 :category: JavaScript
 :summary: Check DOM readiness in vanilla JavaScript.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

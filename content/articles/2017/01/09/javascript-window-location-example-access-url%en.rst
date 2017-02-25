@@ -5,6 +5,7 @@
 :tags: JavaScript, DOM, html
 :category: JavaScript
 :summary: Example of accessing browser URL via JavaScript_ window.location_.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

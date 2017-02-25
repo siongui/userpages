@@ -7,6 +7,7 @@
 :category: JavaScript
 :summary: Discuss the scope (context) of event handler and how to change what
           *this* keyword refers to.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

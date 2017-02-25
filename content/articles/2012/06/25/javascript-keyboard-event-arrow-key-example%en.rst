@@ -6,6 +6,7 @@ JavaScript Keyboard Event (Arrow Key Example)
 :tags: JavaScript, Keyboard Event, DOM
 :category: JavaScript
 :summary: Detect `arrow keystrokes`_ in JavaScript_.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

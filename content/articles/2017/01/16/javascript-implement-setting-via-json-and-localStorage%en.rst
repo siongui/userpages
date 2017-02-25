@@ -6,6 +6,7 @@
 :category: JavaScript
 :summary: Implementation of setting feature in web application via JSON_,
           `Web Storage`_ (localStorage_), and JavaScript_.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

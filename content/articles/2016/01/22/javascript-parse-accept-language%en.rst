@@ -4,7 +4,9 @@
 :date: 2016-01-22T19:20+08:00
 :tags: JavaScript, String Manipulation, HTTP Header, Accept-Language, Locale
 :category: JavaScript
-:summary: Parse `Accept-Language`_ in `HTTP Request Header`_ in JavaScript_ Programming Language.
+:summary: Parse `Accept-Language`_ in `HTTP Request Header`_
+          in JavaScript_ Programming Language.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

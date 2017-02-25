@@ -8,6 +8,7 @@ AJAX Form POST Request to Google App Engine Python
 :category: JavaScript
 :summary: Send/receive data to/from `Google App Engine Python`_ servers by
           `HTTP POST`_ requests in AJAX_ way.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

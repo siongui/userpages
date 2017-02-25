@@ -7,6 +7,7 @@ JavaScript DOM Element Position (Scroll Position Included)
 :category: JavaScript
 :summary: Get DOM_ element position (including scroll position)
           using JavaScript_.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

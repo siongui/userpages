@@ -6,6 +6,7 @@
 :category: JavaScript
 :summary: Fix the bug in `succinct trie`_ implementation of `Bits.js`_ - Wrong
           trie_ insertion if words are not inserted in alphabetical order.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

@@ -6,6 +6,7 @@
 :tags: html, HTML5 audio, JavaScript
 :category: JavaScript
 :summary: Toggle sound on click event of DOM element.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

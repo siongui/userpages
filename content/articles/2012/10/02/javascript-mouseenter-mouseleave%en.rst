@@ -6,6 +6,7 @@
 :tags: html, JavaScript, mouseenter, mouseleave
 :category: JavaScript
 :summary: JavaScript Cross-Browser Implementation of onMouseEnter and onMouseLeave Event
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

@@ -7,6 +7,7 @@
 :category: JavaScript
 :summary: Conversion Button of Traditional/Simplified Chinese on Website via
           JavaScript_.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

@@ -6,6 +6,7 @@
 :tags: JavaScript, HTTP GET, XMLHttpRequest
 :category: JavaScript
 :summary: JavaScript cross-browser HTTP GET request
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

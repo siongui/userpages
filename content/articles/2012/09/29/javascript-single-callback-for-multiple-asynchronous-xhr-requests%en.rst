@@ -6,6 +6,7 @@
 :tags: JavaScript, HTTP GET, CORS, XMLHttpRequest
 :category: JavaScript
 :summary: JavaScript single callback for multiple asynchronous XHR requests.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 Assume that multiple Asynchronous AJAX_ Requests (XMLHttpRequest_) are made, and

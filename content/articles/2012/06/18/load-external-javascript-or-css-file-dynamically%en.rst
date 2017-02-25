@@ -6,6 +6,7 @@ Load External JavaScript or CSS file Dynamically
 :tags: JavaScript, CORS, CSS
 :category: JavaScript
 :summary: Load JavaScript_ or CSS_ on demand.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

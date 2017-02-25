@@ -6,6 +6,7 @@
 :tags: html, JavaScript, mouseenter, mouseleave
 :category: JavaScript
 :summary: Compare mouseenter, mouseleave, mouseover, and mouseout events.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

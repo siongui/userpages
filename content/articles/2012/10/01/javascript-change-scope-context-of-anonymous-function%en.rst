@@ -7,6 +7,7 @@
 :category: JavaScript
 :summary: Change the scope (context) of anonymous function - change what *this*
           keyword refers to in anonymous function.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

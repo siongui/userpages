@@ -6,6 +6,7 @@ JavaScript Cross-Browser Cross-Domain XMLHttpRequest (XDomainRequest in IE)
 :tags: html, JavaScript, CORS, DOM, HTTP GET, HTTP POST, XMLHttpRequest
 :category: JavaScript
 :summary: Cross-domain AJAX requests
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

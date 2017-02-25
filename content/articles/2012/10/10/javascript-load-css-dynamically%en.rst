@@ -6,6 +6,7 @@
 :tags: html, CORS, JavaScript, CSS
 :category: JavaScript
 :summary: Load CSS file dynamically.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

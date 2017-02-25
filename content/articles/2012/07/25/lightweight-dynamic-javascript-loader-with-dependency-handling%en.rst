@@ -6,6 +6,7 @@ Lightweight Dynamic JavaScript Loader with Dependency Handling
 :tags: JavaScript, XMLHttpRequest
 :category: JavaScript
 :summary: Load JavaScript_ scripts dynamically with dependencies.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

@@ -6,6 +6,7 @@ JavaScript Create DOM Element Dynamically
 :tags: html, JavaScript, XML, DOM
 :category: JavaScript
 :summary: Create DOM elements by JavaScript.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

@@ -6,6 +6,7 @@
 :category: JavaScript
 :summary: Wrap `Pāli`_ words in span_ element via `regular expression`_ and
           JavaScript_.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

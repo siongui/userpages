@@ -7,6 +7,7 @@
 :category: JavaScript
 :summary: Use onmousedown event instead of onclick event if the event handler to
           be fired before onblur event.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

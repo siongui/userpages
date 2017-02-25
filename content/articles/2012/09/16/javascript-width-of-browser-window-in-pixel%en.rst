@@ -6,6 +6,7 @@
 :tags: html, JavaScript, DOM
 :category: JavaScript
 :summary: Width of browser window in pixel.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

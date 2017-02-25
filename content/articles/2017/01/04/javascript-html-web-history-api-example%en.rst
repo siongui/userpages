@@ -6,6 +6,7 @@
 :category: JavaScript
 :summary: Change browser URL without reloading web pages - Example for how to
           use `HTML history API`_.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

@@ -6,6 +6,7 @@ JavaScript Drag and Drop (Draggable, Movable) Element without External Library
 :tags: JavaScript, DOM, draggable
 :category: JavaScript
 :summary: Draggable, movable HTML_ element using vanilla JavaScript_.
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 

@@ -6,6 +6,7 @@ JavaScript Back to Top Link
 :tags: JavaScript, html
 :category: JavaScript
 :summary: JavaScript_ Back to Top Link
+:og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 
