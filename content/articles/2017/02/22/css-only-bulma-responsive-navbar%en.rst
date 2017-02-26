@@ -19,7 +19,7 @@ I apply the technique of `CSS only menu toggle`_ to the responsive `nav bar`_
 code in Bulma_, and create this responsive navigation bar.
 
 The key points of the technique [2]_:
-  - A visible HTML label_ elemnt
+  - A visible HTML label_ element
   - A invisible HTML input_ checkbox element, referenced by the label_ element.
   - The menu to be toggled
   - A CSS rule to hide/show the menu according to whether the checkbox is
