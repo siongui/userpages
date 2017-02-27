@@ -56,9 +56,11 @@ class show_github_file(Directive):
         html += '</div></figure>'
 
     except IOError:
-      # use Gistfy
       if _DEBUG: print("IO fail: {}".format(filename))
-      html = '<script type="text/javascript" src="//gistfy-app.herokuapp.com/github/{}/{}/{}"></script>'.format(username, repo, relative_path)
+      # use Gistfy, https://github.com/alexandrevicenzi/gistfy
+      #html = '<script type="text/javascript" src="//gistfy-app.herokuapp.com/github/{}/{}/{}"></script>'.format(username, repo, relative_path)
+      # use gist-it, https://github.com/robertkrimen/gist-it
+      html = '<script src="https://gist-it.appspot.com/github/{}/{}/blob/master/{}"></script>'.format(username, repo, relative_path)
       html += "<noscript>You need to enable JavaScript to see {}!</noscript>".format(relative_path)
 
     return [nodes.raw('', html, format='html')]
