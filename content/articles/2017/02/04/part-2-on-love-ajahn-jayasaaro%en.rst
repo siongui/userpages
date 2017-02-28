@@ -3,7 +3,7 @@ On Love (Part 2) - Ajahn Jayasāro
 
 :date: 2017-02-04T21:00+08:00
 :author: Ajahn Jayasāro
-:tags: Ajahn Jayasāro
+:tags: Ajahn Jayasāro, On Love (Ajahn Jayasāro)
 :category: Ajahn Jayasāro
 :summary: Love for our parents and for our children is a natural attachment that is shadowed by suffering. It is a suffering that is for the most part willingly borne, but nevertheless we should be interested in learning whether there is any aspect of that suffering that we might relinquish without affecting our ability to be a good son or daughter or a good parent.
           - `Ajahn Jayasāro`_

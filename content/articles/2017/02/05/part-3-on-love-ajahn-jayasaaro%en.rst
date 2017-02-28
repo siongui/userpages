@@ -3,7 +3,7 @@ On Love (Part 3) - Ajahn Jayasāro
 
 :date: 2017-02-05T21:20+08:00
 :author: Ajahn Jayasāro
-:tags: Ajahn Jayasāro
+:tags: Ajahn Jayasāro, On Love (Ajahn Jayasāro)
 :category: Ajahn Jayasāro
 :summary: The kind of love that people are most interested in is surely romantic love. Nearly everyone hopes to be lucky, meet a soul-mate or a good life-partner, then to live together happily ever after. Truly loving someone and being loved truly by that person is the most popular of dreams.
           - `Ajahn Jayasāro`_

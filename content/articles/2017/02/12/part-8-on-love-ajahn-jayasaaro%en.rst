@@ -3,7 +3,7 @@ On Love (Part 8) - Ajahn Jayasāro
 
 :date: 2017-02-12T23:30:01+08:00
 :author: Ajahn Jayasāro
-:tags: Ajahn Jayasāro
+:tags: Ajahn Jayasāro, On Love (Ajahn Jayasāro)
 :category: Ajahn Jayasāro
 :summary: Love can lessen our selfishness.
           - `Ajahn Jayasāro`_

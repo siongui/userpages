@@ -3,7 +3,7 @@ On Love (Part 9) - Ajahn Jayasāro
 
 :date: 2017-02-13T21:00:02+08:00
 :author: Ajahn Jayasāro
-:tags: Ajahn Jayasāro
+:tags: Ajahn Jayasāro, On Love (Ajahn Jayasāro)
 :category: Ajahn Jayasāro
 :summary: Ignorance (avijjā) is not knowing, or having wrong knowledge. We lack an accurate, unbiased experience of the reality of life.
           - `Ajahn Jayasāro`_

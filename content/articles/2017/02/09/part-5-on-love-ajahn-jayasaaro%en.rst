@@ -3,7 +3,7 @@ On Love (Part 5) - Ajahn Jayasāro
 
 :date: 2017-02-09T23:47:10+08:00
 :author: Ajahn Jayasāro
-:tags: Ajahn Jayasāro
+:tags: Ajahn Jayasāro, On Love (Ajahn Jayasāro)
 :category: Ajahn Jayasāro
 :summary: Another difficulty that may accompany love is discomfort with our partner’s families ...
           - `Ajahn Jayasāro`_

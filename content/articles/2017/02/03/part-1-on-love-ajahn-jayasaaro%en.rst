@@ -3,7 +3,7 @@ On Love (Part 1) - Ajahn Jayasāro
 
 :date: 2017-02-03T21:00+08:00
 :author: Ajahn Jayasāro
-:tags: Ajahn Jayasāro
+:tags: Ajahn Jayasāro, On Love (Ajahn Jayasāro)
 :category: Ajahn Jayasāro
 :summary: Love is a part of life which we need to imbue with wisdom and understanding.
           - `Ajahn Jayasāro`_

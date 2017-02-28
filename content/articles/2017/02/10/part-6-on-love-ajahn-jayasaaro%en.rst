@@ -3,7 +3,7 @@ On Love (Part 6) - Ajahn Jayasāro
 
 :date: 2017-02-10T21:37:48+08:00
 :author: Ajahn Jayasāro
-:tags: Ajahn Jayasāro
+:tags: Ajahn Jayasāro, On Love (Ajahn Jayasāro)
 :category: Ajahn Jayasāro
 :summary: Dhamma practice involves looking closely at our mind, its thoughts and emotions ...
           - `Ajahn Jayasāro`_

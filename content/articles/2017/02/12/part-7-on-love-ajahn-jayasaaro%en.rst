@@ -3,7 +3,7 @@ On Love (Part 7) - Ajahn Jayasāro
 
 :date: 2017-02-12T10:58+08:00
 :author: Ajahn Jayasāro
-:tags: Ajahn Jayasāro
+:tags: Ajahn Jayasāro, On Love (Ajahn Jayasāro)
 :category: Ajahn Jayasāro
 :summary: Craving or tanka is the ringleader of the defilements.
           - `Ajahn Jayasāro`_

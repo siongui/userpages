@@ -3,7 +3,7 @@ On Love (Part 10) - Ajahn Jayasāro
 
 :date: 2017-02-16T09:47:48+08:00
 :author: Ajahn Jayasāro
-:tags: Ajahn Jayasāro
+:tags: Ajahn Jayasāro, On Love (Ajahn Jayasāro)
 :category: Ajahn Jayasāro
 :summary: The Buddha did not teach by using the threat of hell or the promise of heaven ...
           - `Ajahn Jayasāro`_

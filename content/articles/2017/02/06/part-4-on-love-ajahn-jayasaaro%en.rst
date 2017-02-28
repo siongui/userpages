@@ -3,7 +3,7 @@ On Love (Part 4) - Ajahn Jayasāro
 
 :date: 2017-02-06T21:52+08:00
 :author: Ajahn Jayasāro
-:tags: Ajahn Jayasāro
+:tags: Ajahn Jayasāro, On Love (Ajahn Jayasāro)
 :category: Ajahn Jayasāro
 :summary: Have you noticed that a lot of people in love suffer precisely because they assumed that love would mean an end to suffering, that it would resolve something?
           - `Ajahn Jayasāro`_
