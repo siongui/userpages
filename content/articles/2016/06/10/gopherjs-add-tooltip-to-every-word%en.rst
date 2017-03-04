@@ -2,7 +2,7 @@
 ###########################################
 
 :date: 2016-06-10T22:14+08:00
-:tags: Go, Golang, GopherJS, Go to JavaScript, DOM, Regular Expression
+:tags: Go, Golang, GopherJS, Go to JavaScript, DOM, Regular Expression, Tooltip
 :category: GopherJS
 :summary: Add tooltip_ to every word via GopherJS_. Used in `Pāli Tipiṭaka`_.
 :adsu: yes

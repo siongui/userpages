@@ -2,7 +2,7 @@
 #####################################
 
 :date: 2016-05-31T22:26+08:00
-:tags: AngularJS, JavaScript, Directives, Regular Expression
+:tags: AngularJS, JavaScript, Directives, Regular Expression, Tooltip
 :category: AngularJS
 :summary: Add tooltip_ to every word via AngularJS_. Used in `Pāli Tipiṭaka`_.
 :adsu: yes

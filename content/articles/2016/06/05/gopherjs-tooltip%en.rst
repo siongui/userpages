@@ -3,7 +3,7 @@
 
 :date: 2016-06-05T21:07+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, CSS, DOM, mouseenter, mouseleave,
-       element offset, element position
+       element offset, element position, Tooltip
 :category: GopherJS
 :summary: Tooltip_ via GopherJS_. Used in `Pāli Tipiṭaka`_.
 :adsu: yes

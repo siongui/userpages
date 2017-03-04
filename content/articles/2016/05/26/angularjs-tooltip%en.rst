@@ -3,7 +3,7 @@
 
 :date: 2016-05-26T08:53+08:00
 :tags: AngularJS, JavaScript, mouseenter, mouseleave, element offset,
-       element position
+       element position, Tooltip
 :category: AngularJS
 :summary: Tooltip_ via AngularJS_. Used in `Pāli Tipiṭaka`_.
 :adsu: yes
