@@ -5,7 +5,7 @@
 :tags: React, JavaScript, JSX, DOM, toggle, toggleable
 :category: React
 :summary: Toggle (Show/Hide) HTML_ `DOM element`_ in React_ JavaScript_.
-:og_image: https://vuejs.org/images/logo.png
+:og_image: https://facebook.github.io/react/img/logo.svg
 :adsu: yes
 
 

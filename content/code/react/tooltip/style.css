@@ -1,0 +1,17 @@
+span[data-descr] {
+    text-decoration: underline;
+    color: blue;
+    cursor: help;
+}
+
+.invisible {
+    display: none;
+}
+
+.tooltip {
+    position: absolute;
+    background-color: yellow;
+    border: 1px gray solid;
+    border-radius: 3px;
+    padding: 3px;
+}
