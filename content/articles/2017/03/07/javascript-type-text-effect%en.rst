@@ -2,9 +2,10 @@
 #############################
 
 :date: 2017-03-07T22:58+08:00
-:tags: JavaScript, DOM, html
+:modified: 2017-03-08T03:07+08:00
+:tags: JavaScript, DOM, html, Typing Text Effect
 :category: JavaScript
-:summary: Type Text Effect by JavaScript_.
+:summary: Parallel typing text effect by JavaScript_.
 :og_image: http://jquery-plugins.net/image/plugin/theaterjs-javascript-typing-effect-plugin.png
 :adsu: yes
 
@@ -14,38 +15,47 @@ Demo
 
 .. raw:: html
 
+  <div style="background-color: Azure; padding: 5px;">
   <span data-typedtext="May I be happy. May I be free from stress & pain. May I be free from animosity. May I be free from oppression. May I be free from trouble. May I look after myself with ease."></span>
-  <br>
+  <br><br>
   <span data-typedtext="願我得喜樂。願我離憂苦。願我不受敵意。願我不受壓迫。願我免遭困難。願我輕鬆照顧自己。"></span>
-  <br>
+  <br><br>
   <span data-typedtext="ขอให้ข้าพเจ้าจงเป็นผู้ถึงสุข จงเป็นผู้ไร้ทุกข์ จงเป็นผู้ไม่มีเวร จงเป็นผู้ไม่เบียดเบียนซึ่งกันและกัน จงเป็นผู้ไม่มีทุกข์ จงรักษาตนอยู่เป็นสุขเถิด"></span>
+  </div>
 
   <script>
   'use strict';
 
   var speed = 80;
 
-  function PlayText() {
+  function Playing(elements, elementIndex, textIndex) {
+    if (elementIndex == elements.length) {
+      return;
+    }
+    var element = elements[elementIndex];
+    if (textIndex == element.dataset.typedtext.length) {
+      setTimeout(Playing, speed, elements, elementIndex + 1, 0);
+    } else {
+      element.textContent += element.dataset.typedtext[textIndex];
+      setTimeout(Playing, speed, elements, elementIndex, textIndex + 1);
+    }
+  }
+
+  function PlayParallel() {
     var spans = document.querySelectorAll("span[data-typedtext]");
     for (var i = 0; i < spans.length; ++i) {
       var span = spans[i];
-      for (var j = 0; j < span.dataset.typedtext.length; ++j) {
-        setTimeout(function(s, l) {
-          s.textContent += l;
-        }, speed*j, span, span.dataset.typedtext[j]);
-      }
+      Playing([span], 0, 0);
     }
   }
 
   document.addEventListener("DOMContentLoaded", function(event) {
-    PlayText();
+    PlayParallel();
   });
   </script>
 
-Yesterday I saw the typing effect of the wesbite [3]_, and felt it's really
-amazing and impressing, so I thought that it may not be too difficult to
-implement the effect in JavaScript. And it is indeed not difficult to implement,
-the following is my code.
+The three lines in demo are being typed parallel. If you want the three lines
+being typed sequentially, see `my another post`_ [8]_.
 
 Source Code
 +++++++++++
@@ -69,25 +79,34 @@ element.
 
   var speed = 80;
 
-  function PlayText() {
+  function Playing(elements, elementIndex, textIndex) {
+    if (elementIndex == elements.length) {
+      return;
+    }
+    var element = elements[elementIndex];
+    if (textIndex == element.dataset.typedtext.length) {
+      setTimeout(Playing, speed, elements, elementIndex + 1, 0);
+    } else {
+      element.textContent += element.dataset.typedtext[textIndex];
+      setTimeout(Playing, speed, elements, elementIndex, textIndex + 1);
+    }
+  }
+
+  function PlayParallel() {
     var spans = document.querySelectorAll("span[data-typedtext]");
     for (var i = 0; i < spans.length; ++i) {
       var span = spans[i];
-      for (var j = 0; j < span.dataset.typedtext.length; ++j) {
-        setTimeout(function(s, l) {
-          s.textContent += l;
-        }, speed*j, span, span.dataset.typedtext[j]);
-      }
+      Playing([span], 0, 0);
     }
   }
 
   document.addEventListener("DOMContentLoaded", function(event) {
-    PlayText();
+    PlayParallel();
   });
 
-The key point in the above is that we use setTimeout_ to append the *j-th*
-letter of the texts in *data-typedtext* attribute to the *textContent* of *span*
-element after *j\*speed* milliseconds.
+The key point in the above code is that the *Playing* function calls itself
+repeatedly by setTimeout_, and in each function call, only one character or
+letter is appended to the *textContent* of the element.
 
 .. adsu:: 3
 
@@ -129,7 +148,7 @@ References:
        | `javascript type text effect - Yahoo search <https://search.yahoo.com/search?p=javascript+type+text+effect>`_
        | `javascript type text effect - Baidu search <https://www.baidu.com/s?wd=javascript+type+text+effect>`_
        | `javascript type text effect - Yandex search <https://www.yandex.com/search/?text=javascript+type+text+effect>`_
-
+.. adsu:: 4
 .. [6] | `javascript content loaded - Google search <https://www.google.com/search?q=javascript+content+loaded>`_
        | `javascript content loaded - DuckDuckGo search <https://duckduckgo.com/?q=javascript+content+loaded>`_
        | `javascript content loaded - Ecosia search <https://www.ecosia.org/search?q=javascript+content+loaded>`_
@@ -148,5 +167,8 @@ References:
        | `javascript sleep - Baidu search <https://www.baidu.com/s?wd=javascript+sleep>`_
        | `javascript sleep - Yandex search <https://www.yandex.com/search/?text=javascript+sleep>`_
 
+.. [8] `[JavaScript] Typing Text Effect <{filename}../08/javascript-typing-text-effect%en.rst>`_
+
 .. _JavaScript: https://www.google.com/search?q=JavaScript
 .. _setTimeout: https://www.w3schools.com/jsref/met_win_settimeout.asp
+.. _my another post: {filename}../08/javascript-typing-text-effect%en.rst
