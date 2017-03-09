@@ -2,7 +2,7 @@
 ##############################
 
 :date: 2017-01-25T03:04+08:00
-:tags: Vue.js, JavaScript, Animate.css, CSS, DOM
+:tags: Vue.js, JavaScript, Animate.css, CSS, DOM, CSS Animation
 :category: Vue.js
 :summary: Use Animate.css_ and Vue.js_ to animate your webpage.
 :og_image: https://camo.githubusercontent.com/224f79940611c6c12fb649128eca1cae31086d23/68747470733a2f2f7261776769742e636f6d2f7675656a732f617765736f6d652d7675652f6d61737465722f6c6f676f2e706e67

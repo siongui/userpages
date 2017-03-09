@@ -2,7 +2,8 @@
 ################################
 
 :date: 2017-01-24T09:33+08:00
-:tags: Go, Golang, GopherJS, Go to JavaScript, Animate.css, CSS, DOM
+:tags: Go, Golang, GopherJS, Go to JavaScript, Animate.css, CSS, DOM,
+       CSS Animation
 :category: GopherJS
 :summary: Use Animate.css_ and GopherJS_ to animate your webpage.
 :og_image: https://pbs.twimg.com/profile_images/605816243870760960/4hP2sH_O.png

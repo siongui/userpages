@@ -2,7 +2,7 @@
 #################################
 
 :date: 2017-01-26T03:41+08:00
-:tags: AngularJS, JavaScript, Animate.css, CSS, DOM, Directives
+:tags: AngularJS, JavaScript, Animate.css, CSS, DOM, Directives, CSS Animation
 :category: AngularJS
 :summary: Use Animate.css_ and AngularJS_ to animate your webpage.
 :og_image: https://angular.io/resources/images/logos/angular2/angular.svg
