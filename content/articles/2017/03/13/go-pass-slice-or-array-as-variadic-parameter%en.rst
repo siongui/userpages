@@ -76,6 +76,8 @@ Pass it to the above variadic function via:
 
 You can try to `pass slice or array of above example on Go Playground`_.
 
+.. adsu:: 3
+
 ----
 
 Tested on: The `Go Playground`_
