@@ -39,7 +39,7 @@ Vue.js_.
       jsonp: function() {
         this.info = "Loading ...";
         var tag = document.createElement("script");
-        tag.src = "http://ajaxhttpheaders.appspot.com/?callback=myCallback";
+        tag.src = "https://ajaxhttpheaders.appspot.com/?callback=myCallback";
         document.querySelector("head").appendChild(tag);
       }
     }
@@ -77,7 +77,7 @@ The URL of the service is:
 
 ::
 
-   http://ajaxhttpheaders.appspot.com/?callback={{YOUR_CALLBACK_NAME}}
+   https://ajaxhttpheaders.appspot.com/?callback={{YOUR_CALLBACK_NAME}}
 
 If you want to know how to implement the server which returns data via JSONP,
 see [1]_. The front-end JavaScript code for retrieving HTTP request headers from
@@ -96,7 +96,7 @@ the above service via JSONP is as follows:
       jsonp: function() {
         this.info = "Loading ...";
         var tag = document.createElement("script");
-        tag.src = "http://ajaxhttpheaders.appspot.com/?callback=myCallback";
+        tag.src = "https://ajaxhttpheaders.appspot.com/?callback=myCallback";
         document.querySelector("head").appendChild(tag);
       }
     }
@@ -112,6 +112,13 @@ element. The source of the *script* element is the URL of the online service,
 and the name of the callback is assigned in the query string of the URL.
 
 .. adsu:: 3
+
+.. note::
+
+   If you web page is served via HTTPS, the server that returns data via JSONP
+   also needs to serve via HTTPS. Otherwise browsers will block the request and
+   make the request fail.
+
 
 ----
 
