@@ -35,6 +35,7 @@
 
     - `旅客入境泰國通關須知 - 泰國觀光局-台北辦事處 <http://www.tattpe.org.tw/GoThailand/go_enter.aspx>`_
     - `海關報檢服務 <http://donmueangairportthai.com/cn/814-customs-services>`_
+    - `入境泰國 旅客財物高於2萬銖需繳稅-泰国世界日报 -  泰国世界日报 <http://www.udnbkk.com/article-216931-1.html>`_
 
   * `泰國 寄 台灣 - Google search <https://www.google.com/search?q=%E6%B3%B0%E5%9C%8B+%E5%AF%84+%E5%8F%B0%E7%81%A3>`_
 

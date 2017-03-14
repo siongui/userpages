@@ -36,6 +36,14 @@ in your terminal and the output will be like:
 Because the trailing newline_ of the string is removed, the terminal prompt sign
 **$** is shown on the right of *abcd* instead of below *abcd*.
 
+----
+
+References:
+
+.. [1] | `Writing Efficient C and  C Code Optimization - CodeProject <https://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization>`_
+       | `C 语言高效编程与代码优化 – 码农网 <http://www.codeceo.com/article/c-high-performance-coding.html>`_
+       | `C 语言高效编程与代码优化 - 文章 - 伯乐在线 <http://blog.jobbole.com/110574/>`_
+
 .. _C: https://www.google.com/search?q=C+programming
 .. _Makefile: https://www.google.com/search?q=Makefile
 .. _C programming language: https://www.google.com/search?q=C+programming+language

@@ -70,6 +70,9 @@ References:
        | `run c online code - Yahoo search <https://search.yahoo.com/search?p=run+c+online+code>`_
        | `run c online code - Baidu search <https://www.baidu.com/s?wd=run+c+online+code>`_
        | `run c online code - Yandex search <https://www.yandex.com/search/?text=run+c+online+code>`_
+.. [7] | `Writing Efficient C and  C Code Optimization - CodeProject <https://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization>`_
+       | `C 语言高效编程与代码优化 – 码农网 <http://www.codeceo.com/article/c-high-performance-coding.html>`_
+       | `C 语言高效编程与代码优化 - 文章 - 伯乐在线 <http://blog.jobbole.com/110574/>`_
 
 .. _random string: https://www.google.com/search?q=random+string
 .. _C programming language: https://www.google.com/search?q=C+programming+language

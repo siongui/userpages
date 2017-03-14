@@ -35,6 +35,7 @@
 ----
 
 轉錄來源：
-`學誠法師：傳是非，揭別人短處，遲早會傷到自己－－學佛網 <http://big5.xuefo.net/nr/article48/477461.html>`_
+`學誠法師：傳是非，揭別人短處，遲早會傷到自己－－學佛網 <http://big5.xuefo.net/nr/article48/477461.html>`_ -
+`學誠法師專題文集，學誠法師網站－－學佛網、明華居士 <http://big5.xuefo.net/fashi_26_1.htm>`_
 
 .. _學誠法師: https://www.google.com/search?q=%E5%AD%B8%E8%AA%A0%E6%B3%95%E5%B8%AB
