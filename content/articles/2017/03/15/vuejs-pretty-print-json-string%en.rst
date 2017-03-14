@@ -81,6 +81,8 @@ filter, *JSON.parse* the string first and then *JSON.stringify* it again.
     }
   })
 
+.. adsu:: 3
+
 ----
 
 Tested on:
