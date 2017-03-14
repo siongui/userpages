@@ -2,7 +2,7 @@
 ##########################################################
 
 :date: 2016-01-30T02:21+08:00
-:tags: pretty print, Go, Golang
+:tags: pretty print, Go, Golang, JSON
 :category: Go
 :summary: Pretty print variable (struct, map, array, slice) in Go_.
 :adsu: yes
