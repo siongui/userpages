@@ -1,22 +1,15 @@
-package main
+package resize
 
 import (
 	"github.com/nfnt/resize"
 	"image/png"
-	"net/http"
+	"io"
 	"os"
 )
 
-func main() {
-	// open image on web
-	resp, err := http.Get("https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png")
-	if err != nil {
-		panic(err)
-	}
-	defer resp.Body.Close()
-
+func ResizePng(r io.Reader, filepath string) {
 	// decode png into image.Image
-	img, err := png.Decode(resp.Body)
+	img, err := png.Decode(r)
 	if err != nil {
 		panic(err)
 	}
@@ -25,7 +18,7 @@ func main() {
 	// and preserve aspect ratio
 	m := resize.Resize(60, 0, img, resize.Lanczos3)
 
-	out, err := os.Create("test_resized.png")
+	out, err := os.Create(filepath)
 	if err != nil {
 		panic(err)
 	}
