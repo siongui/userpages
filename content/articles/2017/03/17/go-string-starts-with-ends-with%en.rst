@@ -19,6 +19,8 @@ Go String starts with
 
 .. code-block:: go
 
+  import "strings"
+
   // true
   strings.HasPrefix("Gopher", "Go")
 
@@ -30,6 +32,8 @@ Go String ends with
 +++++++++++++++++++
 
 .. code-block:: go
+
+  import "strings"
 
   // true
   strings.HasSuffix("Amigo", "go")
