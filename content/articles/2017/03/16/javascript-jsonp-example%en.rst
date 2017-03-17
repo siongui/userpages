@@ -4,7 +4,7 @@
 :date: 2017-03-16T03:10+08:00
 :tags: JavaScript, JSON, JSONP, CORS
 :category: JavaScript
-:summary: JSONP example - show your HTTP request header.
+:summary: JSONP example - show your HTTP request headers.
 :og_image: http://www.zackgrossbart.com/hackito/wp-content/uploads/2009/04/jsonp_flow.jpg
 :adsu: yes
 
@@ -13,7 +13,7 @@ Demo
 ++++
 
 JSONP_ is a method which help you retrieve data from other domains.
-The following demo will show the header of your HTTP request via JSONP.
+The following demo will show the headers of your HTTP request via JSONP.
 
 .. raw:: html
 

@@ -13,7 +13,7 @@ Demo
 ++++
 
 JSONP_ is a method which help you retrieve data from other domains.
-The following demo will show the header of your HTTP request via JSONP and
+The following demo will show the headers of your HTTP request via JSONP and
 Vue.js_.
 
 .. raw:: html
