@@ -1,0 +1,37 @@
+身世無常，幻緣虛假 - 淨界法師
+#############################
+
+:date: 2017-03-18T19:01:01+08:00
+:author: 淨界法師
+:tags: 轉錄, 淨界法師
+:category: 轉錄
+:summary: 我們看這段：思惟死歿無常。
+:og_image: http://www.masterchingche.org/themes/desktop/zh-tw/assets/images/master_main.jpg
+
+
+| 身世無常，幻緣虛假
+| 上淨下界法師
+
+我們看這段：思惟死歿無常。
+
+這種人今生福報很大，他對今生有所期待。這種人大部分前生的善業強，比方說他身體健康、家庭美滿、子孫賢孝、事業做得很順利，他幾乎是五福臨門。我們一個凡夫的六根，跟這個接觸的時候，往往會被一時的假相產生迷惑：哎呀！人生快樂，這個就是我的修行的最高境界了。
+
+但是你要思惟一個問題：「身世無常，幻緣虛假」。其實這個快樂是暫時的，死亡到來的時候，它是完全被破壞，那只是一個暫時的因緣，你可不能起常見。
+
+而且，你對今生的快樂這麼執著，會產生三種過失：第一個：「多諸辛苦，不得閒暇」。我們講「諸欲求時苦」，其實你在追求快樂的時候，付出了非常辛勞的代價——不得閒暇；「得時多怖畏」——你經過幾十年的努力，得到了你應該有的，你可以高枕無憂嗎？不對！福報越大的人，他內心多諸恐懼，因為他擁有越多，他的得失心越重，反而不得安穩。「失時懷憂惱」——人有得，一定會有失嘛，所以當他失掉某些東西的時候，他心中啊——多諸憂惱，不得自在！
+
+所以，你如果把今生看得很重，從今以後，你的生命就是辛勞、怖畏、憂愁，三種的痛苦跟順著你，所以，你今生的快樂，其實也夾雜著過失。不管怎麼樣，不管你今生怎麼弄，死亡到來的時候，你一定要失掉一切的，所以要思惟死歿無常，來對治你對今生的愛取。
+
+.. image:: https://scontent-tpe1-1.xx.fbcdn.net/v/t31.0-8/17311339_1938449683056228_6338638461537759281_o.jpg?oh=2f76a1a943b024fbdbdb0b6c89b4723e&oe=5956C395
+   :align: center
+   :alt: 身世無常，幻緣虛假
+
+----
+
+轉錄來源：
+
+.. raw:: html
+
+  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fwww.masterchingche.org%2Fposts%2F1938449683056228%3A0&width=500" width="500" height="489" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+.. _淨界法師: http://www.masterchingche.org/zh-tw/master_main.php
