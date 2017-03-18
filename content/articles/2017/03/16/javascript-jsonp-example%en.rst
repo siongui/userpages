@@ -2,7 +2,7 @@
 ##########################
 
 :date: 2017-03-16T03:10+08:00
-:tags: JavaScript, JSON, JSONP, CORS
+:tags: JavaScript, JSON, JSONP, CORS, HTTP Header
 :category: JavaScript
 :summary: JSONP example - show your HTTP request headers.
 :og_image: http://www.zackgrossbart.com/hackito/wp-content/uploads/2009/04/jsonp_flow.jpg

@@ -2,7 +2,7 @@
 #########################################
 
 :date: 2017-03-18T04:13+08:00
-:tags: Go, Golang, JSON, JSONP, CORS, Go net/http
+:tags: Go, Golang, JSON, JSONP, CORS, Go net/http, HTTP Header
 :category: Go
 :summary: A Go server that returns HTTP request headers via JSONP.
 :og_image: https://i.ytimg.com/vi/z74PQXHnzjk/hqdefault.jpg

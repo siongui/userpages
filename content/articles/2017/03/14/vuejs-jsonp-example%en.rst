@@ -2,7 +2,7 @@
 ######################
 
 :date: 2017-03-14T02:16+08:00
-:tags: Vue.js, JavaScript, JSON, JSONP, CORS
+:tags: Vue.js, JavaScript, JSON, JSONP, CORS, HTTP Header
 :category: Vue.js
 :summary: JSONP_ example by Vue.js_.
 :og_image: https://avatars1.githubusercontent.com/u/6128107?v=3&s=200
