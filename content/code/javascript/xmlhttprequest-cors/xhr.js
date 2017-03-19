@@ -57,5 +57,5 @@ failCallback = function() {
 
 
 document.getElementById('bt').onclick = function() {
-  AJAXRequest('http://json2.palidictionary.appspot.com/json/s/su/sukhada.json', callback, failCallback);
+  AJAXRequest('https://siongui.github.io/xemaauj9k5qn34x88m4h/sukhada.json', callback, failCallback);
 };
