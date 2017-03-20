@@ -18,9 +18,9 @@ failCallbackMulti = function(url) {
   alert(url + ' failed');
 };
 
-var urls = ['http://json0.palidictionary.appspot.com/json/e/ekadesa.json',
-            'http://json0.palidictionary.appspot.com/json/c/caturassa.json',
-            'http://json0.palidictionary.appspot.com/json/b/bu/buddho.json'];
+var urls = ['https://golden-operator-130720.appspot.com/ekadesa.json',
+            'https://golden-operator-130720.appspot.com/caturassa.json',
+            'https://golden-operator-130720.appspot.com/buddho.json'];
 
 document.getElementById('bt').onclick = function() {
   AjaxRequestsMulti(urls, callbackMulti, failCallbackMulti);

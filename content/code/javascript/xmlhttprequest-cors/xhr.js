@@ -44,7 +44,7 @@ AJAXRequest = function(url, callback, failCallback) {
  */
 callback = function(responseText) {
   // write your own handler here.
-  alert('result from http://json2.palidictionary.appspot.com/json/s/su/sukhada.json\n' + responseText);
+  alert('result from https://golden-operator-130720.appspot.com/sukhada.json\n' + responseText);
 };
 
 /**
@@ -57,5 +57,5 @@ failCallback = function() {
 
 
 document.getElementById('bt').onclick = function() {
-  AJAXRequest('http://json2.palidictionary.appspot.com/json/s/su/sukhada.json', callback, failCallback);
+  AJAXRequest('https://golden-operator-130720.appspot.com/sukhada.json', callback, failCallback);
 };

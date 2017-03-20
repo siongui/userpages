@@ -2,7 +2,7 @@
 #####################################################################################
 
 :date: 2012-09-29 03:16
-:modified: 2015-03-18 04:28
+:modified: 2017-03-20T21:32+08:00
 :tags: JavaScript, HTTP GET, CORS, XMLHttpRequest
 :category: JavaScript
 :summary: JavaScript single callback for multiple asynchronous XHR requests.
@@ -19,7 +19,7 @@ The following code is my solution to the question:
 Source Code (*JavaScript*)
 ++++++++++++++++++++++++++
 
-.. show_github_file:: siongui userpages content/code/single-callback-multiple-xhr/xhr.js
+.. show_github_file:: siongui userpages content/code/javascript/single-callback-multiple-xhr/xhr.js
 
 There are two main functions in above code snippet. One is *AjaxRequest*, which
 is the function to issue single AJAX request (XMLHttpRequest). The other is
@@ -31,12 +31,12 @@ Usage and Demo
 
 .. adsu:: 2
 
-.. rubric:: `Demo <{filename}/code/single-callback-multiple-xhr/asynchronous.html>`_
+.. rubric:: `Demo <{filename}/code/javascript/single-callback-multiple-xhr/asynchronous.html>`_
       :class: align-center
 
 Source Code for Demo (*JavaScript*):
 
-.. show_github_file:: siongui userpages content/code/single-callback-multiple-xhr/usage.js
+.. show_github_file:: siongui userpages content/code/javascript/single-callback-multiple-xhr/usage.js
 .. adsu:: 3
 
 The variable *urls* contains the URLs of AJAX requests, overwrite this variable
@@ -46,7 +46,17 @@ will be run if some requests fail.
 
 Source Code for Demo (*HTML*):
 
-.. show_github_file:: siongui userpages content/code/single-callback-multiple-xhr/asynchronous.html
+.. show_github_file:: siongui userpages content/code/javascript/single-callback-multiple-xhr/asynchronous.html
+
+.. note::
+
+   If you web page is served via HTTPS, the server that returns data also needs
+   to serve via HTTPS. Otherwise browsers will block the request and make the
+   request fail.
+
+----
+
+Tested on: ``Chromium Version 56.0.2924.76 Built on Ubuntu , running on Ubuntu 16.10 (64-bit)``
 
 ----
 
@@ -56,7 +66,5 @@ References:
 
 
 .. _AJAX: http://en.wikipedia.org/wiki/Ajax_(programming)
-
 .. _XMLHttpRequest: https://duckduckgo.com/?q=XMLHttpRequest
-
 .. _callback: http://en.wikipedia.org/wiki/Callback_%28computer_programming%29
