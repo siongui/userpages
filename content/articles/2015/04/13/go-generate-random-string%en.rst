@@ -2,7 +2,7 @@
 #############################################
 
 :date: 2015-04-13 03:08
-:modified: 2017-03-21T01:27+08:00
+:modified: 2017-03-21T01:52+08:00
 :tags: Go, Golang, String Manipulation, Random Number, Go time Package
 :category: Go
 :summary: Generate a random string from [a-z0-9] in Golang.
@@ -18,7 +18,7 @@ Lesson learned from this exercise
 
 2. Accoding to the comment_ from `@dchapes`_, the pseudorandom number generator
    should not be re-seeded on each use, nor re-seed the global PRNG in a
-   package. `@shurcooL`_ shows to `properly seed the PRNG`_:
+   package. `@shurcooL`_ shows how to `properly seed the PRNG`_:
 
      If you're using global ``rand.Rand``, don't re-seed it. But if you want to
      set your own seed, create your own local instance of ``rand.Rand``.
@@ -35,6 +35,13 @@ Lesson learned from this exercise
        		// use existing r, no need to re-seed it
        		r.Intn(len(chars))
        	}
+
+     You can also `simplify this into one line`_:
+
+     .. code-block:: go
+
+       	// r is a source of random numbers used in this package.
+       	var r = rand.New(rand.NewSource(time.Now().UnixNano()))
 
 3. Allocate the byte array with make_ function.
 
@@ -128,3 +135,4 @@ References:
 .. _comment: https://github.com/siongui/userpages/commit/77cd55346752ccaa2efa44b9084e97af81b664dd#commitcomment-21400225
 .. _@shurcooL: https://github.com/shurcooL
 .. _properly seed the PRNG: https://github.com/siongui/userpages/commit/77cd55346752ccaa2efa44b9084e97af81b664dd#commitcomment-21401369
+.. _simplify this into one line: https://github.com/siongui/userpages/commit/6dc58d0b28a615ae19c43900358bcd258c1faac6#commitcomment-21402539
