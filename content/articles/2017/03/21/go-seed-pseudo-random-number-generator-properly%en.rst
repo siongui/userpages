@@ -62,6 +62,8 @@ comment to show me how to `properly seed the PRNG`_:
     // r is a source of random numbers used in this package.
     var r = rand.New(rand.NewSource(time.Now().UnixNano()))
 
+.. adsu:: 2
+
 ----
 
 According to above comments, the most proper way to seed the PRNG in my case is
@@ -85,6 +87,8 @@ as follows:
 
 You can see my post for complete example of using PRNG to generate random
 string. [3]_
+
+.. adsu:: 3
 
 ----
 
