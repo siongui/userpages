@@ -1,15 +1,15 @@
-CSS Only Bulma Responsive Nav Bar (Navigation Bar)
+Pure CSS Bulma Responsive Nav Bar (Navigation Bar)
 ##################################################
 
 :date: 2017-02-22T03:46+08:00
 :tags: CSS, Responsive Web Design, toggle, toggleable, html
 :category: CSS
-:summary: CSS_ only Responsive Bulma_ `nav bar`_ (`navigation bar`_) without
+:summary: CSS_ only responsive Bulma_ `nav bar`_ (`navigation bar`_) without
           JavaScript_. Toggle mobile menu with CSS only. No JavaScript required.
 :adsu: yes
 
 
-CSS_ only Responsive Bulma_ `nav bar`_ (`navigation bar`_) without JavaScript_.
+CSS_ only responsive Bulma_ `nav bar`_ (`navigation bar`_) without JavaScript_.
 Toggle mobile menu with CSS only. No JavaScript required.
 
 .. rubric:: `Demo <{filename}/code/css/bulma-responsive-navbar/index.html>`_
@@ -19,7 +19,7 @@ I apply the technique of `CSS only menu toggle`_ to the responsive `nav bar`_
 code in Bulma_, and create this responsive navigation bar.
 
 The key points of the technique [2]_:
-  - A visible HTML label_ element
+  - A visible HTML label_ element (only visible on small screen < 768px).
   - A invisible HTML input_ checkbox element, referenced by the label_ element.
   - The menu to be toggled
   - A CSS rule to hide/show the menu according to whether the checkbox is
