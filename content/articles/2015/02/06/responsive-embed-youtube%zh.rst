@@ -8,6 +8,7 @@
 :summary: 現今移動裝置盛行，有各種不同螢幕大小的裝置來瀏覽網站，
           若在網站上要內嵌入Youtube的影片，
           要如何讓該影片可以根據瀏覽裝置的螢幕大小自動調整影片嵌入大小呢？
+:og_image: http://1.bp.blogspot.com/-mGHl5PJ7UIY/Vn9tWZo7ocI/AAAAAAAAA-c/EUO2i-SQbYU/s640/responsive-youtube-video-embed.png
 :adsu: yes
 
 
