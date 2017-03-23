@@ -40,6 +40,8 @@ in HTTP request handler of *net/http*?
 For more information about how to access the query string, see `net/url`_
 package.
 
+.. adsu:: 2
+
 ----
 
 Tested on:
