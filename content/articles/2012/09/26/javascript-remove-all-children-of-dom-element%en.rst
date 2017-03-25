@@ -2,7 +2,7 @@ JavaScript Remove All Children of a DOM Element
 ###############################################
 
 :date: 2012-09-26 04:56
-:modified: 2015-02-20 12:31
+:modified: 2017-03-25T22:32+08:00
 :tags: html, JavaScript, DOM
 :category: JavaScript
 :summary: Bug-free way of removing child nodes of a DOM element in JavaScript.
@@ -42,19 +42,35 @@ found better ways to remove all child nodes in references [1]_ and [2]_. The
     elm.removeChild(elm.lastChild);
   }
 
-.. adsu:: 2
-
 Maybe for some people the "canonical" way is obvious, but it takes me quite a
 while to debug and know that sometimes the trivial way will not work. So I wrote
 this post for those who have the same trouble as me.
+
+.. adsu:: 2
+
+----
+
+**Appendix**
+
+One of the methods to empty an array [5]_ in JavaScript is:
+
+.. code-block:: javascript
+
+  while(A.length > 0) {
+    A.pop();
+  }
+
+As you can see, the idea of *empty an array* here is the same as
+*remove all child nodes*. This is interesting so I put this in the appendix.
+
+.. adsu:: 3
 
 ----
 
 References:
 
 .. [1] `Remove all the children DOM elements in div <http://stackoverflow.com/questions/683366/remove-all-the-children-dom-elements-in-div>`_
-
 .. [2] `Remove all child elements of a DOM node in JavaScript? <http://stackoverflow.com/questions/3955229/remove-all-child-elements-of-a-dom-node-in-javascript>`_
-.. adsu:: 3
 .. [3] `[Dart] DOM Element Remove All Children <{filename}../../../2014/01/31/dart-element-remove-all-children%en.rst>`_
 .. [4] `[Golang] Remove All Child Nodes of a DOM Element by GopherJS <{filename}../../../2016/01/31/go-remove-all-children-of-dom-element-by-gopherjs%en.rst>`_
+.. [5] `How do I empty an array in JavaScript? - Stack Overflow <http://stackoverflow.com/questions/1232040/how-do-i-empty-an-array-in-javascript>`_
