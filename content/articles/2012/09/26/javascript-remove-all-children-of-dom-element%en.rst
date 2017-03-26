@@ -69,8 +69,8 @@ As you can see, the idea of *empty an array* here is the same as
 
 References:
 
-.. [1] `Remove all the children DOM elements in div <http://stackoverflow.com/questions/683366/remove-all-the-children-dom-elements-in-div>`_
-.. [2] `Remove all child elements of a DOM node in JavaScript? <http://stackoverflow.com/questions/3955229/remove-all-child-elements-of-a-dom-node-in-javascript>`_
+.. [1] `javascript - Remove all the children DOM elements in div - Stack Overflow <http://stackoverflow.com/questions/683366/remove-all-the-children-dom-elements-in-div>`_
+.. [2] `Remove all child elements of a DOM node in JavaScript - Stack Overflow <http://stackoverflow.com/questions/3955229/remove-all-child-elements-of-a-dom-node-in-javascript>`_
 .. [3] `[Dart] DOM Element Remove All Children <{filename}../../../2014/01/31/dart-element-remove-all-children%en.rst>`_
 .. [4] `[Golang] Remove All Child Nodes of a DOM Element by GopherJS <{filename}../../../2016/01/31/go-remove-all-children-of-dom-element-by-gopherjs%en.rst>`_
 .. [5] `How do I empty an array in JavaScript? - Stack Overflow <http://stackoverflow.com/questions/1232040/how-do-i-empty-an-array-in-javascript>`_

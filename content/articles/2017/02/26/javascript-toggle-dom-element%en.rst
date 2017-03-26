@@ -29,6 +29,7 @@ click the following text to toggle the element.
   }
   </style>
 
+  <div style="background-color: Azure; padding: 5px;">
   <div class="menu-toggle">
     <!--
     <span class="invisible">&#9660;</span>
@@ -38,6 +39,7 @@ click the following text to toggle the element.
   </div>
   <div class="invisible menu">
     menu content
+  </div>
   </div>
 
   <script>

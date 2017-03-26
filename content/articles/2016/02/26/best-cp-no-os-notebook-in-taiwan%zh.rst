@@ -2,13 +2,17 @@
 ####################################
 
 :date: 2016-02-26 16:02
-:modified: 2016-12-21T09:15+08:00
+:modified: 2017-03-26T21:26+08:00
 :tags: 3C
 :category: 3C
 :summary: 網路上台灣最佳CP值無作業系統(OS)筆記型電腦(截至2016/02/26)
 :og_image: http://www.pd4pic.com/images/laptop-notebook-sony-computer-mobile.png
 :adsu: yes
 
+剛剛看網站統計，這篇似乎有點熱門，但我已經有一段時間沒有看筆電了，希望大家能到
+`這裡 <https://github.com/siongui/userpages/issues/2>`__ 留言互相分享討論。
+
+----
 
 截至2016年02月26號，網路上台灣最佳CP值無作業系統(OS)筆記型電腦為：
 
@@ -35,13 +39,13 @@
 
 Linux作業系統wifi斷線問題：
 
-- `rtl8821ae ubuntu - Google search <https://www.google.com/search?q=rtl8821ae+ubuntu>`_
+我試了很多方式，但是無解，目前暫時用USB tethering解決常常斷線問題，若有好方法，
+請到 `這裡 <https://github.com/siongui/userpages/issues/2>`__ 告知。
 
-  `RTL8821AE wifi drivers in Ubuntu 16.04 – elMaxx! – Medium <https://medium.com/@elmaxx/rtl8821ae-wifi-drivers-in-ubuntu-16-04-4c1286524afa>`_
-
-  `networking - Wireless disconnect issues Ubuntu 16.04 with RTL8821ae - Ask Ubuntu <http://askubuntu.com/questions/797213/wireless-disconnect-issues-ubuntu-16-04-with-rtl8821ae>`_
-
-  `Issues · lwfinger/rtlwifi_new · GitHub <https://github.com/lwfinger/rtlwifi_new/issues>`_
+- | `rtl8821ae ubuntu - Google search <https://www.google.com/search?q=rtl8821ae+ubuntu>`_
+  | `RTL8821AE wifi drivers in Ubuntu 16.04 – elMaxx! – Medium <https://medium.com/@elmaxx/rtl8821ae-wifi-drivers-in-ubuntu-16-04-4c1286524afa>`_
+  | `networking - Wireless disconnect issues Ubuntu 16.04 with RTL8821ae - Ask Ubuntu <http://askubuntu.com/questions/797213/wireless-disconnect-issues-ubuntu-16-04-with-rtl8821ae>`_
+  | `Issues · lwfinger/rtlwifi_new · GitHub <https://github.com/lwfinger/rtlwifi_new/issues>`_
 - `ideapad 300 linux wifi - Google search <https://www.google.com/search?q=ideapad+300+linux+wifi>`_
 - `linux check wifi driver - Google search <https://www.google.com/search?q=linux+check+wifi+driver>`_
 - `rtl8821ae linux driver - Google search <https://www.google.com/search?q=rtl8821ae+linux+driver>`_
