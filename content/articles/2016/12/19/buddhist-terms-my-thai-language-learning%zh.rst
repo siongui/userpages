@@ -256,6 +256,11 @@
      - 芒果樹叢林道場
      - Wat Pah Ampawan
 
+   * - นมัสการ
+     -
+     - 合十禮
+     - namaste_
+
 .. adsu:: 2
 
 
@@ -271,3 +276,4 @@
 .. _ธุดงค์: https://th.wikipedia.org/wiki/%E0%B8%98%E0%B8%B8%E0%B8%94%E0%B8%87%E0%B8%84%E0%B9%8C
 .. _Maechi: https://en.wikipedia.org/wiki/Maechi
 .. _bhavana: https://en.wikipedia.org/wiki/Bhavana
+.. _namaste: https://www.google.com/search?q=namaste
