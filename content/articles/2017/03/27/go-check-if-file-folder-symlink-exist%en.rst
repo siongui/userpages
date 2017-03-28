@@ -2,7 +2,7 @@
 ###################################################
 
 :date: 2017-03-27T22:44+08:00
-:tags: Go, Golang
+:tags: Go, Golang, Existence Detection
 :category: Go
 :summary: Check if a file, directory, or symbolic link exists, or not exists,
           in Go programming language.

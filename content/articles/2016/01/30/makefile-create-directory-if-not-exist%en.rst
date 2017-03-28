@@ -2,7 +2,7 @@
 ########################################
 
 :date: 2016-01-30T02:02+08:00
-:tags: Bash, Makefile, Commandline
+:tags: Bash, Makefile, Commandline, Existence Detection
 :category: Bash
 :summary: Makefile - Create a directory if it does not exist. Otherwise do
           nothing.
@@ -19,5 +19,11 @@ Otherwise do nothing.
 
 
 Tested on ``Ubuntu Linux 15.10``.
+
+----
+
+References:
+
+.. [1] `[Golang] Create Directory If Not Exist <{filename}../../../2017/03/28/go-create-directory-if-not-exist%en.rst>`_
 
 .. adsu:: 2
