@@ -2,7 +2,7 @@ Pure CSS Toggle (Show/Hide) HTML Element
 ########################################
 
 :date: 2017-02-27T02:23+08:00
-:tags: DOM, toggle, toggleable, html, CSS
+:tags: Pure CSS Toggle, toggle, toggleable, html, CSS
 :category: CSS
 :summary: CSS_ only toggle (show/hide) HTML_ `DOM element`_ without JavaScript_.
 :og_image: https://www.sololearn.com/Icons/Courses/1023.png

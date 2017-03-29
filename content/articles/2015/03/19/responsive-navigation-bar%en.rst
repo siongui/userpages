@@ -2,7 +2,8 @@ Responsive Navigation Bar (Navbar)
 ##################################
 
 :date: 2015-03-19 23:51
-:tags: CSS, html, SASS, SCSS, toggle, toggleable, Responsive Web Design
+:tags: CSS, html, SASS, SCSS, toggle, toggleable, Responsive Web Design,
+       Pure CSS Toggle
 :category: Web Development
 :summary: Responsive top navigation bar (navbar) used in this website.
 :adsu: yes

@@ -1,7 +1,7 @@
 Toggle Element (Dropdown/Menu) Visibility with CSS
 ##################################################
 
-:tags: html, CSS, toggle, toggleable, SASS, SCSS
+:tags: html, CSS, toggle, toggleable, SASS, SCSS, Pure CSS Toggle
 :category: Web Development
 :summary: Toggle element (usually div) with pure CSS_ only (no JavaScript_).
           Suitable for dropdown/menu application.
