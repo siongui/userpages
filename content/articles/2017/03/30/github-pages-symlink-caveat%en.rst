@@ -45,6 +45,8 @@ And make symlink as follows:
 
 I open ``/browse/s/sacca/``, and my browser renders it as HTML!
 
+.. adsu:: 2
+
 ----
 
 References:
