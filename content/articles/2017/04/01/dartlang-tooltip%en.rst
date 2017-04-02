@@ -50,6 +50,7 @@ displayed in the tooltip when the cursor hovers over the span element.
     padding: 3px;
   }
 
+.. adsu:: 2
 
 **Dart**:
 
@@ -82,6 +83,8 @@ displayed in the tooltip when the cursor hovers over the span element.
 Use querySelectorAll_ to find all span elements with *data-text* attibute, and
 setup corresponding mouseenter_/mouseleave_ event handlder to show/hide the
 tooltip.
+
+.. adsu:: 3
 
 ----
 

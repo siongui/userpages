@@ -3,7 +3,7 @@ JavaScript Back to Top Link
 
 :date: 2012-06-27 07:30
 :modified: 2015-04-06 22:30
-:tags: JavaScript, html
+:tags: JavaScript, html, Back to Top Link
 :category: JavaScript
 :summary: JavaScript_ Back to Top Link
 :og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
