@@ -411,6 +411,11 @@
      - 阿姑
      -
 
+   * - `วันเชงเม้ง`_ (วันจริง)
+     -
+     - 清明節
+     -
+
 泰語從英語借來的詞
 ++++++++++++++++++
 
@@ -1017,3 +1022,4 @@
 .. _หน่อย 意思: https://www.google.com/search?q=%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%AD%E0%B8%A2+%E6%84%8F%E6%80%9D
 .. _不懂: https://tw.answers.yahoo.com/question/index?qid=20131016000010KK00354
 .. _ชาวไทยเชื้อสายจีน: https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%88%E0%B8%B5%E0%B8%99
+.. _วันเชงเม้ง: https://www.facebook.com/SuwannaFutureC/posts/1568547343177467:0
