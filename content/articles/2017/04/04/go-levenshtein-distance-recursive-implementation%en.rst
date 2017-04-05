@@ -29,7 +29,7 @@ If you want a more efficient algorithm (`Wagner-Fischer algorithm`_), see [4]_.
 
 .. show_github_file:: siongui userpages content/code/go/levenshtein-distance/util.go
 .. adsu:: 2
-.. show_github_file:: siongui userpages content/code/go/levenshtein-distance/ld.go
+.. show_github_file:: siongui userpages content/code/go/levenshtein-distance/recursive.go
 .. adsu:: 3
 .. show_github_file:: siongui userpages content/code/go/levenshtein-distance/ld_test.go
 .. adsu:: 4
