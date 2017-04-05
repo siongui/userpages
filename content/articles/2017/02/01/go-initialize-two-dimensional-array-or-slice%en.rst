@@ -37,17 +37,14 @@ Tested on:
 
 References:
 
-.. [1] `golang initialize two dimensional array - Google search <https://www.google.com/search?q=golang+initialize+two+dimensional+array>`_
-
-       `golang initialize two dimensional array - DuckDuckGo search <https://duckduckgo.com/?q=golang+initialize+two+dimensional+array>`_
-
-       `golang initialize two dimensional array - Bing search <https://www.bing.com/search?q=golang+initialize+two+dimensional+array>`_
-
-       `golang initialize two dimensional array - Yahoo search <https://search.yahoo.com/search?p=golang+initialize+two+dimensional+array>`_
-
-       `golang initialize two dimensional array - Baidu search <https://www.baidu.com/s?wd=golang+initialize+two+dimensional+array>`_
-
-       `golang initialize two dimensional array - Yandex search <https://www.yandex.com/search/?text=golang+initialize+two+dimensional+array>`_
+.. [1] | `golang initialize two dimensional array - Google search <https://www.google.com/search?q=golang+initialize+two+dimensional+array>`_
+       | `golang initialize two dimensional array - DuckDuckGo search <https://duckduckgo.com/?q=golang+initialize+two+dimensional+array>`_
+       | `golang initialize two dimensional array - Ecosia search <https://www.ecosia.org/search?q=golang+initialize+two+dimensional+array>`_
+       | `golang initialize two dimensional array - Qwant search <https://www.qwant.com/?q=golang+initialize+two+dimensional+array>`_
+       | `golang initialize two dimensional array - Bing search <https://www.bing.com/search?q=golang+initialize+two+dimensional+array>`_
+       | `golang initialize two dimensional array - Yahoo search <https://search.yahoo.com/search?p=golang+initialize+two+dimensional+array>`_
+       | `golang initialize two dimensional array - Baidu search <https://www.baidu.com/s?wd=golang+initialize+two+dimensional+array>`_
+       | `golang initialize two dimensional array - Yandex search <https://www.yandex.com/search/?text=golang+initialize+two+dimensional+array>`_
 .. adsu:: 3
 .. [2] `GitHub - siongui/gopherjs-pali-virtual-keypad: Virtual Keyboard for Pāli input. Written in Go. <https://github.com/siongui/gopherjs-pali-virtual-keypad>`_
 
