@@ -2,6 +2,7 @@
 ##########################################################
 
 :date: 2016-01-30T02:21+08:00
+:modified: 2017-04-08T01:47+08:00
 :tags: pretty print, Go, Golang, JSON
 :category: Go
 :summary: Pretty print variable (struct, map, array, slice) in Go_.
@@ -14,12 +15,17 @@ The easiest way is through MarshalIndent_ function in json_ package.
 
   import "encoding/json"
 
-  // assume we want to pretty print *mystruct*
-  b, _ := json.MarshalIndent(mystruct, "", "  ")
-  println(string(b))
+  func PrettyPrint(v interface{}) {
+  	b, _ := json.MarshalIndent(v, "", "  ")
+  	println(string(b))
+  }
 
+`Run Example on Go Playground <https://play.golang.org/p/ZpjQoxMinU>`_
 
-Tested on: ``Ubuntu Linux 15.10``, ``Go 1.5.3``.
+Tested on:
+
+- ``Ubuntu Linux 15.10``, ``Go 1.5.3``.
+- Go Playground
 
 .. adsu:: 2
 

@@ -10,6 +10,7 @@
           similarity between two strings, the minimum number of single-character
           edits (insertions, deletions or substitutions) required to change one
           string into the other.
+:og_image: http://richardminerich.com/wp-content/uploads/2012/09/Levenshtein.png
 :adsu: yes
 
 

@@ -9,6 +9,7 @@
           Levenshtein distance, the minimum number of single-character edits
           (insertions, deletions or substitutions) required to change one string
           into the other.
+:og_image: http://signal-to-noise.xyz/static/images/bk-tree-2.png
 :adsu: yes
 
 

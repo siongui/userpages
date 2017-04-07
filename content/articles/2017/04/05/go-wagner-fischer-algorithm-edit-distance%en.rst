@@ -9,6 +9,7 @@
           Levenshtein distance, the minimum number of single-character edits
           (insertions, deletions or substitutions) required to change one string
           into the other.
+:og_image: http://www.levenshtein.net/images/levenshtein_meilenstein_matrix.gif
 :adsu: yes
 
 

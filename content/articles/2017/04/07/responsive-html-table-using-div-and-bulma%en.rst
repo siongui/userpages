@@ -6,6 +6,7 @@ Responsive HTML Table using Div and Bulma
 :category: CSS
 :summary: Make a responsive HTML table using *div* element and *Bulma* CSS
           framework.
+:og_image: https://techblog.livingsocial.com/images/table_after.png
 :adsu: yes
 
 
@@ -35,7 +36,8 @@ Assume we have the following table:
   </table>
 
 We can make a similar looking and responsive table by the following div
-elements, and CSS classes of `responsive columns`_ provided by Bulma_:
+elements, and CSS classes of `responsive columns`_ provided by Bulma_, and each
+``div.column`` represents a cell in table:
 
 .. code-block:: html
 
@@ -55,6 +57,10 @@ elements, and CSS classes of `responsive columns`_ provided by Bulma_:
   </div>
 
 `View on CodePen <http://codepen.io/anon/pen/PprGKw>`__
+
+.. adsu:: 2
+
+The columns are stacked on top of each other on mobile (width up to 768px).
 
 Bulma add ``margin-bottom`` between columns, we can use the following SCSS_ rule
 to remove the ``margin-bottom``:
@@ -88,7 +94,7 @@ References
        | `responsive table div - Yandex search <https://www.yandex.com/search/?text=responsive+table+div>`_
 
 .. [2] `html - Why are people making tables with divs? - Software Engineering Stack Exchange <http://softwareengineering.stackexchange.com/questions/277778/why-are-people-making-tables-with-divs>`_
-
+.. adsu:: 3
 .. [3] | `responsive html table - Google search <https://www.google.com/search?q=responsive+html+table>`_
        | `responsive html table - DuckDuckGo search <https://duckduckgo.com/?q=responsive+html+table>`_
        | `responsive html table - Ecosia search <https://www.ecosia.org/search?q=responsive+html+table>`_

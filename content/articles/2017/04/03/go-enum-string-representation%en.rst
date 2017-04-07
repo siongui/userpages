@@ -6,6 +6,7 @@
 :category: Go
 :summary: Example of Go enumerated constants using *iota* enumerator, and print
           the string representation of enum name.
+:og_image: http://www.unixstickers.com/image/cache/data/stickers/golang/golang.sh-600x600.png
 :adsu: yes
 
 Recently I use Go enums [2]_ [4]_ to represent the type of webpage:

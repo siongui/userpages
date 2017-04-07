@@ -5,6 +5,7 @@ reStructuredText “Back to Top” Link
 :tags: Python, reStructuredText, Pelican, Back to Top Link
 :category: Python
 :summary: *reStructuredText* - “Back to Top” Link
+:og_image: https://www.drillseo.com/wp-content/uploads/2016/03/backtotop-1.png
 :adsu: yes
 
 .. _top:
