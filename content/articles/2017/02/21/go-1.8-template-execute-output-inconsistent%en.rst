@@ -2,12 +2,14 @@ Go 1.8 Template Execute Output Inconsistent
 ###########################################
 
 :date: 2017-02-21T02:24+08:00
+:modified: 2017-04-08T08:56+08:00
 :tags: Go, Golang, Golang template
 :category: Go
 :summary:  Bug in Go_ 1.8 `text/template`_ and `html/template`_ package
 :og_image: http://www.unixstickers.com/image/cache/data/stickers/golang/Go-brown-side.sh-600x600.png
 :adsu: yes
 
+*Update*: `This issue seems fixed in Go 1.8.1`_.
 
 I found a bug in Go_ 1.8 template package (`text/template`_ & `html/template`_),
 which output inconsistent HTML after ExecuteTemplate_. Sometimes I get correct
@@ -158,3 +160,4 @@ References:
 .. _html/template: https://golang.org/pkg/html/template/
 .. _text/template: https://golang.org/pkg/text/template/
 .. _ExecuteTemplate: https://golang.org/pkg/html/template/#Template.ExecuteTemplate
+.. _This issue seems fixed in Go 1.8.1: https://github.com/golang/go/issues/19294

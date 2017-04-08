@@ -86,6 +86,7 @@ References:
        | `Data structures and algorithms problems in C++ using STL <http://www.techiedelight.com/data-structures-and-algorithms-interview-questions-stl/>`_
 .. [2] `Find all Permutations of a given string - Techie Delight <http://www.techiedelight.com/find-permutations-given-string/>`_
 .. [3] `Strings, bytes, runes and characters in Go - The Go Blog <https://blog.golang.org/strings>`_
+.. [4] `Data Structures and Algorithms Problems | Hacker News <https://news.ycombinator.com/item?id=14043891>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
