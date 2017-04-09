@@ -132,6 +132,7 @@ References:
        |godoc|)
 .. [2] | `Is including assets (with a tool like go-bindata) an anti-pattern? : golang <https://www.reddit.com/r/golang/comments/60166q/is_including_assets_with_a_tool_like_gobindata_an/>`_
        | `How to build Go plugin with data inside : golang <https://www.reddit.com/r/golang/comments/63f3ag/how_to_build_go_plugin_with_data_inside/>`_
+.. adsu:: 4
 .. [3] `GitHub - UnnoTed/fileb0x: simple customizable tool to embed files in go <https://github.com/UnnoTed/fileb0x>`_
 .. [4] `GitHub - jteeuwen/go-bindata: A small utility which generates Go code from any file. Useful for embedding binary data in a Go program. <https://github.com/jteeuwen/go-bindata>`_
 .. [5] `GitHub - GeertJohan/go.rice: go.rice is a Go package that makes working with resources such as html,js,css,images,templates, etc very easy. <https://github.com/GeertJohan/go.rice>`_
