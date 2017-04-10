@@ -2,6 +2,7 @@
 ##################################
 
 :date: 2017-04-09T14:27+08:00
+:modified: 2017-04-10T21:40+08:00
 :tags: CSS, html, SCSS
 :category: CSS
 :summary: Select and style the first column (or n-th column) of table
@@ -22,6 +23,7 @@ See the demo below. The first column is selected and styled.
   </style>
   <div style="background-color: Azure; padding: 5px;">
   <table class="first-column">
+   <tbody>
     <tr>
       <td>(1,1)</td>
       <td>(1,2)</td>
@@ -40,6 +42,7 @@ See the demo below. The first column is selected and styled.
       <td>(3,3)</td>
       <td>(3,4)</td>
     </tr>
+   </tbody>
   </table>
   </div>
 
@@ -48,6 +51,7 @@ See the demo below. The first column is selected and styled.
 .. code-block:: html
 
   <table class="first-column">
+   <tbody>
     <tr>
       <td>(1,1)</td>
       <td>(1,2)</td>
@@ -66,6 +70,7 @@ See the demo below. The first column is selected and styled.
       <td>(3,3)</td>
       <td>(3,4)</td>
     </tr>
+   </tbody>
   </table>
 
 **CSS**:
@@ -81,6 +86,9 @@ We use `nth-of-type`_ CSS selector to select the first *td* of rach row. If you
 want to select n-th column, change the number from 1 to n.
 
 .. adsu:: 2
+
+You may also be interested in
+`[CSS] Select First Row of Table <{filename}../10/css-select-first-row-of-table%en.rst>`_
 
 ----
 
