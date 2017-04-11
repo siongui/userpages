@@ -88,6 +88,7 @@ References:
 .. [3] `Strings, bytes, runes and characters in Go - The Go Blog <https://blog.golang.org/strings>`_
 .. [4] `Data Structures and Algorithms Problems | Hacker News <https://news.ycombinator.com/item?id=14043891>`_
 .. [5] `Common Algo Problem Solutions | Hacker News <https://news.ycombinator.com/item?id=14064698>`_
+.. [6] `LeetCode Online Judge <https://leetcode.com/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
