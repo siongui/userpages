@@ -6,6 +6,7 @@
 :category: Go
 :summary: Go_ regexp_ example of `named group matches`_ - extract metadata from
           file path.
+:og_image: https://files.readme.io/G4eDCX6TlKQr9JmwyyVB_RegExCaptureDiag.png
 :adsu: yes
 
 
@@ -173,12 +174,12 @@ output:
 
 References:
 
-.. [1] `python regular expression ?P <https://www.google.com/search?q=python+regular+expression+%3FP>`_
-
-.. [2] `golang named regular expression <https://www.google.com/search?q=golang+named+regular+expression>`_
-
-.. [3] `Go Playground - golang named path metadata <https://play.golang.org/p/cXgukkhTTu>`_
-
+.. [1] `python regular expression ?P - Google Search <https://www.google.com/search?q=python+regular+expression+%3FP>`_
+.. [2] `golang named regular expression - Google Search <https://www.google.com/search?q=golang+named+regular+expression>`_
+.. [3] `golang named path metadata - Go Playground <https://play.golang.org/p/cXgukkhTTu>`_
+.. [4] `Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript <https://regex101.com/r/relwQD/3>`_
+.. [5] | `Extract subexp names in Go regexps : golang <https://www.reddit.com/r/golang/comments/64wcdu/extract_subexp_names_in_go_regexps/>`_
+       | `GitHub - reconquest/regexputil-go: Extract subexp names in golang regexp <https://github.com/reconquest/regexputil-go>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

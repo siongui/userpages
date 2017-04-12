@@ -6,6 +6,7 @@
 :category: Go
 :summary: Get the attribute of a HTML element via *named group matches* in Go
           *regexp* package.
+:og_image: https://files.readme.io/G4eDCX6TlKQr9JmwyyVB_RegExCaptureDiag.png
 :adsu: yes
 
 Given a short string of a HTML element, we want to extract atrribute of the
@@ -81,6 +82,9 @@ Solution
 References:
 
 .. [1] `[Golang] Regular Expression Named Group - Extract Metadata from File Path <{filename}../../../2016/02/20/go-regexp-named-group-match-path-metadata%en.rst>`_
+.. [2] `Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript <https://regex101.com/r/relwQD/3>`_
+.. [3] | `Extract subexp names in Go regexps : golang <https://www.reddit.com/r/golang/comments/64wcdu/extract_subexp_names_in_go_regexps/>`_
+       | `GitHub - reconquest/regexputil-go: Extract subexp names in golang regexp <https://github.com/reconquest/regexputil-go>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

@@ -8,6 +8,7 @@
           be passed to front-end by web servers to translate a text string into
           the user's native language. You can use the JSON data to implement
           `gettext function`_ in browsers.
+:og_image: https://files.readme.io/G4eDCX6TlKQr9JmwyyVB_RegExCaptureDiag.png
 :adsu: yes
 
 
@@ -78,6 +79,7 @@ References:
 .. [4] `go - How Can i read a whole file into a string variable in golang? - Stack Overflow <http://stackoverflow.com/questions/13514184/how-can-i-read-a-whole-file-into-a-string-variable-in-golang>`_
 
 .. [5] `json - The Go Programming Language <https://golang.org/pkg/encoding/json/#example_Marshal>`_
+.. [6] `Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript <https://regex101.com/r/relwQD/3>`_
 
 
 .. _gettext: https://www.gnu.org/software/gettext/
