@@ -33,6 +33,19 @@ The final result will be (of type *string*):
 Solution
 ++++++++
 
+- Convert *string* to *float64*:
+    * Use strconv.ParseFloat_
+    * `Run Example on Go Playground <https://play.golang.org/p/_k1m0zF_5N>`__
+
+- Convert *float64* to *string*:
+    * Use strconv.FormatFloat_
+    * `Run Example on Go Playground <https://play.golang.org/p/-uFB07wMPz>`__
+
+.. adsu:: 2
+
+The following code convert *string* to *float64*, calculate aspect ratio, and
+then convert the *float64* result back to *string*.
+
 .. rubric:: `Run Code on Go Playground <https://play.golang.org/p/q6AKBn5n-T>`__
    :class: align-center
 
@@ -65,7 +78,7 @@ Solution
   	fmt.Println("aspect ratio: ", aspectRatio)
   }
 
-.. adsu:: 2
+.. adsu:: 3
 
 ----
 
@@ -94,3 +107,5 @@ References:
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
 .. _aspect ratio: https://www.google.com/search?q=aspect+ratio
+.. _strconv.ParseFloat: https://golang.org/pkg/strconv/#ParseFloat
+.. _strconv.FormatFloat: https://golang.org/pkg/strconv/#FormatFloat
