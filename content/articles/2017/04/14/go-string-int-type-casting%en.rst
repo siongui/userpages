@@ -9,7 +9,7 @@
 :adsu: yes
 
 Example of Go type conversion (type casting) between *string* and integer
-(*int*).
+(*int64*).
 
 Problem
 +++++++
@@ -25,18 +25,18 @@ We will multiply the intNum by 2, convert the result back to *string*.
 Solution
 ++++++++
 
-- Convert *string* to *int*:
+- Convert *string* to *int64*:
     * Use strconv.ParseInt_
     * `Run Example on Go Playground <https://play.golang.org/p/cPdqJ-2yc->`__
 
-- Convert *int* to *string*:
+- Convert *int64* to *string*:
     * Use strconv.FormatInt_
     * `Run Example on Go Playground <https://play.golang.org/p/xbwngzA7Mb>`__
 
 .. adsu:: 2
 
-The following code convert *string* to *int*, multiply the number by 2, and then
-convert the result from *int* back to *string*.
+The following code convert *string* to *int64*, multiply the number by 2, and
+then convert the result from *int64* back to *string*.
 
 .. rubric:: `Run Code on Go Playground <https://play.golang.org/p/bvaoIu-1uS>`__
    :class: align-center
