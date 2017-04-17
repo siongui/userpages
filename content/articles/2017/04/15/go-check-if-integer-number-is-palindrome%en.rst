@@ -51,6 +51,12 @@ References:
 .. [4] | `algorithm - How do I check if a number is a palindrome? - Stack Overflow <http://stackoverflow.com/questions/199184/how-do-i-check-if-a-number-is-a-palindrome>`_
        | `Largest palindrome product - Problem 4 - Project Euler <https://projecteuler.net/index.php?section=problems&id=4>`_
 
+.. [5] | `A Competitive Programmer's Handbook | Hacker News <https://news.ycombinator.com/item?id=14115826>`_
+       | `Competitive Programmer's Handbook <https://cses.fi/book.html>`_
+
+.. [6] | `Data structures and algorithms interview questions and their solutions | Hacker News <https://news.ycombinator.com/item?id=14128145>`_
+       | `500 Data structures and algorithms interview questions and their solutions - Techie Delight - Quora <https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions>`_
+
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
 .. _strconv.FormatInt: https://golang.org/pkg/strconv/#FormatInt

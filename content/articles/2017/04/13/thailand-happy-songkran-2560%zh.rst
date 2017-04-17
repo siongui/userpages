@@ -40,4 +40,6 @@
 
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fddmbathai%2Fposts%2F1492933584070635&width=500" width="500" height="847" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
+  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRichnessThai%2Fposts%2F1914665858749689&width=500" width="500" height="373" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
 .. _法鼓山泰國護法會: https://www.facebook.com/ddmbathai/
