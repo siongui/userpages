@@ -2,6 +2,7 @@ Pure CSS Bulma Responsive Nav Bar (Navigation Bar)
 ##################################################
 
 :date: 2017-02-22T03:46+08:00
+:modified: 2017-04-19T07:04+08:00
 :tags: CSS, Responsive Web Design, toggle, toggleable, html, Pure CSS Toggle,
        Bulma
 :category: CSS
@@ -37,11 +38,16 @@ Full source code is as follows:
 .. show_github_file:: siongui userpages content/code/css/bulma-responsive-navbar/index.html
 .. adsu:: 3
 
+Note: If you use ``Bulma 0.4.0`` and the screen width is between 769px and
+999px, the ``div.nav-right`` element will be shifted to left. If you want to
+keep it to the right, you can remove the ``div.container``.
+
 ----
 
 Tested on:
-  - ``Chromium Version 55.0.2883.87 Built on Ubuntu , running on Ubuntu 16.10 (64-bit)``
-  - ``Bulma 0.3.1``, ``Bulma 0.4.0``
+
+  - ``Chromium Version 55.0.2883.87 Built on Ubuntu , running on Ubuntu 16.10 (64-bit)``, ``Bulma 0.3.1``
+  - ``Chromium Version 57.0.2987.98 Built on Ubuntu , running on Ubuntu 16.10 (64-bit)``, ``Bulma 0.4.0``
 
 ----
 
