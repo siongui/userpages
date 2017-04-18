@@ -41,7 +41,7 @@ Full source code is as follows:
 
 Tested on:
   - ``Chromium Version 55.0.2883.87 Built on Ubuntu , running on Ubuntu 16.10 (64-bit)``
-  - ``Bulma 0.3.1``
+  - ``Bulma 0.3.1``, ``Bulma 0.4.0``
 
 ----
 
