@@ -15,7 +15,9 @@
         <a href="{{ SITEURL }}/{{ AUTHORS_URL | default('authors.html') }}">{{ gettext('Authors', DEFAULT_LANG) }}</a>
         {% if lang_siteurls %}
           {% for lang, url in lang_siteurls.items() %}
+          {% if lang != DEFAULT_LANG %}
           <span><a href="{{ url }}/">{{ lang_code2name(lang) }}</a></span>
+          {% endif %}
           {% endfor %}
         {% endif %}
       </div>
@@ -40,7 +42,9 @@
     {% if lang_siteurls %}
       <ul>
         {% for lang, url in lang_siteurls.items() %}
+        {% if lang != DEFAULT_LANG %}
         <li><a href="{{ url }}/">{{ lang_code2name(lang) }}</a></li>
+        {% endif %}
         {% endfor %}
       </ul>
     {% endif %}
