@@ -8,6 +8,7 @@ Pure CSS Bulma Responsive Nav Bar (Navigation Bar)
 :category: CSS
 :summary: CSS_ only responsive Bulma_ `nav bar`_ (`navigation bar`_) without
           JavaScript_. Toggle mobile menu with CSS only. No JavaScript required.
+:og_image: http://d2d3qesrx8xj6s.cloudfront.net/img/screenshots/2f2ed1bad34204c06ea518ba1625e4f6bf023bc7.jpeg
 :adsu: yes
 
 

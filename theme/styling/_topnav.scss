@@ -7,15 +7,15 @@ $nav-height: 3.25rem;
 
 
 @media screen and (max-width: $mobile) {
-  // if user touch nav-toggle, show nav-menu
+  /* if user touch nav-toggle, show nav-menu */
   #menu-toggle:checked + .nav-menu {
     display: block;
   }
 }
 
-// ≡ is nav-toggle
+// &equiv; is nav-toggle
 .nav-toggle {
-  // hidden if not mobile
+  /* hidden if not mobile */
   @media (min-width: $mobile) {
     display: none;
   }
@@ -52,7 +52,7 @@ $nav-height: 3.25rem;
   justify-content: flex-end;
 }
 
-// responsiveness
+/* responsiveness */
 .nav-menu {
   @media (max-width: $mobile) {
     &.nav-right {
@@ -71,12 +71,25 @@ $nav-height: 3.25rem;
   }
 }
 
+.vertical-divider {
+  align-items: center;
+  display: flex;
+  margin: 0.5rem 0.25rem;
+  border-right: 2px solid #fafafa;
+  border-left: 2px solid #b4b4b4;
+  @media (max-width: $mobile) {
+    border-top: 2px solid #fafafa;
+    border-bottom: 2px solid #b4b4b4;
+    margin: 0;
+  }
+}
+
 .nav {
   display: flex;
   align-items: stretch;
   background-image: linear-gradient(to bottom left, white, #dddddd);
   min-height: $nav-height;
 
-  // responsiveness
+  /* responsiveness */
   position: relative;
 }

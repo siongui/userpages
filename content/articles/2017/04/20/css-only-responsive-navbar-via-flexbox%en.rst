@@ -7,6 +7,7 @@ Pure CSS Responsive Nav Bar via Flexbox
 :summary: CSS only responsive *nav bar* (*navigation bar*) via *flexbox*.
           Toggle mobile menu with CSS only. No JavaScript required.
           No CSS frameworks (Bootstrap, Bulma, etc.) required.
+:og_image: https://www.w3schools.com/css/navbar_responsive_hor.jpg
 :adsu: yes
 
 
@@ -54,7 +55,7 @@ technique of *CSS only toggle* [2]_. If not, please read references first.
 
 **SCSS**: You can `compile the SCSS code online`_.
 
-.. code-block:: css
+.. code-block:: scss
 
   $mobile: 768px;
   $nav-height: 3.25rem;
