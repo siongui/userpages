@@ -2,6 +2,8 @@
 @import "normalize500";
 // include styling for code snippet
 @import "pygments";
+// navbar on top
+@import "topnav";
 
 // reponsive class names are the same as bootstrap 3
 // @see http://getbootstrap.com/css/
@@ -52,87 +54,6 @@ a {
     h1, h2 {
       @media #{$smartphone} {font-size: 1.25em;}
     }
-  }
-}
-
-/* pure css toggle-able window */
-.toggleable-window {
-  input.toggle {display: none;}
-  label {
-    font-size: 3em;
-    font-weight:bold;
-    &:hover, &:focus {
-      cursor: pointer;
-    }
-  }
-  input.toggle:checked ~ label {font-weight:normal;}
-  input.toggle:checked ~ div {display: none;}
-  div {
-    position: absolute;
-    width: 100%;
-  }
-}
-
-// top navigation bar
-.top-nav[role=navigation] {
-  @extend .common-title;
-  background-image: linear-gradient(to bottom left, white, $primary-color);
-  border-radius: 4px;
-  margin-top: 8px;
-
-  .nav-header-window, .nav-links, .nav-lang-select {
-    display: inline-block;
-    vertical-align: middle;
-  }
-
-  .nav-header-window {
-    width: 30%;
-    @media #{$smartphone} {width: 100%;}
-    position: relative;
-    vertical-align: middle;
-
-    .toggleable-window {
-      display: inline-block;
-      label {margin-left: 10px;}
-      // mobile menu
-      div {
-        // links for pages, archives,...
-        a {
-          font-size: 1.5em;
-          margin: 0 2px 0 2px;
-          display: block;
-          padding: 6px 6px 6px 10px;
-          background-color: #c0c0c0;
-          border-bottom: 2px solid #202020;
-        }
-        // links for lang
-        span a {background-color: #a0a0a0;}
-      }
-    }
-    header {
-      display: inline-block;
-      @media #{$smartphone} {
-        position: absolute;
-        right: 10px;
-      }
-      @media #{$non-smartphone} {margin-left: 10px;}
-      h1 { @media #{$smartphone} {font-size: 1.5em;} }
-    }
-  }
-
-  .nav-links {
-    width: 50%;
-  }
-
-  .nav-lang-select {
-    width: 20%;
-  }
-
-  @include clearfix;
-
-  ul li {
-    display: inline;
-    margin-right: 1em;
   }
 }
 
