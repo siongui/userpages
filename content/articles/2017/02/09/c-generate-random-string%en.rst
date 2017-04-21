@@ -73,6 +73,8 @@ References:
 .. [7] | `Writing Efficient C and  C Code Optimization - CodeProject <https://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization>`_
        | `C 语言高效编程与代码优化 – 码农网 <http://www.codeceo.com/article/c-high-performance-coding.html>`_
        | `C 语言高效编程与代码优化 - 文章 - 伯乐在线 <http://blog.jobbole.com/110574/>`_
+.. [8] | `14 Character Random Number Generator in C | Hacker News <https://news.ycombinator.com/item?id=13597905>`_
+       | `14 Character Random Number Generator <http://theorangeduck.com/page/14-character-random-number-generator>`_
 
 .. _random string: https://www.google.com/search?q=random+string
 .. _C programming language: https://www.google.com/search?q=C+programming+language

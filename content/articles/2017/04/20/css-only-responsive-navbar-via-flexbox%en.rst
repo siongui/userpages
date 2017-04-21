@@ -27,6 +27,8 @@ I keep the name of the CSS classes the same as the name in Bulma to make Bulma
 users feel familiar. To make the navbar responsive, you need to know the
 technique of *CSS only toggle* [2]_. If not, please read references first.
 
+For the CSS divider in navbar, please see [6]_.
+
 **HTML**:
 
 .. code-block:: html
@@ -161,7 +163,7 @@ References
 .. [4] `bulma/nav.sass at master · jgthms/bulma · GitHub <https://github.com/jgthms/bulma/blob/master/sass/components/nav.sass>`_
 .. [5] | `TACHYONS - Css Toolkit <http://tachyons.io/>`_
        | `Mini.css: Minimal, responsive, style-agnostic CSS framework | Hacker News <https://news.ycombinator.com/item?id=14120796>`_
-
+.. [6] `Responsive CSS Divider in Nav Bar <{filename}../21/responsive-css-separator-line-in-navbar%en.rst>`_
 
 .. _CSS: https://www.google.com/search?q=CSS
 .. _CSS frameworks: https://www.google.com/search?q=CSS+frameworks
