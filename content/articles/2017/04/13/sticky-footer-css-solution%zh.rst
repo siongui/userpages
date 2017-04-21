@@ -3,7 +3,7 @@ Sticky Footer，完美的絕對底部
 
 :date: 2017-04-14T08:49:02.866Z
 :author: NoNo Lee
-:tags: CSS, Web開發, 響應式網頁設計(Responsive Web Design)
+:tags: CSS, Web開發, 響應式網頁設計(Responsive Web Design), 轉錄
 :category: CSS
 :summary: Sticky Footer，完美的絕對底部
 :og_image: https://misc.aotu.io/liqinuo/sticky_cover.png

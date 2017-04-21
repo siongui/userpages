@@ -46,7 +46,7 @@ Roomba 561，若沒有虛擬牆，常常會在階梯上掉落。小姐看我一�
 
 充飽電後，裝上毛刷以及集塵盒試看看，發現很不錯，還是會吵，但是比Roomba 561小聲，
 可以接受，乾淨度也差不多，試了客廳，餐廳，臥室，都沒有問題，重點是，清掃完後，
-只要超容易清理集塵盒，舊的Roomba 561常常纏了一堆頭髮，清理都要花好久時間，但是
+清理集塵盒超級容易，舊的Roomba 561常常纏了一堆頭髮，清理都要花好久時間，但是
 這臺只要把集塵盒拿出來倒掉就好，超級快，超級方便！
 
 用了一整個傍晚，我只能說非常滿意，同樣沒有刷子的掃地機器人都至少要上萬元，這臺
@@ -56,8 +56,9 @@ Roomba 561，若沒有虛擬牆，常常會在階梯上掉落。小姐看我一�
 - 高度跟 iRobot Roomba 561差不多。
 - 階梯8公分以上，沒陽光直射就不會掉落。
 - 掃完後清理超級容易，沒有難清理的纏滿頭髮的刷子。
+- 設計簡單，沒有進階功能，價格便宜漂亮，CP值高
 
-功能陽春，但是CP值超高，雖然今天剛買，我強力推薦！
+功能陽春，實用主義者的好選擇，雖然今天剛買，我強力推薦！
 
 .. adsu:: 3
 
@@ -81,6 +82,7 @@ Roomba 561，若沒有虛擬牆，常常會在階梯上掉落。小姐看我一�
        | `iGloba Z08 - Yandex search <https://www.yandex.com/search/?text=iGloba+Z08>`_
 
 .. [2] `52Maria: iGloba Z08 旋風機使用分享 <http://52maria.blogspot.com/2016/12/igloba-z08.html>`_
+.. [3] `《清潔家電》iGloba酷掃Z08 掃地機器人。超強吸力清潔簡單。頭髮灰塵OUT︱開箱評價心得分享 （影片） <http://dannisamy.pixnet.net/blog/post/34593177>`_
 
 .. _iRobot Roomba 561: https://www.google.com/search?q=iRobot+Roomba+561
 .. _iGloba Z08: https://www.google.com/search?q=iGloba+Z08
