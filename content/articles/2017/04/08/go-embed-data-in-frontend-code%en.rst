@@ -132,12 +132,14 @@ References:
        |godoc|)
 .. [2] | `Is including assets (with a tool like go-bindata) an anti-pattern? : golang <https://www.reddit.com/r/golang/comments/60166q/is_including_assets_with_a_tool_like_gobindata_an/>`_
        | `How to build Go plugin with data inside : golang <https://www.reddit.com/r/golang/comments/63f3ag/how_to_build_go_plugin_with_data_inside/>`_
+       | `golang - compile static files in app? : golang <https://www.reddit.com/r/golang/comments/66uewv/golang_compile_static_files_in_app/>`_
 .. adsu:: 4
 .. [3] `GitHub - UnnoTed/fileb0x: simple customizable tool to embed files in go <https://github.com/UnnoTed/fileb0x>`_
 .. [4] `GitHub - jteeuwen/go-bindata: A small utility which generates Go code from any file. Useful for embedding binary data in a Go program. <https://github.com/jteeuwen/go-bindata>`_
 .. [5] `GitHub - GeertJohan/go.rice: go.rice is a Go package that makes working with resources such as html,js,css,images,templates, etc very easy. <https://github.com/GeertJohan/go.rice>`_
 .. [6] `GitHub - inconshreveable/go-update: Build self-updating Golang programs <https://github.com/inconshreveable/go-update>`_
-.. [7] | `embed data in go - Google search <https://www.google.com/search?q=embed+data+in+go>`_
+.. [7] `GitHub - shurcooL/vfsgen: Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it. <https://github.com/shurcooL/vfsgen>`_
+.. [8] | `embed data in go - Google search <https://www.google.com/search?q=embed+data+in+go>`_
        | `embed data in go - DuckDuckGo search <https://duckduckgo.com/?q=embed+data+in+go>`_
        | `embed data in go - Ecosia search <https://www.ecosia.org/search?q=embed+data+in+go>`_
        | `embed data in go - Qwant search <https://www.qwant.com/?q=embed+data+in+go>`_

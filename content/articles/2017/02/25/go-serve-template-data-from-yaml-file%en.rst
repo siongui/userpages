@@ -79,6 +79,7 @@ References
 .. [3] `GitHub - ghodss/yaml: A better way to marshal and unmarshal YAML in Golang <https://github.com/ghodss/yaml>`_
 .. [4] `text/template - The Go Programming Language <https://golang.org/pkg/text/template/>`_
 .. [5] `simple utility to convert yaml config file to map[string]string : golang <https://www.reddit.com/r/golang/comments/5zo33t/simple_utility_to_convert_yaml_config_file_to/>`_
+.. [6] `YAML to GO: Convert YAML to Struct : golang <https://www.reddit.com/r/golang/comments/66kahf/yaml_to_go_convert_yaml_to_struct/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

@@ -2,7 +2,7 @@
 #########################################
 
 :date: 2017-01-25T20:54+08:00
-:author: 三藏法師義淨奉制譯
+:author: 佛典故事(中台世界)
 :tags: 律藏, 轉錄
 :category: 轉錄
 :summary: 「掃地有五種殊勝的功德，一者，自心清淨；二者，令他人內心清淨；三者，諸天歡喜讚歎；四者，植下來世相貌端正莊嚴的善因；五者，命終往生天界。」
@@ -37,4 +37,4 @@
 
 .. raw:: html
 
-  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fhs.ku.5%2Fposts%2F957972580970388&width=500" width="500" height="645" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fhs.ku.5%2Fposts%2F957972580970388&width=auto" width="auto" height="645" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>

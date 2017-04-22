@@ -101,6 +101,12 @@ References:
 
 .. [17] `syndication - RSS Item updates - Stack Overflow <http://stackoverflow.com/questions/164124/rss-item-updates>`_
 
+(News)
+
+.. [18] | `Early preview of a DB driver for SQLite without CGO (ATM Linux/Intel only) : golang <https://www.reddit.com/r/golang/comments/66lo5t/early_preview_of_a_db_driver_for_sqlite_without/>`_
+        | `GitHub - cznic/sqlite: Package sqlite is an in-process implementation of a self-contained, serverless, zero-configuration, transactional SQL database engine. (Work In Progress) <https://github.com/cznic/sqlite>`_
+.. [19] | `Blog Post: Playing Around with BoltDB : golang <https://www.reddit.com/r/golang/comments/66gm6y/blog_post_playing_around_with_boltdb/>`_
+        | `Playing Around with BoltDB - zupzup <https://zupzup.org/boltdb-example/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
