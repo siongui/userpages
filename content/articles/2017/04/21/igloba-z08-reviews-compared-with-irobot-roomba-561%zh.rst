@@ -57,8 +57,10 @@ Roomba 561，若沒有虛擬牆，常常會在階梯上掉落。小姐看我一�
 - 階梯8公分以上，沒陽光直射就不會掉落。
 - 掃完後清理超級容易，沒有難清理的纏滿頭髮的刷子。
 - 設計簡單，沒有進階功能，價格便宜漂亮，CP值高
+- 像巧拼地毯這類小坡度爬不上去或卡住，對我其實沒差，因為舊的 Roomba 561 也一樣。
 
 功能陽春，實用主義者的好選擇，雖然今天剛買，我強力推薦！
+有興趣，可上 Facebook 的官網看 `iGloba Z08 商品銷售專頁`_ 。
 
 .. adsu:: 3
 
@@ -83,6 +85,8 @@ Roomba 561，若沒有虛擬牆，常常會在階梯上掉落。小姐看我一�
 
 .. [2] `52Maria: iGloba Z08 旋風機使用分享 <http://52maria.blogspot.com/2016/12/igloba-z08.html>`_
 .. [3] `《清潔家電》iGloba酷掃Z08 掃地機器人。超強吸力清潔簡單。頭髮灰塵OUT︱開箱評價心得分享 （影片） <http://dannisamy.pixnet.net/blog/post/34593177>`_
+.. [4] `清掃家電 - 清潔簡單 上班族也可以輕鬆家事 iGloba酷掃  i Globa Z08 掃地機器人開箱體驗 - 居家討論區 - Mobile01 <https://www.mobile01.com/topicdetail.php?f=728&t=5038378>`_
+.. [5] `(開箱文) iGloba酷掃 掃地機器人， 讓打掃清潔更簡單!! @ 小妞的生活旅程 :: 痞客邦 PIXNET :: <http://may1215may.pixnet.net/blog/post/398401627>`_
 
 .. _iRobot Roomba 561: https://www.google.com/search?q=iRobot+Roomba+561
 .. _iGloba Z08: https://www.google.com/search?q=iGloba+Z08
@@ -90,3 +94,4 @@ Roomba 561，若沒有虛擬牆，常常會在階梯上掉落。小姐看我一�
 .. _Facebook 粉絲頁上聯繫: https://www.facebook.com/iGlobaTW/posts/453699261634736
 .. _iGloba 路竹總公司: https://www.google.com/search?q=%E9%AB%98%E9%9B%84%E5%B8%82%E8%B7%AF%E7%AB%B9%E5%8D%80%E8%B7%AF%E7%A7%91%E5%8D%81%E8%B7%AF1%E8%99%9F3F(%E8%90%AC%E6%BD%A4%E7%A7%91%E6%8A%80)
 .. _Dyson吸塵器: https://www.google.com/search?q=Dyson%E5%90%B8%E5%A1%B5%E5%99%A8
+.. _iGloba Z08 商品銷售專頁: https://www.facebook.com/commerce/products/1208542559229305/

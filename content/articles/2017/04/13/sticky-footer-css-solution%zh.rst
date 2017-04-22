@@ -10,6 +10,7 @@ Sticky Footer，完美的絕對底部
 
 .. image:: https://misc.aotu.io/liqinuo/sticky_cover.png
    :alt: sticky footer
+   :align: center
 
 | 轉載自 `凹凸实验室`_: `Sticky Footer，完美的绝对底部`_
 | by NONO_ on 2017-04-13
@@ -24,6 +25,7 @@ Sticky Footer，完美的絕對底部
 
 .. image:: https://misc.aotu.io/liqinuo/sticky_01.png
    :alt: sticky footer
+   :align: center
 
 筆者最近在項目中也遇到過這樣的場景，在尋找最佳解決方案的過程中，瞭解到了 「Sticky Footer」 這個名詞。
 
@@ -41,6 +43,7 @@ Sticky Footer，完美的絕對底部
 
 .. image:: https://misc.aotu.io/liqinuo/sticky_02.png
    :alt: sticky footer
+   :align: center
 
 當然，實現這種效果的方法有很多種，其中有通過腳本計算的，有通過 CSS 處理的，腳本計算的方案我們不在本文探討。
 

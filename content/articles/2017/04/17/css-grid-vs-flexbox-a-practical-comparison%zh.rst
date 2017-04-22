@@ -10,6 +10,7 @@ CSS Grid VS Flexbox：實例對比
 
 .. image:: http://upload-images.jianshu.io/upload_images/675733-cad4d95cbb4c9fc0.jpg?imageMogr2/auto-orient/strip%7CimageView2/2
    :alt: CSS Grid VS Flexbox：實例對比
+   :align: center
 
 - DEMO 地址：【 `傳送門 <http://demo.tutorialzine.com/2017/03/css-grid-vs-flexbox/>`__ 】
 - 示例下載地址： 【 `傳送門 <http://demo.tutorialzine.com/2017/03/css-grid-vs-flexbox/css-grid-vs-flexbox.zip>`__ 】
@@ -32,6 +33,7 @@ CSS Grid VS Flexbox：實例對比
 
 .. image:: http://upload-images.jianshu.io/upload_images/675733-1a128310e884a63e.png?imageMogr2/auto-orient/strip%7CimageView2/2
    :alt: CSS Grid VS Flexbox：實例對比
+   :align: center
 
 該頁面的設計相對比較簡單 – 它是由一個居中的容器組成，在其內部則包含了標頭、主要內容部分、側邊欄和頁腳。接下來，我們要完成同時保持 CSS 和 HTML 儘可能整潔的挑戰事項：
 
@@ -272,6 +274,7 @@ CSS Grid 解決方案
 
 .. image:: http://upload-images.jianshu.io/upload_images/675733-bd93d208a446870e.png?imageMogr2/auto-orient/strip%7CimageView2/2
    :alt: CSS Grid VS Flexbox：實例對比
+   :align: center
 
 雖然鏈接為內鏈形式，但它們不能正確的對齊。由於 CSS grid 不具備基線選項（不像 Flexbox 具備的 ``align-items`` 屬性），所以我們只能再定義一個子網格。
 
