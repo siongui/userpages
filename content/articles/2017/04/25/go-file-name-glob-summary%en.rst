@@ -114,6 +114,9 @@ References:
        | `GitHub - gobwas/glob: Go glob <https://github.com/gobwas/glob>`_
 .. [6] `Wildcards - GNU/Linux Command-Line Tools Summary <http://tldp.org/LDP/GNU-Linux-Tools-Summary/html/x11655.htm>`_
 .. [7] `[Golang] Walk All Files in Directory <{filename}../../../2016/02/04/go-walk-all-files-in-directory%en.rst>`_
+.. [8] | `Glob for go. Works much faster than regexp on equivalent patterns. : golang <https://www.reddit.com/r/golang/comments/41ulfq/glob_for_go_works_much_faster_than_regexp_on/>`_
+       | `Glob Matching Can Be Simple and Fast Too | Hacker News <https://news.ycombinator.com/item?id=14184528>`_
+       | `research!rsc: Glob Matching Can Be Simple And Fast Too <https://research.swtch.com/glob>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
