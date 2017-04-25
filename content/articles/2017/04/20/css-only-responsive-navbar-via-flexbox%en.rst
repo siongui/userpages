@@ -164,6 +164,10 @@ References
 .. [5] | `TACHYONS - Css Toolkit <http://tachyons.io/>`_
        | `Mini.css: Minimal, responsive, style-agnostic CSS framework | Hacker News <https://news.ycombinator.com/item?id=14120796>`_
 .. [6] `Responsive CSS Divider in Nav Bar <{filename}../21/responsive-css-separator-line-in-navbar%en.rst>`_
+.. [7] | `Understanding Flexbox: Everything you need to know – freeCodeCamp <https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af>`_
+       | `理解 Flexbox：你需要知道的一切 – 码农网 <http://www.codeceo.com/article/understanding-flexbox-everything-you-need-to-know.html>`_
+       | `理解 Flexbox：你需要知道的一切 - WEB前端 - 伯乐在线 <http://web.jobbole.com/91035/>`_
+       | `理解Flexbox：你需要知道的一切_Flexbox 教程_w3cplus <http://www.w3cplus.com/css3/understanding-flexbox-everything-you-need-to-know.html>`_
 
 .. _CSS: https://www.google.com/search?q=CSS
 .. _CSS frameworks: https://www.google.com/search?q=CSS+frameworks

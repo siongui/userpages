@@ -2,7 +2,7 @@
 ####################################
 
 :date: 2016-02-26 16:02
-:modified: 2017-03-26T21:26+08:00
+:modified: 2017-04-25T09:04+08:00
 :tags: 3C
 :category: 3C
 :summary: 網路上台灣最佳CP值無作業系統(OS)筆記型電腦(截至2016/02/26)
@@ -35,12 +35,12 @@
 
 .. adsu:: 2
 
-----
 
-Linux作業系統wifi斷線問題：
+RTL8821AE Linux作業系統wifi斷線問題
++++++++++++++++++++++++++++++++++++
 
-我試了很多方式，但是無解，目前暫時用USB tethering解決常常斷線問題，若有好方法，
-請到 `這裡 <https://github.com/siongui/userpages/issues/2>`__ 告知。
+用最新的 `rtlwifi_new`_ ，根據 `這篇文章`_ 所述步驟更新 driver ，情形改善許多。
+雖然還是偶爾會斷，在我可接受的範圍內。
 
 - | `rtl8821ae ubuntu - Google search <https://www.google.com/search?q=rtl8821ae+ubuntu>`_
   | `RTL8821AE wifi drivers in Ubuntu 16.04 – elMaxx! – Medium <https://medium.com/@elmaxx/rtl8821ae-wifi-drivers-in-ubuntu-16-04-4c1286524afa>`_
@@ -72,3 +72,6 @@ Linux作業系統wifi斷線問題：
 .. [6] `Lenovo - 請問有人是Lenovo ideapad 300，並自行昇級過記憶體的嗎 - 筆電討論區 - Mobile01 <http://www.mobile01.com/topicdetail.php?f=240&t=4703611>`_
 
 .. [7] `Lenovo - 請問lenovo筆電保固條款 - 筆電討論區 - Mobile01 <http://www.mobile01.com/topicdetail.php?f=240&t=4679827>`_
+
+.. _rtlwifi_new: https://github.com/lwfinger/rtlwifi_new
+.. _這篇文章: https://medium.com/@elmaxx/rtl8821ae-wifi-drivers-in-ubuntu-16-04-4c1286524afa
