@@ -113,6 +113,12 @@ Google地圖（ `Google Maps`_ ），
 
 ----
 
+**你可能也會有興趣...**
+
+- `利用CSS根據螢幕大小自動調整網站內嵌的Youtube影片大小 <{filename}../../../2015/02/06/responsive-embed-youtube%zh.rst>`_
+
+----
+
 參考：
 
 .. [1] | `responsive google map embed - Google search <https://www.google.com/search?q=responsive+google+map+embed>`_

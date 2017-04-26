@@ -5,6 +5,7 @@
 :tags: Go, Golang, List Files in Directory
 :category: Go
 :summary: Test how filename globbing works in Go standard library.
+:og_image: https://newrelic.com/assets/pages/golang/go-mascot.svg
 :adsu: yes
 
 Filename globbing are found in several places in Go standard library.

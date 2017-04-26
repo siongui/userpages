@@ -2,7 +2,7 @@
 ####################################################
 
 :date: 2015-02-06
-:modified: 2017-02-23T04:02+08:00
+:modified: 2017-04-26T23:09+08:00
 :tags: 響應式網頁設計(Responsive Web Design), Web開發, CSS
 :category: 響應式網頁設計(Responsive Web Design)
 :summary: 現今移動裝置盛行，有各種不同螢幕大小的裝置來瀏覽網站，
@@ -11,9 +11,6 @@
 :og_image: http://1.bp.blogspot.com/-mGHl5PJ7UIY/Vn9tWZo7ocI/AAAAAAAAA-c/EUO2i-SQbYU/s640/responsive-youtube-video-embed.png
 :adsu: yes
 
-
-*[更新2017-02-23]*: 現在YouTube的嵌入碼似乎已經會根據螢幕大小自動調整了，
-直接複製貼上即可，若只想在某些寬度條件下才自動調整大小，請看 `同場加映`_ 。
 
 響應式嵌入影片
 ~~~~~~~~~~~~~~
@@ -125,6 +122,12 @@
   </div>
 
 .. adsu:: 4
+
+----
+
+**你可能也會有興趣...**
+
+- `利用CSS根據螢幕大小自動調整網站內嵌的Google地圖(Goole Maps)大小 <{filename}../../../2017/02/23/responsive-embed-google-maps%zh.rst>`_
 
 ----
 
