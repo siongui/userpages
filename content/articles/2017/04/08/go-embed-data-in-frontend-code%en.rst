@@ -3,7 +3,7 @@ Embed Data in Front-end Go Code
 
 :date: 2017-04-08T23:21+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Web application, web,
-       Full-Stack Go, Full-Stack Golang
+       Full-Stack Go, Full-Stack Golang, Embed File in Go Code
 :category: GopherJS
 :summary: Embed data/assets/resources/binary in Go code, and compiled by
           GopherJS to a single JavaScript file which runs on the front-end

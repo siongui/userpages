@@ -68,6 +68,8 @@ The output is:
 
 The file in sub-directory is matched.
 
+.. adsu:: 2
+
 ----
 
 My summary
