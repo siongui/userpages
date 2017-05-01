@@ -4,7 +4,7 @@
 :date: 2017-04-30T22:25+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Web application, web, DOM, html,
        Conversion of Traditional and Simplified Chinese, String Manipulation,
-       Chrome Extension
+       Chrome Extension, Traverse DOM Tree
 :category: GopherJS
 :summary: Build Chrome Extension with Go, compiled to JavaScript via GopherJS.
           This post show you how to build Chrome extension that convert the

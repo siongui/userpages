@@ -2,7 +2,7 @@
 ############################
 
 :date: 2016-06-14T05:29+08:00
-:tags: Go, Golang, GopherJS, Go to JavaScript, DOM
+:tags: Go, Golang, GopherJS, Go to JavaScript, DOM, Traverse DOM Tree
 :category: GopherJS
 :summary: Traverse DOM_ tree via GopherJS_.
 :adsu: yes
