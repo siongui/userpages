@@ -3,7 +3,7 @@
 
 :date: 2017-02-08T08:21+08:00
 :tags: 英語
-:category: 英語語學習
+:category: 英語學習
 :summary: "代理" 的英語怎樣說？ (代理校長)
 :og_image: http://thailandtravel.net/wp-content/uploads/2013/07/Thai-Language.gif
 :adsu: yes

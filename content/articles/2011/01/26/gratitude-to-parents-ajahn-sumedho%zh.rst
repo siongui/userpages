@@ -2,6 +2,7 @@
 ##########################
 
 :date: 2011-01-26 20:01:17
+:author: 阿姜蘇美多
 :tags: 泰國, 阿姜蘇美多, 隆波蘇美多, Ajahn Sumedho, Luang Por Sumedho
 :category: 阿姜查
 :summary: 《感恩父母》 (Gratitude to Parents)
