@@ -6,6 +6,7 @@
 :category: Python
 :summary: `Web scrape`_ JavaScript rendered webpages by dryscrape_, a
           lightweight web scraping library for Python_.
+:og_image: https://i.ytimg.com/vi/CWf0OtM3bbw/hqdefault.jpg
 :adsu: yes
 
 Today JavaScript is heavily used to render the website content. Requests_, a

@@ -1,4 +1,4 @@
-[Golang] Programmatically Login Facebook and Take Screenshot
+[Golang] Login Facebook and Take Screenshot Programmatically
 ############################################################
 
 :date: 2017-05-03T04:41+08:00
@@ -7,6 +7,7 @@
 :summary: Web scraping JavaScript rendered webpages by Chrome Debugging Protocol
           . Write Go code to programmatically login Facebook and then take
           screenshot.
+:og_image: http://www.cuelogic.com/blog/wp-content/uploads/2014/11/GO.jpg
 :adsu: yes
 
 I heard the news of headless Chrome from HN [1]_, and found that it is possible

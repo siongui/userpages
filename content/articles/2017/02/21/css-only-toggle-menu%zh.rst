@@ -19,20 +19,20 @@
     label {
       cursor: pointer;
     }
-    #menu-toggle {
+    #menu-toggle-demo {
       display: none;
     }
     #menu {
       display: none;
     }
-    #menu-toggle:checked + #menu {
+    #menu-toggle-demo:checked + #menu {
       display: block;
     }
   </style>
 
   <div style="padding: 2em;">
-  <label for="menu-toggle">&#8803;</label>
-  <input type="checkbox" id="menu-toggle"/>
+  <label for="menu-toggle-demo">&#8803;</label>
+  <input type="checkbox" id="menu-toggle-demo"/>
   <ul id="menu">
     <li><a href="https://www.google.com/">Google</a></li>
     <li><a href="https://duckduckgo.com/">DuckDuckGo</a></li>
