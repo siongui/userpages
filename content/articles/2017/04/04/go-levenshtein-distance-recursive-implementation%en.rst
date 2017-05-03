@@ -3,7 +3,7 @@
 
 :date: 2017-04-04T04:43+08:00
 :modified: 2017-04-05T23:41+08:00
-:tags: Go, Golang, String Manipulation, Algorithm
+:tags: Go, Golang, String Manipulation, Algorithm, Recursion
 :category: Go
 :summary: Recursive implementation of Levenshtein distance algorithm in Go
           programming language. Levenshtein distance (LD) is a measure of the
