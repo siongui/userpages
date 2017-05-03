@@ -5,6 +5,7 @@
 :tags: Web開發
 :category: Web開發
 :summary: 在Windows作業系統下，安裝Python的Pelican靜態網站產生器。
+:og_image: https://www.fullstackpython.com/img/visuals/pelican-flow.jpg
 :adsu: yes
 
 
@@ -60,6 +61,8 @@
      $ pip install pelican
      $ pip install ghp-import
      $ pip install pyScss
+
+.. adsu:: 2
 
 ----
 
