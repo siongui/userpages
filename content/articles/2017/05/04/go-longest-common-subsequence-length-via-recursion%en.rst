@@ -57,6 +57,8 @@ Compute the length of `longest common subsequence`_ via recursion_ in Go_.
   	}
   }
 
+.. adsu:: 2
+
 ----
 
 Tested on:

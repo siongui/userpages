@@ -6,6 +6,7 @@
 :category: Go
 :summary: Iterate over UTF-8 or non-ASCII strings in Go_. Iterations by for_ or
           range_ keywords.
+:og_image: https://image.slidesharecdn.com/firstimpressionsofgo-140616044415-phpapp01/95/first-impressions-of-go-11-638.jpg
 :adsu: yes
 
 
