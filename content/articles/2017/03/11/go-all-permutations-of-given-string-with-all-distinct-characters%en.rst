@@ -89,6 +89,8 @@ References:
 .. [4] `Data Structures and Algorithms Problems | Hacker News <https://news.ycombinator.com/item?id=14043891>`_
 .. [5] `Common Algo Problem Solutions | Hacker News <https://news.ycombinator.com/item?id=14064698>`_
 .. [6] `LeetCode Online Judge <https://leetcode.com/>`_
+.. [7] | `Generating all permutations, combinations, and power set of a string (2012) | Hacker News <https://news.ycombinator.com/item?id=14272847>`_
+       | `Exceptional Code: Generating all permutations, combinations, and power set of a string (or set of numbers) <http://exceptional-code.blogspot.com/2012/09/generating-all-permutations.html>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
