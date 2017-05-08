@@ -2,7 +2,7 @@
 ##############################
 
 :date: 2017-04-17T16:43+08:00
-:tags: Go, Golang, Algorithm
+:tags: Go, Golang, Algorithm, Prime Number
 :category: Go
 :summary: Go implementation of *Sieve of Eratosthenes*.
 :og_image: http://www.texample.net/media/tikz/examples/PNG/eratosthenes-sieve.png
