@@ -4,18 +4,20 @@
 :date: 2017-05-06T01:50+08:00
 :tags: Go, Golang, Type Casting, Type Conversion, Algorithm, Go sort
 :category: Go
-:summary: Check whether two strings are anagram of each other in Go programming
-          language.
+:summary: Check whether two strings are anagram of each other by sorting
+          in Go programming language.
 :og_image: https://qph.ec.quoracdn.net/main-qimg-f8bf4e32835307ad93313b0edd94adda
 :adsu: yes
 
 
 Check whether two strings are anagram_ of each other in Go programming language.
 
-Check by Sorting [1]_:
+Check by sorting [1]_:
 
 1. sort both strings [3]_
 2. compare the sorted strings
+
+Another way to check anagram is by characters count, see [4]_.
 
 .. rubric:: `Run Code on Go Playground <https://play.golang.org/p/6pz7TuIU4g>`__
    :class: align-center
@@ -96,6 +98,7 @@ References:
 .. [1] `Check whether two strings are anagram of each other - GeeksforGeeks <http://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/>`_
 .. [2] `sort - The Go Programming Language <https://golang.org/pkg/sort/>`_
 .. [3] `[Golang] Sort String by Character <{filename}../07/go-sort-string-slice-of-rune%en.rst>`_
+.. [4] `[Golang] Anagram Check by Characters Count <{filename}../08/go-anagram-check-by-char-count%en.rst>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
