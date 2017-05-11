@@ -320,6 +320,10 @@ CSS grid 在此步驟中，存在一些明顯的佈局上的缺陷。但你也�
 
 轉載： `CSS Grid VS Flexbox：实例对比 - WEB前端 - 伯乐在线 <http://web.jobbole.com/91120/>`_
 
+參考：
+
+`CSS3 Flexbox属性可视化指南 <http://www.css88.com/archives/5744>`_
+
 .. _Flexbox: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes
 .. _CSS Grid: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 .. _Firefox 52: https://hacks.mozilla.org/2017/03/firefox-52-introducing-web-assembly-css-grid-and-the-grid-inspector/

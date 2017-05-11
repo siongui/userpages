@@ -48,3 +48,4 @@
 
 * `[問題] 請問要怎麼辦學生簽證呢? - 看板 Thailand - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/M.1461333699.A.932.html>`_
 * `[新聞] 台擬對東盟8國免簽 泰列優先 - 看板 Thailand - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/M.1465542548.A.C03.html>`_
+* `[問題] 找旅行社代辦泰簽要多少錢呢 - 看板 Thailand - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/M.1494461647.A.A1C.html>`_

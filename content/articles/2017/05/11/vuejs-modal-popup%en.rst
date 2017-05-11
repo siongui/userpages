@@ -2,10 +2,10 @@
 ######################
 
 :date: 2017-05-11T21:49+08:00
-:tags: Vue.js, JavaScript, html, DOM, CSS
+:tags: Vue.js, JavaScript, html, DOM, CSS, Modal (Popup)
 :category: Vue.js
-:summary: Modal (Popup) implementation via Vue.js and CSS. Modal, or popup, is
-          dialog box/popup window that is displayed on top of the current page.
+:summary: Modal (Popup) implementation via Vue.js and CSS. Modal is dialog
+          box/popup window that is displayed on top of the current page.
 :og_image: https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/02/1392433498bootstrap-modal-basic.jpg
 :adsu: yes
 
