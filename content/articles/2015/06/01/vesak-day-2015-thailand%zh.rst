@@ -5,8 +5,8 @@
 :author: 目的達泰語教室
 :tags: 泰國, 印度, 轉錄, 衛塞節
 :category: 轉錄
-:summary: 今年6月1日是泰國重要的節日之一：衛塞節，是釋迦牟尼佛陀誕生、成道、涅槃的節日。
-:og_image: https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xat1/v/t15.0-10/11331516_1158059490887650_810387651_n.jpg?oh=93c3177000d0de1e4442e0e4631d27a1&oe=560AF779&__gda__=1438680684_7bab3aef60c1a27175451602da595232
+:summary: 衛塞節(Vesākha Pūjā, วันวิสาขบูชา)，是釋迦牟尼佛陀誕生、成道、涅槃的節日。
+:og_image: http://scoop.mthai.com/app/uploads/2012/05/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%9A%E0%B8%B9%E0%B8%8A%E0%B8%B2.jpg
 
 .. container:: align-center video-container
 
@@ -36,12 +36,26 @@
 
 【歡迎按讚給泰語小老師一個鼓勵唷~轉貼也歡迎，但請註明出處：目的達泰語教室】
 
+----
+
+Facebook文章分享：
+
+.. raw:: html
+
+  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D1769362733090653%26id%3D117121364981473&width=500" width="500" height="516" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fejeab%2Fposts%2F667248523481487&width=500" width="500" height="650" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FPixelCrazy8bit%2Fposts%2F1075337075943763&width=500" width="500" height="544" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpumpchinese%2Fposts%2F673603722832344&width=500" width="500" height="703" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 ----
 
 參考：
 
 .. [1] `衛塞節 - 維基百科，自由的百科全書 <http://zh.wikipedia.org/zh-tw/%E5%8D%AB%E5%A1%9E%E8%8A%82>`_
+.. [2] `『衛塞節的由來』 <https://www.facebook.com/jiexieyinyin/posts/10155281450906060:0>`_
 
 ----
 
