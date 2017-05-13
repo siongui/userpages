@@ -7,7 +7,7 @@ Pure CSS Modal (Popup)
 :summary: CSS only modal (popup). No JavaScript_ required.
           Modal is dialog box/popup window that is displayed on top of the
           current page.
-:og_image: https://www.sololearn.com/Icons/Courses/1023.png
+:og_image: https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/02/1392433498bootstrap-modal-basic.jpg
 :adsu: yes
 
 CSS only modal (popup) implementation.

@@ -11,7 +11,7 @@
 
 Modal (Popup) implementation via Vue.js and CSS. `According to w3schools`_,
 modal is dialog box/popup window that is displayed on top of the current page.
-The modal here is similar to `bootstrap modal`_.
+The modal here is similar to `Bootstrap modal`_.
 
 .. raw:: html
 
@@ -167,4 +167,4 @@ References:
 
 .. _Vue.js: https://vuejs.org/
 .. _According to w3schools: https://www.w3schools.com/bootstrap/bootstrap_modal.asp
-.. _bootstrap modal: http://getbootstrap.com/javascript/#modals
+.. _Bootstrap modal: http://getbootstrap.com/javascript/#modals
