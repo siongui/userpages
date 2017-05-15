@@ -102,7 +102,8 @@ Tested on: ``Ubuntu Linux 15.10``, ``Python 2.7.10``.
 References:
 
 .. [1] `[Python] Export PIXNET Blog to reStructuredText Files <{filename}../17/python-export-pixnet-blog-to-rst%en.rst>`_
-
+.. [2] | `soup - Web Scraper in Go, similar to BeautifulSoup : golang <https://www.reddit.com/r/golang/comments/6b3m7n/soup_web_scraper_in_go_similar_to_beautifulsoup/>`_
+       | `GitHub - anaskhan96/soup: Web Scraper in Go, similar to BeautifulSoup <https://github.com/anaskhan96/soup>`_
 
 .. _Python: https://www.python.org/
 .. _JavaScript: https://www.google.com/search?q=javascript

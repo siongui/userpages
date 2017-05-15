@@ -107,6 +107,8 @@ References:
         | `GitHub - cznic/sqlite: Package sqlite is an in-process implementation of a self-contained, serverless, zero-configuration, transactional SQL database engine. (Work In Progress) <https://github.com/cznic/sqlite>`_
 .. [19] | `Blog Post: Playing Around with BoltDB : golang <https://www.reddit.com/r/golang/comments/66gm6y/blog_post_playing_around_with_boltdb/>`_
         | `Playing Around with BoltDB - zupzup <https://zupzup.org/boltdb-example/>`_
+.. [20] | `Badger – A fast key-value store written natively in Go | Hacker News <https://news.ycombinator.com/item?id=14335931>`_
+        | `GitHub - dgraph-io/badger: Fastest key/value store in Go. <https://github.com/dgraph-io/badger>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
