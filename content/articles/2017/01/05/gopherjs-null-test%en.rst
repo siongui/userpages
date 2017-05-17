@@ -5,6 +5,7 @@
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM
 :category: GopherJS
 :summary: Test if a variable is null_ via GopherJS_.
+:og_image: https://i.ytimg.com/vi/Ieue3ffpd9c/maxresdefault.jpg
 :adsu: yes
 
 

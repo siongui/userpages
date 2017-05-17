@@ -6,6 +6,7 @@
 :category: GopherJS
 :summary: Check if something (object, variable, API, ...) is undefined or not in
           GopherJS_.
+:og_image: https://i.ytimg.com/vi/Ieue3ffpd9c/maxresdefault.jpg
 :adsu: yes
 
 

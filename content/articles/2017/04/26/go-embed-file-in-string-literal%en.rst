@@ -3,7 +3,7 @@
 
 :date: 2017-04-26T22:43+08:00
 :tags: Go, Golang, Embed File in Go Code
-:category: GopherJS
+:category: Go
 :summary: Embed any type of file in string literal in Go code.
 :og_image: https://newrelic.com/assets/pages/golang/go-mascot.svg
 :adsu: yes

@@ -3,7 +3,7 @@ Pass Command Line Arguments (Flags) in Go Test
 
 :date: 2017-04-28T03:08+08:00
 :tags: Go, Golang, Commandline , Go flag Package
-:category: GopherJS
+:category: Go
 :summary: Pass command line arguments (flags) in Go test.
 :og_image: https://newrelic.com/assets/pages/golang/go-mascot.svg
 :adsu: yes
