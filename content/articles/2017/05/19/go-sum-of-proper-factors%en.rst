@@ -7,7 +7,7 @@
 :summary: Calculate the sum of all proper divisors (factors)
           of an integer number
           in Go programming language.
-:og_image: http://www.mathsisfun.com/numbers/images/factor-tree-48.gif
+:og_image: https://thinklikecomputerscientist.files.wordpress.com/2014/04/12.jpg
 :adsu: yes
 
 Calculate the sum of all proper divisors (factors) of an integer number
@@ -114,6 +114,7 @@ References:
 .. [2] `Is there a formula to calculate the sum of all proper divisors of a number? - Mathematics Stack Exchange <https://math.stackexchange.com/questions/22721/is-there-a-formula-to-calculate-the-sum-of-all-proper-divisors-of-a-number>`_
 
 .. [3] `[Golang] Get All Prime Factors of Integer Number <{filename}../09/go-find-all-prime-factors-of-integer-number%en.rst>`_
+.. [4] `[Golang] Integer Exponentiation <{filename}../20/go-integer-exponentiation%en.rst>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
