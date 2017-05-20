@@ -2,7 +2,7 @@
 ##################
 
 :date: 2017-05-16T21:43+08:00
-:tags: Vue.js, JavaScript, html, CSS
+:tags: Vue.js, JavaScript, html, CSS, Tab Panel
 :category: Vue.js
 :summary: Tab panel implementation via Vue.js and CSS.
 :og_image: https://s3-us-west-2.amazonaws.com/i.cdpn.io/193912.BlKxo.0e781013-9523-4f00-b75c-0c2f48b25100.png
@@ -166,8 +166,6 @@ Tested on:
 - ``Vue.js 2.3.3``
 
 ----
-
-.. adsu:: 3
 
 References:
 

@@ -200,8 +200,6 @@ Tested on:
 
 ----
 
-.. adsu:: 3
-
 References:
 
 .. [1] `[Vue.js] Modal (Popup) <{filename}../11/vuejs-modal-popup%en.rst>`_
