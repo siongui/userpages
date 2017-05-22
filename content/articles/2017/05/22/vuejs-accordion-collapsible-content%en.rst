@@ -2,7 +2,7 @@
 ########################################
 
 :date: 2017-05-22T22:32+08:00
-:tags: Vue.js, JavaScript, html, CSS
+:tags: Vue.js, JavaScript, html, CSS, Accordion (Collapsible Content)
 :category: Vue.js
 :summary: Accordion (collapsible content) implementation via Vue.js.
 :og_image: http://christineosazuwa.com/wp-content/uploads/2015/05/13-06_accordionmenu1.jpg
