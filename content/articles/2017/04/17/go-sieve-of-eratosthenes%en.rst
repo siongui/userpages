@@ -77,6 +77,7 @@ References:
 
 .. [4] | `Data structures and algorithms interview questions and their solutions | Hacker News <https://news.ycombinator.com/item?id=14128145>`_
        | `500 Data structures and algorithms interview questions and their solutions - Techie Delight - Quora <https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions>`_
+       | `Algorithms and Data Structures Problem Set | Hacker News <https://news.ycombinator.com/item?id=14385924>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
