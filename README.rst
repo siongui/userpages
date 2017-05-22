@@ -88,6 +88,8 @@ Please see UNLICENSE_.
 References
 ----------
 
+`GitHub Pages Deployment - Travis CI <https://docs.travis-ci.com/user/deployment/pages/>`_
+
 `python - Upgrading all packages with pip - Stack Overflow <http://stackoverflow.com/questions/2720014/upgrading-all-packages-with-pip>`_
 
 `How do I add locale to ubuntu server? - Ask Ubuntu <http://askubuntu.com/questions/76013/how-do-i-add-locale-to-ubuntu-server>`_
