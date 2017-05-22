@@ -2,6 +2,7 @@ Deploy Website by Pelican, Travis CI, and GitHub Pages
 ######################################################
 
 :date: 2016-01-05T03:53+08:00
+:modified: 2017-05-23T04:25+08:00
 :tags: Continuous Integration, Pelican, GitHub Pages, apt command
 :category: Web Development
 :summary: Automatic deployment of websites, by Pelican_, `Travis CI`_, and
@@ -48,72 +49,36 @@ subsites. That's why three language-packs are installed.
 Deploy Website to `Github Pages`_
 +++++++++++++++++++++++++++++++++
 
-Generate access token
-`````````````````````
+Now Travis CI officially support deploy your static files to GitHub Pages after
+a successful build. [13]_
 
-Next, we need a access token [12]_ to authorize Travis CI to push build to
-`Github Pages`_. Generate a `personal access token`_ in Personal Settings (only
-*public_repo* privilege is enough).
+First save your `personal access token`_ in `repository settings`_.
 
-Encrypt token
-`````````````
-
-Then we will encrypt this token and put in our ``.travis.yml``: We need
-`Travis CI command line client`_ to encrypt the token. In Ubuntu Linux 15.10,
-you can install the command line client by:
-
-.. code-block:: bash
-
-  $ sudo apt-get install ruby ruby-dev
-  $ sudo gem install travis
-
-After finish, encrypt your token by:
-
-.. code-block:: bash
-
-  $ travis encrypt GH_TOKEN=your_token
-
-Auto-add the token to your ``.travis.yml``:
-
-.. code-block:: bash
-
-  $ travis encrypt GH_TOKEN=your_token --add
-
-Then you will see something like this in your ``.travis.yml``:
+For User Pages, the following is sample config:
 
 .. code-block:: yaml
 
-  env:
-    global:
-      secure: Ph34LjX71tay9yVAYcg0RiwcLCeu/FthMkUtUoNf8pnI+OOL1MkW305jEf6F2oqObnRDuMvowppUfd/4LzqkSBat3CMr9htQzIQ+PNB5mIhx9JTYjkmz31iVoIBEPOFadSwvUDwKbcoJfAzmgrsX5wC0MadeD2iyUQMQ1BekT8k+HXqAp5WtmqjD0KcnFnlhXFzWl+fDiMoadVH85wUn+z827Tx+aH2XP1C9q8BhM8KeJXjTqacSzrLxOs+ElX603s1o2gSG9pxe+FPhABIVGPx/44V67zthwxs5j4d+WtXCWliK+ah+H/gQ2HxWydKLwfKoUI5BeowhUx9QHmodxjaWomL9ciqSPa0b9TpbeyzypzErecoZrFC8RZeXl1B2TDANROXGo5nTSKziDs1/Ajj83bNLoJ9K1B1yELpkHHi1mEoXb68Z6d9pit9uYsrA78Atkn/kAVrfS8/+fPuX+oeGk4MFF63epMxJm+otqWW4yjUTDg9vqVOe9eOgoD5sKWve5ZX8+ELIPHwg7xA5h+03nMqr3Bhe0YcmxIX9MHeZh49aub+Dm5H6q/rXWi8pwftW304BN/dO5gDk5EOd6F7ufOGvIM9Hj6iS1PYpJATw558Bkf/RX17kNhpAPhy9S1eswR34ET0ogvfjsLvMpQa/LvKcj8JTWj7OD+ilMoE=
+  deploy:
+    provider: pages
+    repo: siongui/siongui.github.io
+    target_branch: master
+    skip_cleanup: true
+    github_token: $GITHUB_TOKEN
+    local_dir: output
+    on:
+      branch: master
 
-.. adsu:: 3
-
-Push build to GitHub Pages
-``````````````````````````
-
-I add the following command in my ``.travis.yml`` to push the build to GitHub
-Pages:
+For Project Pages, the following is sample config:
 
 .. code-block:: yaml
 
-  after_success:
-  - git config --global user.email "travis@travis-ci.org"
-  - git config --global user.name "Travis"
-  - git config --global push.default simple
-  - echo "Clone siongui.github.io..."
-  - git clone --depth 1 https://${GH_TOKEN}@github.com/siongui/siongui.github.io.git > /dev/null
-  - cd siongui.github.io
-  - git rm -rf * > /dev/null
-  - cp -r  ../output/* .
-  - git add .
-  - git status
-  - git commit -m "Pushed by Travis CI"
-  - git push --quiet
-
-You can modify the above commands to fit your need. My development machine is
-``Ubuntu Linux 15.10``. For more information of how to deploy the website, see
-[5]_, [6]_, [7]_, [8]_, and [9]_.
+  deploy:
+    provider: pages
+    skip_cleanup: true
+    github_token: $GITHUB_TOKEN
+    local_dir: output
+    on:
+      branch: master
 
 ----
 
@@ -143,9 +108,11 @@ References:
 
 .. [12] `Creating an access token for command-line use - GitHub Help <https://help.github.com/articles/creating-an-access-token-for-command-line-use/>`_
 
+.. [13] `GitHub Pages Deployment - Travis CI <https://docs.travis-ci.com/user/deployment/pages/>`_
 
 .. _Pelican: http://blog.getpelican.com/
 .. _Travis CI: https://travis-ci.org/
 .. _GitHub Pages: https://pages.github.com/
-.. _personal access token: https://help.github.com/articles/creating-an-access-token-for-command-line-use/
+.. _personal access token: https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/
 .. _Travis CI command line client: https://github.com/travis-ci/travis.rb
+.. _repository settings: https://docs.travis-ci.com/user/environment-variables#Defining-Variables-in-Repository-Settings
