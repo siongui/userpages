@@ -50,3 +50,4 @@
 * `[新聞] 台擬對東盟8國免簽 泰列優先 - 看板 Thailand - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/M.1465542548.A.C03.html>`_
 * `[問題] 找旅行社代辦泰簽要多少錢呢 - 看板 Thailand - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/M.1494461647.A.A1C.html>`_
 * `簽證 Thailand site:ptt.cc - Google search <https://www.google.com/search?q=%E7%B0%BD%E8%AD%89+Thailand+site:ptt.cc>`_
+* `[閒聊] 在機場遇到簽證爭議時的處理方式 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1495548157.A.ED1.html>`_
