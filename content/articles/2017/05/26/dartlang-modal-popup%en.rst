@@ -118,7 +118,6 @@ References:
 .. [2] `html - How to center an element horizontally and vertically? - Stack Overflow <http://stackoverflow.com/questions/19461521/how-to-center-an-element-horizontally-and-vertically>`_
 .. [3] `Synonyms - Dart, JavaScript, C#, Python | Dart <https://www.dartlang.org/resources/synonyms>`_
 
-.. _dartlang: https://www.dartlang.org/
 .. _DartPad: https://dartpad.dartlang.org/
 .. _According to w3schools: https://www.w3schools.com/bootstrap/bootstrap_modal.asp
 .. _Bootstrap modal: http://getbootstrap.com/javascript/#modals
