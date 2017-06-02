@@ -1,5 +1,5 @@
 [Golang] Smallest Multiple - Problem 5 - Project Euler
-################################################################
+######################################################
 
 :date: 2017-06-02T20:12+08:00
 :tags: Go, Golang, Algorithm, Math, Project Euler
@@ -25,7 +25,7 @@ Go solution to smallest multiple - Problem 5 - Project Euler. [1]_
 
   LCM(1, 2, 3, ..., 20) = 18044195
 
-.. rubric:: `Run Code on Go Playground <https://play.golang.org/p/NoSoID5vTO>`__
+.. rubric:: `Run Code on Go Playground <https://play.golang.org/p/JGN2h0VxS3>`__
    :class: align-center
 
 .. code-block:: go
@@ -46,7 +46,7 @@ Go solution to smallest multiple - Problem 5 - Project Euler. [1]_
   	return a
   }
 
-  // find Least Common Multiple (LCD) via GCD
+  // find Least Common Multiple (LCM) via GCD
   func LCM(a, b int) int {
   	return a * b / GCD(a, b)
   }
