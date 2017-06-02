@@ -2,7 +2,7 @@
 ################################################################
 
 :date: 2017-06-01T08:08+08:00
-:tags: Go, Golang, Algorithm, Project Euler
+:tags: Go, Golang, Algorithm, Math, Project Euler
 :category: Go
 :summary: Go solution to special Pythagorean triplet
           - Problem 9 - Project Euler.

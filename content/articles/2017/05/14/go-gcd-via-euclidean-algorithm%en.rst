@@ -2,7 +2,7 @@
 ########################################################
 
 :date: 2017-05-14T21:16+08:00
-:tags: Go, Golang, Algorithm
+:tags: Go, Golang, Algorithm, Math
 :category: Go
 :summary: Compute the greatest common divisor (GCD) via Euclidean algorithm
           in Go programming language.
