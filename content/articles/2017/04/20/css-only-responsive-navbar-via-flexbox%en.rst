@@ -168,6 +168,7 @@ References
        | `理解 Flexbox：你需要知道的一切 – 码农网 <http://www.codeceo.com/article/understanding-flexbox-everything-you-need-to-know.html>`_
        | `理解 Flexbox：你需要知道的一切 - WEB前端 - 伯乐在线 <http://web.jobbole.com/91035/>`_
        | `理解Flexbox：你需要知道的一切_Flexbox 教程_w3cplus <http://www.w3cplus.com/css3/understanding-flexbox-everything-you-need-to-know.html>`_
+.. [8] `FlexBox Cheatsheet | Hacker News <https://news.ycombinator.com/item?id=14483429>`_
 
 .. _CSS: https://www.google.com/search?q=CSS
 .. _CSS frameworks: https://www.google.com/search?q=CSS+frameworks
