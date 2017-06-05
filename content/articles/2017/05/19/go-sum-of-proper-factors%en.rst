@@ -2,7 +2,7 @@
 #############################################
 
 :date: 2017-05-19T01:41+08:00
-:tags: Go, Golang, Algorithm, Prime Number
+:tags: Go, Golang, Algorithm, Prime Number, Math
 :category: Go
 :summary: Calculate the sum of all proper divisors (factors)
           of an integer number

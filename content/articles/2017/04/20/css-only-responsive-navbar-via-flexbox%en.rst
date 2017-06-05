@@ -157,7 +157,7 @@ References
 .. [2] `Pure CSS Toggle (Show/Hide) HTML Element <{filename}../../02/27/css-only-toggle-dom-element%en.rst>`_
 .. [3] | `css flexbox - Google search <https://www.google.com/search?q=css+flexbox>`_
        | `A Complete Guide to Flexbox | CSS-Tricks <https://css-tricks.com/snippets/css/a-guide-to-flexbox/>`_
-       | `Flexbox Cheatsheet | Hacker News <https://news.ycombinator.com/item?id=13877926>`_
+       | `Flexbox Cheatsheet | Hacker News <https://news.ycombinator.com/item?id=13877926>`__
        | `理解 Flexbox：你需要知道的一切 - WEB前端 - 伯乐在线 <http://web.jobbole.com/91035/>`_
        | `RAGrid: Powerful intrinsic pure CSS flexbox grid | Hacker News <https://news.ycombinator.com/item?id=14102320>`_
 .. [4] `bulma/nav.sass at master · jgthms/bulma · GitHub <https://github.com/jgthms/bulma/blob/master/sass/components/nav.sass>`_
@@ -168,7 +168,7 @@ References
        | `理解 Flexbox：你需要知道的一切 – 码农网 <http://www.codeceo.com/article/understanding-flexbox-everything-you-need-to-know.html>`_
        | `理解 Flexbox：你需要知道的一切 - WEB前端 - 伯乐在线 <http://web.jobbole.com/91035/>`_
        | `理解Flexbox：你需要知道的一切_Flexbox 教程_w3cplus <http://www.w3cplus.com/css3/understanding-flexbox-everything-you-need-to-know.html>`_
-.. [8] `FlexBox Cheatsheet | Hacker News <https://news.ycombinator.com/item?id=14483429>`_
+.. [8] `FlexBox Cheatsheet | Hacker News <https://news.ycombinator.com/item?id=14483429>`__
 
 .. _CSS: https://www.google.com/search?q=CSS
 .. _CSS frameworks: https://www.google.com/search?q=CSS+frameworks

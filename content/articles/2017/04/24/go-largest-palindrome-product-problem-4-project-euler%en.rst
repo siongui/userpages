@@ -2,7 +2,7 @@
 ###############################################################
 
 :date: 2017-04-24T00:29+08:00
-:tags: Go, Golang, Algorithm, Project Euler
+:tags: Go, Golang, Algorithm, Project Euler, Math
 :category: Go
 :summary: Go solution to largest palindrome made from the product of two 3-digit
           numbers. - Problem 4 - Project Euler.

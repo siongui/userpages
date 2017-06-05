@@ -2,7 +2,7 @@
 ################################################
 
 :date: 2017-05-09T02:36+08:00
-:tags: Go, Golang, Algorithm, Prime Number
+:tags: Go, Golang, Algorithm, Prime Number, Math
 :category: Go
 :summary: *Prime Factorization* - Find all prime factors of a given integer
           number in Go programming language.

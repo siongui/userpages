@@ -2,7 +2,7 @@
 #########################################################
 
 :date: 2017-05-17T21:26+08:00
-:tags: Go, Golang, Algorithm, Project Euler, Prime Number
+:tags: Go, Golang, Algorithm, Project Euler, Prime Number, Math
 :category: Go
 :summary: Go solution to largest prime factor of 600851475143
           - Problem 3 - Project Euler.

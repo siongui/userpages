@@ -2,7 +2,7 @@
 ######################################################
 
 :date: 2017-05-25T00:52+08:00
-:tags: Go, Golang, Algorithm, Project Euler, Prime Number
+:tags: Go, Golang, Algorithm, Project Euler, Prime Number, Math
 :category: Go
 :summary: Go solution to amicable numbers
           - Problem 21 - Project Euler.
