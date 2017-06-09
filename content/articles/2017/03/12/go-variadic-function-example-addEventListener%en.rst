@@ -104,6 +104,8 @@ References:
 
 .. [4] `GitHub - siongui/godom: Make DOM manipultation in Go as similar to JavaScript as possible. (via GopherJS) <https://github.com/siongui/godom>`_
 
+.. [5] `variadic function looping through channels : golang <https://www.reddit.com/r/golang/comments/6fv0r9/variadic_function_looping_through_channels/>`_
+
 .. _Go: https://golang.org/
 .. _addEventListener: https://www.google.com/search?q=addEventListener
 .. _JavaScript: https://www.google.com/search?q=JavaScript

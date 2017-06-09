@@ -2,6 +2,7 @@ iGloba Z08 掃地機器人使用心得
 #############################
 
 :date: 2017-04-21T20:51+08:00
+:modified: 2017-06-08T23:15+08:00
 :tags: 3C
 :category: 掃地機器人
 :summary: iGloba Z08 掃地機器人使用心得，包含與iRobot Roomba 561比較。
@@ -69,6 +70,11 @@ Roomba 561，若沒有虛擬牆，常常會在階梯上掉落。小姐看我一�
 .. raw:: html
 
   <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100011192288460%2Fvideos%2F404267096623030%2F&show_text=0&width=auto" width="auto" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+更新[2017-06-08]： 前幾天掃完後開始無法自動回基地台充電，昨天在臉書上跟小編約
+時間，今天早上九點送到總公司維修，中午修好。買來後天天用，比起上一台iRobot，感覺
+有點不耐操，上一台iRobot用了七年以上才壞，中間不曾維修，只有電池用了太多年後失效
+，換過一次電池而已。支持本土廠商，希望本土機器人能越做越好！
 
 ----
 
