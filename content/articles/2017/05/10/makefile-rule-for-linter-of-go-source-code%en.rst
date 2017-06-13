@@ -1,5 +1,5 @@
-[Makefile] Ruls for Linters of Golang Source Code
-#################################################
+[Makefile] Rules for Linters of Golang Source Code
+##################################################
 
 :date: 2017-05-10T16:37+08:00
 :tags: Bash, Makefile, Commandline, Go, Golang
