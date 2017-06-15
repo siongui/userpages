@@ -55,6 +55,8 @@ References:
 .. [4] `[Python] Web Scrape JavaScript Webpage by dryscrape <{filename}../../../2016/01/06/python-web-scrape-javascript-webpage-by-dryscrape%en.rst>`_
 .. [5] | `[Golang] Read Yes/No From Console <{filename}../../../2016/04/23/go-read-yes-no-from-console%en.rst>`_
        | `golang read password - Google search <https://www.google.com/search?q=golang+read+password>`_
+.. [6] | `初探 Headless Chrome - WEB前端 - 伯乐在线 <http://web.jobbole.com/91489/>`_
+       | `初探 Headless Chrome - 知乎专栏 <https://zhuanlan.zhihu.com/p/27100187>`_
 
 .. _Web scrape: https://en.wikipedia.org/wiki/Web_scraping
 .. _Python: https://www.python.org/
