@@ -140,4 +140,4 @@ Facebook文章分享
 .. _王舍城: https://www.google.com/search?q=%E7%8E%8B%E8%88%8D%E5%9F%8E
 .. _竹林精舍: http://baike.baidu.com/subview/276489/15827944.htm
 .. _阿羅漢: https://zh.wikipedia.org/wiki/%E9%98%BF%E7%BD%97%E6%B1%89
-.. _教誡波羅提木叉偈: {filename}../11/ovada-patimokkha-pali-chanting%zh.rst
+.. _教誡波羅提木叉偈: https://siongui.github.io/pali-chanting/zh/ovada-patimokkha/
