@@ -19,4 +19,14 @@
 
 Facebook: `Thara Massage ธารา นวดไทย`_
 
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/0V6op_X28v8" frameborder="0" allowfullscreen></iframe>
+
+.. container:: align-center video-container-description
+
+  นวดแผนไทย ตอน 1 ท่านอนหงายนวดเท้า และขา
+
 .. _Thara Massage ธารา นวดไทย: https://www.facebook.com/TharaMassage
