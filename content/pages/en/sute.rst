@@ -13,7 +13,7 @@ Location: `Kaohsiung <http://en.wikipedia.org/wiki/Kaohsiung>`_,
 
 Profiles:
 `Google+ <https://plus.google.com/+SiongUiTe>`_ /
-`Facebook <https://www.facebook.com/profile.php?id=100011192288460>`_ /
+`Facebook <https://www.facebook.com/siongui.te.5>`_ /
 `Github <https://github.com/siongui>`_ /
 `Gist <https://gist.github.com/siongui>`_ /
 `Stack Overflow <http://stackoverflow.com/users/2350927/siongui>`_
