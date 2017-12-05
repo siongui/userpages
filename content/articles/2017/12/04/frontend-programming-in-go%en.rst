@@ -1,8 +1,9 @@
-Frontend Programming in Go (Golang)
-###################################
+Frontend Programming in Go
+##########################
 
 :date: 2017-12-04T22:06+08:00
-:tags: Go, Golang, GopherJS, Go to JavaScript
+:modified: 2017-12-05T23:36+08:00
+:tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go
 :category: Go
 :summary: Discuss why I choose Go to be my frontend programming language. Wirte
           Go code and run your application on web browsers.
@@ -84,12 +85,14 @@ still not usable and under development now.
    Go wasm compiler, see [1]_ for more information.
 
 
-To Be Continued
-+++++++++++++++
+Table of Content
+++++++++++++++++
 
 This post is the first to introduce Go in the field of frontend programming. I
 will write a series of posts to show you how to write and run Go code on the
 browsers. If any advices, please leave your comments on GitHub!
+
+- `First Frontend Go Program - Hello World in Browser`_
 
 .. adsu:: 3
 
@@ -108,3 +111,4 @@ References:
 .. _GopherJS: https://github.com/gopherjs/gopherjs
 .. _Go Playground: https://play.golang.org/
 .. _godom: https://github.com/siongui/godom
+.. _First Frontend Go Program - Hello World in Browser: {filename}../05/first-frontend-go-program-hello-world%en.rst
