@@ -111,4 +111,4 @@ References:
 .. _GopherJS: https://github.com/gopherjs/gopherjs
 .. _Go Playground: https://play.golang.org/
 .. _godom: https://github.com/siongui/godom
-.. _First Frontend Go Program - Hello World in Browser: {filename}../05/first-frontend-go-program-hello-world%en.rst
+.. _First Frontend Go Program - Hello World in Browser: {filename}first-frontend-go-program-hello-world%en.rst
