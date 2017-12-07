@@ -3,7 +3,7 @@ First Frontend Go Program - Hello World in Browser
 
 :date: 2017-12-05T23:27+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go
-:category: Go
+:category: Frontend Programming in Go
 :summary: The first frontend program in Go - Show *Hello World* in your browser.
 :og_image: https://pbs.twimg.com/profile_images/605816243870760960/4hP2sH_O.png
 :adsu: yes

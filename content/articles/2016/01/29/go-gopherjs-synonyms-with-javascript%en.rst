@@ -411,7 +411,7 @@ References:
 .. [3] `dom - GopherJS bindings for the JavaScript DOM APIs <https://godoc.org/honnef.co/go/js/dom>`_
        (`GitHub <https://github.com/dominikh/go-js-dom>`__)
 
-.. [4] `Synonyms - Dart, JavaScript, C#, Python | Dart <https://www.dartlang.org/docs/synonyms/>`_
+.. [4] `Synonyms - Dart, JavaScript, C#, Python | Dart <https://www.dartlang.org/resources/synonyms>`_
 
 .. _GopherJS: http://www.gopherjs.org/
 .. _DOM binding: https://godoc.org/honnef.co/go/js/dom
