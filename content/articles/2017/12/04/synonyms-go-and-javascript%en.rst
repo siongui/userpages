@@ -15,6 +15,7 @@ basic understanding of JavaScript and GopherJS_/godom_.
 
 .. contents:: **Table of Content**
 
+.. adsu:: 2
 
 ----
 
@@ -65,6 +66,7 @@ window_ object
 
   Window
 
+.. adsu:: 3
 
 ----
 
@@ -90,6 +92,37 @@ window_ object
 
   Window.Alert("Hello World")
 
+
+----
+
+
+JavaScript new Keyword
+++++++++++++++++++++++
+
+**JavaScript**
+
+.. code-block:: javascript
+
+  var d = new Date();
+  console.log(d);
+
+
+**GopherJS**
+
+.. code-block:: go
+
+  d := js.Global.Get("Date").New()
+  println(d)
+
+
+**GopherJS + godom**
+
+.. code-block:: go
+
+  d := Window.Get("Date").New()
+  println(d)
+
+.. adsu:: 4
 
 ----
 

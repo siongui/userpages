@@ -53,7 +53,10 @@ via GopherJS.
 .. show_github_file:: siongui frontend-programming-in-go 001-hello-world/app.go
 
 The `js.Global` here is actually the window_ object that we use in JavaScript
-counterpart.
+counterpart. You can try the code on GopherJS Playground:
+
+.. rubric:: `Run Code on GopherJS Playground <https://gopherjs.github.io/playground/>`_
+   :class: align-center
 
 The following line in Go:
 

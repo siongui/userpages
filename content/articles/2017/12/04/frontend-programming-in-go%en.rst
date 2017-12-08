@@ -93,6 +93,7 @@ will write a series of posts to show you how to write and run Go code on the
 browsers. If any advices, please leave your comments on GitHub!
 
 - `First Frontend Go Program - Hello World in Browser`_
+- `JavaScript new Keyword in Go`_
 - References: `Synonyms - Go and JavaScript`_
 
 .. adsu:: 3
@@ -113,4 +114,5 @@ References:
 .. _Go Playground: https://play.golang.org/
 .. _godom: https://github.com/siongui/godom
 .. _First Frontend Go Program - Hello World in Browser: {filename}first-frontend-go-program-hello-world%en.rst
+.. _JavaScript new Keyword in Go: {filename}js-new-keyword-in-go%en.rst
 .. _Synonyms - Go and JavaScript: {filename}synonyms-go-and-javascript%en.rst
