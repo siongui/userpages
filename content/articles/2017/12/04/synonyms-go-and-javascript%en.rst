@@ -2,6 +2,7 @@ Synonyms - Go and JavaScript
 ############################
 
 :date: 2017-12-07T21:47+08:00
+:modified: 2017-12-09T00:41+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM, JavaScript,
        Frontend Programming in Go
 :category: Frontend Programming in Go
@@ -106,6 +107,8 @@ JavaScript new Keyword
   var d = new Date();
   console.log(d);
 
+  var x = new joint.dia.Graph;
+
 
 **GopherJS**
 
@@ -114,6 +117,8 @@ JavaScript new Keyword
   d := js.Global.Get("Date").New()
   println(d)
 
+  x := js.Global.Get("joint").Get("dia").Get("Graph").New()
+
 
 **GopherJS + godom**
 
@@ -121,6 +126,8 @@ JavaScript new Keyword
 
   d := Window.Get("Date").New()
   println(d)
+
+  x := Window.Get("joint").Get("dia").Get("Graph").New()
 
 .. adsu:: 4
 

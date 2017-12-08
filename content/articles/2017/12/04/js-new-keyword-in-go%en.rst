@@ -2,6 +2,7 @@ JavaScript new Keyword in Go
 ############################
 
 :date: 2017-12-08T23:04+08:00
+:modified: 2017-12-09T00:41+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go
 :category: Frontend Programming in Go
 :summary: Show how to use JavaScript *new* keyword in Go/GopherJS.
@@ -68,6 +69,31 @@ To make your code more readable, we can prettify the above code with godom_:
 For more exaples for JavaScript *new* keyword in Go, see [2]_, [3]_, [4]_.
 
 
+Chain Dots
+++++++++++
+
+From `the comment`_ of `@pbrown12303`_, if you have to *new* the following chain
+dots in JavaScript:
+
+.. code-block:: javascript
+
+  var x = new joint.dia.Graph;
+
+The following code in Go/GopherJS will not work:
+
+.. code-block:: go
+
+  x := js.Global.Get("joint.dia.Graph").New()
+
+The correct syntax in Go/GopherJS is:
+
+.. code-block:: go
+
+  x := js.Global.Get("joint").Get("dia").Get("Graph").New()
+
+
+.. adsu:: 3
+
 ----
 
 References:
@@ -75,7 +101,6 @@ References:
 .. [1] `JavaScript Dates <https://www.w3schools.com/js/js_dates.asp>`_
 .. [2] `GopherJS XMLHttpRequest (XHR) and MakeFunc Example <{filename}../../../2016/02/18/gopherjs-XMLHttpRequest-XHR-and-MakeFunc-example%en.rst>`_
 .. [3] `[GopherJS] WebSocket Client Example With Echo Server <{filename}../../05/18/go-websocket-client-example-with-echo-server%en.rst>`_
-.. adsu:: 3
 .. [4] `[Golang] Access HTTP Request Header by XHR getAllResponseHeaders() <{filename}../../../2016/01/25/go-http-request-header-by-xhr-getAllResponseHeaders%en.rst>`_
 
 .. _GopherJS: http://www.gopherjs.org/
@@ -90,3 +115,5 @@ References:
 .. _WebSocket(): https://www.google.com/search?q=WebSocket+javascript
 .. _XMLHttpRequest(): https://www.google.com/search?q=XMLHttpRequest+javascript
 .. _code online in w3schools: https://www.w3schools.com/js/tryit.asp?filename=tryjs_date_current
+.. _the comment: https://github.com/siongui/userpages/issues/4#issuecomment-350292186
+.. _@pbrown12303: https://github.com/pbrown12303

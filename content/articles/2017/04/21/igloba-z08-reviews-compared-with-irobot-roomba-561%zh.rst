@@ -2,7 +2,7 @@ iGloba Z08 掃地機器人使用心得
 #############################
 
 :date: 2017-04-21T20:51+08:00
-:modified: 2017-12-04T22:30+08:00
+:modified: 2017-12-09T00:46+08:00
 :tags: 3C
 :category: 掃地機器人
 :summary: iGloba Z08 掃地機器人使用心得，包含與iRobot Roomba 561比較。
@@ -80,6 +80,15 @@ Roomba 561，若沒有虛擬牆，常常會在階梯上掉落。小姐看我一�
 ，按下電源卻完全沒有反應，所有的燈都沒有亮，感覺有點像電池耗盡死機了。以前
 Roomba 561 也很久沒用，卻沒有這樣的情形，可能又要送修了。
 
+更新[2017-12-08]： 星期三(6號)送修，上次送修隔天就修好自取，這次已經兩天還沒好，
+所以今天在臉書上聯絡 `iGloba官網專頁`_ 詢問維修進度。小編說一般檢修時間為兩週，
+聽了快昏倒了。小編說無法開機的部分有試過 直接使用充電器對主機充電嗎
+(不透過充電座)? 我說沒有，小編又說：因為我們電池有低電壓保護設計，如果電壓過低
+會進入休眠狀態，可以直用adapter插主機做喚醒，戲稱為插屁股！ 我聽了後悔沒有先在
+臉書聯絡再送修，不過小編人不錯，說會幫我問問。不過我還是覺得有點失望，因為上一台
+iRobot掃地機操了七八年，再怎樣操也不會出問題，只有換過一次電池而已，希望國產掃地
+機可以多多加油，趕上外國水準！
+
 ----
 
 參考：
@@ -93,6 +102,8 @@ Roomba 561 也很久沒用，卻沒有這樣的情形，可能又要送修了。
        | `iGloba Z08 - Baidu search <https://www.baidu.com/s?wd=iGloba+Z08>`_
        | `iGloba Z08 - Yandex search <https://www.yandex.com/search/?text=iGloba+Z08>`_
 
+.. adsu:: 4
+
 .. [2] `52Maria: iGloba Z08 旋風機使用分享 <http://52maria.blogspot.com/2016/12/igloba-z08.html>`_
 .. [3] `《清潔家電》iGloba酷掃Z08 掃地機器人。超強吸力清潔簡單。頭髮灰塵OUT︱開箱評價心得分享 （影片） <http://dannisamy.pixnet.net/blog/post/34593177>`_
 .. [4] `清掃家電 - 清潔簡單 上班族也可以輕鬆家事 iGloba酷掃  i Globa Z08 掃地機器人開箱體驗 - 居家討論區 - Mobile01 <https://www.mobile01.com/topicdetail.php?f=728&t=5038378>`_
@@ -105,3 +116,4 @@ Roomba 561 也很久沒用，卻沒有這樣的情形，可能又要送修了。
 .. _iGloba 路竹總公司: https://www.google.com/search?q=%E9%AB%98%E9%9B%84%E5%B8%82%E8%B7%AF%E7%AB%B9%E5%8D%80%E8%B7%AF%E7%A7%91%E5%8D%81%E8%B7%AF1%E8%99%9F3F(%E8%90%AC%E6%BD%A4%E7%A7%91%E6%8A%80)
 .. _Dyson吸塵器: https://www.google.com/search?q=Dyson%E5%90%B8%E5%A1%B5%E5%99%A8
 .. _iGloba Z08 商品銷售專頁: https://www.facebook.com/commerce/products/1208542559229305/
+.. _iGloba官網專頁: https://www.facebook.com/iGlobaTW/
