@@ -2,7 +2,7 @@ Synonyms - Go and JavaScript
 ############################
 
 :date: 2017-12-07T21:47+08:00
-:modified: 2017-12-09T00:41+08:00
+:modified: 2017-12-09T22:16+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM, JavaScript,
        Frontend Programming in Go
 :category: Frontend Programming in Go
@@ -107,8 +107,6 @@ JavaScript new Keyword
   var d = new Date();
   console.log(d);
 
-  var x = new joint.dia.Graph;
-
 
 **GopherJS**
 
@@ -116,8 +114,6 @@ JavaScript new Keyword
 
   d := js.Global.Get("Date").New()
   println(d)
-
-  x := js.Global.Get("joint").Get("dia").Get("Graph").New()
 
 
 **GopherJS + godom**
@@ -127,9 +123,128 @@ JavaScript new Keyword
   d := Window.Get("Date").New()
   println(d)
 
+
+new with Chain Dots
+===================
+
+**JavaScript**
+
+.. code-block:: javascript
+
+  var x = new joint.dia.Graph;
+
+
+**GopherJS**
+
+.. code-block:: go
+
+  x := js.Global.Get("joint").Get("dia").Get("Graph").New()
+
+
+**GopherJS + godom**
+
+.. code-block:: go
+
   x := Window.Get("joint").Get("dia").Get("Graph").New()
 
 .. adsu:: 4
+
+
+----
+
+
+querySelector
++++++++++++++
+
+**JavaScript**
+
+.. code-block:: javascript
+
+  var elm = document.querySelector("#foo");
+
+
+**GopherJS**
+
+.. code-block:: go
+
+  elm := js.Global.Get("document").Call("querySelector", "#foo")
+
+
+**GopherJS + godom**
+
+.. code-block:: go
+
+  elm := Document.QuerySelector("#foo")
+
+
+----
+
+
+querySelectorAll
+++++++++++++++++
+
+**JavaScript**
+
+.. code-block:: javascript
+
+  var nodeList = document.querySelectorAll("div");
+  for (var i = 0; i < nodeList.length; ++i) {
+    var elm = nodeList[i];
+    // do something with the element
+  }
+
+
+**GopherJS**
+
+.. code-block:: go
+
+  d := js.Global.Get("document")
+  nodeList := d.Call("querySelectorAll", "div")
+  length := nodeList.Get("length").Int()
+  for i := 0; i < length; i++ {
+  	elm := nodeList.Call("item", i)
+  	// do something with the element
+  }
+
+
+**GopherJS + godom**
+
+.. code-block:: go
+
+  nodeList := Document.QuerySelectorAll("div")
+  for _, elm := range nodeList {
+  	// do something with the element
+  }
+
+.. adsu:: 5
+
+
+----
+
+
+getElementById
+++++++++++++++
+
+**JavaScript**
+
+.. code-block:: javascript
+
+  var element = document.getElementById("foo");
+
+
+**GopherJS**
+
+.. code-block:: go
+
+  element := js.Global.Get("document").Call("getElementById", "foo")
+
+
+**GopherJS + godom**
+
+.. code-block:: go
+
+  element := Document.GetElementById("foo")
+
 
 ----
 

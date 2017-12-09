@@ -2,7 +2,7 @@ Frontend Programming in Go
 ##########################
 
 :date: 2017-12-04T22:06+08:00
-:modified: 2017-12-08T23:04+08:00
+:modified: 2017-12-09T22:07+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go
 :category: Frontend Programming in Go
 :summary: Discuss why I choose Go to be my frontend programming language. Wirte
@@ -94,6 +94,7 @@ browsers. If any advices, please leave your comments on GitHub!
 
 - `First Frontend Go Program - Hello World in Browser`_
 - `JavaScript new Keyword in Go`_
+- `querySelector, querySelectorAll, getElementById in Go`_
 - References: `Synonyms - Go and JavaScript`_
 
 .. adsu:: 3
@@ -116,3 +117,4 @@ References:
 .. _First Frontend Go Program - Hello World in Browser: {filename}first-frontend-go-program-hello-world%en.rst
 .. _JavaScript new Keyword in Go: {filename}js-new-keyword-in-go%en.rst
 .. _Synonyms - Go and JavaScript: {filename}synonyms-go-and-javascript%en.rst
+.. _querySelector, querySelectorAll, getElementById in Go: {filename}querySelector-querySelectorAll-getElementById-in-go%en.rst
