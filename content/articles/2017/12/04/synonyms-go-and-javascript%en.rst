@@ -2,7 +2,7 @@ Synonyms - Go and JavaScript
 ############################
 
 :date: 2017-12-07T21:47+08:00
-:modified: 2017-12-09T22:16+08:00
+:modified: 2017-12-10T23:18+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM, JavaScript,
        Frontend Programming in Go
 :category: Frontend Programming in Go
@@ -244,6 +244,85 @@ getElementById
 .. code-block:: go
 
   element := Document.GetElementById("foo")
+
+
+----
+
+
+innerHTML
++++++++++
+
+**JavaScript**
+
+.. code-block:: javascript
+
+  // set innerHTML
+  element.innerHTML = "<strong>Hello World</strong>";
+
+  // get innerHTML
+  console.log(element.innerHTML);
+
+
+**GopherJS**
+
+.. code-block:: go
+
+  // set innerHTML
+  element.Set("innerHTML", "<strong>Hello World</strong>")
+
+  // get innerHTML
+  println(element.Get("innerHTML").String())
+
+
+**GopherJS + godom**
+
+.. code-block:: go
+
+  // set innerHTML
+  element.SetInnerHTML("<strong>Hello World</strong>")
+
+  // get innerHTML
+  println(element.InnerHTML())
+
+.. adsu:: 5
+
+----
+
+
+textContent
++++++++++++
+
+**JavaScript**
+
+.. code-block:: javascript
+
+  // set textContent
+  element.textContent = "Hello World";
+
+  // get textContent
+  console.log(element.textContent);
+
+
+**GopherJS**
+
+.. code-block:: go
+
+  // set textContent
+  element.Set("textContent", "Hello World")
+
+  // get textContent
+  println(element.Get("textContent").String())
+
+
+**GopherJS + godom**
+
+.. code-block:: go
+
+  // set textContent
+  element.SetTextContent("Hello World")
+
+  // get textContent
+  println(element.TextContent())
 
 
 ----
