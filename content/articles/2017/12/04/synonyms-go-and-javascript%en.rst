@@ -2,7 +2,7 @@ Synonyms - Go and JavaScript
 ############################
 
 :date: 2017-12-07T21:47+08:00
-:modified: 2017-12-10T23:18+08:00
+:modified: 2017-12-11T22:47+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM, JavaScript,
        Frontend Programming in Go
 :category: Frontend Programming in Go
@@ -284,7 +284,7 @@ innerHTML
   // get innerHTML
   println(element.InnerHTML())
 
-.. adsu:: 5
+.. adsu:: 6
 
 ----
 
@@ -324,6 +324,38 @@ textContent
   // get textContent
   println(element.TextContent())
 
+
+----
+
+
+addEventListener
+++++++++++++++++
+
+**JavaScript**
+
+.. code-block:: javascript
+
+  element.addEventListener("click", function(e) {
+    // do something here
+  });
+
+
+**GopherJS**
+
+.. code-block:: go
+
+  element.Call("addEventListener", "click", func(event *js.Object) {
+  	// do something here
+  })
+
+
+**GopherJS + godom**
+
+.. code-block:: go
+
+  element.AddEventListener("click", func(e Event) {
+  	// do something here
+  })
 
 ----
 
