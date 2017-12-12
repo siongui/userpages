@@ -2,7 +2,7 @@ Frontend Programming in Go
 ##########################
 
 :date: 2017-12-04T22:06+08:00
-:modified: 2017-12-11T22:43+08:00
+:modified: 2017-12-12T23:41+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go
 :category: Frontend Programming in Go
 :summary: Discuss why I choose Go to be my frontend programming language. Wirte
@@ -97,6 +97,7 @@ browsers. If any advices, please leave your comments on GitHub!
 - `querySelector, querySelectorAll, getElementById in Go`_
 - `innerHTML and textContent in Go`_
 - `Event Binding - addEventListener in Go`_
+- `Keyboard Event (Arrow Keys) in Go`_
 - References: `Synonyms - Go and JavaScript`_
 
 .. adsu:: 3
@@ -122,3 +123,4 @@ References:
 .. _querySelector, querySelectorAll, getElementById in Go: {filename}querySelector-querySelectorAll-getElementById-in-go%en.rst
 .. _innerHTML and textContent in Go: {filename}innerHTML-textContent-in-go%en.rst
 .. _Event Binding - addEventListener in Go: {filename}addEventListener-event-binding-in-go%en.rst
+.. _Keyboard Event (Arrow Keys) in Go: {filename}keyboard-event-arrow-key-in-go%en.rst
