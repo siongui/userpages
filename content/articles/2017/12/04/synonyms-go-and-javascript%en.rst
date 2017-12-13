@@ -2,7 +2,7 @@ Synonyms - Go and JavaScript
 ############################
 
 :date: 2017-12-07T21:47+08:00
-:modified: 2017-12-11T22:47+08:00
+:modified: 2017-12-13T23:24+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM, JavaScript,
        Frontend Programming in Go
 :category: Frontend Programming in Go
@@ -356,6 +356,84 @@ addEventListener
   element.AddEventListener("click", func(e Event) {
   	// do something here
   })
+
+----
+
+
+createElement
++++++++++++++
+
+**JavaScript**
+
+.. code-block:: javascript
+
+  document.createElement("span");
+
+
+**GopherJS**
+
+.. code-block:: go
+
+  js.Global.Get("document").Call("createElement", "span")
+
+
+**GopherJS + godom**
+
+.. code-block:: go
+
+  Document.CreateElement("span")
+
+----
+
+
+createTextNode
+++++++++++++++
+
+**JavaScript**
+
+.. code-block:: javascript
+
+  document.createTextNode("Hello World");
+
+
+**GopherJS**
+
+.. code-block:: go
+
+  js.Global.Get("document").Call("createTextNode", "Hello World")
+
+
+**GopherJS + godom**
+
+.. code-block:: go
+
+  Document.CreateTextNode("Hello World")
+
+----
+
+
+appendChild
++++++++++++
+
+**JavaScript**
+
+.. code-block:: javascript
+
+  parentElement.appendChild(childElement);
+
+
+**GopherJS**
+
+.. code-block:: go
+
+  parentElement.Call("appendChild", childElement)
+
+
+**GopherJS + godom**
+
+.. code-block:: go
+
+  parentElement.AppendChild(childElement)
 
 ----
 

@@ -53,6 +53,9 @@ To make your code more readable, we can prettify the above code with godom_:
 .. show_github_file:: siongui frontend-programming-in-go 006-keyboard-event/appdom.go
 .. adsu:: 4
 
+You can also register event handler to the *keyup* event of document_ instead of
+window_. The result is the same in this case.
+
 ----
 
 References:
@@ -68,3 +71,5 @@ References:
 .. _godom: https://github.com/siongui/godom
 .. _addEventListener: https://www.google.com/search?q=addEventListener
 .. _on my GitHub: https://github.com/siongui/frontend-programming-in-go/tree/master/006-keyboard-event
+.. _document: https://www.w3schools.com/jsref/dom_obj_document.asp
+.. _window: https://www.w3schools.com/jsref/obj_window.asp
