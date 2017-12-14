@@ -2,7 +2,7 @@ Frontend Programming in Go
 ##########################
 
 :date: 2017-12-04T22:06+08:00
-:modified: 2017-12-13T23:18+08:00
+:modified: 2017-12-14T23:30+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go
 :category: Frontend Programming in Go
 :summary: Discuss why I choose Go to be my frontend programming language. Wirte
@@ -99,6 +99,7 @@ browsers. If any advices, please leave your comments on GitHub!
 - `Event Binding - addEventListener in Go`_
 - `Keyboard Event (Arrow Keys) in Go`_
 - `Create and Append Element or Text Node in Go`_
+- `XMLHttpRequest (XHR) in Go`_
 - References: `Synonyms - Go and JavaScript`_
 
 .. adsu:: 3
@@ -126,3 +127,4 @@ References:
 .. _Event Binding - addEventListener in Go: {filename}addEventListener-event-binding-in-go%en.rst
 .. _Keyboard Event (Arrow Keys) in Go: {filename}keyboard-event-arrow-key-in-go%en.rst
 .. _Create and Append Element or Text Node in Go: {filename}create-and-append-element-or-text-node-in-go%en.rst
+.. _XMLHttpRequest (XHR) in Go: {filename}xmlhttprequest-xhr-in-go%en.rst
