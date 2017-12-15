@@ -2,7 +2,7 @@ Synonyms - Go and JavaScript
 ############################
 
 :date: 2017-12-07T21:47+08:00
-:modified: 2017-12-13T23:24+08:00
+:modified: 2017-12-15T23:13+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM, JavaScript,
        Frontend Programming in Go
 :category: Frontend Programming in Go
@@ -434,6 +434,57 @@ appendChild
 .. code-block:: go
 
   parentElement.AppendChild(childElement)
+
+----
+
+
+HTML data-* Attribute
++++++++++++++++++++++
+
+**HTML**
+
+.. code-block:: html
+
+  <div id="foo" data-demo-value="hello world"></div>
+
+
+**JavaScript**
+
+.. code-block:: javascript
+
+  var f = document.querySelector("#foo");
+
+  // get value
+  console.log(f.dataset.demoValue);
+
+  // set value
+  f.dataset.demoValue = "world hello";
+
+
+**GopherJS**
+
+.. code-block:: go
+
+  f := js.Global.Get("document").Call("querySelector", "#foo")
+
+  // get value
+  println(f.Get("dataset").Get("demoValue").String())
+
+  // set value
+  f.Get("dataset").Set("demoValue", "world hello")
+
+
+**GopherJS + godom**
+
+.. code-block:: go
+
+  f := Document.QuerySelector("#foo")
+
+  // get value
+  println(f.Dataset().Get("demoValue").String())
+
+  // set value
+  f.Dataset().Set("demoValue", "world hello")
 
 ----
 

@@ -2,7 +2,7 @@ Frontend Programming in Go
 ##########################
 
 :date: 2017-12-04T22:06+08:00
-:modified: 2017-12-14T23:30+08:00
+:modified: 2017-12-15T23:09+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go
 :category: Frontend Programming in Go
 :summary: Discuss why I choose Go to be my frontend programming language. Wirte
@@ -100,6 +100,7 @@ browsers. If any advices, please leave your comments on GitHub!
 - `Keyboard Event (Arrow Keys) in Go`_
 - `Create and Append Element or Text Node in Go`_
 - `XMLHttpRequest (XHR) in Go`_
+- `HTML data-* Attribute in Go`_
 - References: `Synonyms - Go and JavaScript`_
 
 .. adsu:: 3
@@ -112,6 +113,9 @@ References:
        | `Is there a webassembly compiler for Go in the works? : golang <https://www.reddit.com/r/golang/comments/5yl984/is_there_a_webassembly_compiler_for_go_in_the/>`_
 
 .. [2] `GitHub - lpereira/gomoku: Gomoku compiles Go code to C++ <https://github.com/lpereira/gomoku>`_
+
+.. [3] | `Introducing Joy: translate Go to JavaScript : golang <https://www.reddit.com/r/golang/comments/7jby77/introducing_joy_translate_go_to_javascript/>`_
+       | `GitHub - matthewmueller/joy: A delightful Go to Javascript compiler <https://github.com/matthewmueller/joy>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
@@ -128,3 +132,4 @@ References:
 .. _Keyboard Event (Arrow Keys) in Go: {filename}keyboard-event-arrow-key-in-go%en.rst
 .. _Create and Append Element or Text Node in Go: {filename}create-and-append-element-or-text-node-in-go%en.rst
 .. _XMLHttpRequest (XHR) in Go: {filename}xmlhttprequest-xhr-in-go%en.rst
+.. _HTML data-* Attribute in Go: {filename}html-data-attribute-in-go%en.rst
