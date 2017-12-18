@@ -2,7 +2,7 @@ Synonyms - Go and JavaScript
 ############################
 
 :date: 2017-12-07T21:47+08:00
-:modified: 2017-12-15T23:13+08:00
+:modified: 2017-12-18T23:26+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM, JavaScript,
        Frontend Programming in Go
 :category: Frontend Programming in Go
@@ -485,6 +485,45 @@ HTML data-* Attribute
 
   // set value
   f.Dataset().Set("demoValue", "world hello")
+
+----
+
+
+Inline style Property
++++++++++++++++++++++
+
+
+**JavaScript**
+
+.. code-block:: javascript
+
+  // set the color of element
+  elm.style.color = "red";
+
+  // get the color of element
+  console.log(elm.style.color);
+
+
+**GopherJS**
+
+.. code-block:: go
+
+  // set the color of element
+  elm.Get("style").Set("color", "red")
+
+  // get the color of element
+  println(elm.Get("style").Get("color").String())
+
+
+**GopherJS + godom**
+
+.. code-block:: go
+
+  // set the color of element
+  elm.Style().SetColor("red")
+
+  // get the color of element
+  println(elm.Style().Color())
 
 ----
 

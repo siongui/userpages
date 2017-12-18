@@ -2,7 +2,7 @@ Frontend Programming in Go
 ##########################
 
 :date: 2017-12-04T22:06+08:00
-:modified: 2017-12-15T23:09+08:00
+:modified: 2017-12-18T23:23+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go
 :category: Frontend Programming in Go
 :summary: Discuss why I choose Go to be my frontend programming language. Wirte
@@ -101,6 +101,7 @@ browsers. If any advices, please leave your comments on GitHub!
 - `Create and Append Element or Text Node in Go`_
 - `XMLHttpRequest (XHR) in Go`_
 - `HTML data-* Attribute in Go`_
+- `HTML Element style Property in Go`_
 - References: `Synonyms - Go and JavaScript`_
 
 .. adsu:: 3
@@ -111,6 +112,9 @@ References:
 
 .. [1] | `meta: WebAssembly ("wasm") support · Issue #18892 · golang/go · GitHub <https://github.com/golang/go/issues/18892>`_
        | `Is there a webassembly compiler for Go in the works? : golang <https://www.reddit.com/r/golang/comments/5yl984/is_there_a_webassembly_compiler_for_go_in_the/>`_
+       |
+       | `Go and wasm: Advent Day 17 : golang <https://www.reddit.com/r/golang/comments/7ke47z/go_and_wasm_advent_day_17/>`_
+       | `Go and wasm: generating and executing wasm with Go GopherAcademy <https://blog.gopheracademy.com/advent-2017/go-wasm/>`_
 
 .. [2] `GitHub - lpereira/gomoku: Gomoku compiles Go code to C++ <https://github.com/lpereira/gomoku>`_
 
@@ -133,3 +137,4 @@ References:
 .. _Create and Append Element or Text Node in Go: {filename}create-and-append-element-or-text-node-in-go%en.rst
 .. _XMLHttpRequest (XHR) in Go: {filename}xmlhttprequest-xhr-in-go%en.rst
 .. _HTML data-* Attribute in Go: {filename}html-data-attribute-in-go%en.rst
+.. _HTML Element style Property in Go: {filename}html-element-style-property-in-go%en.rst
