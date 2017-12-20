@@ -2,7 +2,7 @@ Frontend Programming in Go
 ##########################
 
 :date: 2017-12-04T22:06+08:00
-:modified: 2017-12-18T23:23+08:00
+:modified: 2017-12-20T23:10+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go
 :category: Frontend Programming in Go
 :summary: Discuss why I choose Go to be my frontend programming language. Wirte
@@ -102,6 +102,7 @@ browsers. If any advices, please leave your comments on GitHub!
 - `XMLHttpRequest (XHR) in Go`_
 - `HTML data-* Attribute in Go`_
 - `HTML Element style Property in Go`_
+- `HTML Element classList Property in Go`_
 - References: `Synonyms - Go and JavaScript`_
 
 .. adsu:: 3
@@ -138,3 +139,4 @@ References:
 .. _XMLHttpRequest (XHR) in Go: {filename}xmlhttprequest-xhr-in-go%en.rst
 .. _HTML data-* Attribute in Go: {filename}html-data-attribute-in-go%en.rst
 .. _HTML Element style Property in Go: {filename}html-element-style-property-in-go%en.rst
+.. _HTML Element classList Property in Go: {filename}html-element-classlist-property-in-go%en.rst

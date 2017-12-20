@@ -2,7 +2,7 @@ Synonyms - Go and JavaScript
 ############################
 
 :date: 2017-12-07T21:47+08:00
-:modified: 2017-12-18T23:26+08:00
+:modified: 2017-12-20T23:16+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM, JavaScript,
        Frontend Programming in Go
 :category: Frontend Programming in Go
@@ -524,6 +524,44 @@ Inline style Property
 
   // get the color of element
   println(elm.Style().Color())
+
+----
+
+
+classList Property
+++++++++++++++++++
+
+**JavaScript**
+
+.. code-block:: javascript
+
+  // add class to element
+  element.classList.add("invisible");
+
+  // check if specified class value exists in class attribute of the element
+  element.classList.contains("invisible");
+
+**GopherJS**
+
+.. code-block:: go
+
+  // add class to element
+  element.Get("classList").Call("add", "invisible")
+
+  // check if specified class value exists in class attribute of the element
+  element.Get("classList").Call("contains", "invisible").Bool()
+
+
+**GopherJS + godom**
+
+.. code-block:: go
+
+  // add class to element
+  element.ClassList().Add("invisible")
+
+  // check if specified class value exists in class attribute of the element
+  element.ClassList().Contains("invisible")
+
 
 ----
 
