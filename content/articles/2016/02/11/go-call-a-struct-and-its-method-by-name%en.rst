@@ -68,6 +68,8 @@ References:
 
 .. [10] `Go 反射实践及剖析 - 文章 - 伯乐在线 <http://blog.jobbole.com/108601/>`_
 .. [11] `Could anyone help me with some reflection voodoo please? : golang <https://www.reddit.com/r/golang/comments/66qwet/could_anyone_help_me_with_some_reflection_voodoo/>`_
+.. [12] | `Go Reflection: Creating Objects from Types — Part I (Primitive Types) : golang <https://www.reddit.com/r/golang/comments/7l4boc/go_reflection_creating_objects_from_types_part_i/>`_
+        | `Go Reflection: Creating Objects from Types — Part I (Primitive Types) <https://medium.com/kokster/go-reflection-creating-objects-from-types-part-i-primitive-types-6119e3737f5d>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

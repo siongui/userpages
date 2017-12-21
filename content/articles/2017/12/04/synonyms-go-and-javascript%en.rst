@@ -2,7 +2,7 @@ Synonyms - Go and JavaScript
 ############################
 
 :date: 2017-12-07T21:47+08:00
-:modified: 2017-12-20T23:16+08:00
+:modified: 2017-12-21T22:18+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM, JavaScript,
        Frontend Programming in Go
 :category: Frontend Programming in Go
@@ -67,7 +67,6 @@ window_ object
 
   Window
 
-.. adsu:: 3
 
 ----
 
@@ -93,6 +92,36 @@ window_ object
 
   Window.Alert("Hello World")
 
+
+----
+
+
+`setTimeout()`_ method
+++++++++++++++++++++++
+
+**JavaScript**
+
+.. code-block:: javascript
+
+  setTimeout(function() {
+    console.log("3 seconds timeout");
+  }, 3000);
+
+
+**Go (or GopherJS)**
+
+.. code-block:: go
+
+  import "time"
+
+  time.AfterFunc(3*time.Second, func() {
+  	println("3 seconds timeout")
+  })
+
+.. rubric:: `Run Code on GopherJS Playground <https://gopherjs.github.io/playground/#/LjCARICREZ>`__
+   :class: align-center
+
+.. adsu:: 3
 
 ----
 
@@ -216,8 +245,6 @@ querySelectorAll
   	// do something with the element
   }
 
-.. adsu:: 5
-
 
 ----
 
@@ -284,7 +311,6 @@ innerHTML
   // get innerHTML
   println(element.InnerHTML())
 
-.. adsu:: 6
 
 ----
 
@@ -356,6 +382,8 @@ addEventListener
   element.AddEventListener("click", func(e Event) {
   	// do something here
   })
+
+.. adsu:: 5
 
 ----
 
@@ -563,6 +591,8 @@ classList Property
   element.ClassList().Contains("invisible")
 
 
+.. adsu:: 6
+
 ----
 
 References:
@@ -588,6 +618,7 @@ References:
 .. _GopherJS bindings for the JavaScript DOM APIs: https://godoc.org/honnef.co/go/js/dom
 .. _DOM: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
 .. _alert(): http://www.w3schools.com/jsref/met_win_alert.asp
+.. _setTimeout(): https://www.google.com/search?q=setTimeout
 .. _navigator: https://developer.mozilla.org/en-US/docs/Web/API/Navigator
 .. _NavigatorLanguage: https://developer.mozilla.org/en-US/docs/Web/API/NavigatorLanguage
 .. _getElementById(): https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
