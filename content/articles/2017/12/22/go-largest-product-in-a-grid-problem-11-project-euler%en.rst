@@ -2,6 +2,7 @@
 ###############################################################
 
 :date: 2017-12-22T23:19+08:00
+:modified: 2017-12-23T23:32+08:00
 :tags: Go, Golang, Algorithm, Math, Project Euler, Type Casting, Type Conversion
 :category: Go
 :summary: Go solution to Largest product in a grid
@@ -42,11 +43,11 @@
 
 **Solution**:
 
-  66 x 91 x 88 x 97 = 51267216
+  87 x 97 x 94 x 89 = 70600674
 
-  First number located at (6, 15) (zero based indexing)
+  First number located at (15, 3) (zero based indexing)
 
-  direction:  up-down
+  direction: right*up to left*down
 
 ..
   .. rubric:: `Run Code on Go Playground <>`__
@@ -174,17 +175,17 @@
 
   	// diagonal: right*up to left*down
   	for i := 3; i <= 19; i++ {
-  		for j := 3; j <= 19; j++ {
-  			prd := grid[i][j] * grid[i-1][j-1] * grid[i-2][j-2] * grid[i-3][j-3]
+  		for j := 0; j <= 16; j++ {
+  			prd := grid[i][j] * grid[i-1][j+1] * grid[i-2][j+2] * grid[i-3][j+3]
   			if prd > max {
   				max = prd
   				maxi = i
   				maxj = j
   				direction = "right*up to left*down"
   				a = grid[i][j]
-  				b = grid[i-1][j-1]
-  				c = grid[i-2][j-2]
-  				d = grid[i-3][j-3]
+  				b = grid[i-1][j+1]
+  				c = grid[i-2][j+2]
+  				d = grid[i-3][j+3]
   			}
   		}
   	}
