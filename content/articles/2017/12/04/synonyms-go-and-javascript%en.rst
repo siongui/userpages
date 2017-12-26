@@ -2,7 +2,7 @@ Synonyms - Go and JavaScript
 ############################
 
 :date: 2017-12-07T21:47+08:00
-:modified: 2017-12-21T22:18+08:00
+:modified: 2017-12-26T23:16+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM, JavaScript,
        Frontend Programming in Go
 :category: Frontend Programming in Go
@@ -592,6 +592,42 @@ classList Property
 
 
 .. adsu:: 6
+
+
+Navigator Language API
+++++++++++++++++++++++
+
+**JavaScript**
+
+.. code-block:: javascript
+
+  // preferred language of the user, string type
+  console.log(navigator.language);
+
+  // languages known to the user, array type
+  console.log(navigator.languages);
+
+
+**GopherJS**
+
+.. code-block:: go
+
+  // preferred language of the user, cast as string
+  println(js.Global.Get("navigator").Get("language").String())
+
+  // languages known to the user, also cast as string
+  println(js.Global.Get("navigator").Get("languages").String())
+
+
+**GopherJS + godom**
+
+.. code-block:: go
+
+  // preferred language of the user, string type
+  println(Window.Navigator().Language())
+
+  // languages known to the user, string type
+  println(Window.Navigator().Languages())
 
 ----
 
