@@ -2,11 +2,12 @@ Synonyms - Go and JavaScript
 ############################
 
 :date: 2017-12-07T21:47+08:00
-:modified: 2017-12-26T23:16+08:00
+:modified: 2017-12-28T23:39+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM, JavaScript,
        Frontend Programming in Go
 :category: Frontend Programming in Go
 :summary: Synonyms - Go_/GopherJS_ idioms and snippets translated to JavaScript_
+:og_image: https://pbs.twimg.com/profile_images/605816243870760960/4hP2sH_O.png
 :adsu: yes
 
 
@@ -628,6 +629,28 @@ Navigator Language API
 
   // languages known to the user, string type
   println(Window.Navigator().Languages())
+
+
+null Check
+++++++++++
+
+**JavaScript**
+
+.. code-block:: javascript
+
+  if (value === null) {
+      // do something
+  }
+
+
+**GopherJS**
+
+.. code-block:: go
+
+  if value == nil {
+  	// do something
+  }
+
 
 ----
 

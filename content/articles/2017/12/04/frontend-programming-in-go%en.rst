@@ -2,7 +2,7 @@ Frontend Programming in Go
 ##########################
 
 :date: 2017-12-04T22:06+08:00
-:modified: 2017-12-26T23:10+08:00
+:modified: 2017-12-28T23:38+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go
 :category: Frontend Programming in Go
 :summary: Discuss why I choose Go to be my frontend programming language. Wirte
@@ -105,6 +105,7 @@ browsers. If any advices, please leave your comments on GitHub!
 - `HTML Element classList Property in Go`_
 - `setTimeout method in Go`_
 - `Detect Browser Language Preference in Go`_
+- `JavaScript null Check in Go`_
 - References: `Synonyms - Go and JavaScript`_
 
 .. adsu:: 3
@@ -144,3 +145,4 @@ References:
 .. _HTML Element classList Property in Go: {filename}html-element-classlist-property-in-go%en.rst
 .. _setTimeout method in Go: {filename}settimeout-in-go%en.rst
 .. _Detect Browser Language Preference in Go: {filename}detect-browser-language-preference-in-go%en.rst
+.. _JavaScript null Check in Go: {filename}js-null-test-in-go%en.rst
