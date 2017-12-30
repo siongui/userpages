@@ -2,7 +2,7 @@ Synonyms - Go and JavaScript
 ############################
 
 :date: 2017-12-07T21:47+08:00
-:modified: 2017-12-28T23:39+08:00
+:modified: 2017-12-30T23:40+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM, JavaScript,
        Frontend Programming in Go
 :category: Frontend Programming in Go
@@ -650,6 +650,33 @@ null Check
   if value == nil {
   	// do something
   }
+
+.. rubric:: `Run Code on GopherJS Playground <https://gopherjs.github.io/playground/#/59HcuBcHOk>`__
+   :class: align-center
+
+
+undefined Check
++++++++++++++++
+
+**JavaScript**
+
+.. code-block:: javascript
+
+  if (something === undefined) {
+      // do something
+  }
+
+
+**GopherJS**
+
+.. code-block:: go
+
+  if something == js.Undefined {
+  	// do something
+  }
+
+.. rubric:: `Run Code on GopherJS Playground <http://www.gopherjs.org/playground/#/Kxr4h5nxBQ>`__
+   :class: align-center
 
 
 ----

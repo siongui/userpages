@@ -5,7 +5,7 @@
 :tags: Go, Golang, Algorithm, Math, Project Euler
 :category: Go
 :summary: Go solution to Power digit sum
-          - Problem 13 - Project Euler.
+          - Problem 16 - Project Euler.
 :og_image: https://1.bp.blogspot.com/-ydH-Xt4GCcs/WeMutBBXP9I/AAAAAAAABnU/z6QSzNX_XUk3uin6NaTuhTsCkxV4-z0dgCLcBGAs/s1600/javamultiplex-solution-of-project-euler-problem-16-in-java.png
 :adsu: yes
 
