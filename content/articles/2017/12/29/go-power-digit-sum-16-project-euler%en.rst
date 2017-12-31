@@ -2,7 +2,7 @@
 #####################################################
 
 :date: 2017-12-29T23:44+08:00
-:tags: Go, Golang, Algorithm, Math, Project Euler
+:tags: Go, Golang, Algorithm, Math, Project Euler, Large Integer Arithmetic
 :category: Go
 :summary: Go solution to Power digit sum
           - Problem 16 - Project Euler.

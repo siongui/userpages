@@ -2,7 +2,7 @@
 ###############################################
 
 :date: 2017-12-24T23:35+08:00
-:tags: Go, Golang, Algorithm, Math, Project Euler
+:tags: Go, Golang, Algorithm, Math, Project Euler, Large Integer Arithmetic
 :category: Go
 :summary: Go solution to Large sum
           - Problem 13 - Project Euler.
