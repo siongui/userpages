@@ -39,7 +39,8 @@ Open your console and you will know if your browser support it or not.
 GopherJS
 ++++++++
 
-The above code in Go/GopherJS is as follows:
+GopherJS provides `js.Undefined`_ Object for undefined test. The above code in
+Go/GopherJS is as follows:
 
 .. code-block:: go
 
@@ -78,3 +79,4 @@ References:
 .. _Go: https://golang.org/
 .. _godom: https://github.com/siongui/godom
 .. _on my GitHub: https://github.com/siongui/frontend-programming-in-go/tree/master/015-javascript-undefined-test
+.. _js.Undefined: https://godoc.org/github.com/gopherjs/gopherjs/js#Object
