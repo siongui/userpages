@@ -38,6 +38,11 @@
   (託管於 `GitHub Pages <https://pages.github.com/>`_,
   `原始碼 <https://github.com/siongui/userpages>`_)
 
+學歷：
+
+- 學士， `國立臺灣大學電機工程學系`_ 2003
+- 碩士， `國立臺灣大學電機工程學研究所`_ (計算機科學組) 2005
+
 推薦:
 
   `巴蓬寺 <http://www.watnongpahpong.org/indexe.php>`_
@@ -65,3 +70,5 @@
 `Github 視覺化 <http://artzub.com/ghv/#user=siongui>`_ /
 `GitHub 獎 <http://github-awards.com/users/siongui>`_
 
+.. _國立臺灣大學電機工程學系: https://www.ee.ntu.edu.tw/
+.. _國立臺灣大學電機工程學研究所: http://graduate.ee.ntu.edu.tw/

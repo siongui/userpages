@@ -38,6 +38,12 @@ Blog:
   (hosted on `GitHub Pages <https://pages.github.com/>`_,
   `source code <https://github.com/siongui/userpages>`_)
 
+Education:
+
+- **B.S.**, `Electrical Engineering`_, `National Taiwan University`_ 2003
+- **M.S.**, `Electrical Engineering`_, `National Taiwan University`_
+  (Computer Science Graduate Group) 2005
+
 Recommended:
 
   `Wat Nong Pah Pong <http://www.watnongpahpong.org/indexe.php>`_
@@ -67,3 +73,5 @@ Statistics:
 `Github Visualizer <http://artzub.com/ghv/#user=siongui>`_ /
 `GitHub Awards <http://github-awards.com/users/siongui>`_
 
+.. _National Taiwan University: http://www.ntu.edu.tw/english/
+.. _Electrical Engineering: https://www.ee.ntu.edu.tw/en/

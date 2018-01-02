@@ -149,4 +149,3 @@ References:
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
 .. _Go Playground: https://play.golang.org/
-.. _strconv.Atoi: https://golang.org/pkg/strconv/#Atoi

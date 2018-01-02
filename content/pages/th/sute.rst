@@ -38,6 +38,11 @@
   (เป็นเจ้าภาพใน `GitHub Pages <https://pages.github.com/>`_,
   `รหัสแหล่งที่มา <https://github.com/siongui/userpages>`_)
 
+การศึกษา
+
+- **B.S.**, `วิศวกรรมไฟฟ้า`_, `มหาวิทยาลัยแห่งชาติไต้หวัน`_ 2003
+- **B.S.**, `วิศวกรรมไฟฟ้า`_, `มหาวิทยาลัยแห่งชาติไต้หวัน`_ 2005
+
 แนะนำ:
 
   `วัดหนองป่าพง <http://www.watnongpahpong.org/>`_
@@ -60,3 +65,5 @@
 `Github Visualizer <http://artzub.com/ghv/#user=siongui>`_ /
 `GitHub Awards <http://github-awards.com/users/siongui>`_
 
+.. _มหาวิทยาลัยแห่งชาติไต้หวัน: https://th.wikipedia.org/wiki/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B9%84%E0%B8%95%E0%B9%89%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%99
+.. _วิศวกรรมไฟฟ้า: https://www.ee.ntu.edu.tw/en/
