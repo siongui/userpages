@@ -2,7 +2,7 @@
 ########################################
 
 :date: 2017-12-23T23:27+08:00
-:modified: 2017-12-24T22:04+08:00
+:modified: 2018-01-03T23:41+08:00
 :tags: Go, Golang, Algorithm, Math, Project Euler, Large Integer Arithmetic
 :category: Go
 :summary: Addition of big natural numbers in Go. This is for very large positive
@@ -25,7 +25,7 @@
   After some googling [2]_, I found the tutorial [3]_ which shows how to perform
   large integer addition. The following is Go implementation of the algorithm.
 
-.. rubric:: `Run Code on Go Playground <https://play.golang.org/p/6iYQUSFRDpp>`__
+.. rubric:: `Run Code on Go Playground <https://play.golang.org/p/NqZsv2eTGZQ>`__
    :class: align-center
 
 .. code-block:: go
@@ -104,13 +104,49 @@
   	return
   }
 
+  func PositiveIntToString(a [MaxDigits]int) (result string) {
+  	isLeadingZero := true
+  	for i := MaxDigits - 1; i >= 0; i-- {
+  		if isLeadingZero && a[i] == 0 {
+  			continue
+  		} else {
+  			isLeadingZero = false
+  			switch a[i] {
+  			case 0:
+  				result += "0"
+  			case 1:
+  				result += "1"
+  			case 2:
+  				result += "2"
+  			case 3:
+  				result += "3"
+  			case 4:
+  				result += "4"
+  			case 5:
+  				result += "5"
+  			case 6:
+  				result += "6"
+  			case 7:
+  				result += "7"
+  			case 8:
+  				result += "8"
+  			case 9:
+  				result += "9"
+  			default:
+  				panic("invalid digit in int array")
+  			}
+  		}
+  	}
+  	return
+  }
+
   func main() {
   	a := MakePositiveInt(`37107287533902102798797998220837590246510135740250`)
   	b := MakePositiveInt(`46376937677490009712648124896970078050417018260538`)
   	c := AddPositiveInt(a, b)
-  	fmt.Println(a)
-  	fmt.Println(b)
-  	fmt.Println(c)
+  	fmt.Println(PositiveIntToString(a))
+  	fmt.Println(PositiveIntToString(b))
+  	fmt.Println(PositiveIntToString(c))
   }
 
 .. adsu:: 2
