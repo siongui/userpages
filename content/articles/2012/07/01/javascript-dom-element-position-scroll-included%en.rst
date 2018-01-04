@@ -71,6 +71,7 @@ References:
 .. [11] `.position() – jQuery API <http://api.jquery.com/position/>`_
 
 .. [12] `.offset() – jQuery API <http://api.jquery.com/offset/>`_
+.. [13] `Get the position of an element relative to the document <https://plainjs.com/javascript/styles/get-the-position-of-an-element-relative-to-the-document-24/>`_
 
 .. _CSS margin property: http://www.w3schools.com/css/css_margin.asp
 .. _JavaScript: https://www.google.com/search?q=JavaScript

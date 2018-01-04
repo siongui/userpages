@@ -2,6 +2,7 @@
 ##################################################
 
 :date: 2018-01-04T04:31+08:00
+:modified: 2018-01-05T00:44+08:00
 :tags: Tooltip, JavaScript, mouseenter, mouseleave, element offset, DOM,
        element position
 :category: JavaScript
@@ -56,8 +57,8 @@ with underline:
     var key = elm.textContent;
     if (notes.hasOwnProperty(key)) {
       tooltip.textContent = notes[key];
-      tooltip.style.left = elm.offsetLeft + 'px';
-      tooltip.style.top = (elm.offsetTop + elm.offsetHeight + 5) + 'px';
+      tooltip.style.left = elm.getBoundingClientRect().left + window.pageXOffset + 'px';
+      tooltip.style.top = (elm.getBoundingClientRect().top + window.pageYOffset + elm.offsetHeight + 5) + 'px';
       tooltip.classList.remove("invisible");
     }
   }
@@ -133,8 +134,8 @@ Then add the following to your JavaScript code:
     var key = elm.textContent;
     if (notes.hasOwnProperty(key)) {
       tooltip.textContent = notes[key];
-      tooltip.style.left = elm.offsetLeft + 'px';
-      tooltip.style.top = (elm.offsetTop + elm.offsetHeight + 5) + 'px';
+      tooltip.style.left = elm.getBoundingClientRect().left + window.pageXOffset + 'px';
+      tooltip.style.top = (elm.getBoundingClientRect().top + window.pageYOffset + elm.offsetHeight + 5) + 'px';
       tooltip.classList.remove("invisible");
     }
   }
@@ -175,6 +176,7 @@ Tested on: ``Chromium Version 63.0.3239.84 (Official Build) Built on Ubuntu , ru
 **References**:
 
 .. [1] `Pure CSS Tooltip and JavaScript Implementation <{filename}../../../2017/03/04/css-only-tooltip-and-javascript-implementation%en.rst>`_
+.. [2] `JavaScript DOM Element Position (Scroll Position Included) <{filename}../../../2012/07/01/javascript-dom-element-position-scroll-included%en.rst>`_
 
 .. _CSS: https://www.google.com/search?q=CSS
 .. _tooltip: https://www.google.com/search?q=tooltip
