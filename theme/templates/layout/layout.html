@@ -18,7 +18,7 @@
   {%- if OG_IMAGE -%}
     <meta property="og:image" content="{{ OG_IMAGE }}" />
   {% else %}
-    <meta property="og:image" content="{{ SITEURL }}/extra/Dharma_wheel.svg" />
+    <meta property="og:image" content="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/extra/Dharma_wheel.svg" />
   {%- endif -%}
   {%- if OG_DESCRIPTION -%}<meta property="og:description" content="{{ OG_DESCRIPTION }}" />{%- endif -%}
 
