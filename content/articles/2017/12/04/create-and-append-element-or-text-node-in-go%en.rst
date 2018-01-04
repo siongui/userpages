@@ -7,6 +7,7 @@ Create and Append Element or Text Node in Go
 :summary: Create and append DOM element or text node in Go/GopherJS.
           Show how to use *createElement*, *createTextNode*, and *appendChild*
           methods.
+:og_image: https://image.slidesharecdn.com/introductiontojscnt-170123115538/95/introduction-to-js-cnt-14-638.jpg
 :adsu: yes
 
 

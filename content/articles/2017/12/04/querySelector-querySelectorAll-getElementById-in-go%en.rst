@@ -6,6 +6,7 @@ querySelector, querySelectorAll, getElementById in Go
 :category: Frontend Programming in Go
 :summary: Show how to use *querySelector*, *querySelectorAll*, *getElementById*
           in Go/GopherJS.
+:og_image: http://blog.guinatal.com/wp-content/uploads/2015/05/getElementById.png
 :adsu: yes
 
 

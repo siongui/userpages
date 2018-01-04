@@ -5,6 +5,7 @@ Keyboard Event (Arrow Keys) in Go
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go
 :category: Frontend Programming in Go
 :summary: Detect user keypress on browsers in Go/GopherJS.
+:og_image: http://www.101computing.net/wp/wp-content/uploads/arrowKeys-300x205.png
 :adsu: yes
 
 

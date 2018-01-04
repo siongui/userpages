@@ -6,6 +6,7 @@ HTML Element style Property in Go
 :category: Frontend Programming in Go
 :summary: Set/Get inline style of a HTML element via *style* property in
           Go/GopherJS.
+:og_image: https://image.slidesharecdn.com/html-hr-141030053650-conversion-gate01/95/html-hr-10-638.jpg
 :adsu: yes
 
 

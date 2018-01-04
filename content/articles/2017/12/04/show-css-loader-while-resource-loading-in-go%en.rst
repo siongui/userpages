@@ -6,6 +6,7 @@ Show CSS Loader While Resource Loading in Go
 :category: Frontend Programming in Go
 :summary: Show CSS loading spinner while resources of the website are loading
           in Go/GopherJS.
+:og_image: https://i.ytimg.com/vi/T18GJxv8p8Y/maxresdefault.jpg
 :adsu: yes
 
 When we are writing web applications, the time for loading resources becomes

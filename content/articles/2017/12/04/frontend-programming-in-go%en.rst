@@ -2,7 +2,7 @@ Frontend Programming in Go
 ##########################
 
 :date: 2017-12-04T22:06+08:00
-:modified: 2018-01-01T23:43+08:00
+:modified: 2018-01-05T05:07+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go
 :category: Frontend Programming in Go
 :summary: Discuss why I choose Go to be my frontend programming language. Wirte
@@ -109,6 +109,7 @@ browsers. If any advices, please leave your comments on GitHub!
 - `Detect Browser Language Preference in Go`_
 - `JavaScript null Check in Go`_
 - `JavaScript undefined Check in Go`_
+- `Element Position (Scroll Included) in Go`_
 
 **Application**:
 
@@ -158,3 +159,4 @@ References:
 .. _JavaScript null Check in Go: {filename}js-null-test-in-go%en.rst
 .. _JavaScript undefined Check in Go: {filename}js-undefined-test-in-go%en.rst
 .. _Show CSS Loader While Resource Loading in Go: {filename}show-css-loader-while-resource-loading-in-go%en.rst
+.. _Element Position (Scroll Included) in Go: {filename}element-position-scroll-included-in-go%en.rst

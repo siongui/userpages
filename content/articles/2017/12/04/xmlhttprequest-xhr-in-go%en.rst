@@ -7,6 +7,7 @@ XMLHttpRequest (XHR) in Go
 :category: Frontend Programming in Go
 :summary: Send data to servers or retrieve data from servers on browsers - Use
           *XMLHttpRequest* method in Go/GopherJS.
+:og_image: https://www.codeproject.com/KB/ajax/BackboneOfAjax/flow.jpg
 :adsu: yes
 
 

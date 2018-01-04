@@ -6,6 +6,7 @@ innerHTML and textContent in Go
 :category: Frontend Programming in Go
 :summary: Change the content of DOM element - Set and get *innerHTML* and
           *textContent* in Go/GopherJS.
+:og_image: http://images2015.cnblogs.com/blog/857662/201703/857662-20170324221341299-106276660.png
 :adsu: yes
 
 

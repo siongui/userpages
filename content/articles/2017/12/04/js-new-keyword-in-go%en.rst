@@ -6,6 +6,7 @@ JavaScript new Keyword in Go
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go
 :category: Frontend Programming in Go
 :summary: Show how to use JavaScript *new* keyword in Go/GopherJS.
+:og_image: https://image.slidesharecdn.com/objectorientedjavascript-140127141053-phpapp01-140622173638-phpapp01/95/object-oriented-javascript-part2-8-638.jpg?cb=1412221263
 :adsu: yes
 
 

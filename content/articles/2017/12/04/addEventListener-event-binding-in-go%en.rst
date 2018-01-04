@@ -6,6 +6,7 @@ Event Binding - addEventListener in Go
 :category: Frontend Programming in Go
 :summary: Event binding in Go/GopherJS - Register an event handler to the
           specified DOM element via *addEventListener* method.
+:og_image: https://cdn.tutsplus.com/active/uploads/legacy/flashtuts/074_EventListenersBasics/1.jpg
 :adsu: yes
 
 

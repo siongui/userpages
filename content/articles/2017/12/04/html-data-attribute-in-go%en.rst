@@ -5,6 +5,7 @@ HTML data-* Attribute in Go
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go, html
 :category: Frontend Programming in Go
 :summary: Access HTML data-* attributes of elements in Go/GopherJS.
+:og_image: https://image.slidesharecdn.com/html5-bootcamp-workshop-r5-131027191153-phpapp01/95/html5-bootcamp-essential-html-css-javascript-76-638.jpg
 :adsu: yes
 
 

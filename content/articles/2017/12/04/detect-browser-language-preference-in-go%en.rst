@@ -6,6 +6,7 @@ Detect Browser Language Preference in Go
        Locale
 :category: Frontend Programming in Go
 :summary: Know which language(s) users prefer on browsers in Go/GopherJS.
+:og_image: https://zzz.buzz/content/2016/01/navigator-languages-chrome.png
 :adsu: yes
 
 

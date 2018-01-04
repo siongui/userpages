@@ -6,6 +6,7 @@ setTimeout method in Go
 :category: Frontend Programming in Go
 :summary: Execute a function after waiting a specific length of time in
           Go/GopherJS.
+:og_image: https://javascript.info/article/settimeout-setinterval/settimeout-interval.png
 :adsu: yes
 
 

@@ -6,6 +6,7 @@ HTML Element classList Property in Go
 :category: Frontend Programming in Go
 :summary: Manipulate the *class* attribute of a HTML element via *classList*
           property in Go/GopherJS.
+:og_image: https://www.bennadel.com/resources/uploads/2017/dom-class-list-property.png
 :adsu: yes
 
 
