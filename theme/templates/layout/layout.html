@@ -15,7 +15,11 @@
   <meta name="description" content="{% block meta_description -%}{{ META_DESCRIPTION }}{%- endblock %}"/>
   <meta name="author" content="{% block meta_author -%}{{ AUTHOR }}{%- endblock %}"/>
   {%- if OG_TITLE -%}<meta property="og:title" content="{{ OG_TITLE }}" />{%- endif -%}
-  {%- if OG_IMAGE -%}<meta property="og:image" content="{{ OG_IMAGE }}" />{%- endif -%}
+  {%- if OG_IMAGE -%}
+    <meta property="og:image" content="{{ OG_IMAGE }}" />
+  {% else %}
+    <meta property="og:image" content="{{ SITEURL }}/extra/Dharma_wheel.svg" />
+  {%- endif -%}
   {%- if OG_DESCRIPTION -%}<meta property="og:description" content="{{ OG_DESCRIPTION }}" />{%- endif -%}
 
   <meta name="viewport" content="width=device-width, initial-scale=1">

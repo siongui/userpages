@@ -43,6 +43,11 @@
 - 學士， `國立臺灣大學電機工程學系`_ 2003
 - 碩士， `國立臺灣大學電機工程學研究所`_ (計算機科學組) 2005
 
+經歷：
+
+- IBM 台灣,
+  Software Engineer · 2005年11月 to 2010年2月 · 臺灣，臺北
+
 推薦:
 
   `巴蓬寺 <http://www.watnongpahpong.org/indexe.php>`_

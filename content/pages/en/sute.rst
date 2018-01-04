@@ -44,6 +44,11 @@ Education:
 - **M.S.**, `Electrical Engineering`_, `National Taiwan University`_
   (Computer Science Graduate Group) 2005
 
+Experience:
+
+- IBM Taiwan,
+  Software Engineer · November 2005 to February 2010 · Taipei, Taiwan
+
 Recommended:
 
   `Wat Nong Pah Pong <http://www.watnongpahpong.org/indexe.php>`_
