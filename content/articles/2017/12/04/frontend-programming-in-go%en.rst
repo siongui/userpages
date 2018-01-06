@@ -2,7 +2,7 @@ Frontend Programming in Go
 ##########################
 
 :date: 2017-12-04T22:06+08:00
-:modified: 2018-01-05T05:07+08:00
+:modified: 2018-01-07T04:14+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go
 :category: Frontend Programming in Go
 :summary: Discuss why I choose Go to be my frontend programming language. Wirte
@@ -114,6 +114,7 @@ browsers. If any advices, please leave your comments on GitHub!
 **Application**:
 
 - `Show CSS Loader While Resource Loading in Go`_
+- `Tooltip in Go`_
 
 **References**:
 
@@ -160,3 +161,4 @@ References:
 .. _JavaScript undefined Check in Go: {filename}js-undefined-test-in-go%en.rst
 .. _Show CSS Loader While Resource Loading in Go: {filename}show-css-loader-while-resource-loading-in-go%en.rst
 .. _Element Position (Scroll Included) in Go: {filename}element-position-scroll-included-in-go%en.rst
+.. _Tooltip in Go: {filename}tooltip-in-go%en.rst
