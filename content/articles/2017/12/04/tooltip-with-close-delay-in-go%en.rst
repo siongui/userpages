@@ -1,20 +1,24 @@
-Tooltip in Go
-#############
+Tooltip with Close Delay in Go
+##############################
 
-:date: 2018-01-07T04:14+08:00
+:date: 2018-01-09T22:51+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go, CSS,
        Tooltip, mouseenter, mouseleave, element offset, DOM, element position
 :category: Frontend Programming in Go
-:summary: Simple tooltip implementation via Go/GopherJS.
+:summary: Show tooltip when the cursor hovers over the text, and close the
+          tooltip with delay if the cursor is not in the tooltip
+          via Go/GopherJS.
 :og_image: http://freefrontend.com/assets/img/css-tooltips/automation-tooltips-with-simple-data-attributes.png
 :adsu: yes
 
 
-Simple tooltip implementation in Go/GopherJS. This is actually the Go/GopherJS
-translation of my previous post `[JavaScript] Tooltip`_ [1]_.
-Please read my previous post and see the demo first. Here I only show the Go
-code of the implementation. The HTML/CSS code are the same as that in my
-previous post.
+Show tooltip when the cursor hovers over the text, and close the tooltip with
+delay if the cursor is not in the tooltip via Go/GopherJS.
+This is actually the Go/GopherJS translation of my previous post
+`[JavaScript] Tooltip with Close Delay`_ [1]_.
+Please read my previous post and see the demo first.
+Here I only show the Go code of the implementation. The HTML/CSS code are the
+same as that in my previous post.
 The full code example of this post is `on my GitHub`_.
 
 .. code-block:: go
@@ -24,9 +28,17 @@ The full code example of this post is `on my GitHub`_.
   import (
   	. "github.com/siongui/godom"
   	"strconv"
+  	"time"
   )
 
   var tooltip *Object
+
+  // indicate if the mouse cursor is in the tooltip
+  var isCursorInTooltip = false
+
+  // when cursor leaves the text, the delay time to close the tooltip if the
+  // cursor is not in the tooltip. (milisecond)
+  var delay = 250 * time.Millisecond
 
   func GetPosition(elm *Object) (x, y float64) {
   	x = elm.GetBoundingClientRect().Left() + Window.PageXOffset()
@@ -39,6 +51,15 @@ The full code example of this post is `on my GitHub`_.
   	tooltip = Document.CreateElement("div")
   	tooltip.ClassList().Add("tooltip")
   	tooltip.ClassList().Add("invisible")
+
+  	tooltip.AddEventListener("mouseenter", func(e Event) {
+  		isCursorInTooltip = true
+  	})
+  	tooltip.AddEventListener("mouseleave", func(e Event) {
+  		isCursorInTooltip = false
+  		tooltip.ClassList().Add("invisible")
+  	})
+
   	Document.QuerySelector("body").AppendChild(tooltip)
   }
 
@@ -58,7 +79,11 @@ The full code example of this post is `on my GitHub`_.
 
   // event handler for mouseleave event of elements with data-descr attribute
   func HideTooltip(e Event) {
-  	tooltip.ClassList().Add("invisible")
+  	time.AfterFunc(delay, func() {
+  		if !isCursorInTooltip {
+  			tooltip.ClassList().Add("invisible")
+  		}
+  	})
   }
 
   func main() {
@@ -92,9 +117,8 @@ is all the same.
 
 References:
 
-.. [1] `[JavaScript] Tooltip <{filename}../../../2018/01/06/javascript-tooltip%en.rst>`_
-.. [2] `Element Position (Scroll Included) in Go <{filename}element-position-scroll-included-in-go%en.rst>`_
+.. [1] `[JavaScript] Tooltip with Close Delay <{filename}../../../2018/01/08/javascript-tooltip-with-close-delay%en.rst>`_
 
 .. _godom: https://github.com/siongui/godom
-.. _on my GitHub: https://github.com/siongui/frontend-programming-in-go/tree/master/018-tooltip
-.. _[JavaScript] Tooltip: {filename}../../../2018/01/06/javascript-tooltip%en.rst
+.. _on my GitHub: https://github.com/siongui/frontend-programming-in-go/tree/master/019-tooltip-with-close-delay
+.. _[JavaScript] Tooltip with Close Delay: {filename}../../../2018/01/08/javascript-tooltip-with-close-delay%en.rst
