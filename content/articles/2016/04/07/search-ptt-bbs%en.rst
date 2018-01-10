@@ -2,7 +2,7 @@ Search PTT BBS
 ##############
 
 :date: 2016-04-07T06:33+08:00
-:tags: JavaScript, Copy to Clipboard
+:tags: JavaScript, Copy to Clipboard, Online Toolkit
 :category: JavaScript
 :summary: Search PTT_ BBS_.
 :adsu: yes

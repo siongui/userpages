@@ -3,7 +3,7 @@ Basic HTML Table to reStructuredText Support for HTML2RST service on GAE Go
 
 :date: 2016-05-15T22:10+08:00
 :tags: Go, Golang, Golang template, Go net/http, Web Scrape, reStructuredText,
-       Copy to Clipboard, Go net/html, Google App Engine, DOM
+       Copy to Clipboard, Go net/html, Google App Engine, DOM, Online Toolkit
 :category: Google App Engine
 :summary: Add basic `HTML table`_ to reStructuredText_ support for
           `online HTML to reStructuredText service`_ on `Google App Engine Go`_.

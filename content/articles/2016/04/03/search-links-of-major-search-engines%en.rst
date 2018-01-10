@@ -3,7 +3,8 @@ Search Links of Major Search Engines
 
 :date: 2016-04-03T21:51+08:00
 :modified: 2017-02-24T22:14+08:00
-:tags: JavaScript, reStructuredText, Copy to Clipboard
+:tags: JavaScript, reStructuredText, Copy to Clipboard, Online Toolkit,
+       String Manipulation, Regular Expression
 :category: JavaScript
 :summary: Search links of major search engines - Google_, DuckDuckGo_, Bing_,
           Yahoo_, Baidu_, Yandex_, Ecosia_, Qwant_.

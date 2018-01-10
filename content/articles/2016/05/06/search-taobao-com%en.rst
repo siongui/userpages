@@ -2,7 +2,7 @@ Search Taobao.com
 #################
 
 :date: 2016-05-06T22:36+08:00
-:tags: JavaScript, Copy to Clipboard
+:tags: JavaScript, Copy to Clipboard, Online Toolkit
 :category: JavaScript
 :summary: Search Taobao.com_.
 :adsu: yes

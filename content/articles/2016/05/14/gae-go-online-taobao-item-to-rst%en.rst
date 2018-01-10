@@ -3,7 +3,8 @@ Online Taobao Item to reStructuredText Image on Google App Engine Go
 
 :date: 2016-05-14T23:01+08:00
 :tags: Go, Golang, Golang template, Go net/http, Web Scrape, reStructuredText,
-       Copy to Clipboard, Go net/html, Google App Engine, DOM, Go net/url
+       Copy to Clipboard, Go net/html, Google App Engine, DOM, Go net/url,
+       Online Toolkit
 :category: Google App Engine
 :summary: Online service on `Google App Engine Go`_, which helps you extract
           title, image URL from Taobao_ item webpage, and output in

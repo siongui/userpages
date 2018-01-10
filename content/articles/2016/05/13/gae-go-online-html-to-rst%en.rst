@@ -3,7 +3,7 @@ Online HTML to reStructuredText on Google App Engine Go
 
 :date: 2016-05-13T21:27+08:00
 :tags: Go, Golang, Golang template, Go net/http, Web Scrape, reStructuredText,
-       Copy to Clipboard, Go net/html, Google App Engine, DOM
+       Copy to Clipboard, Go net/html, Google App Engine, DOM, Online Toolkit
 :category: Google App Engine
 :summary: Online HTML_ to reStructuredText_ service on `Google App Engine Go`_.
 :adsu: yes
