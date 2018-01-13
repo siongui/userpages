@@ -2,6 +2,7 @@
 ################################################
 
 :date: 2018-01-10T03:31+08:00
+:modified: 2018-01-13T22:03+08:00
 :tags: Go, Golang, Algorithm, Math, Project Euler, Type Casting, Type Conversion
 :category: Go
 :summary: Spell numbers from 1 to 1000 in English via Go programming language.
@@ -21,18 +22,18 @@
   See the following code:
 
 
-.. rubric:: `Run Code on Go Playground <https://play.golang.org/p/yODRXUh_GmE>`__
+.. .. rubric:: `Run Code on Go Playground <https://play.golang.org/p/yODRXUh_GmE>`__
+.. rubric:: `Run Code on Go Playground <https://play.golang.org/p/9JxAGWvigrq>`__
    :class: align-center
 
 .. code-block:: go
 
   package main
-
+  
   import (
   	"fmt"
-  	"strconv"
   )
-
+  
   var NumberToWord = map[int]string{
   	1:  "one",
   	2:  "two",
@@ -62,46 +63,22 @@
   	80: "eighty",
   	90: "ninety",
   }
-
-  func convert20to99(n, mod int) (w string) {
-  	if r := n % mod; r == 0 {
-  		w = NumberToWord[mod]
-  	} else {
-  		w = NumberToWord[mod] + "-" + NumberToWord[r]
-  	}
-  	return
-  }
-
+  
   func convert1to99(n int) (w string) {
   	if n < 20 {
   		w = NumberToWord[n]
   		return
   	}
-
-  	switch s := strconv.Itoa(n); s[0] {
-  	case '2':
-  		w = convert20to99(n, 20)
-  	case '3':
-  		w = convert20to99(n, 30)
-  	case '4':
-  		w = convert20to99(n, 40)
-  	case '5':
-  		w = convert20to99(n, 50)
-  	case '6':
-  		w = convert20to99(n, 60)
-  	case '7':
-  		w = convert20to99(n, 70)
-  	case '8':
-  		w = convert20to99(n, 80)
-  	case '9':
-  		w = convert20to99(n, 90)
-  	default:
-  		panic("invalid")
+  
+  	r := n % 10
+  	if r == 0 {
+  		w = NumberToWord[n]
+  	} else {
+  		w = NumberToWord[n-r] + "-" + NumberToWord[r]
   	}
-
   	return
   }
-
+  
   func convert100to999(n int) (w string) {
   	q := n / 100
   	r := n % 100
@@ -113,12 +90,12 @@
   	}
   	return
   }
-
+  
   func Convert1to1000(n int) (w string) {
   	if n > 1000 || n < 1 {
   		panic("func Convert1to1000: n > 1000 or n < 1")
   	}
-
+  
   	if n < 100 {
   		w = convert1to99(n)
   		return
@@ -130,7 +107,7 @@
   	w = convert100to999(n)
   	return
   }
-
+  
   func main() {
   	for i := 1; i <= 1000; i++ {
   		fmt.Println(Convert1to1000(i))
