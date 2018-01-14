@@ -33,7 +33,7 @@ JavaScript.
     elm.innerHTML = elm.innerHTML.replace(/〈(.+)〉/g, function(text, str1) {
       if (textToUrlMapping.hasOwnProperty(str1)) {
         return '〈<a href="'+ textToUrlMapping[str1] +
-               '" targer="_blank">' + str1 +
+               '" target="_blank">' + str1 +
                '</a>〉';
       }
       return str1;
@@ -59,7 +59,7 @@ The following is the source code of the demo.
     elm.innerHTML = elm.innerHTML.replace(/〈(.+)〉/g, function(text, str1) {
       if (textToUrlMapping.hasOwnProperty(str1)) {
         return '〈<a href="'+ textToUrlMapping[str1] +
-               '" targer="_blank">' + str1 +
+               '" target="_blank">' + str1 +
                '</a>〉';
       }
       return str1;

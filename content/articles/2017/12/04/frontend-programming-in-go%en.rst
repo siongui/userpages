@@ -2,7 +2,7 @@ Frontend Programming in Go
 ##########################
 
 :date: 2017-12-04T22:06+08:00
-:modified: 2018-01-09T22:54+08:00
+:modified: 2018-01-14T23:15+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go
 :category: Frontend Programming in Go
 :summary: Discuss why I choose Go to be my frontend programming language. Wirte
@@ -116,6 +116,7 @@ browsers. If any advices, please leave your comments on GitHub!
 - `Show CSS Loader While Resource Loading in Go`_
 - `Tooltip in Go`_
 - `Tooltip with Close Delay in Go`_
+- `Convert Text to HTML Link in Go`_
 - `[GopherJS] WebSocket Client Example With Echo Server`_
 
 **References**:
@@ -165,4 +166,5 @@ References:
 .. _Element Position (Scroll Included) in Go: {filename}element-position-scroll-included-in-go%en.rst
 .. _Tooltip in Go: {filename}tooltip-in-go%en.rst
 .. _Tooltip with Close Delay in Go: {filename}tooltip-with-close-delay-in-go%en.rst
+.. _Convert Text to HTML Link in Go: {filename}convert-text-to-html-link-in-go%en.rst
 .. _[GopherJS] WebSocket Client Example With Echo Server: {filename}../../../2017/05/18/go-websocket-client-example-with-echo-server%en.rst
