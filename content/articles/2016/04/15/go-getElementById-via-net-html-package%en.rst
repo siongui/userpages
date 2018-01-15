@@ -31,6 +31,9 @@ Usage & Test:
 .. show_github_file:: siongui userpages content/code/go-net-html-getelementbyid/getelementbyid_test.go
 .. adsu:: 3
 
+.. rubric:: `Run Code on Go Playground <https://play.golang.org/p/Ykl4NAxrbsH>`__
+   :class: align-center
+
 ----
 
 Tested on: ``Ubuntu Linux 15.10``, ``Go 1.6.1``.
