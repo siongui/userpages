@@ -6,6 +6,7 @@
 :category: Go
 :summary: Equivalent of JavaScript_ getElementById_ via Go_ `net/html`_ package.
 :adsu: yes
+:og_image: http://www.homeandlearn.co.uk/JS/images/chapter_1/getElementById_2.gif
 
 
 Introduction

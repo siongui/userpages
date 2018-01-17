@@ -7,6 +7,7 @@
 :summary: Remove HTML inline style, i.e., remove *style* attribute from HTML
           node via Go *net/html* package.
 :adsu: yes
+:og_image: https://i.stack.imgur.com/k2PBF.png
 
 
 Remove HTML inline style, i.e., remove *style* attribute from HTML node via Go
