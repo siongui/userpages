@@ -2,10 +2,12 @@ Pure CSS Bootstrap Responsive Navbar (Navigation Bar)
 #####################################################
 
 :date: 2017-03-23T03:54+08:00
-:tags: CSS, Responsive Web Design, toggle, toggleable, html, Pure CSS Toggle
+:tags: CSS, Responsive Web Design, toggle, toggleable, html, Pure CSS Toggle,
+       navbar
 :category: CSS
 :summary: CSS_ only responsive Bootstrap_ `navbar`_ (`navigation bar`_) without
           JavaScript_. Toggle mobile menu with CSS only. No JavaScript required.
+:og_image: https://s3.envato.com/files/197871390/preview02.png
 :adsu: yes
 
 

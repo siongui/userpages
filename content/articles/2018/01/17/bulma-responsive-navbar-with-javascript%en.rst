@@ -2,7 +2,8 @@ JavaScript for Bulma Responsive Navbar
 ######################################
 
 :date: 2018-01-17T08:00+08:00
-:tags: CSS, Responsive Web Design, toggle, toggleable, html, JavaScript, Bulma
+:tags: CSS, Responsive Web Design, toggle, toggleable, html, JavaScript, Bulma,
+       navbar
 :category: CSS
 :summary: JavaScript code for Bulma responsive navbar, dropdown menu included.
           The code is extracted from Bulma official website.

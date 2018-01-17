@@ -2,7 +2,8 @@ Pure CSS Responsive Nav Bar via Flexbox
 #######################################
 
 :date: 2017-04-20T22:25+08:00
-:tags: CSS, Responsive Web Design, toggle, toggleable, html, Pure CSS Toggle
+:tags: CSS, Responsive Web Design, toggle, toggleable, html, Pure CSS Toggle,
+       navbar
 :category: CSS
 :summary: CSS only responsive *nav bar* (*navigation bar*) via *flexbox*.
           Toggle mobile menu with CSS only. No JavaScript required.

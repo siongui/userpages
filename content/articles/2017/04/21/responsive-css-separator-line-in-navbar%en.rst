@@ -2,7 +2,7 @@ Responsive CSS Divider in Nav Bar
 #################################
 
 :date: 2017-04-21T00:37+08:00
-:tags: CSS, Responsive Web Design, html
+:tags: CSS, Responsive Web Design, html, navbar
 :category: CSS
 :summary: Responsive CSS separator line in *nav bar* (*navigation bar*).
           The CSS divider is vertical on tablet/desktop/wide screen and becomes

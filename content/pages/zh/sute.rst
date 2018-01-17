@@ -12,8 +12,9 @@
 `臺灣 <http://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3>`_
 
 社交:
-`Google+ <https://plus.google.com/+SiongUiTe>`_ /
 `Facebook <https://www.facebook.com/siongui.te.5>`_ /
+`Instagram <https://www.instagram.com/sionguite/>`_ /
+`Google+ <https://plus.google.com/+SiongUiTe>`_ /
 `Github <https://github.com/siongui>`_ /
 `Gist <https://gist.github.com/siongui>`_ /
 `Stack Overflow <http://stackoverflow.com/users/2350927/siongui>`_
