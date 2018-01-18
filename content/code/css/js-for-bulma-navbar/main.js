@@ -2,26 +2,9 @@
 
 document.addEventListener('DOMContentLoaded', function () {
 
-  // Dropdowns
+  // Dropdowns in navbar
 
-  var $metalinks = getAll('#meta a');
-
-  if ($metalinks.length > 0) {
-    $metalinks.forEach(function ($el) {
-      $el.addEventListener('click', function (event) {
-        event.preventDefault();
-        var target = $el.getAttribute('href');
-        var $target = document.getElementById(target.substring(1));
-        $target.scrollIntoView(true);
-        // window.history.replaceState(null, document.title, `${window.location.origin}${window.location.pathname}${target}`);
-        return false;
-      });
-    });
-  }
-
-  // Dropdowns
-
-  var $dropdowns = getAll('.dropdown:not(.is-hoverable)');
+  var $dropdowns = getAll('.navbar-item.has-dropdown:not(.is-hoverable)');
 
   if ($dropdowns.length > 0) {
     $dropdowns.forEach(function ($el) {
