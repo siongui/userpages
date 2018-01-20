@@ -22,6 +22,7 @@ We will extract the following data from HTML:
 The following is complete source code:
 
 .. show_github_file:: siongui userpages content/code/go/scrape-blogger-post/parse.go
+.. adsu:: 2
 
 ----
 

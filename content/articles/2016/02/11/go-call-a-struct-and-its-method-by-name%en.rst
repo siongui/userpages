@@ -70,6 +70,8 @@ References:
 .. [11] `Could anyone help me with some reflection voodoo please? : golang <https://www.reddit.com/r/golang/comments/66qwet/could_anyone_help_me_with_some_reflection_voodoo/>`_
 .. [12] | `Go Reflection: Creating Objects from Types — Part I (Primitive Types) : golang <https://www.reddit.com/r/golang/comments/7l4boc/go_reflection_creating_objects_from_types_part_i/>`_
         | `Go Reflection: Creating Objects from Types — Part I (Primitive Types) <https://medium.com/kokster/go-reflection-creating-objects-from-types-part-i-primitive-types-6119e3737f5d>`_
+.. [13] | `Learning to Use Go Reflection – Capital One DevExchange – Medium : golang <https://www.reddit.com/r/golang/comments/7rjt1h/learning_to_use_go_reflection_capital_one/>`_
+        | `Learning to Use Go Reflection – Capital One DevExchange – Medium <https://medium.com/capital-one-developers/learning-to-use-go-reflection-822a0aed74b7>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

@@ -49,6 +49,8 @@
 - IBM Taiwan,
   Software Engineer · พฤศจิกายน 2548 ถึง ก.พ. 2553 · ไทเป, ไต้หวัน
 
+วันเกิด: ๒๑ กันยายน ๒๕๒๔
+
 แนะนำ:
 
   `วัดหนองป่าพง <http://www.watnongpahpong.org/>`_

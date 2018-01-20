@@ -49,6 +49,8 @@
 - IBM 台灣,
   Software Engineer · 2005年11月 to 2010年2月 · 臺灣，臺北
 
+生日： 一九八一年九月二十一日
+
 推薦:
 
   `巴蓬寺 <http://www.watnongpahpong.org/indexe.php>`_

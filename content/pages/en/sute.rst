@@ -50,6 +50,8 @@ Experience:
 - IBM Taiwan,
   Software Engineer · November 2005 to February 2010 · Taipei, Taiwan
 
+Birthday: September 21, 1981
+
 Recommended:
 
   `Wat Nong Pah Pong <http://www.watnongpahpong.org/indexe.php>`_
