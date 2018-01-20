@@ -3,6 +3,7 @@
 :tags: sute
 :summary: 關於 戴上為
 :lang: zh
+:og_image: https://avatars1.githubusercontent.com/u/2153023
 :status: hidden
 
 

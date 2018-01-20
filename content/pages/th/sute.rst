@@ -3,6 +3,7 @@
 :tags: sute
 :summary: เกี่ยวกับ ฉ่ง-หวี
 :lang: th
+:og_image: https://avatars1.githubusercontent.com/u/2153023
 :status: hidden
 
 
