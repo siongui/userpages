@@ -29,7 +29,7 @@ References:
 .. [1] `Navbar | Bulma: a modern CSS framework based on Flexbox <https://bulma.io/documentation/components/navbar/>`_
 .. [2] `https://bulma.io/lib/main.js?v=201801161752 <https://bulma.io/lib/main.js?v=201801161752>`_
 
-.. _Bulma: http://bulma.io/
+.. _Bulma: https://bulma.io/
 .. _navbar: https://bulma.io/documentation/components/navbar/
 .. _godom: https://github.com/siongui/godom
 .. _on my GitHub: https://github.com/siongui/frontend-programming-in-go/tree/master/021-bulma-navbar

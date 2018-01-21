@@ -2,7 +2,7 @@ Frontend Programming in Go
 ##########################
 
 :date: 2017-12-04T22:06+08:00
-:modified: 2018-01-18T09:11+08:00
+:modified: 2018-01-21T08:27+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go
 :category: Frontend Programming in Go
 :summary: Discuss why I choose Go to be my frontend programming language. Wirte
@@ -60,7 +60,7 @@ Advantages of Go
    operation). For example, I have an offline application which does Chinese
    conversion. Without any modification, I successfully make it run on browsers
    with GopherJS. This is really impressing, and very easy to port existing Go
-   code to web browsers without any modification if no IO involved.
+   code to web browsers without any modification if no IO involved. [4]_
 
 .. adsu:: 2
 
@@ -118,7 +118,14 @@ browsers. If any advices, please leave your comments on GitHub!
 - `Tooltip with Close Delay in Go`_
 - `Convert Text to HTML Link in Go`_
 - `[GopherJS] WebSocket Client Example With Echo Server`_
+
+Bulma_:
+
 - `Bulma Navbar with Go Toggle`_
+
+Vue.js_:
+
+- `Toggle (Show/Hide) HTML Element via Go and Vue.js`_
 
 **References**:
 
@@ -141,10 +148,14 @@ References:
 .. [3] | `Introducing Joy: translate Go to JavaScript : golang <https://www.reddit.com/r/golang/comments/7jby77/introducing_joy_translate_go_to_javascript/>`_
        | `GitHub - matthewmueller/joy: A delightful Go to Javascript compiler <https://github.com/matthewmueller/joy>`_
 
+.. [4] `GitHub - siongui/gojianfan: Traditional and Simplified Chinese Conversion in Go <https://github.com/siongui/gojianfan>`_
+
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
 .. _official website of Go: https://golang.org/
 .. _GopherJS: https://github.com/gopherjs/gopherjs
+.. _Bulma: https://bulma.io/
+.. _Vue.js: https://vuejs.org/
 .. _Go Playground: https://play.golang.org/
 .. _godom: https://github.com/siongui/godom
 .. _First Frontend Go Program - Hello World in Browser: {filename}first-frontend-go-program-hello-world%en.rst
@@ -170,3 +181,4 @@ References:
 .. _Convert Text to HTML Link in Go: {filename}convert-text-to-html-link-in-go%en.rst
 .. _[GopherJS] WebSocket Client Example With Echo Server: {filename}../../../2017/05/18/go-websocket-client-example-with-echo-server%en.rst
 .. _Bulma Navbar with Go Toggle: {filename}bulma-navbar-with-go-toggle%en.rst
+.. _Toggle (Show/Hide) HTML Element via Go and Vue.js: {filename}toggle-dom-element-with-gopherjs-vue%en.rst
