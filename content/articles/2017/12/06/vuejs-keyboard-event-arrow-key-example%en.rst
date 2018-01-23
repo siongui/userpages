@@ -2,7 +2,7 @@
 ###########################################
 
 :date: 2017-12-06T22:05+08:00
-:tags: Vue.js, JavaScript, html
+:tags: Vue.js, JavaScript, html, Keyboard Event
 :category: Vue.js
 :summary: Detect arrow keys pressed by users via Vue.js.
 :og_image: https://image.slidesharecdn.com/introtovue-170720154735/95/intro-to-vuejs-23-638.jpg?cb=1500565888
