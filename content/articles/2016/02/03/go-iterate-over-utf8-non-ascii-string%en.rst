@@ -11,7 +11,7 @@
 
 
 Iterate over UTF-8 or non-ASCII strings in Golang_. Iterations by for_ or range_
-keywords.
+keyword.
 
 for_ loop iteration
 +++++++++++++++++++
