@@ -5,7 +5,7 @@
 :tags: Vue.js, JavaScript, html, CSS, Tab Panel, Bulma
 :category: Vue.js
 :summary: Add more features to *Bulma* tabs via *Vue.js*.
-:og_image: https://s3-us-west-2.amazonaws.com/i.cdpn.io/193912.BlKxo.0e781013-9523-4f00-b75c-0c2f48b25100.png
+:og_image: https://s3-us-west-2.amazonaws.com/i.cdpn.io/9927.YVZBvd.038631b0-afac-4ad4-9405-1411877f0eda.png
 :adsu: yes
 
 Add more features to Bulma_ tabs_ via Vue.js_.

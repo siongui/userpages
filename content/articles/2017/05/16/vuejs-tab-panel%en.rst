@@ -173,4 +173,4 @@ References:
 .. [2] `Class and Style Bindings — Vue.js <https://vuejs.org/v2/guide/class-and-style.html>`_
 
 .. _Vue.js: https://vuejs.org/
-.. _Bootstrap tab: http://getbootstrap.com/javascript/#tabs
+.. _Bootstrap tab: https://getbootstrap.com/docs/3.3/javascript/#tabs

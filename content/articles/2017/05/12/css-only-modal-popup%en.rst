@@ -13,7 +13,7 @@ Pure CSS Modal (Popup)
 CSS only modal (popup) implementation.
 `According to w3schools`_, modal is dialog box/popup window that is displayed on
 top of the current page.
-The modal here is similar to `bootstrap modal`_.
+The modal here is similar to `Bootstrap modal`_.
 
 .. raw:: html
 
@@ -156,4 +156,4 @@ References:
 .. _input: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox
 .. _for: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label#Using_the_for_attribute
 .. _According to w3schools: https://www.w3schools.com/bootstrap/bootstrap_modal.asp
-.. _bootstrap modal: http://getbootstrap.com/javascript/#modals
+.. _Bootstrap modal: https://getbootstrap.com/docs/3.3/javascript/#modals
