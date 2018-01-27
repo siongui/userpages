@@ -134,4 +134,4 @@ References:
 .. [4] `Strings, Numbers, Booleans, Oh My! - Dart Tips, Episode 4 | Dart <https://www.dartlang.org/resources/dart-tips/dart-tips-ep-4>`_
 
 .. _DartPad: https://dartpad.dartlang.org/
-.. _Bootstrap Collapse: http://getbootstrap.com/javascript/#collapse
+.. _Bootstrap Collapse: https://getbootstrap.com/docs/3.3/javascript/#collapse-example-accordion

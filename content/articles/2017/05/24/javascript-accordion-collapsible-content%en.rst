@@ -214,4 +214,4 @@ References:
 .. [2] `How To Create an Accordion - W3Schools <https://www.w3schools.com/howto/howto_js_accordion.asp>`_
 
 .. _Vue.js: https://vuejs.org/
-.. _Bootstrap Collapse: http://getbootstrap.com/javascript/#collapse
+.. _Bootstrap Collapse: https://getbootstrap.com/docs/3.3/javascript/#collapse-example-accordion

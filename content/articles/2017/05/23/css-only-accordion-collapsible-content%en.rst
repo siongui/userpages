@@ -170,4 +170,4 @@ References:
 .. [1] `[Vue.js] Accordion (Collapsible Content) <{filename}../22/vuejs-accordion-collapsible-content%en.rst>`_
 .. [2] `Pure CSS Tab Panel <{filename}../21/css-only-tab-panel%en.rst>`_
 
-.. _Bootstrap Collapse: http://getbootstrap.com/javascript/#collapse
+.. _Bootstrap Collapse: https://getbootstrap.com/docs/3.3/javascript/#collapse-example-accordion
