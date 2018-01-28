@@ -50,7 +50,7 @@ post looks like the following without login:
 It's embedded as a comment and used by JavaScript_. The following code can
 extract *{{POST_HTML}}*:
 
-.. show_github_file:: siongui go-facebook-post-parser blogcode/fb.go
+.. show_github_file:: siongui userpages content/code/go/scrape-facebook-post/fb.go
 
 We can use goquery_ Find_ function with `CSS selector`_
 **div.hidden_elem > code**. There will be two elements match the above selector,
@@ -75,9 +75,9 @@ embedded in the following HTML element:
 We can use the following code to extract the utime and convert it to
 human-readable form:
 
-.. show_github_file:: siongui go-facebook-post-parser blogcode/time.go
+.. show_github_file:: siongui userpages content/code/go/scrape-facebook-post/time.go
 
-See `my post for parsing Unix time`_ [5]_ for more details.
+See `my post for parsing Unix time`_ [4]_ for more details.
 
 .. adsu:: 4
 
@@ -86,7 +86,7 @@ Post Profile Link
 
 Get the name and url of the user of the post.
 
-.. show_github_file:: siongui go-facebook-post-parser blogcode/profilelink.go
+.. show_github_file:: siongui userpages content/code/go/scrape-facebook-post/profilelink.go
 
 The logic in above code is the same. Just find the element which contains the
 data you are looking for, and use correct `CSS selector`_ to get the element we
@@ -99,23 +99,21 @@ Post Image
 
 Retrieve the URL of the image of the post:
 
-.. show_github_file:: siongui go-facebook-post-parser blogcode/image.go
+.. show_github_file:: siongui userpages content/code/go/scrape-facebook-post/image.go
 
 Post Content
 ++++++++++++
 
 Get the content of the post:
 
-.. show_github_file:: siongui go-facebook-post-parser blogcode/content.go
+.. show_github_file:: siongui userpages content/code/go/scrape-facebook-post/content.go
 
 Summary
 +++++++
 
 Use all the above code to extract data from post:
 
-.. show_github_file:: siongui go-facebook-post-parser blogcode/fb_test.go
-
-The complete code can be found in `my Github repo`_ [4]_.
+.. show_github_file:: siongui userpages content/code/go/scrape-facebook-post/fb_test.go
 
 ----
 
@@ -130,8 +128,7 @@ References:
 .. [1] `GitHub - PuerkitoBio/goquery: A little like that j-thing, only in Go. <https://github.com/PuerkitoBio/goquery>`_ |godoc|
 .. [2] `Tips and tricks · PuerkitoBio/goquery Wiki · GitHub <https://github.com/PuerkitoBio/goquery/wiki/Tips-and-tricks>`_
 .. [3] `goquery querySelector <{filename}../15/goquery-querySelector-golang%en.rst>`_
-.. [4] `GitHub - siongui/go-facebook-post-parser: web scrape facebook post and extract data <https://github.com/siongui/go-facebook-post-parser>`_
-.. [5] `[Golang] Parse Unix Time (utime) Example <{filename}../16/go-parse-utime-timestamp%en.rst>`_
+.. [4] `[Golang] Parse Unix Time (utime) Example <{filename}../16/go-parse-utime-timestamp%en.rst>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
@@ -149,7 +146,6 @@ References:
 .. _Html: https://godoc.org/github.com/PuerkitoBio/goquery#Selection.Html
 .. _*Selection: https://godoc.org/github.com/PuerkitoBio/goquery#Selection
 .. _my post for parsing Unix time: {filename}../16/go-parse-utime-timestamp%en.rst
-.. _my Github repo: https://github.com/siongui/go-facebook-post-parser/tree/master/blogcode
 
 .. |godoc| image:: https://godoc.org/github.com/PuerkitoBio/goquery?status.png
    :target: https://godoc.org/github.com/PuerkitoBio/goquery

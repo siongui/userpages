@@ -2,6 +2,7 @@
 ############################################
 
 :date: 2018-01-20T07:13+08:00
+:modified: 2018-01-29T02:53+08:00
 :tags: Go, Golang, goquery, Web Scrape, html, CSS selectors
 :category: Go
 :summary:  Fetch a public post on *Blogger* and extract data via *goquery*.
@@ -18,6 +19,7 @@ We will extract the following data from HTML:
 - Author
 - Summary
 - Content
+- Tags
 
 The following is complete source code:
 
