@@ -211,7 +211,7 @@ and remove ``.active`` class of all sibling tab panes.
 
 Tested on:
 
-- ``Chromium Version 58.0.3029.110 Built on Ubuntu , running on Ubuntu 17.04 (64-bit)``
+- ``Chromium 58.0.3029.110 on Ubuntu 17.04 (64-bit)``
 
 ----
 
@@ -219,4 +219,4 @@ References:
 
 .. [1] `[Vue.js] Tab Panel <{filename}../16/vuejs-tab-panel%en.rst>`_
 
-.. _Bootstrap tab: http://getbootstrap.com/javascript/#tabs
+.. _Bootstrap tab: https://getbootstrap.com/docs/3.3/javascript/#tabs

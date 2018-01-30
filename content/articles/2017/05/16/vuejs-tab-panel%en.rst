@@ -162,7 +162,7 @@ Use flexbox to align the tabs in one row.
 
 Tested on:
 
-- ``Chromium Version 58.0.3029.96 Built on Ubuntu , running on Ubuntu 17.04 (64-bit)``
+- ``Chromium 58.0.3029.96 Built on Ubuntu 17.04 (64-bit)``
 - ``Vue.js 2.3.3``
 
 ----

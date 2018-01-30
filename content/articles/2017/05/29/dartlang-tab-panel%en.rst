@@ -128,7 +128,7 @@ and remove ``.active`` class of all sibling tab panes.
 Tested on:
 
 - DartPad_.
-- ``Chromium Version 58.0.3029.110 Built on Ubuntu , running on Ubuntu 17.04 (64-bit)``
+- ``Chromium 58.0.3029.110 Built on Ubuntu 17.04 (64-bit)``
 
 ----
 
@@ -140,4 +140,4 @@ References:
 .. [4] `Strings, Numbers, Booleans, Oh My! - Dart Tips, Episode 4 | Dart <https://www.dartlang.org/resources/dart-tips/dart-tips-ep-4>`_
 
 .. _DartPad: https://dartpad.dartlang.org/
-.. _Bootstrap tab: http://getbootstrap.com/javascript/#tabs
+.. _Bootstrap tab: https://getbootstrap.com/docs/3.3/javascript/#tabs

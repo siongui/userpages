@@ -138,7 +138,7 @@ The complete source code is as follows:
 
 Tested on:
 
-- ``Chromium Version 58.0.3029.110 Built on Ubuntu , running on Ubuntu 17.04 (64-bit)``
+- ``Chromium 58.0.3029.110 on Ubuntu 17.04 (64-bit)``
 
 ----
 
@@ -166,4 +166,4 @@ References:
        | `css target no jump - Yandex search <https://www.yandex.com/search/?text=css+target+no+jump>`_
 .. [7] `Pure CSS Toggle (Show/Hide) HTML Element <{filename}../../02/27/css-only-toggle-dom-element%en.rst>`_
 
-.. _Bootstrap tab: http://getbootstrap.com/javascript/#tabs
+.. _Bootstrap tab: https://getbootstrap.com/docs/3.3/javascript/#tabs
