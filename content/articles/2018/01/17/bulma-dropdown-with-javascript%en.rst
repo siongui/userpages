@@ -45,6 +45,14 @@ engines.
         $el.classList.remove('is-active');
       });
     }
+
+    // Close dropdowns if ESC pressed
+    document.addEventListener('keydown', function (event) {
+      var e = event || window.event;
+      if (e.keyCode === 27) {
+        closeDropdowns();
+      }
+    });
   
     // Functions
   
@@ -120,6 +128,14 @@ engines.
       });
     }
   
+    // Close dropdowns if ESC pressed
+    document.addEventListener('keydown', function (event) {
+      var e = event || window.event;
+      if (e.keyCode === 27) {
+        closeDropdowns();
+      }
+    });
+
     // Functions
   
     function getAll(selector) {

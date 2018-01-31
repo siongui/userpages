@@ -25,6 +25,14 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
+  // Close dropdowns if ESC pressed
+  document.addEventListener('keydown', function (event) {
+    var e = event || window.event;
+    if (e.keyCode === 27) {
+      closeDropdowns();
+    }
+  });
+
   // Toggles
 
   var $burgers = getAll('.burger');
