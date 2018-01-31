@@ -2,7 +2,7 @@ Frontend Programming in Go
 ##########################
 
 :date: 2017-12-04T22:06+08:00
-:modified: 2018-01-23T09:40+08:00
+:modified: 2018-02-01T06:32+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go
 :category: Frontend Programming in Go
 :summary: Discuss why I choose Go to be my frontend programming language. Wirte
@@ -122,11 +122,16 @@ browsers. If any advices, please leave your comments on GitHub!
 Bulma_:
 
 - `Bulma Navbar with Go Toggle`_
+- `Bulma Dropdown with Go Toggle`_
 
 Vue.js_:
 
 - `Toggle (Show/Hide) HTML Element via Go and Vue.js`_
 - `Show keyCode of Pressed Key via Go and Vue.js`_
+
+`Chrome Extension`_:
+
+- `[Golang/GopherJS] Chrome Extension for Chinese Conversion`_
 
 **References**:
 
@@ -184,3 +189,6 @@ References:
 .. _Bulma Navbar with Go Toggle: {filename}bulma-navbar-with-go-toggle%en.rst
 .. _Toggle (Show/Hide) HTML Element via Go and Vue.js: {filename}toggle-dom-element-with-gopherjs-vue%en.rst
 .. _Show keyCode of Pressed Key via Go and Vue.js: {filename}show-keyCode-of-pressed-key-via-gopherjs-vue%en.rst
+.. _Bulma Dropdown with Go Toggle: {filename}bulma-dropdown-with-go-toggle%en.rst
+.. _Chrome Extension: https://developer.chrome.com/extensions/getstarted
+.. _[Golang/GopherJS] Chrome Extension for Chinese Conversion: {filename}/articles/2017/04/30/go-gopherjs-chrome-extension-for-chinese-translation%en.rst
