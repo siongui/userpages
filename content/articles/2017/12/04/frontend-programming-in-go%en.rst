@@ -2,7 +2,7 @@ Frontend Programming in Go
 ##########################
 
 :date: 2017-12-04T22:06+08:00
-:modified: 2018-02-01T06:32+08:00
+:modified: 2018-02-02T07:35+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go
 :category: Frontend Programming in Go
 :summary: Discuss why I choose Go to be my frontend programming language. Wirte
@@ -132,6 +132,7 @@ Vue.js_:
 `Chrome Extension`_:
 
 - `[Golang/GopherJS] Chrome Extension for Chinese Conversion`_
+- `Get Current Tab URL From Chrome Extension in Go`_
 
 **References**:
 
@@ -192,3 +193,4 @@ References:
 .. _Bulma Dropdown with Go Toggle: {filename}bulma-dropdown-with-go-toggle%en.rst
 .. _Chrome Extension: https://developer.chrome.com/extensions/getstarted
 .. _[Golang/GopherJS] Chrome Extension for Chinese Conversion: {filename}/articles/2017/04/30/go-gopherjs-chrome-extension-for-chinese-translation%en.rst
+.. _Get Current Tab URL From Chrome Extension in Go: {filename}tab-url-chrome-extension-in-go%en.rst
