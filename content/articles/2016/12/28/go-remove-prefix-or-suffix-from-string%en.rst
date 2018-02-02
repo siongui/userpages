@@ -2,9 +2,10 @@
 ##########################################
 
 :date: 2016-12-28T19:54+08:00
-:tags: Go, Golang, String Manipulation
+:tags: Go, Golang, String Manipulation, Go strings Package
 :category: Go
 :summary: Remove prefix or suffix from string via Go_ programming language.
+:og_image: https://d2d42mpnbqmzj3.cloudfront.net/images/stories/doc-excel/remove-prefix-suffix/doc-remove-prefix-1.png
 :adsu: yes
 
 
