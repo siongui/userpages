@@ -26,13 +26,15 @@ Websites:
 `Pāḷi Dictionary <https://siongui.github.io/pali-dictionary/>`_
 (`forum <https://groups.google.com/d/forum/palidictpk>`_)
 
-Contact:
+.. code-block:: go
 
-  Email: ``siongui AT gmail DOT com``
+  type Contact struct {
+  	Email	string	// siongui AT gmail DOT com
+  	Skype	string	// siongui
+  	LINE	string	// siongui
+  }
 
-  Skype Name: ``siongui``
-
-  LINE: ``siongui``
+.. Idea stolen from http://constd.com/about.md
 
 Blog:
 

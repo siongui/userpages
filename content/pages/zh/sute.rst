@@ -26,13 +26,15 @@
 `巴利字典 <https://siongui.github.io/pali-dictionary/>`_
 (`論壇 <https://groups.google.com/d/forum/palidictpk>`_)
 
-聯絡:
+.. code-block:: go
 
-  電子郵件: ``siongui AT gmail DOT com``
+  type 聯絡 struct {
+  	Email	string	// siongui AT gmail DOT com
+  	Skype	string	// siongui
+  	LINE	string	// siongui
+  }
 
-  Skype帳號: ``siongui``
-
-  LINE帳號: ``siongui``
+.. Idea stolen from http://constd.com/about.md
 
 部落格:
 

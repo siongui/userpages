@@ -26,13 +26,15 @@
 `พจนานุกรมภาษาบาลี <https://siongui.github.io/pali-dictionary/>`_
 (`ฟอรั่ม <https://groups.google.com/d/forum/palidictpk>`_)
 
-ติดต่อ:
+.. code-block:: go
 
-  อีเมล: ``siongui AT gmail DOT com``
+  type ติดต่อ struct {
+  	Email	string	// siongui AT gmail DOT com
+  	Skype	string	// siongui
+  	LINE	string	// siongui
+  }
 
-  Skype: ``siongui``
-
-  LINE ID: ``siongui``
+.. Idea stolen from http://constd.com/about.md
 
 บล็อก:
 
