@@ -2,7 +2,7 @@
 ##############################
 
 :date: 2018-02-04T08:52+08:00
-:tags: Go, Golang, Web Scrape, Go net/http, Go strings Package, JSON
+:tags: Go, Golang, Web Scrape, Go net/http, Go strings Package, JSON, Instagram
 :category: Go
 :summary: Given user name, get Instagram user id via Go programming language.
           Use only Go standard library and no third-party packages needed.

@@ -2,7 +2,7 @@
 ######################################
 
 :date: 2018-02-05T02:13+08:00
-:tags: Go, Golang, Web Scrape, Go net/http
+:tags: Go, Golang, Web Scrape, Go net/http, Instagram
 :category: Go
 :summary: Get the list of following Instagram stories via Go programming
           language. Use only Go standard library and no third-party packages
