@@ -20,7 +20,7 @@ timestamp is embedded in the *data-utime* attribute of abbr_ element:
 
   <abbr title="Wednesday, February 15, 2017 at 7:00am" data-utime="1487113202" data-shorten="1" class="_5ptz"><span class="timestampContent">Yesterday at 7:00am</span></abbr>
 
-The string *1487113202* Looks familiar, so I did some googling [1]_ [7]_ and
+The string *1487113202* looks familiar, so I did some googling [1]_ [7]_ and
 found that it represents `Unix time`_, seconds and nanoseconds that have elapsed
 since January 1, 1970 UTC.
 
@@ -112,6 +112,8 @@ References
        | `time since epoch - Baidu search <https://www.baidu.com/s?wd=time+since+epoch>`_
        | `time since epoch - Yandex search <https://www.yandex.com/search/?text=time+since+epoch>`_
 .. [8] `Unix time - Wikipedia <https://en.wikipedia.org/wiki/Unix_time>`_
+.. [9] | `Golang Date Parsing : golang <https://www.reddit.com/r/golang/comments/7w8pwn/golang_date_parsing/>`_
+       | `Fucking Go Date Format <http://fuckinggodateformat.com/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
