@@ -6,7 +6,7 @@
 :category: Go
 :summary: Sort a string by character, i.e., convert the string to []rune and
           then sort the slice of runes in Go programming language.
-:og_image: https://www.calhoun.io/content/images/2016/10/Let-s-Learn-Algorithms---Bubble-Sort-impl.png
+:og_image: https://pbs.twimg.com/media/CxQV-tmUUAEDvzF.jpg
 :adsu: yes
 
 
