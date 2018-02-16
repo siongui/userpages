@@ -28,7 +28,7 @@ If you want to find all files in a directory and all its sub-directories, see
 
 Tested on:
 
-- ``Ubuntu Linux 17.10``, ``Go 1.9.3``
+- ``Ubuntu Linux 17.10``, ``Go 1.9.4``
 
 .. - `Go Playground`_
 
