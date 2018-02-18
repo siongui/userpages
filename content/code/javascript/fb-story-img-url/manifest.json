@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+
+  "name": "FBStoryImg",
+  "description" : "Get URL of Facebook Story Image",
+  "version": "0.1",
+
+  "browser_action": {
+    "default_title": "Click to get story image URL"
+  },
+
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+
+  "permissions": [
+    "activeTab"
+  ]
+}
