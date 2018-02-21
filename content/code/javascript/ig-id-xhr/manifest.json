@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+
+  "name": "showigid",
+  "description" : "Show Instagram Id on user page",
+  "version": "0.1",
+
+  "background": {
+      "scripts": ["eventPage.js"]
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["https://www.instagram.com/*"],
+      "js": ["showid.js"]
+    }
+  ],
+
+  "permissions": [
+    "https://www.instagram.com/*",
+    "tabs"
+  ]
+}

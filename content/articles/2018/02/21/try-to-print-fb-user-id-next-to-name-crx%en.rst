@@ -39,6 +39,4 @@ References:
 
 .. _Chrome extension: https://www.google.com/search?q=Chrome+Extension
 .. _manifest json: https://developer.chrome.com/extensions/manifest
-.. _load extension: https://developer.chrome.com/extensions/getstarted#unpacked
-.. _extension console: https://stackoverflow.com/a/10258029
 .. _the work I have done: {filename}/articles/2018/02/20/get-fb-user-id-by-url-change-crx%en.rst
