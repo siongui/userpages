@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+
+  "name": "FBUrlId",
+  "description" : "Try to get Facebook Id from URL change",
+  "version": "0.1",
+
+  "background": {
+      "scripts": ["eventPage.js"]
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["https://www.facebook.com/*"],
+      "js": ["showid.js"]
+    }
+  ],
+
+  "permissions": [
+    "tabs"
+  ]
+}
