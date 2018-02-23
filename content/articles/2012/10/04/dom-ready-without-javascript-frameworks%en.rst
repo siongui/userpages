@@ -65,4 +65,5 @@ References:
 .. [3] `Relying on DOM readiness to invoke a function (instead of window.onload) <http://www.javascriptkit.com/dhtmltutors/domready.shtml>`_
 
 
-.. _DOM ready: http://www.mootorial.com/wiki/mootorial/05-utilities/01-domready
+.. .. _DOM ready: http://www.mootorial.com/wiki/mootorial/05-utilities/01-domready
+.. _DOM ready: https://www.google.com/search?q=what+is+dom+ready
