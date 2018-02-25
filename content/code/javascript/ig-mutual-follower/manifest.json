@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+
+  "name": "showigmf",
+  "description" : "Show Instagram Mutual Followers on User Profile Page",
+  "version": "0.1",
+
+  "background": {
+      "scripts": ["eventPage.js"]
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["https://www.instagram.com/*"],
+      "js": ["showinfo.js"]
+    }
+  ],
+
+  "permissions": [
+    "https://www.instagram.com/*",
+    "tabs"
+  ]
+}
