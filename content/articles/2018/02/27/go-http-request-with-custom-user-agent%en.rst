@@ -2,7 +2,7 @@
 ############################################
 
 :date: 2018-02-27T18:18+08:00
-:tags: Go, Golang, Web Scrape, Go net/http
+:tags: Go, Golang, Web Scrape, Go net/http, HTTP GET, HTTP Header
 :category: Go
 :summary: HTTP request with custom *User-Agent* header
           via Go standard *net/http* package.
