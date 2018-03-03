@@ -57,6 +57,8 @@ Example of HTTP request with custom `User-Agent`_ header via Go standard
   	println(string(b))
   }
 
+If you want to know how to send HTTP request with cookies, please see [2]_.
+
 .. adsu:: 2
 
 ----
@@ -68,6 +70,7 @@ Tested on: ``Ubuntu Linux 17.10``, ``Go 1.10``.
 References:
 
 .. [1] `GitHub - siongui/instago: Get photos, videos, stories, following and followers of Instagram <https://github.com/siongui/instago>`_
+.. [2] `[Golang] HTTP Request With Cookies <{filename}/articles/2018/03/03/go-http-request-with-cookie%en.rst>`_
 
 .. _User-Agent: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent
 .. _net/http: https://golang.org/pkg/net/http/

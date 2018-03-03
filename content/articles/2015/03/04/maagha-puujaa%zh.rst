@@ -2,13 +2,16 @@ Māgha Pūjā (萬佛節, วันมาฆบูชา)
 ##############################
 
 :date: 2015-03-04 23:52
-:modified: 2017-02-12T04:37+08:00
+:modified: 2018-03-03T20:42+08:00
 :tags: 泰國
 :category: 轉錄
 :summary: 諸惡莫作，眾善奉行，自淨其意，是諸佛教。
-          2558/2559/2560(2015/2016/2017) `萬佛節`_
+          2558/2559/2560/2561 (2015/2016/2017/2018) `萬佛節`_
 :og_image: http://www.parungtip.com/article/art_42216887.jpg
 
+.. image:: http://www.parungtip.com/article/art_42216887.jpg
+    :align: center
+    :alt: Māgha Pūjā (萬佛節, วันมาฆบูชา)
 
 簡介
 ++++
@@ -45,23 +48,13 @@ Facebook文章分享
 
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fjayasaro.panyaprateep.org%2Fposts%2F1117319221710096%3A0&width=500" width="500" height="501" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-.. raw:: html
-
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphrakhoon%2Fposts%2F10153227451237625%3A0&width=500" width="500" height="617" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-.. raw:: html
 
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D1091613730865560%26id%3D117121364981473&width=500" width="500" height="386" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-.. raw:: html
-
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgoplaybangkok%2Fposts%2F846772118712134&width=500" width="500" height="727" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-.. raw:: html
-
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRichnessThai%2Fposts%2F1612585122291099&width=500" width="500" height="354" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-.. raw:: html
 
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgoplaybangkok%2Fposts%2F847112805344732&width=500" width="500" height="879" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
@@ -72,41 +65,31 @@ Facebook文章分享
 
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fwawafly.com.tw%2Fposts%2F10155250284415291&width=500" width="500" height="733" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-.. raw:: html
-
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRichnessThai%2Fposts%2F1612741398942138&width=500" width="500" height="417" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-.. raw:: html
 
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D1312073882152876%26id%3D117121364981473&width=500" width="500" height="373" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-.. raw:: html
-
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRichnessThai%2Fposts%2F1732155817000695&width=500" width="500" height="711" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-.. raw:: html
 
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSuwannaFutureC%2Fposts%2F1515914705107398%3A0&width=500" width="500" height="580" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-.. raw:: html
-
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D1660537847306476%26id%3D117121364981473%26substory_index%3D0&width=500" width="500" height="454" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-.. raw:: html
 
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphrakhoon%2Fposts%2F10155130108337625&width=500" width="500" height="709" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-.. raw:: html
-
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBuddhaDhammaFoundation%2Fposts%2F808625075961285%3A0&width=500" width="500" height="563" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-.. raw:: html
 
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRichnessThai%2Fposts%2F1882668565282752&width=500" width="500" height="373" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-.. raw:: html
-
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fwww.taiguotong.cn%2Fposts%2F591538791036641&width=500" width="500" height="703" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fanya.petpim%2Fposts%2F10215818277317996&width=500" width="500" height="708" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmuditathai%2Fposts%2F2099058166787773&width=500" width="500" height="698" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Foecschool%2Fposts%2F815128205337937&width=500" width="500" height="692" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmedia%2Fset%2F%3Fset%3Da.815221875328570.1073741942.212902375560526%26type%3D3&width=500" width="500" height="714" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 ----
 
@@ -127,6 +110,7 @@ Facebook文章分享
 - `萬佛節弘揚佛教周登場 <http://www.udnbkk.com/article/2015/0227/article_125206.html>`_
 - `印度古代的历法简介 - 印度之窗 <http://www.yinduabc.com/history/1863.htm>`_
 - `竹林精舍（古印度最初的寺院）_百度百科 <http://baike.baidu.com/subview/276489/15827944.htm>`_
+- `วันมาฆบูชา : Magha Puja Day <http://www.recovery.ac.th/article/magkapuja.htm>`_
 
 .. _Māgha Pūjā: https://www.google.com/search?q=M%C4%81gha+P%C5%ABj%C4%81
 .. _萬佛節: https://www.google.com/search?q=%E8%90%AC%E4%BD%9B%E7%AF%80
