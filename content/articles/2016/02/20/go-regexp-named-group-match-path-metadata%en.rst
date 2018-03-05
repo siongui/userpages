@@ -29,8 +29,6 @@ We want to extract the metadata from the string in the following form:
 
 *lang* - **en**
 
-.. adsu:: 2
-
 
 Solution
 ++++++++
@@ -70,7 +68,6 @@ Solution
           }
   }
 
-.. adsu:: 3
 
 Output
 ++++++
@@ -87,6 +84,8 @@ Output of above code:
   lang zh
 
 
+.. adsu:: 2
+
 ----
 
 Appendix
@@ -95,8 +94,6 @@ Appendix
 Another example:
 
 `Run Code on Go Playground <https://play.golang.org/p/z-QhEafEfZ>`__
-
-.. adsu:: 4
 
 .. code-block:: go
 
@@ -121,8 +118,6 @@ Another example:
                   }
           }
   }
-
-.. adsu:: 5
 
 output:
 
@@ -161,7 +156,6 @@ Yet another example:
           }
   }
 
-.. adsu:: 6
 
 output:
 
@@ -169,6 +163,8 @@ output:
 
   slug visuddhimagga-chap01
   lang zh
+
+.. adsu:: 3
 
 ----
 

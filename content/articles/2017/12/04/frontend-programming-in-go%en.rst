@@ -150,6 +150,9 @@ References:
        |
        | `Go and wasm: Advent Day 17 : golang <https://www.reddit.com/r/golang/comments/7ke47z/go_and_wasm_advent_day_17/>`_
        | `Go and wasm: generating and executing wasm with Go GopherAcademy <https://blog.gopheracademy.com/advent-2017/go-wasm/>`_
+       |
+       | `WebAssembly architecture for Go <https://docs.google.com/document/d/131vjr4DH6JFnb-blm_uRdaC0_Nv3OUwjEY5qVCxCup4/edit>`_
+       | `WebAssembly architecture for Go : golang <https://www.reddit.com/r/golang/comments/81dt49/webassembly_architecture_for_go/>`_
 
 .. [2] `GitHub - lpereira/gomoku: Gomoku compiles Go code to C++ <https://github.com/lpereira/gomoku>`_
 
