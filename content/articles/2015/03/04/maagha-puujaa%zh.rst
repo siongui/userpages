@@ -91,6 +91,8 @@ Facebook文章分享
 
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmedia%2Fset%2F%3Fset%3Da.815221875328570.1073741942.212902375560526%26type%3D3&width=500" width="500" height="714" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
+  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRichnessThai%2Fposts%2F2055652187984388&width=500" width="500" height="478" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
 ----
 
 參考
