@@ -5,6 +5,7 @@
 :tags: Vue.js, JavaScript, IME, Pāli Input Method, Virtual Keyboard/Keypad
 :category: Vue.js
 :summary: Virtual kayboard/keypad via Vue.js_. Used in `Pāli Dictionary`_.
+:og_image: http://2.bp.blogspot.com/-R0eGgtfg83c/VDtjrYbT0oI/AAAAAAAADXY/TvNcOzfAl7o/s1600/2014-10-13-012922_1366x768_scrot.png
 :adsu: yes
 
 

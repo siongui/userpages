@@ -2,7 +2,7 @@ Frontend Programming in Go
 ##########################
 
 :date: 2017-12-04T22:06+08:00
-:modified: 2018-02-10T07:54+08:00
+:modified: 2018-03-08T22:55+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go
 :category: Frontend Programming in Go
 :summary: Discuss why I choose Go to be my frontend programming language. Wirte
@@ -80,9 +80,8 @@ still not usable and under development now.
    manipulation easy and similar to JavaScript counterpart.
 
 2. WebAssembly: WebAssembly is the future for web application development. Right
-   now all major browsers support wasm, but there is no working compiler so far
-   to compile Go to wasm. There is an issue that tracks the current status of
-   Go wasm compiler, see [1]_ for more information.
+   now all major browsers support wasm, and the official Go compiler support for
+   wasm is almost done. See [1]_ for more information.
 
 
 Table of Content
@@ -129,6 +128,7 @@ Vue.js_:
 
 - `Toggle (Show/Hide) HTML Element via Go and Vue.js`_
 - `Show keyCode of Pressed Key via Go and Vue.js`_
+- `Virtual Keyboard via Go and Vue.js`_
 
 `Chrome Extension`_:
 
@@ -199,3 +199,4 @@ References:
 .. _[Golang/GopherJS] Chrome Extension for Chinese Conversion: {filename}/articles/2017/04/30/go-gopherjs-chrome-extension-for-chinese-translation%en.rst
 .. _Get Current Tab URL From Chrome Extension in Go: {filename}tab-url-chrome-extension-in-go%en.rst
 .. _Bulma Modal with Go Toggle: {filename}bulma-modal-with-go-toggle%en.rst
+.. _Virtual Keyboard via Go and Vue.js: {filename}virtual-keypad-via-gopherjs-vue%en.rst
