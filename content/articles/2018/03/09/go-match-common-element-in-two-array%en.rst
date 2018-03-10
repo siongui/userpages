@@ -55,6 +55,8 @@ The following is example of above idea.
 
 The result will be `[2 3 5]`.
 
+For union of two arrays, see [5]_.
+
 .. adsu:: 2
 
 Tested on: `Go Playground`_
@@ -85,6 +87,8 @@ References:
 
 .. [4] | `Find Union and Intersection of two unsorted arrays - GeeksforGeeks <https://www.geeksforgeeks.org/find-union-and-intersection-of-two-unsorted-arrays/>`_
        | `Union and Intersection of two sorted arrays - GeeksforGeeks <https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/>`_
+
+.. [5] `[Golang] Union of Two Arrays <{filename}/articles/2018/03/10/go-set-of-all-elements-in-two-arrays%en.rst>`_
 
 .. _Go Playground: https://play.golang.org/
 .. _map: https://blog.golang.org/go-maps-in-action
