@@ -18,6 +18,8 @@ install:
 script:
 - make publish
 deploy:
+  edge:
+    branch: v1.8.47
   provider: pages
   repo: siongui/siongui.github.io
   target_branch: master
