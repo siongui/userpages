@@ -23,6 +23,7 @@
   {%- if OG_DESCRIPTION -%}<meta property="og:description" content="{{ OG_DESCRIPTION }}" />{%- endif -%}
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="manifest" href="/manifest.json" />
   <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/theme/css/style.css">
 </head>
 <body>
@@ -40,5 +41,6 @@
 </div>
   {% include 'layout/includes/cse.html' %}
   {% include 'layout/includes/analytics.html' %}
+  {% include 'layout/includes/load_serviceWorker.html' %}
 </body>
 </html>

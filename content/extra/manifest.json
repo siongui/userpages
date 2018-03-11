@@ -1,0 +1,15 @@
+{
+  "name": "Theory and Practice",
+  "short_name": "T&P",
+  "display": "minimal-ui",
+  "start_url": "/",
+  "theme_color": "#673ab6",
+  "background_color": "#111111",
+  "icons": [
+    {
+      "src": "/extra/Dharma_wheel.png",
+      "sizes": "538x538",
+      "type": "image/png"
+    }
+  ]
+}

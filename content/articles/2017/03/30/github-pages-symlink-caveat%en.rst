@@ -6,6 +6,7 @@ GitHub Pages Symbolic Link Caveat
 :category: Web Development
 :summary: GitHub Pages set *Content-Type* according to the name of symlink, not
           the file name that the symlink references to.
+:og_image: http://1.bp.blogspot.com/-FgWmIO0TvWU/Vk-BfHJirXI/AAAAAAAAHdw/2yWPNJusZO8/s640/githubpages.jpg
 :adsu: yes
 
 `GitHub Pages`_ set *Content-Type* according to the name of symlink, not the file
