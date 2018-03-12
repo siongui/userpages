@@ -141,6 +141,8 @@ References:
        | `golang enumeration - Baidu search <https://www.baidu.com/s?wd=golang+enumeration>`_
        | `golang enumeration - Yandex search <https://www.yandex.com/search/?text=golang+enumeration>`_
 .. [6] `Generating code - The Go Blog <https://blog.golang.org/generate>`_
+.. [7] | `Five Nice Things for Machine Generated Code : golang <https://www.reddit.com/r/golang/comments/83isyn/five_nice_things_for_machine_generated_code/>`_
+       | `Five Nice Things for Machine Generated Code – Damian Gryski – Medium <https://medium.com/@dgryski/five-nice-things-for-machine-generated-code-5335e67c1e36>`_
 
 .. _go\:generate: https://www.google.com/search?q=go:generate
 .. _stringer: https://godoc.org/golang.org/x/tools/cmd/stringer

@@ -38,6 +38,8 @@ References:
 
 .. [4] `python read jpeg metadata <https://www.google.com/search?q=python+read+jpeg+metadata>`_
 
+.. [5] `Reading video stream metadata with go : golang <https://www.reddit.com/r/golang/comments/83mfkm/reading_video_stream_metadata_with_go/>`_
+
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
 .. _Exif: https://www.google.com/search?q=EXIF

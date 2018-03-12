@@ -41,6 +41,11 @@ Tested on: ``Ubuntu Linux 17.10``, ``Go 1.10``.
 
 .. adsu:: 3
 
+References:
+
+.. [1] | `base1024 emoji encoding implemented in Go : golang <https://www.reddit.com/r/golang/comments/83kta3/base1024_emoji_encoding_implemented_in_go/>`_
+       | `GitHub - keith-turner/ecoji: Encodes (and decodes) data as emojis <https://github.com/keith-turner/ecoji>`_
+
 .. _QR code: https://www.google.com/search?q=QR+code
 .. _github.com/skip2/go-qrcode: https://github.com/skip2/go-qrcode
 .. _github.com/tuotoo/qrcode: https://github.com/tuotoo/qrcode

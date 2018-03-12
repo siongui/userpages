@@ -5,6 +5,7 @@
 :tags: Go, Golang, List Files in Directory
 :category: Go
 :summary: List all files in a directory in Go_. Similar to Python_ `os.walk`_.
+:og_image: http://www.avajava.com/tutorials/files/how-do-i-recursively-display-all-files-and-directories-in-a-directory/how-do-i-recursively-display-all-files-and-directories-in-a-directory-01.gif
 :adsu: yes
 
 List all files in a directory in Golang_. Similar to Python_ `os.walk`_.
@@ -31,6 +32,8 @@ References:
 .. [5] `Python os.walk <https://docs.python.org/2/library/os.html#os.walk>`_
 
 .. [6] `filepath - The Go Programming Language <https://golang.org/pkg/path/filepath/>`_
+.. [7] | `A quick comparison between different Go file walk implementations : golang <https://www.reddit.com/r/golang/comments/83lwfs/a_quick_comparison_between_different_go_file_walk/>`_
+       | `A quick comparison between different Go file walk implementations | Ben E. C. Boyter <http://www.boyter.org/2018/03/quick-comparison-go-file-walk-implementations/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
