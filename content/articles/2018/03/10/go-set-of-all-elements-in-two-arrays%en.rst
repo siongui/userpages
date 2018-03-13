@@ -14,8 +14,8 @@ This is the continued work of my post yesterday [1]_, which is intersection of
 two arrays.
 
 The idea is to convert one array to the data structure of key-value pairs, i.e.,
-hash table. The hash table in Go is built-in map_ type. The we check if items of
-the other array is in the hash table. If not, append the item to the first
+hash table. The hash table in Go is built-in map_ type. Then we check if items
+of the other array is in the hash table. If not, append the item to the first
 array, and return the first array after finish.
 
 The following is example of above idea.

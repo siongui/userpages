@@ -15,9 +15,9 @@ There are many ways to find the intersection [1]_ [3]_. Here we will implement
 the method mentioned in [2]_.
 
 The idea is to convert one array to the data structure of key-value pairs, i.e.,
-hash table. The hash table in Go is built-in map_ type. The we check if items of
-the other array is in the hash table. If yes, the item is in the intersection of
-the two arrays.
+hash table. The hash table in Go is built-in map_ type. Then we check if items
+of the other array is in the hash table. If yes, the item is in the intersection
+of the two arrays.
 
 The following is example of above idea.
 

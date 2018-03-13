@@ -17,16 +17,16 @@ See demo first:
   Array A: <input type="text" name="arra" value="[1, 2, 3, 4, 5]"><br>
   Array B: <input type="text" name="arrb" value="[2, 3, 5, 7, 11]"><br>
   <br>
-  <button type="button" id="getUnion">Get Union</button>
-  <input type="text" name="union"><br>
+  <button type="button" id="getIntersection">Get Intersection</button>
+  <input type="text" name="intersection"><br>
 
 .. raw:: html
 
   <script>
   var arra = document.querySelector("input[name='arra']");
   var arrb = document.querySelector("input[name='arrb']");
-  var union = document.querySelector("input[name='union']");
-  var btn = document.querySelector("#getUnion");
+  var intersection = document.querySelector("input[name='intersection']");
+  var btn = document.querySelector("#getIntersection");
 
   btn.addEventListener("click", function(e) {
     var arrayA = eval(arra.value);
@@ -44,7 +44,7 @@ See demo first:
       }
     }
 
-    union.value = JSON.stringify(arrayU);
+    intersection.value = JSON.stringify(arrayU);
   });
   </script>
 
@@ -53,7 +53,7 @@ There are many ways to find the intersection [1]_ [3]_. Here we will implement
 the method mentioned in [2]_.
 
 The idea is to convert one array to the data structure of key-value pairs, i.e.,
-hash table. The hash table in JavaScript is built-in object_ type. The we check
+hash table. The hash table in JavaScript is built-in object_ type. Then we check
 if items of the other array is in the hash table. If yes, the item is in the
 intersection of the two arrays.
 
@@ -66,8 +66,8 @@ The following is the code for the demo:
   Array A: <input type="text" name="arra" value="[1, 2, 3, 4, 5]"><br>
   Array B: <input type="text" name="arrb" value="[2, 3, 5, 7, 11]"><br>
   <br>
-  <button type="button" id="getUnion">Get Union</button>
-  <input type="text" name="union"><br>
+  <button type="button" id="getIntersection">Get Intersection</button>
+  <input type="text" name="intersection"><br>
 
 **JavaScript**:
 
@@ -75,8 +75,8 @@ The following is the code for the demo:
 
   var arra = document.querySelector("input[name='arra']");
   var arrb = document.querySelector("input[name='arrb']");
-  var union = document.querySelector("input[name='union']");
-  var btn = document.querySelector("#getUnion");
+  var intersection = document.querySelector("input[name='intersection']");
+  var btn = document.querySelector("#getIntersection");
 
   btn.addEventListener("click", function(e) {
     var arrayA = eval(arra.value);
@@ -94,7 +94,7 @@ The following is the code for the demo:
       }
     }
 
-    union.value = JSON.stringify(arrayU);
+    intersection.value = JSON.stringify(arrayU);
   });
 
 .. adsu:: 2
