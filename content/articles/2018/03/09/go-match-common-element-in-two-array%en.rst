@@ -2,7 +2,7 @@
 ###################################
 
 :date: 2018-03-09T22:29+08:00
-:tags: Go, Golang, Algorithm
+:tags: Go, Golang, Algorithm, Set Operation
 :category: Go
 :summary: Find common elements (matches, intersection) of two arrays
           in Go programming language.

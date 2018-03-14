@@ -2,7 +2,7 @@
 ################################
 
 :date: 2018-03-13T23:19+08:00
-:tags: JavaScript, Algorithm
+:tags: JavaScript, Algorithm, Set Operation
 :category: JavaScript
 :summary: Find the set of all elements (union) in two arrays in JavaScript.
 :og_image: http://hideoushumpbackfreak.com/image.axd?picture=figure3-1_thumb.png

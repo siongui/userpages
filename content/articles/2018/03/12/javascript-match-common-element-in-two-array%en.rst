@@ -2,7 +2,7 @@
 #######################################
 
 :date: 2018-03-12T23:21+08:00
-:tags: JavaScript, Algorithm
+:tags: JavaScript, Algorithm, Set Operation
 :category: JavaScript
 :summary: Find common elements (matches, intersection) of two arrays
           in JavaScript.

@@ -2,7 +2,7 @@
 ############################
 
 :date: 2018-03-10T22:47+08:00
-:tags: Go, Golang, Algorithm
+:tags: Go, Golang, Algorithm, Set Operation
 :category: Go
 :summary: Find the set of all elements in two arrays in Go programming language.
 :og_image: http://hideoushumpbackfreak.com/image.axd?picture=figure3-1_thumb.png
