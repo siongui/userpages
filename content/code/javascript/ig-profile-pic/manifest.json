@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+
+  "name": "igprofilepic",
+  "description" : "Download Instagram profile picture in full size",
+  "version": "0.1",
+
+  "incognito": "split",
+
+  "background": {
+      "scripts": ["eventPage.js"]
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["https://www.instagram.com/*"],
+      "js": ["fullpic.js"]
+    }
+  ],
+
+  "permissions": [
+    "https://www.instagram.com/*",
+    "tabs"
+  ]
+}

@@ -63,6 +63,9 @@ implementation of the trick in JavaScript:
     return fullsizeurl;
   }
 
+I also write a Chrome extension to help you download full size picture,
+see [4]_.
+
 ----
 
 .. adsu:: 2
@@ -72,6 +75,7 @@ References:
 .. [1] `download instagram profile picture - Google search <https://www.google.com/search?q=download+instagram+profile+picture>`_
 .. [2] `How to download my Instagram profile picture - Quora <https://www.quora.com/How-can-I-download-my-Instagram-profile-picture>`_
 .. [3] `How to view instagram profile picture in full-size? - Stack Overflow <https://stackoverflow.com/questions/48468144/how-to-view-instagram-profile-picture-in-full-size>`_
+.. [4] `[Chrome Extension] Download Instagram Profile Picture in Full Size <{filename}/articles/2018/03/19/crx-download-instagram-profile-picture-in-full-size%en.rst>`_
 
 .. _Instagram: https://www.instagram.com/
 .. _the comment of SO question: https://stackoverflow.com/questions/48468144/how-to-view-instagram-profile-picture-in-full-size#comment85451994_48468144
