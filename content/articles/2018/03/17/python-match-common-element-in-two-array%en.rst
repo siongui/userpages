@@ -44,6 +44,8 @@ The following is the implementation of above idea.
 
 The result will be `[2 3 5]`.
 
+The same idea can be used to find union of two arrays. See [1]_.
+
 .. adsu:: 2
 
 Tested on:
@@ -54,6 +56,8 @@ Tested on:
 ----
 
 References:
+
+.. [1] `[Python] Union of Two Arrays <{filename}/articles/2018/03/20/python-set-of-all-elements-in-two-arrays%en.rst>`_
 
 .. _Python: https://www.python.org/
 .. _dictionary: https://www.tutorialspoint.com/python/python_dictionary.htm
