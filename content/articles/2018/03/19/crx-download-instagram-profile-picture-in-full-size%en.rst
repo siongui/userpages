@@ -2,6 +2,7 @@
 ##################################################################
 
 :date: 2018-03-19T23:26+08:00
+:modified: 2018-03-23T21:54+08:00
 :tags: JavaScript, String Manipulation, Instagram, Regular Expression,
        Chrome Extension
 :category: JavaScript
@@ -10,6 +11,9 @@
 :og_image: https://images.vexels.com/media/users/3/147102/isolated/preview/082213cb0f9eabb7e6715f59ef7d322a-instagram-profile-icon-by-vexels.png
 :adsu: yes
 
+
+*[Update]: Looks like Instagram banned access to the URL of full size profile
+picture. This post becomes useless.*
 
 This Chrome extension helps you download Instagram_ profile picture in full
 size. When you navigate to profile page of Instagram user, move your mouse to

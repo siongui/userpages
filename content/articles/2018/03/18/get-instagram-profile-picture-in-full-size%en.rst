@@ -2,6 +2,7 @@ Get Instagram Profile Picture in Full Size
 ##########################################
 
 :date: 2018-03-18T23:00+08:00
+:modified: 2018-03-23T21:54+08:00
 :tags: JavaScript, String Manipulation, Instagram, Regular Expression
 :category: JavaScript
 :summary: Given the url of Instagram profile picture, return the url of profile
@@ -9,6 +10,9 @@ Get Instagram Profile Picture in Full Size
 :og_image: https://images.vexels.com/media/users/3/147102/isolated/preview/082213cb0f9eabb7e6715f59ef7d322a-instagram-profile-icon-by-vexels.png
 :adsu: yes
 
+
+*[Update]: Looks like Instagram banned access to the URL of full size profile
+picture. This post becomes useless.*
 
 Paste URL of Instagram_ profile picture and get full-size URL of it.
 For example, you can try to paste the following URL:
