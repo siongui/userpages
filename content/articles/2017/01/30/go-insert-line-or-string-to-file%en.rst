@@ -6,6 +6,7 @@
 :category: Go
 :summary: Insert a line or string to *n-th* line of the file
           via Go_ programming language.
+:og_image: https://www.howtogeek.com/wp-content/uploads/2012/01/vi-tutorial-3.png
 :adsu: yes
 
 
