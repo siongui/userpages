@@ -2,7 +2,7 @@
 ###############################################
 
 :date: 2018-02-13T09:16+08:00
-:tags: Go, Golang, Web Scrape, Go net/http, Instagram
+:tags: Go, Golang, Web Scrape, Go net/http, Instagram, HTTP cookie
 :category: Go
 :summary: Get URL of all posts of a specific Instagram user via Go programming
           language. Use only Go standard library and no third-party packages

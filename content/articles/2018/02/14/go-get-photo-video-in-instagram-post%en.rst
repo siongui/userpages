@@ -2,7 +2,7 @@
 ################################################
 
 :date: 2018-02-14T07:43+08:00
-:tags: Go, Golang, Web Scrape, Go net/http, Instagram
+:tags: Go, Golang, Web Scrape, Go net/http, Instagram, HTTP cookie
 :category: Go
 :summary: Get URL of photos and videos in Instagram post via Go programming
           language. Use only Go standard library and no third-party packages

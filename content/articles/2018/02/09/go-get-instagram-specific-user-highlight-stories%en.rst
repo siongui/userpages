@@ -2,7 +2,7 @@
 #########################################################
 
 :date: 2018-02-09T06:21+08:00
-:tags: Go, Golang, Web Scrape, Go net/http, Instagram
+:tags: Go, Golang, Web Scrape, Go net/http, Instagram, HTTP cookie
 :category: Go
 :summary: Get links of Instagram highlight stories of a specific user via Go
           programming language. Use only Go standard library and no third-party
