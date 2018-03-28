@@ -3,7 +3,7 @@ Get Facebook Stories Image URL via Chrome Extension
 
 :date: 2018-02-19T07:38+08:00
 :tags: JavaScript, Chrome Extension, Web Scrape
-:category: JavaScript
+:category: Chrome Extension
 :summary: A naive Chrome extension to help you get URL of images of Facebook
           Stories.
 :og_image: https://blog.bufferapp.com/wp-content/uploads/2017/01/facebook-stories-24-hours.png

@@ -3,7 +3,7 @@
 
 :date: 2018-02-26T07:39+08:00
 :tags: JavaScript, Chrome Extension, Web Scrape, Instagram
-:category: JavaScript
+:category: Chrome Extension
 :summary: A Chrome extension to help you show Instagram mutual followers on user
           profile page.
 :og_image: https://techuntold-techuntold.netdna-ssl.com/wp-content/uploads/2017/08/How-to-See-Mutual-Friends-on-Instagram.png

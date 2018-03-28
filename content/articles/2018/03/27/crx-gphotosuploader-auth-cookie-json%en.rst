@@ -2,8 +2,8 @@
 ################################################################
 
 :date: 2018-03-27T22:59+08:00
-:tags: JavaScript, Chrome Extension, HTTP cookie
-:category: JavaScript
+:tags: JavaScript, Chrome Extension, HTTP cookie, JSON
+:category: Chrome Extension
 :summary: Chrome extension to get cookies of *gphotosuploader*.
 :og_image: https://davidhancock.co/wp-content/uploads/2012/11/webkit-dev-tools.png
 :adsu: yes

@@ -4,7 +4,7 @@
 :date: 2018-02-21T21:16+08:00
 :tags: JavaScript, Chrome Extension, Web Scrape, String Manipulation,
        Regular Expression
-:category: JavaScript
+:category: Chrome Extension
 :summary: A Chrome extension to help you try to get Facebook user id by URL
           change and print the id next to name if found.
 :og_image: http://2.bp.blogspot.com/_nZM0Wsesudk/TFb0TTsMBEI/AAAAAAAAAQk/5Ooee76P1eo/s1600/SS-USER%2BID-s.jpg

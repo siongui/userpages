@@ -4,7 +4,7 @@
 :date: 2018-02-22T06:16+08:00
 :tags: JavaScript, Chrome Extension, Web Scrape, String Manipulation, Instagram,
        Regular Expression
-:category: JavaScript
+:category: Chrome Extension
 :summary: A Chrome extension to help you show Instagram id on the user page.
 :og_image: https://www.otzberg.net/iguserid/instagram_user_id_chrome.png
 :adsu: yes
