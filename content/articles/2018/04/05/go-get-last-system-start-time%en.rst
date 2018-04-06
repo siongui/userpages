@@ -67,6 +67,8 @@ Output from my Ubuntu Linux system:
 
   2018-04-05T17:56:00+08:00
 
+.. adsu:: 2
+
 ----
 
 Tested on: ``Ubuntu Linux 17.10``, ``Go 1.10.1``
