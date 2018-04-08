@@ -27,8 +27,8 @@ modified file before a specific time.
   	isFirst := true
   	min := 0 * time.Second
   	err = filepath.Walk(dir, func(p string, i os.FileInfo, e error) error {
-  		if err != nil {
-  			return err
+  		if e != nil {
+  			return e
   		}
 
   		if !i.IsDir() && i.ModTime().Before(t) {
