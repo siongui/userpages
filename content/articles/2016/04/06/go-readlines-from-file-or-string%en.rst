@@ -2,6 +2,7 @@
 #######################################
 
 :date: 2016-04-06T22:51+08:00
+:modified: 2018-04-09T06:06+08:00
 :tags: Go, Golang, String Manipulation, File Input/Output, Read Lines
 :category: Go
 :summary: Readlines_ from string or file in Go_ programming language.
@@ -15,31 +16,24 @@
 Readlines From String
 +++++++++++++++++++++
 
+.. rubric:: `Run Code on Go Playground <https://play.golang.org/p/BwtBPE-d8mU>`__
+   :class: align-center
+
 .. code-block:: go
 
   import (
   	"bufio"
-  	"fmt"
-  	"os"
   	"strings"
   )
 
-  func StringToLines(s string) []string {
-  	var lines []string
-
+  func StringToLines(s string) (lines []string, err error) {
   	scanner := bufio.NewScanner(strings.NewReader(s))
   	for scanner.Scan() {
   		lines = append(lines, scanner.Text())
   	}
-
-  	if err := scanner.Err(); err != nil {
-  		fmt.Fprintln(os.Stderr, "reading standard input:", err)
-  	}
-
-  	return lines
+  	err = scanner.Err()
+  	return
   }
-
-See [6]_ for more reusable code for read lines from string.
 
 .. adsu:: 2
 
@@ -50,30 +44,23 @@ Readlines From File
 
   import (
   	"bufio"
-  	"fmt"
   	"os"
   )
 
-  func File2lines(filePath string) []string {
+  func FileToLines(filePath string) (lines []string, err error) {
   	f, err := os.Open(filePath)
   	if err != nil {
-  		panic(err)
+  		return
   	}
   	defer f.Close()
 
-  	var lines []string
   	scanner := bufio.NewScanner(f)
   	for scanner.Scan() {
   		lines = append(lines, scanner.Text())
   	}
-  	if err := scanner.Err(); err != nil {
-  		fmt.Fprintln(os.Stderr, err)
-  	}
-
-  	return lines
+  	err = scanner.Err()
+  	return
   }
-
-See [6]_ for more reusable code for read lines from file.
 
 .. adsu:: 3
 
@@ -109,3 +96,4 @@ References:
 .. _Fprintf: https://golang.org/pkg/fmt/#Fprintf
 .. _Read lines: https://www.google.com/search?q=Read+lines
 .. _Readlines: https://www.google.com/search?q=Readlines
+.. _Go Playground: https://play.golang.org/
