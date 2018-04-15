@@ -153,6 +153,9 @@ References:
        |
        | `WebAssembly architecture for Go <https://docs.google.com/document/d/131vjr4DH6JFnb-blm_uRdaC0_Nv3OUwjEY5qVCxCup4/edit>`_
        | `WebAssembly architecture for Go : golang <https://www.reddit.com/r/golang/comments/81dt49/webassembly_architecture_for_go/>`_
+       |
+       | `WebAssembly support lands in Go language: golang wasm/js <https://react-etc.net/entry/webassembly-support-lands-in-go-language-golang-wasm-js>`_
+       | `WebAssembly support lands in Go language: golang wasm/js : golang <https://www.reddit.com/r/golang/comments/8c64ix/webassembly_support_lands_in_go_language_golang/>`_
 
 .. [2] `GitHub - lpereira/gomoku: Gomoku compiles Go code to C++ <https://github.com/lpereira/gomoku>`_
 
