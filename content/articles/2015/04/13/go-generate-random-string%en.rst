@@ -6,6 +6,7 @@
 :tags: Go, Golang, String Manipulation, Random Number, Go time Package
 :category: Go
 :summary: Generate a random string from [a-z0-9] in Golang.
+:og_image: https://www.webucator.com/blog/wp-content/uploads/2015/10/random_string.png
 :adsu: yes
 
 .. contents:: Table of Contents

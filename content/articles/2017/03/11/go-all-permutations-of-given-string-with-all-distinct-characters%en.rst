@@ -6,6 +6,7 @@
 :category: Go
 :summary: Find all permutations of a given string containing all distinct
           characters in Go_ programming language.
+:og_image: http://www.mathwarehouse.com/probability/images/multiplication-principle4.gif
 :adsu: yes
 
 
