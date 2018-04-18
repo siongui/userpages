@@ -1,10 +1,10 @@
-[Golang] Find Last Modified File
-################################
+[Golang] Find Last Modified File Before Specific Time
+#####################################################
 
 :date: 2018-04-06T23:47+08:00
 :tags: Go, Golang, Go time Package, List Files in Directory
 :category: Go
-:summary: Get last modified file (before a specific time) in Go.
+:summary: Get last modified file before a specific time in Go.
 :og_image: https://i.ytimg.com/vi/jTBtVrn-Cq8/hqdefault.jpg
 :adsu: yes
 
@@ -58,6 +58,8 @@ modified file before a specific time.
   	fmt.Println(path)
   	fmt.Println(info)
   }
+
+The following example is the same as finding last modified file.
 
 .. adsu:: 2
 
