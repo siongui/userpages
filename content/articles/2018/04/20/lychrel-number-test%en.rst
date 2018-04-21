@@ -2,7 +2,7 @@ Lychrel Number Test
 ###################
 
 :date: 2018-04-20T23:44+08:00
-:tags: Go, Golang, Type Casting, Type Conversion, Algorithm
+:tags: Go, Golang, Type Casting, Type Conversion, Algorithm, Math
 :category: Algorithm
 :summary: Test if a number (at least 2-digit) is Lychrel number or not under
           limited iterations in Go.
