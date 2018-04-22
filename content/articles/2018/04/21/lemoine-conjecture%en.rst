@@ -7,7 +7,7 @@ Lemoine’s Conjecture
 :summary: 2n + 1 = p + 2q always has a solution in primes p and q (not
           necessarily distinct) for n > 2. Write a Go program to find p and q
           for given odd number greater than 5.
-:og_image: 
+:og_image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Lemoine.jpg/250px-Lemoine.jpg
 :adsu: yes
 
 
