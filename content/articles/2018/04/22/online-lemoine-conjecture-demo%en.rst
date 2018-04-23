@@ -2,7 +2,7 @@ Online Lemoine’s Conjecture Demo
 ################################
 
 :date: 2018-04-22T23:41+08:00
-:tags: JavaScript, Math, Algorithm, Prime Number
+:tags: JavaScript, Math, Algorithm, Prime Number, Type Casting, Type Conversion
 :category: Algorithm
 :summary: 2n + 1 = p + 2q always has a solution in primes p and q (not
           necessarily distinct) for n > 2. This online demo finds p and q for
