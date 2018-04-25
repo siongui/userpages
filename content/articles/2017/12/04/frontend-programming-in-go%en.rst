@@ -2,7 +2,7 @@ Frontend Programming in Go
 ##########################
 
 :date: 2017-12-04T22:06+08:00
-:modified: 2018-04-24T23:07+08:00
+:modified: 2018-04-25T23:04+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go
 :category: Frontend Programming in Go
 :summary: Discuss why I choose Go to be my frontend programming language. Wirte
@@ -109,6 +109,7 @@ browsers. If any advices, please leave your comments on GitHub!
 - `JavaScript null Check in Go`_
 - `JavaScript undefined Check in Go`_
 - `Element Position (Scroll Included) in Go`_
+- `Check if Value of HTML Input Text Field is Integer in Go`_
 
 **Application**:
 
@@ -205,3 +206,4 @@ References:
 .. _Bulma Modal with Go Toggle: {filename}bulma-modal-with-go-toggle%en.rst
 .. _Virtual Keyboard via Go and Vue.js: {filename}virtual-keypad-via-gopherjs-vue%en.rst
 .. _Online Lemoine’s Conjecture Demo in Go: {filename}online-lemoine-conjecture-demo-in-go%en.rst
+.. _Check if Value of HTML Input Text Field is Integer in Go: {filename}check-if-html-input-text-value-is-integer-in-go%en.rst
