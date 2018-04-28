@@ -8,7 +8,8 @@
 :og_image: http://www.texample.net/media/tikz/examples/PNG/eratosthenes-sieve.png
 :adsu: yes
 
-Go implementation of `Sieve of Eratosthenes`_.
+Go implementation of `Sieve of Eratosthenes`_. See from GeeksforGeeks [1]_. The
+Go code is ported from the C/C++ code of GeeksforGeeks.
 
 .. rubric:: `Run Code on Go Playground <https://play.golang.org/p/66tBiUdvy2>`__
    :class: align-center
