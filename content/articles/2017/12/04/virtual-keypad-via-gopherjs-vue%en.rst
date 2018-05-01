@@ -3,7 +3,7 @@ Virtual Keyboard via Go and Vue.js
 
 :date: 2018-03-08T22:50+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go,
-       Vue.js, IME, Pāli Input Method, Virtual Keyboard/Keypad
+       Vue.js, gopherjs-vue, IME, Pāli Input Method, Virtual Keyboard/Keypad
 :category: Frontend Programming in Go
 :summary: Virtual kayboard/keypad via Go/GopherJS/gopherjs-vue.
 :og_image: http://2.bp.blogspot.com/-R0eGgtfg83c/VDtjrYbT0oI/AAAAAAAADXY/TvNcOzfAl7o/s1600/2014-10-13-012922_1366x768_scrot.png

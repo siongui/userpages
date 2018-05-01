@@ -3,7 +3,7 @@ Show keyCode of Pressed Key via Go and Vue.js
 
 :date: 2018-01-23T09:39+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go,
-       Vue.js, Keyboard Event
+       Vue.js, gopherjs-vue, Keyboard Event
 :category: Frontend Programming in Go
 :summary: Show keyCode of pressed key of focused HTML *input* element
           via Go/GopherJS/gopherjs-vue.

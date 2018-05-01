@@ -3,7 +3,7 @@ Toggle (Show/Hide) HTML Element via Go and Vue.js
 
 :date: 2018-01-21T08:23+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go,
-       Vue.js
+       Vue.js, gopherjs-vue
 :category: Frontend Programming in Go
 :summary: Toggle (Show/Hide) HTML DOM element via Go/GopherJS/gopherjs-vue.
 :og_image: https://cdn.scotch.io/1/PNl29thbQ72wcrx4Icoq_build-a-single-page-app-with-go-echo-vue.png.jpg
