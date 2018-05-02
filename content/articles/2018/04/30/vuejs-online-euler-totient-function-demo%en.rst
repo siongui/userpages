@@ -104,11 +104,9 @@ implemented using JavaScript.
     <p>{{ message }}</p>
   </div>
 
-  </div>
-
   <script src="https://cdn.jsdelivr.net/npm/vue@2.5.16/dist/vue.js"></script>
 
-Given an input from user, we check if the input is n positive integer. Then we
+Given an input from user, we check if the input is a positive integer. Then we
 run GCD algorithm to check if the number is coprime to n. If yes, add the number
 to our result.
 

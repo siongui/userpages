@@ -14,10 +14,10 @@ for Vue.js_). `Sieve of Eratosthenes`_ is a method to find prime numbers up to a
 given limit. The algorithm comes from GeeksforGeeks [1]_ and implemented in Go.
 gopherjs-vue_ is used to build to UI interaction.
 
-Although the following demo is written in JavaScript, the effect is the same as
-that written in Go.
+Although the following demo is written in JavaScript/Vue.js, the effect is the
+same as that written in Go.
 
-.. rubric:: `Demo <{filename}/articles/2018/04/28/javascript-sieve-of-eratosthenes%en.rst>`_
+.. rubric:: `Demo <{filename}/articles/2018/05/02/vuejs-online-sieve-of-eratosthenes-demo%en.rst>`_
    :class: align-center
 
 The link of full source code is available `on my GitHub repo`_.
