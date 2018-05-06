@@ -168,6 +168,11 @@ References:
 
 .. [4] `GitHub - siongui/gojianfan: Traditional and Simplified Chinese Conversion in Go <https://github.com/siongui/gojianfan>`_
 
+.. [5] | `Jsgo Playground: Edit and run Go code in the browser, supporting arbitrary import paths. : golang <https://www.reddit.com/r/golang/comments/8gxy9u/jsgo_playground_edit_and_run_go_code_in_the/>`_
+       | `GitHub - dave/jsgo: GopherJS compiler, serving framework and CDN. <https://github.com/dave/jsgo>`_
+       | `Jsgo Playground <https://play.jsgo.io/>`_
+       | `GitHub - dave/play: jsgo playground: edit and run Go code in the browser, supporting arbitrary import paths <https://github.com/dave/play>`_
+
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
 .. _official website of Go: https://golang.org/
