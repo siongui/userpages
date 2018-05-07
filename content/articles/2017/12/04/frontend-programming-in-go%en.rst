@@ -2,7 +2,7 @@ Frontend Programming in Go
 ##########################
 
 :date: 2017-12-04T22:06+08:00
-:modified: 2018-05-04T23:35+08:00
+:modified: 2018-05-07T23:34+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go
 :category: Frontend Programming in Go
 :summary: Discuss why I choose Go to be my frontend programming language. Wirte
@@ -133,6 +133,7 @@ Vue.js_:
 - `Virtual Keyboard via Go and Vue.js`_
 - `Online Sieve of Eratosthenes Demo via Go and Vue.js`_
 - `Watch Data Change via Go and Vue.js`_
+- `Watch Data Change With Options via Go and Vue.js`_
 
 `Chrome Extension`_:
 
@@ -216,3 +217,4 @@ References:
 .. _Check if Value of HTML Input Text Field is Integer in Go: {filename}check-if-html-input-text-value-is-integer-in-go%en.rst
 .. _Online Sieve of Eratosthenes Demo via Go and Vue.js: {filename}sieve-of-eratosthenes-via-gopherjs-vue%en.rst
 .. _Watch Data Change via Go and Vue.js: {filename}watch-data-change-via-gopherjs-vue%en.rst
+.. _Watch Data Change With Options via Go and Vue.js: {filename}watch-data-change-with-option-via-gopherjs-vue%en.rst
