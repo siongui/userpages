@@ -1,7 +1,7 @@
 Online Calculate Sum of Proper Divisors
 #######################################
 
-:date: 2018-05-07T23:34+08:00
+:date: 2018-05-08T23:34+08:00
 :tags: Vue.js, JavaScript, Algorithm, Prime Number, Math
 :category: Math
 :summary: Online tool for prime factorization and calculating sum of proper

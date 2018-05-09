@@ -2,6 +2,7 @@
 #########################################################
 
 :date: 2018-02-09T06:21+08:00
+:modified: 2018-05-09T23:47+08:00
 :tags: Go, Golang, Web Scrape, Go net/http, Instagram, HTTP cookie
 :category: Go
 :summary: Get links of Instagram highlight stories of a specific user via Go
@@ -9,6 +10,9 @@
           packages needed.
 :og_image: https://tctechcrunch2011.files.wordpress.com/2017/12/instagram-stories-highlights-archive.png
 :adsu: yes
+
+**[Update]**: the method in this post can only get partial story highlights now.
+Please see my `another new post`_ for how to get the rest of story highlights.
 
 Interesting small program to get the JSON format data of highlight stories of a
 specific Instagram_ user.
@@ -69,3 +73,4 @@ References:
 .. _SO answer: https://stackoverflow.com/a/44773079
 .. _InstaG Downloader: https://chrome.google.com/webstore/detail/instag-downloader/jnkdcmgmnegofdddphijckfagibepdlb
 .. _Network Sniffer: https://chrome.google.com/webstore/detail/network-sniffer/coblekblkacfilmgdghecpekhadldjfj
+.. _another new post: {filename}/articles/2018/05/09/go-get-all-story-highlights-of-instagram-user%en.rst

@@ -2,6 +2,7 @@
 ###############################################
 
 :date: 2018-02-13T09:16+08:00
+:modified: 2018-05-09T23:51+08:00
 :tags: Go, Golang, Web Scrape, Go net/http, Instagram, HTTP cookie
 :category: Go
 :summary: Get URL of all posts of a specific Instagram user via Go programming
@@ -9,6 +10,11 @@
           needed.
 :og_image: http://media.idownloadblog.com/wp-content/uploads/2017/06/Instagram-for-iOS-how-to-archive-post-iPhone-screenshot-001.jpg
 :adsu: yes
+
+**[Update]**: Due to Instagram API change, the method in this post is invalid
+now. But we can still apply the same idea of the method in the post to get all
+post urls from new GraphQL API. See my instago_ repo for more details.
+
 
 Interesting small program to get URL of all posts of a specific Instagram_ user.
 
@@ -54,3 +60,4 @@ References:
 
 .. _Instagram: https://www.instagram.com/
 .. _SO answer: https://stackoverflow.com/a/44773079
+.. _instago: https://github.com/siongui/instago

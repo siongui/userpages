@@ -13,8 +13,8 @@
 
 When I visited Instagram_ user profile page, looked at the HTML source code, I
 accidentally found that the some user information is embedded in the
-*window.._sharedData* variable in *script* tag. The user information is stored
-in JSON format, so I wrote a small program to retrieve the information from the
+*window._sharedData* variable in *script* tag. The user information is stored in
+JSON format, so I wrote a small program to retrieve the information from the
 HTML source. The following is complete source code:
 
 .. code-block:: go

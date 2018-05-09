@@ -2,12 +2,17 @@
 ##############################
 
 :date: 2018-02-04T08:52+08:00
+:modified: 2018-05-09T23:06+08:00
 :tags: Go, Golang, Web Scrape, Go net/http, Go strings Package, JSON, Instagram
 :category: Go
 :summary: Given user name, get Instagram user id via Go programming language.
           Use only Go standard library and no third-party packages needed.
 :og_image: http://zentools2.joomlabamboo.com/images/documentation/instagram/get-user-id.png
 :adsu: yes
+
+**[Update]**: The method in this post is no longer valid because Instagram does
+not allow access to *?__a=1* now. But we can still get user id from embedded
+data in HTML of user profile page. See my `another post`_ for more details.
 
 Interesting small program to get Instagram_ user id, assume that user name is
 given. The method of getting id is found in the answer of Stack Overflow
@@ -50,6 +55,7 @@ References:
 .. [1] `Instagram API -Get the userId - Stack Overflow <https://stackoverflow.com/a/44773079>`_
 
 .. _Instagram: https://www.instagram.com/
+.. _another post: {filename}/articles/2018/04/12/go-get-instagram-user-information-from-html-source%en.rst
 
 .. |godoc| image:: https://godoc.org/github.com/PuerkitoBio/goquery?status.png
    :target: https://godoc.org/github.com/PuerkitoBio/goquery
