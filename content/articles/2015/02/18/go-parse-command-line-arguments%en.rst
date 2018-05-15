@@ -4,7 +4,8 @@
 :date: 2015-02-18 02:29
 :tags: Go, Golang, Commandline, Go flag Package
 :category: Go
-:summary: How to parse command-line arguments (flags) in Go programming language.
+:summary: How to pass command-line arguments (flags) in Go programming language.
+:og_image: https://cdn-images-1.medium.com/max/1200/1*8Y-A5uFE028SqeflYpJ-7Q.png
 :adsu: yes
 
 On \*nix system we often run the program with arguments. How do we get the
