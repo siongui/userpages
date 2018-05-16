@@ -1,8 +1,8 @@
-[Golang] Wait For Goroutine to Finish
-#####################################
+[Golang] Wait For Goroutines to Finish
+######################################
 
 :date: 2015-03-23 22:16
-:modified: 2018-02-12T09:58+08:00
+:modified: 2018-05-16T22:56+08:00
 :tags: Go, Golang, Goroutine, Go Channels, Go sync Package
 :category: Go
 :summary: Use channels to wait for all goroutines to finish
@@ -18,10 +18,43 @@ Channel [1]_
 
 Wait for all goroutines to finish via channels_:
 
-.. rubric:: `Run Code on Go Playground <https://play.golang.org/p/0lDZVtmpL1e>`__
+.. rubric:: `Run Code on Go Playground <https://play.golang.org/p/dHYMGZNbnj5>`__
    :class: align-center
 
-.. show_github_file:: siongui userpages content/code/go-wait-goroutine-finish/sync.go
+.. code-block:: go
+
+  package main
+
+  import (
+  	"fmt"
+  )
+
+  func routine(site string, c chan int) {
+  	defer func() { c <- 1 }()
+
+  	// do something
+  	fmt.Println(site)
+  }
+
+  func main() {
+  	c := make(chan int)
+
+  	sites := []string{
+  		"https://www.google.com/",
+  		"https://duckduckgo.com/",
+  		"https://www.bing.com/"}
+
+  	for _, site := range sites {
+  		go routine(site, c)
+  	}
+
+  	// wait all goroutines to finish
+  	for i := 0; i < len(sites); i++ {
+  		<-c
+  	}
+  }
+
+
 .. adsu:: 2
 
 
