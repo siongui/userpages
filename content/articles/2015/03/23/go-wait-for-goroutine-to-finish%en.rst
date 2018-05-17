@@ -3,7 +3,7 @@
 
 :date: 2015-03-23 22:16
 :modified: 2018-05-16T22:56+08:00
-:tags: Go, Golang, Goroutine, Go Channels, Go sync Package
+:tags: Go, Golang, Goroutine, Go Channels, Go sync Package, Go defer Statement
 :category: Go
 :summary: Use channels to wait for all goroutines to finish
 :og_image: https://cdn-images-1.medium.com/max/1200/1*GWYUFH14uOVLNHY-L1tv2w.jpeg

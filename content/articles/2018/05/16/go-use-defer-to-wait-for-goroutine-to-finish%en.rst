@@ -2,7 +2,7 @@
 ###################################################
 
 :date: 2018-05-16T23:35+08:00
-:tags: Go, Golang, Goroutine, Go Channels
+:tags: Go, Golang, Goroutine, Go Channels, Go defer Statement
 :category: Go
 :summary: Use Go *defer* statement to elegantly wait for all goroutines to
           finish.
