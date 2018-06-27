@@ -2,7 +2,7 @@ iGloba Z08 掃地機器人使用心得
 #############################
 
 :date: 2017-04-21T20:51+08:00
-:modified: 2017-12-13T00:16+08:00
+:modified: 2018-06-27T08:22+08:00
 :tags: 3C
 :category: 掃地機器人
 :summary: iGloba Z08 掃地機器人使用心得，包含與iRobot Roomba 561比較。
@@ -65,11 +65,9 @@ Roomba 561，若沒有虛擬牆，常常會在階梯上掉落。小姐看我一�
 
 .. adsu:: 3
 
-以下是實地影片：
-
-.. raw:: html
-
-  <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100011192288460%2Fvideos%2F404267096623030%2F&show_text=0&width=auto" width="auto" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+.. 以下是實地影片：
+   .. raw:: html
+   <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100011192288460%2Fvideos%2F404267096623030%2F&show_text=0&width=auto" width="auto" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 更新[2017-06-08]： 前幾天掃完後開始無法自動回基地台充電，昨天在臉書上跟小編約
 時間，今天早上九點送到總公司維修，中午修好。買來後天天用，比起上一台iRobot，感覺
@@ -94,6 +92,10 @@ iRobot掃地機操了七八年，再怎樣操也不會出問題，只有換過�
 
 更新[2017-12-13]： 今天已經收到機器，目前使用功能正常，感恩！希望iGloba可以越做
 越好，跟iRobot的產品一樣耐操！
+
+更新[2018-06-27]： 用了一年多，現在這臺掃地時變得跟iRobot一樣聲音很大，此外現在
+掃地行走時，有時無法走直線，會變成走曲線，我推測可能是因為髒東西跑進機器裡，所以
+現在掃地變大聲而且無法走直線，若工程師們有看到這篇，希望能改進！加油！
 
 ----
 

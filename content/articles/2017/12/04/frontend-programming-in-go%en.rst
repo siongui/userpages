@@ -2,7 +2,7 @@ Frontend Programming in Go
 ##########################
 
 :date: 2017-12-04T22:06+08:00
-:modified: 2018-05-07T23:34+08:00
+:modified: 2018-06-27T08:30+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go
 :category: Frontend Programming in Go
 :summary: Discuss why I choose Go to be my frontend programming language. Wirte
@@ -70,7 +70,7 @@ Run Go Code on Browser
 
 There are two ways to make your Go code run on browsers. One is via transpilers
 which compiles the Go code to JavaScript. The other is via WebAssembly, which is
-still not usable and under development now.
+to be supported experimentally in the upcoming Go1.11 release.
 
 1. Transpiler: The first way to run Go code on browsers is via GopherJS_, which
    transpiles Go code into JavaScript. As mentioned in previous section, it
@@ -81,7 +81,8 @@ still not usable and under development now.
 
 2. WebAssembly: WebAssembly is the future for web application development. Right
    now all major browsers support wasm, and the official Go compiler support for
-   wasm is almost done. See [1]_ for more information.
+   wasm is almost done. See [1]_ for more information and try it using
+   `go1.11beta1`_.
 
 
 Table of Content
@@ -161,6 +162,26 @@ References:
        |
        | `WebAssembly support lands in Go language: golang wasm/js <https://react-etc.net/entry/webassembly-support-lands-in-go-language-golang-wasm-js>`_
        | `WebAssembly support lands in Go language: golang wasm/js : golang <https://www.reddit.com/r/golang/comments/8c64ix/webassembly_support_lands_in_go_language_golang/>`_
+       |
+       | `Notes on WASM in Go 1.11 : golang <https://www.reddit.com/r/golang/comments/8q04c8/notes_on_wasm_in_go_111/>`_
+       | `Some notes about the upcoming WebAssembly support in Go - Unladen swallow <https://blog.owulveryck.info/2018/06/08/some-notes-about-the-upcoming-webassembly-support-in-go.html>`_
+       |
+       | `Early experimentation with Go's WebAssembly : golang <https://www.reddit.com/r/golang/comments/8q71ed/early_experimentation_with_gos_webassembly/>`_
+       | `Lazy Hacker Babble: Go with WebAssembly Early Examples <https://blog.lazyhacker.com/2018/06/go-with-webassembly-early-examples.html>`_
+       |
+       | `GopherJS vs WebAssembly for Go : golang <https://www.reddit.com/r/golang/comments/8rdtxi/gopherjs_vs_webassembly_for_go/>`_
+       | `GopherJS vs WebAssembly for Go <https://dev.to/hajimehoshi/gopherjs-vs-webassembly-for-go-148m>`_
+       |
+       | `Experiments with image manipulation in WASM using Go : golang <https://www.reddit.com/r/golang/comments/8s07p5/experiments_with_image_manipulation_in_wasm_using/>`_
+       | `Experiments with image manipulation in WASM using Go <http://agniva.me/wasm/2018/06/18/shimmer-wasm.html>`_
+       |
+       | `Web Assembly and Go: A look to the future : golang <https://www.reddit.com/r/golang/comments/8t2q1h/web_assembly_and_go_a_look_to_the_future/>`_
+       | `Web Assembly and Go: A look to the future <https://brianketelsen.com/web-assembly-and-go-a-look-to-the-future/>`_
+       | `Web Assembly and Go: A look to the future | Hacker News <https://news.ycombinator.com/item?id=17381816>`_
+       | `Creating Web Component in Go + wasm <https://matthewphillips.info/programming/wasm-golang-ce.html>`_
+       |
+       | `GopherWasm - A wrapper for GopherJS (\`gopherjs/js\`) and Wasm (\`syscall/js\`) : golang <https://www.reddit.com/r/golang/comments/8tjtc1/gopherwasm_a_wrapper_for_gopherjs_gopherjsjs_and/>`_
+       | `GitHub - gopherjs/gopherwasm: A wrapper for GopherJS (\`gopherjs/js\`) and Wasm (\`syscall/js\`) <https://github.com/gopherjs/gopherwasm>`_
 
 .. [2] `GitHub - lpereira/gomoku: Gomoku compiles Go code to C++ <https://github.com/lpereira/gomoku>`_
 
@@ -218,3 +239,4 @@ References:
 .. _Online Sieve of Eratosthenes Demo via Go and Vue.js: {filename}sieve-of-eratosthenes-via-gopherjs-vue%en.rst
 .. _Watch Data Change via Go and Vue.js: {filename}watch-data-change-via-gopherjs-vue%en.rst
 .. _Watch Data Change With Options via Go and Vue.js: {filename}watch-data-change-with-option-via-gopherjs-vue%en.rst
+.. _go1.11beta1: https://groups.google.com/forum/#!topic/golang-nuts/vpVOVVMLa08
