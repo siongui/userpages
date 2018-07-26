@@ -13,8 +13,6 @@ Location: `Kaohsiung <http://en.wikipedia.org/wiki/Kaohsiung>`_,
 `Taiwan <http://en.wikipedia.org/wiki/Taiwan>`_
 
 Profiles:
-`Facebook <https://www.facebook.com/siongui.te.5>`_ /
-`Instagram <https://www.instagram.com/sionguite/>`_ /
 `Google+ <https://plus.google.com/+SiongUiTe>`_ /
 `Github <https://github.com/siongui>`_ /
 `Gist <https://gist.github.com/siongui>`_ /

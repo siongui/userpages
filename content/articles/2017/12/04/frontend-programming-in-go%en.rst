@@ -80,9 +80,9 @@ to be supported experimentally in the upcoming Go1.11 release.
    manipulation easy and similar to JavaScript counterpart.
 
 2. WebAssembly: WebAssembly is the future for web application development. Right
-   now all major browsers support wasm, and the official Go compiler support for
-   wasm is almost done. See [1]_ for more information and try it using
-   `go1.11beta1`_.
+   now all major browsers support wasm, and the official Go compiler 1.11 will
+   add an experimental port to WebAssembly (js/wasm). See [1]_ for more
+   information and try it using `go1.11beta2`_.
 
 
 Table of Content
@@ -182,6 +182,21 @@ References:
        |
        | `GopherWasm - A wrapper for GopherJS (\`gopherjs/js\`) and Wasm (\`syscall/js\`) : golang <https://www.reddit.com/r/golang/comments/8tjtc1/gopherwasm_a_wrapper_for_gopherjs_gopherjsjs_and/>`_
        | `GitHub - gopherjs/gopherwasm: A wrapper for GopherJS (\`gopherjs/js\`) and Wasm (\`syscall/js\`) <https://github.com/gopherjs/gopherwasm>`_
+       |
+       | `Go and Goto in WebAssembly : golang <https://www.reddit.com/r/golang/comments/8usnpe/go_and_goto_in_webassembly/>`_
+       | `Please Support Arbitrary Labels and Gotos. · Issue #796 · WebAssembly/design · GitHub <https://github.com/WebAssembly/design/issues/796#issuecomment-401310366>`_
+       |
+       | `go1.11 webassembly experiments : golang <https://www.reddit.com/r/golang/comments/8vrhld/go111_webassembly_experiments/>`_
+       | `GitHub - stdiopt/gowasm-experiments: go1.11 webassembly experiments <https://github.com/stdiopt/gowasm-experiments>`_
+       |
+       | `Go 1.11: WebAssembly for the gophers : golang <https://www.reddit.com/r/golang/comments/8vgmpj/go_111_webassembly_for_the_gophers/>`_
+       | `Go 1.11: WebAssembly for the gophers – Zenika <https://medium.zenika.com/go-1-11-webassembly-for-the-gophers-ae4bb8b1ee03>`_
+       |
+       | `Using Go for WebAssembly Applications : golang <https://www.reddit.com/r/golang/comments/8wi14y/using_go_for_webassembly_applications/>`_
+       | `Using Go (Golang) for WebAssembly Applications · Sebastian Holstein <https://sebastian-holstein.de/post/2018-07-05-go-wasm-application/>`_
+       |
+       | `Go WebAssembly: Binding structures to JS references : golang <https://www.reddit.com/r/golang/comments/8wkd5r/go_webassembly_binding_structures_to_js_references/>`_
+       | `Go WebAssembly: Binding structures to JS references <https://medium.com/@nlepage/go-webassembly-binding-structures-to-js-references-4eddd6fd4d23>`_
 
 .. [2] `GitHub - lpereira/gomoku: Gomoku compiles Go code to C++ <https://github.com/lpereira/gomoku>`_
 
@@ -239,4 +254,4 @@ References:
 .. _Online Sieve of Eratosthenes Demo via Go and Vue.js: {filename}sieve-of-eratosthenes-via-gopherjs-vue%en.rst
 .. _Watch Data Change via Go and Vue.js: {filename}watch-data-change-via-gopherjs-vue%en.rst
 .. _Watch Data Change With Options via Go and Vue.js: {filename}watch-data-change-with-option-via-gopherjs-vue%en.rst
-.. _go1.11beta1: https://groups.google.com/forum/#!topic/golang-nuts/vpVOVVMLa08
+.. _go1.11beta2: https://groups.google.com/forum/#!msg/golang-announce/RVR0FzIKBsU/PAxl4-ZVCAAJ

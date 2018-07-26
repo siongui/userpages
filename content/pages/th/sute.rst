@@ -13,8 +13,6 @@
 `ไต้หวัน <https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%95%E0%B9%89%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%99>`_
 
 สังคม:
-`Facebook <https://www.facebook.com/siongui.te.5>`_ /
-`Instagram <https://www.instagram.com/sionguite/>`_ /
 `Google+ <https://plus.google.com/+SiongUiTe>`_ /
 `Github <https://github.com/siongui>`_ /
 `Gist <https://gist.github.com/siongui>`_ /
