@@ -2,8 +2,9 @@ Frontend Programming in Go
 ##########################
 
 :date: 2017-12-04T22:06+08:00
-:modified: 2018-06-27T08:30+08:00
-:tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go
+:modified: 2018-07-30T00:18+08:00
+:tags: Go, Golang, GopherJS, Go to JavaScript, Go WebAssembly,
+       Frontend Programming in Go
 :category: Frontend Programming in Go
 :summary: Discuss why I choose Go to be my frontend programming language. Wirte
           Go code and run your application on web browsers.
@@ -91,6 +92,18 @@ Table of Content
 This post is the first to introduce Go in the field of frontend programming. I
 will write a series of posts to show you how to write and run Go code on the
 browsers. If any advices, please leave your comments on GitHub!
+
+
+Go WebAssembly
+--------------
+
+**Basics**:
+
+- `[Go WebAssembly] First Wasm Program - Hello World`_
+
+
+GopherJS
+--------
 
 **Basics**:
 
@@ -255,3 +268,4 @@ References:
 .. _Watch Data Change via Go and Vue.js: {filename}watch-data-change-via-gopherjs-vue%en.rst
 .. _Watch Data Change With Options via Go and Vue.js: {filename}watch-data-change-with-option-via-gopherjs-vue%en.rst
 .. _go1.11beta2: https://groups.google.com/forum/#!msg/golang-announce/RVR0FzIKBsU/PAxl4-ZVCAAJ
+.. _[Go WebAssembly] First Wasm Program - Hello World: {filename}/articles/2018/07/30/golang-wasm-hello-world%en.rst
