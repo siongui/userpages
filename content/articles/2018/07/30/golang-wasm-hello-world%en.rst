@@ -153,6 +153,9 @@ References:
        | `Go WebAssembly: Binding structures to JS references : golang <https://www.reddit.com/r/golang/comments/8wkd5r/go_webassembly_binding_structures_to_js_references/>`_
        | `Go WebAssembly: Binding structures to JS references <https://medium.com/@nlepage/go-webassembly-binding-structures-to-js-references-4eddd6fd4d23>`_
 
+.. [2] | `Go1.11和WebAssembly <https://mp.weixin.qq.com/s/jqISsdQ9tDzy9Zg6g6u5xw>`_
+       | `GitHub - chai2010/awesome-wasm-zh: WebAssembly(wasm)资源精选 <https://github.com/chai2010/awesome-wasm-zh>`_
+       | `WebAssembly · golang/go Wiki · GitHub <https://github.com/golang/go/wiki/WebAssembly>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
