@@ -157,6 +157,8 @@ References:
        | `GitHub - chai2010/awesome-wasm-zh: WebAssembly(wasm)资源精选 <https://github.com/chai2010/awesome-wasm-zh>`_
        | `WebAssembly · golang/go Wiki · GitHub <https://github.com/golang/go/wiki/WebAssembly>`_
 
+.. [3] `WebAssembly = Writing JS in Go? • r/golang <https://old.reddit.com/r/golang/comments/9gtg2h/webassembly_writing_js_in_go/>`_
+
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
 .. _official website of Go: https://golang.org/
