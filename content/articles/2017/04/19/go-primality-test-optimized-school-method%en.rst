@@ -2,7 +2,7 @@
 #################################################
 
 :date: 2017-04-19T23:35+08:00
-:tags: Go, Golang, Algorithm
+:tags: Go, Golang, Math, Algorithm, Prime Number
 :category: Go
 :summary: Go implementation of primality test - optimized school method.
 :og_image: http://images.slideplayer.com/5/1596895/slides/slide_2.jpg
