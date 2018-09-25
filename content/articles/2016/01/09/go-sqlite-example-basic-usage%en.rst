@@ -110,6 +110,8 @@ References:
 .. [20] | `Badger – A fast key-value store written natively in Go | Hacker News <https://news.ycombinator.com/item?id=14335931>`_
         | `GitHub - dgraph-io/badger: Fastest key/value store in Go. <https://github.com/dgraph-io/badger>`_
 
+.. [21] `Good approach to interacting with databases? : golang <https://old.reddit.com/r/golang/comments/9i5cpg/good_approach_to_interacting_with_databases/>`_
+
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
 .. _SQLite: https://www.sqlite.org/
