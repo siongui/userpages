@@ -92,6 +92,14 @@ Only two rules in CSS code:
 
 ----
 
+**You might be interested in ...**
+
+- `[Vue.js] Bulma Modal <{filename}/articles/2018/09/27/vuejs-bulma-modal%en.rst>`_
+- `JavaScript for Bulma Modal <{filename}/articles/2018/01/17/bulma-modal-with-javascript%en.rst>`_
+- `Bulma Modal with Go Toggle <{filename}/articles/2017/12/04/bulma-modal-with-go-toggle%en.rst>`_
+
+----
+
 Tested on:
 
 - ``Chromium 63.0.3239.132 on Ubuntu 17.10 (64-bit)``

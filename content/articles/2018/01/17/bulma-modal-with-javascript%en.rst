@@ -147,6 +147,14 @@ engines.
 
 ----
 
+**You might be interested in ...**
+
+- `[Vue.js] Bulma Modal <{filename}/articles/2018/09/27/vuejs-bulma-modal%en.rst>`_
+- `Bulma Modal with Pure CSS Toggle <{filename}/articles/2018/01/27/css-only-toggle-bulma-modal%en.rst>`_
+- `Bulma Modal with Go Toggle <{filename}/articles/2017/12/04/bulma-modal-with-go-toggle%en.rst>`_
+
+----
+
 Tested on:
 
 - ``Chromium 64.0.3282.140 on Ubuntu 17.10 (64-bit)``
