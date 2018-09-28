@@ -22,7 +22,6 @@ A: 利用 strings_ package 裡的 TrimPrefix_ function
 
    看 `這裡 <https://play.golang.org/p/sOIZognDV6>`__ 的官方 TrimPrefix_ 範例。
 
-.. adsu:: 2
 
 刪除字串後綴
 ++++++++++++
@@ -43,7 +42,7 @@ Tested on: ``Ubuntu Linux 16.10``, ``Go 1.7.4``.
 
 ----
 
-.. adsu:: 3
+.. adsu:: 2
 
 References:
 

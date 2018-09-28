@@ -81,6 +81,7 @@ References
 .. [5] `simple utility to convert yaml config file to map[string]string : golang <https://www.reddit.com/r/golang/comments/5zo33t/simple_utility_to_convert_yaml_config_file_to/>`_
 .. [6] `YAML to GO: Convert YAML to Struct : golang <https://www.reddit.com/r/golang/comments/66kahf/yaml_to_go_convert_yaml_to_struct/>`_
 .. [7] `Standard configuration file format : golang <https://www.reddit.com/r/golang/comments/69afym/standard_configuration_file_format/>`_
+.. [8] `Best Practices: Config Files in Go Projects : golang <https://old.reddit.com/r/golang/comments/9ivans/best_practices_config_files_in_go_projects/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

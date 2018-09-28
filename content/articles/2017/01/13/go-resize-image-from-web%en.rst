@@ -20,9 +20,8 @@ Install the image resizing library (`github.com/nfnt/resize`_) first:
 
 The full example:
 
-.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/go/resize-image/web.go
-.. adsu:: 3
+.. adsu:: 2
 .. show_github_file:: siongui userpages content/code/go/resize-image/web_test.go
 
 For more usage of `github.com/nfnt/resize`_, visit its GitHub page. If your image
@@ -44,7 +43,7 @@ References:
        | `golang change image size - Yahoo search <https://search.yahoo.com/search?p=golang+change+image+size>`_
        | `golang change image size - Baidu search <https://www.baidu.com/s?wd=golang+change+image+size>`_
        | `golang change image size - Yandex search <https://www.yandex.com/search/?text=golang+change+image+size>`_
-.. adsu:: 4
+.. adsu:: 3
 .. [2] | `GitHub - nfnt/resize: Pure golang image resizing <https://github.com/nfnt/resize>`_
        | `png - The Go Programming Language <https://golang.org/pkg/image/png/>`_
        | `http - The Go Programming Language <https://golang.org/pkg/net/http/>`_
@@ -54,7 +53,7 @@ References:
 .. [4] `GitHub - fawick/speedtest-resize: Compare various Image resize algorithms for the Go language <https://github.com/fawick/speedtest-resize>`_
 
 .. [5] `Guess Metadata from HTML and Converted to reStructuredText <{filename}../../../2016/05/16/html-metadata-to-rst%en.rst>`_
-
+.. [6] `Creative coding in Go : golang <https://old.reddit.com/r/golang/comments/9ipu4w/creative_coding_in_go/>`_
 
 .. _Go: https://golang.org/
 .. _png: https://www.google.com/search?q=png
