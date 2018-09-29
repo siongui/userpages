@@ -113,7 +113,7 @@ The complete source code is as follows:
     display: block;
   }
 
-- The first rule hide the tab content and input radio box.
+- The first rule hides the tab content and input radio box.
 - The magic is in second rule. We use **:checked** and general sibling selector
   (~) to make the user-selected tab content visible.
 
