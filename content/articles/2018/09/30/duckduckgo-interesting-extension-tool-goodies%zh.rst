@@ -6,6 +6,7 @@ DuckDuckGo有趣線上小工具
 :category: 網頁小工具
 :summary: DuckDuckGo_ 搜尋引擎提供的有趣線上小功能
 :og_image: http://www.bitcoinx.com/wp-content/uploads/2014/04/duck.jpg
+:adsu: yes
 
 
 從駭客新聞 [1]_ 看到的資訊，發現 DuckDuckGo_ 跟 Google
@@ -26,6 +27,8 @@ DuckDuckGo有趣線上小工具
 非DuckDuckGo有趣連結：
 
 - `GCHQ CyberChef <https://gchq.github.io/CyberChef/>`_
+
+.. adsu:: 2
 
 .. [1] `DuckDuckGo Traffic | Hacker News <https://news.ycombinator.com/item?id=18100243>`_
 .. [2] `Solidot | Duck Duck Go 流量一个月内增长 10% <https://www.solidot.org/story?sid=58103>`_
