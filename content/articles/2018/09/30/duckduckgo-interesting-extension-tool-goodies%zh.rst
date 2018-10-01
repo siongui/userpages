@@ -32,5 +32,6 @@ DuckDuckGo有趣線上小工具
 
 .. [1] `DuckDuckGo Traffic | Hacker News <https://news.ycombinator.com/item?id=18100243>`_
 .. [2] `Solidot | Duck Duck Go 流量一个月内增长 10% <https://www.solidot.org/story?sid=58103>`_
+.. [3] `隐私保护搜索引擎 DuckDuckGo 流量一个月内增长 10% - 开源中国 <https://www.oschina.net/news/100466/duckduckgo-usage-is-exploding-right-now>`_
 
 .. _DuckDuckGo: https://duckduckgo.com/
