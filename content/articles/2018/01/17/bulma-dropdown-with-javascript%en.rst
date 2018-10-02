@@ -2,6 +2,7 @@ JavaScript for Bulma Dropdown
 #############################
 
 :date: 2018-01-19T05:33+08:00
+:modified: 2018-10-02T19:13+08:00
 :tags: CSS, html, JavaScript, Bulma, dropdown menu
 :category: CSS
 :summary: JavaScript code for Bulma dropdown menu.
@@ -16,6 +17,9 @@ just want to use the same code as that in Bulma_ official website [1]_.
 The JavaScript code comes from *main.js* used in the official site [2]_.
 I put the code here in the post  for easy search by Google or other search
 engines.
+
+If you do not want to toggle with JavaScript, you can use pure css solution.
+See [3]_.
 
 .. code-block:: javascript
 
@@ -159,7 +163,7 @@ Tested on:
 
 .. [1] `Dropdown | Bulma: a modern CSS framework based on Flexbox <https://bulma.io/documentation/components/dropdown/>`_
 .. [2] `https://bulma.io/lib/main.js?v=201801161752 <https://bulma.io/lib/main.js?v=201801161752>`_
-
+.. [3] `Pure CSS Bulma Dropdown Toggle <{filename}/articles/2018/10/02/css-only-toggle-bulma-dropdown%en.rst>`_
 
 .. _Bulma: http://bulma.io/
 .. _Transparent navbar: https://bulma.io/documentation/components/navbar/#transparent-navbar
