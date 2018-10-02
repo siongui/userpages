@@ -2,6 +2,7 @@
 ############################
 
 :date: 2017-03-23T03:05+08:00
+:modified: 2018-10-03T00:55+08:00
 :tags: CSS, Web開發
 :category: CSS
 :summary: 純 CSS_ 解決方案：將HTML Table的行(row)以及列(column)對調
@@ -77,6 +78,102 @@ JavaScript_ 程式碼。
   tr { display: block; float: left; }
   th, td { display: block; }
 
+我們甚至還可以透過 CSS 來回切換行列，請按下方『行列互換』的文字數次看結果：
+
+.. raw:: html
+
+  <style>
+  label[for=element-toggle] {
+    cursor: pointer;
+    color: red;
+  }
+  #element-toggle {
+    display: none;
+  }
+
+  #element-toggle:checked ~ #toggled-element tr {
+    display: block;
+    float: left;
+  }
+  #element-toggle:checked ~ #toggled-element th,
+  #element-toggle:checked ~ #toggled-element td {
+    display: block;
+  }
+  </style>
+
+.. raw:: html
+
+  <div style="padding: 2em; background-color: Azure; padding: 5px;">
+
+  <label for="element-toggle">行列互換</label>
+  <input id="element-toggle" type="checkbox" />
+
+  <br><br>
+
+  <table id="toggled-element">
+  <tr><th>Type</th><th>For</th></tr>
+  <tr><td>aa</td><td>ā</td></tr>
+  <tr><td>ii</td><td>ī</td></tr>
+  <tr><td>uu</td><td>ū</td></tr>
+  <tr><td>"n</td><td>ṅ</td></tr>
+  <tr><td>.m</td><td>ṃ</td></tr>
+  <tr><td>~n</td><td>ñ</td></tr>
+  <tr><td>.t</td><td>ṭ</td></tr>
+  <tr><td>.d</td><td>ḍ</td></tr>
+  <tr><td>.n</td><td>ṇ</td></tr>
+  <tr><td>.l</td><td>ḷ</td></tr>
+  </table>
+
+  </div>
+
+上面這個來回切換行列的程式碼如下：
+
+**HTML**:
+
+.. code-block:: html
+
+  <label for="element-toggle">行列互換</label>
+  <input id="element-toggle" type="checkbox" />
+
+  <table id="toggled-element">
+  <tr><th>Type</th><th>For</th></tr>
+  <tr><td>aa</td><td>ā</td></tr>
+  <tr><td>ii</td><td>ī</td></tr>
+  <tr><td>uu</td><td>ū</td></tr>
+  <tr><td>"n</td><td>ṅ</td></tr>
+  <tr><td>.m</td><td>ṃ</td></tr>
+  <tr><td>~n</td><td>ñ</td></tr>
+  <tr><td>.t</td><td>ṭ</td></tr>
+  <tr><td>.d</td><td>ḍ</td></tr>
+  <tr><td>.n</td><td>ṇ</td></tr>
+  <tr><td>.l</td><td>ḷ</td></tr>
+  </table>
+
+.. adsu:: 3
+
+**CSS**:
+
+.. code-block:: css
+
+  label[for=element-toggle] {
+    cursor: pointer;
+    color: red;
+  }
+  #element-toggle {
+    display: none;
+  }
+
+  #element-toggle:checked ~ #toggled-element tr {
+    display: block;
+    float: left;
+  }
+  #element-toggle:checked ~ #toggled-element th,
+  #element-toggle:checked ~ #toggled-element td {
+    display: block;
+  }
+
+來回切換的技巧說明請看 [4]_ 。
+
 ----
 
 參考：
@@ -98,8 +195,9 @@ JavaScript_ 程式碼。
        | `transpose html table css - Yahoo search <https://search.yahoo.com/search?p=transpose+html+table+css>`_
        | `transpose html table css - Baidu search <https://www.baidu.com/s?wd=transpose+html+table+css>`_
        | `transpose html table css - Yandex search <https://www.yandex.com/search/?text=transpose+html+table+css>`_
-.. adsu:: 3
+.. adsu:: 4
 .. [3] `javascript - HTML Table with vertical rows - Stack Overflow <http://stackoverflow.com/a/16919439>`_
+.. [4] `Pure CSS Toggle (Show/Hide) HTML Element <{filename}../../02/27/css-only-toggle-dom-element%en.rst>`_
 
 .. _CSS: https://www.google.com/search?q=CSS
 .. _JavaScript: https://www.google.com/search?q=JavaScript
