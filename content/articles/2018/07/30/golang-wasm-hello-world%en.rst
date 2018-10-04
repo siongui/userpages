@@ -2,6 +2,7 @@
 #################################################
 
 :date: 2018-07-30T00:17+08:00
+:modified: 2018-10-04T23:13+08:00
 :tags: Go, Golang, Go WebAssembly, Frontend Programming in Go
 :category: Frontend Programming in Go
 :summary: First try of Go WebAssembly - Say *Hello World* via *alert* method.
@@ -28,7 +29,7 @@ can install the wrapper for Go wasm by:
 
 .. code-block:: go
 
-  $ go get -u github.com/siongui/godom/wasm
+  $ GOARCH=wasm GOOS=js go get -u github.com/siongui/godom/wasm
 
 Next, we use alert_ method to display an alert box which says *Hello World*. It
 is easy -

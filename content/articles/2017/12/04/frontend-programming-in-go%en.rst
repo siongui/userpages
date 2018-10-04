@@ -2,7 +2,7 @@ Frontend Programming in Go
 ##########################
 
 :date: 2017-12-04T22:06+08:00
-:modified: 2018-09-15T22:23+08:00
+:modified: 2018-10-04T23:12+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Go WebAssembly,
        Frontend Programming in Go
 :category: Frontend Programming in Go
@@ -100,6 +100,7 @@ Go WebAssembly
 **Basics**:
 
 - `[Go WebAssembly] First Wasm Program - Hello World`_
+- `[Go WebAssembly] querySelector Example`_
 
 
 GopherJS
@@ -224,3 +225,4 @@ References:
 .. _Watch Data Change With Options via Go and Vue.js: {filename}watch-data-change-with-option-via-gopherjs-vue%en.rst
 .. _Go 1.11: https://blog.golang.org/go1.11
 .. _[Go WebAssembly] First Wasm Program - Hello World: {filename}/articles/2018/07/30/golang-wasm-hello-world%en.rst
+.. _[Go WebAssembly] querySelector Example: {filename}/articles/2018/07/30/golang-wasm-querySelector%en.rst
