@@ -3,7 +3,7 @@
 
 :date: 2018-09-29T23:20+08:00
 :tags: Vue.js, JavaScript, Web開發
-:category: JavaScript
+:category: Vue.js
 :summary: *Vue.js* 如何監看輸入文字元素 (input text element)
           的改變事件(change event)。
 :og_image: https://vuejs.org/images/logo.png
