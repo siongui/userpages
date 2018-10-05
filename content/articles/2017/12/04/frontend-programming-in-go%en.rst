@@ -101,6 +101,7 @@ Go WebAssembly
 
 - `[Go WebAssembly] First Wasm Program - Hello World`_
 - `[Go WebAssembly] querySelector Example`_
+- `[Go WebAssembly] querySelectorAll Example`_
 
 
 GopherJS
@@ -226,3 +227,4 @@ References:
 .. _Go 1.11: https://blog.golang.org/go1.11
 .. _[Go WebAssembly] First Wasm Program - Hello World: {filename}/articles/2018/07/30/golang-wasm-hello-world%en.rst
 .. _[Go WebAssembly] querySelector Example: {filename}/articles/2018/07/30/golang-wasm-querySelector%en.rst
+.. _[Go WebAssembly] querySelectorAll Example: {filename}/articles/2018/07/30/golang-wasm-querySelectorAll%en.rst

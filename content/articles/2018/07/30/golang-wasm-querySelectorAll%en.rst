@@ -1,16 +1,15 @@
-[Go WebAssembly] querySelector Example
-######################################
+[Go WebAssembly] querySelectorAll Example
+#########################################
 
-:date: 2018-10-04T23:10+08:00
-:modified: 2018-10-05T22:17+08:00
+:date: 2018-10-05T22:14+08:00
 :tags: Go, Golang, Go WebAssembly, Frontend Programming in Go
 :category: Frontend Programming in Go
-:summary: Go WebAssembly *querySelector* example.
+:summary: Go WebAssembly *querySelectorAll* example.
 :og_image: https://golang.org/doc/gopher/gophercolor.png
 :adsu: yes
 
 
-In this post, we will show you how to use querySelector_ method in Go wasm.
+In this post, we will show you how to use querySelectorAll_ method in Go wasm.
 godom_ package is used for DOM manipulation instead of using `syscall/js`_
 directly. First install godom_:
 
@@ -18,10 +17,10 @@ directly. First install godom_:
 
   $ GOARCH=wasm GOOS=js go get -u github.com/siongui/godom/wasm
 
-We will select an element whose id is *testdiv*, and set the value of its
+We will select div elements by querySelectorAll_, and set the value of its
 *innerHTML* to **hi**. See demo first:
 
-.. rubric:: `Go Wasm querySelector Demo <https://siongui.github.io/frontend-programming-in-go/wasm/002-querySelector/demo/>`__
+.. rubric:: `Go Wasm querySelectorAll Demo <https://siongui.github.io/frontend-programming-in-go/wasm/003-querySelectorAll/demo/>`__
    :class: align-center
 
 The following is source code of demo:
@@ -37,8 +36,10 @@ The following is source code of demo:
   )
 
   func main() {
-  	testdiv := Document.QuerySelector("#testdiv")
-  	testdiv.Set("innerHTML", "hi")
+  	testdivs := Document.QuerySelectorAll("#testdivs > div")
+  	for _, testdiv := range testdivs {
+  		testdiv.Set("innerHTML", "hi")
+  	}
   }
 
 If you have experience of JavaScript DOM manipulation, the above code is
@@ -53,10 +54,14 @@ self-evident. If you do not know how to compile the code, see [1]_.
   <html>
   <head>
     <meta charset="utf-8">
-    <title>Go wasm - querySelector</title>
+    <title>Go wasm - querySelectorAll</title>
   </head>
   <body>
-    <div id="testdiv"></div>
+    <div id="testdivs">
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
 
     <!-- https://github.com/golang/go/blob/master/misc/wasm/wasm_exec.js -->
     <script src="wasm_exec.js"></script>
@@ -76,11 +81,11 @@ self-evident. If you do not know how to compile the code, see [1]_.
   </body>
   </html>
 
-We manipulate the *div* element whose id is *testdiv*.
+We manipulate the *div* elements inside the element whose id is *testdivs*.
 Most of the HTML code is to load compiled wasm module. If you have no idea what
 it means, see [1]_.
 
-For querySelectorAll_ example, see [2]_.
+For querySelector_ example, see [2]_.
 
 .. adsu:: 2
 
@@ -99,11 +104,12 @@ Tested on:
 References:
 
 .. [1] `[Go WebAssembly] First Wasm Program - Hello World <{filename}golang-wasm-hello-world%en.rst>`_
-.. [2] `[Go WebAssembly] querySelectorAll Example <{filename}golang-wasm-querySelectorAll%en.rst>`_
+.. [2] `[Go WebAssembly] querySelector Example <{filename}golang-wasm-querySelector%en.rst>`_
 
 .. _querySelector: https://duckduckgo.com/?q=querySelector
 .. _querySelectorAll: https://duckduckgo.com/?q=querySelectorAll
+.. _Go Playground: https://play.golang.org/
 .. _godom: https://github.com/siongui/godom
 .. _WebAssembly: https://duckduckgo.com/?q=webassembly
 .. _syscall/js: https://tip.golang.org/pkg/syscall/js/
-.. _in my GitHub repo: https://github.com/siongui/frontend-programming-in-go/tree/master/wasm/002-querySelector
+.. _in my GitHub repo: https://github.com/siongui/frontend-programming-in-go/tree/master/wasm/003-querySelectorAll
