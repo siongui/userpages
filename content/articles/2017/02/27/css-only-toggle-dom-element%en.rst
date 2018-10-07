@@ -139,6 +139,8 @@ References:
        | `Unicode Name: STRICTLY EQUIVALENT TO - Quackit Tutorials <http://www.quackit.com/html/html_editors/scratchpad/?app=charset_ref&hexadecimal=02263&decimal=8803&unicodeName=STRICTLY_EQUIVALENT_TO>`_
 .. adsu:: 5
 .. [7] `CSS Only Bulma Responsive Nav Bar (Navigation Bar) <{filename}../22/css-only-bulma-responsive-navbar%en.rst>`_
+.. [8] | `Show HN: Pure CSS toggle Web component | Hacker News <https://news.ycombinator.com/item?id=18160224>`_
+       | `GitHub - rajasegar/css-toggle-component: Pure CSS Toggle Buttons as a Web component <https://github.com/rajasegar/css-toggle-component>`_
 
 .. _HTML: https://www.google.com/search?q=HTML
 .. _CSS: https://www.google.com/search?q=CSS

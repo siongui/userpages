@@ -2,7 +2,7 @@
 ##################################
 
 :date: 2018-04-28T01:40+08:00
-:modified: 2018-05-06T23:23+08:00
+:modified: 2018-10-07T22:20+08:00
 :tags: Go, Golang, Algorithm, Math, Prime Number, Project Euler
 :category: Go
 :summary: Go solution to Project Euler.
@@ -40,6 +40,7 @@
 28. not yet
 29. not yet
 30. `Digit fifth powers - Problem 30 <{filename}go-digit-fifth-power-problem-30-project-euler%en.rst>`_
+31. `Coin sums - Problem 31 <{filename}go-coin-sums-problem-31-project-euler%en.rst>`_
 
 ----
 
