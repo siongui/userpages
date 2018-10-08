@@ -1,18 +1,17 @@
-JavaScript Keyboard Event (Arrow Key Example)
-#############################################
+JavaScript 鍵盤事件 (方向鍵範例)
+################################
 
-:date: 2012-06-25 13:18
-:modified: 2018-10-08T22:19+08:00
-:tags: JavaScript, Keyboard Event, DOM
+:date: 2018-10-08T22:24+08:00
+:tags: JavaScript, 鍵盤事件, 文檔對象模型(DOM)
 :category: JavaScript
-:summary: Detect `arrow keystrokes`_ in JavaScript_.
+:summary: 利用 *JavaScript* 偵測 `方向鍵按鍵`_ 。
 :og_image: http://www.javatpoint.com/images/javascript/javascript_logo.png
 :adsu: yes
 
 
-This post will give an example for detecting `arrow keys`_ using JavaScript_.
-For general `keyboard event`_, it is very easy to achieve by extending the
-example in this post (also see references below). Try demo first:
+本文給出一個利用 JavaScript_ 來偵測 `方向鍵`_ 的範例。
+至於一般的 `鍵盤事件`_ ，只要把此範例稍微修改延伸即可達成
+（請順便閱讀下方參考）。先試看看下方demo：
 
 .. raw:: html
 
@@ -72,7 +71,7 @@ example in this post (also see references below). Try demo first:
   _addEventListener('keydown', document, handleKeyboardEvent);
   </script>
 
-Source Code for Demo (*HTML*):
+Demo原始碼 (*HTML*):
 
 .. code-block:: html
 
@@ -81,7 +80,7 @@ Source Code for Demo (*HTML*):
 
 .. adsu:: 2
 
-Source Code for Demo (*JavaScript*):
+Demo原始碼 (*JavaScript*):
 
 .. code-block:: javascript
 
@@ -130,19 +129,18 @@ Source Code for Demo (*JavaScript*):
 
   _addEventListener('keydown', document, handleKeyboardEvent);
 
-There are three events related to keyboards: *onkeydown*, *onkeypress*,
-*onkeyup*. To detect arrow keys, please use onkeydown_ (see [2]_).
+跟鍵盤相關的事件有三個： *onkeydown*, *onkeypress*, *onkeyup* 。
+偵測方向鍵，請用 onkeydown_ (參看 [2]_).
 
-According to the KeyboardEvent_ documentation on MDN_, the use of event.keyCode_
-is deprecated. We should use event.key_ instead. If you need to support very old
-browsers, use the example in this post. Otherwise see [5]_ for the new example
-of event.key_.
+根據 MDN_ 的 KeyboardEvent_ 文檔，已經不贊成使用 event.keyCode_ 。
+應使用 event.key_ 。如果您想要支援非常舊的瀏覽器，請使用本文的範例。
+否則請參看 [5]_ 使用 event.key_ 的新範例。
 
 .. adsu:: 3
 
 ----
 
-**References**
+**參考**
 
 .. [1] `Keyboard events | JavaScript Tutorial <https://javascript.info/tutorial/keyboard-events>`_
 .. [2] `keyboard events - Detecting arrow key presses in JavaScript - Stack Overflow <https://stackoverflow.com/questions/5597060/detecting-arrow-key-presses-in-javascript>`_
@@ -151,9 +149,9 @@ of event.key_.
 .. [5] `JavaScript Arrow Key Example via event.key in Keyboard Event <{filename}../../../2017/02/14/javascript-arrow-key-example-via-event-key%en.rst>`_
 
 .. _JavaScript: https://www.google.com/search?q=JavaScript
-.. _arrow keystrokes: https://www.google.com/search?q=arrow+keystrokes
-.. _arrow keys: https://www.google.com/search?q=arrow+keys
-.. _keyboard event: https://www.google.com/search?q=keyboard+event
+.. _方向鍵按鍵: https://www.google.com/search?q=arrow+keystrokes
+.. _方向鍵: https://www.google.com/search?q=arrow+keys
+.. _鍵盤事件: https://www.google.com/search?q=keyboard+event
 .. _onkeydown: http://www.w3schools.com/jsref/event_onkeydown.asp
 .. _KeyboardEvent: https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent
 .. _MDN: https://developer.mozilla.org/
