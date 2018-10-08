@@ -2,6 +2,7 @@
 ###################
 
 :date: 2018-01-26T20:30+08:00
+:modified: 2018-10-08T18:46+08:00
 :tags: Vue.js, JavaScript, html, CSS, Tab Panel, Bulma
 :category: Vue.js
 :summary: Add more features to *Bulma* tabs via *Vue.js*.
@@ -112,6 +113,9 @@ The *is-active* class of tabs will also be updated according to *tabsel*.
 Set *tabsel* to ``pic`` in the initialization phase to make the home tab as
 default tab.
 
+You can make the above code more reusable by Vue.js component. See [3]_ for more
+details.
+
 ----
 
 Tested on:
@@ -127,6 +131,7 @@ References:
 .. [1] `Tabs | Bulma: a modern CSS framework based on Flexbox <https://bulma.io/documentation/components/tabs/>`_
 .. adsu:: 3
 .. [2] `Class and Style Bindings — Vue.js <https://vuejs.org/v2/guide/class-and-style.html>`_
+.. [3] `Vue.js Component for Bulma Tabs <{filename}/articles/2018/10/08/vuejs-component-for-bulma-tabs%en.rst>`_
 
 .. _Vue.js: https://vuejs.org/
 .. _Bulma: https://bulma.io/
