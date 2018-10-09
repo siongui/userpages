@@ -2,24 +2,26 @@
 ###############################
 
 :date: 2016-03-19T03:05+08:00
+:modified: 2018-10-10T04:41+08:00
 :tags: Go, Golang, HTTP GET, Commandline, File Input/Output, Go flag Package,
        html, Go net/http, Existence Detection
 :category: Go
 :summary: Download and save HTML file from given URL via Go_. Do nothing if the
           HTML file already locally exists.
+:og_image: http://www.tricksofit.com/wp-content/uploads/2015/10/Download-File-from-URL.png
 :adsu: yes
 
 
 Download and save HTML file from given URL via Golang_. Do nothing if the HTML
 file already locally exists.
 
-.. show_github_file:: siongui userpages content/code/go-save-url-html/download.go
+.. show_github_file:: siongui userpages content/code/go/save-url-html/download.go
 .. adsu:: 2
-.. show_github_file:: siongui userpages content/code/go-save-url-html/Makefile
+.. show_github_file:: siongui userpages content/code/go/save-url-html/Makefile
 
 ----
 
-Tested on: ``Ubuntu Linux 15.10``, ``Go 1.6``.
+Tested on: ``Ubuntu Linux 18.04``, ``Go 1.10.1``.
 
 ----
 
@@ -32,6 +34,9 @@ References:
 .. adsu:: 3
 .. [3] | `golang copy io reader <https://www.google.com/search?q=golang+copy+io+reader>`_
        | `func Copy - io - The Go Programming Language <https://golang.org/pkg/io/#Copy>`_
+.. [4] `[Golang] Download File From URL <{filename}/articles/2018/10/10/go-download-file-from-url%en.rst>`_
+.. [5] `save image from url at DuckDuckGo <https://duckduckgo.com/?q=save+image+from+url>`_
+.. [6] `download file from url - Google Search <https://www.google.com/search?q=download+file+from+url>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
