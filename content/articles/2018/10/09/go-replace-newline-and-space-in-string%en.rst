@@ -34,7 +34,8 @@ Problem
 Solution
 ++++++++
 
-`Run Code on Go Playground <https://play.golang.org/p/uaEY0sjBImv>`__
+.. rubric:: `Run Code on Go Playground <https://play.golang.org/p/uaEY0sjBImv>`__
+   :class: align-center
 
 .. code-block:: go
 
