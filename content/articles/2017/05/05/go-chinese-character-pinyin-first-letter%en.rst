@@ -2,7 +2,7 @@
 #################################################
 
 :date: 2017-05-05T00:22+08:00
-:tags: Go, Golang, String Manipulation
+:tags: Go, Golang, String Manipulation, Chinese Pinyin
 :category: Go
 :summary: My answer to How can I get Chinese first letter(Pinyin) by using Go
           language? - Stack Overflow

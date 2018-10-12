@@ -2,7 +2,7 @@
 ###############################################
 
 :date: 2018-10-11T04:26+08:00
-:tags: Go, Golang, String Manipulation, Locale, i18n
+:tags: Go, Golang, String Manipulation, Locale, i18n, Chinese Pinyin
 :category: Go
 :summary: Given a rune value, check if the rune is a Chinese character.
 :og_image: https://i.pinimg.com/236x/77/ae/80/77ae804cd46b2b43d8971f18ec7015b7.jpg
