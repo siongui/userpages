@@ -1,5 +1,5 @@
-Pure CSS Semantic UI Basic Tab
-##############################
+Pure CSS Semantic UI Basic Tabs
+###############################
 
 :date: 2018-09-30T02:54+08:00
 :tags: Pure CSS Toggle, toggle, toggleable, html, CSS, Semantic UI, Tab Panel
@@ -112,6 +112,9 @@ The complete source code is as follows:
 - The magic is in second rule. We use **:checked** and general sibling selector
   (~) to make the user-selected tab content visible.
 
+If you want to use Vue.js to implement the above Semantic UI basic tabs, see
+[4]_.
+
 ----
 
 Tested on:
@@ -128,6 +131,7 @@ References:
 .. [1] `Pure CSS Toggle (Show/Hide) HTML Element <{filename}/articles/2017/02/27/css-only-toggle-dom-element%en.rst>`_
 .. [2] `Pure CSS Tab Panel <{filename}/articles/2017/05/21/css-only-tab-panel%en.rst>`_
 .. [3] `Pure CSS Bulma Tabs <{filename}/articles/2018/01/30/css-only-bulma-tab-panel%en.rst>`_
+.. [4] `Vue.js Component for Semantic UI Basic Tabs <{filename}/articles/2018/10/14/vuejs-component-for-semantic-ui-basic-tab%en.rst>`_
 
 .. _label: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label
 .. _input checkbox: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox
