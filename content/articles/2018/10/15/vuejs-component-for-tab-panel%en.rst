@@ -5,7 +5,7 @@ Vue.js Component for Tab Panel
 :tags: Vue.js, JavaScript, html, CSS, Tab Panel
 :category: Vue.js
 :summary: Implementation of reusable *Vue.js* component for tab panel.
-:og_image: https://webdesignledger.com/wp-content/uploads/2015/04/08-semantic-ui-tabs-design.jpg
+:og_image: https://www.jqueryscript.net/images/Handy-Animated-Tabs-Plugin-With-jQuery-tabs-js.jpg
 :adsu: yes
 
 
