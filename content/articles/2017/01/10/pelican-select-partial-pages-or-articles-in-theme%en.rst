@@ -1,5 +1,5 @@
-[Pelican] Get Partials Pages or Articles in Theme
-#################################################
+[Pelican] Get Partial Pages or Articles in Theme
+################################################
 
 :date: 2017-01-10T22:04+08:00
 :tags: Python, Pelican, Jinja2
