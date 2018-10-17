@@ -177,6 +177,7 @@ References:
 .. [1] `Defer - A Tour of Go <https://tour.golang.org/flowcontrol/12>`_
 .. [2] `Defer, Panic, and Recover - The Go Blog <https://blog.golang.org/defer-panic-and-recover>`_
 .. [3] `[Golang] Wait For Goroutine to Finish <{filename}/articles/2015/03/23/go-wait-for-goroutine-to-finish%en.rst>`_
+.. [4] `goroutine anti-pattern? : golang <https://old.reddit.com/r/golang/comments/9o4vh5/goroutine_antipattern/>`_
 
 .. _defer statement: https://tour.golang.org/flowcontrol/12
 .. _channel: https://tour.golang.org/concurrency/2
