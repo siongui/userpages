@@ -3,7 +3,7 @@ XMLHttpRequest (XHR) in Go
 
 :date: 2017-12-14T23:28+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Frontend Programming in Go,
-       XMLHttpRequest, Go net/http, Goroutine, CORS
+       XMLHttpRequest, Go net/http, Goroutine, CORS, HTTP GET
 :category: Frontend Programming in Go
 :summary: Send data to servers or retrieve data from servers on browsers - Use
           *XMLHttpRequest* method in Go/GopherJS.

@@ -2,7 +2,7 @@ Frontend Programming in Go
 ##########################
 
 :date: 2017-12-04T22:06+08:00
-:modified: 2018-10-16T23:23+08:00
+:modified: 2018-10-19T01:50+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Go WebAssembly,
        Frontend Programming in Go
 :category: Frontend Programming in Go
@@ -104,6 +104,7 @@ Go WebAssembly
 - `[Go WebAssembly] querySelector Example`_
 - `[Go WebAssembly] querySelectorAll Example`_
 - `[Go WebAssembly] Event Binding - addEventListener Example`_
+- `[Go WebAssembly] XMLHttpRequest (XHR)`_
 
 
 GopherJS
@@ -232,3 +233,4 @@ References:
 .. _[Go WebAssembly] querySelectorAll Example: {filename}/articles/2018/07/30/golang-wasm-querySelectorAll%en.rst
 .. _Load and Run Go WebAssembly Module: {filename}/articles/2018/07/30/load-and-run-golang-wasm-code%en.rst
 .. _[Go WebAssembly] Event Binding - addEventListener Example: {filename}/articles/2018/07/30/golang-wasm-addEventListener-event-binding%en.rst
+.. _[Go WebAssembly] XMLHttpRequest (XHR): {filename}/articles/2018/07/30/golang-wasm-xmlhttprequest-xhr%en.rst
