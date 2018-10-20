@@ -27,7 +27,7 @@
 
   73682
 
-  My solution is ugly, which uses the frute-force method.
+  My solution is ugly, which uses the brute-force method.
 
 .. rubric:: `Run Code on Go Playground <https://play.golang.org/p/x1YKduEw-Ck>`__
    :class: align-center
