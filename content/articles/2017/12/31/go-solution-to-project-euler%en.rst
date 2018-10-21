@@ -2,7 +2,7 @@
 ##################################
 
 :date: 2018-04-28T01:40+08:00
-:modified: 2018-10-21T01:11+08:00
+:modified: 2018-10-22T02:22+08:00
 :tags: Go, Golang, Algorithm, Math, Prime Number, Project Euler
 :category: Go
 :summary: Go solution to Project Euler.
@@ -28,7 +28,7 @@
 16. `Power digit sum - Problem 16 <{filename}/articles/2017/12/29/go-power-digit-sum-problem-16-project-euler%en.rst>`_
 17. `Number letter counts - Problem 17 <{filename}go-number-letter-counts-problem-17-project-euler%en.rst>`_
 18. not yet
-19. not yet
+19. `Counting Sundays - Problem 19 <{filename}go-counting-sundays-problem-19-project-euler%en.rst>`_
 20. `Factorial digit sum - Problem 20 <{filename}go-factorial-digit-sum-problem-20-project-euler%en.rst>`_
 21. `Amicable Numbers - Problem 21 <{filename}/articles/2017/05/25/go-amicable-numbers-problem-21-project-euler%en.rst>`_
 22. not yet
@@ -41,7 +41,7 @@
 29. not yet
 30. `Digit fifth powers - Problem 30 <{filename}go-digit-fifth-power-problem-30-project-euler%en.rst>`_
 31. `Coin sums - Problem 31 <{filename}go-coin-sums-problem-31-project-euler%en.rst>`_
-32. `[Golang] Pandigital products - Problem 32 <{filename}go-pandigital-products-problem-32-project-euler%en.rst>`_
+32. `Pandigital products - Problem 32 <{filename}go-pandigital-products-problem-32-project-euler%en.rst>`_
 
 ----
 
