@@ -31,7 +31,7 @@
 19. `Counting Sundays - Problem 19 <{filename}go-counting-sundays-problem-19-project-euler%en.rst>`_
 20. `Factorial digit sum - Problem 20 <{filename}go-factorial-digit-sum-problem-20-project-euler%en.rst>`_
 21. `Amicable Numbers - Problem 21 <{filename}/articles/2017/05/25/go-amicable-numbers-problem-21-project-euler%en.rst>`_
-22. not yet
+22. `Names scores - Problem 22 <{filename}go-names-scores-problem-22-project-euler%en.rst>`_
 23. `Non-abundant sums - Problem 23 <{filename}go-non-abundant-sums-problem-23-project-euler%en.rst>`_
 24. `Lexicographic permutations - Problem 24 <{filename}go-lexicographic-permutations-problem-24-project-euler%en.rst>`_
 25. `1000-digit Fibonacci number - Problem 25 <{filename}go-1000-digit-fibonacci-number-problem-25-project-euler%en.rst>`_
