@@ -1663,3 +1663,4 @@ Warin Chamrab, Ubon Rachathani 34310, Thailand
 
 | 版權所有・免費流通
 | 要索取本書，或詢問有關本書的問題，請聯繫傳承出版社
+| `电子书  下载 (e-book download) | 传承出版社 Dhammavamsa Publications <https://www.facebook.com/media/set/?set=a.569580103092458.1073741829.569446556439146>`_
