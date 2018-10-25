@@ -101,6 +101,7 @@ Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``.
 Reference:
 
 .. [a] `OPML <http://en.wikipedia.org/wiki/OPML>`_
+.. [b] `XML to Go struct : golang <https://old.reddit.com/r/golang/comments/9r1fgc/xml_to_go_struct/>`_
 
 .. _OPML: http://en.wikipedia.org/wiki/OPML
 

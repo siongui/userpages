@@ -117,5 +117,7 @@ References:
 
 .. [d] `Goで任意のXMLを処理する - GolangRdyJp <http://golang.rdy.jp/2015/11/08/anyxml/>`_
 
+.. [e] `XML to Go struct : golang <https://old.reddit.com/r/golang/comments/9r1fgc/xml_to_go_struct/>`_
+
 
 .. _Go: https://golang.org/

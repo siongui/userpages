@@ -55,3 +55,7 @@ Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``.
 .. [9] `[Golang] Convert Atom to RSS <{filename}../../03/02/go-convert-atom-to-rss-feed%en.rst>`_
 
 .. [10] `[Golang] Parse Web Feed - RSS and Atom <{filename}../../03/03/go-parse-web-feed-rss-atom%en.rst>`_
+
+----
+
+.. [a] `XML to Go struct : golang <https://old.reddit.com/r/golang/comments/9r1fgc/xml_to_go_struct/>`_

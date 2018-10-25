@@ -84,6 +84,8 @@ Reference:
 
 .. [i] `[Golang] Convert Atom to RSS <{filename}../../03/02/go-convert-atom-to-rss-feed%en.rst>`_
 
+.. [j] `XML to Go struct : golang <https://old.reddit.com/r/golang/comments/9r1fgc/xml_to_go_struct/>`_
+
 
 .. _RSS 2.0: http://www.w3schools.com/rss/default.asp
 

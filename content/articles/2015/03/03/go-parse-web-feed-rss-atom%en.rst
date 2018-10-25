@@ -60,6 +60,10 @@ Tested on: ``Ubuntu Linux 14.10``, ``Go 1.4``.
 
 .. [10] `[Golang] Parse Web Feed - RSS and Atom <{filename}go-parse-web-feed-rss-atom%en.rst>`_
 
+----
+
+.. [a] `XML to Go struct : golang <https://old.reddit.com/r/golang/comments/9r1fgc/xml_to_go_struct/>`_
+
 
 .. _Atom 1.0: http://en.wikipedia.org/wiki/Atom_%28standard%29
 
