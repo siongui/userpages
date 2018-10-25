@@ -2,7 +2,7 @@ WebAssembly 的未來：將逐漸解鎖整個“技能樹”
 ##########################################
 
 :date: 2018-10-25T00:00+08:00
-:tags: Go語言, 轉錄, 開源中國
+:tags: Go語言, 轉錄, 開源中國, WebAssembly
 :category: Go語言
 :author: 王練(開源中國)
 :summary: WebAssembly 在2017年受到主流瀏覽器的支持，並發布了 MVP 版本（Minimum Viable Product，最簡可行產品）。雖然 WebAssembly 社區組致力於使 WebAssembly 向後相容，讓現在開發的 WebAssembly 應用程式，仍可以在未來的瀏覽器中運作，但這並不代表 WebAssembly 功能已經完整，MVP 絕非最終版本。相反，WebAssembly 還將增加許多新功能，而這些新功能將從根本上顛覆 WebAssembly 所能實現的工作。

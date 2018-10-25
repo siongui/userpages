@@ -5,13 +5,13 @@
 :tags: Go, Golang, String Manipulation, Locale, i18n, Web Scrape, iconv command,
        Go net/html, Go net/http
 :category: Go
-:summary: Determines the encoding of an HTML document in *Go* using
-          *golang.org/x/net/html* and *golang.org/x/text* packages.
+:summary: Given an URL, determines the encoding of the HTML document in *Go*
+          using *golang.org/x/net/html* and *golang.org/x/text* packages.
 :og_image: http://1.bp.blogspot.com/-8J4Yz4LWYPs/U_yr6-loLnI/AAAAAAAABzg/HBGWbD6A7Vo/s1600/Character%2BEncoding%2C%2BConverting%2BByte%2Barray%2Bto%2BString%2Bin%2BJava.png
 :adsu: yes
 
 
-Determines the encoding of an HTML document in Go_ using
+Given an URL, determines the encoding of the HTML document in Go_ using
 `golang.org/x/net/html`_ and `golang.org/x/text`_ packages. I came across the
 code snippet from [1]_, so I extract and re-organize the content to make it
 search engine friendly.
