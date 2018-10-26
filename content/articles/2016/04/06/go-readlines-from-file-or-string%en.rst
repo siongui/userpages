@@ -86,6 +86,7 @@ References:
 .. [5] `strings - The Go Programming Language <https://golang.org/pkg/strings/>`_
 
 .. [6] `[Golang] Read Lines From URL <{filename}../../../2017/02/02/go-readlines-from-url%en.rst>`_
+.. [7] `Processing of huge text files : golang <https://old.reddit.com/r/golang/comments/9rk1rw/processing_of_huge_text_files/>`_
 
 
 .. _Go: https://golang.org/

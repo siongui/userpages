@@ -185,6 +185,7 @@ Go 的 syscall/js 使用了一個非常不同的方法來進行事件註冊，�
 ----
 
 - `WebAssembly 和 Go：對未來的觀望 - 掃文資訊 <https://tw.saowen.com/a/08a24b7f3544d5f7e7668eccbf4c3a075880b814f1a5b0310f67f3b49dc0c42f>`_
+- `如何將 Go 程式編譯成 WebAssembly | Tsung's Blog <https://blog.longwin.com.tw/2018/09/how-to-compile-golang-webassembly-wasm-2018/>`_
 
 .. _Web Assembly and Go\: A look to the future: https://brianketelsen.com/web-assembly-and-go-a-look-to-the-future/
 .. _WebAssembly 和 Go：对未来的观望 - 开源中国: https://www.oschina.net/translate/webassembly-and-go-a-look-to-the-future
