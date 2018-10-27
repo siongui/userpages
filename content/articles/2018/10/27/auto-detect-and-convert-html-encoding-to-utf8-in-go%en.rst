@@ -29,7 +29,7 @@ the URL, and convert the encoding to utf8 if it is not utf8 encoded:
 .. show_github_file:: siongui userpages content/code/go/utf8-encoding/url.go
 
 Note that *resp.Body* stream cannot be read twice, so it is read into bytes
-first and used later for detection and conversion.
+first and used later for detection and conversion. See [4]_ for more details.
 
 Usage of the above code:
 
@@ -50,6 +50,7 @@ References:
        | `爬虫自动转码，获取城市列表：城市名称+URL - 简书 <https://www.jianshu.com/p/16981659bd8d>`_
 .. [2] `golang 用/x/net/html写的小爬虫，爬小说 - 简书 <https://www.jianshu.com/p/9b31ecb0d5ab>`_
 .. [3] `[Golang] Determine Encoding of HTML Document <{filename}/articles/2018/10/26/determine-encoding-of-html-document-in-go%en.rst>`_
+.. [4] `[Golang] Read Twice From the Same io.Reader <{filename}/articles/2018/10/28/go-read-twice-from-same-io-reader%en.rst>`_
 
 .. _Go: https://golang.org/
 .. _golang.org/x/net/html: https://godoc.org/golang.org/x/net/html

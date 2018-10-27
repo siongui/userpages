@@ -47,7 +47,7 @@ w是請求的響應，cookie是結構。讓我們看看Cookie的結構：
   // A Cookie represents an HTTP cookie as sent in the Set-Cookie header of an
   // HTTP response or the Cookie header of an HTTP request.
   //
-  // See http://tools.ietf.org/html/rfc6265 for details.
+  // See https://tools.ietf.org/html/rfc6265 for details.
   type Cookie struct {
       Name  string
       Value string
@@ -56,8 +56,8 @@ w是請求的響應，cookie是結構。讓我們看看Cookie的結構：
       Domain     string    // optional
       Expires    time.Time // optional
       RawExpires string    // for reading cookies only    // MaxAge=0 means no 'Max-Age' attribute specified.
-      // MaxAge&lt;0 means delete cookie now, equivalently 'Max-Age: 0'
-      // MaxAge&gt;0 means Max-Age attribute present and given in seconds
+      // MaxAge<0 means delete cookie now, equivalently 'Max-Age: 0'
+      // MaxAge>0 means Max-Age attribute present and given in seconds
       MaxAge   int
       Secure   bool
       HttpOnly bool
@@ -76,7 +76,7 @@ w是請求的響應，cookie是結構。讓我們看看Cookie的結構：
       Expires: expired,
   }
 
-  http.SetCookie(w, &amp;cookie)
+  http.SetCookie(w, &cookie)
 
 上面的示例顯示了如何設置cookie。現在讓我們看看如何獲取已設置的cookie：
 
