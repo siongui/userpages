@@ -159,6 +159,7 @@ References:
        | `WebAssembly · golang/go Wiki · GitHub <https://github.com/golang/go/wiki/WebAssembly>`_
 
 .. [3] `WebAssembly = Writing JS in Go? • r/golang <https://old.reddit.com/r/golang/comments/9gtg2h/webassembly_writing_js_in_go/>`_
+.. [4] `A web Go REPL via WebAssembly : golang <https://old.reddit.com/r/golang/comments/9hsaui/a_web_go_repl_via_webassembly/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

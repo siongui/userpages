@@ -113,7 +113,7 @@ w是請求的響應，cookie是結構。讓我們看看Cookie的結構：
 
 .. raw:: html
 
-  <div class="entry-copyright"><h5>版權聲明</h5><p>由<span><a href="https://www.xiaorongmao.com/author/durban" title="durban"> durban</a></span>創作並維護的<span><a href="https://www.xiaorongmao.com" title="小絨毛的足跡"> 小絨毛的足跡</a></span>博客采用<span><a href='http://creativecommons.org/licenses/by-nc-nd/4.0/' title='創作共用保留署名-非商業-禁止演繹4.0國際許可證。'><span>創作共用保留署名-非商業-禁止演繹4.0國際許可證。</span></a></span></p><p>本文首發於
+  <div class="entry-copyright"><h5>版權聲明</h5><p>由<span><a href="https://www.xiaorongmao.com/author/durban" title="durban"> durban</a></span>創作並維護的<span><a href="https://www.xiaorongmao.com" title="小絨毛的足跡"> 小絨毛的足跡</a></span>博客採用<span><a href='http://creativecommons.org/licenses/by-nc-nd/4.0/' title='創作共用保留署名-非商業-禁止演繹4.0國際許可證。'><span>創作共用保留署名-非商業-禁止演繹4.0國際許可證。</span></a></span></p><p>本文首發於
         <a href="https://www.xiaorongmao.com" title="小絨毛的足跡"><span itemprop="publisher" itemscope="itemscope" itemtype="http://schema.org/Organization"><span itemprop="name">小絨毛的足跡</span><span itemprop="logo" itemscope="itemscope" itemtype="http://schema.org/ImageObject" style="display:none"><img itemprop="url" src="https://www.xiaorongmao.com/images/logo.png" alt="小絨毛的足跡"/></span></span></a>博客（
         <a href="https://www.xiaorongmao.com" title="小絨毛的足跡"><span>https://www.xiaorongmao.com</span></a> ），版權所有，侵權必究。</p><p><span>本文永久鏈接：</span><span itemprop="mainEntityOfPage" itemscope="itemscope" itemtype="http://schema.org/WebPage" id="80"><a href="https://www.xiaorongmao.com/blog/80"> https://www.xiaorongmao.com/blog/80</a></span><span style="display:none"/></p></div>
 

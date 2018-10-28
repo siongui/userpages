@@ -73,6 +73,7 @@ References:
 .. [3] `utf8 - The Go Programming Language <https://golang.org/pkg/unicode/utf8/>`_
 
 .. [4] `support non-ascii alphabet (utf8 alphabet) · siongui/go-succinct-data-structure-trie@8ad7e26 · GitHub <https://github.com/siongui/go-succinct-data-structure-trie/commit/8ad7e26db49f8df83980c71737cc9af5972bce81>`_
+.. [5] `I need help understanding runes : golang <https://old.reddit.com/r/golang/comments/9rts8b/i_need_help_understanding_runes/>`_
 
 
 .. _Go: https://golang.org/

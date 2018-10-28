@@ -2,7 +2,7 @@
 ##################################
 
 :date: 2018-04-28T01:40+08:00
-:modified: 2018-10-24T01:52+08:00
+:modified: 2018-10-29T00:43+08:00
 :tags: Go, Golang, Algorithm, Math, Prime Number, Project Euler
 :category: Go
 :summary: Go solution to Project Euler.
@@ -38,7 +38,7 @@
 26. not yet
 27. `Quadratic primes - Problem 27 <{filename}go-quadratic-primes-problem-27-project-euler%en.rst>`_
 28. `Number spiral diagonals - Problem 28 <{filename}go-number-spiral-diagonals-problem-28-project-euler%en.rst>`_
-29. not yet
+29. `Distinct powers - Problem 29 <{filename}go-distinct-powers-problem-29-project-euler%en.rst>`_
 30. `Digit fifth powers - Problem 30 <{filename}go-digit-fifth-power-problem-30-project-euler%en.rst>`_
 31. `Coin sums - Problem 31 <{filename}go-coin-sums-problem-31-project-euler%en.rst>`_
 32. `Pandigital products - Problem 32 <{filename}go-pandigital-products-problem-32-project-euler%en.rst>`_

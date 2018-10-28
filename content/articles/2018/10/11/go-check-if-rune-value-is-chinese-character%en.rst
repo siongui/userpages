@@ -64,6 +64,7 @@ References:
 .. [4] `[Golang] Calculate String Length <{filename}/articles/2018/01/24/go-calculate-string-length%en.rst>`_
 .. [5] `[Golang] Get UTF-8 String Width <{filename}/articles/2016/03/23/go-utf8-string-width%en.rst>`_
 .. [6] `[Golang] Sort String by Character <{filename}/articles/2017/05/07/go-sort-string-slice-of-rune%en.rst>`_
+.. [7] `I need help understanding runes : golang <https://old.reddit.com/r/golang/comments/9rts8b/i_need_help_understanding_runes/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
