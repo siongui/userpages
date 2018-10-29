@@ -114,6 +114,9 @@ Instead, to use the syntax provided by godom_ will make the code more readable.
 
 You can view and download the source code from `my GitHub project`_.
 
+----
+
+.. [1] `Go Hacker News - A HN client built with GopherJS : golang <https://old.reddit.com/r/golang/comments/9qr56e/go_hacker_news_a_hn_client_built_with_gopherjs/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

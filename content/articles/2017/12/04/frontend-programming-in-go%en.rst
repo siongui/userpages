@@ -183,6 +183,8 @@ References:
        | `Jsgo Playground <https://play.jsgo.io/>`_
        | `GitHub - dave/play: jsgo playground: edit and run Go code in the browser, supporting arbitrary import paths <https://github.com/dave/play>`_
 
+.. [6] `Gopherjs or webassembly ? : golang <https://old.reddit.com/r/golang/comments/9sb7fi/gopherjs_or_webassembly/>`_
+
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
 .. _official website of Go: https://golang.org/
