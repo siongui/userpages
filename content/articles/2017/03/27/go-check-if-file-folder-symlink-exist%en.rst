@@ -54,5 +54,6 @@ References:
        | `go check if directory exists - Yandex search <https://www.yandex.com/search/?text=go+check+if+directory+exists>`_
 
 .. [2] `go - How to check whether a file or directory denoted by a path exists in Golang? - Stack Overflow <http://stackoverflow.com/questions/10510691/how-to-check-whether-a-file-or-directory-denoted-by-a-path-exists-in-golang>`_
+.. [3] `Package write provides a way to atomically create or replace a file or symbolic link. : golang <https://old.reddit.com/r/golang/comments/9sq6x1/package_write_provides_a_way_to_atomically_create/>`_
 
 .. _symbolic link: https://www.google.com/search?q=symbolic+link

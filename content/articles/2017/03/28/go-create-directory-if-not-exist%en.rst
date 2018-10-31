@@ -43,6 +43,7 @@ References:
        | `golang create directory if not exists - Yandex search <https://www.yandex.com/search/?text=golang+create+directory+if+not+exists>`_
 
 .. [2] `[Makefile] Create Directory If Not Exist <{filename}../../../2016/01/30/makefile-create-directory-if-not-exist%en.rst>`_
+.. [3] `Package write provides a way to atomically create or replace a file or symbolic link. : golang <https://old.reddit.com/r/golang/comments/9sq6x1/package_write_provides_a_way_to_atomically_create/>`_
 
 .. _os.MkdirAll: https://golang.org/pkg/os/#MkdirAll
 .. _mkdir -p: https://www.google.com/search?q=what+is+mkdir+-p+option
