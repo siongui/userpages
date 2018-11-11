@@ -160,6 +160,8 @@ References:
 
 .. [3] `WebAssembly = Writing JS in Go? • r/golang <https://old.reddit.com/r/golang/comments/9gtg2h/webassembly_writing_js_in_go/>`_
 .. [4] `A web Go REPL via WebAssembly : golang <https://old.reddit.com/r/golang/comments/9hsaui/a_web_go_repl_via_webassembly/>`_
+.. [5] `Writing a Frontend Web Framework with WebAssembly And Go : golang <https://old.reddit.com/r/golang/comments/9tuuep/writing_a_frontend_web_framework_with_webassembly/>`_
+.. [6] `Run JavaScript using Otto in Go in WASM in the Browser : golang <https://old.reddit.com/r/golang/comments/9velz5/run_javascript_using_otto_in_go_in_wasm_in_the/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

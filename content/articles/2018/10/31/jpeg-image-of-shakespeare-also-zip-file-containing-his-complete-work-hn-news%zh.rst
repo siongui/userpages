@@ -20,6 +20,7 @@
 
 - `JPEG image of Shakespeare which is also a zip file containing his complete works | Hacker News <https://news.ycombinator.com/item?id=18342042>`_
 - `Dаvіd Вucһаnаn on Twitter: "Assuming this all works out, the image in this tweet is also a valid ZIP archive, containing a multipart RAR archive, containing the complete works of Shakespeare. … https://t.co/glgrQSz7cK" <https://twitter.com/David3141593/status/1057042085029822464>`_
+- `Solidot | Twitter 的图像能被用于传输不同文件类型 <https://www.solidot.org/story?sid=58433>`_
 
 .. adsu:: 2
 
