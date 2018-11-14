@@ -100,6 +100,7 @@ References:
        | `golang print hex string - Yandex search <https://www.yandex.com/search/?text=golang+print+hex+string>`_
 .. [6] `hex - The Go Programming Language <https://golang.org/pkg/encoding/hex/>`_
 .. [7] `GitHub - siongui/goef: Embed file in your Go code <https://github.com/siongui/goef>`_
+.. [8] `static file embedding, modules, and non-developers : golang <https://old.reddit.com/r/golang/comments/9wqqnh/static_file_embedding_modules_and_nondevelopers/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

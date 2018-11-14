@@ -72,6 +72,7 @@ References:
 .. [1] `[Golang] Read Lines From File or String <{filename}../../../2016/04/06/go-readlines-from-file-or-string%en.rst>`_
 .. [2] `read lines from file or url · siongui/go-rst@f0cc55b · GitHub <https://github.com/siongui/go-rst/commit/f0cc55bf0d878811956cd70d2ec99d4ee58bec15>`_
 .. [3] `Processing of huge text files : golang <https://old.reddit.com/r/golang/comments/9rk1rw/processing_of_huge_text_files/>`_
+.. [4] `Tips to working with large CSV files? : golang <https://old.reddit.com/r/golang/comments/9wo7bd/tips_to_working_with_large_csv_files/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
