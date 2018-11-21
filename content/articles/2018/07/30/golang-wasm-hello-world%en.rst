@@ -163,6 +163,8 @@ References:
 .. [5] `Writing a Frontend Web Framework with WebAssembly And Go : golang <https://old.reddit.com/r/golang/comments/9tuuep/writing_a_frontend_web_framework_with_webassembly/>`_
 .. [6] `Run JavaScript using Otto in Go in WASM in the Browser : golang <https://old.reddit.com/r/golang/comments/9velz5/run_javascript_using_otto_in_go_in_wasm_in_the/>`_
 .. [7] `This is a WASM-based Vue.js wrapper written in Go : golang <https://old.reddit.com/r/golang/comments/9w4nk5/this_is_a_wasmbased_vuejs_wrapper_written_in_go/>`_
+.. [8] `Writing a Frontend Web Framework with WebAssembly And Go : golang <https://old.reddit.com/r/golang/comments/9tuuep/writing_a_frontend_web_framework_with_webassembly/>`_
+.. [9] `Write Qt for WebAssembly applications entirely in Go and/or JavaScript : golang <https://old.reddit.com/r/golang/comments/9yi0nw/write_qt_for_webassembly_applications_entirely_in/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

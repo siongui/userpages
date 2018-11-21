@@ -2,7 +2,7 @@
 ###################################################
 
 :date: 2017-05-11T08:17+08:00
-:tags: Linux, 轉錄
+:tags: Linux, 轉錄, Linux 中國
 :category: Linux
 :author: Linux 中國翻譯組
 :summary: 你的測試使用的條件語句越少，你的代碼就會有更好的 「taste」 。

@@ -79,6 +79,7 @@ References:
        | `golang check if item in slice - Yandex search <https://www.yandex.com/search/?text=golang+check+if+item+in+slice>`_
 .. [2] `Go maps in action - The Go Blog <https://blog.golang.org/go-maps-in-action>`_
 .. [3] `[Golang] Goldbach's conjecture <{filename}../06/go-goldbach-conjecture%en.rst>`_
+.. [4] `📣 [Data Structures with Go]: Data Structures and Algorithms Example: Array, Binary Tree, Linked List, Sort (Quick, Merge), Stack, Queue (my Midterm & Final study notes for Data Structure course) (Feel Free to Contribute) : golang <https://old.reddit.com/r/golang/comments/9y4xu1/data_structures_with_go_data_structures_and/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

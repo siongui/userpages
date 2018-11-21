@@ -45,6 +45,7 @@ References:
 
 .. [1] | `base1024 emoji encoding implemented in Go : golang <https://www.reddit.com/r/golang/comments/83kta3/base1024_emoji_encoding_implemented_in_go/>`_
        | `GitHub - keith-turner/ecoji: Encodes (and decodes) data as emojis <https://github.com/keith-turner/ecoji>`_
+.. [2] `Animated QR data transfer with Gomobile and Gopherjs : golang <https://old.reddit.com/r/golang/comments/9yrk1g/animated_qr_data_transfer_with_gomobile_and/>`_
 
 .. _QR code: https://www.google.com/search?q=QR+code
 .. _github.com/skip2/go-qrcode: https://github.com/skip2/go-qrcode

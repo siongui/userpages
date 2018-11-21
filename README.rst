@@ -10,7 +10,7 @@ How to Develope
 
 Development Tool: Pelican_ (static site generator written in Python)
 
-Development Environment: `Ubuntu 17.10`_
+Development Environment: `Ubuntu 18.04`_
 
 
 First-time Setup
@@ -155,7 +155,7 @@ Image Hover:
 
 
 .. _Pelican: http://getpelican.com/
-.. _Ubuntu 17.10: https://www.ubuntu.com/desktop/1710
+.. _Ubuntu 18.04: http://releases.ubuntu.com/18.04/
 .. _git: https://git-scm.com/
 .. _pip: https://pypi.python.org/pypi/pip
 .. _i18n_subsites: https://github.com/getpelican/pelican-plugins/tree/master/i18n_subsites

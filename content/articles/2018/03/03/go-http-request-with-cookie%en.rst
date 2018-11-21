@@ -71,6 +71,7 @@ Tested on: ``Ubuntu Linux 17.10``, ``Go 1.10``.
 References:
 
 .. [1] `[Golang] HTTP Request With Custom User-Agent <{filename}/articles/2018/02/27/go-http-request-with-custom-user-agent%en.rst>`_
+.. [2] `soup - Web Scraper for Go with a similar interface to BeautifulSoup : golang <https://old.reddit.com/r/golang/comments/9x2btf/soup_web_scraper_for_go_with_a_similar_interface/>`_
 
 .. _cookies: https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
 .. _net/http: https://golang.org/pkg/net/http/

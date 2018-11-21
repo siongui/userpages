@@ -36,6 +36,7 @@ References:
 .. [5] `Graceful server restart with Go <http://blog.scalingo.com/post/105609534953/graceful-server-restart-with-go>`_
        (`使用 Go 语言实现优雅的服务器重启 - 技术翻译 - 开源中国社区 <http://www.oschina.net/translate/graceful-server-restart-with-go>`_)
 
+.. [6] `How to run a custom function with timeout? : golang <https://old.reddit.com/r/golang/comments/9vtm2b/how_to_run_a_custom_function_with_timeout/>`_
 
 .. _goroutines: http://tour.golang.org/concurrency/1
 
