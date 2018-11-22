@@ -85,6 +85,7 @@ References:
        | `io writer to string golang - Yahoo search <https://search.yahoo.com/search?p=io+writer+to+string+golang>`_
        | `io writer to string golang - Baidu search <https://www.baidu.com/s?wd=io+writer+to+string+golang>`_
        | `io writer to string golang - Yandex search <https://www.yandex.com/search/?text=io+writer+to+string+golang>`_
+.. [2] `How to cencor certain words written to Stdout and Stderr? : golang <https://old.reddit.com/r/golang/comments/9zcqtk/how_to_cencor_certain_words_written_to_stdout_and/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
