@@ -128,6 +128,7 @@ References:
 .. [10] `How to write usage code in testing <https://github.com/siongui/userpages/commit/77cd55346752ccaa2efa44b9084e97af81b664dd#commitcomment-21401415>`_
 .. [11] `Any more efficient or clever ways of generating random strings? : golang <https://old.reddit.com/r/golang/comments/9wnaxa/any_more_efficient_or_clever_ways_of_generating/>`_
 .. [12] `What's the recommended encryption library for Go? : golang <https://old.reddit.com/r/golang/comments/9zhqga/whats_the_recommended_encryption_library_for_go/>`_
+.. [13] `When is code outside of a called function executed : golang <https://old.reddit.com/r/golang/comments/9zp6p6/when_is_code_outside_of_a_called_function_executed/>`_
 
 .. _Go: https://golang.org/
 .. _Seed: https://golang.org/pkg/math/rand/#Seed

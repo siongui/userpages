@@ -69,6 +69,7 @@ References:
 .. [3] `GitHub - mozillazg/go-pinyin: 汉字拼音转换工具 Go 版 <https://github.com/mozillazg/go-pinyin>`_
 .. [4] `How can I get Chinese first letter(Pinyin) by using Go language? - Stack Overflow <http://stackoverflow.com/questions/32109918/how-can-i-get-chinese-first-letterpinyin-by-using-go-language>`_
 .. [5] `[Golang] Iterate Over UTF-8 Strings (non-ASCII strings) <{filename}../../../2016/02/03/go-iterate-over-utf8-non-ascii-string%en.rst>`_
+.. [6] `gosimple/slug: URL-friendly slugify with multiple languages support. : golang <https://old.reddit.com/r/golang/comments/9zovsr/gosimpleslug_urlfriendly_slugify_with_multiple/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

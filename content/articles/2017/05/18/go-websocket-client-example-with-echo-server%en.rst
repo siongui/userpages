@@ -71,6 +71,8 @@ References:
 
 .. [3] | `WebSocket 教程 - 阮一峰的网络日志 <http://www.ruanyifeng.com/blog/2017/05/websocket.html>`_
        | `WebSocket 教程 - WEB前端 - 伯乐在线 <http://web.jobbole.com/91321/>`_
+.. [4] `A VPN-server, using websockets : golang <https://old.reddit.com/r/golang/comments/9zqn0d/a_vpnserver_using_websockets/>`_
+.. [5] `peer to peer connection : golang <https://old.reddit.com/r/golang/comments/9zozqy/peer_to_peer_connection/>`_
 
 .. _GopherJS: http://www.gopherjs.org/
 .. _WebSocket: https://www.google.com/search?q=WebSocket

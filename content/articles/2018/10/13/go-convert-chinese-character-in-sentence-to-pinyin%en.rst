@@ -83,6 +83,7 @@ References:
 
 .. [1] `[Golang] First Letter of Chinese Character Pinyin <{filename}/articles/2017/05/05/go-chinese-character-pinyin-first-letter%en.rst>`_
 .. [2] `[Golang] Check If The Rune is Chinese Character <{filename}/articles/2018/10/11/go-check-if-rune-value-is-chinese-character%en.rst>`_
+.. [3] `gosimple/slug: URL-friendly slugify with multiple languages support. : golang <https://old.reddit.com/r/golang/comments/9zovsr/gosimpleslug_urlfriendly_slugify_with_multiple/>`_
 
 .. _Pinyin: https://en.wikipedia.org/wiki/Pinyin
 .. _go-pinyin: https://github.com/mozillazg/go-pinyin

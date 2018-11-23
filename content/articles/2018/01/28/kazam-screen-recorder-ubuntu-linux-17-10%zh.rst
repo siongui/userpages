@@ -2,7 +2,7 @@ kazam 螢幕錄影程式 (Ubuntu Linux 17.10)
 #######################################
 
 :date: 2018-01-28T04:36+08:00
-:tags: Linux
+:tags: Linux, Ubuntu Linux
 :category: Linux
 :summary: 在 Ubuntu Linux 17.10 下安裝螢幕錄影程式 kazam 時遇到的麻煩
           ，以及解決方法。

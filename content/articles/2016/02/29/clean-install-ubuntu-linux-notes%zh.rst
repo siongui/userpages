@@ -3,7 +3,7 @@
 
 :date: 2016-02-29T01:39+08:00
 :modified: 2016-12-21T09:13+08:00
-:tags: Linux, apt command
+:tags: Linux, apt command, Ubuntu Linux
 :category: Linux
 :summary: 全新安裝Ubuntu Linux注意事項
 :og_image: http://design.ubuntu.com/wp-content/uploads/logo-ubuntu_st_no%C2%AE-black_orange-hex.jpg
