@@ -127,6 +127,7 @@ References:
 .. [9] `go - Golang random number generator how to seed properly - Stack Overflow <http://stackoverflow.com/questions/12321133/golang-random-number-generator-how-to-seed-properly>`_
 .. [10] `How to write usage code in testing <https://github.com/siongui/userpages/commit/77cd55346752ccaa2efa44b9084e97af81b664dd#commitcomment-21401415>`_
 .. [11] `Any more efficient or clever ways of generating random strings? : golang <https://old.reddit.com/r/golang/comments/9wnaxa/any_more_efficient_or_clever_ways_of_generating/>`_
+.. [12] `What's the recommended encryption library for Go? : golang <https://old.reddit.com/r/golang/comments/9zhqga/whats_the_recommended_encryption_library_for_go/>`_
 
 .. _Go: https://golang.org/
 .. _Seed: https://golang.org/pkg/math/rand/#Seed

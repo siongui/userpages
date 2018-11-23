@@ -57,6 +57,7 @@ References:
        | `golang read password - Google search <https://www.google.com/search?q=golang+read+password>`_
 .. [6] | `初探 Headless Chrome - WEB前端 - 伯乐在线 <http://web.jobbole.com/91489/>`_
        | `初探 Headless Chrome - 知乎专栏 <https://zhuanlan.zhihu.com/p/27100187>`_
+.. [7] `What's the recommended encryption library for Go? : golang <https://old.reddit.com/r/golang/comments/9zhqga/whats_the_recommended_encryption_library_for_go/>`_
 
 .. _Web scrape: https://en.wikipedia.org/wiki/Web_scraping
 .. _Python: https://www.python.org/
