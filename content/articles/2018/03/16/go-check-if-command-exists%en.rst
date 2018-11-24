@@ -137,5 +137,7 @@ References:
        | `golang exec builtin command - Baidu search <https://www.baidu.com/s?wd=golang+exec+builtin+command>`_
        | `golang exec builtin command - Yandex search <https://www.yandex.com/search/?text=golang+exec+builtin+command>`_
 
+.. [6] `Help! os/exec Output() on Non-English Windows cmd! : golang <https://old.reddit.com/r/golang/comments/9zsipj/help_osexec_output_on_nonenglish_windows_cmd/>`_
+
 .. _os.exec: https://golang.org/pkg/os/exec/
 .. _exec.Command: https://golang.org/pkg/os/exec/#Command

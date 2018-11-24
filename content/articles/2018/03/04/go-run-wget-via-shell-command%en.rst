@@ -54,6 +54,7 @@ References:
        | `GitHub - Code-Hex/pget: The fastest file download client <https://github.com/Code-Hex/pget>`_
        | `GitHub - laher/wget-go: wget, partially re-implemented in go <https://github.com/laher/wget-go>`_
        | `wget - Go libraries and apps <https://golanglibs.com/top?q=wget>`_
+.. [3] `Help! os/exec Output() on Non-English Windows cmd! : golang <https://old.reddit.com/r/golang/comments/9zsipj/help_osexec_output_on_nonenglish_windows_cmd/>`_
 
 .. _os/exec: https://golang.org/pkg/os/exec/
 .. _hget: https://github.com/huydx/hget

@@ -99,6 +99,8 @@ References:
 .. [4] | `[Golang] Read Command-line Arguments Example <{filename}../../../2015/02/18/go-parse-command-line-arguments%en.rst>`_
        | `[Golang] Parse Command Line Arguments - String Variable <{filename}../../../2016/12/21/go-parse-commandline-arguments-string-variable%en.rst>`_
 
+.. [5] `Good resources for testing in Go : golang <https://old.reddit.com/r/golang/comments/9zri71/good_resources_for_testing_in_go/>`_
+
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
 .. _flag.Parse(): https://golang.org/pkg/flag/#Parse
