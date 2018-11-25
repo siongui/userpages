@@ -111,6 +111,7 @@ References:
         | `GitHub - dgraph-io/badger: Fastest key/value store in Go. <https://github.com/dgraph-io/badger>`_
 
 .. [21] `Good approach to interacting with databases? : golang <https://old.reddit.com/r/golang/comments/9i5cpg/good_approach_to_interacting_with_databases/>`_
+.. [22] `sqlingo is a SQL DSL & ORM library in Go. It generates code from your database and lets you write SQL queries easily. : golang <https://old.reddit.com/r/golang/comments/9zx2u4/sqlingo_is_a_sql_dsl_orm_library_in_go_it/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

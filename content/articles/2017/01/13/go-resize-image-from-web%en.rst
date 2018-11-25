@@ -54,6 +54,7 @@ References:
 
 .. [5] `Guess Metadata from HTML and Converted to reStructuredText <{filename}../../../2016/05/16/html-metadata-to-rst%en.rst>`_
 .. [6] `Creative coding in Go : golang <https://old.reddit.com/r/golang/comments/9ipu4w/creative_coding_in_go/>`_
+.. [7] `Small microservice to crop images on-the-fly : golang <https://old.reddit.com/r/golang/comments/a014w2/small_microservice_to_crop_images_onthefly/>`_
 
 .. _Go: https://golang.org/
 .. _png: https://www.google.com/search?q=png

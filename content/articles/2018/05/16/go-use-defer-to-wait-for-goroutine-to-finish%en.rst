@@ -179,6 +179,7 @@ References:
 .. [3] `[Golang] Wait For Goroutine to Finish <{filename}/articles/2015/03/23/go-wait-for-goroutine-to-finish%en.rst>`_
 .. [4] `goroutine anti-pattern? : golang <https://old.reddit.com/r/golang/comments/9o4vh5/goroutine_antipattern/>`_
 .. [5] `Behavior of defer function in named return function : golang <https://old.reddit.com/r/golang/comments/9ysxts/behavior_of_defer_function_in_named_return/>`_
+.. [6] `Non blocking way of notifying a goroutine, by many at once : golang <https://old.reddit.com/r/golang/comments/9zzeai/non_blocking_way_of_notifying_a_goroutine_by_many/>`_
 
 .. _defer statement: https://tour.golang.org/flowcontrol/12
 .. _channel: https://tour.golang.org/concurrency/2

@@ -117,6 +117,7 @@ References:
 .. [3] `Google <https://www.google.com/>`_ Search: `golang wait for goroutine to finish <https://www.google.com/search?q=golang+wait+for+goroutine+to+finish>`__
 .. [4] `优雅の使用sync.WaitGroup - hawkingrei |  Blog <https://www.hawkingrei.com/blog/2017/08/26/gracefully-use-waitgroup/>`_
 .. [5] `goroutine anti-pattern? : golang <https://old.reddit.com/r/golang/comments/9o4vh5/goroutine_antipattern/>`_
+.. [6] `Non blocking way of notifying a goroutine, by many at once : golang <https://old.reddit.com/r/golang/comments/9zzeai/non_blocking_way_of_notifying_a_goroutine_by_many/>`_
 
 .. _channels: https://tour.golang.org/concurrency/2
 .. _goroutines: https://tour.golang.org/concurrency/1

@@ -63,6 +63,7 @@ References:
        | `golang get domain from url - Yahoo search <https://search.yahoo.com/search?p=golang+get+domain+from+url>`_
        | `golang get domain from url - Baidu search <https://www.baidu.com/s?wd=golang+get+domain+from+url>`_
        | `golang get domain from url - Yandex search <https://www.yandex.com/search/?text=golang+get+domain+from+url>`_
+.. [2] `Find DNS records of a domain using Golang : golang <https://old.reddit.com/r/golang/comments/a0981x/find_dns_records_of_a_domain_using_golang/>`_
 
 .. _domain name: https://www.google.com/search?q=domain+name
 .. _net/url: https://golang.org/pkg/net/url/
