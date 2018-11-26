@@ -72,6 +72,7 @@ References:
 .. [4] `file server with custom 404 · siongui/pali@e872a78 · GitHub <https://github.com/siongui/pali/commit/e872a787647a3e0d7294c75d4ce28d6f9988b6ce>`_
 .. [5] `How to serve static files with custom NotFound handler : golang <https://www.reddit.com/r/golang/comments/64230v/how_to_serve_static_files_with_custom_notfound/>`_
        `How to serve static files with custom NotFound handler - Blog from kefaise.com <http://kefblog.com/2017-04-07/How-to-serve-static-files-with-custom-not-found-handler>`_
+.. [6] `Send big file with minimal memory over HTTP : golang <https://old.reddit.com/r/golang/comments/a061gv/send_big_file_with_minimal_memory_over_http/>`_
 
 .. _HTTP 404 not found: https://www.google.com/search?q=HTTP+404+not+found
 .. _net/http: https://golang.org/pkg/net/http/

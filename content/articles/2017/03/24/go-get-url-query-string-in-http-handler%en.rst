@@ -63,6 +63,7 @@ References:
        | `Go sever get query string in url - Yandex search <https://www.yandex.com/search/?text=Go+sever+get+query+string+in+url>`_
 
 .. [2] `[Golang] JSONP Server Implementation Code <{filename}../18/go-jsonp-server-implementation-code%en.rst>`_
+.. [3] `How to make a secured user authentication and authorization system? What are the things I should look for? : golang <https://old.reddit.com/r/golang/comments/a0gjdp/how_to_make_a_secured_user_authentication_and/>`_
 
 .. _Go: https://golang.org/
 .. _query string: https://www.google.com/search?q=query+string

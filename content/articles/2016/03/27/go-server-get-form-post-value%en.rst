@@ -24,6 +24,7 @@ Tested on: ``Ubuntu Linux 15.10``, ``Go 1.6``.
 References:
 
 .. [1] `http - The Go Programming Language <https://golang.org/pkg/net/http/>`_
+.. [2] `Don’t parse everything from client multipart POST : golang <https://old.reddit.com/r/golang/comments/a0izz1/dont_parse_everything_from_client_multipart_post/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

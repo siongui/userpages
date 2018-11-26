@@ -80,6 +80,7 @@ References:
        | `html remove all styles online - Baidu search <https://www.baidu.com/s?wd=html+remove+all+styles+online>`_
        | `html remove all styles online - Yandex search <https://www.yandex.com/search/?text=html+remove+all+styles+online>`_
 .. [3] `go - How to delete an element from array in golang - Stack Overflow <https://stackoverflow.com/a/37335777>`_
+.. [4] `HTML Tidy - Online Markup Corrector <https://htmltidy.net/>`_
 
 .. _Go Playground: https://play.golang.org/
 .. _net/html: https://godoc.org/golang.org/x/net/html
