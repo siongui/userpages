@@ -52,6 +52,7 @@ References:
 .. [1] `golang fmt.errorf at DuckDuckGo <https://duckduckgo.com/?q=golang+fmt.errorf>`_
 .. [2] `fmt.Errorf() or errors.New()? : golang <https://old.reddit.com/r/golang/comments/6ffrie/fmterrorf_or_errorsnew/>`_
 .. [3] `"Errors in Go: From denial to acceptance". A practical guide to error handling patterns in Golang. : golang <https://old.reddit.com/r/golang/comments/a0k2bh/errors_in_go_from_denial_to_acceptance_a/>`_
+.. [4] `Error Values — Problem Overview : golang <https://old.reddit.com/r/golang/comments/a0vgev/error_values_problem_overview/>`_
 
 .. _Go: https://golang.org/
 .. _errors.New: https://golang.org/pkg/errors/#New

@@ -81,6 +81,7 @@ References:
 .. [2] `go - JSON Unmarshal when structure is determined at runtime - Stack Overflow <https://stackoverflow.com/questions/40145706/json-unmarshal-when-structure-is-determined-at-runtime>`_
 .. [3] `go - Override Golang JSON tag values at runtime - Stack Overflow <https://stackoverflow.com/questions/45032514/override-golang-json-tag-values-at-runtime>`_
 .. [4] `change code to adapt to change of the format of reels_media story hig… · siongui/instago@6bfcfff · GitHub <https://github.com/siongui/instago/commit/6bfcfff26dbde5fae27cec5d729b0d3847f54561>`_
+.. [5] `Noob question regarding runes : golang <https://old.reddit.com/r/golang/comments/a0zbwj/noob_question_regarding_runes/>`_
 
 .. _encoding/json: https://golang.org/pkg/encoding/json/
 .. _json.Unmarshal: https://golang.org/pkg/encoding/json/#Unmarshal

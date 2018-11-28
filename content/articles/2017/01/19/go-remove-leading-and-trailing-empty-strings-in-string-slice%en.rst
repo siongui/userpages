@@ -81,9 +81,8 @@ Tested on: ``Ubuntu Linux 16.10``, ``Go 1.7.4`` & `Go Playground`_.
 References:
 
 .. [1] `Go Slices: usage and internals - The Go Blog <https://blog.golang.org/go-slices-usage-and-internals>`_
-
 .. [2] `Zero values - A Tour of Go <https://tour.golang.org/basics/12>`_
-
+.. [3] `Avoiding partially constructed variables : golang <https://old.reddit.com/r/golang/comments/a0ueef/avoiding_partially_constructed_variables/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
