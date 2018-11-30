@@ -30,6 +30,7 @@ References:
 .. [2] | `untar tar file - Google search <https://www.google.com/search?q=untar+tar+file>`_
        | `HowTo : Extract (untar) [tar], [tar.gz] and [tar.bz2] Files | Linux Commands <http://www.shellhacks.com/en/HowTo-Extract-untar-tar-targz-and-tarbz2-Files>`_
 
+.. [3] `GitHub - joeky888/fil: Unix file command written in Go : golang <https://old.reddit.com/r/golang/comments/a1qs5y/github_joeky888fil_unix_file_command_written_in_go/>`_
 
 .. _Bash: https://www.google.com/search?q=Bash
 .. _tar: http://linux.die.net/man/1/tar

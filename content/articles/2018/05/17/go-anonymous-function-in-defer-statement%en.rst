@@ -104,6 +104,7 @@ References:
 .. [1] `[Golang] Use Defer to Wait For Goroutines to Finish <{filename}/articles/2018/05/16/go-use-defer-to-wait-for-goroutine-to-finish%en.rst>`_
 .. [2] `[Golang] Wait For Goroutine to Finish <{filename}/articles/2015/03/23/go-wait-for-goroutine-to-finish%en.rst>`_
 .. [3] `Behavior of defer function in named return function : golang <https://old.reddit.com/r/golang/comments/9ysxts/behavior_of_defer_function_in_named_return/>`_
+.. [4] `Higher order functions. Why not? : golang <https://old.reddit.com/r/golang/comments/a1o1d7/higher_order_functions_why_not/>`_
 
 .. _defer statement: https://tour.golang.org/flowcontrol/12
 .. _The Go Playground: https://play.golang.org/
