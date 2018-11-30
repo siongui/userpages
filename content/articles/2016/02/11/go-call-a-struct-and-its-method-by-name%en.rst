@@ -72,6 +72,7 @@ References:
         | `Go Reflection: Creating Objects from Types — Part I (Primitive Types) <https://medium.com/kokster/go-reflection-creating-objects-from-types-part-i-primitive-types-6119e3737f5d>`_
 .. [13] | `Learning to Use Go Reflection – Capital One DevExchange – Medium : golang <https://www.reddit.com/r/golang/comments/7rjt1h/learning_to_use_go_reflection_capital_one/>`_
         | `Learning to Use Go Reflection – Capital One DevExchange – Medium <https://medium.com/capital-one-developers/learning-to-use-go-reflection-822a0aed74b7>`_
+.. [14] `Can anyone explain this in an easy way? : golang <https://old.reddit.com/r/golang/comments/a1od2x/can_anyone_explain_this_in_an_easy_way/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

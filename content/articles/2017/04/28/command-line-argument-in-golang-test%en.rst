@@ -100,6 +100,7 @@ References:
        | `[Golang] Parse Command Line Arguments - String Variable <{filename}../../../2016/12/21/go-parse-commandline-arguments-string-variable%en.rst>`_
 
 .. [5] `Good resources for testing in Go : golang <https://old.reddit.com/r/golang/comments/9zri71/good_resources_for_testing_in_go/>`_
+.. [6] `TIL: 'testing' package has a '--short' flag : golang <https://old.reddit.com/r/golang/comments/a1iuhg/til_testing_package_has_a_short_flag/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

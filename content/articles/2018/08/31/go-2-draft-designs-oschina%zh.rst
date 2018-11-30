@@ -108,6 +108,8 @@ Go 2 的目標是通過允許帶有類型參數的參數多態來解決編寫 Go
 - `Sydney Golang Meetup - Rob Pike - Go 2 Draft Specifications : golang <https://redd.it/9www5f>`_
 - `Chris Siebenmann: Go 2 contracts are too clever (via Golang Ninjas newsletter) : golang <https://old.reddit.com/r/golang/comments/a06v2g/chris_siebenmann_go_2_contracts_are_too_clever/>`_
 - `Golang made teeny-tiny: Go compiler for microcontrollers : golang <https://old.reddit.com/r/golang/comments/a0v7tu/golang_made_teenytiny_go_compiler_for/>`_
+- `Go 2, here we come! : golang <https://old.reddit.com/r/golang/comments/a1j3h6/go_2_here_we_come/>`_
+- `Go 2, here we come | Hacker News <https://news.ycombinator.com/item?id=18561587>`_
 
 .. _Go 2 開發計畫: https://www.oschina.net/news/86774/toward-go2
 .. _設計草案: https://go.googlesource.com/proposal/+/master/design/go2draft.md
