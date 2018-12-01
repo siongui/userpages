@@ -60,6 +60,7 @@ References:
 .. [7] `What's the recommended encryption library for Go? : golang <https://old.reddit.com/r/golang/comments/9zhqga/whats_the_recommended_encryption_library_for_go/>`_
 .. [8] `Library for accessing the Pwned Passwords API : golang <https://old.reddit.com/r/golang/comments/9zui9g/library_for_accessing_the_pwned_passwords_api/>`_
 .. [9] `Question About Context Package : golang <https://old.reddit.com/r/golang/comments/a176rf/question_about_context_package/>`_
+.. [10] `Validating elliptic curve signatures using Golang : golang <https://old.reddit.com/r/golang/comments/a1s9no/validating_elliptic_curve_signatures_using_golang/>`_
 
 .. _Web scrape: https://en.wikipedia.org/wiki/Web_scraping
 .. _Python: https://www.python.org/

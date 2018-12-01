@@ -113,7 +113,8 @@ References:
 .. [21] `Good approach to interacting with databases? : golang <https://old.reddit.com/r/golang/comments/9i5cpg/good_approach_to_interacting_with_databases/>`_
 .. [22] `sqlingo is a SQL DSL & ORM library in Go. It generates code from your database and lets you write SQL queries easily. : golang <https://old.reddit.com/r/golang/comments/9zx2u4/sqlingo_is_a_sql_dsl_orm_library_in_go_it/>`_
 .. [23] `Golang SQL Layer on FoundationDB : golang <https://old.reddit.com/r/golang/comments/a11iee/golang_sql_layer_on_foundationdb/>`_
-.. [24] `ObjectBox: new super-fast DB to store for Go objects (structs) : golang <https://old.reddit.com/r/golang/comments/a16m55/objectbox_new_superfast_db_to_store_for_go/>`_
+.. [24] | `ObjectBox: new super-fast DB to store for Go objects (structs) : golang <https://old.reddit.com/r/golang/comments/a16m55/objectbox_new_superfast_db_to_store_for_go/>`_
+        | `ObjectBox: Fast object-oriented database for Go | Hacker News <https://news.ycombinator.com/item?id=18568029>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

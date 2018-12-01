@@ -118,6 +118,7 @@ References:
 .. [4] `优雅の使用sync.WaitGroup - hawkingrei |  Blog <https://www.hawkingrei.com/blog/2017/08/26/gracefully-use-waitgroup/>`_
 .. [5] `goroutine anti-pattern? : golang <https://old.reddit.com/r/golang/comments/9o4vh5/goroutine_antipattern/>`_
 .. [6] `Non blocking way of notifying a goroutine, by many at once : golang <https://old.reddit.com/r/golang/comments/9zzeai/non_blocking_way_of_notifying_a_goroutine_by_many/>`_
+.. [7] `Can someone explain why this program isn't faster with goroutines? : golang <https://old.reddit.com/r/golang/comments/a1wznn/can_someone_explain_why_this_program_isnt_faster/>`_
 
 .. _channels: https://tour.golang.org/concurrency/2
 .. _goroutines: https://tour.golang.org/concurrency/1
