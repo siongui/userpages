@@ -27,4 +27,7 @@ Reddit看到的問題 [1]_ ，有人問到：
 參考：
 
 .. [1] `Dependency management in Go : golang <https://old.reddit.com/r/golang/comments/a1ycyk/dependency_management_in_go/>`_
+.. [2] `Utterly confused with Golang and its setup. : golang <https://old.reddit.com/r/golang/comments/a2b7w8/utterly_confused_with_golang_and_its_setup/>`_
+.. [3] `Is this performance normal? : golang <https://old.reddit.com/r/golang/comments/a2214v/is_this_performance_normal/>`_
+.. [4] `OAuth server library with Password Credentials Support (like IdentityServer for .NET) : golang <https://old.reddit.com/r/golang/comments/a24saw/oauth_server_library_with_password_credentials/>`_
 

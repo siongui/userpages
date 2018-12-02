@@ -119,6 +119,7 @@ References:
 .. [5] `goroutine anti-pattern? : golang <https://old.reddit.com/r/golang/comments/9o4vh5/goroutine_antipattern/>`_
 .. [6] `Non blocking way of notifying a goroutine, by many at once : golang <https://old.reddit.com/r/golang/comments/9zzeai/non_blocking_way_of_notifying_a_goroutine_by_many/>`_
 .. [7] `Can someone explain why this program isn't faster with goroutines? : golang <https://old.reddit.com/r/golang/comments/a1wznn/can_someone_explain_why_this_program_isnt_faster/>`_
+.. [8] `How to store/retrieve channels in sync map? : golang <https://old.reddit.com/r/golang/comments/a2b4iu/how_to_storeretrieve_channels_in_sync_map/>`_
 
 .. _channels: https://tour.golang.org/concurrency/2
 .. _goroutines: https://tour.golang.org/concurrency/1
