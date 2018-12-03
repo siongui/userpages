@@ -34,7 +34,7 @@ References:
 
 .. [3] | `golang settimeout - Google search <https://www.google.com/search?q=golang+settimeout>`_
        | `node.js - nodejs setTimeout equivalent in Golang - Stack Overflow <http://stackoverflow.com/questions/24072767/nodejs-settimeout-equivalent-in-golang>`_
-
+.. [4] `Are multiple time.After statements racing in "select" : golang <https://old.reddit.com/r/golang/comments/a2nlh5/are_multiple_timeafter_statements_racing_in_select/>`_
 
 .. _GopherJS: http://www.gopherjs.org/
 .. _Go: https://golang.org/

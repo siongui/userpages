@@ -37,4 +37,6 @@ Linux 社區也要“淨網行動”？有人提議用“擁抱”替換 fxxk
   | 本文標題：Linux 社區也要“淨網行動”？有人提議用“擁抱”替換 fxxk
   | 本文地址：https://www.oschina.net/news/102311/linux-kernel-hugs
 
+- `Solidot | 英特尔开发者建议旧注释用 Hug 取代所有 Fxxx <https://www.solidot.org/story?sid=58797>`_
+
 .. _cnBeta: https://hot.cnbeta.com/articles/funny/793719

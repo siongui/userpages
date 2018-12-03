@@ -35,5 +35,7 @@ RISC-V 指令集靈活、高效、開源還免費，非常適合做移動處理�
   | 本文標題：Linux 基金會與 RISC-V 基金會合作推廣開源芯片
   | 本文地址：https://www.oschina.net/news/102284/the-linux-foundation-teams-risc-v-promote-open-source-chips
 
+- `Solidot | RISC-V 和 Linux 基金会合作推广开源 CPU <https://www.solidot.org/story?sid=58796>`_
+
 .. _超能網: http://www.expreview.com/65511.html
 .. _孟憲瑞: http://www.expreview.com/home.php?mod=space&uid=461008

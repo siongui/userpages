@@ -115,6 +115,7 @@ References:
 .. [23] `Golang SQL Layer on FoundationDB : golang <https://old.reddit.com/r/golang/comments/a11iee/golang_sql_layer_on_foundationdb/>`_
 .. [24] | `ObjectBox: new super-fast DB to store for Go objects (structs) : golang <https://old.reddit.com/r/golang/comments/a16m55/objectbox_new_superfast_db_to_store_for_go/>`_
         | `ObjectBox: Fast object-oriented database for Go | Hacker News <https://news.ycombinator.com/item?id=18568029>`_
+.. [25] `Sqlx, Dat, Pg. What's the difference and what should I use to connect to a Postgres DB? : golang <https://old.reddit.com/r/golang/comments/a2hiy2/sqlx_dat_pg_whats_the_difference_and_what_should/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

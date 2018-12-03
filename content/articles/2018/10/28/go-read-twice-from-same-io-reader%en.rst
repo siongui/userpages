@@ -81,6 +81,7 @@ References:
 
 .. [1] `[Golang] Auto-Detect and Convert Encoding of HTML to UTF-8 <{filename}/articles/2018/10/27/auto-detect-and-convert-html-encoding-to-utf8-in-go%en.rst>`_
 .. [2] `golang io.reader read twice at DuckDuckGo <https://duckduckgo.com/?q=golang+io.reader+read+twice>`_
+.. [3] `How to write a proper tar archive in golang? : golang <https://old.reddit.com/r/golang/comments/a2hofj/how_to_write_a_proper_tar_archive_in_golang/>`_
 
 .. _Go: https://golang.org/
 .. _io.Reader: https://golang.org/pkg/io/#Reader

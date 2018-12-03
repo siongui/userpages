@@ -47,6 +47,7 @@ References:
        | `golang initialize two dimensional array - Yandex search <https://www.yandex.com/search/?text=golang+initialize+two+dimensional+array>`_
 .. adsu:: 3
 .. [2] `GitHub - siongui/gopherjs-pali-virtual-keypad: Virtual Keyboard for Pāli input. Written in Go. <https://github.com/siongui/gopherjs-pali-virtual-keypad>`_
+.. [3] `golang can read slice value after variable redefined? : golang <https://old.reddit.com/r/golang/comments/a2ixu7/golang_can_read_slice_value_after_variable/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

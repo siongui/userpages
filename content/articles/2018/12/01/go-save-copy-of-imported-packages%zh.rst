@@ -30,4 +30,7 @@ Reddit看到的問題 [1]_ ，有人問到：
 .. [2] `Utterly confused with Golang and its setup. : golang <https://old.reddit.com/r/golang/comments/a2b7w8/utterly_confused_with_golang_and_its_setup/>`_
 .. [3] `Is this performance normal? : golang <https://old.reddit.com/r/golang/comments/a2214v/is_this_performance_normal/>`_
 .. [4] `OAuth server library with Password Credentials Support (like IdentityServer for .NET) : golang <https://old.reddit.com/r/golang/comments/a24saw/oauth_server_library_with_password_credentials/>`_
+.. [5] `Emulating a Nintendo DS in Go (video) : golang <https://old.reddit.com/r/golang/comments/a2hiu5/emulating_a_nintendo_ds_in_go_video/>`_
+.. [6] `Tool to show type hierarchy for Go pkg : golang <https://old.reddit.com/r/golang/comments/a2csig/tool_to_show_type_hierarchy_for_go_pkg/>`_
+.. [7] `Building Web Servers in Go : golang <https://old.reddit.com/r/golang/comments/a2iics/building_web_servers_in_go/>`_
 
