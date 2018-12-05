@@ -53,3 +53,6 @@
 * `[閒聊] 在機場遇到簽證爭議時的處理方式 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1495548157.A.ED1.html>`_
 * `多次入境泰國的簽證問題 - 看板 Thailand - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/M.1496737846.A.972.html>`_
 * `[問題] 關於觀光簽證的疑問 - 看板 Thailand - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/M.1496743669.A.045.html>`_
+* `[問題] 泰國簽證是否可連續申請照片同 - 看板 Thailand - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/M.1543647354.A.647.html>`_
+* `[問題] 清邁大學留學簽證拒簽 - 看板 Thailand - 批踢踢實業坊 <https://www.ptt.cc/bbs/Thailand/M.1542861723.A.58C.html>`_
+

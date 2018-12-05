@@ -46,5 +46,8 @@
   * `[問題] 機票分開買的行李與通知後段航空公司？ - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465791174.A.C72.html>`_
   * `[問題] 幫忙搬行李 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1465807503.A.BCB.html>`_
   * `[問題] 行李測重一問 - 看板 Aviation - 批踢踢實業坊 <https://www.ptt.cc/bbs/Aviation/M.1484839354.A.AAB.html>`_
+  * `越捷航空追加行李 - Google search <https://www.google.com/search?q=%E8%B6%8A%E6%8D%B7%E8%88%AA%E7%A9%BA%E8%BF%BD%E5%8A%A0%E8%A1%8C%E6%9D%8E>`_
+
+    - `[問題] 越捷航空行李訂票加買 - 看板 Vietnam - 批踢踢實業坊 <https://www.ptt.cc/bbs/Vietnam/M.1539117773.A.2BD.html>`_
 
 .. adsu:: 2
