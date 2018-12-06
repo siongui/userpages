@@ -163,6 +163,7 @@ References:
 .. [4] `[Golang] Walk All Files in Directory <{filename}../../../2016/02/04/go-walk-all-files-in-directory%en.rst>`_
 
 .. [5] `Golang Template Parse Directory <{filename}../13/go-template-parse-all-files-in-directory%en.rst>`_
+.. [6] `Creating a simple website, how to use the out of the box library "html/template" to create a layout and its children? : golang <https://old.reddit.com/r/golang/comments/a33f72/creating_a_simple_website_how_to_use_the_out_of/>`_
 
 .. _Go: https://golang.org/
 .. _html/template: https://golang.org/pkg/html/template/

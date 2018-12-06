@@ -102,6 +102,8 @@ References:
 .. [5] `Good resources for testing in Go : golang <https://old.reddit.com/r/golang/comments/9zri71/good_resources_for_testing_in_go/>`_
 .. [6] `TIL: 'testing' package has a '--short' flag : golang <https://old.reddit.com/r/golang/comments/a1iuhg/til_testing_package_has_a_short_flag/>`_
 .. [7] `Dependency management in Go : golang <https://old.reddit.com/r/golang/comments/a1ycyk/dependency_management_in_go/>`_
+.. [8] `Unit testing for web apps with postgres! Help wanted! : golang <https://old.reddit.com/r/golang/comments/a3eqiz/unit_testing_for_web_apps_with_postgres_help/>`_
+.. [9] `tests in _test package or not? : golang <https://old.reddit.com/r/golang/comments/a2ysk8/tests_in_test_package_or_not/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

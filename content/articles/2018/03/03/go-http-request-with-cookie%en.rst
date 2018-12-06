@@ -73,6 +73,7 @@ References:
 .. [1] `[Golang] HTTP Request With Custom User-Agent <{filename}/articles/2018/02/27/go-http-request-with-custom-user-agent%en.rst>`_
 .. [2] `soup - Web Scraper for Go with a similar interface to BeautifulSoup : golang <https://old.reddit.com/r/golang/comments/9x2btf/soup_web_scraper_for_go_with_a_similar_interface/>`_
 .. [3] `Context propagation over HTTP in Go – JBD – Medium : golang <https://old.reddit.com/r/golang/comments/9z18ej/context_propagation_over_http_in_go_jbd_medium/>`_
+.. [4] `GitHub - arrufat/papago: Unofficial wrapper around the Naver translating tool, Papago : golang <https://old.reddit.com/r/golang/comments/a3580f/github_arrufatpapago_unofficial_wrapper_around/>`_
 
 .. _cookies: https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
 .. _net/http: https://golang.org/pkg/net/http/

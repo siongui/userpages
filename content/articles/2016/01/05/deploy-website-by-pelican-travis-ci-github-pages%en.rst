@@ -109,6 +109,7 @@ References:
 .. [12] `Creating an access token for command-line use - GitHub Help <https://help.github.com/articles/creating-an-access-token-for-command-line-use/>`_
 
 .. [13] `GitHub Pages Deployment - Travis CI <https://docs.travis-ci.com/user/deployment/pages/>`_
+.. [14] `Building a Solid Continuous Integration Pipeline with TravisCI for Your Go Projects : golang <https://old.reddit.com/r/golang/comments/a2st6s/building_a_solid_continuous_integration_pipeline/>`_
 
 .. _Pelican: http://blog.getpelican.com/
 .. _Travis CI: https://travis-ci.org/

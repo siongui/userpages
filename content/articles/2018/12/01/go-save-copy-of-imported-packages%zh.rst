@@ -33,4 +33,7 @@ Reddit看到的問題 [1]_ ，有人問到：
 .. [5] `Emulating a Nintendo DS in Go (video) : golang <https://old.reddit.com/r/golang/comments/a2hiu5/emulating_a_nintendo_ds_in_go_video/>`_
 .. [6] `Tool to show type hierarchy for Go pkg : golang <https://old.reddit.com/r/golang/comments/a2csig/tool_to_show_type_hierarchy_for_go_pkg/>`_
 .. [7] `Building Web Servers in Go : golang <https://old.reddit.com/r/golang/comments/a2iics/building_web_servers_in_go/>`_
+.. [8] `GOPATH will not set? : golang <https://old.reddit.com/r/golang/comments/a3il4k/gopath_will_not_set/>`_
+.. [9] `Reimport: a simple go files import match/replace tool using go/parser : golang <https://old.reddit.com/r/golang/comments/a35c1a/reimport_a_simple_go_files_import_matchreplace/>`_
+.. [10] `Examples of well architected, large webapps : golang <https://old.reddit.com/r/golang/comments/a2siv8/examples_of_well_architected_large_webapps/>`_
 

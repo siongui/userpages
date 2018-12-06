@@ -54,6 +54,7 @@ References:
 .. [1] `[Golang] Levenshtein Distance Recursive Implementation <{filename}../04/go-levenshtein-distance-recursive-implementation%en.rst>`_
 .. [2] `[Golang] Initialize Two Dimensional Array/Slice <{filename}../../02/01/go-initialize-two-dimensional-array-or-slice%en.rst>`_
 .. [3] `How do I know when recursive calls have all been completed? : golang <https://old.reddit.com/r/golang/comments/a1tlc4/how_do_i_know_when_recursive_calls_have_all_been/>`_
+.. [4] `How is infinite recursion and stack allocation controlled in Golang? : golang <https://old.reddit.com/r/golang/comments/a39mrr/how_is_infinite_recursion_and_stack_allocation/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

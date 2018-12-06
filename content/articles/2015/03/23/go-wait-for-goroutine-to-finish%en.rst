@@ -121,6 +121,8 @@ References:
 .. [7] `Can someone explain why this program isn't faster with goroutines? : golang <https://old.reddit.com/r/golang/comments/a1wznn/can_someone_explain_why_this_program_isnt_faster/>`_
 .. [8] `How to store/retrieve channels in sync map? : golang <https://old.reddit.com/r/golang/comments/a2b4iu/how_to_storeretrieve_channels_in_sync_map/>`_
 .. [9] `Goroutines blocking on channels vs goroutines blocking on system calls : golang <https://old.reddit.com/r/golang/comments/a2f3lb/goroutines_blocking_on_channels_vs_goroutines/>`_
+.. [10] `Is it safe to assume that the compiler will make goroutines cooperative regardless of the code? : golang <https://old.reddit.com/r/golang/comments/a39ybz/is_it_safe_to_assume_that_the_compiler_will_make/>`_
+.. [11] `Thread safe access to struct members : golang <https://old.reddit.com/r/golang/comments/a2w1tj/thread_safe_access_to_struct_members/>`_
 
 .. _channels: https://tour.golang.org/concurrency/2
 .. _goroutines: https://tour.golang.org/concurrency/1
