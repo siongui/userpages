@@ -36,4 +36,5 @@ Reddit看到的問題 [1]_ ，有人問到：
 .. [8] `GOPATH will not set? : golang <https://old.reddit.com/r/golang/comments/a3il4k/gopath_will_not_set/>`_
 .. [9] `Reimport: a simple go files import match/replace tool using go/parser : golang <https://old.reddit.com/r/golang/comments/a35c1a/reimport_a_simple_go_files_import_matchreplace/>`_
 .. [10] `Examples of well architected, large webapps : golang <https://old.reddit.com/r/golang/comments/a2siv8/examples_of_well_architected_large_webapps/>`_
+.. [11] `Is MVC a good pattern in Go? : golang <https://old.reddit.com/r/golang/comments/a3lojm/is_mvc_a_good_pattern_in_go/>`_
 
