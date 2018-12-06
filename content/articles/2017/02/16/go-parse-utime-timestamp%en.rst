@@ -114,6 +114,7 @@ References
 .. [8] `Unix time - Wikipedia <https://en.wikipedia.org/wiki/Unix_time>`_
 .. [9] | `Golang Date Parsing : golang <https://www.reddit.com/r/golang/comments/7w8pwn/golang_date_parsing/>`_
        | `Fucking Go Date Format <http://fuckinggodateformat.com/>`_
+.. [10] `In case you want to program a microwave oven in go - the time package formats got you covered : golang <https://old.reddit.com/r/golang/comments/a3m8o2/in_case_you_want_to_program_a_microwave_oven_in/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

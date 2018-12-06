@@ -45,7 +45,6 @@ The following is complete sample code for servers supporting CORS and running on
 `Google App Engine Go Standard Environment`_
 
 .. show_github_file:: siongui userpages content/code/go/cors-server/serverjson.go
-.. adsu:: 3
 .. show_github_file:: siongui userpages content/code/go/cors-server/app.yaml
 .. show_github_file:: siongui userpages content/code/go/cors-server/Makefile
 
@@ -67,8 +66,9 @@ References:
        | `go net/http set response header - Yahoo search <https://search.yahoo.com/search?p=go+net/http+set+response+header>`_
        | `go net/http set response header - Baidu search <https://www.baidu.com/s?wd=go+net/http+set+response+header>`_
        | `go net/http set response header - Yandex search <https://www.yandex.com/search/?text=go+net/http+set+response+header>`_
-.. adsu:: 4
+.. adsu:: 3
 .. [2] `Setting HTTP headers in Golang - Stack Overflow <http://stackoverflow.com/questions/12830095/setting-http-headers-in-golang>`_
+.. [3] `Load balancer at your fingertips, let's build one (Go) : golang <https://old.reddit.com/r/golang/comments/a38an4/load_balancer_at_your_fingertips_lets_build_one_go/>`_
 
 .. _net/http: https://golang.org/pkg/net/http/
 .. _Google App Engine Go Standard Environment: https://cloud.google.com/appengine/docs/standard/go/
