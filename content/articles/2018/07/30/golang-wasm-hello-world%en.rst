@@ -165,6 +165,7 @@ References:
 .. [7] `This is a WASM-based Vue.js wrapper written in Go : golang <https://old.reddit.com/r/golang/comments/9w4nk5/this_is_a_wasmbased_vuejs_wrapper_written_in_go/>`_
 .. [8] `Writing a Frontend Web Framework with WebAssembly And Go : golang <https://old.reddit.com/r/golang/comments/9tuuep/writing_a_frontend_web_framework_with_webassembly/>`_
 .. [9] `Write Qt for WebAssembly applications entirely in Go and/or JavaScript : golang <https://old.reddit.com/r/golang/comments/9yi0nw/write_qt_for_webassembly_applications_entirely_in/>`_
+.. [10] `Advent 2018: Go and WebAssembly: running Go programs in your browser : golang <https://old.reddit.com/r/golang/comments/a406x3/advent_2018_go_and_webassembly_running_go/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
