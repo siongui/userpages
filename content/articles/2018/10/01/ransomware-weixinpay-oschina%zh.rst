@@ -62,6 +62,7 @@
 ----
 
 - `Solidot | 中国勒索软件作者索要微信支付赎金 <https://www.solidot.org/story?sid=58856>`_
+- `Solidot | 微信勒索病毒的作者被捕 <https://www.solidot.org/story?sid=58865>`_
 
 .. _解密工具: https://www.huorong.cn/download/tools/HRDecrypter.exe
 .. _火絨安全: http://www.huorong.cn/info/1543934825174.html

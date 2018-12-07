@@ -32,5 +32,6 @@ AWS 表示，這一舉措是對客戶“如何加速團隊中機器學習技能�
 ----
 
 - `Amazon’s own ‘Machine Learning University’ now available to all developers | Hacker News <https://news.ycombinator.com/item?id=18534155>`_
+- `Neural Net in Golang... And how : golang <https://old.reddit.com/r/golang/comments/a3t4vf/neural_net_in_golang_and_how/>`_
 
 .. _免費開放其內部用於培訓工程師的機器學習課程: https://aws.amazon.com/cn/blogs/machine-learning/amazons-own-machine-learning-university-now-available-to-all-developers/

@@ -113,5 +113,6 @@ Tested on: ``Ubuntu Linux 17.10``, ``Go 1.10.1``
        | `golang read password - Yandex search <https://www.yandex.com/search/?text=golang+read+password>`_
 .. [4] `passwords - getpasswd functionality in Go? - Stack Overflow <https://stackoverflow.com/a/32768479>`_
 .. [5] `What's the recommended encryption library for Go? : golang <https://old.reddit.com/r/golang/comments/9zhqga/whats_the_recommended_encryption_library_for_go/>`_
+.. [6] `sha512 in Go : golang <https://old.reddit.com/r/golang/comments/a3s02h/sha512_in_go/>`_
 
 .. _github.com/jordan-wright/email: https://github.com/jordan-wright/email

@@ -37,4 +37,5 @@ Reddit看到的問題 [1]_ ，有人問到：
 .. [9] `Reimport: a simple go files import match/replace tool using go/parser : golang <https://old.reddit.com/r/golang/comments/a35c1a/reimport_a_simple_go_files_import_matchreplace/>`_
 .. [10] `Examples of well architected, large webapps : golang <https://old.reddit.com/r/golang/comments/a2siv8/examples_of_well_architected_large_webapps/>`_
 .. [11] `Is MVC a good pattern in Go? : golang <https://old.reddit.com/r/golang/comments/a3lojm/is_mvc_a_good_pattern_in_go/>`_
+.. [12] `Neural Net in Golang... And how : golang <https://old.reddit.com/r/golang/comments/a3t4vf/neural_net_in_golang_and_how/>`_
 
