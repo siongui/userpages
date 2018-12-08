@@ -38,4 +38,6 @@ Reddit看到的問題 [1]_ ，有人問到：
 .. [10] `Examples of well architected, large webapps : golang <https://old.reddit.com/r/golang/comments/a2siv8/examples_of_well_architected_large_webapps/>`_
 .. [11] `Is MVC a good pattern in Go? : golang <https://old.reddit.com/r/golang/comments/a3lojm/is_mvc_a_good_pattern_in_go/>`_
 .. [12] `Neural Net in Golang... And how : golang <https://old.reddit.com/r/golang/comments/a3t4vf/neural_net_in_golang_and_how/>`_
+.. [13] `Is there a central and standard place where all the Go packages can be found? : golang <https://old.reddit.com/r/golang/comments/a44wpq/is_there_a_central_and_standard_place_where_all/>`_
+.. [14] `go is pass-by-value, does that mean each function call makes a copy of all params? : golang <https://old.reddit.com/r/golang/comments/a410gl/go_is_passbyvalue_does_that_mean_each_function/>`_
 

@@ -166,6 +166,7 @@ References:
 .. [8] `Writing a Frontend Web Framework with WebAssembly And Go : golang <https://old.reddit.com/r/golang/comments/9tuuep/writing_a_frontend_web_framework_with_webassembly/>`_
 .. [9] `Write Qt for WebAssembly applications entirely in Go and/or JavaScript : golang <https://old.reddit.com/r/golang/comments/9yi0nw/write_qt_for_webassembly_applications_entirely_in/>`_
 .. [10] `Advent 2018: Go and WebAssembly: running Go programs in your browser : golang <https://old.reddit.com/r/golang/comments/a406x3/advent_2018_go_and_webassembly_running_go/>`_
+.. [11] `Starlight - run python natively inside your Go application : golang <https://old.reddit.com/r/golang/comments/a41dsy/starlight_run_python_natively_inside_your_go/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
