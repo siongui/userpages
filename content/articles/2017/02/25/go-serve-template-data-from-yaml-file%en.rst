@@ -82,6 +82,7 @@ References
 .. [6] `YAML to GO: Convert YAML to Struct : golang <https://www.reddit.com/r/golang/comments/66kahf/yaml_to_go_convert_yaml_to_struct/>`_
 .. [7] `Standard configuration file format : golang <https://www.reddit.com/r/golang/comments/69afym/standard_configuration_file_format/>`_
 .. [8] `Best Practices: Config Files in Go Projects : golang <https://old.reddit.com/r/golang/comments/9ivans/best_practices_config_files_in_go_projects/>`_
+.. [9] `Dealing with configs : golang <https://old.reddit.com/r/golang/comments/a4al18/dealing_with_configs/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
