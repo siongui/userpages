@@ -49,5 +49,9 @@ WebAssembly 在 MVP 版本階段滿足 4 個基本技能要求：編譯、快速
 | 本文標題：WebAssembly 的未來：將逐漸解鎖整個“技能樹”
 | 本文地址：https://www.oschina.net/news/101159/the-future-of-webassembly
 
+----
+
+- `WebAssembly 的未来：成长技能树 - 开源中国 <https://www.oschina.net/translate/webassemblys-post-mvp-future>`_
+
 .. _WebAssembly 的未來發展路徑: https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/
 .. _博客原文: https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/
