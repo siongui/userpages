@@ -2,6 +2,7 @@
 ###############################
 
 :date: 2018-12-01T19:25+08:00
+:modified: 2018-12-12T19:18+08:00
 :tags: Go語言
 :category: Go語言
 :summary: Go語言：防止網路import的套件被刪除或更改，以致無法使用。
@@ -19,6 +20,10 @@ Reddit看到的問題 [1]_ ，有人問到：
 問： *如果有人更新了他們在GitHub上的程式碼以致無法建構該怎麼辦？*
 
 答： *go mod* 會固定套件版本，除非你告訴它去更改套件版本。
+
+----
+
+另外有一個 Go Modules 的快速上手指南，請看 [15]_
 
 .. adsu:: 2
 
@@ -40,4 +45,5 @@ Reddit看到的問題 [1]_ ，有人問到：
 .. [12] `Neural Net in Golang... And how : golang <https://old.reddit.com/r/golang/comments/a3t4vf/neural_net_in_golang_and_how/>`_
 .. [13] `Is there a central and standard place where all the Go packages can be found? : golang <https://old.reddit.com/r/golang/comments/a44wpq/is_there_a_central_and_standard_place_where_all/>`_
 .. [14] `go is pass-by-value, does that mean each function call makes a copy of all params? : golang <https://old.reddit.com/r/golang/comments/a410gl/go_is_passbyvalue_does_that_mean_each_function/>`_
+.. [15] `Just tell me how to use Go Modules : golang <https://old.reddit.com/r/golang/comments/a539h6/just_tell_me_how_to_use_go_modules/>`_
 
