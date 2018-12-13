@@ -33,5 +33,6 @@ Tested on: ``Ubuntu Linux 18.04``, ``Go 1.11``
 .. [2] | `go - Extract words from PDF with golang? - Stack Overflow <https://stackoverflow.com/questions/39813890/extract-words-from-pdf-with-golang>`_
        | `go - How to extract plain text from PDF in golang - Stack Overflow <https://stackoverflow.com/questions/44560265/how-to-extract-plain-text-from-pdf-in-golang>`_
 .. [3] `GitHub - ledongthuc/pdf: PDF reader <https://github.com/ledongthuc/pdf>`_
+.. [4] `Gotenberg v3: a Docker-powered stateless API written in Go for converting HTML, Markdown and Office documents to PDF : golang <https://old.reddit.com/r/golang/comments/a5jp42/gotenberg_v3_a_dockerpowered_stateless_api/>`_
 
 .. _github.com/ledongthuc/pdf: https://github.com/ledongthuc/pdf

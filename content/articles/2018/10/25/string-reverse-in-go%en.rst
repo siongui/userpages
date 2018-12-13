@@ -68,6 +68,7 @@ References:
        | `string reverse - Yahoo search <https://search.yahoo.com/search?p=string+reverse>`_
        | `string reverse - Baidu search <https://www.baidu.com/s?wd=string+reverse>`_
        | `string reverse - Yandex search <https://www.yandex.com/search/?text=string+reverse>`_
+.. [5] `String interning in Go : golang <https://old.reddit.com/r/golang/comments/a5o3la/string_interning_in_go/>`_
 
 .. _for: https://tour.golang.org/flowcontrol/1
 .. _range: https://github.com/golang/go/wiki/Range

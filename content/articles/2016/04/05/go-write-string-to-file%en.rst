@@ -43,6 +43,7 @@ References:
 .. [2] `io - The Go Programming Language <https://golang.org/pkg/io/>`_
 .. [3] `fmt - The Go Programming Language <https://golang.org/pkg/fmt/>`_
 .. [4] `[Golang] Caveat of fmt.Fprintf Use <{filename}../../../2017/03/01/go-caveat-of-fmt-Fprintf-use%en.rst>`_
+.. [5] `Write files using Go : golang <https://old.reddit.com/r/golang/comments/a5jdjd/write_files_using_go/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

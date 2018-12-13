@@ -65,6 +65,7 @@ References:
 .. [2] `[Golang] JSONP Server Implementation Code <{filename}../18/go-jsonp-server-implementation-code%en.rst>`_
 .. [3] `How to make a secured user authentication and authorization system? What are the things I should look for? : golang <https://old.reddit.com/r/golang/comments/a0gjdp/how_to_make_a_secured_user_authentication_and/>`_
 .. [4] `Structure of API project, i.e.: Where should what part of the code be? : golang <https://old.reddit.com/r/golang/comments/a0x92x/structure_of_api_project_ie_where_should_what/>`_
+.. [5] `GoBuffalo and Authboss (authentication system) integration : golang <https://old.reddit.com/r/golang/comments/a5irud/gobuffalo_and_authboss_authentication_system/>`_
 
 .. _Go: https://golang.org/
 .. _query string: https://www.google.com/search?q=query+string
