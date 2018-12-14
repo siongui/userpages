@@ -46,4 +46,6 @@ Reddit看到的問題 [1]_ ，有人問到：
 .. [13] `Is there a central and standard place where all the Go packages can be found? : golang <https://old.reddit.com/r/golang/comments/a44wpq/is_there_a_central_and_standard_place_where_all/>`_
 .. [14] `go is pass-by-value, does that mean each function call makes a copy of all params? : golang <https://old.reddit.com/r/golang/comments/a410gl/go_is_passbyvalue_does_that_mean_each_function/>`_
 .. [15] `Just tell me how to use Go Modules : golang <https://old.reddit.com/r/golang/comments/a539h6/just_tell_me_how_to_use_go_modules/>`_
+.. [16] `Advent 2018: Bringing Sanity to your Dependencies with Go Modules and Athens : golang <https://old.reddit.com/r/golang/comments/a5vc16/advent_2018_bringing_sanity_to_your_dependencies/>`_
+.. [17] `Go and vim in harmony – Joe Meli – Medium : golang <https://old.reddit.com/r/golang/comments/a5mf92/go_and_vim_in_harmony_joe_meli_medium/>`_
 

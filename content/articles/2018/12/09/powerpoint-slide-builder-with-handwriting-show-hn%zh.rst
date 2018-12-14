@@ -19,5 +19,7 @@
 .. [1] | `Show HN: PowerPoint slide builder with handwriting | Hacker News <https://news.ycombinator.com/item?id=18509262>`_
        | `Diagram Webdemo <https://webdemo.myscript.com/views/diagram/index.html#/>`_
        | `Using Vue.js to handwrite PowerPoint slides | MyScript Developer <https://medium.com/@myscriptdeveloper/using-vue-js-to-handwrite-powerpoint-slides-myscript-developer-17e8ed3b4c5f>`_
+.. [2] `Repl.it Multiplayer | Hacker News <https://news.ycombinator.com/item?id=18622729>`_
+.. [3] `Compiler Explorer | Hacker News <https://news.ycombinator.com/item?id=18671993>`_
 
 .. _wget: https://duckduckgo.com/?q=wget
