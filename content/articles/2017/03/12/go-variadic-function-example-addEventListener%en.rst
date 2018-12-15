@@ -105,6 +105,7 @@ References:
 .. [4] `GitHub - siongui/godom: Make DOM manipultation in Go as similar to JavaScript as possible. (via GopherJS) <https://github.com/siongui/godom>`_
 
 .. [5] `variadic function looping through channels : golang <https://www.reddit.com/r/golang/comments/6fv0r9/variadic_function_looping_through_channels/>`_
+.. [6] `The Go variadic function, comparing errors in Golang, solving triangles & more : golang <https://old.reddit.com/r/golang/comments/a6dvwt/the_go_variadic_function_comparing_errors_in/>`_
 
 .. _Go: https://golang.org/
 .. _addEventListener: https://www.google.com/search?q=addEventListener

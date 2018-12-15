@@ -118,6 +118,7 @@ You can view and download the source code from `my GitHub project`_.
 
 .. [1] `Go Hacker News - A HN client built with GopherJS : golang <https://old.reddit.com/r/golang/comments/9qr56e/go_hacker_news_a_hn_client_built_with_gopherjs/>`_
 .. [2] `Animated QR data transfer with Gomobile and Gopherjs : golang <https://old.reddit.com/r/golang/comments/9yrk1g/animated_qr_data_transfer_with_gomobile_and/>`_
+.. [3] `GitHub - gopherjs/vecty: Vecty: a frontend toolkit for GopherJS : golang <https://old.reddit.com/r/golang/comments/a68k3r/github_gopherjsvecty_vecty_a_frontend_toolkit_for/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
