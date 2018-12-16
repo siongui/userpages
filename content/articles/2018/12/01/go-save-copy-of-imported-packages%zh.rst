@@ -48,4 +48,7 @@ Reddit看到的問題 [1]_ ，有人問到：
 .. [15] `Just tell me how to use Go Modules : golang <https://old.reddit.com/r/golang/comments/a539h6/just_tell_me_how_to_use_go_modules/>`_
 .. [16] `Advent 2018: Bringing Sanity to your Dependencies with Go Modules and Athens : golang <https://old.reddit.com/r/golang/comments/a5vc16/advent_2018_bringing_sanity_to_your_dependencies/>`_
 .. [17] `Go and vim in harmony – Joe Meli – Medium : golang <https://old.reddit.com/r/golang/comments/a5mf92/go_and_vim_in_harmony_joe_meli_medium/>`_
+.. [18] `My first program with Go - A program that takes snapshots of subreddits and stores them in a database. : golang <https://old.reddit.com/r/golang/comments/a6hco1/my_first_program_with_go_a_program_that_takes/>`_
+.. [19] `A smarter way of Iterating a map? : golang <https://old.reddit.com/r/golang/comments/a6hju8/a_smarter_way_of_iterating_a_map/>`_
+.. [20] `Vue.js and Go example project : golang <https://old.reddit.com/r/golang/comments/a6pkcg/vuejs_and_go_example_project/>`_
 
