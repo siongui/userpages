@@ -32,6 +32,7 @@ References:
 .. [2] | `go fmt to string - Google search <https://www.google.com/search?q=go+fmt+to+string>`_
        | `go - Golang: format a string without printing? - Stack Overflow <http://stackoverflow.com/questions/11123865/golang-format-a-string-without-printing>`_
 
+.. [3] `Tabby: A tiny library for super simple GoLang tables : golang <https://old.reddit.com/r/golang/comments/a77b17/tabby_a_tiny_library_for_super_simple_golang/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

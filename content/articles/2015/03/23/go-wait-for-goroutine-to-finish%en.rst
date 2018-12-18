@@ -124,6 +124,7 @@ References:
 .. [10] `Is it safe to assume that the compiler will make goroutines cooperative regardless of the code? : golang <https://old.reddit.com/r/golang/comments/a39ybz/is_it_safe_to_assume_that_the_compiler_will_make/>`_
 .. [11] `Thread safe access to struct members : golang <https://old.reddit.com/r/golang/comments/a2w1tj/thread_safe_access_to_struct_members/>`_
 .. [12] `Scheduling In Go : Part III : golang <https://old.reddit.com/r/golang/comments/a3a1wh/scheduling_in_go_part_iii/>`_
+.. [13] `Help understanding channel blocking : golang <https://old.reddit.com/r/golang/comments/a6w1ps/help_understanding_channel_blocking/>`_
 
 .. _channels: https://tour.golang.org/concurrency/2
 .. _goroutines: https://tour.golang.org/concurrency/1

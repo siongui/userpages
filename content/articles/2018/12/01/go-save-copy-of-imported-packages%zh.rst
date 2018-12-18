@@ -23,7 +23,7 @@ Reddit看到的問題 [1]_ ，有人問到：
 
 ----
 
-另外有一個 Go Modules 的快速上手指南，請看 [15]_
+另外有 Go Modules 的快速上手指南，請看 [15]_ [21]_
 
 .. adsu:: 2
 
@@ -51,4 +51,5 @@ Reddit看到的問題 [1]_ ，有人問到：
 .. [18] `My first program with Go - A program that takes snapshots of subreddits and stores them in a database. : golang <https://old.reddit.com/r/golang/comments/a6hco1/my_first_program_with_go_a_program_that_takes/>`_
 .. [19] `A smarter way of Iterating a map? : golang <https://old.reddit.com/r/golang/comments/a6hju8/a_smarter_way_of_iterating_a_map/>`_
 .. [20] `Vue.js and Go example project : golang <https://old.reddit.com/r/golang/comments/a6pkcg/vuejs_and_go_example_project/>`_
+.. [21] `Migrating to go mod in just 3 steps : golang <https://old.reddit.com/r/golang/comments/a739dz/migrating_to_go_mod_in_just_3_steps/>`_
 

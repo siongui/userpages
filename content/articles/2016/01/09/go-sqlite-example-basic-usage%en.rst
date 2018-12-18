@@ -117,6 +117,7 @@ References:
         | `ObjectBox: Fast object-oriented database for Go | Hacker News <https://news.ycombinator.com/item?id=18568029>`_
 .. [25] `Sqlx, Dat, Pg. What's the difference and what should I use to connect to a Postgres DB? : golang <https://old.reddit.com/r/golang/comments/a2hiy2/sqlx_dat_pg_whats_the_difference_and_what_should/>`_
 .. [26] `cloudfoundry/go-diodes: Diodes are ring buffers manipulated via atomics. : golang <https://old.reddit.com/r/golang/comments/a2yipg/cloudfoundrygodiodes_diodes_are_ring_buffers/>`_
+.. [27] `Do you use database in your Go project? : golang <https://old.reddit.com/r/golang/comments/a6yo8k/do_you_use_database_in_your_go_project/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
