@@ -52,4 +52,11 @@ Reddit看到的問題 [1]_ ，有人問到：
 .. [19] `A smarter way of Iterating a map? : golang <https://old.reddit.com/r/golang/comments/a6hju8/a_smarter_way_of_iterating_a_map/>`_
 .. [20] `Vue.js and Go example project : golang <https://old.reddit.com/r/golang/comments/a6pkcg/vuejs_and_go_example_project/>`_
 .. [21] `Migrating to go mod in just 3 steps : golang <https://old.reddit.com/r/golang/comments/a739dz/migrating_to_go_mod_in_just_3_steps/>`_
+.. [22] `Go Modules in 2019 : golang <https://old.reddit.com/r/golang/comments/a7ngj2/go_modules_in_2019/>`_
+.. [23] `Go project file structure? : golang <https://old.reddit.com/r/golang/comments/a7qh85/go_project_file_structure/>`_
+.. [24] `Is there something like NPM or Cargo in Go? : golang <https://old.reddit.com/r/golang/comments/a7whrr/is_there_something_like_npm_or_cargo_in_go/>`_
+.. [25] `Tutorial to create/manage properly a project in golang, basic informations ? : golang <https://old.reddit.com/r/golang/comments/a7l4bh/tutorial_to_createmanage_properly_a_project_in/>`_
+.. [26] `Nice to hear even GCC people are starting to use Golang instead of Python : golang <https://old.reddit.com/r/golang/comments/a7dn73/nice_to_hear_even_gcc_people_are_starting_to_use/>`_
+.. [27] `GoLang Text-To-Speech and vi-versa : golang <https://old.reddit.com/r/golang/comments/a7k6hf/golang_texttospeech_and_viversa/>`_
+.. [28] `Clean Architecture Sample Code : golang <https://old.reddit.com/r/golang/comments/a7dt07/clean_architecture_sample_code/>`_
 
