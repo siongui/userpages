@@ -185,6 +185,7 @@ References:
 
 .. [6] `Gopherjs or webassembly ? : golang <https://old.reddit.com/r/golang/comments/9sb7fi/gopherjs_or_webassembly/>`_
 .. [7] `Future of GopherJS and Go in the browser : golang <https://old.reddit.com/r/golang/comments/a68oop/future_of_gopherjs_and_go_in_the_browser/>`_
+.. [8] `Pure Go web development? : golang <https://old.reddit.com/r/golang/comments/a8bbgq/pure_go_web_development/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

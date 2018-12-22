@@ -118,6 +118,9 @@ References:
 .. [25] `Sqlx, Dat, Pg. What's the difference and what should I use to connect to a Postgres DB? : golang <https://old.reddit.com/r/golang/comments/a2hiy2/sqlx_dat_pg_whats_the_difference_and_what_should/>`_
 .. [26] `cloudfoundry/go-diodes: Diodes are ring buffers manipulated via atomics. : golang <https://old.reddit.com/r/golang/comments/a2yipg/cloudfoundrygodiodes_diodes_are_ring_buffers/>`_
 .. [27] `Do you use database in your Go project? : golang <https://old.reddit.com/r/golang/comments/a6yo8k/do_you_use_database_in_your_go_project/>`_
+.. [28] `Any decent SQL query builders out there? : golang <https://old.reddit.com/r/golang/comments/a7usrp/any_decent_sql_query_builders_out_there/>`_
+.. [29] `Enum and SQL databases : golang <https://old.reddit.com/r/golang/comments/a7vx2w/enum_and_sql_databases/>`_
+.. [30] `Database/sql or sqlx: should I use transactions for everything or no? : golang <https://old.reddit.com/r/golang/comments/a85ex4/databasesql_or_sqlx_should_i_use_transactions_for/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

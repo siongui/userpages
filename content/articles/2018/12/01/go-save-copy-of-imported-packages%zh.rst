@@ -59,4 +59,8 @@ Reddit看到的問題 [1]_ ，有人問到：
 .. [26] `Nice to hear even GCC people are starting to use Golang instead of Python : golang <https://old.reddit.com/r/golang/comments/a7dn73/nice_to_hear_even_gcc_people_are_starting_to_use/>`_
 .. [27] `GoLang Text-To-Speech and vi-versa : golang <https://old.reddit.com/r/golang/comments/a7k6hf/golang_texttospeech_and_viversa/>`_
 .. [28] `Clean Architecture Sample Code : golang <https://old.reddit.com/r/golang/comments/a7dt07/clean_architecture_sample_code/>`_
+.. [29] `Which web development platform to use in 2018? : golang <https://old.reddit.com/r/golang/comments/a7umy5/which_web_development_platform_to_use_in_2018/>`_
+.. [30] `GitHub - shivamMg/rd: Build recursive descent parsers : golang <https://old.reddit.com/r/golang/comments/a7y7xq/github_shivammgrd_build_recursive_descent_parsers/>`_
+.. [31] `Session management! Take 3! : golang <https://old.reddit.com/r/golang/comments/a855fs/session_management_take_3/>`_
+.. [32] `Advent 2018: Introducing Glot the plotting library for Go : golang <https://old.reddit.com/r/golang/comments/a7yf54/advent_2018_introducing_glot_the_plotting_library/>`_
 
