@@ -73,6 +73,7 @@ References:
 .. [5] `How to serve static files with custom NotFound handler : golang <https://www.reddit.com/r/golang/comments/64230v/how_to_serve_static_files_with_custom_notfound/>`_
        `How to serve static files with custom NotFound handler - Blog from kefaise.com <http://kefblog.com/2017-04-07/How-to-serve-static-files-with-custom-not-found-handler>`_
 .. [6] `Send big file with minimal memory over HTTP : golang <https://old.reddit.com/r/golang/comments/a061gv/send_big_file_with_minimal_memory_over_http/>`_
+.. [7] `Why does this not work? : golang <https://old.reddit.com/r/golang/comments/a8pu9o/why_does_this_not_work/>`_
 
 .. _HTTP 404 not found: https://www.google.com/search?q=HTTP+404+not+found
 .. _net/http: https://golang.org/pkg/net/http/

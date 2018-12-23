@@ -63,4 +63,9 @@ Reddit看到的問題 [1]_ ，有人問到：
 .. [30] `GitHub - shivamMg/rd: Build recursive descent parsers : golang <https://old.reddit.com/r/golang/comments/a7y7xq/github_shivammgrd_build_recursive_descent_parsers/>`_
 .. [31] `Session management! Take 3! : golang <https://old.reddit.com/r/golang/comments/a855fs/session_management_take_3/>`_
 .. [32] `Advent 2018: Introducing Glot the plotting library for Go : golang <https://old.reddit.com/r/golang/comments/a7yf54/advent_2018_introducing_glot_the_plotting_library/>`_
+.. [33] `What kind of projects do you implement with Go at work? : golang <https://old.reddit.com/r/golang/comments/a8pccj/what_kind_of_projects_do_you_implement_with_go_at/>`_
+.. [34] `Confused about channels and select statement. : golang <https://old.reddit.com/r/golang/comments/a8s18m/confused_about_channels_and_select_statement/>`_
+.. [35] `Why aren't unused func args a compiler error? : golang <https://old.reddit.com/r/golang/comments/a8qkoq/why_arent_unused_func_args_a_compiler_error/>`_
+.. [36] `When is concurrency helpful to me? : golang <https://old.reddit.com/r/golang/comments/a8msnr/when_is_concurrency_helpful_to_me/>`_
+.. [37] `Go web server project directory structure with clear design : golang <https://old.reddit.com/r/golang/comments/a8inn7/go_web_server_project_directory_structure_with/>`_
 
