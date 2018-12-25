@@ -66,6 +66,7 @@ References:
 .. [3] `How to make a secured user authentication and authorization system? What are the things I should look for? : golang <https://old.reddit.com/r/golang/comments/a0gjdp/how_to_make_a_secured_user_authentication_and/>`_
 .. [4] `Structure of API project, i.e.: Where should what part of the code be? : golang <https://old.reddit.com/r/golang/comments/a0x92x/structure_of_api_project_ie_where_should_what/>`_
 .. [5] `GoBuffalo and Authboss (authentication system) integration : golang <https://old.reddit.com/r/golang/comments/a5irud/gobuffalo_and_authboss_authentication_system/>`_
+.. [6] `Create Self-Signed Certs and Pin them with Go : golang <https://old.reddit.com/r/golang/comments/a95c2f/create_selfsigned_certs_and_pin_them_with_go/>`_
 
 .. _Go: https://golang.org/
 .. _query string: https://www.google.com/search?q=query+string

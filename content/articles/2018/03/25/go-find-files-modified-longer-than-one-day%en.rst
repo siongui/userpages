@@ -70,6 +70,7 @@ References:
        | `file longer than one day - Yandex search <https://www.yandex.com/search/?text=file+longer+than+one+day>`_
 .. [2] `How To Find And Delete Files Older Than X Days In Linux - OSTechNix <https://www.ostechnix.com/how-to-find-and-delete-files-older-than-x-days-in-linux/>`_
 .. [3] `10 Examples of find command in Unix and Linux | System Code Geeks - 2018 <https://www.systemcodegeeks.com/shell-scripting/bash/10-examples-find-command-unix-linux/>`_
+.. [4] `Mocking system time in tests : golang <https://old.reddit.com/r/golang/comments/a8yx3x/mocking_system_time_in_tests/>`_
 
 
 .. _ioutil.ReadDir: https://golang.org/pkg/io/ioutil/#ReadDir

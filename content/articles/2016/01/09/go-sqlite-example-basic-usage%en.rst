@@ -121,6 +121,7 @@ References:
 .. [28] `Any decent SQL query builders out there? : golang <https://old.reddit.com/r/golang/comments/a7usrp/any_decent_sql_query_builders_out_there/>`_
 .. [29] `Enum and SQL databases : golang <https://old.reddit.com/r/golang/comments/a7vx2w/enum_and_sql_databases/>`_
 .. [30] `Database/sql or sqlx: should I use transactions for everything or no? : golang <https://old.reddit.com/r/golang/comments/a85ex4/databasesql_or_sqlx_should_i_use_transactions_for/>`_
+.. [31] `How do I simulate Database errors, so I can test the fault tolerance level of my code. : golang <https://old.reddit.com/r/golang/comments/a99d2k/how_do_i_simulate_database_errors_so_i_can_test/>`_
 
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/

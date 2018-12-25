@@ -68,4 +68,6 @@ Reddit看到的問題 [1]_ ，有人問到：
 .. [35] `Why aren't unused func args a compiler error? : golang <https://old.reddit.com/r/golang/comments/a8qkoq/why_arent_unused_func_args_a_compiler_error/>`_
 .. [36] `When is concurrency helpful to me? : golang <https://old.reddit.com/r/golang/comments/a8msnr/when_is_concurrency_helpful_to_me/>`_
 .. [37] `Go web server project directory structure with clear design : golang <https://old.reddit.com/r/golang/comments/a8inn7/go_web_server_project_directory_structure_with/>`_
+.. [38] `Please share your Emacs setup ... : golang <https://old.reddit.com/r/golang/comments/a9boup/please_share_your_emacs_setup/>`_
+.. [39] `Versioning your API in Go : golang <https://old.reddit.com/r/golang/comments/a949pw/versioning_your_api_in_go/>`_
 

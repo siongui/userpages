@@ -70,6 +70,7 @@ Tested on: ``Ubuntu Linux 17.10``, ``Go 1.10``.
 References:
 
 .. [1] `Package http - The Go Programming Language <https://golang.org/pkg/net/http/>`_
+.. [2] `Pitfall of Golang header operation : golang <https://old.reddit.com/r/golang/comments/a99ajn/pitfall_of_golang_header_operation/>`_
 
 .. _net/http: https://golang.org/pkg/net/http/
 .. _http.Response: https://golang.org/pkg/net/http/#Response
