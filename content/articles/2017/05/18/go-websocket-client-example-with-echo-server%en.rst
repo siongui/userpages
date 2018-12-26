@@ -73,6 +73,7 @@ References:
        | `WebSocket 教程 - WEB前端 - 伯乐在线 <http://web.jobbole.com/91321/>`_
 .. [4] `A VPN-server, using websockets : golang <https://old.reddit.com/r/golang/comments/9zqn0d/a_vpnserver_using_websockets/>`_
 .. [5] `peer to peer connection : golang <https://old.reddit.com/r/golang/comments/9zozqy/peer_to_peer_connection/>`_
+.. [6] `Websocket Chat Rooms : golang <https://old.reddit.com/r/golang/comments/a9g1ev/websocket_chat_rooms/>`_
 
 .. _GopherJS: http://www.gopherjs.org/
 .. _WebSocket: https://www.google.com/search?q=WebSocket

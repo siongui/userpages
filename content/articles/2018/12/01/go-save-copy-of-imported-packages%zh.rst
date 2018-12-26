@@ -70,4 +70,5 @@ Reddit看到的問題 [1]_ ，有人問到：
 .. [37] `Go web server project directory structure with clear design : golang <https://old.reddit.com/r/golang/comments/a8inn7/go_web_server_project_directory_structure_with/>`_
 .. [38] `Please share your Emacs setup ... : golang <https://old.reddit.com/r/golang/comments/a9boup/please_share_your_emacs_setup/>`_
 .. [39] `Versioning your API in Go : golang <https://old.reddit.com/r/golang/comments/a949pw/versioning_your_api_in_go/>`_
+.. [40] `Awesome Golang Security - Security related resources for Golang : golang <https://old.reddit.com/r/golang/comments/a9lt1t/awesome_golang_security_security_related/>`_
 

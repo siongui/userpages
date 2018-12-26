@@ -139,6 +139,7 @@ References:
 
 .. [6] `Help! os/exec Output() on Non-English Windows cmd! : golang <https://old.reddit.com/r/golang/comments/9zsipj/help_osexec_output_on_nonenglish_windows_cmd/>`_
 .. [7] `A netstat implementation written in Go : golang <https://old.reddit.com/r/golang/comments/a2pmuc/a_netstat_implementation_written_in_go/>`_
+.. [8] `Shell scripter here, I can't get Go to click : golang <https://old.reddit.com/r/golang/comments/a9k4ok/shell_scripter_here_i_cant_get_go_to_click/>`_
 
 .. _os.exec: https://golang.org/pkg/os/exec/
 .. _exec.Command: https://golang.org/pkg/os/exec/#Command

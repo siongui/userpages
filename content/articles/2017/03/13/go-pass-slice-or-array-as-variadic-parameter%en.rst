@@ -94,6 +94,7 @@ References:
 .. [4] `[Golang] Variadic Function Example - addEventListener <{filename}../12/go-variadic-function-example-addEventListener%en.rst>`_
 .. [5] `Go語言 函數參數點點點(...)意義 <{filename}../../02/07/go-function-argument-dot-dot-dot%zh.rst>`_
 .. [6] `The Go variadic function, comparing errors in Golang, solving triangles & more : golang <https://old.reddit.com/r/golang/comments/a6dvwt/the_go_variadic_function_comparing_errors_in/>`_
+.. [7] `Standard Library Variadic Functions accepting an arbitrary number of arbitrary objects : golang <https://old.reddit.com/r/golang/comments/a9htda/standard_library_variadic_functions_accepting_an/>`_
 
 .. _Go: https://golang.org/
 .. _Function types in Go spec: https://golang.org/ref/spec#Function_types
