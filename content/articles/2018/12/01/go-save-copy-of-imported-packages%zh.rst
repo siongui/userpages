@@ -72,3 +72,13 @@ Reddit看到的問題 [1]_ ，有人問到：
 .. [39] `Versioning your API in Go : golang <https://old.reddit.com/r/golang/comments/a949pw/versioning_your_api_in_go/>`_
 .. [40] `Awesome Golang Security - Security related resources for Golang : golang <https://old.reddit.com/r/golang/comments/a9lt1t/awesome_golang_security_security_related/>`_
 
+- `Guide to code awesome Go libraries : golang <https://old.reddit.com/r/golang/comments/a9x4e4/guide_to_code_awesome_go_libraries/>`_
+- `Personal Photo Management using Go and TensorFlow : golang <https://old.reddit.com/r/golang/comments/a9zts4/personal_photo_management_using_go_and_tensorflow/>`_
+- `Do you need a web framework for Go? : golang <https://old.reddit.com/r/golang/comments/a9u49x/do_you_need_a_web_framework_for_go/>`_
+- `Confused with the vendor folder from "dep init" : golang <https://old.reddit.com/r/golang/comments/a9zzjh/confused_with_the_vendor_folder_from_dep_init/>`_
+- `Top Golang GitHub Projects of December 2018 : golang <https://old.reddit.com/r/golang/comments/a9yasb/top_golang_github_projects_of_december_2018/>`_
+- `Analysis of Hacker News who is hiring posts using Golang, Python : golang <https://old.reddit.com/r/golang/comments/a9qmsu/analysis_of_hacker_news_who_is_hiring_posts_using/>`_
+- `Golang vs Express Js : golang <https://old.reddit.com/r/golang/comments/a9w260/golang_vs_express_js/>`_
+- `Go for Devops : golang <https://old.reddit.com/r/golang/comments/a9ppmy/go_for_devops/>`_
+- `Why people claim that Go is not object oriented, am I misreading something? : golang <https://old.reddit.com/r/golang/comments/a9rn6n/why_people_claim_that_go_is_not_object_oriented/>`_
+

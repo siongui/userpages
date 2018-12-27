@@ -4,7 +4,7 @@
 :date: 2018-12-24T10:03+08:00
 :tags: 轉錄, 開源中國
 :category: 轉錄
-:author: 程六金(開源中國)
+:author: CSDN资讯
 :summary: 開源軟件在它的頂峰遇到了一場存亡危機。
 :og_image: https://img-blog.csdnimg.cn/20181221141813595.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NzZG5uZXdz,size_16,color_FFFFFF,t_70
 
