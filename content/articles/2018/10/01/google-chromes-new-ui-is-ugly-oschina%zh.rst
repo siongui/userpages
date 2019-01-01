@@ -49,4 +49,8 @@ Chrome 新 UI 很“難看”，用戶很生氣
   | 本文標題：Chrome 新 UI 很“難看”，用戶很生氣
   | 本文地址：https://www.oschina.net/news/103110/google-chromes-new-ui-is-ugly
 
+----
+
+`Solidot | Google Chrome 的新 UI 引发用户不满 <https://www.solidot.org/story?sid=59147>`_
+
 .. _不過 Google 工程師 Peter Casting 在 Reddit 上說道: https://www.reddit.com/r/chrome/comments/a3xj2q/is_there_still_a_way_to_bring_back_the_old_design/ebda911/

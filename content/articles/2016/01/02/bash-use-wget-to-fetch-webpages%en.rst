@@ -2,7 +2,7 @@
 #################################
 
 :date: 2016-01-02T03:41+08:00
-:tags: Bash, Commandline, String Manipulation
+:tags: Bash, Commandline, String Manipulation, wget
 :category: Bash
 :summary: Write a bash script to use wget to fetch webpages.
 :adsu: yes

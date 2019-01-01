@@ -2,7 +2,7 @@
 ###################################
 
 :date: 2018-03-04T08:50+08:00
-:tags: Go, Golang, Commandline
+:tags: Go, Golang, Commandline, wget
 :category: Go
 :summary: Use Go standard *os/exec* package to run wget via shell command.
 :og_image: https://upload.wikimedia.org/wikipedia/commons/6/60/Wget_1.13.4.png
