@@ -15,81 +15,21 @@ from os.path import join
 
 
 ad1st = """
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 1st ad (upper) - siongui.github.io -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-0436733829999264"
-     data-ad-slot="7078909202"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 """
 
 ad2nd = """
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 2nd ad (middle) - siongui.github.io -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-0436733829999264"
-     data-ad-slot="6133239602"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 """
 
 ad3rd = """
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 3rd ad (below) - siongui.github.io -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-0436733829999264"
-     data-ad-slot="6238827600"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 """
 
 ad4th = """
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 4th ad (extra) - siongui.github.io -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-0436733829999264"
-     data-ad-slot="2320208406"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 """
 
 ad5th = """
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 5th ad (extra) - siongui.github.io -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-0436733829999264"
-     data-ad-slot="5273674806"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 """
 
 ad6th = """
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 6th ad (extra) - siongui.github.io -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-0436733829999264"
-     data-ad-slot="3354459609"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 """
 
 class embed_adsense_code(Directive):
