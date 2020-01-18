@@ -9,11 +9,7 @@
 <!DOCTYPE html>
 <html lang="{{ DEFAULT_LANG }}">
 <head>
-  {%- block adsense_auto_ads -%}
-    {%- if content.adsu -%}
-      {% include 'layout/includes/adsense_auto_ads.html' %}
-    {%- endif -%}
-  {%- endblock -%}
+  {%- block adsense_auto_ads -%}{%- endblock -%}
   <meta charset="utf-8">
   <title>{%- block title -%}{{ SITENAME }}{%- endblock -%}</title>
   <meta name="keywords" content="{% block meta_keywords -%}{{ META_KEYWORDS }}{%- endblock %}"/>

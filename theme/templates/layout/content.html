@@ -32,6 +32,7 @@
 {%- if content.summary -%}{% set OG_DESCRIPTION = (content.summary|striptags) %}{%- endif -%}
 
 {%- block adsense_auto_ads -%}
+  {%- if content.adsu -%}{% include 'layout/includes/adsense_auto_ads.html' %}{%- endif -%}
 {%- endblock -%}
 
 {% block content %}
