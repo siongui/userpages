@@ -32,7 +32,6 @@
 {%- if content.summary -%}{% set OG_DESCRIPTION = (content.summary|striptags) %}{%- endif -%}
 
 {%- block adsense_page_level -%}
-{%- if content.adsu -%}{% include 'layout/includes/adsense_page_level.html' %}{%- endif -%}
 {%- endblock -%}
 
 {% block content %}
@@ -55,8 +54,9 @@
       {%- endif -%}
     </aside>
     <hr>
-{%- if content.adsu -%}{% include 'layout/includes/adsense.html' %}{%- endif -%}
+
     <div class="main-content">{{ content.content }}</div>
+
     <footer>{% block article_metadata %}{% endblock %}</footer>
   </article>
 </main>
