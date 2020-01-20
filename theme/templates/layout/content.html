@@ -56,6 +56,20 @@
     </aside>
     <hr>
 
+{%- if content.adsu -%}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 1st ad (upper) - siongui.github.io -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0436733829999264"
+     data-ad-slot="7078909202"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+{%- endif -%}
+
     <div class="main-content">{{ content.content }}</div>
 
     <footer>{% block article_metadata %}{% endblock %}</footer>
