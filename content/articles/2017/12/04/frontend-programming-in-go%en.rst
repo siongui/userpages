@@ -187,6 +187,9 @@ References:
 .. [7] `Future of GopherJS and Go in the browser : golang <https://old.reddit.com/r/golang/comments/a68oop/future_of_gopherjs_and_go_in_the_browser/>`_
 .. [8] `Pure Go web development? : golang <https://old.reddit.com/r/golang/comments/a8bbgq/pure_go_web_development/>`_
 
+.. [9] | `Running Golang on the browser with WebAssembly and TinyGo : golang <https://old.reddit.com/r/golang/comments/fszeix/running_golang_on_the_browser_with_webassembly/>`_
+       | `Running Golang on the browser with WebAssembly and TinyGo – Mariano Gappa's Blog <https://marianogappa.github.io/software/2020/04/01/webassembly-tinygo-cheesse/>`_
+
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
 .. _official website of Go: https://golang.org/
