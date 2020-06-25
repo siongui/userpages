@@ -48,9 +48,19 @@ DEFAULT_PAGINATION = False
 
 THEME = 'theme'
 
-PLUGIN_PATHS = ['plugins']
-PLUGINS = ['i18n_subsites', 'edit_on_github', 'embed_github_repository_file',
-           'embed_picasaweb_image', 'adsense']
+# Python 3.8 cannot use following
+#PLUGIN_PATHS = ['plugins']
+# https://github.com/getpelican/pelican-plugins/issues/645
+PLUGIN_PATHS = ['plugins',
+                'plugins/adsense',
+                'plugins/edit_on_github',
+                'plugins/embed_github_repository_file',
+                'plugins/embed_picasaweb_image']
+PLUGINS = ['i18n_subsites',
+           'edit_on_github',
+           'adsense',
+           'embed_github_repository_file',
+           'embed_picasaweb_image']
 
 # my custom setting for HTML meta info
 META_KEYWORDS = 'Web Development, Python, SCSS, blog'
