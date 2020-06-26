@@ -48,14 +48,7 @@ DEFAULT_PAGINATION = False
 
 THEME = 'theme'
 
-# Python 3.8 cannot use following
-#PLUGIN_PATHS = ['plugins']
-# https://github.com/getpelican/pelican-plugins/issues/645
-PLUGIN_PATHS = ['plugins',
-                'plugins/adsense',
-                'plugins/edit_on_github',
-                'plugins/embed_github_repository_file',
-                'plugins/embed_picasaweb_image']
+PLUGIN_PATHS = ['plugins']
 PLUGINS = ['i18n_subsites',
            'edit_on_github',
            'adsense',
