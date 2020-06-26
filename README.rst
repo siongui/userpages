@@ -10,7 +10,7 @@ How to Develope
 
 Development Tool: Pelican_ (static site generator written in Python)
 
-Development Environment: `Ubuntu 18.04`_
+Development Environment: `Ubuntu 20.04`_
 
 
 First-time Setup
@@ -21,9 +21,18 @@ First-time Setup
 .. code-block:: bash
 
     $ sudo apt-get install git
-    $ sudo apt-get install python-pip
+    $ sudo apt-get install python3-pip
 
-2. git clone source code:
+2. Install language packages to add locale (English, Traditional Chinese, and
+   Thai):
+
+   .. code-block:: bash
+
+     $ sudo apt-get install language-pack-en
+     $ sudo apt-get install language-pack-zh-hant
+     $ sudo apt-get install language-pack-th
+
+3. git clone source code:
 
 .. code-block:: bash
 
@@ -34,34 +43,26 @@ First-time Setup
     # or clone with full depth
     #$ git clone https://github.com/siongui/userpages.git
 
-3. Install Python tools:
+4. Install Python tools:
 
 .. code-block:: bash
 
     $ cd ~/dev/userpages/
-    $ sudo pip install -r requirements.txt
+    $ pip3 install -r requirements.txt
 
-4. Install pelican `i18n_subsites`_ plugin and download `normalize.css`_:
+5. Install pelican `i18n_subsites`_ plugin and download `normalize.css`_:
 
 .. code-block:: bash
 
     $ cd ~/dev/userpages/
     $ make download
 
-5. Generate CSS file:
+6. Generate CSS file:
 
 .. code-block:: bash
 
     $ cd ~/dev/userpages/
     $ make scss
-
-6. Install language packages to add locale (English, Traditional Chinese, and Thai):
-
-.. code-block:: bash
-
-    $ sudo apt-get install language-pack-en
-    $ sudo apt-get install language-pack-zh-hant
-    $ sudo apt-get install language-pack-th
 
 
 Daily Development
@@ -155,7 +156,7 @@ Image Hover:
 
 
 .. _Pelican: http://getpelican.com/
-.. _Ubuntu 18.04: http://releases.ubuntu.com/18.04/
+.. _Ubuntu 20.04: http://releases.ubuntu.com/20.04/
 .. _git: https://git-scm.com/
 .. _pip: https://pypi.python.org/pypi/pip
 .. _i18n_subsites: https://github.com/getpelican/pelican-plugins/tree/master/i18n_subsites

@@ -92,13 +92,5 @@ download:
 	# download normalize.css
 	wget -O $(SCSSDIR)/_normalize800.scss https://necolas.github.io/normalize.css/8.0.1/normalize.css
 
-github_upload:
-	#ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
-	ghp-import $(OUTPUTDIR)
-	# upload to Project Pages
-	#git push origin $(GITHUB_PAGES_BRANCH)
-	# upload to User Pages
-	git push git@github.com:$(GITHUB_USER_NAME)/$(GITHUB_USER_NAME).github.io.git $(GITHUB_PAGES_BRANCH):master
 
-
-.PHONY: html help clean regenerate serve serve-global devserver publish download scss github_upload
+.PHONY: html help clean regenerate serve serve-global devserver publish download scss
