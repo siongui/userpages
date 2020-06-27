@@ -15,9 +15,6 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 # pelican plugins
 I18N_SUBSITES_DIR=$(PLUGINSDIR)/i18n_subsites
 
-GITHUB_PAGES_BRANCH=gh-pages
-GITHUB_USER_NAME=siongui
-
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
@@ -28,6 +25,8 @@ RELATIVE ?= 0
 ifeq ($(RELATIVE), 1)
 	PELICANOPTS += --relative-urls
 endif
+
+default: devserver
 
 help:
 	@echo 'Makefile for a pelican Web site                                           '
