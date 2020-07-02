@@ -20,17 +20,22 @@ First-time Setup
 
 .. code-block:: bash
 
-    $ sudo apt-get install git
-    $ sudo apt-get install python3-pip
+    $ sudo apt install git
+    $ sudo apt install python3-pip
+    # From https://askubuntu.com/a/1031733, use python-is-python3 on Ubuntu 20.04
+    $ sudo apt install python-is-python3
+    $ sudo apt-mark hold python2 python2-minimal python2.7 python2.7-minimal libpython2-stdlib libpython2.7-minimal libpython2.7-stdlib
 
 2. Install language packages to add locale (English, Traditional Chinese, and
    Thai):
 
    .. code-block:: bash
 
-     $ sudo apt-get install language-pack-en
-     $ sudo apt-get install language-pack-zh-hant
-     $ sudo apt-get install language-pack-th
+     $ sudo apt install language-pack-en
+     $ sudo apt install language-pack-zh-hant
+     $ sudo apt install language-pack-th
+     # You can also install language in "Settings" -> "Region & Language", which
+     # installs more related packages.
 
 3. git clone source code:
 
@@ -49,6 +54,7 @@ First-time Setup
 
     $ cd ~/dev/userpages/
     $ pip3 install -r requirements.txt
+    # note that in .travis.yml, pip is actually pip3 if bionic and python 3.8 is set. See `.travis.yml <.travis.yml>`_
 
 5. Install pelican `i18n_subsites`_ plugin and download `normalize.css`_:
 
