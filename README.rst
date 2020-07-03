@@ -18,13 +18,19 @@ First-time Setup
 
 1. Install git_ and pip_:
 
-.. code-block:: bash
+   .. code-block:: bash
 
-    $ sudo apt install git
-    $ sudo apt install python3-pip
-    # From https://askubuntu.com/a/1031733, use python-is-python3 on Ubuntu 20.04
-    $ sudo apt install python-is-python3
-    $ sudo apt-mark hold python2 python2-minimal python2.7 python2.7-minimal libpython2-stdlib libpython2.7-minimal libpython2.7-stdlib
+     $ sudo apt install git
+     $ sudo apt install python3-pip
+
+   From the `answer in Ask Ubuntu <https://askubuntu.com/a/1031733>`_,
+   we can use python-is-python3 and prevent Python 2 from being installed
+   on Ubuntu 20.04
+
+   .. code-block:: bash
+
+     $ sudo apt install python-is-python3
+     $ sudo apt-mark hold python2 python2-minimal python2.7 python2.7-minimal libpython2-stdlib libpython2.7-minimal libpython2.7-stdlib
 
 2. Install language packages to add locale (English, Traditional Chinese, and
    Thai):
@@ -34,41 +40,44 @@ First-time Setup
      $ sudo apt install language-pack-en
      $ sudo apt install language-pack-zh-hant
      $ sudo apt install language-pack-th
-     # You can also install language in "Settings" -> "Region & Language", which
-     # installs more related packages.
+
+   Or you can install languages in "Settings" -> "Region & Language", which
+   installs more related packages such as fonts for languages.
 
 3. git clone source code:
 
-.. code-block:: bash
+   .. code-block:: bash
 
-    $ cd
-    $ mkdir dev
-    $ cd ~/dev/
-    $ git clone https://github.com/siongui/userpages.git --depth=1
-    # or clone with full depth
-    #$ git clone https://github.com/siongui/userpages.git
+     $ cd
+     $ mkdir dev
+     $ cd ~/dev/
+     $ git clone https://github.com/siongui/userpages.git --depth=1
+     # or clone with full depth
+     $ git clone https://github.com/siongui/userpages.git
 
 4. Install Python tools:
 
-.. code-block:: bash
+   .. code-block:: bash
 
-    $ cd ~/dev/userpages/
-    $ pip3 install -r requirements.txt
-    # note that in .travis.yml, pip is actually pip3 if bionic and python 3.8 is set. See `.travis.yml <.travis.yml>`_
+     $ cd ~/dev/userpages/
+     $ pip3 install -r requirements.txt
 
-5. Install pelican `i18n_subsites`_ plugin and download `normalize.css`_:
+   Note that in `.travis.yml <.travis.yml>`_, pip is actually pip3 if bionic and
+   python 3.8 is set in Travis CI config.
 
-.. code-block:: bash
+5. Install Pelican `i18n_subsites`_ plugin and download `normalize.css`_:
 
-    $ cd ~/dev/userpages/
-    $ make download
+   .. code-block:: bash
+
+     $ cd ~/dev/userpages/
+     $ make download
 
 6. Generate CSS file:
 
-.. code-block:: bash
+   .. code-block:: bash
 
-    $ cd ~/dev/userpages/
-    $ make scss
+     $ cd ~/dev/userpages/
+     $ make scss
 
 
 Daily Development

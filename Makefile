@@ -15,9 +15,10 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 # pelican plugins
 I18N_SUBSITES_DIR=$(PLUGINSDIR)/i18n_subsites
 
-# pip3 on Ubuntu 20.04 gives following warning while installing:
+# pip3 (python3-pip) on Ubuntu 20.04 gives following warning while installing requirements.txt:
 # WARNING: The scripts pelican, pelican-import, pelican-quickstart and pelican-themes are installed in '${HOME}/.local/bin' which is not on PATH.
 export PATH := ${PATH}:${HOME}/.local/bin
+
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
