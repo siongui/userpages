@@ -93,7 +93,7 @@ download:
 	wget -P $(I18N_SUBSITES_DIR) https://raw.githubusercontent.com/getpelican/pelican-plugins/master/i18n_subsites/__init__.py
 	wget -P $(I18N_SUBSITES_DIR) https://raw.githubusercontent.com/getpelican/pelican-plugins/master/i18n_subsites/i18n_subsites.py
 	# download normalize.css
-	wget -O $(SCSSDIR)/_normalize800.scss https://necolas.github.io/normalize.css/8.0.1/normalize.css
+	wget -O $(SCSSDIR)/_normalize801.scss https://necolas.github.io/normalize.css/8.0.1/normalize.css
 
 
 .PHONY: html help clean regenerate serve serve-global devserver publish download scss
