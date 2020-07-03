@@ -80,6 +80,40 @@ First-time Setup
      $ make scss
 
 
+Auto-deploy by `Travis CI`_
+---------------------------
+
+See `GitHub Pages Deployment - Travis CI`_.
+
+First save your `personal access token`_ in `repository settings`_.
+
+For User Pages, the following is sample config:
+
+.. code-block:: yaml
+
+  deploy:
+    provider: pages
+    repo: USERNAME/USERNAME.github.io
+    target_branch: master
+    skip_cleanup: true
+    github_token: $GITHUB_TOKEN
+    local_dir: output
+    on:
+      branch: master
+
+For Project Pages, the following is sample config:
+
+.. code-block:: yaml
+
+  deploy:
+    provider: pages
+    skip_cleanup: true
+    github_token: $GITHUB_TOKEN
+    local_dir: output
+    on:
+      branch: master
+
+
 Daily Development
 -----------------
 
@@ -87,10 +121,8 @@ Daily Development
 
     # start edit and develope
     $ cd ~/dev/userpages/
-    # If something changes, re-generate the website:
-    $ make html
-    # start dev server
-    $ make serve
+    # re-generate the website and start dev server
+    $ make
     # open your browser and preview the website at http://localhost:8000/
 
 
@@ -176,4 +208,8 @@ Image Hover:
 .. _pip: https://pypi.python.org/pypi/pip
 .. _i18n_subsites: https://github.com/getpelican/pelican-plugins/tree/master/i18n_subsites
 .. _normalize.css: https://necolas.github.io/normalize.css/
+.. _Travis CI: https://travis-ci.org/
+.. _GitHub Pages Deployment - Travis CI: https://docs.travis-ci.com/user/deployment/pages/
+.. _personal access token: https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token
+.. _repository settings: https://docs.travis-ci.com/user/environment-variables#defining-variables-in-repository-settings
 .. _UNLICENSE: https://unlicense.org/
