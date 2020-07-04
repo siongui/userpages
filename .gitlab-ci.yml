@@ -3,10 +3,12 @@ image: ubuntu:latest
 pages:
   stage: deploy
   script:
-  - apt install python3-pip
-  - apt install language-pack-en
-  - apt install language-pack-zh-hant
-  - apt install language-pack-th
+  # https://stackoverflow.com/a/58072486
+  - apt-get update
+  - apt-get install -y python3-pip
+  - apt-get install -y language-pack-en
+  - apt-get install -y language-pack-zh-hant
+  - apt-get install -y language-pack-th
   - pip3 install -r requirements.txt
   - make download
   - make gitlab-pages
