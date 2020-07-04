@@ -1,3 +1,5 @@
+# https://hub.docker.com/_/ubuntu
+# The ubuntu:latest tag points to the "latest LTS"
 image: ubuntu:latest
 
 pages:
@@ -12,6 +14,7 @@ pages:
   - pip3 install -r requirements.txt
   - apt-get install -y wget
   - make download
+  - apt-get install -y python-is-python3
   - make gitlab-pages
   artifacts:
     paths:
