@@ -10,6 +10,7 @@ pages:
   - apt-get install -y language-pack-zh-hant
   - apt-get install -y language-pack-th
   - pip3 install -r requirements.txt
+  - apt-get install -y wget
   - make download
   - make gitlab-pages
   artifacts:
