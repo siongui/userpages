@@ -15,7 +15,8 @@ pages:
   - apt-get install -y wget
   - make download
   - apt-get install -y python-is-python3
-  - make gitlab-pages
+  - make publish
+  - mv output/ public/
   artifacts:
     paths:
     - public/
