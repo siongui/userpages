@@ -17,6 +17,7 @@ pages:
   - apt-get install -y python-is-python3
   - make publish
   - mv output/ public/
+  - echo -e "User-agent: *\nDisallow: /" > public/robots.txt
   artifacts:
     paths:
     - public/
