@@ -82,6 +82,9 @@ endif
 publish: scss
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
+gitlab-pages: scss
+	$(PELICAN) $(INPUTDIR) -o $(BASEDIR)/public -s $(PUBLISHCONF) $(PELICANOPTS)
+
 scss:
 	[ -d $(CSSDIR) ] || mkdir -p $(CSSDIR)
 	$(PY) -mscss < $(SCSSDIR)/style.scss -I $(SCSSDIR) -o $(CSSDIR)/style.css

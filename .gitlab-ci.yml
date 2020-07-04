@@ -1,0 +1,17 @@
+image: ubuntu:latest
+
+pages:
+  stage: deploy
+  script:
+  - apt install python3-pip
+  - apt install language-pack-en
+  - apt install language-pack-zh-hant
+  - apt install language-pack-th
+  - pip3 install -r requirements.txt
+  - make download
+  - make gitlab-pages
+  artifacts:
+    paths:
+    - public/
+  only:
+  - master
