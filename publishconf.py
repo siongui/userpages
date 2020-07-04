@@ -10,7 +10,8 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://siongui.github.io'
+#SITEURL = 'https://siongui.github.io'
+#SITEURL = 'https://siongui.gitlab.io'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = None

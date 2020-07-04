@@ -5,6 +5,9 @@ How to Develope
 .. image:: https://travis-ci.org/siongui/userpages.png?branch=master
     :target: https://travis-ci.org/siongui/userpages
 
+.. image:: https://gitlab.com/siongui/userpages/badges/master/pipeline.svg
+    :target: https://gitlab.com/siongui/userpages/-/commits/master
+
 .. See how to add travis ci image from https://raw.githubusercontent.com/demizer/go-rst/master/README.rst
    https://github.com/demizer/go-rst/commit/9651ab7b5acc997ea2751845af9f2d6efee825df
 
