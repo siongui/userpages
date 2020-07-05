@@ -148,7 +148,10 @@ See `.gitlab-ci.yml <.gitlab-ci.yml>`_.
 2. Need to update Ubuntu first to install Ubuntu packages.
    See `this SO answer <https://stackoverflow.com/a/58072486>`__.
 
-3. `Travis CI`_ can deploy to another repository, but `GitLab CI/CD`_ cannot.
+3. `Travis CI`_ can deploy to any repository, but need `personal access token`_
+   to do so.
+   `GitLab CI/CD`_ can deploy to the repository where CI/CD runs without
+   credentials.
 
 
 UNLICENSE
@@ -161,73 +164,20 @@ Please see UNLICENSE_.
 References
 ----------
 
-`GitHub Pages Deployment - Travis CI <https://docs.travis-ci.com/user/deployment/pages/>`_
+.. [1] `pelican-edit-url <https://github.com/pmclanahan/pelican-edit-url>`_
+       inspires the *Edit on Github* link.
 
-`python - Upgrading all packages with pip - Stack Overflow <http://stackoverflow.com/questions/2720014/upgrading-all-packages-with-pip>`_
+.. [2] | JINJA_FILTERS in `Settings — Pelican documentation <http://docs.getpelican.com/en/latest/settings.html>`_
+       | `Jinja custom filters documentation <http://jinja.pocoo.org/docs/dev/api/#custom-filters>`_
 
-`How do I add locale to ubuntu server? - Ask Ubuntu <http://askubuntu.com/questions/76013/how-do-i-add-locale-to-ubuntu-server>`_
-
-`Web Fundamentals | Web Fundamentals - Google Developers <https://developers.google.com/web/fundamentals/>`_
-
-`Online reStructuredText editor <http://rst.ninjs.org/>`_
-
-edit on Github link:
-
-  `pelican-edit-url <https://github.com/pmclanahan/pelican-edit-url>`_
-
-reStructuredText:
-
-  `reStructuredText Markup Specification <http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html>`_
-
-  `reStructuredText简明教程 <http://jwch.sdut.edu.cn/book/rst.html>`_
-
-  `轻量级标记语言 <http://www.worldhello.net/gotgithub/appendix/markups.html>`_
-
-  `reStructuredText 简明教程 <http://wstudio.web.fc2.com/others/restructuredtext.html>`_
-
-  rst2html:
-
-    `How can I get rst2html.py to include the CSS for syntax highlighting? <http://stackoverflow.com/questions/9807604/how-can-i-get-rst2html-py-to-include-the-css-for-syntax-highlighting>`_
-
-    `Hottest 'rst2html.py' Answers - Stack Overflow <http://stackoverflow.com/tags/rst2html.py/hot>`_
-
-    `html4css1.css <http://sourceforge.net/p/docutils/code/HEAD/tree/trunk/docutils/docutils/writers/html4css1/html4css1.css>`_
-
-    rst2html stylesheet:
-
-      `Writing HTML (CSS) Stylesheets for Docutils <http://docutils.sourceforge.net/docs/howto/html-stylesheets.html>`_
-
-    rst2html css:
-
-      `Documentation: Create GitHub like styled html doc file with rst2html <https://gist.github.com/vergissberlin/6422a0fe146c8fc04d7f>`_
-
-      `marianoguerra/rst2html5 <https://github.com/marianoguerra/rst2html5>`_
-
-      `How to render reStructuredText documents with latest docutils on Ubuntu 12.04 LTS <http://www.van-tomas.de/blog/restructuredtext-docutils-ubuntu-12-04-lts/>`_
-
-      `[rsST] 修改 rst2html highlight style <http://blog.float.tw/2013/07/rst2html-change-highlight-style.html>`_
-
-      `Docutils使用方式 <http://www.openfoundry.org/tw/download/doc_download/417-docutils-teachingdoc>`_ (`Google cache <http://www.openfoundry.org/tw/download/doc_download/417-docutils-teachingdoc>`__)
-
-  restructuredtext center text:
-
-    `Best way to align center a paragraph with RestructuredText? <http://stackoverflow.com/questions/14819093/best-way-to-align-center-a-paragraph-with-restructuredtext>`_
-
-Image Hover:
-
-  `iHover <http://gudh.github.io/ihover/dist/>`_ (`src <https://github.com/gudh/ihover>`_)
-
-  `bootstrap image hover overlay with icon <http://stackoverflow.com/questions/26823237/bootstrap-image-hover-overlay-with-icon>`_
-
-`Javascript 操作 DOM 常用 API 总结 <http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=401146290&idx=1&sn=0725c11a35bdedf7a8bf9059028e18b2&scene=21#wechat_redirect>`_
-
-`Chorme 35个开发者工具的小技巧 - WEB前端 - 伯乐在线 <http://web.jobbole.com/84913/>`_
-
-`HTML head 头标签 - WEB前端 - 伯乐在线 <http://web.jobbole.com/85173/>`_
+.. [3] | Home Screen Icon on Android/iPhone & PWA support
+       | `website icon on android home screen - Google search <https://www.google.com/search?q=website+icon+on+android+home+screen>`_
+       | `Tutorial: Home Screen Icons | Responsive Web Design Training Tutorial | Webucator <https://www.webucator.com/tutorial/developing-mobile-websites/home-screen-icons.cfm>`_
+       | `pwa manifest - Google search <https://www.google.com/search?q=pwa+manifest>`_
+       | `WebPageTest - Website Performance and Optimization Test <https://www.webpagetest.org/>`_
 
 
-
-.. _Pelican: http://getpelican.com/
+.. _Pelican: https://blog.getpelican.com/
 .. _Ubuntu 20.04: http://releases.ubuntu.com/20.04/
 .. _git: https://git-scm.com/
 .. _pip: https://pypi.python.org/pypi/pip
