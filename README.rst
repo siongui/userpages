@@ -2,7 +2,7 @@
 How to Develope
 ===============
 
-.. image:: https://travis-ci.org/siongui/userpages.png?branch=master
+.. image:: https://travis-ci.org/siongui/userpages.svg?branch=master
     :target: https://travis-ci.org/siongui/userpages
 
 .. image:: https://gitlab.com/siongui/userpages/badges/master/pipeline.svg
@@ -19,12 +19,20 @@ Development Environment: `Ubuntu 20.04`_
 First-time Setup
 ----------------
 
-1. Install git_ and pip_:
+1. On a fresh/clean installation of Ubuntu, update system first. Otherwise will
+   get unable to locate package error.
+   See `this SO answer <https://stackoverflow.com/a/58072486>`_.
 
    .. code-block:: bash
 
-     $ sudo apt install git
-     $ sudo apt install python3-pip
+     $ sudo apt-get update
+
+2. Install git_ and pip_:
+
+   .. code-block:: bash
+
+     $ sudo apt-get install git
+     $ sudo apt-get install python3-pip
 
    From the `answer in Ask Ubuntu <https://askubuntu.com/a/1031733>`_,
    we can use python-is-python3 and prevent Python 2 from being installed
@@ -32,22 +40,22 @@ First-time Setup
 
    .. code-block:: bash
 
-     $ sudo apt install python-is-python3
+     $ sudo apt-get install python-is-python3
      $ sudo apt-mark hold python2 python2-minimal python2.7 python2.7-minimal libpython2-stdlib libpython2.7-minimal libpython2.7-stdlib
 
-2. Install language packages to add locale (English, Traditional Chinese, and
+3. Install language packages to add locale (English, Traditional Chinese, and
    Thai):
 
    .. code-block:: bash
 
-     $ sudo apt install language-pack-en
-     $ sudo apt install language-pack-zh-hant
-     $ sudo apt install language-pack-th
+     $ sudo apt-get install language-pack-en
+     $ sudo apt-get install language-pack-zh-hant
+     $ sudo apt-get install language-pack-th
 
    Or you can install languages in "Settings" -> "Region & Language", which
    installs more related packages such as fonts for languages.
 
-3. git clone source code:
+4. git clone source code:
 
    .. code-block:: bash
 
@@ -58,7 +66,7 @@ First-time Setup
      # or clone with full depth
      $ git clone https://github.com/siongui/userpages.git
 
-4. Install Python tools:
+5. Install Python tools:
 
    .. code-block:: bash
 
@@ -68,14 +76,14 @@ First-time Setup
    Note that in `.travis.yml <.travis.yml>`_, pip is actually pip3 if bionic and
    python 3.8 is set in Travis CI config.
 
-5. Install Pelican `i18n_subsites`_ plugin and download `normalize.css`_:
+6. Install Pelican `i18n_subsites`_ plugin and download `normalize.css`_:
 
    .. code-block:: bash
 
      $ cd ~/dev/userpages/
      $ make download
 
-6. Generate CSS file:
+7. Generate CSS file:
 
    .. code-block:: bash
 
