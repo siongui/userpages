@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Pure CSS Toggle Bulma Responsive Navbar</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.css" integrity="sha256-oSsWW/ca1ll8OVu2t4EKkyb9lmH0Pkd8CXKXnYP4QvA=" crossorigin="anonymous">
+</head>
+<body>
+
+<style>
+  @media screen and (max-width: 1023px) {
+    /* show mavbar-menu on screen less than 1024px */
+    #menu-toggle:checked ~ #paliNavbarMenu { display: block; }
+
+    /* make navbar-burger become cross on screen less than 1024px */
+    #menu-toggle:checked + .navbar-brand > label > span:nth-child(1) { transform: translateY(5px) rotate(45deg); }
+    #menu-toggle:checked + .navbar-brand > label > span:nth-child(2) { opacity: 0; }
+    #menu-toggle:checked + .navbar-brand > label > span:nth-child(3) { transform: translateY(-5px) rotate(-45deg); }
+    /* you can also replace + with ~ in above three rules and get the same result */
+  }
+</style>
+
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <input type="checkbox" id="menu-toggle" class="is-hidden">
+  <div class="navbar-brand">
+    <a class="navbar-item">
+      Pāli Dictionary
+    </a>
+
+    <label for="menu-toggle" class="navbar-burger burger">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </label>
+  </div>
+
+
+  <div id="paliNavbarMenu" class="navbar-menu">
+    <div class="navbar-start">
+      <a class="navbar-item">
+        Canon
+      </a>
+
+      <a class="navbar-item">
+        About
+      </a>
+    </div>
+
+    <div class="navbar-end">
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          Language
+        </a>
+
+        <div class="navbar-dropdown">
+          <a class="navbar-item">
+            English
+          </a>
+          <a class="navbar-item">
+            傳統中文
+          </a>
+          <a class="navbar-item">
+            Tiếng Việt
+          </a>
+          <a class="navbar-item">
+            Français
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<section class="section">Text here will NOT be covered by mobile navbar menu.</section>
+
+</body>
+</html>

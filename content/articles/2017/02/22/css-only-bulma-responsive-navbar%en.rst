@@ -2,7 +2,7 @@ Pure CSS Bulma Responsive Nav Bar (Navigation Bar)
 ##################################################
 
 :date: 2017-02-22T03:46+08:00
-:modified: 2017-04-19T07:04+08:00
+:modified: 2020-07-14T07:25+08:00
 :tags: CSS, Responsive Web Design, toggle, toggleable, html, Pure CSS Toggle,
        Bulma, navbar
 :category: CSS
@@ -12,10 +12,13 @@ Pure CSS Bulma Responsive Nav Bar (Navigation Bar)
 :adsu: yes
 
 
+*[Update]* This post is for earlier version of Bulma such as 0.3.1 or 0.4.0.
+Please see new post [5]_ for new Bulma 0.9.0.
+
 CSS_ only responsive Bulma_ `nav bar`_ (`navigation bar`_) without JavaScript_.
 Toggle mobile menu with CSS only. No JavaScript required.
 
-.. rubric:: `Demo <{filename}/code/css/bulma-responsive-navbar/index.html>`_
+.. rubric:: `Demo <{static}/code/css/bulma-responsive-navbar/index.html>`_
    :class: align-center
 
 I apply the technique of `CSS only menu toggle`_ to the responsive `nav bar`_
@@ -72,7 +75,7 @@ References
        | `CSS 网格布局 - Yahoo search <https://search.yahoo.com/search?p=CSS+%E7%BD%91%E6%A0%BC%E5%B8%83%E5%B1%80>`_
        | `CSS 网格布局 - Baidu search <https://www.baidu.com/s?wd=CSS+%E7%BD%91%E6%A0%BC%E5%B8%83%E5%B1%80>`_
        | `CSS 网格布局 - Yandex search <https://www.yandex.com/search/?text=CSS+%E7%BD%91%E6%A0%BC%E5%B8%83%E5%B1%80>`_
-
+.. [5] `Pure CSS Toggle Bulma Responsive Navbar <{filename}/articles/2020/07/14/css-only-toggle-bulma-responsive-navbar%en.rst>`_
 
 .. _Bulma: http://bulma.io/
 .. _CSS: https://www.google.com/search?q=CSS
