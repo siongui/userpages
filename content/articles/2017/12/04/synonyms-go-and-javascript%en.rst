@@ -2,7 +2,7 @@ Synonyms - Go and JavaScript
 ############################
 
 :date: 2017-12-07T21:47+08:00
-:modified: 2017-12-30T23:40+08:00
+:modified: 2020-07-15T08:48+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, DOM, JavaScript,
        Frontend Programming in Go
 :category: Frontend Programming in Go
@@ -176,6 +176,37 @@ new with Chain Dots
 .. code-block:: go
 
   x := Window.Get("joint").Get("dia").Get("Graph").New()
+
+
+new with option
+===============
+
+**JavaScript**
+
+.. code-block:: javascript
+
+  const ke = new KeyboardEvent("keyup", {keyCode: 13});
+  document.body.dispatchEvent(ke);
+
+
+**GopherJS**
+
+.. code-block:: go
+
+  option := js.Global.Get("Object").New()
+  option.Set("keyCode", 13)
+  ke := js.Global.Get("KeyboardEvent").New("keyup", option)
+  js.Global.Get("document").Get("body").Call("dispatchEvent", ke)
+
+
+**GopherJS + godom**
+
+.. code-block:: go
+
+  option := Window.Get("Object").New()
+  option.Set("keyCode", 13)
+  ke := Window.Get("KeyboardEvent").New("keyup", option)
+  Document.Get("body").Call("dispatchEvent", ke)
 
 .. adsu:: 4
 

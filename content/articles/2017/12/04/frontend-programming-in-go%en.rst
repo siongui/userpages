@@ -2,7 +2,7 @@ Frontend Programming in Go
 ##########################
 
 :date: 2017-12-04T22:06+08:00
-:modified: 2018-10-19T01:50+08:00
+:modified: 2020-07-15T08:43+08:00
 :tags: Go, Golang, GopherJS, Go to JavaScript, Go WebAssembly,
        Frontend Programming in Go
 :category: Frontend Programming in Go
@@ -129,6 +129,7 @@ GopherJS
 - `JavaScript undefined Check in Go`_
 - `Element Position (Scroll Included) in Go`_
 - `Check if Value of HTML Input Text Field is Integer in Go`_
+- `Simulate Enter Key Pressed in Go`_
 
 **Application**:
 
@@ -190,6 +191,12 @@ References:
 .. [9] | `Running Golang on the browser with WebAssembly and TinyGo : golang <https://old.reddit.com/r/golang/comments/fszeix/running_golang_on_the_browser_with_webassembly/>`_
        | `Running Golang on the browser with WebAssembly and TinyGo – Mariano Gappa's Blog <https://marianogappa.github.io/software/2020/04/01/webassembly-tinygo-cheesse/>`_
 
+.. [10] | `Unify GopherJS's \`syscall/js\` and GopherWasm · Issue #899 · gopherjs/gopherjs · GitHub <https://github.com/gopherjs/gopherjs/issues/899>`_
+        | `GitHub - gopherjs/gopherwasm: This package is deprecated. Use syscall/js of GopherJS instead. <https://github.com/gopherjs/gopherwasm>`_
+        | `Add syscall/js by hajimehoshi · Pull Request #908 · gopherjs/gopherjs · GitHub <https://github.com/gopherjs/gopherjs/pull/908>`_
+        | `Build tag to indicate syscall/js support? · Issue #920 · gopherjs/gopherjs · GitHub <https://github.com/gopherjs/gopherjs/issues/920>`_
+        | `syscall/js: support for Go 1.14 changes · Issue #962 · gopherjs/gopherjs · GitHub <https://github.com/gopherjs/gopherjs/issues/962>`_
+
 .. _Go: https://golang.org/
 .. _Golang: https://golang.org/
 .. _official website of Go: https://golang.org/
@@ -241,3 +248,4 @@ References:
 .. _Load and Run Go WebAssembly Module: {filename}/articles/2018/07/30/load-and-run-golang-wasm-code%en.rst
 .. _[Go WebAssembly] Event Binding - addEventListener Example: {filename}/articles/2018/07/30/golang-wasm-addEventListener-event-binding%en.rst
 .. _[Go WebAssembly] XMLHttpRequest (XHR): {filename}/articles/2018/07/30/golang-wasm-xmlhttprequest-xhr%en.rst
+.. _Simulate Enter Key Pressed in Go: {filename}simulate-enter-key-pressed-in-go%en.rst
