@@ -17,11 +17,7 @@
   <meta name="author" content="{% block meta_author -%}{{ AUTHOR }}{%- endblock %}"/>
   {%- if OG_TITLE -%}<meta property="og:title" content="{{ OG_TITLE }}" />{%- endif -%}
   {%- if OG_IMAGE -%}
-    <!-- Use Dhamma wheel for og:image of every page -->
-    <meta property="og:image" content="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/extra/Dharma_wheel.svg" />
-<!--
     <meta property="og:image" content="{{ OG_IMAGE }}" />
--->
   {% else %}
     <meta property="og:image" content="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/extra/Dharma_wheel.svg" />
   {%- endif -%}
