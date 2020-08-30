@@ -2,7 +2,7 @@
 ############################
 
 :date: 2016-02-29T01:39+08:00
-:modified: 2016-12-21T09:13+08:00
+:modified: 2020-08-31T07:01+08:00
 :tags: Linux, apt command, Ubuntu Linux
 :category: Linux
 :summary: 全新安裝Ubuntu Linux注意事項
@@ -10,10 +10,7 @@
 :adsu: yes
 
 
-- 下載 `Ubuntu 16.10 (Yakkety Yak) <http://releases.ubuntu.com/16.10/>`_
-
-  * `MD5SUMS <http://releases.ubuntu.com/16.10/MD5SUMS>`_
-  * `ubuntu-16.10-desktop-amd64.iso <http://releases.ubuntu.com/16.10/ubuntu-16.10-desktop-amd64.iso>`_
+- 下載 `Ubuntu 20.04.1 LTS (Focal Fossa) <https://releases.ubuntu.com/20.04/>`_
 
 - 檢查ISO檔
   (`HowToMD5SUM - Community Help Wiki <https://help.ubuntu.com/community/HowToMD5SUM>`_):
@@ -75,10 +72,7 @@
   * `LINE <https://chrome.google.com/webstore/detail/line/menkifleemblimdogmoihpfopnplikde?hl=en>`_
 
 - `ubuntu chinese input - Google search <https://www.google.com/search?q=ubuntu+chinese+input>`_,
-  `ubuntu 16.10 chinese input - Google search <https://www.google.com/search?q=ubuntu+16.10+chinese+input>`_
-
-  * `Pinyin Joe - Ubuntu 15/14/13/12 Chinese Setup - Fcitx and IBus input methods, fonts, LibreOffice Asian languages <http://www.pinyinjoe.com/linux/ubuntu-12-chinese-setup.htm>`_
-  * `Pinyin Joe - Ubuntu 10 - 15 Chinese input methods: Fcitx and IBus Pinyin, Chewing and more <http://www.pinyinjoe.com/linux/ubuntu-10-chinese-input-pinyin-chewing.htm>`_
+  `[Ubuntu] 在 Ubuntu 18.04 中新增新酷音輸入法 | by MuLong PuYang | Medium <https://medium.com/@racktar7743/ubuntu-%E5%9C%A8-ubuntu-18-04-%E4%B8%AD%E6%96%B0%E5%A2%9E%E6%96%B0%E9%85%B7%E9%9F%B3%E8%BC%B8%E5%85%A5%E6%B3%95-4aa85782f656>`_
 
 - Lenovo筆電使用rtl8821ae無線網路斷線:
   請看 `台灣最佳CP值無作業系統(OS)筆記型電腦 <{filename}../26/best-cp-no-os-notebook-in-taiwan%zh.rst>`_
