@@ -37,7 +37,8 @@ jobs:
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH: gh-pages
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        REPOSITORY_NAME: siongui/siongui.github.io
+        BRANCH: master
         FOLDER: output
         CLEAN: true
