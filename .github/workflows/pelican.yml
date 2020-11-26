@@ -17,6 +17,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Install language packs
+      run: sudo apt-get install language-pack-en language-pack-zh-hant language-pack-th
     - uses: actions/checkout@v2.3.1
       with:
         persist-credentials: false
