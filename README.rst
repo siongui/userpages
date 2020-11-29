@@ -121,8 +121,14 @@ Daily Development
     # open your browser and preview the website at http://localhost:8000/
 
 
-Auto-deploy by `Travis CI`_
----------------------------
+Auto-deploy by GitHub Actions
+-----------------------------
+
+See `workflow file <.github/workflows/pelican.yml>`_
+
+
+Auto-deploy by `Travis CI`_ (Obsoleted)
+---------------------------------------
 
 See `GitHub Pages Deployment - Travis CI`_.
 
