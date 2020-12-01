@@ -1,5 +1,5 @@
-[Pelican] Add Build Timestamp to Website Automatically
-######################################################
+[Pelican] Add Build Timestamp to Pelican Site Automatically
+###########################################################
 
 :date: 2020-11-30T01:52+08:00
 :tags: Pelican, Python

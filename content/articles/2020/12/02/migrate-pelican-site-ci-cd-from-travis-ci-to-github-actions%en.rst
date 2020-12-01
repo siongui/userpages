@@ -9,7 +9,7 @@ Migrate Pelican Site CI/CD From Travis CI to GitHub Actions
 :adsu: yes
 
 
-Build and deploy Pelican site using GitHub Actions instead of Travis CI.
+Build and deploy Pelican_ site using GitHub Actions instead of Travis CI.
 
 My original CI/CD file on Travis CI is:
 
