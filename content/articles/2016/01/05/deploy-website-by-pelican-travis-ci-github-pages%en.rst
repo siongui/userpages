@@ -3,8 +3,8 @@ Deploy Website by Pelican, Travis CI, and GitHub Pages
 
 :date: 2016-01-05T03:53+08:00
 :modified: 2017-05-23T04:25+08:00
-:tags: Continuous Integration, Pelican, GitHub Pages, apt command
-:category: Web Development
+:tags: Continuous Integration, Pelican, GitHub Pages, apt command, Travis CI
+:category: Continuous Integration/Continuous Delivery (CI/CD)
 :summary: Automatic deployment of websites, by Pelican_, `Travis CI`_, and
           `Github Pages`_
 :adsu: yes
