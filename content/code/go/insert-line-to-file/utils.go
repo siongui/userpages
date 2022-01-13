@@ -29,7 +29,7 @@ func InsertStringToFile(path, str string, index int) error {
 		defer f.Close()
 	}
 
-	lines[index] = str + "\n" + lines[index]
+	lines[index] = str + lines[index]
 
 	result := strings.Join(lines, "\n")
 
