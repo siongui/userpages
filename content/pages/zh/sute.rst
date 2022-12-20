@@ -47,11 +47,14 @@
 經歷：
 
 - IBM 台灣,
-  Software Engineer · 2005年11月 to 2010年2月 · 臺灣，臺北
+  Software Engineer · 2005年11月 至 2010年2月 · 臺灣，臺北
+- OPN Thailand,
+  Lead Software Engineer · 2021年11月 至 2022年8月19號 ·  曼谷，泰國
 
 生日： 一九八一年九月二十一日
 
-推薦:
+..
+  推薦:
 
   `巴蓬寺 <http://www.watnongpahpong.org/indexe.php>`_
   (`相簿 <https://picasaweb.google.com/105008812818042996376>`__)

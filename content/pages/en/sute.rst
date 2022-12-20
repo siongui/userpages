@@ -49,10 +49,13 @@ Experience:
 
 - IBM Taiwan,
   Software Engineer · November 2005 to February 2010 · Taipei, Taiwan
+- OPN Thailand,
+  Lead Software Engineer · November 2021 to August 19, 2022 · Bnagkok, Thailand
 
 Birthday: September 21, 1981
 
-Recommended:
+..
+  Recommended:
 
   `Wat Nong Pah Pong <http://www.watnongpahpong.org/indexe.php>`_
   (`Photos <https://picasaweb.google.com/105008812818042996376>`__)

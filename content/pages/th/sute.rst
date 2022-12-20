@@ -48,10 +48,13 @@
 
 - IBM Taiwan,
   Software Engineer · พฤศจิกายน 2548 ถึง ก.พ. 2553 · ไทเป, ไต้หวัน
+- OPN Thailand,
+  Lead Software Engineer · พฤศจิกายน 2564 ถึง 19 สิงหาคม 2565 · กรุงเทพมหานคร ประเทศไทย
 
 วันเกิด: ๒๑ กันยายน ๒๕๒๔
 
-แนะนำ:
+..
+  แนะนำ:
 
   `วัดหนองป่าพง <http://www.watnongpahpong.org/>`_
   (`อัลบั้ม <https://picasaweb.google.com/105008812818042996376>`__)
