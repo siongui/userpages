@@ -25,6 +25,7 @@
 
   - `After the Pāṭimokkha <https://www.dhammatalks.org/books/ChantingGuide/Section0076.html>`_
   - `Sabba-buddhānubhāvena <https://www.dhammatalks.org/books/ChantingGuide/Section0085.html>`_
+  - `Declaration for a Gift to the Bhikkhu Saṅgha <https://www.dhammatalks.org/books/ChantingGuide/Section0070.html#sigil_toc_id_45>`_
 - `Pāli chanting resources and dhammatalk books <https://github.com/siongui/7rsk9vjkm4p8z5xrdtqc>`_
 
 ----
