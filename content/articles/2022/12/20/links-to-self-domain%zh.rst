@@ -17,6 +17,7 @@
 - `達真堪布 <https://siongui.github.io/khenpo-tamgrin-rinpoche/>`_
 - `Ajahn Jayasāro <https://siongui.github.io/ajahn-jayasaaro/>`_
 - `Ajahn Suchart Abhijāto <https://siongui.github.io/ajahn-suchart/>`_
+- `轉錄 覺醒之翼——上座部佛教文獻選譯集 <https://siongui.github.io/theravadacn/>`_
 
 ----
 
@@ -32,5 +33,4 @@
 
 - `Splendid Moons - uposatha moonday calendar <https://splendidmoons.github.io/>`_
 - `Bhikkhu Manual <https://bhikkhu-manual.github.io/>`_
-- `覺醒之翼——上座部佛教文獻選譯集 <http://www.theravadacn.org/DhammaIndex2.htm>`_
-  (`another 覺醒之翼——上座部佛教文獻選譯集 <http://theravadacn.com/DhammaIndex2.htm>`_)
+- `The Buddhist Monastic Code <https://www.dhammatalks.org/vinaya/bmc/Section0001.html>`_
