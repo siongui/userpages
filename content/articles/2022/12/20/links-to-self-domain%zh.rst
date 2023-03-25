@@ -24,6 +24,7 @@
 - `Pali Chanting Collection 巴利唸誦整理 <https://siongui.github.io/pali-chanting/zh/collection/>`_
   (`Pāli Chanting <https://siongui.github.io/pali-chanting/>`_)
 
+  - `Bhikkhu Pāṭimokkha <https://siongui.github.io/pali-chanting/bhikkhu-patimokkha/>`_
   - `After the Pāṭimokkha <https://www.dhammatalks.org/books/ChantingGuide/Section0076.html>`_
   - `Sabba-buddhānubhāvena <https://www.dhammatalks.org/books/ChantingGuide/Section0085.html>`_
   - `Declaration for a Gift to the Bhikkhu Saṅgha <https://www.dhammatalks.org/books/ChantingGuide/Section0070.html#sigil_toc_id_45>`_
