@@ -2,6 +2,7 @@
 ########
 
 :date: 2022-12-20T22:24+07:00
+:modified: 2023-04-16T22:02+07:00
 :tags: 轉錄
 :category: 轉錄
 :summary: 本站連結，外加一些雜連結。
@@ -25,7 +26,7 @@
   (`Pāli Chanting <https://siongui.github.io/pali-chanting/>`_)
 
   - `Bhikkhu Pāṭimokkha <https://siongui.github.io/pali-chanting/bhikkhu-patimokkha/>`_
-  - `After the Pāṭimokkha <https://www.dhammatalks.org/books/ChantingGuide/Section0076.html>`_
+  - `After the Pāṭimokkha <https://siongui.github.io/pali-chanting/after-the-patimokkha/>`_
   - `Sabba-buddhānubhāvena <https://www.dhammatalks.org/books/ChantingGuide/Section0085.html>`_
   - `Declaration for a Gift to the Bhikkhu Saṅgha <https://www.dhammatalks.org/books/ChantingGuide/Section0070.html#sigil_toc_id_45>`_
 - `Pāli chanting resources and dhammatalk books <https://github.com/siongui/7rsk9vjkm4p8z5xrdtqc>`_
