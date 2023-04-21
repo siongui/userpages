@@ -3,7 +3,7 @@
 
 :date: 2010-01-21
 :author: 慧律法師
-:tags: 轉錄, 佛弟子文庫, 慧律法師
+:tags: 廣欽老和尚, 承天禪寺, 轉錄, 佛弟子文庫, 慧律法師
 :category: 轉錄
 :summary: 「不要講別人用冷飯給你吃，你要說你沒有福報吃熱飯。」
 :og_image: http://m.fodizi.tw/uploadfile/202304/16/1839388873.jpg
