@@ -2,7 +2,7 @@ Update Modification Time According to EXIF Data
 ###############################################
 
 :date: 2021-12-31T00:28+08:00
-:modified: 2022-01-02T22:51+08:00
+:modified: 2023-04-26T11:55+07:00
 :tags: find command, Bash, Commandline, EXIF
 :category: Bash
 :summary: Update modification time of photo/video according to EXIF data using
@@ -36,6 +36,12 @@ Update modification time according to EXIF data.
 
   $ find . -type f -iregex '.*\.\(jpg\|gif\|png\|jpeg\|mov\|mp4\|heic\)$' | xargs -I {} exiftool "-DateTimeOriginal>FileModifyDate" {}
 
+Update modification time according to creation date (for iPhone MOV file). [5]_
+
+.. code-block:: bash
+
+  $ find . -type f -iregex '.*\.\(jpg\|gif\|png\|jpeg\|mov\|mp4\|heic\)$' | xargs -I {} exiftool "-CreationDate>FileModifyDate" {}
+
 ----
 
 Instead of *exiftool*, you can also use *jhead* to update mtime.
@@ -58,3 +64,4 @@ References:
 .. [2] `regular expression - How to use find command to search for multiple extensions - Unix & Linux Stack Exchange <https://unix.stackexchange.com/questions/15308/how-to-use-find-command-to-search-for-multiple-extensions>`_
 .. [3] `Is there a free program to (batch) change photo file's date to match EXIF? - Photography Stack Exchange <https://photo.stackexchange.com/questions/27245/is-there-a-free-program-to-batch-change-photo-files-date-to-match-exif>`_
 .. [4] `timestamp - How can I change the date modified/created of a file? - Ask Ubuntu <https://askubuntu.com/questions/62492/how-can-i-change-the-date-modified-created-of-a-file>`_
+.. [5] `Getting metadata for MOV video - Stack Overflow <https://stackoverflow.com/questions/21355316/getting-metadata-for-mov-video>`_
