@@ -30,7 +30,7 @@ CSS only toggle Bulma_ modal_. Click the following button to see demo.
 
   <!-- Modal -->
   <div class="modal" id="myModal">
-    <div class="modal-background"></div>
+    <label for="element-toggle" class="modal-background"></label>
     <div class="modal-content">
       <p class="image is-4by3">
         <img src="https://bulma.io/images/placeholders/1280x960.png" alt="image modal">
@@ -57,7 +57,7 @@ The following is the source code for above demo.
 
   <!-- Modal -->
   <div class="modal" id="myModal">
-    <div class="modal-background"></div>
+    <label for="element-toggle" class="modal-background"></label>
     <div class="modal-content">
       <p class="image is-4by3">
         <img src="https://bulma.io/images/placeholders/1280x960.png" alt="image modal">
