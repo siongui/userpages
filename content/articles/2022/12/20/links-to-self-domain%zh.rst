@@ -2,7 +2,7 @@
 ########
 
 :date: 2022-12-20T22:24+07:00
-:modified: 2023-04-16T22:02+07:00
+:modified: 2023-09-26T20:49+07:00
 :tags: 轉錄
 :category: 轉錄
 :summary: 本站連結，外加一些雜連結。
@@ -36,3 +36,13 @@
 - `Splendid Moons - uposatha moonday calendar <https://splendidmoons.github.io/>`_
 - `Bhikkhu Manual <https://bhikkhu-manual.github.io/>`_
 - `The Buddhist Monastic Code <https://www.dhammatalks.org/vinaya/bmc/Section0001.html>`_
+  (`漢譯：佛教修道準則 <https://siongui.github.io/vinaya-bmc-zh/>`_)
+
+----
+
+參考：
+
+- `法鼓全集 數位隨身版 <http://old.ddc.shengyen.org/mobile/>`_
+- `佛弟子文庫 <http://m.fodizi.tw/>`_
+- `明一法師：《與祖師同行》文摘11 - 念覺學佛網 <https://nianjue.org/article/5/54008.html>`_
+- `見賢思齊（一名廣化律師弘法故事集） <https://book.bfnn.org/books2/1868.htm>`_
