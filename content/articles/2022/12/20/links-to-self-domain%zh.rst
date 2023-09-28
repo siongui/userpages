@@ -2,7 +2,7 @@
 ########
 
 :date: 2022-12-20T22:24+07:00
-:modified: 2023-09-27T19:50+07:00
+:modified: 2023-09-28T23:02+07:00
 :tags: 轉錄
 :category: 轉錄
 :summary: 本站連結，外加一些雜連結。
@@ -38,17 +38,9 @@
 - `每日天文現象| 交通部中央氣象署 <https://www.cwa.gov.tw/V8/C/K/astronomy_day.html>`_
 - `Bhikkhu Manual <https://bhikkhu-manual.github.io/>`_
 - `The Buddhist Monastic Code <https://www.dhammatalks.org/vinaya/bmc/Section0001.html>`_
-
-- 比庫巴帝摩卡 瑪欣德尊者 編譯
-
-  * `(PDF 簡體) MHD 04 比库巴帝摩卡 Chinese - Bhikkhupatimokkha - PAMC 08-2018 <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/patimokkha/MHD%2004%20%E6%AF%94%E5%BA%93%E5%B7%B4%E5%B8%9D%E6%91%A9%E5%8D%A1%20Chinese%20-%20Bhikkhupatimokkha%20-%20PAMC%2008-2018.pdf>`__
-  * `(PDF 簡體) <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/patimokkha/Bhikkhu_Mahinda-Patimokkha-hans.pdf>`__
-  * `(PDF 傳統中文) 巴利三藏譯叢 1 <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/patimokkha/Bhikkhu_Mahinda-Patimokkha-2009-hant.pdf>`__
-
-- 沙馬内拉學處 瑪欣德尊者 編譯
-
-  * `(PDF 簡體) MHD 05 沙马内勒学处 Chinese - Samanera sikkhapadani - PAMC 08-2018 <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/samanera-sikkha/MHD%2005%20%E6%B2%99%E9%A9%AC%E5%86%85%E5%8B%92%E5%AD%A6%E5%A4%84%20Chinese%20-%20Samanera%20sikkhapadani%20-%20PAMC%2008-2018-pdf.pdf>`__
-  * `(PDF 傳統中文) <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/samanera-sikkha/%E6%B2%99%E9%A6%AC%E5%86%85%E6%8B%89%E5%AD%B8%E8%99%95.pdf>`__
+- `上座部比丘戒經與註釋 <https://github.com/siongui/7rsk9vjkm4p8z5xrdtqc#%E4%B8%8A%E5%BA%A7%E9%83%A8%E6%AF%94%E4%B8%98%E6%88%92%E7%B6%93%E8%88%87%E8%A8%BB%E9%87%8B>`_
+- `比庫巴帝摩卡 瑪欣德尊者 <https://github.com/siongui/7rsk9vjkm4p8z5xrdtqc#%E6%AF%94%E5%BA%AB%E5%B7%B4%E5%B8%9D%E6%91%A9%E5%8D%A1-%E7%91%AA%E6%AC%A3%E5%BE%B7%E5%B0%8A%E8%80%85>`_
+- `沙馬内拉學處 瑪欣德尊者 <https://github.com/siongui/7rsk9vjkm4p8z5xrdtqc#%E6%B2%99%E9%A6%AC%E5%86%85%E6%8B%89%E5%AD%B8%E8%99%95-%E7%91%AA%E6%AC%A3%E5%BE%B7%E5%B0%8A%E8%80%85>`_
 
 ----
 
