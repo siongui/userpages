@@ -42,7 +42,7 @@ The following is the implementation of above idea.
   	}
 
   	for _, item := range a {
-  		if _, ok := m[item]; !ok {
+  		if _, ok := m[item]; !ok || len(m) == 0 {
   			diff = append(diff, item)
   		}
   	}
