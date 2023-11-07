@@ -7,7 +7,7 @@
 :status: hidden
 
 
-**戴上為** (**Siong-Ui Te**, **ฉ่ง-หวี**)
+**戴上為** (**Siong-Ui Te**, **ฉ่ง-หวี**, **忍法比丘**)
 
 出身: `高雄 <http://zh.wikipedia.org/zh-tw/%E9%AB%98%E9%9B%84>`_,
 `臺灣 <http://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3>`_
@@ -18,10 +18,10 @@
 `Stack Overflow <http://stackoverflow.com/users/2350927/siongui>`_
 
 網站:
-`巴利三藏 <http://epalitipitaka.appspot.com/>`_
-(`論壇 <https://groups.google.com/d/forum/palidictpk>`_) /
-`巴利字典 <https://siongui.github.io/pali-dictionary/>`_
-(`論壇 <https://groups.google.com/d/forum/palidictpk>`_)
+`巴利三藏 <https://tipitaka.sutta.org/>`_
+`巴利字典 <https://dictionary.sutta.org/>`_
+
+.. (`論壇 <https://groups.google.com/d/forum/palidictpk>`_)
 
 .. code-block:: go
 
@@ -76,10 +76,7 @@
   `Wat Marp Jan Forest Monastery, Rayong, Thailand. <http://www.watmarpjan.org/en/>`_
 
 統計:
-`GitHub 履歷表 <http://resume.github.io/?siongui>`_ /
-`開放原始碼報告卡 <http://osrc.dfm.io/siongui>`_ /
-`Github 視覺化 <http://artzub.com/ghv/#user=siongui>`_ /
-`GitHub 獎 <http://github-awards.com/users/siongui>`_
+`GitHub 履歷表 <http://resume.github.io/?siongui>`_
 
 .. _國立臺灣大學電機工程學系: https://www.ee.ntu.edu.tw/
 .. _國立臺灣大學電機工程學研究所: http://graduate.ee.ntu.edu.tw/

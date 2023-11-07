@@ -7,7 +7,7 @@
 :status: hidden
 
 
-**Siong-Ui Te** (**戴上為**, **ฉ่ง-หวี**)
+**Siong-Ui Te** (**戴上為**, **ฉ่ง-หวี**, **Khantidhammo Bhikkhu**)
 
 Location: `Kaohsiung <http://en.wikipedia.org/wiki/Kaohsiung>`_,
 `Taiwan <http://en.wikipedia.org/wiki/Taiwan>`_
@@ -18,10 +18,10 @@ Profiles:
 `Stack Overflow <http://stackoverflow.com/users/2350927/siongui>`_
 
 Websites:
-`Pāḷi Tipiṭaka <http://epalitipitaka.appspot.com/>`_
-(`forum <https://groups.google.com/d/forum/palidictpk>`_) /
-`Pāḷi Dictionary <https://siongui.github.io/pali-dictionary/>`_
-(`forum <https://groups.google.com/d/forum/palidictpk>`_)
+`Pāḷi Tipiṭaka <https://tipitaka.sutta.org/>`_ /
+`Pāḷi Dictionary <https://dictionary.sutta.org/>`_
+
+.. (`forum <https://groups.google.com/d/forum/palidictpk>`_)
 
 .. code-block:: go
 
@@ -79,10 +79,7 @@ Birthday: September 21, 1981
   `Wat Marp Jan Forest Monastery, Rayong, Thailand. <http://www.watmarpjan.org/en/>`_
 
 Statistics:
-`GitHub Résumé <http://resume.github.io/?siongui>`_ /
-`Open Source Report Card <http://osrc.dfm.io/siongui>`_ /
-`Github Visualizer <http://artzub.com/ghv/#user=siongui>`_ /
-`GitHub Awards <http://github-awards.com/users/siongui>`_
+`GitHub Résumé <http://resume.github.io/?siongui>`_
 
 .. _National Taiwan University: http://www.ntu.edu.tw/english/
 .. _Electrical Engineering: https://www.ee.ntu.edu.tw/en/

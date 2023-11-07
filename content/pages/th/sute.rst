@@ -7,7 +7,7 @@
 :status: hidden
 
 
-**ฉ่ง-หวี** (**戴上為**, **Siong-Ui Te**)
+**ฉ่ง-หวี** (**戴上為**, **Siong-Ui Te**, **ขนฺติธมฺโม ภิกฺขุ**)
 
 มาจาก: `เกาสฺยง <https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%AA%E0%B8%BA%E0%B8%A2%E0%B8%87>`_,
 `ไต้หวัน <https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%95%E0%B9%89%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%99>`_
@@ -18,10 +18,10 @@
 `Stack Overflow <http://stackoverflow.com/users/2350927/siongui>`_
 
 เว็บไซต์:
-`พระไตรปิฎกภาษาบาลี <http://epalitipitaka.appspot.com/>`_
-(`ฟอรั่ม <https://groups.google.com/d/forum/palidictpk>`_) /
-`พจนานุกรมภาษาบาลี <https://siongui.github.io/pali-dictionary/>`_
-(`ฟอรั่ม <https://groups.google.com/d/forum/palidictpk>`_)
+`พระไตรปิฎกภาษาบาลี <https://tipitaka.sutta.org/>`_
+`พจนานุกรมภาษาบาลี <https://dictionary.sutta.org/>`_
+
+.. (`ฟอรั่ม <https://groups.google.com/d/forum/palidictpk>`_)
 
 .. code-block:: go
 
@@ -71,10 +71,7 @@
   `Watmarpjan - วัดมาบจันทร์ (วัดสุภัททะบรรพต) จ.ระยอง <http://www.watmarpjan.org/index.php>`_
 
 สถิติ:
-`GitHub Résumé <http://resume.github.io/?siongui>`_ /
-`Open Source Report Card <http://osrc.dfm.io/siongui>`_ /
-`Github Visualizer <http://artzub.com/ghv/#user=siongui>`_ /
-`GitHub Awards <http://github-awards.com/users/siongui>`_
+`GitHub Résumé <http://resume.github.io/?siongui>`_
 
 .. _มหาวิทยาลัยแห่งชาติไต้หวัน: https://th.wikipedia.org/wiki/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B9%84%E0%B8%95%E0%B9%89%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%99
 .. _วิศวกรรมไฟฟ้า: https://www.ee.ntu.edu.tw/en/
