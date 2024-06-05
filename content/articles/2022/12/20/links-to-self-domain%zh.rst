@@ -2,7 +2,7 @@
 ########
 
 :date: 2022-12-20T22:24+07:00
-:modified: 2023-10-01T21:06+07:00
+:modified: 2024-06-05T19:19+07:00
 :tags: 轉錄
 :category: 轉錄
 :summary: 本站連結，外加一些雜連結。
@@ -28,6 +28,14 @@
 
   - `Bhikkhu Pāṭimokkha <https://siongui.github.io/pali-chanting/bhikkhu-patimokkha/>`_
   - `After the Pāṭimokkha <https://siongui.github.io/pali-chanting/after-the-patimokkha/>`_
+
+- `Chanting Guide - dhammatalks.org <https://www.dhammatalks.org/books/ChantingGuide/Section0000.html>`_ (`法宗派`_)
+
+  - `Mahā-kāruṇiko nātho <https://www.dhammatalks.org/books/ChantingGuide/Section0019.html#sigil_toc_id_23>`_
+  - `Ratanasuttaṁ - The Discourse on the Treasures <https://ancient-buddhist-texts.net/Texts-and-Translations/Blessing-Chants/03-Ratana.htm>`_
   - `Sabba-buddhānubhāvena <https://www.dhammatalks.org/books/ChantingGuide/Section0085.html>`_
   - `Declaration for a Gift to the Bhikkhu Saṅgha <https://www.dhammatalks.org/books/ChantingGuide/Section0070.html#sigil_toc_id_45>`_
+
 - `Pāli chanting resources and dhammatalk books <https://github.com/siongui/7rsk9vjkm4p8z5xrdtqc>`_
+
+.. _法宗派: https://zh.wikipedia.org/wiki/%E6%B3%95%E7%9B%B8%E5%BA%94%E6%B4%BE
