@@ -50,7 +50,7 @@ Experience:
 - IBM Taiwan,
   Software Engineer · November 2005 to February 2010 · Taipei, Taiwan
 - OPN Thailand,
-  Lead Software Engineer · November 2021 to August 19, 2022 · Bnagkok, Thailand
+  Lead Software Engineer · November 2021 to August 19, 2022 · Bangkok, Thailand
 
 Birthday: September 21, 1981
 
