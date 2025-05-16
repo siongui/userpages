@@ -19,7 +19,7 @@
 - `Ajahn Jayasāro <https://siongui.github.io/ajahn-jayasaaro/>`_
 - `Ajahn Suchart Abhijāto <https://siongui.github.io/ajahn-suchart/>`_
 - `轉錄 覺醒之翼——上座部佛教文獻選譯集 <https://siongui.github.io/theravadacn/>`_
-- `漢譯 佛教修道準則 <https://siongui.github.io/vinaya-bmc-zh/>`_
+- `漢譯 佛教比丘戒律 <https://siongui.github.io/vinaya-bmc-zh/>`_
 
 ----
 
